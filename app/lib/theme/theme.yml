@@ -1,0 +1,17 @@
+attrs:
+    figure:
+        background_fill_color: '#228B22'
+        background_fill_alpha: 0.05
+    Axis:
+        axis_label_text_font: 'Georgia'
+        major_label_text_font: 'Georgia'
+    Title:
+        text_font_style: 'bold'
+        text_font : 'Georgia'
+        text_font : 'Georgia'
+        text_font_size: 18px
+    Legend:
+        label_text_font: 'Georgia'
+        padding: 1
+        spacing: 1
+        background_fill_alpha: 0.7
