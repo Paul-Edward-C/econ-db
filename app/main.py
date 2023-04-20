@@ -360,7 +360,6 @@ def link_callback():
     
     add_button.on_click(handler=add_button_callback)
     download_button.js_on_click(CustomJS(args={"datatable": data_table}, code=open(setting.download_button_path).read()))
-    show_button.on_click(handler=show_mapping_callback)
     index_toggle.on_click(handler=index_toggle_callback)
 
 # =========MAIN CODE========
@@ -392,10 +391,32 @@ elif freq_select.value[-1] == "A":
 default_column = f"{tool.get_column_by_selects(country_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select)}_{country_select.value}"
 default_data_setting_object = tool.create_data_setting_object(data_setting, default_column)
 
-add_button = Button(label="Add", width=setting.button_width, icon=TablerIcon('circle-plus', size="1.2em"), button_type='primary', stylesheets=[setting.button_stylesheet])
-download_button = Button(label='Download', width=setting.button_width, icon=TablerIcon('download', size="1.2em"), button_type='primary', stylesheets=[setting.button_stylesheet])
-show_button = Button(label="Show", width=setting.button_width)
-index_toggle = Toggle(label="Index", width=setting.button_width, icon=TablerIcon('arrows-exchange-2', size="1.2em"), button_type='primary', stylesheets=[setting.button_stylesheet])
+add_button = Button(label="Add",
+                    width=setting.button_width,
+                    icon=TablerIcon('circle-plus', size="1.2em"),
+                    button_type='primary',
+                    stylesheets=[setting.button_stylesheet],
+                    height_policy="fit",
+                    width_policy="fit"
+                    )
+
+download_button = Button(label='Download',
+                         width=setting.button_width,
+                         icon=TablerIcon('download', size="1.2em"),
+                         button_type='primary',
+                         stylesheets=[setting.button_stylesheet],
+                         height_policy="fit",
+                         width_policy="fit"
+                         )
+
+index_toggle = Toggle(label="Index",
+                      width=setting.button_width,
+                      icon=TablerIcon('arrows-exchange-2', size="1.2em"),
+                      button_type='primary',
+                      stylesheets=[setting.button_stylesheet],
+                      height_policy="fit",
+                      width_policy="fit"
+                      )
 multichoice = MultiChoice(value=[f"{default_data_setting_object['name']}_{country_select.value}"],
                           options=[(f"{default_data_setting_object['name']}_{country_select.value}", default_data_setting_object['display_name'])],
                           width=setting.multichoice_width, stylesheets=[setting.select_stylesheet])
@@ -444,7 +465,7 @@ link_callback()
 # Change the format of the selects
 update_selects_format()
 
-# curdoc().theme = Theme(filename=setting.theme_file_path)
+curdoc().theme = Theme(filename=setting.theme_file_path)
 
 curdoc().add_root(layout)
 curdoc().title = setting.curdoc_name
