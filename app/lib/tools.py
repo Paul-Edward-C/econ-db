@@ -7,11 +7,12 @@
 
 # =========IMPORT PACKAGES==========
 from bokeh.models import Select, ColumnDataSource
-from bokeh.models.css import InlineStyleSheet
 import pandas as pd
 import numpy as np
 from datetime import timedelta as td
 import warnings
+from bokeh.models.css import InlineStyleSheet
+import os
 warnings.filterwarnings(action='ignore')
 
 
@@ -24,6 +25,8 @@ class Tool:
         self.matched_columns = None
         self.setting = Setting()
         self.source_backup = pd.DataFrame()
+        self.data_setting_backup = pd.DataFrame()
+        self.data_setting_backup.index.name = "name"
     
     def create_mapping_dict(self, df, keys, values, result=None, prefix=""):
         if result is None:
@@ -55,62 +58,65 @@ class Tool:
         
         country_select_options = list(structure.keys())
         country_select = Select(value=country_select_options[0], options=country_select_options,
-                                width=self.setting.select_width, title="Country", stylesheets=[self.setting.select_stylesheet])
+                                width=self.setting.select_width, title="Country")
+        # print(f"Country select : {country_select.value}")
         
         category_select_options = list(structure[country_select.value].keys())
         category_select = Select(value=category_select_options[0], options=category_select_options,
-                                 width=self.setting.select_width, title="Category", stylesheets=[self.setting.select_stylesheet])
+                                 width=self.setting.select_width, title="Category")
+        # print(f"Category select : {category_select.value}")
         
         mapping = pd.read_csv(category_structure[category_select.value]["path"])
         mapping = mapping[~mapping[country_select.value].isna()].replace(np.nan, "")
         mapping_dict = self.create_mapping_dict(df=mapping,
                                                 keys=mapping.columns[: category_structure[category_select.value]["length"] - 1],
                                                 values=mapping.columns[category_structure[category_select.value]["length"] - 1])
+        # print(mapping_dict["NGDP QLCUBy expenditure"])
         self.create_matched_columns_and_general_mapping(df=mapping, country=country_select.value, length=category_structure[category_select.value]["length"])
         
         freq_select_options = sorted(mapping[mapping.columns[0]].unique().tolist())
         freq_select = Select(value="NGDP Q", options=freq_select_options,
-                             width=self.setting.select_width, title="Frequency", stylesheets=[self.setting.select_stylesheet])
+                             width=self.setting.select_width, title="Frequency")
+        # print(f"freq select : {freq_select.value}")
         
         unit_select_options = sorted(mapping_dict[freq_select.value])
         unit_select = Select(value="LCU", options=unit_select_options,
-                             width=self.setting.select_width, title="Unit", stylesheets=[self.setting.select_stylesheet])
+                             width=self.setting.select_width, title="Unit")
+        # print(f"Unit select : {unit_select.value}")
         
         type_select_options = sorted(mapping_dict[freq_select.value + unit_select.value])
         type_select = Select(value="By expenditure", options=type_select_options,
-                             width=self.setting.select_width, title="Type", stylesheets=[self.setting.select_stylesheet])
+                             width=self.setting.select_width, title="Type")
         
         cat1_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value])
         cat1_select = Select(value="GDP", options=cat1_select_options, width=self.setting.select_width,
-                             title="Data category 1", stylesheets=[self.setting.select_stylesheet])
+                             title="Data category 1")
         
         cat2_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value])
         cat2_select = Select(value="", options=cat2_select_options, width=self.setting.select_width,
-                             title="Data category 2", stylesheets=[self.setting.select_stylesheet])
+                             title="Data category 2")
         
         cat3_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value + cat2_select.value])
         cat3_select = Select(value=cat3_select_options[0], options=cat3_select_options, width=self.setting.select_width,
-                             title="Data category 3", stylesheets=[self.setting.select_stylesheet])
+                             title="Data category 3")
         
         cat4_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value + cat2_select.value + cat3_select.value])
         cat4_select = Select(value=cat4_select_options[0], options=cat4_select_options, width=self.setting.select_width,
-                             title="Data category 4", stylesheets=[self.setting.select_stylesheet])
+                             title="Data category 4")
         cat5_select_options = sorted(mapping_dict[
                                          freq_select.value + unit_select.value + type_select.value + cat1_select.value + cat2_select.value + cat3_select.value + cat4_select.value])
         cat5_select = Select(value=cat5_select_options[0], options=cat4_select_options, width=self.setting.select_width,
-                             title="Data category 5", stylesheets=[self.setting.select_stylesheet])
+                             title="Data category 5")
         
         return country_select, category_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select
 
-    def get_column_by_selects(self, country_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select):
-        col_name = self.general_mapping[(self.general_mapping["0"] == freq_select.value) &
-                                        (self.general_mapping["1"] == unit_select.value) &
-                                        (self.general_mapping["2"] == type_select.value) &
-                                        (self.general_mapping["3"] == cat1_select.value) &
-                                        (self.general_mapping["4"] == cat2_select.value) &
-                                        (self.general_mapping["5"] == cat3_select.value) &
-                                        (self.general_mapping["6"] == cat4_select.value) &
-                                        (self.general_mapping["7"] == cat5_select.value)][country_select.value].values[0]
+    def get_column_by_selects(self, country_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select, category_len):
+        
+        select_value_list = [i.value for i in [freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select]]
+        
+        dummy = (self.general_mapping.loc[:, [str(i) for i in range(category_len)]] == select_value_list[:category_len]).all(axis=1)
+        col_name = self.general_mapping.loc[dummy, country_select.value].values[0]
+        
         return col_name
     
     def read_data(self, setting_path, data_path, matched_columns=None):
@@ -133,8 +139,14 @@ class Tool:
         return self.data, self.data_setting
     
     def create_data_setting_object(self, data_setting, col_name):
-        col_name = "_".join(col_name.split("_")[:-1])
-        data_setting_object = data_setting.loc[[col_name]].reset_index().loc[0].to_dict()
+        data_setting_backup_cols = ['display_name', "data_type", "chart_type"]
+        data_col_name = col_name = "_".join(col_name.split("_")[:-1])
+        try:
+            self.data_setting_backup.loc[col_name, data_setting_backup_cols] = data_setting.loc[data_col_name].tolist()
+        except Exception as e:
+            pass
+        data_setting_object = self.data_setting_backup.loc[[col_name]].reset_index().loc[0].to_dict()
+        
         return data_setting_object
     
     def add_source_column(self, source, col_name, new=True):
@@ -159,9 +171,9 @@ class Tool:
 
 class Setting:
     def __init__(self):
-        
-        # create function
         self.create_styles()
+        self.theme_file_path = "lib/theme/theme.yml"
+        self.curdoc_name = "ECON DB"
         
         self.line_width = 2
         self.bar_width = td(days=60)
@@ -174,9 +186,6 @@ class Setting:
 
         self.multichoice_width = int(self.figure_width + self.datatable_column_width - 3 * self.button_width)
         
-        self.icon_size = "1.2em"
-        self.theme_file_path = "lib/theme/theme.yml"
-        self.curdoc_name = "EAE Data"
         # color setting
         self.bar_border_color = "#000000"
         self.colors = [
@@ -185,6 +194,11 @@ class Setting:
             {"id": 2, "color": "#8b0000", "used": False, "label": "darkred"},
             {"id": 3, "color": "#4b0082", "used": False, "label": "indigo"},
         ]
+        
+        self.data_freq_lookup_table = {
+            "Quarterly": ["NGDP Q", "RGDP Q"],
+            "Monthly": ["Monthly"]
+        }
         
         # first three selects setting
         self.structure = {
@@ -210,6 +224,11 @@ class Setting:
                     "A": False,
                     "Annual_data_path": "db/tw/data/gdp/tw_gdp_a.csv",
                     "Annual_setting_path": "db/tw/setting/gdp/tw_gdp_a_setting.csv",
+                },
+                "EXPORT":{
+                    "M": True,
+                    "Monthly_data_path": "db/tw/data/export/tw_export_m.csv",
+                    "Monthly_setting_path": "db/tw/setting/export/tw_export_m_setting.csv",
                 }
             },
             
@@ -222,37 +241,40 @@ class Setting:
                     "A": False,
                     "Annual_data_path": "db/kr/data/gdp/kr_gdp_a.csv",
                     "Annual_setting_path": "db/kr/setting/gdp/kr_gdp_a_setting.csv",
+                },
+                "EXPORT": {
+                    "M": True,
+                    "Monthly_data_path": "db/kr/data/export/kr_export_m.csv",
+                    "Monthly_setting_path": "db/kr/setting/export/kr_export_m_setting.csv",
                 }
             },
         }
         
         self.category_structure = {
-                "GDP": {
-                    "path": "db/mapping/gdp/gdp_mapping.csv",
-                    "length": 8
-                }
-            }
-        
-        self.db_parameters = {
-            "country_currency": {
-                "TW": ["TWD", "NTD"],
-                "JP": ["JPY"],
-                "KR": ["KRW"]
+            "GDP": {
+                "input_path": "db/mapping/gdp/gdp_mapping_template.xlsx",
+                "path": "db/mapping/gdp/gdp_mapping.csv",
+                "length": 8
             },
             
-            "category_keep_col": {
-                "GDP": [0, 3, 4, 5, 6, 7, 1]
+            "EXPORT": {
+                "input_path": "db/mapping/export/export_mapping_template.xlsx",
+                "path": "db/mapping/export/export_mapping.csv",
+                "length": 6
             }
+            
         }
         
         self.download_button_path = "lib/js_code/download_button_callback.js"
-    
+
     def create_styles(self):
-        button_style_path = "lib/styles/button_styles.css"
+        
+        
+        button_style_path = "lib/style/button_styles.css"
         self.button_stylesheet = InlineStyleSheet(css=open(button_style_path).read())
-        
-        select_style_path = "lib/styles/select_styles.css"
+    
+        select_style_path = "lib/style/select_styles.css"
         self.select_stylesheet = InlineStyleSheet(css=open(select_style_path).read())
-        
-        datatable_style_path = "lib/styles/datatable_styles.css"
+    
+        datatable_style_path = "lib/style/datatable_styles.css"
         self.datatable_stylesheet = InlineStyleSheet(css=open(datatable_style_path).read())

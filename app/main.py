@@ -25,6 +25,7 @@ from lib.tools import Tool, Setting
 dir_path = os.path.dirname(os.path.abspath(__file__))
 # Change the working directory to the script directory
 os.chdir(dir_path)
+print(os.getcwd())
 
 # =========GLOBAL VARIABLES=========
 
@@ -74,6 +75,8 @@ def update_country_select(attrname, old, new):
     category_select.options = category_select_options
     if category_select.value not in category_select_options:
         category_select.value = category_select_options[0]
+    
+    print(category_select.value)
 
 
 def update_category_select(attrname, old, new):
@@ -81,12 +84,16 @@ def update_category_select(attrname, old, new):
     os.chdir(dir_path)
     mapping_raw = pd.read_csv(setting.category_structure[category_select.value]["path"])
     mapping_raw = mapping_raw[~mapping_raw[country_select.value].isna()].replace(np.nan, "")
+    print(f"Mapping_raw : {mapping_raw}")
     
-    global mapping_dict
+    global mapping_dict, category_len
+    category_len = setting.category_structure[category_select.value]["length"]
+    
+    
     mapping_dict = tool.create_mapping_dict(df=mapping_raw,
-                                            keys=mapping_raw.columns[: setting.category_structure[category_select.value]["length"] - 1],
-                                            values=mapping_raw.columns[setting.category_structure[category_select.value]["length"] - 1])
-    
+                                            keys=mapping_raw.columns[: category_len - 1],
+                                            values=mapping_raw.columns[category_len - 1])
+
     # Create new general mapping and matched columns
     tool.create_matched_columns_and_general_mapping(df=mapping_raw, country=country_select.value, length=setting.category_structure[category_select.value]["length"])
     
@@ -101,31 +108,30 @@ def update_category_select(attrname, old, new):
     freq_select.options = freq_select_options
     if freq_select.value not in freq_select_options:
         freq_select.value = freq_select_options[0]
+    
+    print(freq_select.value)
 
 
 def update_freq_select(attrname, old, new):
     # Change data source and data setting
     global data, data_setting
     
-    if freq_select.value[-1] == "Q":
-        data, data_setting = tool.read_data(
-            data_path=setting.structure[country_select.value][category_select.value]['Quarterly_data_path'],
-            setting_path=setting.structure[country_select.value][category_select.value]['Quarterly_setting_path'],
-            matched_columns=matched_columns
-        )
-    
-    elif freq_select.value[-1] == "A":
-        data, data_setting = tool.read_data(
-            data_path=setting.structure[country_select.value][category_select.value]['Annual_data_path'],
-            setting_path=setting.structure[country_select.value][category_select.value]['Annual_setting_path'],
-            matched_columns=matched_columns
-        )
+    for i in setting.data_freq_lookup_table.keys():
+        if freq_select.value in setting.data_freq_lookup_table[i]:
+            data, data_setting = tool.read_data(
+                data_path=setting.structure[country_select.value][category_select.value][f'{i}_data_path'],
+                setting_path=setting.structure[country_select.value][category_select.value][f'{i}_setting_path'],
+                matched_columns=matched_columns
+            )
+            break
     
     unit_select_options = mapping_dict[freq_select.value]
     unit_select.options = unit_select_options
     
     if unit_select.value not in unit_select_options:
         unit_select.value = unit_select_options[0]
+    
+    print(unit_select.value)
 
 
 def update_unit_select(attrname, old, new):
@@ -134,6 +140,7 @@ def update_unit_select(attrname, old, new):
     
     if type_select.value not in type_select_options:
         type_select.value = type_select_options[0]
+    print(type_select.value)
 
 
 def update_type_select(attrname, old, new):
@@ -142,43 +149,69 @@ def update_type_select(attrname, old, new):
     
     if cat1_select.value not in cat1_select_options:
         cat1_select.value = cat1_select_options[0]
+    print(cat1_select.value)
 
 
 def update_cat1_select(attrname, old, new):
-    cat2_select_options = mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value]
-    cat2_select.options = cat2_select_options
-    
-    if cat2_select.value not in cat2_select_options:
-        cat2_select.value = cat2_select_options[0]
+    try:
+        cat2_select_options = mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value]
+        cat2_select.options = cat2_select_options
+        
+        if cat2_select.value not in cat2_select_options:
+            cat2_select.value = cat2_select_options[0]
+            
+    except Exception as e:
+        cat2_select.options = [""]
+        cat2_select.value = cat2_select.options[0]
+    print(cat2_select.value)
 
 
 def update_cat2_select(attrname, old, new):
-    cat3_select_options = mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value + cat2_select.value]
-    cat3_select.options = cat3_select_options
+    try:
+        cat3_select_options = mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value + cat2_select.value]
+        cat3_select.options = cat3_select_options
+        
+        if cat3_select.value not in cat3_select_options:
+            cat3_select.value = cat3_select_options[0]
     
-    if cat3_select.value not in cat3_select_options:
-        cat3_select.value = cat3_select_options[0]
+    except Exception as e:
+        cat3_select.options = [""]
+        cat3_select.value = cat3_select.options[0]
+        
+    print(cat3_select.value)
 
 
 def update_cat3_select(attrname, old, new):
-    cat4_select_options = mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value + cat2_select.value + cat3_select.value]
-    cat4_select.options = cat4_select_options
+    try:
+        cat4_select_options = mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value + cat2_select.value + cat3_select.value]
+        cat4_select.options = cat4_select_options
     
-    if cat4_select.value not in cat4_select_options:
-        cat4_select.value = cat4_select_options[0]
+        if cat4_select.value not in cat4_select_options:
+            cat4_select.value = cat4_select_options[0]
+    except Exception as e:
+        cat4_select.options = [""]
+        cat4_select.value = cat4_select.options[0]
+    print(cat4_select.value)
 
 
 def update_cat4_select(attrname, old, new):
-    cat5_select_options = mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value + cat2_select.value + cat3_select.value + cat4_select.value]
-    cat5_select.options = cat5_select_options
-    
-    if cat5_select.value not in cat5_select_options:
-        cat5_select.value = cat5_select_options[0]
+    try:
+        cat5_select_options = mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value + cat2_select.value + cat3_select.value + cat4_select.value]
+        cat5_select.options = cat5_select_options
         
+        if cat5_select.value not in cat5_select_options:
+            cat5_select.value = cat5_select_options[0]
+    except Exception as e:
+        cat5_select.options = [""]
+        cat5_select.value = cat5_select.options[0]
+    
+    print(cat5_select.value)
+    
     update_selects_format()
 
+
 def add_button_callback():
-    col_name = f"{tool.get_column_by_selects(country_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select)}_{country_select.value}"
+    col_name = f"{tool.get_column_by_selects(country_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select, category_len=setting.category_structure[category_select.value]['length'])}_{country_select.value}"
 
     data_setting_object = tool.create_data_setting_object(data_setting, col_name)
     old_multichoice_values = multichoice.value
@@ -263,21 +296,22 @@ def update_chart():
         if i not in [g[0] for g in old_list]:
             new_list.append(i)
             
+            # Need to add a data setting backup
             data_setting_object = tool.create_data_setting_object(data_setting, i)
             source = tool.add_source_column(source=source, col_name=i)
             
             if data_setting_object['chart_type'] == "line":
-                p.line(x="Date", y=data_setting_object["name"], source=source, name=f"{data_setting_object['name']}_{country_select.value}", width=setting.line_width, legend_label=data_setting_object["display_name"])
-                range_p.line(x="Date", y=data_setting_object['name'], source=source, name=f"{data_setting_object['name']}_{country_select.value}", width=setting.line_width)
+                p.line(x="Date", y=data_setting_object["name"], source=source, name=i, width=setting.line_width, legend_label=data_setting_object["display_name"])
+                range_p.line(x="Date", y=data_setting_object['name'], source=source, name=i, width=setting.line_width)
             
             elif data_setting_object['chart_type'] == "bar":
                 p.vbar(x="Date", top=data_setting_object['name'], source=source,
-                       name=f"{data_setting_object['name']}_{country_select.value}", width=setting.bar_width,
+                       name=i, width=setting.bar_width,
                        line_width=setting.bar_border_color,
                        legend_label=data_setting_object['display_name'])
                 
                 range_p.vbar(x="Date", top=data_setting_object['name'], source=source,
-                             name=f"{data_setting_object['name']}_{country_select.value}", width=setting.bar_width,
+                             name=i, width=setting.bar_width,
                              line_width=setting.bar_border_color)
             
             new_columns = data_table.columns
@@ -388,7 +422,7 @@ elif freq_select.value[-1] == "A":
         matched_columns=matched_columns
     )
 
-default_column = f"{tool.get_column_by_selects(country_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select)}_{country_select.value}"
+default_column = f"{tool.get_column_by_selects(country_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select, category_len=setting.category_structure[category_select.value]['length'])}_{country_select.value}"
 default_data_setting_object = tool.create_data_setting_object(data_setting, default_column)
 
 add_button = Button(label="Add",
