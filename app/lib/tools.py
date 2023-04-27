@@ -189,10 +189,17 @@ class Setting:
         # color setting
         self.bar_border_color = "#000000"
         self.colors = [
-            {"id": 0, "color": "#191970", "used": False, "label": "midnightblue"},
-            {"id": 1, "color": "#006400", "used": False, "label": "darkgreen"},
-            {"id": 2, "color": "#8b0000", "used": False, "label": "darkred"},
-            {"id": 3, "color": "#4b0082", "used": False, "label": "indigo"},
+        #    {"id": 0, "color": "#191970", "used": False, "label": "midnightblue"},
+        #    {"id": 1, "color": "#006400", "used": False, "label": "darkgreen"},
+        #    {"id": 2, "color": "#8b0000", "used": False, "label": "darkred"},
+        #    {"id": 3, "color": "#4b0082", "used": False, "label": "indigo"},
+            {"id": 0, "color": "#0000FF", "used": False, "label": "blue"},
+            {"id": 1, "color": "#008000", "used": False, "label": "green"},
+            {"id": 2, "color": "#6B8E23", "used": False, "label": "olivedrab"},
+            {"id": 3, "color": "#808080", "used": False, "label": "gray"},
+
+
+
         ]
         
         self.data_freq_lookup_table = {
