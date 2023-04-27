@@ -89,7 +89,7 @@ class Tool:
                              width=self.setting.select_width, title="Type")
         
         cat1_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value])
-        cat1_select = Select(value="National accounts", options=cat1_select_options, width=self.setting.select_width,
+        cat1_select = Select(value="GDP", options=cat1_select_options, width=self.setting.select_width,
                              title="Data category 1")
         
         cat2_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value])
@@ -203,7 +203,7 @@ class Setting:
         # first three selects setting
         self.structure = {
             "JP": {
-                "National accounts": {
+                "GDP": {
                     "Q": True,
                     "Quarterly_data_path": "db/jp/data/gdp/jp_gdp_q.csv",
                     "Quarterly_setting_path": "db/jp/setting/gdp/jp_gdp_q_setting.csv",
@@ -216,7 +216,7 @@ class Setting:
             },
             
             "TW": {
-                "National accounts": {
+                "GDP": {
                     "Q": True,
                     "Quarterly_data_path": "db/tw/data/gdp/tw_gdp_q.csv",
                     "Quarterly_setting_path": "db/tw/setting/gdp/tw_gdp_q_setting.csv",
@@ -225,7 +225,7 @@ class Setting:
                     "Annual_data_path": "db/tw/data/gdp/tw_gdp_a.csv",
                     "Annual_setting_path": "db/tw/setting/gdp/tw_gdp_a_setting.csv",
                 },
-                "Foreign trade":{
+                "EXPORT":{
                     "M": True,
                     "Monthly_data_path": "db/tw/data/export/tw_export_m.csv",
                     "Monthly_setting_path": "db/tw/setting/export/tw_export_m_setting.csv",
@@ -242,7 +242,7 @@ class Setting:
                     "Annual_data_path": "db/kr/data/gdp/kr_gdp_a.csv",
                     "Annual_setting_path": "db/kr/setting/gdp/kr_gdp_a_setting.csv",
                 },
-                "Foreign trade": {
+                "EXPORT": {
                     "M": True,
                     "Monthly_data_path": "db/kr/data/export/kr_export_m.csv",
                     "Monthly_setting_path": "db/kr/setting/export/kr_export_m_setting.csv",
@@ -251,13 +251,13 @@ class Setting:
         }
         
         self.category_structure = {
-            "National accounts": {
+            "GDP": {
                 "input_path": "db/mapping/gdp/gdp_mapping_template.xlsx",
                 "path": "db/mapping/gdp/gdp_mapping.csv",
                 "length": 8
             },
             
-            "Foreign trade": {
+            "EXPORT": {
                 "input_path": "db/mapping/export/export_mapping_template.xlsx",
                 "path": "db/mapping/export/export_mapping.csv",
                 "length": 6
