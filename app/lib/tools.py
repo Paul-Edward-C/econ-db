@@ -225,7 +225,7 @@ class Setting:
                     "Annual_data_path": "db/tw/data/gdp/tw_gdp_a.csv",
                     "Annual_setting_path": "db/tw/setting/gdp/tw_gdp_a_setting.csv",
                 },
-                "EXPORT":{
+                "Foreign trade":{
                     "M": True,
                     "Monthly_data_path": "db/tw/data/export/tw_export_m.csv",
                     "Monthly_setting_path": "db/tw/setting/export/tw_export_m_setting.csv",
@@ -242,7 +242,7 @@ class Setting:
                     "Annual_data_path": "db/kr/data/gdp/kr_gdp_a.csv",
                     "Annual_setting_path": "db/kr/setting/gdp/kr_gdp_a_setting.csv",
                 },
-                "EXPORT": {
+                "Foreign trade": {
                     "M": True,
                     "Monthly_data_path": "db/kr/data/export/kr_export_m.csv",
                     "Monthly_setting_path": "db/kr/setting/export/kr_export_m_setting.csv",
@@ -257,7 +257,7 @@ class Setting:
                 "length": 8
             },
             
-            "EXPORT": {
+            "Foreign trade": {
                 "input_path": "db/mapping/export/export_mapping_template.xlsx",
                 "path": "db/mapping/export/export_mapping.csv",
                 "length": 6
