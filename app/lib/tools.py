@@ -89,7 +89,7 @@ class Tool:
                              width=self.setting.select_width, title="Type")
         
         cat1_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value])
-        cat1_select = Select(value="GDP", options=cat1_select_options, width=self.setting.select_width,
+        cat1_select = Select(value="National accounts", options=cat1_select_options, width=self.setting.select_width,
                              title="Data category 1")
         
         cat2_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value])
