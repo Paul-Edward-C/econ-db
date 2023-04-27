@@ -175,7 +175,7 @@ class Setting:
         self.theme_file_path = "lib/theme/theme.yml"
         self.curdoc_name = "ECON DB"
         
-        self.line_width = 2
+        self.line_width = 1
         self.bar_width = td(days=60)
         self.figure_width = 1000
         self.figure_height = 500
