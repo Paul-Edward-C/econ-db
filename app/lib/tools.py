@@ -203,7 +203,7 @@ class Setting:
         # first three selects setting
         self.structure = {
             "JP": {
-                "GDP": {
+                "National accounts": {
                     "Q": True,
                     "Quarterly_data_path": "db/jp/data/gdp/jp_gdp_q.csv",
                     "Quarterly_setting_path": "db/jp/setting/gdp/jp_gdp_q_setting.csv",
@@ -216,7 +216,7 @@ class Setting:
             },
             
             "TW": {
-                "GDP": {
+                "National accounts": {
                     "Q": True,
                     "Quarterly_data_path": "db/tw/data/gdp/tw_gdp_q.csv",
                     "Quarterly_setting_path": "db/tw/setting/gdp/tw_gdp_q_setting.csv",
@@ -251,7 +251,7 @@ class Setting:
         }
         
         self.category_structure = {
-            "GDP": {
+            "National accounts": {
                 "input_path": "db/mapping/gdp/gdp_mapping_template.xlsx",
                 "path": "db/mapping/gdp/gdp_mapping.csv",
                 "length": 8
