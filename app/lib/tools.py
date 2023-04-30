@@ -160,9 +160,12 @@ class Tool:
 class Setting:
     def __init__(self):
         
+<<<<<<< Updated upstream
         # create function
         self.create_styles()
         
+=======
+>>>>>>> Stashed changes
         self.line_width = 2
         self.bar_width = td(days=60)
         self.figure_width = 1000
@@ -210,6 +213,14 @@ class Setting:
                     "A": False,
                     "Annual_data_path": "db/tw/data/gdp/tw_gdp_a.csv",
                     "Annual_setting_path": "db/tw/setting/gdp/tw_gdp_a_setting.csv",
+<<<<<<< Updated upstream
+=======
+                },
+                "EXPORT":{
+                    "M": True,
+                    "Monthly_data_path": "db/tw/data/export/tw_export_m.csv",
+                    "Monthly_setting_path": "db/tw/setting/export/tw_export_m_setting.csv",
+>>>>>>> Stashed changes
                 }
             },
             
@@ -222,11 +233,20 @@ class Setting:
                     "A": False,
                     "Annual_data_path": "db/kr/data/gdp/kr_gdp_a.csv",
                     "Annual_setting_path": "db/kr/setting/gdp/kr_gdp_a_setting.csv",
+<<<<<<< Updated upstream
+=======
+                },
+                "EXPORT": {
+                    "M": True,
+                    "Monthly_data_path": "db/kr/data/export/kr_export_m.csv",
+                    "Monthly_setting_path": "db/kr/setting/export/kr_export_m_setting.csv",
+>>>>>>> Stashed changes
                 }
             },
         }
         
         self.category_structure = {
+<<<<<<< Updated upstream
                 "GDP": {
                     "path": "db/mapping/gdp/gdp_mapping.csv",
                     "length": 8
@@ -242,6 +262,20 @@ class Setting:
             
             "category_keep_col": {
                 "GDP": [0, 3, 4, 5, 6, 7, 1]
+=======
+            "GDP": {
+                "input_path": "db/mapping/gdp/gdp_mapping_template.xlsx",
+                "path": "db/mapping/gdp/gdp_mapping.csv",
+                "length": 8,
+                "display_name": ""
+            },
+            
+            "EXPORT": {
+                "input_path": "db/mapping/export/export_mapping_template.xlsx",
+                "path": "db/mapping/export/export_mapping.csv",
+                "length": 6,
+                "display_name": ""
+>>>>>>> Stashed changes
             }
         }
         
