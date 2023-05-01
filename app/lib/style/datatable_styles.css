@@ -1,4 +1,10 @@
-.bk-data-table{
-    font-size: 12px;
-    font-family: Georgia;
-}
+#.bk-data-table{
+ #   font-size: 12px;
+#    font-family: Georgia;
+#}
+
+.slick-headerRowHeight {height:120px} 
+.slick-column-name {font-family: Georgia; font-weight: 900; font-size: 1.1rem}
+.slick-header-column {background-color:hsla(120,100%,25%,0.1) !important;}
+.slick-cell {font-family: Georgia; font-size: 0.9rem}
+.slick-row:nth-of-type(even) {background-color:hsla(120,100%,25%,0.1) !important;}
