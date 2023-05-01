@@ -58,12 +58,12 @@ class Tool:
         
         country_select_options = list(structure.keys())
         country_select = Select(value=country_select_options[0], options=country_select_options,
-                                width=self.setting.select_width, title="Country")
+                                width=self.setting.select_width, title="Country", stylesheets=[self.setting.select_stylesheet])
         # print(f"Country select : {country_select.value}")
         
         category_select_options = list(structure[country_select.value].keys())
         category_select = Select(value=category_select_options[0], options=category_select_options,
-                                 width=self.setting.select_width, title="Category")
+                                 width=self.setting.select_width, title="Category", stylesheets=[self.setting.select_stylesheet])
         # print(f"Category select : {category_select.value}")
         
         mapping = pd.read_csv(category_structure[category_select.value]["path"])
@@ -76,37 +76,37 @@ class Tool:
         
         freq_select_options = sorted(mapping[mapping.columns[0]].unique().tolist())
         freq_select = Select(value="NGDP Q", options=freq_select_options,
-                             width=self.setting.select_width, title="Frequency")
+                             width=self.setting.select_width, title="Frequency", stylesheets=[self.setting.select_stylesheet])
         # print(f"freq select : {freq_select.value}")
         
         unit_select_options = sorted(mapping_dict[freq_select.value])
         unit_select = Select(value="LCU", options=unit_select_options,
-                             width=self.setting.select_width, title="Unit")
+                             width=self.setting.select_width, title="Unit", stylesheets=[self.setting.select_stylesheet])
         # print(f"Unit select : {unit_select.value}")
         
         type_select_options = sorted(mapping_dict[freq_select.value + unit_select.value])
         type_select = Select(value="By expenditure", options=type_select_options,
-                             width=self.setting.select_width, title="Type")
+                             width=self.setting.select_width, title="Type", stylesheets=[self.setting.select_stylesheet])
         
         cat1_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value])
         cat1_select = Select(value="GDP", options=cat1_select_options, width=self.setting.select_width,
-                             title="Data category 1")
+                             title="Data category 1", stylesheets=[self.setting.select_stylesheet])
         
         cat2_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value])
         cat2_select = Select(value="", options=cat2_select_options, width=self.setting.select_width,
-                             title="Data category 2")
+                             title="Data category 2", stylesheets=[self.setting.select_stylesheet])
         
         cat3_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value + cat2_select.value])
         cat3_select = Select(value=cat3_select_options[0], options=cat3_select_options, width=self.setting.select_width,
-                             title="Data category 3")
+                             title="Data category 3", stylesheets=[self.setting.select_stylesheet])
         
         cat4_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value + cat2_select.value + cat3_select.value])
         cat4_select = Select(value=cat4_select_options[0], options=cat4_select_options, width=self.setting.select_width,
-                             title="Data category 4")
+                             title="Data category 4", stylesheets=[self.setting.select_stylesheet])
         cat5_select_options = sorted(mapping_dict[
                                          freq_select.value + unit_select.value + type_select.value + cat1_select.value + cat2_select.value + cat3_select.value + cat4_select.value])
         cat5_select = Select(value=cat5_select_options[0], options=cat4_select_options, width=self.setting.select_width,
-                             title="Data category 5")
+                             title="Data category 5", stylesheets=[self.setting.select_stylesheet])
         
         return country_select, category_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select
 
@@ -175,7 +175,7 @@ class Setting:
         self.theme_file_path = "lib/theme/theme.yml"
         self.curdoc_name = "ECON DB"
         
-        self.line_width = 1
+        self.line_width = 2
         self.bar_width = td(days=60)
         self.figure_width = 1000
         self.figure_height = 500
@@ -189,17 +189,10 @@ class Setting:
         # color setting
         self.bar_border_color = "#000000"
         self.colors = [
-        #    {"id": 0, "color": "#191970", "used": False, "label": "midnightblue"},
-        #    {"id": 1, "color": "#006400", "used": False, "label": "darkgreen"},
-        #    {"id": 2, "color": "#8b0000", "used": False, "label": "darkred"},
-        #    {"id": 3, "color": "#4b0082", "used": False, "label": "indigo"},
-            {"id": 0, "color": "#0000FF", "used": False, "label": "blue"},
-            {"id": 1, "color": "#008000", "used": False, "label": "green"},
-            {"id": 2, "color": "#6B8E23", "used": False, "label": "olivedrab"},
-            {"id": 3, "color": "#808080", "used": False, "label": "gray"},
-
-
-
+            {"id": 0, "color": "#191970", "used": False, "label": "midnightblue"},
+            {"id": 1, "color": "#006400", "used": False, "label": "darkgreen"},
+            {"id": 2, "color": "#8b0000", "used": False, "label": "darkred"},
+            {"id": 3, "color": "#4b0082", "used": False, "label": "indigo"},
         ]
         
         self.data_freq_lookup_table = {
@@ -210,7 +203,7 @@ class Setting:
         # first three selects setting
         self.structure = {
             "JP": {
-                "National accounts": {
+                "National Accounts": {
                     "Q": True,
                     "Quarterly_data_path": "db/jp/data/gdp/jp_gdp_q.csv",
                     "Quarterly_setting_path": "db/jp/setting/gdp/jp_gdp_q_setting.csv",
@@ -218,12 +211,11 @@ class Setting:
                     "A": False,
                     "Annual_data_path": "db/jp/data/gdp/jp_gdp_a.csv",
                     "Annual_setting_path": "db/jp/setting/gdp/jp_gdp_a_setting.csv",
-                    
                 }
             },
             
             "TW": {
-                "National accounts": {
+                "National Accounts": {
                     "Q": True,
                     "Quarterly_data_path": "db/tw/data/gdp/tw_gdp_q.csv",
                     "Quarterly_setting_path": "db/tw/setting/gdp/tw_gdp_q_setting.csv",
@@ -232,7 +224,7 @@ class Setting:
                     "Annual_data_path": "db/tw/data/gdp/tw_gdp_a.csv",
                     "Annual_setting_path": "db/tw/setting/gdp/tw_gdp_a_setting.csv",
                 },
-                "Foreign trade":{
+                "Foreign Trade": {
                     "M": True,
                     "Monthly_data_path": "db/tw/data/export/tw_export_m.csv",
                     "Monthly_setting_path": "db/tw/setting/export/tw_export_m_setting.csv",
@@ -240,7 +232,7 @@ class Setting:
             },
             
             "KR": {
-                "National accounts": {
+                "National Accounts": {
                     "Q": True,
                     "Quarterly_data_path": "db/kr/data/gdp/kr_gdp_q.csv",
                     "Quarterly_setting_path": "db/kr/setting/gdp/kr_gdp_q_setting.csv",
@@ -249,7 +241,7 @@ class Setting:
                     "Annual_data_path": "db/kr/data/gdp/kr_gdp_a.csv",
                     "Annual_setting_path": "db/kr/setting/gdp/kr_gdp_a_setting.csv",
                 },
-                "Foreign trade": {
+                "Foreign Trade": {
                     "M": True,
                     "Monthly_data_path": "db/kr/data/export/kr_export_m.csv",
                     "Monthly_setting_path": "db/kr/setting/export/kr_export_m_setting.csv",
@@ -258,16 +250,18 @@ class Setting:
         }
         
         self.category_structure = {
-            "National accounts": {
+            "National Accounts": {
                 "input_path": "db/mapping/gdp/gdp_mapping_template.xlsx",
                 "path": "db/mapping/gdp/gdp_mapping.csv",
-                "length": 8
+                "length": 8,
+                "display_name": ""
             },
             
-            "Foreign trade": {
+            "Foreign Trade": {
                 "input_path": "db/mapping/export/export_mapping_template.xlsx",
                 "path": "db/mapping/export/export_mapping.csv",
-                "length": 6
+                "length": 6,
+                "display_name": ""
             }
             
         }

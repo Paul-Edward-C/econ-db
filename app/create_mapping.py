@@ -6,10 +6,12 @@ def main():
     setting = Setting()
     category_list = list(setting.category_structure.keys())
     
-    for category in category_list:
+    """for category in category_list:
         mapping_generator = MG(input_path=setting.category_structure[category]["input_path"],
-                               output_path=setting.category_structure[category]["path"])
-    
+                               output_path=setting.category_structure[category]["path"])"""
+
+    mapping_generator = MG(input_path=setting.category_structure["EXPORT"]["input_path"],
+                           output_path=setting.category_structure["EXPORT"]["path"])
     
 if __name__ == "__main__":
     main()

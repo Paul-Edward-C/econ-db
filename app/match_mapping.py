@@ -13,7 +13,7 @@ def match_export():
     print(f"EXPORT country : {export_countries_m}")
     
     for country in export_countries_m:
-        matcher.match(data_path=setting.structure[country]["EXPORT"]["Monthly_data_path"],
+        matcher.match2(data_path=setting.structure[country]["EXPORT"]["Monthly_data_path"],
                       output_path=f"db/{country.lower()}/data/export/{dt.strftime(dt.now().date(), '%Y%m%d')} {country} match output.xlsx",
                       country=country,
                       freq="M")
@@ -40,8 +40,8 @@ def match_gdp():
 
 
 def main():
-    match_gdp()
-    # match_export()
+    # match_gdp()
+    match_export()
     
     
 if __name__ == "__main__":
