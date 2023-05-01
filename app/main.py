@@ -377,9 +377,10 @@ def update_format(new_values):
     hover.tooltips = new_tooltips
     
     p.y_range.start, p.y_range.end = tool.get_source_limitvalues(pd.DataFrame(source.data))
+    p.yaxis.bounds = (p.y_range.start, p.y_range.end)
+    print(p.y_range.start, p.y_range.end)
     
-    print(pd.DataFrame(data_table.source.data))
-    
+    # print(pd.DataFrame(data_table.source.data))
     
     p.legend.location = "top_left"
     
