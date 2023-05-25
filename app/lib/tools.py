@@ -152,22 +152,42 @@ class Tool:
     def add_source_column(self, source, col_name, new=True):
         
         source_df = pd.DataFrame(source.data)
+        
         col_name = "_".join(col_name.split("_")[:-1])
         
         if len(source_df) == 0:
             source_df = self.data[[col_name]]
             self.source_backup = self.data[[col_name]]
         else:
+            source_df = source_df.set_index("Date")
+            
             try:
-                source_df = pd.concat([source_df.set_index("Date"), self.data[[col_name]]], axis=1)
+                source_df = pd.concat([source_df, self.data[[col_name]]], axis=1)
                 self.source_backup = pd.concat([self.source_backup, self.data[[col_name]]], axis=1)
             except Exception as e:
-                source_df = pd.concat([source_df.set_index("Date"), self.source_backup[[col_name]]], axis=1)
-            
+                source_df = pd.concat([source_df, self.source_backup[[col_name]]], axis=1)
+        
+        source_df.dropna(how='all', axis=0, inplace=True)
         source = ColumnDataSource(source_df)
-    
         return source
+    
+    def get_source_limitvalues(self, data):
+        maximum = data.iloc[:, 1:].max().max()
+        minimum = data.iloc[:, 1:].min().min()
+        
+        if maximum > 0:
+            maximum *= self.setting.axis_ratio
+        else:
+            maximum /= self.setting.axis_ratio
+        
+        if minimum < 0:
+            minimum *= self.setting.axis_ratio
+        else:
+            minimum /= self.setting.axis_ratio
 
+        
+        return minimum, maximum
+        
 
 class Setting:
     def __init__(self):
@@ -183,6 +203,8 @@ class Setting:
         self.select_width = 500
         self.button_width = 100
         self.datatable_column_width = 500
+        
+        self.axis_ratio = 1.2
 
         self.multichoice_width = int(self.figure_width + self.datatable_column_width - 3 * self.button_width)
         

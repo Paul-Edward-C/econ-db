@@ -84,7 +84,7 @@ def update_category_select(attrname, old, new):
     os.chdir(dir_path)
     mapping_raw = pd.read_csv(setting.category_structure[category_select.value]["path"])
     mapping_raw = mapping_raw[~mapping_raw[country_select.value].isna()].replace(np.nan, "")
-    print(f"Mapping_raw : {mapping_raw}")
+    # print(f"Mapping_raw : {mapping_raw}")
     
     global mapping_dict, category_len
     category_len = setting.category_structure[category_select.value]["length"]
@@ -281,6 +281,14 @@ def update_chart():
                 if g['color'] == color:
                     g['used'] = False
     
+                    
+    source_df = pd.DataFrame(source.data)
+    if len(source_df) != 0:
+        source_df_cols = source_df.columns[[0] + [i+1 for i in keep_list]].tolist()
+        print(source_df_cols)
+        source_df = source_df[source_df_cols].set_index("Date")
+        source = ColumnDataSource(source_df)
+    
     p.renderers = list(np.array(p.renderers)[keep_list])
     range_p.renderers = list(np.array(range_p.renderers)[keep_list])
     data_table.columns = list(np.array(data_table.columns)[[0] + [i + 1 for i in keep_list]])
@@ -368,9 +376,14 @@ def update_format(new_values):
     
     hover.tooltips = new_tooltips
     
-    # update legend
+    p.y_range.start, p.y_range.end = tool.get_source_limitvalues(pd.DataFrame(source.data))
+    p.yaxis.bounds = (p.y_range.start, p.y_range.end)
+    print(p.y_range.start, p.y_range.end)
+    
+    # print(pd.DataFrame(data_table.source.data))
+    
     p.legend.location = "top_left"
-
+    
 
 def link_callback():
     country_select.on_change("value", update_country_select, update_category_select, update_freq_select,
@@ -484,8 +497,10 @@ data_table_columns = [
 data_table = DataTable(source=source, columns=data_table_columns,
                        width=int(setting.datatable_column_width * len(data_table_columns)),
                        height=p.height + range_p.height,
-                       index_position=None,
-                       stylesheets=[setting.datatable_stylesheet])
+                       index_position=0,
+                       stylesheets=[setting.datatable_stylesheet],
+                       autosize_mode="fit_columns",
+                       frozen_columns=1)
 
 update_format(new_values=update_chart())
 
