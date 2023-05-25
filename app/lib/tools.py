@@ -119,7 +119,7 @@ class Tool:
         
         return col_name
     
-    def read_data(self, setting_path, data_path, matched_columns=None):
+    def read_data(self, setting_path, data_path, matched_columns=None):  # Still need to unify the date when reading
         self.data_setting = pd.read_csv(setting_path, index_col=[0])
         
         data = pd.read_csv(data_path, index_col=[0]).dropna(how='all', axis=0).fillna(method="ffill")
@@ -153,19 +153,22 @@ class Tool:
         
         source_df = pd.DataFrame(source.data)
         
-        col_name = "_".join(col_name.split("_")[:-1])
+        sub_name = "_".join(col_name.split("_")[:-1])
         
         if len(source_df) == 0:
-            source_df = self.data[[col_name]]
-            self.source_backup = self.data[[col_name]]
+            source_df = self.data[[sub_name]]
+            self.source_backup = self.data[[sub_name]]
+            source_df.columns = [col_name]
+            self.source_backup.columns = [col_name]
+            
         else:
             source_df = source_df.set_index("Date")
             
             try:
-                source_df = pd.concat([source_df, self.data[[col_name]]], axis=1)
-                self.source_backup = pd.concat([self.source_backup, self.data[[col_name]]], axis=1)
+                source_df = pd.concat([source_df, self.data[[sub_name]]], axis=1)
+                self.source_backup = pd.concat([self.source_backup, self.data[[sub_name]]], axis=1)
             except Exception as e:
-                source_df = pd.concat([source_df, self.source_backup[[col_name]]], axis=1)
+                source_df = pd.concat([source_df, self.source_backup[[sub_name]]], axis=1)
         
         source_df.dropna(how='all', axis=0, inplace=True)
         source = ColumnDataSource(source_df)
@@ -207,6 +210,8 @@ class Setting:
         self.axis_ratio = 1.2
 
         self.multichoice_width = int(self.figure_width + self.datatable_column_width - 3 * self.button_width)
+        
+        self.background_image_url = "https://www.eastasiaecon.com/content/images/size/w2400/2023/04/Image-29-4-2023-at-7.34-PM.jpeg"
         
         # color setting
         self.bar_border_color = "#000000"
