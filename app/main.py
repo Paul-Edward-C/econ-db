@@ -345,7 +345,9 @@ def new_chart(old, new):
         new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'],
                                        formatter=NumberFormatter(format="0,0 a")))
     datatable.columns = new_columns
-    datatable.source = source
+    source_dict = dict(pd.DataFrame(source.data).set_index("Date").dropna(how="all", axis=0).reset_index())
+    
+    datatable.source.data = source_dict
     
     # add new tooltips
     new_tooltips_list = list(main_p.hover.tooltips)
@@ -361,7 +363,7 @@ def new_chart(old, new):
     main_p.hover.tooltips = new_tooltips_list
     
     for i in main_p.renderers[1:]:  # in order to prevent
-        i.data_source = source
+        i.data_source.data = source_dict
     update_main_axis_range()
     # print(pd.DataFrame(source.data))
     
@@ -383,14 +385,17 @@ def drop_chart(old, new):
         p.renderers = renderers_list
     
     # delete in source and datatable also delete in color dict
-    source = ColumnDataSource(pd.DataFrame(source.data).drop(drop, axis=1).set_index("Date").dropna(how="all", axis=0))
     
     datatable_columns_list = list(datatable.columns)
     for i, column in enumerate(datatable_columns_list):
         if column.field == drop:
             datatable_columns_list.remove(column)
     datatable.columns = datatable_columns_list
-    datatable.source.data = source.data
+    source_df = pd.DataFrame(source.data).drop(drop, axis=1).set_index("Date").dropna(how="all", axis=0)
+    source = ColumnDataSource(source_df)
+    source_dict = dict(source_df.reset_index())
+    
+    datatable.source.data = source_dict
     
     # need to get data_setting object to determine display name
     drop_display_name = tool.data_setting_backup.loc[drop, "display_name"]
@@ -404,6 +409,8 @@ def drop_chart(old, new):
         if color['color'] == used_color:
             color['used'] = False
     
+    for i in main_p.renderers[1:]:  # in order to prevent
+        i.data_source.data = source_dict
     update_main_axis_range()
 
 
@@ -539,7 +546,8 @@ datatable_columns = [
 datatable = DataTable(source=source, columns=datatable_columns,
                       width=int(setting.datatable_column_width * len(datatable_columns)),
                       height=main_p.height + sub_p.height,
-                      stylesheets=[setting.datatable_stylesheet])
+                      stylesheets=[setting.datatable_stylesheet],
+                      index_position=None)
 
 # =========CREATE BUTTON=========
 add_button = Button(label="Add",
