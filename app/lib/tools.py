@@ -123,7 +123,7 @@ class Tool:
     def read_data(self, setting_path, data_path, matched_columns=None):  # Still need to unify the date when reading
         self.data_setting = pd.read_csv(setting_path, index_col=[0])
         
-        data = pd.read_csv(data_path, index_col=[0]).dropna(how='all', axis=0).fillna(method="ffill")
+        data = pd.read_csv(data_path, index_col=[0]).dropna(how='all', axis=0)
         if "m.csv" in data_path:  # This is monthly data, still need to find a better solution
             data.index = pd.to_datetime(data.index) - pd.offsets.MonthEnd(1)
         else:

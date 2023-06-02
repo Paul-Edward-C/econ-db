@@ -390,7 +390,7 @@ def drop_chart(old, new):
         if column.field == drop:
             datatable_columns_list.remove(column)
     datatable.columns = datatable_columns_list
-    datatable.source = source
+    datatable.source.data = source.data
     
     # need to get data_setting object to determine display name
     drop_display_name = tool.data_setting_backup.loc[drop, "display_name"]
@@ -405,7 +405,6 @@ def drop_chart(old, new):
             color['used'] = False
     
     update_main_axis_range()
-    print(main_p.hover.tooltips)
 
 
 def default_chart():
@@ -540,7 +539,7 @@ datatable_columns = [
 datatable = DataTable(source=source, columns=datatable_columns,
                       width=int(setting.datatable_column_width * len(datatable_columns)),
                       height=main_p.height + sub_p.height,
-                      stylesheets=[setting.datatable_stylesheet], )
+                      stylesheets=[setting.datatable_stylesheet])
 
 # =========CREATE BUTTON=========
 add_button = Button(label="Add",
