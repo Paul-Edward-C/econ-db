@@ -10,6 +10,7 @@ from bokeh.models import ColumnDataSource, NumeralTickFormatter, RangeTool, Hove
     PanTool, DataTable, TableColumn, NumberFormatter, WheelZoomTool, Button, DateFormatter, MultiChoice, CustomJS, Toggle, TablerIcon, Range1d
 # TablerIcon : https://tabler-icons.io/
 
+from bokeh.core.properties import value
 from bokeh.plotting import figure
 from bokeh.themes import Theme
 from bokeh.layouts import column, row
@@ -18,8 +19,13 @@ import numpy as np
 from bokeh.io import curdoc
 import os
 
+from datetime import datetime as dt
+from datetime import timedelta as td
+import time
+
 from lib.tools import Tool, Setting
 
+from math import floor
 
 # Specify working directory
 dir_path = os.path.dirname(os.path.abspath(__file__))
@@ -31,19 +37,16 @@ print(os.getcwd())
 
 setting = Setting()
 tool = Tool()
-
+x_range_start_index = -30
+x_range_end_index = -1
 
 # =========DEFINE FUNCTION=========
 
 def update_selects_format():
     selects_list = [country_select, category_select, freq_select, unit_select, type_select, cat1_select, cat2_select,
                     cat3_select, cat4_select, cat5_select]
-    new_len = 10
-    for i in selects_list:
-        if i.value == "":
-            new_len = selects_list.index(i)
-            break
-            
+    new_len = next((i for i, select in enumerate(selects_list) if select.value == ""), len(selects_list))
+    
     if new_len == 6:
         new_layout = row(column(country_select, category_select, freq_select),
                          column(unit_select, type_select, cat1_select),
@@ -64,10 +67,8 @@ def update_selects_format():
         new_layout = row(column(country_select, category_select, freq_select, unit_select),
                          column(type_select, cat1_select, cat2_select),
                          column(cat3_select, cat4_select, cat5_select))
-        
+    # print(new_len)
     layout.children[0] = new_layout
-    
-    pass
 
 
 def update_country_select(attrname, old, new):
@@ -76,7 +77,7 @@ def update_country_select(attrname, old, new):
     if category_select.value not in category_select_options:
         category_select.value = category_select_options[0]
     
-    print(category_select.value)
+    # print(category_select.value)
 
 
 def update_category_select(attrname, old, new):
@@ -86,10 +87,10 @@ def update_category_select(attrname, old, new):
     mapping_raw = mapping_raw[~mapping_raw[country_select.value].isna()].replace(np.nan, "")
     # print(f"Mapping_raw : {mapping_raw}")
     
-    global mapping_dict, category_len
+    
     category_len = setting.category_structure[category_select.value]["length"]
     
-    
+    global mapping_dict
     mapping_dict = tool.create_mapping_dict(df=mapping_raw,
                                             keys=mapping_raw.columns[: category_len - 1],
                                             values=mapping_raw.columns[category_len - 1])
@@ -109,7 +110,7 @@ def update_category_select(attrname, old, new):
     if freq_select.value not in freq_select_options:
         freq_select.value = freq_select_options[0]
     
-    print(freq_select.value)
+    # print(freq_select.value)
 
 
 def update_freq_select(attrname, old, new):
@@ -125,13 +126,14 @@ def update_freq_select(attrname, old, new):
             )
             break
     
+    
     unit_select_options = mapping_dict[freq_select.value]
     unit_select.options = unit_select_options
     
     if unit_select.value not in unit_select_options:
         unit_select.value = unit_select_options[0]
     
-    print(unit_select.value)
+    # print(unit_select.value)
 
 
 def update_unit_select(attrname, old, new):
@@ -140,7 +142,7 @@ def update_unit_select(attrname, old, new):
     
     if type_select.value not in type_select_options:
         type_select.value = type_select_options[0]
-    print(type_select.value)
+    # print(type_select.value)
 
 
 def update_type_select(attrname, old, new):
@@ -149,7 +151,7 @@ def update_type_select(attrname, old, new):
     
     if cat1_select.value not in cat1_select_options:
         cat1_select.value = cat1_select_options[0]
-    print(cat1_select.value)
+    # print(cat1_select.value)
 
 
 def update_cat1_select(attrname, old, new):
@@ -163,7 +165,7 @@ def update_cat1_select(attrname, old, new):
     except Exception as e:
         cat2_select.options = [""]
         cat2_select.value = cat2_select.options[0]
-    print(cat2_select.value)
+    # print(cat2_select.value)
 
 
 def update_cat2_select(attrname, old, new):
@@ -178,7 +180,7 @@ def update_cat2_select(attrname, old, new):
         cat3_select.options = [""]
         cat3_select.value = cat3_select.options[0]
         
-    print(cat3_select.value)
+    # print(cat3_select.value)
 
 
 def update_cat3_select(attrname, old, new):
@@ -191,7 +193,7 @@ def update_cat3_select(attrname, old, new):
     except Exception as e:
         cat4_select.options = [""]
         cat4_select.value = cat4_select.options[0]
-    print(cat4_select.value)
+    # print(cat4_select.value)
 
 
 def update_cat4_select(attrname, old, new):
@@ -204,183 +206,260 @@ def update_cat4_select(attrname, old, new):
     except Exception as e:
         cat5_select.options = [""]
         cat5_select.value = cat5_select.options[0]
-    
-    print(cat5_select.value)
-    
+        
     update_selects_format()
+    # print(cat5_select.value)
 
 
+def update_axis_position(attrname, old, new):  # Use to adjust background image position
+    global main_p
+    
+    x_start = main_p.extra_x_ranges['bi'].start
+    x_end = main_p.extra_x_ranges['bi'].end
+    
+    y_start = main_p.extra_y_ranges['bi'].start
+    y_end = main_p.extra_y_ranges['bi'].end
+    
+    # print(x_start, x_end, y_start, y_end)
+    
+    for i in main_p.renderers:
+        if i.name == 'bi':
+            i.glyph.y = y_start
+            i.glyph.x = x_start
+            i.glyph.dh = y_end - y_start
+            i.glyph.dw = x_end - x_start
+    
+    update_main_axis_range()
+
+
+def update_main_axis_range(attrname=None, old=None, new=None, expand_perc=1.2):
+    global main_p, source
+    x_start = main_p.x_range.start
+    x_end = main_p.x_range.end
+    try:
+        x_end = x_end.timestamp()
+        x_end = dt.fromtimestamp(int(x_end)) - td(hours=8)
+    except Exception as e:
+        x_end = dt.fromtimestamp(int(x_end) / 1000) - td(hours=8)
+    try:
+        x_start = x_start.timestamp()
+        x_start = dt.fromtimestamp(int(x_start)) - td(hours=8)
+    except Exception as e:
+        x_start = dt.fromtimestamp(int(x_start) / 1000) - td(hours=8)
+
+    source_df = pd.DataFrame(source.data).set_index("Date")
+    source_df_plot = source_df.loc[(source_df.index > x_start) & (source_df.index < x_end)].astype(float)
+    new_y_range_end = source_df_plot.max().max()
+    new_y_range_start = source_df_plot.min().min()
+    new_y_range_end = new_y_range_end * expand_perc if new_y_range_end > 0 else new_y_range_end * (1 - (expand_perc - 1))
+    new_y_range_start = new_y_range_start * (1 - (expand_perc - 1)) if new_y_range_start > 0 else new_y_range_start * expand_perc
+
+    main_p.y_range.start = new_y_range_start
+    main_p.y_range.end = new_y_range_end
+    main_p.y_range.reset_start = new_y_range_start
+    main_p.y_range.reset_end = new_y_range_end
+
+    
 def add_button_callback():
     col_name = f"{tool.get_column_by_selects(country_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select, category_len=setting.category_structure[category_select.value]['length'])}_{country_select.value}"
-
+    
     data_setting_object = tool.create_data_setting_object(data_setting, col_name)
     old_multichoice_values = multichoice.value
-
-    new_multichoice_value = f"{data_setting_object['name']}_{country_select.value}"
-    if (new_multichoice_value, data_setting_object['display_name']) not in multichoice.options:
+    
+    new_value = (f"{data_setting_object['name']}", data_setting_object['display_name'])
+    if new_value not in multichoice.options:
         new_option = multichoice.options
-        new_option.append((new_multichoice_value, data_setting_object['display_name']))
+        new_option.append(new_value)
         multichoice.options = new_option
         
-        multichoice.value = old_multichoice_values + [new_multichoice_value]
-        
+        multichoice.value = old_multichoice_values + [new_value[0]]
+    
     else:
         print("Duplicated Add")
+
+
+def download_button_callback():
+    pass
+
+
+def multichoice_add():
+    pass
+
+
+def multichoice_delete():
+    pass
+    
+
+def multichoice_callback(attr, old, new):
+    if len(old) < len(new):
+        new_chart(old=old, new=new)
+    else:
+        drop_chart(old=old, new=new)
+    
+    
+def new_chart(old, new):
+    global source, main_p
+    new = list(set(new) - set(old))[0]
+    if new in tool.source_backup.columns.tolist():
+        status = False
+    else:
+        status = True
         
-
-def multichoice_callback(attrname, old, new):
-    update_format(new_values=update_chart())
-
-
-def show_mapping_callback():
-    for i in p.renderers:
-        print(i.name)
-
-
-def index_toggle_callback(active):
-    print(active)
-
-
-def update_chart():
-    # global variable
-    global source
-    
-    # delete old graph
-    old_list = []
-    keep_list = []
-    new_list = []
-    
-    for i in range(len(p.renderers)):
-        try:
-            old_list.append((p.renderers[i].name, i,))
-            continue
-        except AttributeError as e:
-            pass
+    data_setting_object = tool.create_data_setting_object(data_setting=data_setting, col_name=new)
+    source = tool.add_source_column(source=source, col_name=new)
+    # Condition 1 : totally new value
+    if status:
+        print(f"New : {new}")
         
-        try:
-            old_list.append((p.renderers[i].name, i,))
-            continue
-        except AttributeError as e:
-            pass
-    print(old_list)
-    for i in old_list:  # i is a tuple
-        if i[0] in multichoice.value:
-            keep_list.append(i[1])
-        
-        else:  # set colors to False
-            try:
-                color = p.renderers[i[1]].glyph.line_color
-            except AttributeError as e:
-                pass
-            try:
-                color = p.renderers[i[1]].glyph.fill_color
-            except AttributeError as e:
-                pass
-            
-            for g in setting.colors:
-                if g['color'] == color:
-                    g['used'] = False
-            
-    source_df = pd.DataFrame(source.data)
-    if len(source_df) != 0:
-        source_df_cols = source_df.columns[[0] + [i+1 for i in keep_list]].tolist()
-        print(source_df_cols)
-        source_df = source_df[source_df_cols].set_index("Date")
-        source = ColumnDataSource(source_df)
+    else:
+        print(f"Existing : {new}")
     
-    p.renderers = list(np.array(p.renderers)[keep_list])
-    range_p.renderers = list(np.array(range_p.renderers)[keep_list])
-    data_table.columns = list(np.array(data_table.columns)[[0] + [i + 1 for i in keep_list]])
-    hover.tooltips = list(map(tuple, np.array(hover.tooltips)[[0] + [i + 1 for i in keep_list]]))
+    for obj in setting.colors:
+        if not obj['used']:
+            color = obj['color']
+            obj['used'] = True
+            break
+    
+    # plot new object
+    if data_setting_object['chart_type'] == "line":
+        main_p.line(x="Date", y=new, source=source, name=new, width=setting.line_width,
+                    legend_label=data_setting_object["display_name"], color=color)
+        sub_p.line(x="Date", y=new, source=source, name=new, width=setting.line_width, color=color)
 
-    # prevent first legend condition
-    try:
-        p.legend.items = list(np.array(p.legend.items)[keep_list])
-    except AttributeError as e:
-        pass
+    elif default_data_setting_object['chart_type'] == "bar":
+        main_p.vbar(x="Date", top=new, source=source,
+                    name=new, width=setting.bar_width,
+                    line_width=setting.bar_border_color,
+                    legend_label=data_setting_object['display_name'],
+                    fill_color=color)
     
-    for i in multichoice.value:
-        if i not in [g[0] for g in old_list]:
-            new_list.append(i)
-            
-            # Need to add a data setting backup
-            data_setting_object = tool.create_data_setting_object(data_setting, i)
-            source = tool.add_source_column(source=source, col_name=i)
-            
-            if data_setting_object['chart_type'] == "line":
-                p.line(x="Date", y=data_setting_object["name"], source=source, name=i, width=setting.line_width, legend_label=data_setting_object["display_name"])
-                range_p.line(x="Date", y=data_setting_object['name'], source=source, name=i, width=setting.line_width)
-            
-            elif data_setting_object['chart_type'] == "bar":
-                p.vbar(x="Date", top=data_setting_object['name'], source=source,
-                       name=i, width=setting.bar_width,
-                       line_width=setting.bar_border_color,
-                       legend_label=data_setting_object['display_name'])
-                
-                range_p.vbar(x="Date", top=data_setting_object['name'], source=source,
-                             name=i, width=setting.bar_width,
-                             line_width=setting.bar_border_color)
-            
-            new_columns = data_table.columns
-            new_columns.append(TableColumn(field=data_setting_object['name'], title=data_setting_object['display_name'],
-                                           formatter=NumberFormatter()))
-            data_table.columns = new_columns
-            data_table.source = source
+        sub_p.vbar(x="Date", top=new, source=source,
+                   name=new, width=setting.bar_width,
+                   line_width=setting.bar_border_color, fill_color=color)
+
+    new_columns = datatable.columns
+    if data_setting_object['data_type'] == 'p':
+        new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'],
+                                       formatter=NumberFormatter(format="0.00 %")))
+    elif data_setting_object['data_type'] == 'r':
+        new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'],
+                                       formatter=NumberFormatter(format="0,0 a")))
+    datatable.columns = new_columns
+    datatable.source = source
     
-    for i in p.renderers:
+    # add new tooltips
+    new_tooltips_list = list(main_p.hover.tooltips)
+    if data_setting_object['data_type'] == 'p':
+        tooltips_str = "@{" + new + "}{0.00 %}"
+        new_tooltips_list.append((data_setting_object['display_name'], tooltips_str))
+        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.00 %')
+    
+    if data_setting_object['data_type'] == 'r':
+        tooltips_str = "@{" + new + "}{0,0 a}"
+        new_tooltips_list.append((data_setting_object['display_name'], tooltips_str))
+        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0 a')
+    main_p.hover.tooltips = new_tooltips_list
+    
+    for i in main_p.renderers[1:]:  # in order to prevent
         i.data_source = source
-    p.legend.click_policy = "mute"
+    update_main_axis_range()
+    # print(pd.DataFrame(source.data))
     
-    return new_list
+    
+def drop_chart(old, new):
+    global main_p, sub_p, source, datatable
+    drop = list(set(old) - set(new))[0]
+    print("Remove: ", drop)
+    
+    for p in [main_p, sub_p]:
+        renderers_list = list(p.renderers)
+        for i, renderer in enumerate(renderers_list):
+            if renderer.name == drop:
+                renderers_list.remove(renderer)
+                try:
+                    used_color = renderer.glyph.line_color
+                except Exception as e:
+                    used_color = renderer.glyph.fill_color
+        p.renderers = renderers_list
+    
+    # delete in source and datatable also delete in color dict
+    source = ColumnDataSource(pd.DataFrame(source.data).drop(drop, axis=1).set_index("Date").dropna(how="all", axis=0))
+    
+    datatable_columns_list = list(datatable.columns)
+    for i, column in enumerate(datatable_columns_list):
+        if column.field == drop:
+            datatable_columns_list.remove(column)
+    datatable.columns = datatable_columns_list
+    datatable.source = source
+    
+    # need to get data_setting object to determine display name
+    drop_display_name = tool.data_setting_backup.loc[drop, "display_name"]
+    legend_items_list = list(main_p.legend.items)
+    for i, item in enumerate(legend_items_list):
+        if item.label.value == drop_display_name:
+            legend_items_list.remove(item)
+    main_p.legend.items = legend_items_list
+    
+    for color in setting.colors:
+        if color['color'] == used_color:
+            color['used'] = False
+    
+    update_main_axis_range()
+    print(main_p.hover.tooltips)
 
 
-def update_format(new_values):
-    new_tooltips = hover.tooltips
+def default_chart():
+    # add data to source
+    # update datatable
+    # update format from data_setting_object
+    global source
+    source = tool.add_source_column(source=source, col_name=default_column, new=True)
+    # print(source.data)
     
-    for i in new_values:
-        data_setting_object = tool.create_data_setting_object(data_setting, i)
-        index = multichoice.value.index(i)
-        
-        # update color
-        for obj in setting.colors:
-            if not obj['used']:
-                color = obj['color']
-                obj['used'] = True
-                break
-        
-        
-        # line case
-        if data_setting_object['chart_type'] == "line":
-            p.renderers[index].glyph.line_color = color
-            range_p.renderers[index].glyph.line_color = color
-        
-        # bar case
-        elif data_setting_object['chart_type'] == "bar":
-            p.renderers[index].glyph.fill_color = color
-            range_p.renderers[index].glyph.fill_color = color
-        
-        # percentage case
-        if data_setting_object['data_type'] == "p":
-            
-            tooltips_str = "@{" + data_setting_object['name'] + "}{0.00 %}"
-            new_tooltips.append((data_setting_object['display_name'], tooltips_str))
-            p.yaxis.formatter = NumeralTickFormatter(format='0,0.00%')
-            data_table.columns[index + 1].formatter.format = "0,0.00 %"
-        
-        # Real number case
-        elif data_setting_object['data_type'] == "r":
-            
-            tooltips_str = "@{" + data_setting_object['name'] + "}{0,0.0 a}"
-            new_tooltips.append((data_setting_object['display_name'], tooltips_str))
-            p.yaxis.formatter = NumeralTickFormatter(format="0,0.0 a")
-            data_table.columns[index + 1].formatter.format = "0,0.00 a"
+    for obj in setting.colors:
+        if not obj['used']:
+            color = obj['color']
+            obj['used'] = True
+            break
     
-    hover.tooltips = new_tooltips
+    if default_data_setting_object['chart_type'] == "line":
+        main_p.line(x="Date", y=default_column, source=source, name=default_column, width=setting.line_width,
+                    legend_label=default_data_setting_object["display_name"], color=color)
+        sub_p.line(x="Date", y=default_column, source=source, name=default_column, width=setting.line_width, color=color)
+
+    elif default_data_setting_object['chart_type'] == "bar":
+        main_p.vbar(x="Date", top=default_column, source=source,
+                    name=default_column, width=setting.bar_width,
+                    line_width=setting.bar_border_color,
+                    legend_label=default_data_setting_object['display_name'], fill_color=color)
     
-    p.y_range.start, p.y_range.end = tool.get_source_limitvalues(pd.DataFrame(source.data))
-    print(p.y_range)
-    p.legend.location = "top_left"
+        sub_p.vbar(x="Date", top=default_column, source=source,
+                   name=default_column, width=setting.bar_width,
+                   line_width=setting.bar_border_color, fill_color=color)
+    new_columns = datatable.columns
+    if default_data_setting_object['data_type'] == 'p':
+        new_columns.append(TableColumn(field=default_column, title=default_data_setting_object['display_name'],
+                                       formatter=NumberFormatter(format="0.00 %")))
+    elif default_data_setting_object['data_type'] == 'r':
+        new_columns.append(TableColumn(field=default_column, title=default_data_setting_object['display_name'],
+                                       formatter=NumberFormatter(format="0,0 a")))
+    datatable.columns = new_columns
+    datatable.source = source
+
+    new_tooltips_list = list(main_p.hover.tooltips)
+    if default_data_setting_object['data_type'] == 'p':
+        tooltips_str = "@{" + default_column + "}{0.00 %}"
+        new_tooltips_list.append((default_data_setting_object['display_name'], tooltips_str))
+        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.00 %')
+
+    if default_data_setting_object['data_type'] == 'r':
+        tooltips_str = "@{" + default_column + "}{0,0 a}"
+        new_tooltips_list.append((default_data_setting_object['display_name'], tooltips_str))
+        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0 a')
+    main_p.hover.tooltips = new_tooltips_list
     
+    update_main_axis_range()
+
 
 def link_callback():
     country_select.on_change("value", update_country_select, update_category_select, update_freq_select,
@@ -400,41 +479,70 @@ def link_callback():
     cat3_select.on_change("value", update_cat3_select, update_cat4_select)
     cat4_select.on_change("value", update_cat4_select)
     
+    main_p.x_range.on_change("start", update_axis_position)
+    main_p.extra_y_ranges['bi'].on_change("start", update_axis_position)
     multichoice.on_change("value", multichoice_callback)
-    
     add_button.on_click(handler=add_button_callback)
-    download_button.js_on_click(CustomJS(args={"datatable": data_table}, code=open(setting.download_button_path).read()))
-    index_toggle.on_click(handler=index_toggle_callback)
 
-# =========MAIN CODE========
-# main()
-# =========CREATE BUTTON START=========
-
+# =========CREATE SELECTS=========
 country_select, category_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select = tool.create_selects()
 mapping_dict = tool.mapping_dict
 mapping = tool.general_mapping
 matched_columns = tool.matched_columns
 
-
-# read data
-
-if freq_select.value[-1] == "Q":
-    data, data_setting = tool.read_data(
-        data_path=setting.structure[country_select.value][category_select.value]['Quarterly_data_path'],
-        setting_path=setting.structure[country_select.value][category_select.value]['Quarterly_setting_path'],
-        matched_columns=matched_columns
-    )
-    
-elif freq_select.value[-1] == "A":
-    data, data_setting = tool.read_data(
-        data_path=setting.structure[country_select.value][category_select.value]['Annual_data_path'],
-        setting_path=setting.structure[country_select.value][category_select.value]['Annual_setting_path'],
-        matched_columns=matched_columns
-    )
-
-default_column = f"{tool.get_column_by_selects(country_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select, category_len=setting.category_structure[category_select.value]['length'])}_{country_select.value}"
+for i in setting.data_freq_lookup_table.keys():
+    if freq_select.value in setting.data_freq_lookup_table[i]:
+        data, data_setting = tool.read_data(
+            data_path=setting.structure[country_select.value][category_select.value][f'{i}_data_path'],
+            setting_path=setting.structure[country_select.value][category_select.value][f'{i}_setting_path'],
+            matched_columns=matched_columns
+        )
+        break
+        
+# =========DEFAULT COLUMN=========
+column_name_in_db = tool.get_column_by_selects(country_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select, category_len=setting.category_structure[category_select.value]['length'])
+current_country = country_select.value
+default_column = f"{column_name_in_db}_{current_country}"
 default_data_setting_object = tool.create_data_setting_object(data_setting, default_column)
 
+# =========CREATE GLOBAL OBJECTS=========
+
+source = ColumnDataSource(pd.DataFrame())
+
+hover = HoverTool(tooltips=[("Date", "@Date{%F}")],
+                  formatters={"@Date": "datetime"},
+                  mode='vline', line_policy='next')
+
+main_p = figure(width=setting.figure_width, height=setting.figure_height, x_axis_type="datetime",
+                tools=[PanTool(), hover, ResetTool(), BoxZoomTool(), WheelZoomTool()],
+                x_range=(data.index[x_range_start_index], data.index[x_range_end_index]), y_range=Range1d())
+
+backgroun_image, xdim, ydim, dim = tool.create_rgba_from_file(path=setting.background_image_path)
+
+main_p.extra_x_ranges = {"bi": Range1d(start=0, end=1)}
+main_p.extra_y_ranges = {"bi": Range1d(start=0, end=ydim/xdim)}
+main_p.image_rgba(image=[backgroun_image], x=0, y=0, dw=1, dh=ydim/xdim, alpha=0.1, level='overlay',
+                  y_range_name="bi", x_range_name='bi', name="bi")
+
+sub_p = figure(width=main_p.width, height=setting.range_height, y_range=main_p.y_range,
+               x_axis_type='datetime', y_axis_type=None, tools='')
+
+range_tool = RangeTool(x_range=main_p.x_range)
+range_tool.overlay.fill_color = "forestgreen"
+range_tool.overlay.fill_alpha = 0.2
+
+sub_p.add_tools(range_tool)
+
+datatable_columns = [
+    TableColumn(field='Date', title="Date", formatter=DateFormatter())
+]
+
+datatable = DataTable(source=source, columns=datatable_columns,
+                      width=int(setting.datatable_column_width * len(datatable_columns)),
+                      height=main_p.height + sub_p.height,
+                      stylesheets=[setting.datatable_stylesheet], )
+
+# =========CREATE BUTTON=========
 add_button = Button(label="Add",
                     width=setting.button_width,
                     icon=TablerIcon('circle-plus', size="1.2em"),
@@ -461,59 +569,25 @@ index_toggle = Toggle(label="Index",
                       height_policy="fit",
                       width_policy="fit"
                       )
-multichoice = MultiChoice(value=[f"{default_data_setting_object['name']}_{country_select.value}"],
-                          options=[(f"{default_data_setting_object['name']}_{country_select.value}", default_data_setting_object['display_name'])],
+multichoice_values = [default_data_setting_object['name']]
+multichoice_options = [(default_data_setting_object['name'], default_data_setting_object['display_name'])]
+multichoice = MultiChoice(value=[],
+                          options=[],
                           width=setting.multichoice_width, stylesheets=[setting.select_stylesheet])
+multichoice.value = multichoice_values
+multichoice.options = multichoice_options
 
-# =========CREATE BUTTON END=========
-source = ColumnDataSource(pd.DataFrame())
-
-hover = HoverTool(tooltips=[("Date", "@Date{%F}")],
-                  formatters={"@Date": "datetime"},
-                  mode='vline', line_policy='next')
-
-p = figure(width=setting.figure_width, height=setting.figure_height, x_axis_type="datetime",
-           tools=[PanTool(), hover, ResetTool(), BoxZoomTool(), WheelZoomTool()],
-           x_range=(data.index[-30], data.index[-1]))
-
-p.extra_y_ranges = {"background_image": Range1d(start=0, end=1)}
-p.image_url(setting.background_image_url, y=0, h=1, anchor="bottom_left", alpha=0.1, level='underlay',
-            y_range_name="background_image", name='background_image')
-
-
-range_p = figure(width=p.width, height=setting.range_height, y_range=p.y_range,
-                 x_axis_type='datetime', y_axis_type=None, tools='')
-
-range_tool = RangeTool(x_range=p.x_range)
-range_tool.overlay.fill_color = "forestgreen"
-range_tool.overlay.fill_alpha = 0.2
-
-range_p.add_tools(range_tool)
-# range_p.toolbar.active_multi = range_tool
-
-
-data_table_columns = [
-    TableColumn(field='Date', title="Date", formatter=DateFormatter())
-]
-data_table = DataTable(source=source, columns=data_table_columns,
-                       width=int(setting.datatable_column_width * len(data_table_columns)),
-                       height=p.height + range_p.height,
-                       index_position=0,
-                       stylesheets=[setting.datatable_stylesheet],)
-
-update_format(new_values=update_chart())
-
+# =========CONSTRUCT LAYOUT=========
 layout = column(row(column(country_select, category_select, freq_select, unit_select), column(type_select, cat1_select, cat2_select), column(cat3_select, cat4_select, cat5_select)),
                 row(add_button, download_button, index_toggle, multichoice),
-                row(column(p, range_p), data_table))
+                row(column(main_p, sub_p), column(datatable)))
 
 # Link select and callback
 link_callback()
-
-# Change the format of the selects
 update_selects_format()
+default_chart()
+
 
 curdoc().theme = Theme(filename=setting.theme_file_path)
 curdoc().add_root(layout)
 curdoc().title = setting.curdoc_name
-

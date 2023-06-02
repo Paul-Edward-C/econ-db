@@ -12,6 +12,7 @@ import numpy as np
 from datetime import timedelta as td
 import warnings
 from bokeh.models.css import InlineStyleSheet
+from PIL import Image
 import os
 warnings.filterwarnings(action='ignore')
 
@@ -123,6 +124,11 @@ class Tool:
         self.data_setting = pd.read_csv(setting_path, index_col=[0])
         
         data = pd.read_csv(data_path, index_col=[0]).dropna(how='all', axis=0).fillna(method="ffill")
+        if "m.csv" in data_path:  # This is monthly data, still need to find a better solution
+            data.index = pd.to_datetime(data.index) - pd.offsets.MonthEnd(1)
+        else:
+            data.index = pd.to_datetime(data.index)
+        
         self.data = data[matched_columns] if matched_columns is not None else data
         self.data.index = pd.to_datetime(self.data.index)
         
@@ -140,7 +146,7 @@ class Tool:
     
     def create_data_setting_object(self, data_setting, col_name):
         data_setting_backup_cols = ['display_name', "data_type", "chart_type"]
-        data_col_name = col_name = "_".join(col_name.split("_")[:-1])
+        data_col_name = "_".join(col_name.split("_")[:-1])
         try:
             self.data_setting_backup.loc[col_name, data_setting_backup_cols] = data_setting.loc[data_col_name].tolist()
         except Exception as e:
@@ -149,13 +155,13 @@ class Tool:
         
         return data_setting_object
     
-    def add_source_column(self, source, col_name, new=True):
+    def add_source_column(self, source, col_name, new=False):
         
         source_df = pd.DataFrame(source.data)
         
         sub_name = "_".join(col_name.split("_")[:-1])
         
-        if len(source_df) == 0:
+        if new:
             source_df = self.data[[sub_name]]
             self.source_backup = self.data[[sub_name]]
             source_df.columns = [col_name]
@@ -165,10 +171,12 @@ class Tool:
             source_df = source_df.set_index("Date")
             
             try:
-                source_df = pd.concat([source_df, self.data[[sub_name]]], axis=1)
-                self.source_backup = pd.concat([self.source_backup, self.data[[sub_name]]], axis=1)
+                new_df = self.data[[sub_name]]
+                new_df.columns = [col_name]
+                source_df = pd.concat([source_df, new_df], axis=1)
+                self.source_backup = pd.concat([self.source_backup, new_df], axis=1)
             except Exception as e:
-                source_df = pd.concat([source_df, self.source_backup[[sub_name]]], axis=1)
+                source_df = pd.concat([source_df, self.source_backup[[col_name]]], axis=1)
         
         source_df.dropna(how='all', axis=0, inplace=True)
         source = ColumnDataSource(source_df)
@@ -187,10 +195,19 @@ class Tool:
             minimum *= self.setting.axis_ratio
         else:
             minimum /= self.setting.axis_ratio
-
-        
+    
         return minimum, maximum
+    
+    def create_rgba_from_file(self, path):
+        lena_img = Image.open(path).convert('RGBA')
+        xdim, ydim = lena_img.size
         
+        img = np.empty((ydim, xdim), dtype=np.uint32)
+        view = img.view(dtype=np.uint8).reshape((ydim, xdim, 4))
+        view[:, :, :] = np.flipud(np.asarray(lena_img))
+    
+        dim = max(xdim, ydim)
+        return img, xdim, ydim, dim
 
 class Setting:
     def __init__(self):
@@ -211,7 +228,7 @@ class Setting:
 
         self.multichoice_width = int(self.figure_width + self.datatable_column_width - 3 * self.button_width)
         
-        self.background_image_url = "https://www.eastasiaecon.com/content/images/size/w2400/2023/04/Image-29-4-2023-at-7.34-PM.jpeg"
+        self.background_image_path = 'static/background_image_300.png'
         
         # color setting
         self.bar_border_color = "#000000"
