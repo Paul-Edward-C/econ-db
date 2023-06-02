@@ -209,6 +209,7 @@ class Tool:
         dim = max(xdim, ydim)
         return img, xdim, ydim, dim
 
+
 class Setting:
     def __init__(self):
         self.create_styles()
