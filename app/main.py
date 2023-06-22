@@ -306,7 +306,7 @@ def new_chart(old, new):
         status = True
         
     data_setting_object = tool.create_data_setting_object(data_setting=data_setting, col_name=new)
-    source = tool.add_source_column(source=source, col_name=new)
+    source = tool.add_source_column(source=source, col_name=new, new=status)
     # Condition 1 : totally new value
     if status:
         print(f"New : {new}")
@@ -326,7 +326,7 @@ def new_chart(old, new):
                     legend_label=data_setting_object["display_name"], color=color)
         sub_p.line(x="Date", y=new, source=source, name=new, width=setting.line_width, color=color)
 
-    elif default_data_setting_object['chart_type'] == "bar":
+    elif data_setting_object['chart_type'] == "bar":
         main_p.vbar(x="Date", top=new, source=source,
                     name=new, width=setting.bar_width,
                     line_width=setting.bar_border_color,
@@ -412,61 +412,8 @@ def drop_chart(old, new):
     for i in main_p.renderers[1:]:  # in order to prevent
         i.data_source.data = source_dict
     update_main_axis_range()
-
-
-def default_chart():
-    # add data to source
-    # update datatable
-    # update format from data_setting_object
-    global source
-    source = tool.add_source_column(source=source, col_name=default_column, new=True)
-    # print(source.data)
     
-    for obj in setting.colors:
-        if not obj['used']:
-            color = obj['color']
-            obj['used'] = True
-            break
     
-    if default_data_setting_object['chart_type'] == "line":
-        main_p.line(x="Date", y=default_column, source=source, name=default_column, width=setting.line_width,
-                    legend_label=default_data_setting_object["display_name"], color=color)
-        sub_p.line(x="Date", y=default_column, source=source, name=default_column, width=setting.line_width, color=color)
-
-    elif default_data_setting_object['chart_type'] == "bar":
-        main_p.vbar(x="Date", top=default_column, source=source,
-                    name=default_column, width=setting.bar_width,
-                    line_width=setting.bar_border_color,
-                    legend_label=default_data_setting_object['display_name'], fill_color=color)
-    
-        sub_p.vbar(x="Date", top=default_column, source=source,
-                   name=default_column, width=setting.bar_width,
-                   line_width=setting.bar_border_color, fill_color=color)
-    new_columns = datatable.columns
-    if default_data_setting_object['data_type'] == 'p':
-        new_columns.append(TableColumn(field=default_column, title=default_data_setting_object['display_name'],
-                                       formatter=NumberFormatter(format="0.00 %")))
-    elif default_data_setting_object['data_type'] == 'r':
-        new_columns.append(TableColumn(field=default_column, title=default_data_setting_object['display_name'],
-                                       formatter=NumberFormatter(format="0,0 a")))
-    datatable.columns = new_columns
-    datatable.source = source
-
-    new_tooltips_list = list(main_p.hover.tooltips)
-    if default_data_setting_object['data_type'] == 'p':
-        tooltips_str = "@{" + default_column + "}{0.00 %}"
-        new_tooltips_list.append((default_data_setting_object['display_name'], tooltips_str))
-        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.00 %')
-
-    if default_data_setting_object['data_type'] == 'r':
-        tooltips_str = "@{" + default_column + "}{0,0 a}"
-        new_tooltips_list.append((default_data_setting_object['display_name'], tooltips_str))
-        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0 a')
-    main_p.hover.tooltips = new_tooltips_list
-    
-    update_main_axis_range()
-
-
 def link_callback():
     country_select.on_change("value", update_country_select, update_category_select, update_freq_select,
                              update_unit_select, update_type_select, update_cat1_select, update_cat2_select,
@@ -504,12 +451,6 @@ for i in setting.data_freq_lookup_table.keys():
             matched_columns=matched_columns
         )
         break
-        
-# =========DEFAULT COLUMN=========
-column_name_in_db = tool.get_column_by_selects(country_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select, category_len=setting.category_structure[category_select.value]['length'])
-current_country = country_select.value
-default_column = f"{column_name_in_db}_{current_country}"
-default_data_setting_object = tool.create_data_setting_object(data_setting, default_column)
 
 # =========CREATE GLOBAL OBJECTS=========
 
@@ -576,13 +517,9 @@ index_toggle = Toggle(label="Index",
                       height_policy="fit",
                       width_policy="fit"
                       )
-multichoice_values = [default_data_setting_object['name']]
-multichoice_options = [(default_data_setting_object['name'], default_data_setting_object['display_name'])]
 multichoice = MultiChoice(value=[],
                           options=[],
                           width=setting.multichoice_width, stylesheets=[setting.select_stylesheet])
-multichoice.value = multichoice_values
-multichoice.options = multichoice_options
 
 # =========CONSTRUCT LAYOUT=========
 layout = column(row(column(country_select, category_select, freq_select, unit_select), column(type_select, cat1_select, cat2_select), column(cat3_select, cat4_select, cat5_select)),
@@ -592,8 +529,6 @@ layout = column(row(column(country_select, category_select, freq_select, unit_se
 # Link select and callback
 link_callback()
 update_selects_format()
-default_chart()
-
 
 curdoc().theme = Theme(filename=setting.theme_file_path)
 curdoc().add_root(layout)

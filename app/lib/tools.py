@@ -131,17 +131,6 @@ class Tool:
         
         self.data = data[matched_columns] if matched_columns is not None else data
         self.data.index = pd.to_datetime(self.data.index)
-        
-        for index, row in self.data_setting.iterrows():
-            try:
-                if row['data_type'] == "p":
-                    self.data.loc[:, index] = self.data[index].values / 100
-                else:
-                    self.data.loc[:, index] = self.data[index].values * 1000000000
-            
-            except Exception as e:
-                pass
-                
         return self.data, self.data_setting
     
     def create_data_setting_object(self, data_setting, col_name):
@@ -155,31 +144,32 @@ class Tool:
         
         return data_setting_object
     
-    def add_source_column(self, source, col_name, new=False):
+    def add_source_column(self, source, col_name, new=False):  # new refer to a new data in source_backup
         
         source_df = pd.DataFrame(source.data)
         
         sub_name = "_".join(col_name.split("_")[:-1])
         
-        if new:
-            source_df = self.data[[sub_name]]
-            self.source_backup = self.data[[sub_name]]
-            source_df.columns = [col_name]
-            self.source_backup.columns = [col_name]
-            
+        print(source_df)
+        
+        if source_df.empty:
+            new_source_df = self.data[[sub_name]]
+            new_source_df.columns = [col_name]
+            self.source_backup = new_source_df
+        
         else:
             source_df = source_df.set_index("Date")
-            
-            try:
-                new_df = self.data[[sub_name]]
-                new_df.columns = [col_name]
-                source_df = pd.concat([source_df, new_df], axis=1)
-                self.source_backup = pd.concat([self.source_backup, new_df], axis=1)
-            except Exception as e:
-                source_df = pd.concat([source_df, self.source_backup[[col_name]]], axis=1)
+            if new:
+                new_col_df = self.data[[sub_name]]
+                new_col_df.columns = [col_name]
+                new_source_df = pd.concat([source_df, new_col_df], axis=1)
+                self.source_backup = pd.concat([self.source_backup, new_col_df], axis=1)
+            else:
+                new_source_df = pd.concat([source_df, self.source_backup[[col_name]]], axis=1)
+                
+        new_source_df.dropna(how='all', axis=0, inplace=True)
+        source = ColumnDataSource(new_source_df)
         
-        source_df.dropna(how='all', axis=0, inplace=True)
-        source = ColumnDataSource(source_df)
         return source
     
     def get_source_limitvalues(self, data):
