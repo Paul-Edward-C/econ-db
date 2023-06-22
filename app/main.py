@@ -339,11 +339,11 @@ def new_chart(old, new):
 
     new_columns = datatable.columns
     if data_setting_object['data_type'] == 'p':
-        new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'],
-                                       formatter=NumberFormatter(format="0.00 %")))
+        new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'] + " (in %)",
+                                       formatter=NumberFormatter(format="0.0")))
     elif data_setting_object['data_type'] == 'r':
-        new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'],
-                                       formatter=NumberFormatter(format="0,0 a")))
+        new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'] + " (in bn)",
+                                       formatter=NumberFormatter(format="0,0")))
     datatable.columns = new_columns
     source_dict = dict(pd.DataFrame(source.data).set_index("Date").dropna(how="all", axis=0).reset_index())
     
@@ -352,14 +352,14 @@ def new_chart(old, new):
     # add new tooltips
     new_tooltips_list = list(main_p.hover.tooltips)
     if data_setting_object['data_type'] == 'p':
-        tooltips_str = "@{" + new + "}{0.00 %}"
+        tooltips_str = "@{" + new + "}{0.0}"
         new_tooltips_list.append((data_setting_object['display_name'], tooltips_str))
-        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.00 %')
+        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.0')
     
     if data_setting_object['data_type'] == 'r':
-        tooltips_str = "@{" + new + "}{0,0 a}"
+        tooltips_str = "@{" + new + "}{0,0}"
         new_tooltips_list.append((data_setting_object['display_name'], tooltips_str))
-        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0 a')
+        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0')
     main_p.hover.tooltips = new_tooltips_list
     
     for i in main_p.renderers[1:]:  # in order to prevent
@@ -412,6 +412,13 @@ def drop_chart(old, new):
     for i in main_p.renderers[1:]:  # in order to prevent
         i.data_source.data = source_dict
     update_main_axis_range()
+    
+    new_tooltips_list = list(main_p.hover.tooltips)
+    for i in new_tooltips_list:
+        if drop in i[1]:
+            new_tooltips_list.remove(i)
+            break
+    main_p.hover.tooltips = new_tooltips_list
     
     
 def link_callback():

@@ -150,8 +150,6 @@ class Tool:
         
         sub_name = "_".join(col_name.split("_")[:-1])
         
-        print(source_df)
-        
         if source_df.empty:
             new_source_df = self.data[[sub_name]]
             new_source_df.columns = [col_name]
