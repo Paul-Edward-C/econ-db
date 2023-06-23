@@ -150,19 +150,20 @@ class Tool:
         
         sub_name = "_".join(col_name.split("_")[:-1])
         
-        if source_df.empty:
+        if self.source_backup.empty:
             new_source_df = self.data[[sub_name]]
             new_source_df.columns = [col_name]
             self.source_backup = new_source_df
         
         else:
             source_df = source_df.set_index("Date")
-            if new:
+            try:
                 new_col_df = self.data[[sub_name]]
                 new_col_df.columns = [col_name]
                 new_source_df = pd.concat([source_df, new_col_df], axis=1)
                 self.source_backup = pd.concat([self.source_backup, new_col_df], axis=1)
-            else:
+                
+            except Exception as e:
                 new_source_df = pd.concat([source_df, self.source_backup[[col_name]]], axis=1)
                 
         new_source_df.dropna(how='all', axis=0, inplace=True)
