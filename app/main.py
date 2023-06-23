@@ -282,14 +282,6 @@ def download_button_callback():
     pass
 
 
-def multichoice_add():
-    pass
-
-
-def multichoice_delete():
-    pass
-    
-
 def multichoice_callback(attr, old, new):
     if len(old) < len(new):
         new_chart(old=old, new=new)
@@ -307,7 +299,7 @@ def new_chart(old, new):
         
     data_setting_object = tool.create_data_setting_object(data_setting=data_setting, col_name=new)
     source = tool.add_source_column(source=source, col_name=new, new=status)
-    # Condition 1 : totally new value
+    # Condition 1 : new value
     if status:
         print(f"New : {new}")
         
@@ -343,7 +335,7 @@ def new_chart(old, new):
                                        formatter=NumberFormatter(format="0.0")))
     elif data_setting_object['data_type'] == 'r':
         new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'] + " (in bn)",
-                                       formatter=NumberFormatter(format="0,0")))
+                                       formatter=NumberFormatter(format="0,0.0")))
     datatable.columns = new_columns
     source_dict = dict(pd.DataFrame(source.data).set_index("Date").dropna(how="all", axis=0).reset_index())
     
