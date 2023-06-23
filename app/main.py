@@ -282,6 +282,10 @@ def download_button_callback():
     pass
 
 
+def index_toggle_callback(status):
+    print("INDEX TOGGLE", status)
+
+
 def multichoice_callback(attr, old, new):
     if len(old) < len(new):
         new_chart(old=old, new=new)
@@ -435,6 +439,7 @@ def link_callback():
     main_p.extra_y_ranges['bi'].on_change("start", update_axis_position)
     multichoice.on_change("value", multichoice_callback)
     add_button.on_click(handler=add_button_callback)
+    index_toggle.on_click(handler=index_toggle_callback)
 
 # =========CREATE SELECTS=========
 country_select, category_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select = tool.create_selects()
