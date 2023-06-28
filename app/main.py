@@ -324,7 +324,7 @@ def index_toggle_callback(active):
         for i in current_datatable_columns:
             col_name = "_".join(i.field.split("_")[:-1])
             
-            if "_index" in col_name:
+            if "_index" in i.field:
                 data_type = tool.data_setting_backup.loc[col_name, "data_type"]
                 display_name = tool.data_setting_backup.loc[col_name, "display_name"]
                 if data_type == 'p':
