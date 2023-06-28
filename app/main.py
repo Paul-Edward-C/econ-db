@@ -7,7 +7,8 @@
 
 # =========IMPORT PACKAGES==========
 from bokeh.models import ColumnDataSource, NumeralTickFormatter, RangeTool, HoverTool, ResetTool, BoxZoomTool, \
-    PanTool, DataTable, TableColumn, NumberFormatter, WheelZoomTool, Button, DateFormatter, MultiChoice, CustomJS, Toggle, TablerIcon, Range1d
+    PanTool, DataTable, TableColumn, NumberFormatter, WheelZoomTool, Button, DateFormatter, MultiChoice, CustomJS, Toggle, TablerIcon, Range1d, \
+    TextInput, DatePicker
 # TablerIcon : https://tabler-icons.io/
 
 from bokeh.core.properties import value
@@ -246,8 +247,10 @@ def update_main_axis_range(attrname=None, old=None, new=None, expand_perc=1.2):
         x_start = dt.fromtimestamp(int(x_start)) - td(hours=8)
     except Exception as e:
         x_start = dt.fromtimestamp(int(x_start) / 1000) - td(hours=8)
-
-    source_df = pd.DataFrame(source.data).set_index("Date")
+    
+    print("all renderer names: ", [i.name for i in main_p.renderers[1:]])
+    used_columns = [renderer.name for renderer in main_p.renderers if (renderer.visible and renderer.name != "bi")] # might need to replace with renderer.glyph.y or renderer.glyph.top
+    source_df = pd.DataFrame(source.data).set_index("Date")[used_columns]
     source_df_plot = source_df.loc[(source_df.index > x_start) & (source_df.index < x_end)].astype(float)
     new_y_range_end = source_df_plot.max().max()
     new_y_range_start = source_df_plot.min().min()
@@ -282,9 +285,36 @@ def download_button_callback():
     pass
 
 
-def index_toggle_callback(status):
-    print("INDEX TOGGLE", status)
-
+def index_toggle_callback(active):
+    # renew starting date
+    global source, main_p, sub_p, datatable
+    if pd.DataFrame(source.data).empty:
+        return
+    source, index_ref_date = tool.update_index_source(source=source,
+                                                      index_date_input_value=index_date_input.value)
+    source_dict = dict(pd.DataFrame(source.data).set_index("Date").dropna(how="all", axis=0).reset_index())
+    
+    print(pd.DataFrame(source.data))
+    index_date_input.value = index_ref_date
+    
+    for p in [main_p, sub_p]:
+        for renderer in p.renderers:
+            if renderer.name == 'bi':
+                continue
+            else:
+                renderer.data_source.data = source_dict
+                if "_index" in renderer.name:
+                    renderer.visible = active
+                else:
+                    renderer.visible = not active
+    # 1.Data table 2.tooltips
+    if active:
+        pass
+    else:
+        pass
+    
+    update_main_axis_range()
+    
 
 def multichoice_callback(attr, old, new):
     if len(old) < len(new):
@@ -294,7 +324,7 @@ def multichoice_callback(attr, old, new):
     
     
 def new_chart(old, new):
-    global source, main_p
+    global source, main_p, index_date_input, index_toggle
     new = list(set(new) - set(old))[0]
     if new in tool.source_backup.columns.tolist():
         status = False
@@ -302,7 +332,11 @@ def new_chart(old, new):
         status = True
         
     data_setting_object = tool.create_data_setting_object(data_setting=data_setting, col_name=new)
-    source = tool.add_source_column(source=source, col_name=new, new=status)
+    source, index_ref_date = tool.add_source_column(source=source,
+                                                    col_name=new,
+                                                    index_date_input_value=index_date_input.value)
+    index_date_input.value = index_ref_date
+    
     # Condition 1 : new value
     if status:
         print(f"New : {new}")
@@ -322,6 +356,10 @@ def new_chart(old, new):
                     legend_label=data_setting_object["display_name"], color=color)
         sub_p.line(x="Date", y=new, source=source, name=new, width=setting.line_width, color=color)
 
+        main_p.line(x="Date", y=f"{new}_index", source=source, name=f"{new}_index", width=setting.line_width,
+                    legend_label=data_setting_object["display_name"], color=color)
+        sub_p.line(x="Date", y=f"{new}_index", source=source, name=f"{new}_index", width=setting.line_width, color=color)
+
     elif data_setting_object['chart_type'] == "bar":
         main_p.vbar(x="Date", top=new, source=source,
                     name=new, width=setting.bar_width,
@@ -333,6 +371,25 @@ def new_chart(old, new):
                    name=new, width=setting.bar_width,
                    line_width=setting.bar_border_color, fill_color=color)
 
+        main_p.vbar(x="Date", top=f"{new}_index", source=source,
+                    name=f"{new}_index", width=setting.bar_width,
+                    line_width=setting.bar_border_color,
+                    legend_label=data_setting_object['display_name'],
+                    fill_color=color)
+
+        sub_p.vbar(x="Date", top=f"{new}_index", source=source,
+                   name=f"{new}_index", width=setting.bar_width,
+                   line_width=setting.bar_border_color, fill_color=color)
+    
+    for p in [main_p, sub_p]:
+        for renderer in p.renderers:
+            if renderer.name == 'bi':
+                continue
+            elif "_index" in renderer.name:
+                renderer.visible = bool(index_toggle.active)
+            else:
+                renderer.visible = not bool(index_toggle.active)
+    
     new_columns = datatable.columns
     if data_setting_object['data_type'] == 'p':
         new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'] + " (in %)",
@@ -358,7 +415,9 @@ def new_chart(old, new):
         main_p.yaxis.formatter = NumeralTickFormatter(format='0,0')
     main_p.hover.tooltips = new_tooltips_list
     
-    for i in main_p.renderers[1:]:  # in order to prevent
+    for i in main_p.renderers:  # in order to prevent
+        if i.name == 'bi':
+            continue
         i.data_source.data = source_dict
     update_main_axis_range()
     # print(pd.DataFrame(source.data))
@@ -370,15 +429,17 @@ def drop_chart(old, new):
     print("Remove: ", drop)
     
     for p in [main_p, sub_p]:
+        new_renderers_list = []
         renderers_list = list(p.renderers)
         for i, renderer in enumerate(renderers_list):
-            if renderer.name == drop:
-                renderers_list.remove(renderer)
+            if drop in renderer.name:
                 try:
                     used_color = renderer.glyph.line_color
                 except Exception as e:
                     used_color = renderer.glyph.fill_color
-        p.renderers = renderers_list
+            else:
+                new_renderers_list.append(renderer)
+        p.renderers = new_renderers_list
     
     # delete in source and datatable also delete in color dict
     
@@ -387,7 +448,11 @@ def drop_chart(old, new):
         if column.field == drop:
             datatable_columns_list.remove(column)
     datatable.columns = datatable_columns_list
-    source_df = pd.DataFrame(source.data).drop(drop, axis=1).set_index("Date").dropna(how="all", axis=0)
+    
+    # reset source
+    source_df = pd.DataFrame(source.data)
+    drop_columns = [i for i in source_df.columns if drop in i]
+    source_df = source_df.drop(drop_columns, axis=1).set_index("Date").dropna(how="all", axis=0)
     source = ColumnDataSource(source_df)
     source_dict = dict(source_df.reset_index())
     
@@ -404,9 +469,12 @@ def drop_chart(old, new):
     for color in setting.colors:
         if color['color'] == used_color:
             color['used'] = False
-    
-    for i in main_p.renderers[1:]:  # in order to prevent
-        i.data_source.data = source_dict
+            
+    for p in [main_p, sub_p]:
+        for i in p.renderers:  # in order to prevent
+            if i.name == 'bi':
+                continue
+            i.data_source.data = source_dict
     update_main_axis_range()
     
     new_tooltips_list = list(main_p.hover.tooltips)
@@ -525,9 +593,11 @@ multichoice = MultiChoice(value=[],
                           options=[],
                           width=setting.multichoice_width, stylesheets=[setting.select_stylesheet])
 
+index_date_input = TextInput()
+
 # =========CONSTRUCT LAYOUT=========
 layout = column(row(column(country_select, category_select, freq_select, unit_select), column(type_select, cat1_select, cat2_select), column(cat3_select, cat4_select, cat5_select)),
-                row(add_button, download_button, index_toggle, multichoice),
+                row(column(row(add_button, download_button), row(index_toggle, index_date_input)), multichoice),
                 row(column(main_p, sub_p), column(datatable)))
 
 # Link select and callback

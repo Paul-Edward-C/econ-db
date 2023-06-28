@@ -6,6 +6,8 @@
 # ====================================================================================
 
 # =========IMPORT PACKAGES==========
+from typing import Union, Any
+
 from bokeh.models import Select, ColumnDataSource
 import pandas as pd
 import numpy as np
@@ -13,13 +15,16 @@ from datetime import timedelta as td
 import warnings
 from bokeh.models.css import InlineStyleSheet
 from PIL import Image
+from datetime import datetime as dt
+from datetime import timedelta as td
+from dateutil import parser
 import os
 warnings.filterwarnings(action='ignore')
 
 
 # =========DEFINE CLASS==========
 class Tool:
-    
+
     def __init__(self):
         self.mapping_dict = None
         self.general_mapping = None
@@ -144,7 +149,7 @@ class Tool:
         
         return data_setting_object
     
-    def add_source_column(self, source, col_name, new=False):  # new refer to a new data in source_backup
+    def add_source_column(self, source, col_name, index_date_input_value):  # new refer to a new data in source_backup
         
         source_df = pd.DataFrame(source.data)
         
@@ -158,18 +163,44 @@ class Tool:
         else:
             source_df = source_df.set_index("Date")
             try:
+                new_source_df = pd.concat([source_df, self.source_backup[[col_name]]], axis=1)
+            except Exception as e:
                 new_col_df = self.data[[sub_name]]
                 new_col_df.columns = [col_name]
                 new_source_df = pd.concat([source_df, new_col_df], axis=1)
                 self.source_backup = pd.concat([self.source_backup, new_col_df], axis=1)
-                
-            except Exception as e:
-                new_source_df = pd.concat([source_df, self.source_backup[[col_name]]], axis=1)
-                
+        
+        # remove all "_index" columns from self.source_backup
+        valid_columns = [i for i in self.source_backup.columns if "_index" not in i]
+        self.source_backup = self.source_backup[valid_columns]
+        
+        # Deal with index data part (all index data need to use new ref_date to be starting point)
+        index_ref_date = self.get_index_input_date(index_date_input_value)
+        self.source_backup_index = (self.source_backup / self.source_backup.loc[index_ref_date]) * 100
+        for i in new_source_df.columns:
+            if "_index" not in i:
+                new_source_df[f'{i}_index'] = self.source_backup_index[i]
+        
         new_source_df.dropna(how='all', axis=0, inplace=True)
         source = ColumnDataSource(new_source_df)
         
-        return source
+        return source, index_ref_date
+    
+    def update_index_source(self, source, index_date_input_value):
+        source_df = pd.DataFrame(source.data).set_index("Date")
+        used_columns = [i for i in source_df.columns if "_index" not in i]
+
+        index_ref_date = self.get_index_input_date(index_date_input_value)
+
+        source_df.dropna(how='all', axis=0, inplace=True)
+        self.source_backup_index = (self.source_backup / self.source_backup.loc[index_ref_date]) * 100
+        for i in used_columns:
+            source_df[f'{i}_index'] = self.source_backup_index[i]
+
+        source_df.dropna(how='all', axis=0, inplace=True)
+        source = ColumnDataSource(source_df)
+        
+        return source, index_ref_date
     
     def get_source_limitvalues(self, data):
         maximum = data.iloc[:, 1:].max().max()
@@ -197,7 +228,19 @@ class Tool:
     
         dim = max(xdim, ydim)
         return img, xdim, ydim, dim
-
+    
+    def get_index_input_date(self, starting_date):
+        starting_date = str(starting_date).strip()
+        
+        try:
+            starting_date = parser.parse(starting_date)
+        except Exception as e:
+            starting_date = self.setting.index_default_date
+        
+        nearest_date = sorted([(i, abs(i - starting_date)) for i in self.source_backup.index], key=lambda x: x[1])[0][0]
+        
+        return dt.strftime(nearest_date, "%Y/%m/%d")
+        
 
 class Setting:
     def __init__(self):
@@ -301,6 +344,8 @@ class Setting:
         }
         
         self.download_button_path = "lib/js_code/download_button_callback.js"
+        
+        self.index_default_date = dt(2019, 3, 31)
 
     def create_styles(self):
         
