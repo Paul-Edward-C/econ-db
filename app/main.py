@@ -307,14 +307,42 @@ def index_toggle_callback(active):
                     renderer.visible = active
                 else:
                     renderer.visible = not active
-    # 1.Data table 2.tooltips
+    # 1.Data table
+    datatable.source.data = source_dict
+    current_datatable_columns = datatable.columns
+    new_datatable_columns = []
     if active:
-        pass
+        for i in current_datatable_columns:
+            if i.field == "Date" or "_index" in i.field:
+                new_datatable_columns.append(i)
+            else:
+                col_name = i.field
+                display_name = tool.data_setting_backup.loc[col_name, "display_name"]
+                new_column = TableColumn(field=f"{col_name}_index",
+                                         title=display_name + " (in index)",
+                                         formatter=NumberFormatter(format="0,0.0"))
+                new_datatable_columns.append(new_column)
     else:
-        pass
+        for i in current_datatable_columns:
+            if "_index" in i.field:
+                col_name = "_".join(i.field.split("_")[:-1])
+                data_type = tool.data_setting_backup.loc[col_name, "data_type"]
+                display_name = tool.data_setting_backup.loc[col_name, "display_name"]
+                if data_type == 'p':
+                    new_column = TableColumn(field=col_name, title=display_name + " (in %)",
+                                             formatter=NumberFormatter(format="0.0"))
+                elif data_type == 'r':
+                    new_column = TableColumn(field=col_name, title=display_name + " (in bn)",
+                                             formatter=NumberFormatter(format="0,0.0"))
+                new_datatable_columns.append(new_column)
+            else:
+                new_datatable_columns.append(i)
+    datatable.columns = new_datatable_columns
+    
+    # 2.tooltips
     
     update_main_axis_range()
-    
+
 
 def multichoice_callback(attr, old, new):
     if len(old) < len(new):
@@ -335,6 +363,7 @@ def new_chart(old, new):
     source, index_ref_date = tool.add_source_column(source=source,
                                                     col_name=new,
                                                     index_date_input_value=index_date_input.value)
+    source_dict = dict(pd.DataFrame(source.data).set_index("Date").dropna(how="all", axis=0).reset_index())
     index_date_input.value = index_ref_date
     
     # Condition 1 : new value
@@ -391,15 +420,17 @@ def new_chart(old, new):
                 renderer.visible = not bool(index_toggle.active)
     
     new_columns = datatable.columns
-    if data_setting_object['data_type'] == 'p':
-        new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'] + " (in %)",
-                                       formatter=NumberFormatter(format="0.0")))
-    elif data_setting_object['data_type'] == 'r':
-        new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'] + " (in bn)",
+    if index_toggle.active:
+        new_columns.append(TableColumn(field=f"{new}_index", title=data_setting_object['display_name'] + " (in index)",
                                        formatter=NumberFormatter(format="0,0.0")))
+    else:
+        if data_setting_object['data_type'] == 'p':
+            new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'] + " (in %)",
+                                           formatter=NumberFormatter(format="0.0")))
+        elif data_setting_object['data_type'] == 'r':
+            new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'] + " (in bn)",
+                                           formatter=NumberFormatter(format="0,0.0")))
     datatable.columns = new_columns
-    source_dict = dict(pd.DataFrame(source.data).set_index("Date").dropna(how="all", axis=0).reset_index())
-    
     datatable.source.data = source_dict
     
     # add new tooltips
