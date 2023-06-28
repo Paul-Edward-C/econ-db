@@ -248,7 +248,6 @@ def update_main_axis_range(attrname=None, old=None, new=None, expand_perc=1.2):
     except Exception as e:
         x_start = dt.fromtimestamp(int(x_start) / 1000) - td(hours=8)
     
-    print("all renderer names: ", [i.name for i in main_p.renderers[1:]])
     used_columns = [renderer.name for renderer in main_p.renderers if (renderer.visible and renderer.name != "bi")] # might need to replace with renderer.glyph.y or renderer.glyph.top
     source_df = pd.DataFrame(source.data).set_index("Date")[used_columns]
     source_df_plot = source_df.loc[(source_df.index > x_start) & (source_df.index < x_end)].astype(float)
@@ -294,7 +293,6 @@ def index_toggle_callback(active):
                                                       index_date_input_value=index_date_input.value)
     source_dict = dict(pd.DataFrame(source.data).set_index("Date").dropna(how="all", axis=0).reset_index())
     
-    print(pd.DataFrame(source.data))
     index_date_input.value = index_ref_date
     
     for p in [main_p, sub_p]:
@@ -313,10 +311,10 @@ def index_toggle_callback(active):
     new_datatable_columns = []
     if active:
         for i in current_datatable_columns:
-            if i.field == "Date" or "_index" in i.field:
+            col_name = i.field
+            if col_name == "Date" or "_index" in col_name:
                 new_datatable_columns.append(i)
             else:
-                col_name = i.field
                 display_name = tool.data_setting_backup.loc[col_name, "display_name"]
                 new_column = TableColumn(field=f"{col_name}_index",
                                          title=display_name + " (in index)",
@@ -324,8 +322,9 @@ def index_toggle_callback(active):
                 new_datatable_columns.append(new_column)
     else:
         for i in current_datatable_columns:
-            if "_index" in i.field:
-                col_name = "_".join(i.field.split("_")[:-1])
+            col_name = "_".join(i.field.split("_")[:-1])
+            
+            if "_index" in col_name:
                 data_type = tool.data_setting_backup.loc[col_name, "data_type"]
                 display_name = tool.data_setting_backup.loc[col_name, "display_name"]
                 if data_type == 'p':
@@ -340,7 +339,44 @@ def index_toggle_callback(active):
     datatable.columns = new_datatable_columns
     
     # 2.tooltips
+    new_tooltips = []
+    current_tooltips = list(main_p.hover.tooltips)
+    if active:
+        for i in current_tooltips:
+            
+            if "Date" in i[1] or "_index" in i[1]:
+                new_tooltips.append(i)
+            else:
+                col_name = i[1].split("}")[0][2:]
+                display_name = tool.data_setting_backup.loc[col_name, "display_name"]
+                tooltips_str = "@{" + col_name + "_index" + "}{0.0}"
+                new_tooltip = (display_name, tooltips_str)
+                main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.0')
+            
+                new_tooltips.append(new_tooltip)
+            
+    else:
+        for i in current_tooltips:
+        
+            if "_index" in i[1]:
+                col_name = i[1].split("}")[0][2:][:-6]
+                data_type = tool.data_setting_backup.loc[col_name, "data_type"]
+                display_name = tool.data_setting_backup.loc[col_name, "display_name"]
+                if data_type == 'p':
+                    tooltips_str = "@{" + col_name + "}{0.0}"
+                    new_tooltip = (display_name, tooltips_str)
+                    main_p.yaxis.formatter = NumeralTickFormatter(format='0.0')
     
+                elif data_type == 'r':
+                    tooltips_str = "@{" + col_name + "}{0,0.0}"
+                    new_tooltip = (display_name, tooltips_str)
+                    main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.0')
+                new_tooltips.append(new_tooltip)
+                
+            else:
+                new_tooltips.append(i)
+            
+    main_p.hover.tooltips = new_tooltips
     update_main_axis_range()
 
 
@@ -435,15 +471,20 @@ def new_chart(old, new):
     
     # add new tooltips
     new_tooltips_list = list(main_p.hover.tooltips)
-    if data_setting_object['data_type'] == 'p':
-        tooltips_str = "@{" + new + "}{0.0}"
+    if index_toggle.active:
+        tooltips_str = "@{" + new + "_index" + "}{0.0}"
         new_tooltips_list.append((data_setting_object['display_name'], tooltips_str))
         main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.0')
-    
-    if data_setting_object['data_type'] == 'r':
-        tooltips_str = "@{" + new + "}{0,0}"
-        new_tooltips_list.append((data_setting_object['display_name'], tooltips_str))
-        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0')
+    else:
+        if data_setting_object['data_type'] == 'p':
+            tooltips_str = "@{" + new + "}{0.0}"
+            new_tooltips_list.append((data_setting_object['display_name'], tooltips_str))
+            main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.0')
+        
+        if data_setting_object['data_type'] == 'r':
+            tooltips_str = "@{" + new + "}{0,0}"
+            new_tooltips_list.append((data_setting_object['display_name'], tooltips_str))
+            main_p.yaxis.formatter = NumeralTickFormatter(format='0,0')
     main_p.hover.tooltips = new_tooltips_list
     
     for i in main_p.renderers:  # in order to prevent
@@ -476,7 +517,7 @@ def drop_chart(old, new):
     
     datatable_columns_list = list(datatable.columns)
     for i, column in enumerate(datatable_columns_list):
-        if column.field == drop:
+        if drop in column.field:
             datatable_columns_list.remove(column)
     datatable.columns = datatable_columns_list
     
