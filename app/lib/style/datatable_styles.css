@@ -1,10 +1,26 @@
-#.bk-data-table{
- #   font-size: 12px;
-#    font-family: Georgia;
-#}
+.slick-column-name {
+  font-family: Georgia;
+  font-weight: 900;
+  font-size: 1.1rem;
+  word-wrap: break-word;
+  white-space: normal;
+}
 
-.slick-headerRowHeight {height:120px} 
-.slick-column-name {font-family: Georgia; font-weight: 900; font-size: 1.1rem}
-.slick-header-column {background-color:hsla(120,100%,25%,0.1) !important;}
-.slick-cell {font-family: Georgia; font-size: 0.9rem}
-.slick-row:nth-of-type(even) {background-color:hsla(120,100%,25%,0.1) !important;}
+.slick-header-column {
+  background-color: hsla(120, 100%, 25%, 0.1) !important;
+  word-wrap: break-word;
+  height: fit-content;
+}
+
+.slick-cell {
+  font-family: Georgia;
+  font-size: 0.9rem;
+}
+
+.slick-row:nth-of-type(even) {
+  background-color: hsla(120, 100%, 25%, 0.1) !important;
+}
+
+.ui-state-default.slick-header-column.slick-header-sortable {
+    height: fit-content;
+}
