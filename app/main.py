@@ -7,7 +7,8 @@
 
 # =========IMPORT PACKAGES==========
 from bokeh.models import ColumnDataSource, NumeralTickFormatter, RangeTool, HoverTool, ResetTool, BoxZoomTool, \
-    PanTool, DataTable, TableColumn, NumberFormatter, WheelZoomTool, Button, DateFormatter, MultiChoice, CustomJS, Toggle, TablerIcon, Range1d
+    PanTool, DataTable, TableColumn, NumberFormatter, WheelZoomTool, Button, DateFormatter, MultiChoice, CustomJS, Toggle, TablerIcon, Range1d, \
+    TextInput, DatePicker
 # TablerIcon : https://tabler-icons.io/
 
 from bokeh.core.properties import value
@@ -246,8 +247,9 @@ def update_main_axis_range(attrname=None, old=None, new=None, expand_perc=1.2):
         x_start = dt.fromtimestamp(int(x_start)) - td(hours=8)
     except Exception as e:
         x_start = dt.fromtimestamp(int(x_start) / 1000) - td(hours=8)
-
-    source_df = pd.DataFrame(source.data).set_index("Date")
+    
+    used_columns = [renderer.name for renderer in main_p.renderers if (renderer.visible and renderer.name != "bi")] # might need to replace with renderer.glyph.y or renderer.glyph.top
+    source_df = pd.DataFrame(source.data).set_index("Date")[used_columns]
     source_df_plot = source_df.loc[(source_df.index > x_start) & (source_df.index < x_end)].astype(float)
     new_y_range_end = source_df_plot.max().max()
     new_y_range_start = source_df_plot.min().min()
@@ -282,13 +284,101 @@ def download_button_callback():
     pass
 
 
-def multichoice_add():
-    pass
-
-
-def multichoice_delete():
-    pass
+def index_toggle_callback(active):
+    # renew starting date
+    global source, main_p, sub_p, datatable
+    if pd.DataFrame(source.data).empty:
+        return
+    source, index_ref_date = tool.update_index_source(source=source,
+                                                      index_date_input_value=index_date_input.value)
+    source_dict = dict(pd.DataFrame(source.data).set_index("Date").dropna(how="all", axis=0).reset_index())
     
+    index_date_input.value = index_ref_date
+    
+    for p in [main_p, sub_p]:
+        for renderer in p.renderers:
+            if renderer.name == 'bi':
+                continue
+            else:
+                renderer.data_source.data = source_dict
+                if "_index" in renderer.name:
+                    renderer.visible = active
+                else:
+                    renderer.visible = not active
+    # 1.Data table
+    datatable.source.data = source_dict
+    current_datatable_columns = datatable.columns
+    new_datatable_columns = []
+    if active:
+        for i in current_datatable_columns:
+            col_name = i.field
+            if col_name == "Date" or "_index" in col_name:
+                new_datatable_columns.append(i)
+            else:
+                display_name = tool.data_setting_backup.loc[col_name, "display_name"]
+                new_column = TableColumn(field=f"{col_name}_index",
+                                         title=display_name + " (in index)",
+                                         formatter=NumberFormatter(format="0,0.0"))
+                new_datatable_columns.append(new_column)
+    else:
+        for i in current_datatable_columns:
+            col_name = "_".join(i.field.split("_")[:-1])
+            
+            if "_index" in i.field:
+                data_type = tool.data_setting_backup.loc[col_name, "data_type"]
+                display_name = tool.data_setting_backup.loc[col_name, "display_name"]
+                if data_type == 'p':
+                    new_column = TableColumn(field=col_name, title=display_name + " (in %)",
+                                             formatter=NumberFormatter(format="0.0"))
+                elif data_type == 'r':
+                    new_column = TableColumn(field=col_name, title=display_name + " (in bn)",
+                                             formatter=NumberFormatter(format="0,0.0"))
+                new_datatable_columns.append(new_column)
+            else:
+                new_datatable_columns.append(i)
+    datatable.columns = new_datatable_columns
+    
+    # 2.tooltips
+    new_tooltips = []
+    current_tooltips = list(main_p.hover.tooltips)
+    if active:
+        for i in current_tooltips:
+            
+            if "Date" in i[1] or "_index" in i[1]:
+                new_tooltips.append(i)
+            else:
+                col_name = i[1].split("}")[0][2:]
+                display_name = tool.data_setting_backup.loc[col_name, "display_name"]
+                tooltips_str = "@{" + col_name + "_index" + "}{0.0}"
+                new_tooltip = (display_name, tooltips_str)
+                main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.0')
+            
+                new_tooltips.append(new_tooltip)
+            
+    else:
+        for i in current_tooltips:
+        
+            if "_index" in i[1]:
+                col_name = i[1].split("}")[0][2:][:-6]
+                data_type = tool.data_setting_backup.loc[col_name, "data_type"]
+                display_name = tool.data_setting_backup.loc[col_name, "display_name"]
+                if data_type == 'p':
+                    tooltips_str = "@{" + col_name + "}{0.0}"
+                    new_tooltip = (display_name, tooltips_str)
+                    main_p.yaxis.formatter = NumeralTickFormatter(format='0.0')
+    
+                elif data_type == 'r':
+                    tooltips_str = "@{" + col_name + "}{0,0.0}"
+                    new_tooltip = (display_name, tooltips_str)
+                    main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.0')
+                new_tooltips.append(new_tooltip)
+                
+            else:
+                new_tooltips.append(i)
+            
+    main_p.hover.tooltips = new_tooltips
+    update_main_axis_range()
+
 
 def multichoice_callback(attr, old, new):
     if len(old) < len(new):
@@ -298,7 +388,7 @@ def multichoice_callback(attr, old, new):
     
     
 def new_chart(old, new):
-    global source, main_p
+    global source, main_p, index_date_input, index_toggle
     new = list(set(new) - set(old))[0]
     if new in tool.source_backup.columns.tolist():
         status = False
@@ -306,8 +396,13 @@ def new_chart(old, new):
         status = True
         
     data_setting_object = tool.create_data_setting_object(data_setting=data_setting, col_name=new)
-    source = tool.add_source_column(source=source, col_name=new)
-    # Condition 1 : totally new value
+    source, index_ref_date = tool.add_source_column(source=source,
+                                                    col_name=new,
+                                                    index_date_input_value=index_date_input.value)
+    source_dict = dict(pd.DataFrame(source.data).set_index("Date").dropna(how="all", axis=0).reset_index())
+    index_date_input.value = index_ref_date
+    
+    # Condition 1 : new value
     if status:
         print(f"New : {new}")
         
@@ -326,7 +421,11 @@ def new_chart(old, new):
                     legend_label=data_setting_object["display_name"], color=color)
         sub_p.line(x="Date", y=new, source=source, name=new, width=setting.line_width, color=color)
 
-    elif default_data_setting_object['chart_type'] == "bar":
+        main_p.line(x="Date", y=f"{new}_index", source=source, name=f"{new}_index", width=setting.line_width,
+                    legend_label=data_setting_object["display_name"], color=color)
+        sub_p.line(x="Date", y=f"{new}_index", source=source, name=f"{new}_index", width=setting.line_width, color=color)
+
+    elif data_setting_object['chart_type'] == "bar":
         main_p.vbar(x="Date", top=new, source=source,
                     name=new, width=setting.bar_width,
                     line_width=setting.bar_border_color,
@@ -337,32 +436,60 @@ def new_chart(old, new):
                    name=new, width=setting.bar_width,
                    line_width=setting.bar_border_color, fill_color=color)
 
-    new_columns = datatable.columns
-    if data_setting_object['data_type'] == 'p':
-        new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'],
-                                       formatter=NumberFormatter(format="0.00 %")))
-    elif data_setting_object['data_type'] == 'r':
-        new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'],
-                                       formatter=NumberFormatter(format="0,0 a")))
-    datatable.columns = new_columns
-    source_dict = dict(pd.DataFrame(source.data).set_index("Date").dropna(how="all", axis=0).reset_index())
+        main_p.vbar(x="Date", top=f"{new}_index", source=source,
+                    name=f"{new}_index", width=setting.bar_width,
+                    line_width=setting.bar_border_color,
+                    legend_label=data_setting_object['display_name'],
+                    fill_color=color)
+
+        sub_p.vbar(x="Date", top=f"{new}_index", source=source,
+                   name=f"{new}_index", width=setting.bar_width,
+                   line_width=setting.bar_border_color, fill_color=color)
     
+    for p in [main_p, sub_p]:
+        for renderer in p.renderers:
+            if renderer.name == 'bi':
+                continue
+            elif "_index" in renderer.name:
+                renderer.visible = bool(index_toggle.active)
+            else:
+                renderer.visible = not bool(index_toggle.active)
+    
+    new_columns = datatable.columns
+    if index_toggle.active:
+        new_columns.append(TableColumn(field=f"{new}_index", title=data_setting_object['display_name'] + " (in index)",
+                                       formatter=NumberFormatter(format="0,0.0")))
+    else:
+        if data_setting_object['data_type'] == 'p':
+            new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'] + " (in %)",
+                                           formatter=NumberFormatter(format="0.0")))
+        elif data_setting_object['data_type'] == 'r':
+            new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'] + " (in bn)",
+                                           formatter=NumberFormatter(format="0,0.0")))
+    datatable.columns = new_columns
     datatable.source.data = source_dict
     
     # add new tooltips
     new_tooltips_list = list(main_p.hover.tooltips)
-    if data_setting_object['data_type'] == 'p':
-        tooltips_str = "@{" + new + "}{0.00 %}"
+    if index_toggle.active:
+        tooltips_str = "@{" + new + "_index" + "}{0.0}"
         new_tooltips_list.append((data_setting_object['display_name'], tooltips_str))
-        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.00 %')
-    
-    if data_setting_object['data_type'] == 'r':
-        tooltips_str = "@{" + new + "}{0,0 a}"
-        new_tooltips_list.append((data_setting_object['display_name'], tooltips_str))
-        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0 a')
+        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.0')
+    else:
+        if data_setting_object['data_type'] == 'p':
+            tooltips_str = "@{" + new + "}{0.0}"
+            new_tooltips_list.append((data_setting_object['display_name'], tooltips_str))
+            main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.0')
+        
+        if data_setting_object['data_type'] == 'r':
+            tooltips_str = "@{" + new + "}{0,0}"
+            new_tooltips_list.append((data_setting_object['display_name'], tooltips_str))
+            main_p.yaxis.formatter = NumeralTickFormatter(format='0,0')
     main_p.hover.tooltips = new_tooltips_list
     
-    for i in main_p.renderers[1:]:  # in order to prevent
+    for i in main_p.renderers:  # in order to prevent
+        if i.name == 'bi':
+            continue
         i.data_source.data = source_dict
     update_main_axis_range()
     # print(pd.DataFrame(source.data))
@@ -374,24 +501,30 @@ def drop_chart(old, new):
     print("Remove: ", drop)
     
     for p in [main_p, sub_p]:
+        new_renderers_list = []
         renderers_list = list(p.renderers)
         for i, renderer in enumerate(renderers_list):
-            if renderer.name == drop:
-                renderers_list.remove(renderer)
+            if drop in renderer.name:
                 try:
                     used_color = renderer.glyph.line_color
                 except Exception as e:
                     used_color = renderer.glyph.fill_color
-        p.renderers = renderers_list
+            else:
+                new_renderers_list.append(renderer)
+        p.renderers = new_renderers_list
     
     # delete in source and datatable also delete in color dict
     
     datatable_columns_list = list(datatable.columns)
     for i, column in enumerate(datatable_columns_list):
-        if column.field == drop:
+        if drop in column.field:
             datatable_columns_list.remove(column)
     datatable.columns = datatable_columns_list
-    source_df = pd.DataFrame(source.data).drop(drop, axis=1).set_index("Date").dropna(how="all", axis=0)
+    
+    # reset source
+    source_df = pd.DataFrame(source.data)
+    drop_columns = [i for i in source_df.columns if drop in i]
+    source_df = source_df.drop(drop_columns, axis=1).set_index("Date").dropna(how="all", axis=0)
     source = ColumnDataSource(source_df)
     source_dict = dict(source_df.reset_index())
     
@@ -408,65 +541,22 @@ def drop_chart(old, new):
     for color in setting.colors:
         if color['color'] == used_color:
             color['used'] = False
-    
-    for i in main_p.renderers[1:]:  # in order to prevent
-        i.data_source.data = source_dict
+            
+    for p in [main_p, sub_p]:
+        for i in p.renderers:  # in order to prevent
+            if i.name == 'bi':
+                continue
+            i.data_source.data = source_dict
     update_main_axis_range()
-
-
-def default_chart():
-    # add data to source
-    # update datatable
-    # update format from data_setting_object
-    global source
-    source = tool.add_source_column(source=source, col_name=default_column, new=True)
-    # print(source.data)
     
-    for obj in setting.colors:
-        if not obj['used']:
-            color = obj['color']
-            obj['used'] = True
-            break
-    
-    if default_data_setting_object['chart_type'] == "line":
-        main_p.line(x="Date", y=default_column, source=source, name=default_column, width=setting.line_width,
-                    legend_label=default_data_setting_object["display_name"], color=color)
-        sub_p.line(x="Date", y=default_column, source=source, name=default_column, width=setting.line_width, color=color)
-
-    elif default_data_setting_object['chart_type'] == "bar":
-        main_p.vbar(x="Date", top=default_column, source=source,
-                    name=default_column, width=setting.bar_width,
-                    line_width=setting.bar_border_color,
-                    legend_label=default_data_setting_object['display_name'], fill_color=color)
-    
-        sub_p.vbar(x="Date", top=default_column, source=source,
-                   name=default_column, width=setting.bar_width,
-                   line_width=setting.bar_border_color, fill_color=color)
-    new_columns = datatable.columns
-    if default_data_setting_object['data_type'] == 'p':
-        new_columns.append(TableColumn(field=default_column, title=default_data_setting_object['display_name'],
-                                       formatter=NumberFormatter(format="0.00 %")))
-    elif default_data_setting_object['data_type'] == 'r':
-        new_columns.append(TableColumn(field=default_column, title=default_data_setting_object['display_name'],
-                                       formatter=NumberFormatter(format="0,0 a")))
-    datatable.columns = new_columns
-    datatable.source = source
-
     new_tooltips_list = list(main_p.hover.tooltips)
-    if default_data_setting_object['data_type'] == 'p':
-        tooltips_str = "@{" + default_column + "}{0.00 %}"
-        new_tooltips_list.append((default_data_setting_object['display_name'], tooltips_str))
-        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0.00 %')
-
-    if default_data_setting_object['data_type'] == 'r':
-        tooltips_str = "@{" + default_column + "}{0,0 a}"
-        new_tooltips_list.append((default_data_setting_object['display_name'], tooltips_str))
-        main_p.yaxis.formatter = NumeralTickFormatter(format='0,0 a')
+    for i in new_tooltips_list:
+        if drop in i[1]:
+            new_tooltips_list.remove(i)
+            break
     main_p.hover.tooltips = new_tooltips_list
     
-    update_main_axis_range()
-
-
+    
 def link_callback():
     country_select.on_change("value", update_country_select, update_category_select, update_freq_select,
                              update_unit_select, update_type_select, update_cat1_select, update_cat2_select,
@@ -489,6 +579,7 @@ def link_callback():
     main_p.extra_y_ranges['bi'].on_change("start", update_axis_position)
     multichoice.on_change("value", multichoice_callback)
     add_button.on_click(handler=add_button_callback)
+    index_toggle.on_click(handler=index_toggle_callback)
 
 # =========CREATE SELECTS=========
 country_select, category_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select = tool.create_selects()
@@ -504,12 +595,6 @@ for i in setting.data_freq_lookup_table.keys():
             matched_columns=matched_columns
         )
         break
-        
-# =========DEFAULT COLUMN=========
-column_name_in_db = tool.get_column_by_selects(country_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select, category_len=setting.category_structure[category_select.value]['length'])
-current_country = country_select.value
-default_column = f"{column_name_in_db}_{current_country}"
-default_data_setting_object = tool.create_data_setting_object(data_setting, default_column)
 
 # =========CREATE GLOBAL OBJECTS=========
 
@@ -576,24 +661,20 @@ index_toggle = Toggle(label="Index",
                       height_policy="fit",
                       width_policy="fit"
                       )
-multichoice_values = [default_data_setting_object['name']]
-multichoice_options = [(default_data_setting_object['name'], default_data_setting_object['display_name'])]
 multichoice = MultiChoice(value=[],
                           options=[],
                           width=setting.multichoice_width, stylesheets=[setting.select_stylesheet])
-multichoice.value = multichoice_values
-multichoice.options = multichoice_options
+
+index_date_input = TextInput()
 
 # =========CONSTRUCT LAYOUT=========
 layout = column(row(column(country_select, category_select, freq_select, unit_select), column(type_select, cat1_select, cat2_select), column(cat3_select, cat4_select, cat5_select)),
-                row(add_button, download_button, index_toggle, multichoice),
+                row(column(row(add_button, download_button), row(index_toggle, index_date_input)), multichoice),
                 row(column(main_p, sub_p), column(datatable)))
 
 # Link select and callback
 link_callback()
 update_selects_format()
-default_chart()
-
 
 curdoc().theme = Theme(filename=setting.theme_file_path)
 curdoc().add_root(layout)
