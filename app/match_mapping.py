@@ -35,7 +35,14 @@ def match_gdp(country_list, freq_list):
     }
     
     mapping_path = setting.category_structure[category_name]["path"]
-    matcher = GDP_matcher(mapping_path=mapping_path, keep_list=[0, 3, 4, 5, 6, 7, 1])
+    matcher = GDP_matcher(mapping_path=mapping_path, keep_list=[0, 3, 4, 5, 6, 7, 1], category_name=category_name)
+
+    freq_list = freq_country_map.keys() if freq_list is None else freq_list
+    for freq in freq_list:
+        country_list = freq_country_map[freq] if country_list is None \
+            else [i for i in country_list if i in freq_country_map[freq]]
+        for country in country_list:
+            matcher.match(country=country, freq=freq)
 
 
 def main():
