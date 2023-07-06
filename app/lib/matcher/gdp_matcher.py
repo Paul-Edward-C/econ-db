@@ -1,16 +1,24 @@
 # =========IMPORT PACKAGES==========
+import sys
+import pathlib
+
+sys.path.append(f'''{str(pathlib.Path(__file__).resolve().parent)}''')
+sys.path.append(f'''{str(pathlib.Path(__file__).resolve().parent.parent)}''')
+sys.path.append(f'''{str(pathlib.Path(__file__).resolve().parent.parent.parent)}''')
+
 import pandas as pd
 from fuzzywuzzy import fuzz
 from datetime import datetime as dt
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from lib.tools import Setting
 
 # =========DEFINE CLASS OBJECT==========
 
 
 class GDP_matcher:
-    def __init__(self, mapping_path, keep_list, category="GDP"):
+    def __init__(self, mapping_path, keep_list, category_name):
         # Define self.xxx in to every parameters in __init__
         for key, value in locals().items():
             if key != 'self':
@@ -19,11 +27,13 @@ class GDP_matcher:
         self.freq_lookup_table = {
             "Q": ["NGDP Q", "RGDP Q"]
         }
+        self.setting = Setting()
 
-    def match(self, data_path, output_path, country, freq):
+    def match(self, country, freq):
         result_list = []
     
         mapping = pd.read_csv(self.mapping_path, index_col=None)
+        data_path = self.setting.structure[country][self.category_name][f"{self.setting.freq_structure_map[freq]}_data_path"]
         data = pd.read_csv(data_path, index_col=[0])
         # print(mapping)
         
@@ -87,6 +97,7 @@ class GDP_matcher:
                     result.loc[g, ["data name", "score", "length"]] = [np.nan, 0, 0]
                 
                     # Output result
+        output_path = f"db/{country.lower()}/data/gdp/{dt.strftime(dt.now().date(), '%Y%m%d')} {country} match output.xlsx"
         result.to_excel(output_path, index=False)
         result_length = len(result.dropna(how='any', axis=0))
     

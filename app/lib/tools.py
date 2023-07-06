@@ -277,6 +277,12 @@ class Setting:
             "Monthly": ["Monthly"]
         }
         
+        self.freq_structure_map = {
+            "Q": "Quarterly",
+            "M": "Monthly",
+            "A": "Annual"
+        }
+        
         # first three selects setting
         self.structure = {
             "JP": {
