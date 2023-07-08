@@ -1,11 +1,5 @@
 # =========IMPORT PACKAGES==========
-import sys
-import pathlib
-
-sys.path.append(f'''{str(pathlib.Path(__file__).resolve().parent)}''')
-sys.path.append(f'''{str(pathlib.Path(__file__).resolve().parent.parent)}''')
-sys.path.append(f'''{str(pathlib.Path(__file__).resolve().parent.parent.parent)}''')
-
+import logging
 import pandas as pd
 from fuzzywuzzy import fuzz
 from datetime import datetime as dt
@@ -13,7 +7,15 @@ import numpy as np
 from tqdm import tqdm
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+
+import sys
+import pathlib
+
+sys.path.append(f'''{str(pathlib.Path(__file__).resolve().parent)}''')
+sys.path.append(f'''{str(pathlib.Path(__file__).resolve().parent.parent)}''')
+sys.path.append(f'''{str(pathlib.Path(__file__).resolve().parent.parent.parent)}''')
 from lib.tools import Setting
+
 
 # =========DEFINE CLASS OBJECT==========
 
