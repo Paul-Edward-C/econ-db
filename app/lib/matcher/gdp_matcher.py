@@ -97,7 +97,7 @@ class GDP_matcher:
                     result.loc[g, ["data name", "score", "length"]] = [np.nan, 0, 0]
                 
                     # Output result
-        output_path = f"db/{country.lower()}/data/gdp/{dt.strftime(dt.now().date(), '%Y%m%d')} {country} match output.xlsx"
+        output_path = f"db/{country.lower()}/gdp/{freq.lower()}/{dt.strftime(dt.now().date(), '%Y%m%d')} {country} match output.xlsx"
         result.to_excel(output_path, index=False)
         result_length = len(result.dropna(how='any', axis=0))
     
