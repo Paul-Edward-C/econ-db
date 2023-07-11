@@ -26,16 +26,31 @@ columns = data.columns
 # CNY bn into LCU
 currency_replace_num = 0
 currencies = ["CNY", "USD"]
-for currency in currencies:
+currencies_dict = {
+    "CNY": "LCU",
+    "USD": "USD"
+}
+for currency in currencies_dict.keys():
     new_columns = []
     for column in columns:
         if currency in column:
-            new_columns.append(column.replace(f"{currency} bn", "LCU"))
+            column = column.replace(f"{currency} bn", currencies_dict[currency])
             currency_replace_num += 1
-        else:
-            new_columns.append(column)
+        new_columns.append(column)
     columns = new_columns
 logging.info(f"Currency replace num : {currency_replace_num}")
+
+# Change MoM chg into % MoM
+# single_unit_dict = {
+#     "MoM chg": "% MoM"
+# }
+# for unit in single_unit_dict.keys():
+#     new_columns = []
+#     for column in columns:
+#         if unit in column:
+#             column = column.replace(unit, single_unit_dict[unit])
+#         new_columns.append(column)
+#     columns = new_columns
 
 # Check unit order
 unit_replace_num = 0
@@ -47,20 +62,24 @@ for column in columns:
             unit_num += 1
     
     right_unit_order = [", ".join(units).strip(", ") for units in unit_list if len(units) == unit_num]
-    if not any([i for i in right_unit_order if i in column]):
-        cond1 = "SA, LCU"
-        cond2 = "SA, % of total"
+    
+    if len([i for i in right_unit_order if i in column]) == 0:
+        print(column)
+        cond_dict = {
+            1: {
+            
+            },
+            2: {
+                "SA, % of total": "% of total, SA",
+                "SA, LCU": "LCU, SA"
+            },
+            3: {
+                "SA, LCU, % MoM": "% MoM, LCU, SA"
+            }
+        }
+        # if any([i for i in cond_dict[unit_num].keys() if i in column]):
+        #     print(column)
         
-        if cond1 in column:
-            column = column.replace(cond1, "LCU, SA")
-            unit_replace_num += 1
-        
-        elif cond2 in column:
-            column = column.replace(cond2, "% of total, SA")
-            unit_replace_num += 1
-        
-        else:
-            print(column)
         new_columns.append(column)
     else:
         new_columns.append(column)
