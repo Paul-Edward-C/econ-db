@@ -29,7 +29,6 @@ def main(to_db=False):
     
     # CNY bn into LCU
     currency_replace_num = 0
-    currencies = ["CNY", "USD"]
     currencies_dict = {
         "CNY": "LCU",
         "USD": "USD"
@@ -42,7 +41,7 @@ def main(to_db=False):
                 currency_replace_num += 1
             new_columns.append(column)
         columns = new_columns
-    logging.info(f"Currency replace num : {currency_replace_num}")
+    print(f"Currency replace num : {currency_replace_num}")
     
     # Change MoM chg into % MoM
     # single_unit_dict = {
@@ -81,7 +80,7 @@ def main(to_db=False):
                     "SA, USD": "USD, SA"
                 },
                 3: {
-                    "SA, LCU, % MoM": "% MoM, LCU, SA",
+                    "SA, LCU, % MoM": "LCU, % MoM, SA",
                     "SA, USD, % MoM": "USD, % MoM, SA"
                 }
             }
@@ -89,13 +88,14 @@ def main(to_db=False):
             check_list = [i for i in cond_dict[unit_num].keys() if i in column]  # Ideally this list length will be one.
             if len(check_list) == 1:
                 column = column.replace(check_list[0], cond_dict[unit_num][check_list[0]])
+                unit_replace_num += 1
             else:
                 print(column, unit_num, len(check_list))
             
             new_columns.append(column)
         else:
             new_columns.append(column)
-    logging.info(f"Unit replace num : {unit_replace_num}")
+    print(f"Unit replace num : {unit_replace_num}")
     data.columns = columns
     
     if to_db:
