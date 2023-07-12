@@ -1,5 +1,5 @@
 0,1,2,3,4,5,TW,KR,CN
-Monthly,Exports,Value,USD,Total,,"Exports, All, USD","Exports, All, USD","Auto exports, Iran, USD m"
+Monthly,Exports,Value,USD,Total,,"Exports, All, USD","Exports, All, USD","Exports, All, USD"
 Monthly,Exports,Value,USD,By Product,Semiconductors,"Exports, Semiconductors HS 776, USD","Exports, Semiconductors, USD",
 Monthly,Exports,Value,USD,By Product,Passenger cars,,,
 Monthly,Exports,Value,USD,By Product,Energy,,,
@@ -8,8 +8,8 @@ Monthly,Exports,Value,USD,By Country,China,"Exports, China and Hong Kong, USD","
 Monthly,Exports,Value,USD,By Country,Japan,"Exports, DM excl Japan, USD","Exports, Japan, USD","Auto exports, Japan, USD m"
 Monthly,Exports,Value,USD,By Country,Korea,,,"Auto exports, Korea,Rep., USD m"
 Monthly,Exports,Value,USD,By Country,Taiwan,,"Exports, Taiwan, USD","Auto exports, Taiwan, USD m"
-Monthly,Exports,Value,USD,By Country,EU,"Exports, EU, USD","Exports, EU, USD","Auto exports, EU, USD m"
-Monthly,Exports,Value,USD,By Country,US,"Exports, US, USD","Exports, US, USD",
+Monthly,Exports,Value,USD,By Country,EU,"Exports, EU, USD","Exports, EU, USD","Exports, EU, USD"
+Monthly,Exports,Value,USD,By Country,US,"Exports, US, USD","Exports, US, USD","Exports, US, USD"
 Monthly,Exports,Value,LCU,Total,,"Exports, All, LCU",,"Exports, All, LCU"
 Monthly,Exports,Value,LCU,By Product,Semiconductors,"Exports, Semiconductors HS 776, LCU",,
 Monthly,Exports,Value,LCU,By Product,Passenger cars,,,
@@ -32,17 +32,17 @@ Monthly,Exports,Value,Index,By Country,Korea,,,
 Monthly,Exports,Value,Index,By Country,Taiwan,,,
 Monthly,Exports,Value,Index,By Country,EU,,,
 Monthly,Exports,Value,Index,By Country,US,,,
-Monthly,Exports,Value,"USD, % YoY",Total,,"Exports, All, USD, % YoY","Exports, All, USD, % YoY",
+Monthly,Exports,Value,"USD, % YoY",Total,,"Exports, All, USD, % YoY","Exports, All, USD, % YoY","Exports, All, USD, % YoY"
 Monthly,Exports,Value,"USD, % YoY",By Product,Semiconductors,"Exports, Semiconductors HS 776, USD, % YoY","Exports, Semiconductors, USD, % YoY",
 Monthly,Exports,Value,"USD, % YoY",By Product,Passenger cars,,,
 Monthly,Exports,Value,"USD, % YoY",By Product,Energy,,,
 Monthly,Exports,Value,"USD, % YoY",By Product,Others,,,
 Monthly,Exports,Value,"USD, % YoY",By Country,China,"Exports, China and Hong Kong, USD, % YoY","Exports, China, USD, % YoY",
-Monthly,Exports,Value,"USD, % YoY",By Country,Japan,"Exports, DM excl Japan, USD, % YoY","Exports, Japan, USD, % YoY",
+Monthly,Exports,Value,"USD, % YoY",By Country,Japan,"Exports, DM excl Japan, USD, % YoY","Exports, Japan, USD, % YoY","Exports, DM excl Japan, USD, % YoY"
 Monthly,Exports,Value,"USD, % YoY",By Country,Korea,,,
 Monthly,Exports,Value,"USD, % YoY",By Country,Taiwan,,"Exports, Taiwan, USD, % YoY",
-Monthly,Exports,Value,"USD, % YoY",By Country,EU,"Exports, EU, USD, % YoY","Exports, EU, USD, % YoY",
-Monthly,Exports,Value,"USD, % YoY",By Country,US,"Exports, US, USD, % YoY","Exports, US, USD, % YoY",
+Monthly,Exports,Value,"USD, % YoY",By Country,EU,"Exports, EU, USD, % YoY","Exports, EU, USD, % YoY","Exports, EU, USD, % YoY"
+Monthly,Exports,Value,"USD, % YoY",By Country,US,"Exports, US, USD, % YoY","Exports, US, USD, % YoY","Exports, US, USD, % YoY"
 Monthly,Exports,Value,"LCU, % YoY",Total,,"Exports, All, LCU, % YoY",,"Exports, All, LCU, % YoY"
 Monthly,Exports,Value,"LCU, % YoY",By Product,Semiconductors,"Exports, Semiconductors HS 776, LCU, % YoY",,
 Monthly,Exports,Value,"LCU, % YoY",By Product,Passenger cars,,,
@@ -98,17 +98,17 @@ Monthly,Exports,Value,"Index, SA",By Country,Korea,,,
 Monthly,Exports,Value,"Index, SA",By Country,Taiwan,,,
 Monthly,Exports,Value,"Index, SA",By Country,EU,,,
 Monthly,Exports,Value,"Index, SA",By Country,US,,,
-Monthly,Exports,Value,"USD, % MoM",Total,,,,
+Monthly,Exports,Value,"USD, % MoM",Total,,,,"Exports, All, SA, USD, % MoM"
 Monthly,Exports,Value,"USD, % MoM",By Product,Semiconductors,,,
 Monthly,Exports,Value,"USD, % MoM",By Product,Passenger cars,,,
 Monthly,Exports,Value,"USD, % MoM",By Product,Energy,,,
 Monthly,Exports,Value,"USD, % MoM",By Product,Others,,,
 Monthly,Exports,Value,"USD, % MoM",By Country,China,,,
-Monthly,Exports,Value,"USD, % MoM",By Country,Japan,,,
+Monthly,Exports,Value,"USD, % MoM",By Country,Japan,,,"Exports, DM excl Japan, SA, USD, % MoM"
 Monthly,Exports,Value,"USD, % MoM",By Country,Korea,,,
 Monthly,Exports,Value,"USD, % MoM",By Country,Taiwan,,,
-Monthly,Exports,Value,"USD, % MoM",By Country,EU,,,
-Monthly,Exports,Value,"USD, % MoM",By Country,US,,,
+Monthly,Exports,Value,"USD, % MoM",By Country,EU,,,"Exports, EU, SA, USD, % MoM"
+Monthly,Exports,Value,"USD, % MoM",By Country,US,,,"Exports, US, SA, USD, % MoM"
 Monthly,Exports,Value,"LCU, % MoM",Total,,,,"Exports, All, SA, LCU, % MoM"
 Monthly,Exports,Value,"LCU, % MoM",By Product,Semiconductors,,,
 Monthly,Exports,Value,"LCU, % MoM",By Product,Passenger cars,,,
@@ -593,10 +593,10 @@ Monthly,Exports,Price,"Index, % MoM, SA",By Country,Korea,,,
 Monthly,Exports,Price,"Index, % MoM, SA",By Country,Taiwan,,,
 Monthly,Exports,Price,"Index, % MoM, SA",By Country,EU,,,
 Monthly,Exports,Price,"Index, % MoM, SA",By Country,US,,,
-Monthly,Imports,Value,USD,Total,,"Imports, All, USD","Imports, All, USD",
+Monthly,Imports,Value,USD,Total,,"Imports, All, USD","Imports, All, USD","Imports, USD"
 Monthly,Imports,Value,USD,By Product,Semiconductors,,"Imports, Semiconductors, USD",
 Monthly,Imports,Value,USD,By Product,Passenger cars,,,
-Monthly,Imports,Value,USD,By Product,Energy,,"Imports, Energy, USD",
+Monthly,Imports,Value,USD,By Product,Energy,,"Imports, Energy, USD","Imports, Energy, SA, USD"
 Monthly,Imports,Value,USD,By Product,Others,,,
 Monthly,Imports,Value,USD,By Country,China,,"Imports, China, USD",
 Monthly,Imports,Value,USD,By Country,Japan,,"Imports, Japan, USD",
@@ -626,10 +626,10 @@ Monthly,Imports,Value,Index,By Country,Korea,,,
 Monthly,Imports,Value,Index,By Country,Taiwan,,,
 Monthly,Imports,Value,Index,By Country,EU,,,
 Monthly,Imports,Value,Index,By Country,US,,,
-Monthly,Imports,Value,"USD, % YoY",Total,,"Imports, All, USD, % YoY","Imports, All, USD, % YoY",
+Monthly,Imports,Value,"USD, % YoY",Total,,"Imports, All, USD, % YoY","Imports, All, USD, % YoY","Imports, USD, % YoY"
 Monthly,Imports,Value,"USD, % YoY",By Product,Semiconductors,,"Imports, Semiconductors, USD, % YoY",
 Monthly,Imports,Value,"USD, % YoY",By Product,Passenger cars,,,
-Monthly,Imports,Value,"USD, % YoY",By Product,Energy,,"Imports, Energy, USD, % YoY",
+Monthly,Imports,Value,"USD, % YoY",By Product,Energy,,"Imports, Energy, USD, % YoY","Imports, Energy, USD, % YoY"
 Monthly,Imports,Value,"USD, % YoY",By Product,Others,,,
 Monthly,Imports,Value,"USD, % YoY",By Country,China,,"Imports, China, USD, % YoY",
 Monthly,Imports,Value,"USD, % YoY",By Country,Japan,,"Imports, Japan, USD, % YoY",
@@ -692,10 +692,10 @@ Monthly,Imports,Value,"Index, SA",By Country,Korea,,,
 Monthly,Imports,Value,"Index, SA",By Country,Taiwan,,,
 Monthly,Imports,Value,"Index, SA",By Country,EU,,,
 Monthly,Imports,Value,"Index, SA",By Country,US,,,
-Monthly,Imports,Value,"USD, % MoM",Total,,,,
+Monthly,Imports,Value,"USD, % MoM",Total,,,,"Imports, SA, USD, % MoM"
 Monthly,Imports,Value,"USD, % MoM",By Product,Semiconductors,,,
 Monthly,Imports,Value,"USD, % MoM",By Product,Passenger cars,,,
-Monthly,Imports,Value,"USD, % MoM",By Product,Energy,,,
+Monthly,Imports,Value,"USD, % MoM",By Product,Energy,,,"Imports, Energy, SA, USD, % MoM"
 Monthly,Imports,Value,"USD, % MoM",By Product,Others,,,
 Monthly,Imports,Value,"USD, % MoM",By Country,China,,,
 Monthly,Imports,Value,"USD, % MoM",By Country,Japan,,,
@@ -1187,10 +1187,10 @@ Monthly,Imports,Price,"Index, % MoM, SA",By Country,Korea,,,
 Monthly,Imports,Price,"Index, % MoM, SA",By Country,Taiwan,,,
 Monthly,Imports,Price,"Index, % MoM, SA",By Country,EU,,,
 Monthly,Imports,Price,"Index, % MoM, SA",By Country,US,,,
-Monthly,Trade balance,Value,USD,Total,,"Trade balance, USD","Trade balance, USD",
+Monthly,Trade balance,Value,USD,Total,,"Trade balance, USD","Trade balance, USD","Trade balance, USD"
 Monthly,Trade balance,Value,USD,By Product,Semiconductors,,,
 Monthly,Trade balance,Value,USD,By Product,Passenger cars,,,
-Monthly,Trade balance,Value,USD,By Product,Energy,,,
+Monthly,Trade balance,Value,USD,By Product,Energy,,,"Trade balance, Excl energy imports, USD"
 Monthly,Trade balance,Value,USD,By Product,Others,,,
 Monthly,Trade balance,Value,USD,By Country,China,,,
 Monthly,Trade balance,Value,USD,By Country,Japan,,,
@@ -1220,10 +1220,10 @@ Monthly,Trade balance,Value,Index,By Country,Korea,,,
 Monthly,Trade balance,Value,Index,By Country,Taiwan,,,
 Monthly,Trade balance,Value,Index,By Country,EU,,,
 Monthly,Trade balance,Value,Index,By Country,US,,,
-Monthly,Trade balance,Value,"USD, % YoY",Total,,,,
+Monthly,Trade balance,Value,"USD, % YoY",Total,,,,"Trade balance, USD, % YoY"
 Monthly,Trade balance,Value,"USD, % YoY",By Product,Semiconductors,,,
 Monthly,Trade balance,Value,"USD, % YoY",By Product,Passenger cars,,,
-Monthly,Trade balance,Value,"USD, % YoY",By Product,Energy,,,
+Monthly,Trade balance,Value,"USD, % YoY",By Product,Energy,,,"Trade balance, Excl energy imports, USD, % YoY"
 Monthly,Trade balance,Value,"USD, % YoY",By Product,Others,,,
 Monthly,Trade balance,Value,"USD, % YoY",By Country,China,,,
 Monthly,Trade balance,Value,"USD, % YoY",By Country,Japan,,,
@@ -1286,10 +1286,10 @@ Monthly,Trade balance,Value,"Index, SA",By Country,Korea,,,
 Monthly,Trade balance,Value,"Index, SA",By Country,Taiwan,,,
 Monthly,Trade balance,Value,"Index, SA",By Country,EU,,,
 Monthly,Trade balance,Value,"Index, SA",By Country,US,,,
-Monthly,Trade balance,Value,"USD, % MoM",Total,,,,
+Monthly,Trade balance,Value,"USD, % MoM",Total,,,,"Trade balance, SA, USD, % MoM"
 Monthly,Trade balance,Value,"USD, % MoM",By Product,Semiconductors,,,
 Monthly,Trade balance,Value,"USD, % MoM",By Product,Passenger cars,,,
-Monthly,Trade balance,Value,"USD, % MoM",By Product,Energy,,,
+Monthly,Trade balance,Value,"USD, % MoM",By Product,Energy,,,"Trade balance, Excl energy imports, SA, USD, % MoM"
 Monthly,Trade balance,Value,"USD, % MoM",By Product,Others,,,
 Monthly,Trade balance,Value,"USD, % MoM",By Country,China,,,
 Monthly,Trade balance,Value,"USD, % MoM",By Country,Japan,,,
