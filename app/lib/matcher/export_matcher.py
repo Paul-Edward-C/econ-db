@@ -105,7 +105,7 @@ class Export_matcher:
 
         mapping.loc[all_result['mappingindex'], country] = all_result['dataname'].tolist()
         mapping.to_csv(self.mapping_path, index=False)
-        output_path = f"db/{country.lower()}/data/export/{dt.strftime(dt.now().date(), '%Y%m%d')} {country} match output.xlsx"
+        output_path = f"db/{country.lower()}/export/{freq.lower()}/{dt.strftime(dt.now().date(), '%Y%m%d')} {country} match output.xlsx"
         all_result.to_excel(output_path, index=True)
         
         return all_result, mapping, len(all_result)

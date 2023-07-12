@@ -63,9 +63,6 @@ def main():
     for category in category_list:
         funcs_map[category](country_list, freq_list)
     
-    # match_gdp()
-    # match_export()
-    
     
 if __name__ == "__main__":
     main()
