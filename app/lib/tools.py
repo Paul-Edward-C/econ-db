@@ -240,7 +240,19 @@ class Tool:
         nearest_date = sorted([(i, abs(i - starting_date)) for i in self.source_backup.index], key=lambda x: x[1])[0][0]
         
         return dt.strftime(nearest_date, "%Y/%m/%d")
-        
+    
+    def remove_duplicated_unit(self, unit_list):
+        result = []
+        for i, string in enumerate(unit_list):
+            is_contained = False
+            for j, other_string in enumerate(unit_list):
+                if i != j and string in other_string:
+                    is_contained = True
+                    break
+            if not is_contained:
+                result.append(string)
+        return result
+
 
 class Setting:
     def __init__(self):
@@ -275,6 +287,13 @@ class Setting:
         self.data_freq_lookup_table = {
             "Quarterly": ["NGDP Q", "RGDP Q"],
             "Monthly": ["Monthly"]
+        }
+        
+        self.country_currency_map = {
+            "KR": ["KRW", "USD"],
+            "TW": ["TWD", "NTD", "USD"],
+            "JP": ["JPY", "USD"],
+            "CN": ["CNY", "USD"],
         }
         
         self.freq_structure_map = {
