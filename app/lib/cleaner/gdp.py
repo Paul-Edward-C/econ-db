@@ -37,10 +37,8 @@ def run_cleaning_pipeline(country, freq, to_db):
         new_columns = []
         for column in columns:
             if currency in column:
-                if currency == "USD":
-                    new_column = column.replace(f"{currency} bn", "USD")
-                else:
-                    new_column = column.replace(f"{currency} bn", "LCU").replace(currency, "LCU")
+                new_currency = setting.country_currency_map[country][currency]
+                new_column = column.replace(f"{currency} bn", new_currency).replace(currency, new_currency)
 
                 if new_column != column:
                     currency_replace_num += 1
