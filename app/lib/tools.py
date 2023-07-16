@@ -402,10 +402,10 @@ class Setting:
         self.data_freq_lookup_table = {"Quarterly": ["NGDP Q", "RGDP Q"], "Monthly": ["Monthly"]}
 
         self.country_currency_map = {
-            "KR": ["KRW", "USD"],
-            "TW": ["TWD", "NTD", "USD"],
-            "JP": ["JPY", "USD"],
-            "CN": ["CNY", "USD"],
+            "KR": {"KRW": "LCU", "USD": "USD"},
+            "TW": {"TWD": "LCU", "NTD": "LCU", "USD": "USD"},
+            "JP": {"JPY": "LCU", "USD": "USD"},
+            "CN": {"CNY": "LCU", "USD": "USD"},
         }
 
         self.freq_structure_map = {"Q": "Quarterly", "M": "Monthly", "A": "Annual"}
