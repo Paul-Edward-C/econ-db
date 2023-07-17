@@ -407,6 +407,10 @@ class Setting:
             "JP": {"JPY": "LCU", "USD": "USD"},
             "CN": {"CNY": "LCU", "USD": "USD"},
         }
+        self.category_full_name_map = {
+            "export": "Foreign Trade",
+            "gdp": "National Accounts",
+        }
 
         self.freq_structure_map = {"Q": "Quarterly", "M": "Monthly", "A": "Annual"}
 
