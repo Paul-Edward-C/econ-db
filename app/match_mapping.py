@@ -5,17 +5,17 @@ from datetime import datetime as dt
 import argparse
 
 
-def match_export(country_list, freq_list):
-    category_name = "Foreign Trade"
+def match_export(country_list, freq_list, category):
     setting = Setting()
+    category_full = setting.category_full_name_map[category]
     freq_country_map = {
-        "M": [k for k, v in setting.structure.items() if category_name in v and v[category_name].get("M", False)],
-        "Q": [k for k, v in setting.structure.items() if category_name in v and v[category_name].get("Q", False)],
-        "A": [k for k, v in setting.structure.items() if category_name in v and v[category_name].get("A", False)]
+        "M": [k for k, v in setting.structure.items() if category_full in v and v[category_full].get("M", False)],
+        "Q": [k for k, v in setting.structure.items() if category_full in v and v[category_full].get("Q", False)],
+        "A": [k for k, v in setting.structure.items() if category_full in v and v[category_full].get("A", False)]
     }
     
-    mapping_path = setting.category_structure[category_name]["path"]
-    matcher = Export_matcher(mapping_path=mapping_path, keep_list=[1, 5, 3], category_name=category_name)
+    mapping_path = setting.category_structure[category_full]["path"]
+    matcher = Export_matcher(mapping_path=mapping_path, keep_list=[1, 5, 3], category_name=category_full)
     
     freq_list = freq_country_map.keys() if freq_list is None else freq_list
     for freq in freq_list:
@@ -25,17 +25,18 @@ def match_export(country_list, freq_list):
             matcher.match(country=country, freq=freq)
         
 
-def match_gdp(country_list, freq_list):
-    category_name = "National Accounts"
+def match_gdp(country_list, freq_list, category):
+    setting = Setting()
+    category_full = setting.category_full_name_map[category]
     setting = Setting()
     freq_country_map = {
-        "M": [k for k, v in setting.structure.items() if category_name in v and v[category_name].get("M", False)],
-        "Q": [k for k, v in setting.structure.items() if category_name in v and v[category_name].get("Q", False)],
-        "A": [k for k, v in setting.structure.items() if category_name in v and v[category_name].get("A", False)]
+        "M": [k for k, v in setting.structure.items() if category_full in v and v[category_full].get("M", False)],
+        "Q": [k for k, v in setting.structure.items() if category_full in v and v[category_full].get("Q", False)],
+        "A": [k for k, v in setting.structure.items() if category_full in v and v[category_full].get("A", False)]
     }
     
-    mapping_path = setting.category_structure[category_name]["path"]
-    matcher = GDP_matcher(mapping_path=mapping_path, keep_list=[0, 3, 4, 5, 6, 7, 1], category_name=category_name)
+    mapping_path = setting.category_structure[category_full]["path"]
+    matcher = GDP_matcher(mapping_path=mapping_path, keep_list=[0, 3, 4, 5, 6, 7, 1], category_name=category_full)
 
     freq_list = freq_country_map.keys() if freq_list is None else freq_list
     for freq in freq_list:
