@@ -409,7 +409,7 @@ class Setting:
         }
         self.category_full_name_map = {
             "export": "Foreign Trade",
-            'gdp': "National Accounts",
+            "gdp": "National Accounts",
         }
 
         self.freq_structure_map = {"Q": "Quarterly", "M": "Monthly", "A": "Annual"}

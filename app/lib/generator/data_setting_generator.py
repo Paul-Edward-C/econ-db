@@ -33,7 +33,7 @@ def create_data_setting_pipeline(category, country, freq, to_db):
     data_setting = create_display_name(columns, data_setting, country)
 
     data_setting.index.name = "name"
-    data_setting = data_setting[['display_name', 'data_type', 'chart_type']]
+    data_setting = data_setting[["display_name", "data_type", "chart_type"]]
 
     if to_db:
         output_path = setting.structure[country][category_full][f"{freq_full}_setting_path"]
@@ -91,7 +91,7 @@ def main():
     category_list = args.category.split(",") if args.category is not None else None
     country_list = args.country.split(",") if args.country is not None else None
     freq_list = args.freq.split(",") if args.freq is not None else None
-    
+
     successful_number = 0
     failed_number = 0
     for category in category_list:
@@ -99,7 +99,9 @@ def main():
             for freq in freq_list:
                 try:
                     create_data_setting_pipeline(category, country, freq, to_db=args.to_db)
-                    logging.info(f"Successfully create data setting pipeline for category: {category}, country: {country}, freq")
+                    logging.info(
+                        f"Successfully create data setting pipeline for category: {category}, country: {country}, freq"
+                    )
                     successful_number += 1
                 except KeyError as e:
                     logging.error(f"Request data not found for category: {category}, country: {country}, freq: {freq}")
@@ -107,7 +109,7 @@ def main():
 
     logging.info(f"Successfully create {successful_number} data setting pipeline")
     logging.info(f"Failed to create {failed_number} data setting pipeline")
-    
-    
+
+
 if __name__ == "__main__":
     main()
