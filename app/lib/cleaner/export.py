@@ -41,7 +41,11 @@ def run_cleaning_pipeline(country, freq, to_db):
         for column in columns:
             if currency in column:
                 new_currency = setting.country_currency_map[country][currency]
-                new_column = column.replace(f"{currency} bn", new_currency).replace(currency, new_currency)
+                new_column = (
+                    column.replace(f"{currency} bn", new_currency)
+                    .replace(f"{currency} m", new_currency)
+                    .replace(currency, new_currency)
+                )
 
                 if new_column != column:
                     currency_replace_num += 1
@@ -52,6 +56,8 @@ def run_cleaning_pipeline(country, freq, to_db):
 
     if country == "JP" and freq == "M":
         columns = jp_m_exception(columns)
+    elif country == "CN" and freq == "M":
+        columns = cn_m_exception(columns)
 
     # Check unit order
     unit_replace_num = 0
@@ -87,6 +93,8 @@ def run_cleaning_pipeline(country, freq, to_db):
                     "index, SA, Volume": "Volume, index, SA",
                     "SA, index, Volume": "Volume, index, SA",
                     "SA, LCU, Value": "Value, LCU, SA",
+                    "SA, % of total, Value": "Value, % of total, SA",
+                    "SA, index, Value": "Value, index, SA",
                 },
                 4: {
                     "SA, % MoM, index, Volume": "Volume, index, % MoM, SA",
@@ -96,6 +104,7 @@ def run_cleaning_pipeline(country, freq, to_db):
                     "SA, % YoY, index, Volume": "Volume, index, % YoY, SA",
                     "SA, LCU, % YoY, Value": "Value, LCU, % YoY, SA",
                     "SA, USD, % YoY, Value": "Value, USD, % YoY, SA",
+                    "SA, index, % YoY, Value": "Value, index, % YoY, SA",
                 },
                 5: {},
             }
@@ -104,7 +113,8 @@ def run_cleaning_pipeline(country, freq, to_db):
                 column = column.replace(check_list[0], cond_dict[unit_num][check_list[0]])
                 unit_replace_num += 1
             else:
-                if "3mma" not in column:
+                ignore_list = ["3mma", "MoM chg"]
+                if not any(i in column for i in ignore_list):
                     logging.warning(f"Wrong unit order : {column}  {unit_num}")
         new_columns.append(column)
 
@@ -168,6 +178,16 @@ def jp_m_exception(columns):
     logging.info(f"Upper index replace num: {upper_index_replace_num}")
     logging.info(f"Volume unit replace num: {volume_unit_replace_num}")
     logging.info(f"Add value replace num: {add_value_replace_num}")
+    return new_columns
+
+
+def cn_m_exception(columns):
+    new_columns = []
+    # check does data contain "Value, "Volume" or "Price"
+    for column in columns:
+        if not ("Value" in column or "Volume" in column or "Price" in column):
+            column += ", Value"
+        new_columns.append(column)
     return new_columns
 
 
