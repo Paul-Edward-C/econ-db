@@ -1,7 +1,6 @@
 # =========IMPORT PACKAGES==========
 import logging
-
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)')
 import pathlib
 import sys
 from datetime import datetime as dt
@@ -41,7 +40,7 @@ class Export_matcher:
         all_result = pd.DataFrame()
         mapping = pd.read_csv(self.mapping_path, index_col=None)
         data_path = self.setting.structure[country][self.category_name][
-            f"{self.setting.freq_structure_map[freq]}_data_path"
+            f"{self.setting.freq_full_name_map[freq]}_data_path"
         ]
         data = pd.read_csv(data_path, index_col=[0])
 
