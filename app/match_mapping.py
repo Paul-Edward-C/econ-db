@@ -1,10 +1,10 @@
 import argparse
+import logging
 
 from lib.matcher.export_matcher import Export_matcher
 from lib.matcher.gdp_matcher import GDP_matcher
 from lib.tools import Setting
 
-import logging
 logging.basicConfig(level=logging.INFO)
 
 
@@ -29,7 +29,7 @@ def match_export(country_list, freq_list, to_db, to_output, category):
             matcher.match(country=country, freq=freq)
 
 
-def match_gdp(country_list, freq_list, to_db, to_output, category='gdp'):
+def match_gdp(country_list, freq_list, to_db, to_output, category="gdp"):
     setting = Setting()
     category_full = setting.category_full_name_map[category]
     setting = Setting()
@@ -51,7 +51,8 @@ def match_gdp(country_list, freq_list, to_db, to_output, category='gdp'):
                 country=country, freq=freq, to_db=to_db, to_output=to_output
             )
             print(
-                f"matching_num: {str(matching_num)}, data_num: {data_num}, mapping_length: {str(mapping_length)}, matching_ratio: {str(matching_ratio)}"
+                f"matching_num: {str(matching_num)}, data_num: {data_num}, "
+                f"mapping_length: {str(mapping_length)}, matching_ratio: {str(matching_ratio)}"
             )
 
 

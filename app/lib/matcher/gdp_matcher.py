@@ -13,10 +13,11 @@ from datetime import datetime as dt
 
 import numpy as np
 import pandas as pd
-pd.options.display.width= None
-pd.options.display.max_columns= None
-pd.set_option('display.max_rows', 3000)
-pd.set_option('display.max_columns', 3000)
+
+pd.options.display.width = None
+pd.options.display.max_columns = None
+pd.set_option("display.max_rows", 3000)
+pd.set_option("display.max_columns", 3000)
 from fuzzywuzzy import fuzz
 from lib.tools import Setting, Tool
 from tqdm import tqdm
@@ -44,7 +45,6 @@ class GDP_matcher:
         score = fuzz.token_sort_ratio(str1, str2)
         return score
 
-    
     def run_matching_pipeline(self, country, freq, to_db, to_output):  # one country, one freq per matching.
         freq_full = self.setting.freq_full_name_map[freq]
         data_path = self.setting.structure[country][self.category_full][f"{freq_full}_data_path"]
@@ -69,7 +69,7 @@ class GDP_matcher:
             # Get current mapping list in order
             row = row[~row.isna()]
             mapping_list = [row[i] for i in keep_list if str(i) in row.index.to_list()]
-            
+
             if len(mapping_list) == 0:
                 logging.warning(f"{country}-{freq} mapping row {index} is empty")
                 continue
@@ -110,11 +110,7 @@ class GDP_matcher:
                 if score > max_score:
                     max_score = score
                     max_score_data_name = column
-            
-            # if max_score <= 50:
-            #     matching_result.loc[len(matching_result), matching_result_columns] = [mapping_str, np.nan, 0, 0, np.nan]
-            #     continue
-                
+
             matching_result.loc[len(matching_result), matching_result_columns] = [
                 mapping_str,
                 max_score_data_name,
@@ -130,24 +126,32 @@ class GDP_matcher:
             if len(filtered_matching) > 1:
                 drop_index_list = filtered_matching.sort_values(by="score", ascending=False).index.tolist()[1:]
                 for index in drop_index_list:
-                    matching_result.loc[index, ["data_name", "score", "valid_number", "mapping_index"]] = [np.nan, 0, 0, np.nan]
-    
+                    matching_result.loc[index, ["data_name", "score", "valid_number", "mapping_index"]] = [
+                        np.nan,
+                        0,
+                        0,
+                        np.nan,
+                    ]
+
         if to_output:
-            output_path = f"db/{country.lower()}/{self.category}/{freq.lower()}/{dt.today().strftime('%Y%m%d')}_{country}_{self.category}_output.csv"
-            matching_result = matching_result.loc[~matching_result['data_name'].isna()]
+            output_path = (
+                f"db/{country.lower()}/{self.category}/{freq.lower()}/"
+                f"{dt.today().strftime('%Y%m%d')}_{country}_{self.category}_output.csv"
+            )
+            matching_result = matching_result.loc[~matching_result["data_name"].isna()]
             matching_result.to_csv(output_path, index=False)
-    
+
         if to_db:
             # write result to db
             for _, row in matching_result.iterrows():
                 self.mapping.loc[row["mapping_index"], country] = row["data_name"]
                 self.mapping.dropna(how="all", axis=0, inplace=True)
             self.mapping.to_csv(self.mapping_path, index=False)
-    
+
         # Create return result values
-        matching_num = len(matching_result['data_name'].dropna())
+        matching_num = len(matching_result["data_name"].dropna())
         data_num = len(data.columns)
         mapping_length = len(self.mapping)
         matching_ratio = matching_num / data_num
-    
+
         return matching_num, data_num, mapping_length, matching_ratio

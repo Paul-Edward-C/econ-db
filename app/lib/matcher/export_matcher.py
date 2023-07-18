@@ -1,6 +1,7 @@
 # =========IMPORT PACKAGES==========
 import logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)')
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(name)")
 import pathlib
 import sys
 from datetime import datetime as dt
