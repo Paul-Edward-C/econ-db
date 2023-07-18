@@ -1,112 +1,157 @@
 # =========IMPORT PACKAGES==========
-import sys
+import logging
 import pathlib
+import sys
 
-sys.path.append(f'''{str(pathlib.Path(__file__).resolve().parent)}''')
-sys.path.append(f'''{str(pathlib.Path(__file__).resolve().parent.parent)}''')
-sys.path.append(f'''{str(pathlib.Path(__file__).resolve().parent.parent.parent)}''')
+logging.basicConfig(level=logging.INFO)
 
-import pandas as pd
-from fuzzywuzzy import fuzz
+sys.path.append(f"""{str(pathlib.Path(__file__).resolve().parent)}""")
+sys.path.append(f"""{str(pathlib.Path(__file__).resolve().parent.parent)}""")
+sys.path.append(f"""{str(pathlib.Path(__file__).resolve().parent.parent.parent)}""")
+
 from datetime import datetime as dt
+
 import numpy as np
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
-from lib.tools import Setting
+import pandas as pd
+
+pd.options.display.width = None
+pd.options.display.max_columns = None
+pd.set_option("display.max_rows", 3000)
+pd.set_option("display.max_columns", 3000)
+from fuzzywuzzy import fuzz
+from lib.tools import Setting, Tool
+from tqdm import tqdm
 
 # =========DEFINE CLASS OBJECT==========
 
 
 class GDP_matcher:
-    def __init__(self, mapping_path, keep_list, category_name):
-        # Define self.xxx in to every parameters in __init__
-        for key, value in locals().items():
-            if key != 'self':
-                setattr(self, key, value)
-            
-        self.freq_lookup_table = {
-            "Q": ["NGDP Q", "RGDP Q"]
-        }
+    def __init__(self, category="gdp"):
+        self.tool = Tool()
         self.setting = Setting()
 
-    def match(self, country, freq):
-        result_list = []
-    
-        mapping = pd.read_csv(self.mapping_path, index_col=None)
-        data_path = self.setting.structure[country][self.category_name][f"{self.setting.freq_structure_map[freq]}_data_path"]
+        self.category = category
+        self.category_full = self.setting.category_full_name_map[self.category]
+
+        mapping_template_path = self.setting.category_structure[self.category_full]["input_path"]
+        self.mapping_template = pd.read_excel(mapping_template_path, index_col=None)
+        unit_list = [[g.strip() for g in i.split(",")] for i in self.mapping_template["Unit"].dropna().tolist()]
+        self.unit_component = list(set(item for sublist in unit_list for item in sublist))
+
+        self.mapping_path = self.setting.category_structure[self.category_full]["path"]
+        self.mapping = pd.read_csv(self.mapping_path, index_col=None)
+
+    def get_similarity_score(self, str1, str2):
+        score = fuzz.token_sort_ratio(str1, str2)
+        return score
+
+    def run_matching_pipeline(self, country, freq, to_db, to_output):  # one country, one freq per matching.
+        freq_full = self.setting.freq_full_name_map[freq]
+        data_path = self.setting.structure[country][self.category_full][f"{freq_full}_data_path"]
         data = pd.read_csv(data_path, index_col=[0])
-        # print(mapping)
-        
-        for index in mapping.index:
-            if mapping.loc[index][0] not in self.freq_lookup_table[freq]:
+
+        columns = data.columns
+        keep_list = [0, 3, 4, 5, 6, 7, 8, 1]
+
+        matching_result = pd.DataFrame()
+        matching_result_columns = ["mapping_name", "data_name", "valid_number", "score", "mapping_index"]
+
+        for index, row in tqdm(
+            self.mapping.iterrows(), desc=f"{country}-{freq} matching mapping", unit="mapping object"
+        ):
+            # Check whether freq of this mapping row is in current matching freq
+            if not row[0] in self.setting.freq_data_mapping_map[freq].keys():
                 continue
-            
-            mapping_list = mapping.iloc[[index]].T.iloc[self.keep_list].dropna()[index].to_list()
-            
+
+            # Check current mapping unit number
+            mapping_unit_num = len(row[1].split(","))
+
+            # Get current mapping list in order
+            row = row[~row.isna()]
+            mapping_list = [row[i] for i in keep_list if str(i) in row.index.to_list()]
+
             if len(mapping_list) == 0:
-                print(country, index)
-        
+                logging.warning(f"{country}-{freq} mapping row {index} is empty")
+                continue
+
             mapping_list.remove("Total") if "Total" in mapping_list else None
-        
-            unit = mapping_list[-1]
-            main_category = mapping_list[0][:-2]
-            result = ", ".join(mapping_list)
-            
-                
-            data_columns = data.columns
-            
+
+            unit = row[1]
+            main_category = self.setting.freq_data_mapping_map[freq][row[0]]
+            mapping_list[0] = main_category
+            mapping_str = ", ".join(mapping_list)
+
             # exclude data without main category and unit in its name
             for i in [main_category, unit]:
-                data_columns = data_columns[data_columns.str.contains(i)]
-            
-            if main_category == "NGDP" and unit == "LCU":
-                print(mapping_list, len(data_columns))
-            
-            if len(data_columns) == 0:
-                result_list.append(
-                    {"mapping name": result, "data name": np.nan, "score": 0, "length": len(data_columns)})
+                columns = columns[columns.str.contains(i)]
+            if len(columns) == 0:
+                matching_result.loc[len(matching_result), matching_result_columns] = [mapping_str, np.nan, 0, 0, np.nan]
                 continue
-        
+
+            # Deal with country exceptions
+
+            # Start find column with highest similarity score
             max_score = 0
-            data_name = ""
-        
-            for i in data_columns:
-                score = fuzz.token_sort_ratio(result, i)
+            max_score_data_name = ""
+            valid_number = len(columns)
+            for column in columns:
+                current_unit_list = []
+                for unit in self.unit_component:
+                    if unit in column:
+                        current_unit_list.append(unit)
+                current_unit_list = self.tool.remove_duplicated_unit(current_unit_list)
+                data_unit_num = len(current_unit_list)
+
+                if data_unit_num != mapping_unit_num:
+                    valid_number -= 1
+                    continue
+
+                score = self.get_similarity_score(column, mapping_str)
                 if score > max_score:
                     max_score = score
-                    data_name = i
-        
-            if max_score < 75:
-                result_list.append(
-                    {"mapping name": result, "data name": np.nan, "score": 0, "length": len(data_columns),
-                     "mapping_index": index})
-                continue
-        
-            result_list.append(
-                {"mapping name": result, "data name": data_name, "score": max_score / 100, "length": len(data_columns),
-                 "mapping_index": index})
-    
-        result = pd.DataFrame(result_list)
-        
-        # remove multiple mapping to same data issue
-        data_found = result['data name'].dropna().unique()
-        for i in range(len(data_found)):
-            filter_data = result[result['data name'] == data_found[i]]
-            if len(filter_data) > 1:
-                for g in filter_data.sort_values("score", ascending=False).index[1:]:
-                    result.loc[g, ["data name", "score", "length"]] = [np.nan, 0, 0]
-                
-                    # Output result
-        output_path = f"db/{country.lower()}/gdp/{freq.lower()}/{dt.strftime(dt.now().date(), '%Y%m%d')} {country} match output.xlsx"
-        result.to_excel(output_path, index=False)
-        result_length = len(result.dropna(how='any', axis=0))
-    
-        # Write the matched data to mapping
-        for index, row in result.iterrows():
-            mapping.loc[row['mapping_index'], country] = row['data name']
-    
-        mapping.dropna(how="all", axis=0, inplace=True)
-        mapping.to_csv(self.mapping_path, index=False)
-    
-        return result, mapping, result_length
+                    max_score_data_name = column
 
+            matching_result.loc[len(matching_result), matching_result_columns] = [
+                mapping_str,
+                max_score_data_name,
+                valid_number,
+                max_score / 100,
+                index,
+            ]
+
+        # Remove multiple mapping references are same column condition => only keep the mapping row with higher score
+        all_match_data_names = matching_result["data_name"].unique().tolist()
+        for i in all_match_data_names:
+            filtered_matching = matching_result.loc[matching_result["data_name"] == i]
+            if len(filtered_matching) > 1:
+                drop_index_list = filtered_matching.sort_values(by="score", ascending=False).index.tolist()[1:]
+                for index in drop_index_list:
+                    matching_result.loc[index, ["data_name", "score", "valid_number", "mapping_index"]] = [
+                        np.nan,
+                        0,
+                        0,
+                        np.nan,
+                    ]
+
+        if to_output:
+            output_path = (
+                f"db/{country.lower()}/{self.category}/{freq.lower()}/"
+                f"{dt.today().strftime('%Y%m%d')}_{country}_{self.category}_output.csv"
+            )
+            matching_result = matching_result.loc[~matching_result["data_name"].isna()]
+            matching_result.to_csv(output_path, index=False)
+
+        if to_db:
+            # write result to db
+            for _, row in matching_result.iterrows():
+                self.mapping.loc[row["mapping_index"], country] = row["data_name"]
+                self.mapping.dropna(how="all", axis=0, inplace=True)
+            self.mapping.to_csv(self.mapping_path, index=False)
+
+        # Create return result values
+        matching_num = len(matching_result["data_name"].dropna())
+        data_num = len(data.columns)
+        mapping_length = len(self.mapping)
+        matching_ratio = matching_num / data_num
+
+        return matching_num, data_num, mapping_length, matching_ratio
