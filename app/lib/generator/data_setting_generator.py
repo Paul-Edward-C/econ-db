@@ -18,7 +18,7 @@ def create_data_setting_pipeline(category, country, freq, to_db):
     setting = Setting()
 
     category_full = setting.category_full_name_map[category]
-    freq_full = setting.freq_structure_map[freq]
+    freq_full = setting.freq_full_name_map[freq]
 
     data_path = setting.structure[country][category_full][f"{freq_full}_data_path"]
     data = pd.read_csv(data_path, index_col=[0])

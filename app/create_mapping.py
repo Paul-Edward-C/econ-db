@@ -1,17 +1,26 @@
+import argparse
+
+from lib.generator.mapping_generator import Mapping_generator as MG
 from lib.tools import Setting
-from lib.mapping_generator import Mapping_generator as MG
 
 
 def main():
-    setting = Setting()
-    category_list = list(setting.category_structure.keys())
-    
-    """for category in category_list:
-        mapping_generator = MG(input_path=setting.category_structure[category]["input_path"],
-                               output_path=setting.category_structure[category]["path"])"""
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--category", type=str, required=True)
+    args = parser.parse_args()
 
-    mapping_generator = MG(input_path=setting.category_structure["EXPORT"]["input_path"],
-                           output_path=setting.category_structure["EXPORT"]["path"])
-    
+    setting = Setting()
+    category_list = args.category.split(",")
+
+    for category in category_list:
+        category_full = setting.category_full_name_map[category]
+        mapping_generator = MG(
+            input_path=setting.category_structure[category_full]["input_path"],
+            output_path=setting.category_structure[category_full]["path"],
+        )
+
+        mapping_generator.create_mapping()
+
+
 if __name__ == "__main__":
     main()

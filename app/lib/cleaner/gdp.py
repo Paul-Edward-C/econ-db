@@ -14,10 +14,11 @@ from lib.tools import Setting, Tool
 
 
 def run_cleaning_pipeline(country, freq, to_db):
+    logging.info(f"Running cleaning pipeline for {country} {freq}")
     setting = Setting()
     tool = Tool()
 
-    freq_full = setting.freq_structure_map[freq]
+    freq_full = setting.freq_full_name_map[freq]
     data_path = setting.structure[country]["National Accounts"][f"{freq_full}_data_path"]
     data = pd.read_csv(data_path, index_col=[0])
     mapping_template_path = setting.category_structure["National Accounts"]["input_path"]
@@ -46,15 +47,21 @@ def run_cleaning_pipeline(country, freq, to_db):
 
             new_columns.append(column)
         columns = new_columns
-
+    
+    # Deal with country exceptions
     if country == "CN" and freq == "Q":
         columns = cn_q_exception(columns, unit_component)
     elif country == "KR" and freq == "Q":
         columns = kr_q_exception(columns, unit_component)
+    elif country == "JP" and freq == "Q":
+        columns = jp_q_exception(columns, unit_component)
+    elif country == "TW" and freq == "Q":
+        columns = tw_q_exception(columns, unit_component)
 
     # Check unit order
     unit_replace_num = 0
     new_columns = []
+    ignore_list = ["SAAR", 'ppt', "YTD"]
     for column in columns:
         # Calculate unit number in column
         current_unit_list = []
@@ -77,10 +84,14 @@ def run_cleaning_pipeline(country, freq, to_db):
                     "SA, % of GDP": "% of GDP, SA",
                     "SA, % QoQ": "% QoQ, SA",
                     "SA, % YoY": "% YoY, SA",
+                    " % of GDP, SA, LCU": "LCU, % of GDP, SA",
                 },
                 3: {
                     "Contribution to % YoY chg, ppts, LCU": "LCU, Contribution to % YoY chg, ppts",
                     "Contribution to % QoQ chg, ppts, LCU": "LCU, Contribution to % QoQ chg, ppts",
+                    " % of GDP, SA, LCU": "LCU, % of GDP, SA",
+                    "% YoY, SA, LCU": "LCU, % YoY, SA",
+                    
                 },
                 4: {},
             }
@@ -89,8 +100,8 @@ def run_cleaning_pipeline(country, freq, to_db):
                 column = column.replace(check_list[0], cond_dict[unit_num][check_list[0]])
                 unit_replace_num += 1
             else:
-                if unit_num != 0:
-                    logging.warning(f"Wrong unit order : {column}  {unit_num}")
+                if not(any(i in column for i in ignore_list)):
+                    logging.warning(f"Wrong unit order : {column}  {unit_num} {current_unit_list}")
 
         new_columns.append(column)
     columns = new_columns
@@ -98,9 +109,35 @@ def run_cleaning_pipeline(country, freq, to_db):
     if to_db:
         data.to_csv(data_path, index=True)
 
-    logging.info(f"\nCurrency replace num : {currency_replace_num}")
-    logging.info(f"Unit replace num : {unit_replace_num}")
+    logging.info(f"Currency replace num : {currency_replace_num}")
+    logging.info(f"Unit replace num : {unit_replace_num}\n")
     return
+
+
+def tw_q_exception(columns, unit_component):  # Add LCU unit to column not have currency unit
+    tool = Tool()
+    new_columns = []
+
+    currency_units = ["LCU", "USD"]
+    for column in columns:
+        if not any(i in column for i in currency_units):
+            column += ", LCU"
+        
+        new_columns.append(column)
+    return new_columns
+
+
+def jp_q_exception(columns, unit_component):  # Add LCU unit to column not have currency unit
+    tool = Tool()
+    new_columns = []
+
+    currency_units = ["LCU", "USD"]
+    for column in columns:
+        if not any(i in column for i in currency_units):
+            column += ", LCU"
+        
+        new_columns.append(column)
+    return new_columns
 
 
 def cn_q_exception(columns, unit_component):  # Add LCU unit to column only with % YoY or % QoQ
@@ -128,26 +165,14 @@ def cn_q_exception(columns, unit_component):  # Add LCU unit to column only with
     return new_columns
 
 
-def kr_q_exception(columns, unit_component):  # Add LCU unit to column only containing % YoY or % QoQ
+def kr_q_exception(columns, unit_component):  # Add LCU unit to column without currency unit
     tool = Tool()
     new_columns = []
 
+    currency_units = ["LCU", "USD"]
     for column in columns:
-        unit_list = []
-        for unit in unit_component:
-            if unit in column:
-                unit_list.append(unit)
-        unit_list = tool.remove_duplicated_unit(unit_list)
-        unit_num = len(unit_list)
-        if unit_num == 1 and (unit_list[0] == "% YoY" or unit_list[0] == "% QoQ"):
-            column = column + ", LCU"
-
-        elif unit_num == 2 and (
-            "ppts" in unit_list
-            and ("Contribution to % YoY chg" in unit_list or "Contribution to % QoQ chg" in unit_list)
-        ):
-            column = column + ", LCU"
-
+        if not any(i in column for i in currency_units):
+            column += ", LCU"
         new_columns.append(column)
 
     return new_columns

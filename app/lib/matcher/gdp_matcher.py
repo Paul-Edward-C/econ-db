@@ -50,7 +50,6 @@ class GDP_matcher:
         data_path = self.setting.structure[country][self.category_full][f"{freq_full}_data_path"]
         data = pd.read_csv(data_path, index_col=[0])
 
-        columns = data.columns
         keep_list = [0, 3, 4, 5, 6, 7, 8, 1]
 
         matching_result = pd.DataFrame()
@@ -59,6 +58,8 @@ class GDP_matcher:
         for index, row in tqdm(
             self.mapping.iterrows(), desc=f"{country}-{freq} matching mapping", unit="mapping object"
         ):
+            columns = data.columns
+
             # Check whether freq of this mapping row is in current matching freq
             if not row[0] in self.setting.freq_data_mapping_map[freq].keys():
                 continue
@@ -136,10 +137,10 @@ class GDP_matcher:
         if to_output:
             output_path = (
                 f"db/{country.lower()}/{self.category}/{freq.lower()}/"
-                f"{dt.today().strftime('%Y%m%d')}_{country}_{self.category}_output.csv"
+                f"{dt.today().strftime('%Y%m%d')}_{country}_{self.category}_output.xlsx"
             )
             matching_result = matching_result.loc[~matching_result["data_name"].isna()]
-            matching_result.to_csv(output_path, index=False)
+            matching_result.to_excel(output_path, index=False)
 
         if to_db:
             # write result to db
