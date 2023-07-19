@@ -399,7 +399,15 @@ class Setting:
             {"id": 3, "color": "#4b0082", "used": False, "label": "indigo"},
         ]
 
-        self.data_freq_lookup_table = {"Quarterly": ["NGDP Q", "RGDP Q"], "Monthly": ["Monthly"]}
+        self.freq_data_mapping_map = {
+            "Q": {
+                "NGDP Q": "NGDP",
+                "RGDP Q": "RGDP"
+            },
+            "M": {
+                "Monthly": "Monthly"
+            }
+        }
 
         self.country_currency_map = {
             "KR": {"KRW": "LCU", "USD": "USD"},
@@ -412,7 +420,7 @@ class Setting:
             "gdp": "National Accounts",
         }
 
-        self.freq_structure_map = {"Q": "Quarterly", "M": "Monthly", "A": "Annual"}
+        self.freq_full_name_map = {"Q": "Quarterly", "M": "Monthly", "A": "Annual"}
 
         # first three selects setting
         self.structure = {
