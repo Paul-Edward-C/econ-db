@@ -1,10 +1,10 @@
 import argparse
+import logging
 import pathlib
 import sys
 
 import pandas as pd
 
-import logging
 logging.basicConfig(level=logging.INFO)
 
 sys.path.append(f"""{pathlib.Path(__file__).resolve().parent}""")
@@ -54,15 +54,20 @@ def run_cleaning_pipeline(country, freq, to_db):
             new_columns.append(column)
         columns = new_columns
 
+    # Deal with countries exceptions
     if country == "JP" and freq == "M":
         columns = jp_m_exception(columns, comb_list)
     elif country == "CN" and freq == "M":
         columns = cn_m_exception(columns)
+    elif country == "TW" and freq == "M":
+        columns = tw_m_exception(columns)
+    elif country == "KR" and freq == "M":
+        columns = kr_m_exception(columns)
 
     # Check unit order
     unit_replace_num = 0
     new_columns = []
-    ignore_list = ["3mma", "MoM chg"]
+    ignore_list = ["3mma", "MoM chg", "3m/3m", "Contribution"]
     for column in columns:
         # Calculate unit number in column
         current_unit_list = []
@@ -97,6 +102,9 @@ def run_cleaning_pipeline(country, freq, to_db):
                     "SA, % of total, Value": "Value, % of total, SA",
                     "SA, index, Value": "Value, index, SA",
                     "index, % YoY, Volume": "Volume, % YoY, index",
+                    "USD, SA, Value": "Value, USD, SA",
+                    "LCU, SA, Value": "Value, LCU, SA",
+                    "SA, % of GDP, Value": "Value, % of GDP, SA",
                 },
                 4: {
                     "SA, % MoM, index, Volume": "Volume, index, % MoM, SA",
@@ -108,7 +116,9 @@ def run_cleaning_pipeline(country, freq, to_db):
                     "SA, USD, % YoY, Value": "Value, USD, % YoY, SA",
                     "SA, index, % YoY, Value": "Value, index, % YoY, SA",
                     "index, % MoM, SA, Volume": "Volume, index, % MoM, SA",
-                    "index, % YoY, SA, Volume": "Volume, index, % YoY, SA"
+                    "index, % YoY, SA, Volume": "Volume, index, % YoY, SA",
+                    "USD, % MoM, SA, Value": "Value, USD, % MoM, SA",
+                    "LCU, SA, % MoM, Value": "Value, LCU, % MoM, SA",
                 },
                 5: {},
             }
@@ -131,6 +141,26 @@ def run_cleaning_pipeline(country, freq, to_db):
     logging.info(f"\nCurrency replace num : {currency_replace_num}")
     logging.info(f"Unit replace num : {unit_replace_num}")
     return
+
+
+def tw_m_exception(columns):  # Add Value to all data without Value_type
+    new_columns = []
+    value_type_list = ["Value", "Volume", "Price"]
+    for column in columns:
+        if not any(i in column for i in value_type_list):
+            column += ", Value"
+        new_columns.append(column)
+    return new_columns
+
+
+def kr_m_exception(columns):  # Add Value to all data without Value_type
+    new_columns = []
+    value_type_list = ["Value", "Volume", "Price"]
+    for column in columns:
+        if not any(i in column for i in value_type_list):
+            column += ", Value"
+        new_columns.append(column)
+    return new_columns
 
 
 def jp_m_exception(columns, comb_list):
@@ -160,7 +190,7 @@ def jp_m_exception(columns, comb_list):
 
     # Move Volume place
     new_columns = []
-    volume_unit_replace_num = 0 # After to_db all the number here are because they have some unit we ignore
+    volume_unit_replace_num = 0  # After to_db all the number here are because they have some unit we ignore
     for column in columns:
         if ", Volume" in column and not any([i in column for i in [", ".join(g) for g in comb_list if "Volume" in g]]):
             column = column.replace(", Volume", "")
