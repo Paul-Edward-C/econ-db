@@ -8,4 +8,4 @@ __pycache__/
 .venv
 venv
 *output.xlsx
-*output.csv
+~$*template.xlsx
