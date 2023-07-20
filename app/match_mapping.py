@@ -8,7 +8,7 @@ from lib.tools import Setting
 logging.basicConfig(level=logging.INFO)
 
 
-def match_export(country_list, freq_list, to_db, to_output, category):
+def match_export(country_list, freq_list, to_db, to_output, category="export"):
     setting = Setting()
     category_full = setting.category_full_name_map[category]
     freq_country_map = {
@@ -17,8 +17,7 @@ def match_export(country_list, freq_list, to_db, to_output, category):
         "A": [k for k, v in setting.structure.items() if category_full in v and v[category_full].get("A", False)],
     }
 
-    mapping_path = setting.category_structure[category_full]["path"]
-    matcher = Export_matcher(mapping_path=mapping_path, keep_list=[1, 5, 3], category_name=category_full)
+    matcher = Export_matcher()
 
     freq_list = freq_country_map.keys() if freq_list is None else freq_list
     for freq in freq_list:
@@ -26,7 +25,13 @@ def match_export(country_list, freq_list, to_db, to_output, category):
             freq_country_map[freq] if country_list is None else [i for i in country_list if i in freq_country_map[freq]]
         )
         for country in country_list:
-            matcher.match(country=country, freq=freq)
+            matching_num, data_num, mapping_length, matching_ratio = matcher.run_matching_pipeline(
+                country=country, freq=freq, to_db=to_db, to_output=to_output
+            )
+            print(
+                f"matching_num: {str(matching_num)}, data_num: {data_num}, "
+                f"mapping_length: {str(mapping_length)}, matching_ratio: {str(matching_ratio)}"
+            )
 
 
 def match_gdp(country_list, freq_list, to_db, to_output, category="gdp"):
