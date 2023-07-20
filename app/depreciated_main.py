@@ -116,8 +116,8 @@ def update_freq_select(attrname, old, new):
     # Change data source and data setting
     global data, data_setting
     
-    for i in setting.data_freq_lookup_table.keys():
-        if freq_select.value in setting.data_freq_lookup_table[i]:
+    for i in setting.freq_data_mapping_map.keys():
+        if freq_select.value in setting.freq_data_mapping_map[i]:
             data, data_setting = tool.read_data(
                 data_path=setting.structure[country_select.value][category_select.value][f'{i}_data_path'],
                 setting_path=setting.structure[country_select.value][category_select.value][f'{i}_setting_path'],
