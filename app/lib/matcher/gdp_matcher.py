@@ -80,13 +80,19 @@ class GDP_matcher:
             unit = row[1]
             main_category = self.setting.freq_data_mapping_map[freq][row[0]]
             mapping_list[0] = main_category
-            mapping_str = ", ".join(mapping_list)
+            mapping_string = ", ".join(mapping_list)
 
             # exclude data without main category and unit in its name
             for i in [main_category, unit]:
                 columns = columns[columns.str.contains(i)]
             if len(columns) == 0:
-                matching_result.loc[len(matching_result), matching_result_columns] = [mapping_str, np.nan, 0, 0, np.nan]
+                matching_result.loc[len(matching_result), matching_result_columns] = [
+                    mapping_string,
+                    np.nan,
+                    0,
+                    0,
+                    np.nan,
+                ]
                 continue
 
             # Deal with country exceptions
@@ -107,13 +113,13 @@ class GDP_matcher:
                     valid_number -= 1
                     continue
 
-                score = self.get_similarity_score(column, mapping_str)
+                score = self.get_similarity_score(column, mapping_string)
                 if score > max_score:
                     max_score = score
                     max_score_data_name = column
 
             matching_result.loc[len(matching_result), matching_result_columns] = [
-                mapping_str,
+                mapping_string,
                 max_score_data_name,
                 valid_number,
                 max_score / 100,
