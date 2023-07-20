@@ -91,6 +91,9 @@ def run_cleaning_pipeline(country, freq, to_db):
                     "Contribution to % QoQ chg, ppts, LCU": "LCU, Contribution to % QoQ chg, ppts",
                     " % of GDP, SA, LCU": "LCU, % of GDP, SA",
                     "% YoY, SA, LCU": "LCU, % YoY, SA",
+                    "SA, % of GDP, LCU": 'LCU, % of GDP, SA',
+                    "SA, % QoQ, LCU": "LCU, % QoQ, SA",
+                    "SA, % YoY, LCU": "LCU, % YoY, SA",
                     
                 },
                 4: {},
