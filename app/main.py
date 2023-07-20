@@ -121,8 +121,8 @@ def update_freq_select(attrname, old, new):
     for i in setting.freq_data_mapping_map.keys():
         if freq_select.value in setting.freq_data_mapping_map[i]:
             data, data_setting = tool.read_data(
-                data_path=setting.structure[country_select.value][category_select.value][f'{i}_data_path'],
-                setting_path=setting.structure[country_select.value][category_select.value][f'{i}_setting_path'],
+                data_path=setting.structure[country_select.value][category_select.value][f'{setting.freq_full_name_map[i]}_data_path'],
+                setting_path=setting.structure[country_select.value][category_select.value][f'{setting.freq_full_name_map[i]}_setting_path'],
                 matched_columns=matched_columns
             )
             break
@@ -328,10 +328,10 @@ def index_toggle_callback(active):
                 data_type = tool.data_setting_backup.loc[col_name, "data_type"]
                 display_name = tool.data_setting_backup.loc[col_name, "display_name"]
                 if data_type == 'p':
-                    new_column = TableColumn(field=col_name, title=display_name + " (in %)",
+                    new_column = TableColumn(field=col_name, title=display_name,
                                              formatter=NumberFormatter(format="0.0"))
                 elif data_type == 'r':
-                    new_column = TableColumn(field=col_name, title=display_name + " (in bn)",
+                    new_column = TableColumn(field=col_name, title=display_name,
                                              formatter=NumberFormatter(format="0,0.0"))
                 new_datatable_columns.append(new_column)
             else:
@@ -461,10 +461,10 @@ def new_chart(old, new):
                                        formatter=NumberFormatter(format="0,0.0")))
     else:
         if data_setting_object['data_type'] == 'p':
-            new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'] + " (in %)",
+            new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'],
                                            formatter=NumberFormatter(format="0.0")))
         elif data_setting_object['data_type'] == 'r':
-            new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'] + " (in bn)",
+            new_columns.append(TableColumn(field=new, title=data_setting_object['display_name'],
                                            formatter=NumberFormatter(format="0,0.0")))
     datatable.columns = new_columns
     datatable.source.data = source_dict
@@ -590,8 +590,8 @@ matched_columns = tool.matched_columns
 for i in setting.freq_data_mapping_map.keys():
     if freq_select.value in setting.freq_data_mapping_map[i]:
         data, data_setting = tool.read_data(
-            data_path=setting.structure[country_select.value][category_select.value][f'{i}_data_path'],
-            setting_path=setting.structure[country_select.value][category_select.value][f'{i}_setting_path'],
+            data_path=setting.structure[country_select.value][category_select.value][f'{setting.freq_full_name_map[i]}_data_path'],
+            setting_path=setting.structure[country_select.value][category_select.value][f'{setting.freq_full_name_map[i]}_setting_path'],
             matched_columns=matched_columns
         )
         break
