@@ -2,12 +2,12 @@ name,display_name,data_type,chart_type
 "NGDP, GDP, LCU","TW, NGDP, GDP, LCU, bn",r,line
 "NGDP, GDP, LCU, % YoY","TW, NGDP, GDP, LCU, % YoY",p,line
 "NGDP, GDP,  LCU, SA","TW, NGDP, GDP,  LCU, SA, bn",r,line
-"NGDP, GDP,  % SAAR","TW, NGDP, GDP,  % SAAR",p,line
+"NGDP, GDP,  % SAAR, LCU","TW, NGDP, GDP,  % SAAR, LCU",p,line
 "NGDP, GDP, LCU, % QoQ, SA","TW, NGDP, GDP, LCU, % QoQ, SA",p,line
 "RGDP, GDP,  LCU","TW, RGDP, GDP,  LCU, bn",r,line
 "RGDP, GDP, LCU, % YoY","TW, RGDP, GDP, LCU, % YoY",p,line
 "RGDP, GDP, LCU, SA","TW, RGDP, GDP, LCU, SA, bn",r,line
-"RGDP, GDP, % SAAR","TW, RGDP, GDP, % SAAR",p,line
+"RGDP, GDP, % SAAR, LCU","TW, RGDP, GDP, % SAAR, LCU",p,line
 "RGDP, GDP, LCU, % QoQ, SA","TW, RGDP, GDP, LCU, % QoQ, SA",p,line
 "NGDP, Domestic Demand, Private Consumption, LCU","TW, NGDP, Domestic Demand, Private Consumption, LCU, bn",r,line
 "NGDP, Domestic Demand, Government Consumption, LCU","TW, NGDP, Domestic Demand, Government Consumption, LCU, bn",r,line
@@ -22,9 +22,9 @@ name,display_name,data_type,chart_type
 "NGDP, Domestic Demand, Private Consumption, LCU, SA","TW, NGDP, Domestic Demand, Private Consumption, LCU, SA, bn",r,line
 "NGDP, Domestic Demand, Government Consumption, LCU, SA","TW, NGDP, Domestic Demand, Government Consumption, LCU, SA, bn",r,line
 "NGDP, Domestic Demand, Gross Capital Formation, LCU, SA","TW, NGDP, Domestic Demand, Gross Capital Formation, LCU, SA, bn",r,line
-"NGDP, Domestic Demand, Private Consumption, % SAAR","TW, NGDP, Domestic Demand, Private Consumption, % SAAR",p,line
-"NGDP, Domestic Demand, Government Consumption, % SAAR","TW, NGDP, Domestic Demand, Government Consumption, % SAAR",p,line
-"NGDP, Domestic Demand, Gross Capital Formation, % SAAR","TW, NGDP, Domestic Demand, Gross Capital Formation, % SAAR",p,line
+"NGDP, Domestic Demand, Private Consumption, % SAAR, LCU","TW, NGDP, Domestic Demand, Private Consumption, % SAAR, LCU",p,line
+"NGDP, Domestic Demand, Government Consumption, % SAAR, LCU","TW, NGDP, Domestic Demand, Government Consumption, % SAAR, LCU",p,line
+"NGDP, Domestic Demand, Gross Capital Formation, % SAAR, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, % SAAR, LCU",p,line
 "NGDP, Domestic Demand, Private Consumption, LCU, % QoQ, SA","TW, NGDP, Domestic Demand, Private Consumption, LCU, % QoQ, SA",p,line
 "NGDP, Domestic Demand, Government Consumption, LCU, % QoQ, SA","TW, NGDP, Domestic Demand, Government Consumption, LCU, % QoQ, SA",p,line
 "NGDP, Domestic Demand, Gross Capital Formation, LCU, % QoQ, SA","TW, NGDP, Domestic Demand, Gross Capital Formation, LCU, % QoQ, SA",p,line
@@ -41,9 +41,9 @@ name,display_name,data_type,chart_type
 "RGDP, Domestic Demand, Private Consumption, LCU, SA","TW, RGDP, Domestic Demand, Private Consumption, LCU, SA, bn",r,line
 "RGDP, Domestic Demand, Government Consumption, LCU, SA","TW, RGDP, Domestic Demand, Government Consumption, LCU, SA, bn",r,line
 "RGDP, Domestic Demand, Gross Capital Formation, LCU, SA","TW, RGDP, Domestic Demand, Gross Capital Formation, LCU, SA, bn",r,line
-"RGDP, Domestic Demand, Private Consumption, % SAAR","TW, RGDP, Domestic Demand, Private Consumption, % SAAR",p,line
-"RGDP, Domestic Demand, Government Consumption, % SAAR","TW, RGDP, Domestic Demand, Government Consumption, % SAAR",p,line
-"RGDP, Domestic Demand, Gross Capital Formation, % SAAR","TW, RGDP, Domestic Demand, Gross Capital Formation, % SAAR",p,line
+"RGDP, Domestic Demand, Private Consumption, % SAAR, LCU","TW, RGDP, Domestic Demand, Private Consumption, % SAAR, LCU",p,line
+"RGDP, Domestic Demand, Government Consumption, % SAAR, LCU","TW, RGDP, Domestic Demand, Government Consumption, % SAAR, LCU",p,line
+"RGDP, Domestic Demand, Gross Capital Formation, % SAAR, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, % SAAR, LCU",p,line
 "RGDP, Domestic Demand, Private Consumption, LCU, % QoQ, SA","TW, RGDP, Domestic Demand, Private Consumption, LCU, % QoQ, SA",p,line
 "RGDP, Domestic Demand, Government Consumption, LCU, % QoQ, SA","TW, RGDP, Domestic Demand, Government Consumption, LCU, % QoQ, SA",p,line
 "RGDP, Domestic Demand, Gross Capital Formation, LCU, % QoQ, SA","TW, RGDP, Domestic Demand, Gross Capital Formation, LCU, % QoQ, SA",p,line
@@ -60,12 +60,12 @@ name,display_name,data_type,chart_type
 "NGDP, Domestic Demand, LCU","TW, NGDP, Domestic Demand, LCU, bn",r,line
 "NGDP, Domestic Demand, LCU, % YoY","TW, NGDP, Domestic Demand, LCU, % YoY",p,line
 "NGDP, Domestic Demand, LCU, SA","TW, NGDP, Domestic Demand, LCU, SA, bn",r,line
-"NGDP, Domestic Demand, % SAAR","TW, NGDP, Domestic Demand, % SAAR",p,line
+"NGDP, Domestic Demand, % SAAR, LCU","TW, NGDP, Domestic Demand, % SAAR, LCU",p,line
 "NGDP, Domestic Demand, LCU, % QoQ, SA","TW, NGDP, Domestic Demand, LCU, % QoQ, SA",p,line
 "RGDP, Domestic Demand, LCU","TW, RGDP, Domestic Demand, LCU, bn",r,line
 "RGDP, Domestic Demand, LCU, % YoY","TW, RGDP, Domestic Demand, LCU, % YoY",p,line
 "RGDP, Domestic Demand, LCU, SA","TW, RGDP, Domestic Demand, LCU, SA, bn",r,line
-"RGDP, Domestic Demand, % SAAR","TW, RGDP, Domestic Demand, % SAAR",p,line
+"RGDP, Domestic Demand, % SAAR, LCU","TW, RGDP, Domestic Demand, % SAAR, LCU",p,line
 "RGDP, Domestic Demand, LCU, % QoQ, SA","TW, RGDP, Domestic Demand, LCU, % QoQ, SA",p,line
 "NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, bn",r,line
 "NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU, bn",r,line
@@ -84,9 +84,9 @@ name,display_name,data_type,chart_type
 "NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA, bn",r,line
 "NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA, bn",r,line
 "NGDP, Net Exports of Goods and Services, LCU, SA","TW, NGDP, Net Exports of Goods and Services, LCU, SA, bn",r,line
-"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, % SAAR","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, % SAAR",p,line
-"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, % SAAR","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, % SAAR",p,line
-"NGDP, Net Exports of Goods and Services, % SAAR","TW, NGDP, Net Exports of Goods and Services, % SAAR",p,line
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, % SAAR, LCU","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, % SAAR, LCU",p,line
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, % SAAR, LCU","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, % SAAR, LCU",p,line
+"NGDP, Net Exports of Goods and Services, % SAAR, LCU","TW, NGDP, Net Exports of Goods and Services, % SAAR, LCU",p,line
 "NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, % QoQ, SA","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, % QoQ, SA",p,line
 "NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, % QoQ, SA","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, % QoQ, SA",p,line
 "NGDP, Net Exports of Goods and Services, LCU, % QoQ, SA","TW, NGDP, Net Exports of Goods and Services, LCU, % QoQ, SA",p,line
@@ -107,9 +107,9 @@ name,display_name,data_type,chart_type
 "RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA, bn",r,line
 "RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA, bn",r,line
 "RGDP, Net Exports of Goods and Services, LCU, SA","TW, RGDP, Net Exports of Goods and Services, LCU, SA, bn",r,line
-"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, % SAAR","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, % SAAR",p,line
-"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, % SAAR","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, % SAAR",p,line
-"RGDP, Net Exports of Goods and Services, % SAAR","TW, RGDP, Net Exports of Goods and Services, % SAAR",p,line
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, % SAAR, LCU","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, % SAAR, LCU",p,line
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, % SAAR, LCU","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, % SAAR, LCU",p,line
+"RGDP, Net Exports of Goods and Services, % SAAR, LCU","TW, RGDP, Net Exports of Goods and Services, % SAAR, LCU",p,line
 "RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, % QoQ, SA","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, % QoQ, SA",p,line
 "RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, % QoQ, SA","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, % QoQ, SA",p,line
 "RGDP, Net Exports of Goods and Services, LCU, % QoQ, SA","TW, RGDP, Net Exports of Goods and Services, LCU, % QoQ, SA",p,line
@@ -327,19 +327,19 @@ name,display_name,data_type,chart_type
 "NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, % QoQ, SA","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, % QoQ, SA",p,line
 "RGDP, Domestic Demand, Private Final Consumption Expenditure, LCU, % YoY","TW, RGDP, Domestic Demand, Private Final Consumption Expenditure, LCU, % YoY",p,line
 "RGDP, Domestic Demand, Government Final Consumption Expenditure, LCU, % YoY","TW, RGDP, Domestic Demand, Government Final Consumption Expenditure, LCU, % YoY",p,line
-"RGDP, Domestic Demand, Contribution to % YoY chg, ppts","TW, RGDP, Domestic Demand, Contribution to % YoY chg, ppts",p,bar
-"RGDP, Domestic Demand, Private Final Consumption, Contribution to % YoY chg, ppts","TW, RGDP, Domestic Demand, Private Final Consumption, Contribution to % YoY chg, ppts",p,bar
-"RGDP, Domestic Demand, Government Final Consumption, Contribution to % YoY chg, ppts","TW, RGDP, Domestic Demand, Government Final Consumption, Contribution to % YoY chg, ppts",p,bar
-"RGDP, Domestic Demand, Gross Capital Formation, Contribution to % YoY chg, ppts","TW, RGDP, Domestic Demand, Gross Capital Formation, Contribution to % YoY chg, ppts",p,bar
-"RGDP, Net Exports of Goods and Services, Contribution to % YoY chg, ppts","TW, RGDP, Net Exports of Goods and Services, Contribution to % YoY chg, ppts",p,bar
-"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Contribution to % YoY chg, ppts","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Contribution to % YoY chg, ppts",p,bar
-"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Contribution to % YoY chg, ppts","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Contribution to % YoY chg, ppts",p,bar
-"Manufacturing, % of GDP","TW, Manufacturing, % of GDP",p,line
-RGDP per hour worked,"TW, RGDP per hour worked, bn",r,line
+"RGDP, Domestic Demand, LCU, Contribution to % YoY chg, ppts.1","TW, RGDP, Domestic Demand, LCU, Contribution to % YoY chg, ppts.1",p,bar
+"RGDP, Domestic Demand, Private Final Consumption, LCU, Contribution to % YoY chg, ppts","TW, RGDP, Domestic Demand, Private Final Consumption, LCU, Contribution to % YoY chg, ppts",p,bar
+"RGDP, Domestic Demand, Government Final Consumption, LCU, Contribution to % YoY chg, ppts","TW, RGDP, Domestic Demand, Government Final Consumption, LCU, Contribution to % YoY chg, ppts",p,bar
+"RGDP, Domestic Demand, Gross Capital Formation, LCU, Contribution to % YoY chg, ppts.1","TW, RGDP, Domestic Demand, Gross Capital Formation, LCU, Contribution to % YoY chg, ppts.1",p,bar
+"RGDP, Net Exports of Goods and Services, LCU, Contribution to % YoY chg, ppts.1","TW, RGDP, Net Exports of Goods and Services, LCU, Contribution to % YoY chg, ppts.1",p,bar
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, Contribution to % YoY chg, ppts.1","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, Contribution to % YoY chg, ppts.1",p,bar
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, Contribution to % YoY chg, ppts.1","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, Contribution to % YoY chg, ppts.1",p,bar
+"Manufacturing, % of GDP, LCU","TW, Manufacturing, % of GDP, LCU",p,line
+"RGDP per hour worked, LCU","TW, RGDP per hour worked, LCU, bn",r,line
 "NGDP, USD, SA bn","TW, NGDP, USD, SA bn, bn",r,line
-"NGDP, USD bn","TW, NGDP, USD bn, bn",r,line
+"NGDP, USD","TW, NGDP, USD, bn",r,line
 "NGDP, LCU, 12M sum","TW, NGDP, LCU, 12M sum, bn",r,line
-"NGDP, USD bn, 12M sum","TW, NGDP, USD bn, 12M sum, bn",r,line
+"NGDP, USD, 12M sum","TW, NGDP, USD, 12M sum, bn",r,line
 "NGDP, LCU, SA, post-2001 trend","TW, NGDP, LCU, SA, post-2001 trend, bn",r,line
 "RGDP, LCU, SA, post-2001 trend","TW, RGDP, LCU, SA, post-2001 trend, bn",r,line
 "NGDP, Domestic Demand, Private Consumption, LCU, SA, post-2001 trend","TW, NGDP, Domestic Demand, Private Consumption, LCU, SA, post-2001 trend, bn",r,line
@@ -363,8 +363,8 @@ RGDP per hour worked,"TW, RGDP per hour worked, bn",r,line
 "RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, SA, post-2001 trend","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, SA, post-2001 trend, bn",r,line
 "NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, SA, post-2001 trend","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, SA, post-2001 trend, bn",r,line
 "RGDP, LCU, SA, trend based on 2001-2020","TW, RGDP, LCU, SA, trend based on 2001-2020, bn",r,line
-"RGDP, HP filter, cycle","TW, RGDP, HP filter, cycle, bn",r,line
-"RGDP, HP filter, trend","TW, RGDP, HP filter, trend, bn",r,line
-"RGDP, HP filter, output gap","TW, RGDP, HP filter, output gap, bn",r,line
+"RGDP, HP filter, cycle, LCU","TW, RGDP, HP filter, cycle, LCU, bn",r,line
+"RGDP, HP filter, trend, LCU","TW, RGDP, HP filter, trend, LCU, bn",r,line
+"RGDP, HP filter, output gap, LCU","TW, RGDP, HP filter, output gap, LCU, bn",r,line
 "RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, SA","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, SA, bn",r,line
 "RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU, SA","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU, SA, bn",r,line
