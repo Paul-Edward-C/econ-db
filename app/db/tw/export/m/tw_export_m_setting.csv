@@ -1,365 +1,365 @@
 name,display_name,data_type,chart_type
-"Exports, All, USD","TW, Exports, All, USD, bn",r,line
-"Exports, Tech, total, USD","TW, Exports, Tech, total, USD, bn",r,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, bn",r,line
-"Exports, Telecommunications equipment SITC 76, USD","TW, Exports, Telecommunications equipment SITC 76, USD, bn",r,line
-"Exports, Electrical machinery SITC 77, USD","TW, Exports, Electrical machinery SITC 77, USD, bn",r,line
-"Exports, Semiconductors HS 776, USD","TW, Exports, Semiconductors HS 776, USD, bn",r,line
-"Exports, Semiconductor manufacturing equipment HS 848620, USD","TW, Exports, Semiconductor manufacturing equipment HS 848620, USD, bn",r,line
-"Exports, Non-tech exports, total, USD","TW, Exports, Non-tech exports, total, USD, bn",r,line
-"Exports, EU, USD","TW, Exports, EU, USD, bn",r,line
-"Exports, DM excl Japan, USD","TW, Exports, DM excl Japan, USD, bn",r,line
-"Exports, China and Hong Kong, USD","TW, Exports, China and Hong Kong, USD, bn",r,line
-"Exports, North Asia, USD","TW, Exports, North Asia, USD, bn",r,line
-"Exports, US, USD","TW, Exports, US, USD, bn",r,line
-"Exports, ASEAN, USD","TW, Exports, ASEAN, USD, bn",r,line
-"Exports, EM, USD","TW, Exports, EM, USD, bn",r,line
-"Imports, All, USD","TW, Imports, All, USD, bn",r,line
-"Imports, Fuels, USD","TW, Imports, Fuels, USD, bn",r,line
-"Imports, Capital goods, incl parts, USD","TW, Imports, Capital goods, incl parts, USD, bn",r,line
-"Imports, Capital goods, USD","TW, Imports, Capital goods, USD, bn",r,line
-"Imports, Capital goods, parts, USD","TW, Imports, Capital goods, parts, USD, bn",r,line
-"Imports, Semi mfg equipment, USD","TW, Imports, Semi mfg equipment, USD, bn",r,line
-"Exports, All, LCU","TW, Exports, All, LCU, bn",r,line
-"Exports, Tech, total, LCU","TW, Exports, Tech, total, LCU, bn",r,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, bn",r,line
-"Exports, Telecommunications equipment SITC 76, LCU","TW, Exports, Telecommunications equipment SITC 76, LCU, bn",r,line
-"Exports, Electrical machinery SITC 77, LCU","TW, Exports, Electrical machinery SITC 77, LCU, bn",r,line
-"Exports, Semiconductors HS 776, LCU","TW, Exports, Semiconductors HS 776, LCU, bn",r,line
-"Exports, Semiconductor manufacturing equipment HS 848620, LCU","TW, Exports, Semiconductor manufacturing equipment HS 848620, LCU, bn",r,line
-"Exports, Non-tech exports, total, LCU","TW, Exports, Non-tech exports, total, LCU, bn",r,line
-"Exports, EU, LCU","TW, Exports, EU, LCU, bn",r,line
-"Exports, DM excl Japan, LCU","TW, Exports, DM excl Japan, LCU, bn",r,line
-"Exports, China and Hong Kong, LCU","TW, Exports, China and Hong Kong, LCU, bn",r,line
-"Exports, North Asia, LCU","TW, Exports, North Asia, LCU, bn",r,line
-"Exports, US, LCU","TW, Exports, US, LCU, bn",r,line
-"Exports, ASEAN, LCU","TW, Exports, ASEAN, LCU, bn",r,line
-"Exports, EM, LCU","TW, Exports, EM, LCU, bn",r,line
-"Imports, All, LCU","TW, Imports, All, LCU, bn",r,line
-"Imports, Fuels, LCU","TW, Imports, Fuels, LCU, bn",r,line
-"Imports, Capital goods, incl parts, LCU","TW, Imports, Capital goods, incl parts, LCU, bn",r,line
-"Imports, Capital goods, LCU","TW, Imports, Capital goods, LCU, bn",r,line
-"Imports, Capital goods, parts, LCU","TW, Imports, Capital goods, parts, LCU, bn",r,line
-"Imports, Semi mfg equipment, LCU","TW, Imports, Semi mfg equipment, LCU, bn",r,line
-"Exports, All, Work day adjusted, USD","TW, Exports, All, Work day adjusted, USD, bn",r,line
-"Exports, All, USD, % YoY","TW, Exports, All, USD, % YoY",p,line
-"Exports, Tech, total, USD, % YoY","TW, Exports, Tech, total, USD, % YoY",p,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, % YoY","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, % YoY",p,line
-"Exports, Telecommunications equipment SITC 76, USD, % YoY","TW, Exports, Telecommunications equipment SITC 76, USD, % YoY",p,line
-"Exports, Electrical machinery SITC 77, USD, % YoY","TW, Exports, Electrical machinery SITC 77, USD, % YoY",p,line
-"Exports, Semiconductors HS 776, USD, % YoY","TW, Exports, Semiconductors HS 776, USD, % YoY",p,line
-"Exports, Semiconductor manufacturing equipment HS 848620, USD, % YoY","TW, Exports, Semiconductor manufacturing equipment HS 848620, USD, % YoY",p,line
-"Exports, Non-tech exports, total, USD, % YoY","TW, Exports, Non-tech exports, total, USD, % YoY",p,line
-"Exports, EU, USD, % YoY","TW, Exports, EU, USD, % YoY",p,line
-"Exports, DM excl Japan, USD, % YoY","TW, Exports, DM excl Japan, USD, % YoY",p,line
-"Exports, China and Hong Kong, USD, % YoY","TW, Exports, China and Hong Kong, USD, % YoY",p,line
-"Exports, North Asia, USD, % YoY","TW, Exports, North Asia, USD, % YoY",p,line
-"Exports, US, USD, % YoY","TW, Exports, US, USD, % YoY",p,line
-"Exports, ASEAN, USD, % YoY","TW, Exports, ASEAN, USD, % YoY",p,line
-"Exports, EM, USD, % YoY","TW, Exports, EM, USD, % YoY",p,line
-"Imports, All, USD, % YoY","TW, Imports, All, USD, % YoY",p,line
-"Imports, Fuels, USD, % YoY","TW, Imports, Fuels, USD, % YoY",p,line
-"Imports, Capital goods, incl parts, USD, % YoY","TW, Imports, Capital goods, incl parts, USD, % YoY",p,line
-"Imports, Capital goods, USD, % YoY","TW, Imports, Capital goods, USD, % YoY",p,line
-"Imports, Capital goods, parts, USD, % YoY","TW, Imports, Capital goods, parts, USD, % YoY",p,line
-"Imports, Semi mfg equipment, USD, % YoY","TW, Imports, Semi mfg equipment, USD, % YoY",p,line
-"Exports, All, LCU, % YoY","TW, Exports, All, LCU, % YoY",p,line
-"Exports, Tech, total, LCU, % YoY","TW, Exports, Tech, total, LCU, % YoY",p,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, % YoY","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, % YoY",p,line
-"Exports, Telecommunications equipment SITC 76, LCU, % YoY","TW, Exports, Telecommunications equipment SITC 76, LCU, % YoY",p,line
-"Exports, Electrical machinery SITC 77, LCU, % YoY","TW, Exports, Electrical machinery SITC 77, LCU, % YoY",p,line
-"Exports, Semiconductors HS 776, LCU, % YoY","TW, Exports, Semiconductors HS 776, LCU, % YoY",p,line
-"Exports, Semiconductor manufacturing equipment HS 848620, LCU, % YoY","TW, Exports, Semiconductor manufacturing equipment HS 848620, LCU, % YoY",p,line
-"Exports, Non-tech exports, total, LCU, % YoY","TW, Exports, Non-tech exports, total, LCU, % YoY",p,line
-"Exports, EU, LCU, % YoY","TW, Exports, EU, LCU, % YoY",p,line
-"Exports, DM excl Japan, LCU, % YoY","TW, Exports, DM excl Japan, LCU, % YoY",p,line
-"Exports, China and Hong Kong, LCU, % YoY","TW, Exports, China and Hong Kong, LCU, % YoY",p,line
-"Exports, North Asia, LCU, % YoY","TW, Exports, North Asia, LCU, % YoY",p,line
-"Exports, US, LCU, % YoY","TW, Exports, US, LCU, % YoY",p,line
-"Exports, ASEAN, LCU, % YoY","TW, Exports, ASEAN, LCU, % YoY",p,line
-"Exports, EM, LCU, % YoY","TW, Exports, EM, LCU, % YoY",p,line
-"Imports, All, LCU, % YoY","TW, Imports, All, LCU, % YoY",p,line
-"Imports, Fuels, LCU, % YoY","TW, Imports, Fuels, LCU, % YoY",p,line
-"Imports, Capital goods, incl parts, LCU, % YoY","TW, Imports, Capital goods, incl parts, LCU, % YoY",p,line
-"Imports, Capital goods, LCU, % YoY","TW, Imports, Capital goods, LCU, % YoY",p,line
-"Imports, Capital goods, parts, LCU, % YoY","TW, Imports, Capital goods, parts, LCU, % YoY",p,line
-"Imports, Semi mfg equipment, LCU, % YoY","TW, Imports, Semi mfg equipment, LCU, % YoY",p,line
-"Exports, All, USD, % YoY, 3mma","TW, Exports, All, USD, % YoY, 3mma",p,line
-"Exports, Tech, total, USD, % YoY, 3mma","TW, Exports, Tech, total, USD, % YoY, 3mma",p,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, % YoY, 3mma","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, % YoY, 3mma",p,line
-"Exports, Telecommunications equipment SITC 76, USD, % YoY, 3mma","TW, Exports, Telecommunications equipment SITC 76, USD, % YoY, 3mma",p,line
-"Exports, Electrical machinery SITC 77, USD, % YoY, 3mma","TW, Exports, Electrical machinery SITC 77, USD, % YoY, 3mma",p,line
-"Exports, Semiconductors HS 776, USD, % YoY, 3mma","TW, Exports, Semiconductors HS 776, USD, % YoY, 3mma",p,line
-"Exports, Semiconductor manufacturing equipment HS 848620, USD, % YoY, 3mma","TW, Exports, Semiconductor manufacturing equipment HS 848620, USD, % YoY, 3mma",p,line
-"Exports, Non-tech exports, total, USD, % YoY, 3mma","TW, Exports, Non-tech exports, total, USD, % YoY, 3mma",p,line
-"Exports, EU, USD, % YoY, 3mma","TW, Exports, EU, USD, % YoY, 3mma",p,line
-"Exports, DM excl Japan, USD, % YoY, 3mma","TW, Exports, DM excl Japan, USD, % YoY, 3mma",p,line
-"Exports, China and Hong Kong, USD, % YoY, 3mma","TW, Exports, China and Hong Kong, USD, % YoY, 3mma",p,line
-"Exports, North Asia, USD, % YoY, 3mma","TW, Exports, North Asia, USD, % YoY, 3mma",p,line
-"Exports, US, USD, % YoY, 3mma","TW, Exports, US, USD, % YoY, 3mma",p,line
-"Exports, ASEAN, USD, % YoY, 3mma","TW, Exports, ASEAN, USD, % YoY, 3mma",p,line
-"Exports, EM, USD, % YoY, 3mma","TW, Exports, EM, USD, % YoY, 3mma",p,line
-"Imports, All, USD, % YoY, 3mma","TW, Imports, All, USD, % YoY, 3mma",p,line
-"Imports, Fuels, USD, % YoY, 3mma","TW, Imports, Fuels, USD, % YoY, 3mma",p,line
-"Imports, Capital goods, incl parts, USD, % YoY, 3mma","TW, Imports, Capital goods, incl parts, USD, % YoY, 3mma",p,line
-"Imports, Capital goods, USD, % YoY, 3mma","TW, Imports, Capital goods, USD, % YoY, 3mma",p,line
-"Imports, Capital goods, parts, USD, % YoY, 3mma","TW, Imports, Capital goods, parts, USD, % YoY, 3mma",p,line
-"Imports, Semi mfg equipment, USD, % YoY, 3mma","TW, Imports, Semi mfg equipment, USD, % YoY, 3mma",p,line
-"Exports, All, LCU, % YoY, 3mma","TW, Exports, All, LCU, % YoY, 3mma",p,line
-"Exports, Tech, total, LCU, % YoY, 3mma","TW, Exports, Tech, total, LCU, % YoY, 3mma",p,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, % YoY, 3mma","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, % YoY, 3mma",p,line
-"Exports, Telecommunications equipment SITC 76, LCU, % YoY, 3mma","TW, Exports, Telecommunications equipment SITC 76, LCU, % YoY, 3mma",p,line
-"Exports, Electrical machinery SITC 77, LCU, % YoY, 3mma","TW, Exports, Electrical machinery SITC 77, LCU, % YoY, 3mma",p,line
-"Exports, Semiconductors HS 776, LCU, % YoY, 3mma","TW, Exports, Semiconductors HS 776, LCU, % YoY, 3mma",p,line
-"Exports, Semiconductor manufacturing equipment HS 848620, LCU, % YoY, 3mma","TW, Exports, Semiconductor manufacturing equipment HS 848620, LCU, % YoY, 3mma",p,line
-"Exports, Non-tech exports, total, LCU, % YoY, 3mma","TW, Exports, Non-tech exports, total, LCU, % YoY, 3mma",p,line
-"Exports, EU, LCU, % YoY, 3mma","TW, Exports, EU, LCU, % YoY, 3mma",p,line
-"Exports, DM excl Japan, LCU, % YoY, 3mma","TW, Exports, DM excl Japan, LCU, % YoY, 3mma",p,line
-"Exports, China and Hong Kong, LCU, % YoY, 3mma","TW, Exports, China and Hong Kong, LCU, % YoY, 3mma",p,line
-"Exports, North Asia, LCU, % YoY, 3mma","TW, Exports, North Asia, LCU, % YoY, 3mma",p,line
-"Exports, US, LCU, % YoY, 3mma","TW, Exports, US, LCU, % YoY, 3mma",p,line
-"Exports, ASEAN, LCU, % YoY, 3mma","TW, Exports, ASEAN, LCU, % YoY, 3mma",p,line
-"Exports, EM, LCU, % YoY, 3mma","TW, Exports, EM, LCU, % YoY, 3mma",p,line
-"Imports, All, LCU, % YoY, 3mma","TW, Imports, All, LCU, % YoY, 3mma",p,line
-"Imports, Fuels, LCU, % YoY, 3mma","TW, Imports, Fuels, LCU, % YoY, 3mma",p,line
-"Imports, Capital goods, incl parts, LCU, % YoY, 3mma","TW, Imports, Capital goods, incl parts, LCU, % YoY, 3mma",p,line
-"Imports, Capital goods, LCU, % YoY, 3mma","TW, Imports, Capital goods, LCU, % YoY, 3mma",p,line
-"Imports, Capital goods, parts, LCU, % YoY, 3mma","TW, Imports, Capital goods, parts, LCU, % YoY, 3mma",p,line
-"Imports, Semi mfg equipment, LCU, % YoY, 3mma","TW, Imports, Semi mfg equipment, LCU, % YoY, 3mma",p,line
-"Exports, All, USD, SA","TW, Exports, All, USD, SA, bn",r,line
-"Exports, Tech, total, USD, SA","TW, Exports, Tech, total, USD, SA, bn",r,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, SA","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, SA, bn",r,line
-"Exports, Telecommunications equipment SITC 76, USD, SA","TW, Exports, Telecommunications equipment SITC 76, USD, SA, bn",r,line
-"Exports, Electrical machinery SITC 77, USD, SA","TW, Exports, Electrical machinery SITC 77, USD, SA, bn",r,line
-"Exports, Semiconductors HS 776, USD, SA","TW, Exports, Semiconductors HS 776, USD, SA, bn",r,line
-"Exports, Semiconductor manufacturing equipment HS 848620, USD, SA","TW, Exports, Semiconductor manufacturing equipment HS 848620, USD, SA, bn",r,line
-"Exports, Non-tech exports, total, USD, SA","TW, Exports, Non-tech exports, total, USD, SA, bn",r,line
-"Exports, EU, USD, SA","TW, Exports, EU, USD, SA, bn",r,line
-"Exports, DM excl Japan, USD, SA","TW, Exports, DM excl Japan, USD, SA, bn",r,line
-"Exports, China and Hong Kong, USD, SA","TW, Exports, China and Hong Kong, USD, SA, bn",r,line
-"Exports, North Asia, USD, SA","TW, Exports, North Asia, USD, SA, bn",r,line
-"Exports, US, USD, SA","TW, Exports, US, USD, SA, bn",r,line
-"Exports, ASEAN, USD, SA","TW, Exports, ASEAN, USD, SA, bn",r,line
-"Exports, EM, USD, SA","TW, Exports, EM, USD, SA, bn",r,line
-"Imports, All, USD, SA","TW, Imports, All, USD, SA, bn",r,line
-"Imports, Fuels, USD, SA","TW, Imports, Fuels, USD, SA, bn",r,line
-"Imports, Capital goods, incl parts, USD, SA","TW, Imports, Capital goods, incl parts, USD, SA, bn",r,line
-"Imports, Capital goods, USD, SA","TW, Imports, Capital goods, USD, SA, bn",r,line
-"Imports, Capital goods, parts, USD, SA","TW, Imports, Capital goods, parts, USD, SA, bn",r,line
-"Imports, Semi mfg equipment, USD, SA","TW, Imports, Semi mfg equipment, USD, SA, bn",r,line
-"Exports, All, LCU, SA","TW, Exports, All, LCU, SA, bn",r,line
-"Exports, Tech, total, LCU, SA","TW, Exports, Tech, total, LCU, SA, bn",r,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, bn",r,line
-"Exports, Telecommunications equipment SITC 76, LCU, SA","TW, Exports, Telecommunications equipment SITC 76, LCU, SA, bn",r,line
-"Exports, Electrical machinery SITC 77, LCU, SA","TW, Exports, Electrical machinery SITC 77, LCU, SA, bn",r,line
-"Exports, Semiconductors HS 776, LCU, SA","TW, Exports, Semiconductors HS 776, LCU, SA, bn",r,line
-"Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA","TW, Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, bn",r,line
-"Exports, Non-tech exports, total, LCU, SA","TW, Exports, Non-tech exports, total, LCU, SA, bn",r,line
-"Exports, EU, LCU, SA","TW, Exports, EU, LCU, SA, bn",r,line
-"Exports, DM excl Japan, LCU, SA","TW, Exports, DM excl Japan, LCU, SA, bn",r,line
-"Exports, China and Hong Kong, LCU, SA","TW, Exports, China and Hong Kong, LCU, SA, bn",r,line
-"Exports, North Asia, LCU, SA","TW, Exports, North Asia, LCU, SA, bn",r,line
-"Exports, US, LCU, SA","TW, Exports, US, LCU, SA, bn",r,line
-"Exports, ASEAN, LCU, SA","TW, Exports, ASEAN, LCU, SA, bn",r,line
-"Exports, EM, LCU, SA","TW, Exports, EM, LCU, SA, bn",r,line
-"Imports, All, LCU, SA","TW, Imports, All, LCU, SA, bn",r,line
-"Imports, Fuels, LCU, SA","TW, Imports, Fuels, LCU, SA, bn",r,line
-"Imports, Capital goods, incl parts, LCU, SA","TW, Imports, Capital goods, incl parts, LCU, SA, bn",r,line
-"Imports, Capital goods, LCU, SA","TW, Imports, Capital goods, LCU, SA, bn",r,line
-"Imports, Capital goods, parts, LCU, SA","TW, Imports, Capital goods, parts, LCU, SA, bn",r,line
-"Imports, Semi mfg equipment, LCU, SA","TW, Imports, Semi mfg equipment, LCU, SA, bn",r,line
-"Exports, All, Work day adjusted, USD, SA","TW, Exports, All, Work day adjusted, USD, SA, bn",r,line
-"Exports, DM excl Japan, SA, % of total","TW, Exports, DM excl Japan, SA, % of total",p,line
-"Exports, North Asia, SA, % of total","TW, Exports, North Asia, SA, % of total",p,line
-"Exports, US, SA, % of total","TW, Exports, US, SA, % of total",p,line
-"Exports, ASEAN, SA, % of total","TW, Exports, ASEAN, SA, % of total",p,line
-"Exports, EM, SA, % of total","TW, Exports, EM, SA, % of total",p,line
-"Exports, EU, SA, % of total","TW, Exports, EU, SA, % of total",p,line
-"Exports, China and Hong Kong, SA, % of total","TW, Exports, China and Hong Kong, SA, % of total",p,line
-"Semiconductor exports, % of total exports","TW, Semiconductor exports, % of total exports",p,line
-"Exports, All, USD, SA, 3mma","TW, Exports, All, USD, SA, 3mma, bn",r,line
-"Exports, All, USD, % MoM, SA","TW, Exports, All, USD, % MoM, SA",p,line
-"Exports, Tech, total, USD, % MoM, SA","TW, Exports, Tech, total, USD, % MoM, SA",p,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, % MoM, SA","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, % MoM, SA",p,line
-"Exports, Telecommunications equipment SITC 76, USD, % MoM, SA","TW, Exports, Telecommunications equipment SITC 76, USD, % MoM, SA",p,line
-"Exports, Electrical machinery SITC 77, USD, % MoM, SA","TW, Exports, Electrical machinery SITC 77, USD, % MoM, SA",p,line
-"Exports, Semiconductors HS 776, USD, % MoM, SA","TW, Exports, Semiconductors HS 776, USD, % MoM, SA",p,line
-"Exports, Semiconductor manufacturing equipment HS 848620, USD, % MoM, SA","TW, Exports, Semiconductor manufacturing equipment HS 848620, USD, % MoM, SA",p,line
-"Exports, Non-tech exports, total, USD, % MoM, SA","TW, Exports, Non-tech exports, total, USD, % MoM, SA",p,line
-"Exports, EU, USD, % MoM, SA","TW, Exports, EU, USD, % MoM, SA",p,line
-"Exports, DM excl Japan, USD, % MoM, SA","TW, Exports, DM excl Japan, USD, % MoM, SA",p,line
-"Exports, China and Hong Kong, USD, % MoM, SA","TW, Exports, China and Hong Kong, USD, % MoM, SA",p,line
-"Exports, North Asia, USD, % MoM, SA","TW, Exports, North Asia, USD, % MoM, SA",p,line
-"Exports, US, USD, % MoM, SA","TW, Exports, US, USD, % MoM, SA",p,line
-"Exports, ASEAN, USD, % MoM, SA","TW, Exports, ASEAN, USD, % MoM, SA",p,line
-"Exports, EM, USD, % MoM, SA","TW, Exports, EM, USD, % MoM, SA",p,line
-"Imports, All, USD, % MoM, SA","TW, Imports, All, USD, % MoM, SA",p,line
-"Imports, Fuels, USD, % MoM, SA","TW, Imports, Fuels, USD, % MoM, SA",p,line
-"Imports, Capital goods, incl parts, USD, % MoM, SA","TW, Imports, Capital goods, incl parts, USD, % MoM, SA",p,line
-"Imports, Capital goods, USD, % MoM, SA","TW, Imports, Capital goods, USD, % MoM, SA",p,line
-"Imports, Capital goods, parts, USD, % MoM, SA","TW, Imports, Capital goods, parts, USD, % MoM, SA",p,line
-"Imports, Semi mfg equipment, USD, % MoM, SA","TW, Imports, Semi mfg equipment, USD, % MoM, SA",p,line
-"Exports, All, LCU, SA, % MoM","TW, Exports, All, LCU, SA, % MoM",p,line
-"Exports, Tech, total, LCU, SA, % MoM","TW, Exports, Tech, total, LCU, SA, % MoM",p,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, % MoM","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, % MoM",p,line
-"Exports, Telecommunications equipment SITC 76, LCU, SA, % MoM","TW, Exports, Telecommunications equipment SITC 76, LCU, SA, % MoM",p,line
-"Exports, Electrical machinery SITC 77, LCU, SA, % MoM","TW, Exports, Electrical machinery SITC 77, LCU, SA, % MoM",p,line
-"Exports, Semiconductors HS 776, LCU, SA, % MoM","TW, Exports, Semiconductors HS 776, LCU, SA, % MoM",p,line
-"Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, % MoM","TW, Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, % MoM",p,line
-"Exports, Non-tech exports, total, LCU, SA, % MoM","TW, Exports, Non-tech exports, total, LCU, SA, % MoM",p,line
-"Exports, EU, LCU, SA, % MoM","TW, Exports, EU, LCU, SA, % MoM",p,line
-"Exports, DM excl Japan, LCU, SA, % MoM","TW, Exports, DM excl Japan, LCU, SA, % MoM",p,line
-"Exports, China and Hong Kong, LCU, SA, % MoM","TW, Exports, China and Hong Kong, LCU, SA, % MoM",p,line
-"Exports, North Asia, LCU, SA, % MoM","TW, Exports, North Asia, LCU, SA, % MoM",p,line
-"Exports, US, LCU, SA, % MoM","TW, Exports, US, LCU, SA, % MoM",p,line
-"Exports, ASEAN, LCU, SA, % MoM","TW, Exports, ASEAN, LCU, SA, % MoM",p,line
-"Exports, EM, LCU, SA, % MoM","TW, Exports, EM, LCU, SA, % MoM",p,line
-"Imports, All, LCU, SA, % MoM","TW, Imports, All, LCU, SA, % MoM",p,line
-"Imports, Fuels, LCU, SA, % MoM","TW, Imports, Fuels, LCU, SA, % MoM",p,line
-"Imports, Capital goods, incl parts, LCU, SA, % MoM","TW, Imports, Capital goods, incl parts, LCU, SA, % MoM",p,line
-"Imports, Capital goods, LCU, SA, % MoM","TW, Imports, Capital goods, LCU, SA, % MoM",p,line
-"Imports, Capital goods, parts, LCU, SA, % MoM","TW, Imports, Capital goods, parts, LCU, SA, % MoM",p,line
-"Imports, Semi mfg equipment, LCU, SA, % MoM","TW, Imports, Semi mfg equipment, LCU, SA, % MoM",p,line
-"Exports, All, Work day adjusted, USD, % MoM, SA","TW, Exports, All, Work day adjusted, USD, % MoM, SA",p,line
-"Exports, All, USD, % MoM, SA, 3mma","TW, Exports, All, USD, % MoM, SA, 3mma",p,line
-"Exports, Tech, total, USD, % MoM, SA, 3mma","TW, Exports, Tech, total, USD, % MoM, SA, 3mma",p,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, % MoM, SA, 3mma","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, % MoM, SA, 3mma",p,line
-"Exports, Telecommunications equipment SITC 76, USD, % MoM, SA, 3mma","TW, Exports, Telecommunications equipment SITC 76, USD, % MoM, SA, 3mma",p,line
-"Exports, Electrical machinery SITC 77, USD, % MoM, SA, 3mma","TW, Exports, Electrical machinery SITC 77, USD, % MoM, SA, 3mma",p,line
-"Exports, Semiconductors HS 776, USD, % MoM, SA, 3mma","TW, Exports, Semiconductors HS 776, USD, % MoM, SA, 3mma",p,line
-"Exports, Semiconductor manufacturing equipment HS 848620, USD, % MoM, SA, 3mma","TW, Exports, Semiconductor manufacturing equipment HS 848620, USD, % MoM, SA, 3mma",p,line
-"Exports, Non-tech exports, total, USD, % MoM, SA, 3mma","TW, Exports, Non-tech exports, total, USD, % MoM, SA, 3mma",p,line
-"Exports, EU, USD, % MoM, SA, 3mma","TW, Exports, EU, USD, % MoM, SA, 3mma",p,line
-"Exports, DM excl Japan, USD, % MoM, SA, 3mma","TW, Exports, DM excl Japan, USD, % MoM, SA, 3mma",p,line
-"Exports, China and Hong Kong, USD, % MoM, SA, 3mma","TW, Exports, China and Hong Kong, USD, % MoM, SA, 3mma",p,line
-"Exports, North Asia, USD, % MoM, SA, 3mma","TW, Exports, North Asia, USD, % MoM, SA, 3mma",p,line
-"Exports, US, USD, % MoM, SA, 3mma","TW, Exports, US, USD, % MoM, SA, 3mma",p,line
-"Exports, ASEAN, USD, % MoM, SA, 3mma","TW, Exports, ASEAN, USD, % MoM, SA, 3mma",p,line
-"Exports, EM, USD, % MoM, SA, 3mma","TW, Exports, EM, USD, % MoM, SA, 3mma",p,line
-"Imports, All, USD, % MoM, SA, 3mma","TW, Imports, All, USD, % MoM, SA, 3mma",p,line
-"Imports, Fuels, USD, % MoM, SA, 3mma","TW, Imports, Fuels, USD, % MoM, SA, 3mma",p,line
-"Imports, Capital goods, incl parts, USD, % MoM, SA, 3mma","TW, Imports, Capital goods, incl parts, USD, % MoM, SA, 3mma",p,line
-"Imports, Capital goods, USD, % MoM, SA, 3mma","TW, Imports, Capital goods, USD, % MoM, SA, 3mma",p,line
-"Imports, Capital goods, parts, USD, % MoM, SA, 3mma","TW, Imports, Capital goods, parts, USD, % MoM, SA, 3mma",p,line
-"Imports, Semi mfg equipment, USD, % MoM, SA, 3mma","TW, Imports, Semi mfg equipment, USD, % MoM, SA, 3mma",p,line
-"Exports, All, LCU, SA, % MoM, 3mma","TW, Exports, All, LCU, SA, % MoM, 3mma",p,line
-"Exports, Tech, total, LCU, SA, % MoM, 3mma","TW, Exports, Tech, total, LCU, SA, % MoM, 3mma",p,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, % MoM, 3mma","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, % MoM, 3mma",p,line
-"Exports, Telecommunications equipment SITC 76, LCU, SA, % MoM, 3mma","TW, Exports, Telecommunications equipment SITC 76, LCU, SA, % MoM, 3mma",p,line
-"Exports, Electrical machinery SITC 77, LCU, SA, % MoM, 3mma","TW, Exports, Electrical machinery SITC 77, LCU, SA, % MoM, 3mma",p,line
-"Exports, Semiconductors HS 776, LCU, SA, % MoM, 3mma","TW, Exports, Semiconductors HS 776, LCU, SA, % MoM, 3mma",p,line
-"Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, % MoM, 3mma","TW, Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, % MoM, 3mma",p,line
-"Exports, Non-tech exports, total, LCU, SA, % MoM, 3mma","TW, Exports, Non-tech exports, total, LCU, SA, % MoM, 3mma",p,line
-"Exports, EU, LCU, SA, % MoM, 3mma","TW, Exports, EU, LCU, SA, % MoM, 3mma",p,line
-"Exports, DM excl Japan, LCU, SA, % MoM, 3mma","TW, Exports, DM excl Japan, LCU, SA, % MoM, 3mma",p,line
-"Exports, China and Hong Kong, LCU, SA, % MoM, 3mma","TW, Exports, China and Hong Kong, LCU, SA, % MoM, 3mma",p,line
-"Exports, North Asia, LCU, SA, % MoM, 3mma","TW, Exports, North Asia, LCU, SA, % MoM, 3mma",p,line
-"Exports, US, LCU, SA, % MoM, 3mma","TW, Exports, US, LCU, SA, % MoM, 3mma",p,line
-"Exports, ASEAN, LCU, SA, % MoM, 3mma","TW, Exports, ASEAN, LCU, SA, % MoM, 3mma",p,line
-"Exports, EM, LCU, SA, % MoM, 3mma","TW, Exports, EM, LCU, SA, % MoM, 3mma",p,line
-"Imports, All, LCU, SA, % MoM, 3mma","TW, Imports, All, LCU, SA, % MoM, 3mma",p,line
-"Imports, Fuels, LCU, SA, % MoM, 3mma","TW, Imports, Fuels, LCU, SA, % MoM, 3mma",p,line
-"Imports, Capital goods, incl parts, LCU, SA, % MoM, 3mma","TW, Imports, Capital goods, incl parts, LCU, SA, % MoM, 3mma",p,line
-"Imports, Capital goods, LCU, SA, % MoM, 3mma","TW, Imports, Capital goods, LCU, SA, % MoM, 3mma",p,line
-"Imports, Capital goods, parts, LCU, SA, % MoM, 3mma","TW, Imports, Capital goods, parts, LCU, SA, % MoM, 3mma",p,line
-"Imports, Semi mfg equipment, LCU, SA, % MoM, 3mma","TW, Imports, Semi mfg equipment, LCU, SA, % MoM, 3mma",p,line
-"Exports, All, Work day adjusted, USD, % MoM, SA, 3mma","TW, Exports, All, Work day adjusted, USD, % MoM, SA, 3mma",p,line
-"Exports, All, USD, SA, % 3m/3m","TW, Exports, All, USD, SA, % 3m/3m",p,line
-"Exports, Tech, total, USD, SA, % 3m/3m","TW, Exports, Tech, total, USD, SA, % 3m/3m",p,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, SA, % 3m/3m","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, SA, % 3m/3m",p,line
-"Exports, Telecommunications equipment SITC 76, USD, SA, % 3m/3m","TW, Exports, Telecommunications equipment SITC 76, USD, SA, % 3m/3m",p,line
-"Exports, Electrical machinery SITC 77, USD, SA, % 3m/3m","TW, Exports, Electrical machinery SITC 77, USD, SA, % 3m/3m",p,line
-"Exports, Semiconductors HS 776, USD, SA, % 3m/3m","TW, Exports, Semiconductors HS 776, USD, SA, % 3m/3m",p,line
-"Exports, Semiconductor manufacturing equipment HS 848620, USD, SA, % 3m/3m","TW, Exports, Semiconductor manufacturing equipment HS 848620, USD, SA, % 3m/3m",p,line
-"Exports, Non-tech exports, total, USD, SA, % 3m/3m","TW, Exports, Non-tech exports, total, USD, SA, % 3m/3m",p,line
-"Exports, EU, USD, SA, % 3m/3m","TW, Exports, EU, USD, SA, % 3m/3m",p,line
-"Exports, DM excl Japan, USD, SA, % 3m/3m","TW, Exports, DM excl Japan, USD, SA, % 3m/3m",p,line
-"Exports, China and Hong Kong, USD, SA, % 3m/3m","TW, Exports, China and Hong Kong, USD, SA, % 3m/3m",p,line
-"Exports, North Asia, USD, SA, % 3m/3m","TW, Exports, North Asia, USD, SA, % 3m/3m",p,line
-"Exports, US, USD, SA, % 3m/3m","TW, Exports, US, USD, SA, % 3m/3m",p,line
-"Exports, ASEAN, USD, SA, % 3m/3m","TW, Exports, ASEAN, USD, SA, % 3m/3m",p,line
-"Exports, EM, USD, SA, % 3m/3m","TW, Exports, EM, USD, SA, % 3m/3m",p,line
-"Imports, All, USD, SA, % 3m/3m","TW, Imports, All, USD, SA, % 3m/3m",p,line
-"Imports, Fuels, USD, SA, % 3m/3m","TW, Imports, Fuels, USD, SA, % 3m/3m",p,line
-"Imports, Capital goods, incl parts, USD, SA, % 3m/3m","TW, Imports, Capital goods, incl parts, USD, SA, % 3m/3m",p,line
-"Imports, Capital goods, USD, SA, % 3m/3m","TW, Imports, Capital goods, USD, SA, % 3m/3m",p,line
-"Imports, Capital goods, parts, USD, SA, % 3m/3m","TW, Imports, Capital goods, parts, USD, SA, % 3m/3m",p,line
-"Imports, Semi mfg equipment, USD, SA, % 3m/3m","TW, Imports, Semi mfg equipment, USD, SA, % 3m/3m",p,line
-"Exports, All, LCU, SA, % 3m/3m","TW, Exports, All, LCU, SA, % 3m/3m",p,line
-"Exports, Tech, total, LCU, SA, % 3m/3m","TW, Exports, Tech, total, LCU, SA, % 3m/3m",p,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, % 3m/3m","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, % 3m/3m",p,line
-"Exports, Telecommunications equipment SITC 76, LCU, SA, % 3m/3m","TW, Exports, Telecommunications equipment SITC 76, LCU, SA, % 3m/3m",p,line
-"Exports, Electrical machinery SITC 77, LCU, SA, % 3m/3m","TW, Exports, Electrical machinery SITC 77, LCU, SA, % 3m/3m",p,line
-"Exports, Semiconductors HS 776, LCU, SA, % 3m/3m","TW, Exports, Semiconductors HS 776, LCU, SA, % 3m/3m",p,line
-"Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, % 3m/3m","TW, Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, % 3m/3m",p,line
-"Exports, Non-tech exports, total, LCU, SA, % 3m/3m","TW, Exports, Non-tech exports, total, LCU, SA, % 3m/3m",p,line
-"Exports, EU, LCU, SA, % 3m/3m","TW, Exports, EU, LCU, SA, % 3m/3m",p,line
-"Exports, DM excl Japan, LCU, SA, % 3m/3m","TW, Exports, DM excl Japan, LCU, SA, % 3m/3m",p,line
-"Exports, China and Hong Kong, LCU, SA, % 3m/3m","TW, Exports, China and Hong Kong, LCU, SA, % 3m/3m",p,line
-"Exports, North Asia, LCU, SA, % 3m/3m","TW, Exports, North Asia, LCU, SA, % 3m/3m",p,line
-"Exports, US, LCU, SA, % 3m/3m","TW, Exports, US, LCU, SA, % 3m/3m",p,line
-"Exports, ASEAN, LCU, SA, % 3m/3m","TW, Exports, ASEAN, LCU, SA, % 3m/3m",p,line
-"Exports, EM, LCU, SA, % 3m/3m","TW, Exports, EM, LCU, SA, % 3m/3m",p,line
-"Imports, All, LCU, SA, % 3m/3m","TW, Imports, All, LCU, SA, % 3m/3m",p,line
-"Imports, Fuels, LCU, SA, % 3m/3m","TW, Imports, Fuels, LCU, SA, % 3m/3m",p,line
-"Imports, Capital goods, incl parts, LCU, SA, % 3m/3m","TW, Imports, Capital goods, incl parts, LCU, SA, % 3m/3m",p,line
-"Imports, Capital goods, LCU, SA, % 3m/3m","TW, Imports, Capital goods, LCU, SA, % 3m/3m",p,line
-"Imports, Capital goods, parts, LCU, SA, % 3m/3m","TW, Imports, Capital goods, parts, LCU, SA, % 3m/3m",p,line
-"Imports, Semi mfg equipment, LCU, SA, % 3m/3m","TW, Imports, Semi mfg equipment, LCU, SA, % 3m/3m",p,line
-"Exports, All, Work day adjusted, USD, SA, % 3m/3m","TW, Exports, All, Work day adjusted, USD, SA, % 3m/3m",p,line
-"Exports, All, USD, SA, % 3m/3m, 3mma","TW, Exports, All, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, Tech, total, USD, SA, % 3m/3m, 3mma","TW, Exports, Tech, total, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, SA, % 3m/3m, 3mma","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, Telecommunications equipment SITC 76, USD, SA, % 3m/3m, 3mma","TW, Exports, Telecommunications equipment SITC 76, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, Electrical machinery SITC 77, USD, SA, % 3m/3m, 3mma","TW, Exports, Electrical machinery SITC 77, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, Semiconductors HS 776, USD, SA, % 3m/3m, 3mma","TW, Exports, Semiconductors HS 776, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, Semiconductor manufacturing equipment HS 848620, USD, SA, % 3m/3m, 3mma","TW, Exports, Semiconductor manufacturing equipment HS 848620, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, Non-tech exports, total, USD, SA, % 3m/3m, 3mma","TW, Exports, Non-tech exports, total, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, EU, USD, SA, % 3m/3m, 3mma","TW, Exports, EU, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, DM excl Japan, USD, SA, % 3m/3m, 3mma","TW, Exports, DM excl Japan, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, China and Hong Kong, USD, SA, % 3m/3m, 3mma","TW, Exports, China and Hong Kong, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, North Asia, USD, SA, % 3m/3m, 3mma","TW, Exports, North Asia, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, US, USD, SA, % 3m/3m, 3mma","TW, Exports, US, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, ASEAN, USD, SA, % 3m/3m, 3mma","TW, Exports, ASEAN, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, EM, USD, SA, % 3m/3m, 3mma","TW, Exports, EM, USD, SA, % 3m/3m, 3mma",p,line
-"Imports, All, USD, SA, % 3m/3m, 3mma","TW, Imports, All, USD, SA, % 3m/3m, 3mma",p,line
-"Imports, Fuels, USD, SA, % 3m/3m, 3mma","TW, Imports, Fuels, USD, SA, % 3m/3m, 3mma",p,line
-"Imports, Capital goods, incl parts, USD, SA, % 3m/3m, 3mma","TW, Imports, Capital goods, incl parts, USD, SA, % 3m/3m, 3mma",p,line
-"Imports, Capital goods, USD, SA, % 3m/3m, 3mma","TW, Imports, Capital goods, USD, SA, % 3m/3m, 3mma",p,line
-"Imports, Capital goods, parts, USD, SA, % 3m/3m, 3mma","TW, Imports, Capital goods, parts, USD, SA, % 3m/3m, 3mma",p,line
-"Imports, Semi mfg equipment, USD, SA, % 3m/3m, 3mma","TW, Imports, Semi mfg equipment, USD, SA, % 3m/3m, 3mma",p,line
-"Exports, All, LCU, SA, % 3m/3m, 3mma","TW, Exports, All, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, Tech, total, LCU, SA, % 3m/3m, 3mma","TW, Exports, Tech, total, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, % 3m/3m, 3mma","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, Telecommunications equipment SITC 76, LCU, SA, % 3m/3m, 3mma","TW, Exports, Telecommunications equipment SITC 76, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, Electrical machinery SITC 77, LCU, SA, % 3m/3m, 3mma","TW, Exports, Electrical machinery SITC 77, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, Semiconductors HS 776, LCU, SA, % 3m/3m, 3mma","TW, Exports, Semiconductors HS 776, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, % 3m/3m, 3mma","TW, Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, Non-tech exports, total, LCU, SA, % 3m/3m, 3mma","TW, Exports, Non-tech exports, total, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, EU, LCU, SA, % 3m/3m, 3mma","TW, Exports, EU, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, DM excl Japan, LCU, SA, % 3m/3m, 3mma","TW, Exports, DM excl Japan, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, China and Hong Kong, LCU, SA, % 3m/3m, 3mma","TW, Exports, China and Hong Kong, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, North Asia, LCU, SA, % 3m/3m, 3mma","TW, Exports, North Asia, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, US, LCU, SA, % 3m/3m, 3mma","TW, Exports, US, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, ASEAN, LCU, SA, % 3m/3m, 3mma","TW, Exports, ASEAN, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, EM, LCU, SA, % 3m/3m, 3mma","TW, Exports, EM, LCU, SA, % 3m/3m, 3mma",p,line
-"Imports, All, LCU, SA, % 3m/3m, 3mma","TW, Imports, All, LCU, SA, % 3m/3m, 3mma",p,line
-"Imports, Fuels, LCU, SA, % 3m/3m, 3mma","TW, Imports, Fuels, LCU, SA, % 3m/3m, 3mma",p,line
-"Imports, Capital goods, incl parts, LCU, SA, % 3m/3m, 3mma","TW, Imports, Capital goods, incl parts, LCU, SA, % 3m/3m, 3mma",p,line
-"Imports, Capital goods, LCU, SA, % 3m/3m, 3mma","TW, Imports, Capital goods, LCU, SA, % 3m/3m, 3mma",p,line
-"Imports, Capital goods, parts, LCU, SA, % 3m/3m, 3mma","TW, Imports, Capital goods, parts, LCU, SA, % 3m/3m, 3mma",p,line
-"Imports, Semi mfg equipment, LCU, SA, % 3m/3m, 3mma","TW, Imports, Semi mfg equipment, LCU, SA, % 3m/3m, 3mma",p,line
-"Exports, All, Work day adjusted, USD, SA, % 3m/3m, 3mma","TW, Exports, All, Work day adjusted, USD, SA, % 3m/3m, 3mma",p,line
-work,"TW, work, bn",r,line
-hol,"TW, hol, bn",r,line
-check,"TW, check, bn",r,line
-Adj,"TW, Adj, bn",r,line
-factor,"TW, factor, bn",r,line
-"Trade balance, USD","TW, Trade balance, USD, bn",r,line
-"Trade balance, LCU","TW, Trade balance, LCU, bn",r,line
-"Trade balance, USD, SA","TW, Trade balance, USD, SA, bn",r,line
-"Trade balance, LCU, SA","TW, Trade balance, LCU, SA, bn",r,line
-"Trade balance, USD, SA, 3mma","TW, Trade balance, USD, SA, 3mma, bn",r,line
-"Exports, All, SA, % of GDP","TW, Exports, All, SA, % of GDP",p,line
-"Exports, Semiconductors HS 776, SA, % of GDP","TW, Exports, Semiconductors HS 776, SA, % of GDP",p,line
-"Trade balance, % of GDP","TW, Trade balance, % of GDP",p,line
+"Exports, All, Value, USD","TW, Exports, All, Value, USD, bn",r,line
+"Exports, Tech, total, Value, USD","TW, Exports, Tech, total, Value, USD, bn",r,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, USD","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, USD, bn",r,line
+"Exports, Telecommunications equipment SITC 76, Value, USD","TW, Exports, Telecommunications equipment SITC 76, Value, USD, bn",r,line
+"Exports, Electrical machinery SITC 77, Value, USD","TW, Exports, Electrical machinery SITC 77, Value, USD, bn",r,line
+"Exports, Semiconductors HS 776, Value, USD","TW, Exports, Semiconductors HS 776, Value, USD, bn",r,line
+"Exports, Semiconductor manufacturing equipment HS 848620, Value, USD","TW, Exports, Semiconductor manufacturing equipment HS 848620, Value, USD, bn",r,line
+"Exports, Non-tech exports, total, Value, USD","TW, Exports, Non-tech exports, total, Value, USD, bn",r,line
+"Exports, EU, Value, USD","TW, Exports, EU, Value, USD, bn",r,line
+"Exports, DM excl Japan, Value, USD","TW, Exports, DM excl Japan, Value, USD, bn",r,line
+"Exports, China and Hong Kong, Value, USD","TW, Exports, China and Hong Kong, Value, USD, bn",r,line
+"Exports, North Asia, Value, USD","TW, Exports, North Asia, Value, USD, bn",r,line
+"Exports, US, Value, USD","TW, Exports, US, Value, USD, bn",r,line
+"Exports, ASEAN, Value, USD","TW, Exports, ASEAN, Value, USD, bn",r,line
+"Exports, EM, Value, USD","TW, Exports, EM, Value, USD, bn",r,line
+"Imports, All, Value, USD","TW, Imports, All, Value, USD, bn",r,line
+"Imports, Fuels, Value, USD","TW, Imports, Fuels, Value, USD, bn",r,line
+"Imports, Capital goods, incl parts, Value, USD","TW, Imports, Capital goods, incl parts, Value, USD, bn",r,line
+"Imports, Capital goods, Value, USD","TW, Imports, Capital goods, Value, USD, bn",r,line
+"Imports, Capital goods, parts, Value, USD","TW, Imports, Capital goods, parts, Value, USD, bn",r,line
+"Imports, Semi mfg equipment, Value, USD","TW, Imports, Semi mfg equipment, Value, USD, bn",r,line
+"Exports, All, Value, LCU","TW, Exports, All, Value, LCU, bn",r,line
+"Exports, Tech, total, Value, LCU","TW, Exports, Tech, total, Value, LCU, bn",r,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, LCU","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, LCU, bn",r,line
+"Exports, Telecommunications equipment SITC 76, Value, LCU","TW, Exports, Telecommunications equipment SITC 76, Value, LCU, bn",r,line
+"Exports, Electrical machinery SITC 77, Value, LCU","TW, Exports, Electrical machinery SITC 77, Value, LCU, bn",r,line
+"Exports, Semiconductors HS 776, Value, LCU","TW, Exports, Semiconductors HS 776, Value, LCU, bn",r,line
+"Exports, Semiconductor manufacturing equipment HS 848620, Value, LCU","TW, Exports, Semiconductor manufacturing equipment HS 848620, Value, LCU, bn",r,line
+"Exports, Non-tech exports, total, Value, LCU","TW, Exports, Non-tech exports, total, Value, LCU, bn",r,line
+"Exports, EU, Value, LCU","TW, Exports, EU, Value, LCU, bn",r,line
+"Exports, DM excl Japan, Value, LCU","TW, Exports, DM excl Japan, Value, LCU, bn",r,line
+"Exports, China and Hong Kong, Value, LCU","TW, Exports, China and Hong Kong, Value, LCU, bn",r,line
+"Exports, North Asia, Value, LCU","TW, Exports, North Asia, Value, LCU, bn",r,line
+"Exports, US, Value, LCU","TW, Exports, US, Value, LCU, bn",r,line
+"Exports, ASEAN, Value, LCU","TW, Exports, ASEAN, Value, LCU, bn",r,line
+"Exports, EM, Value, LCU","TW, Exports, EM, Value, LCU, bn",r,line
+"Imports, All, Value, LCU","TW, Imports, All, Value, LCU, bn",r,line
+"Imports, Fuels, Value, LCU","TW, Imports, Fuels, Value, LCU, bn",r,line
+"Imports, Capital goods, incl parts, Value, LCU","TW, Imports, Capital goods, incl parts, Value, LCU, bn",r,line
+"Imports, Capital goods, Value, LCU","TW, Imports, Capital goods, Value, LCU, bn",r,line
+"Imports, Capital goods, parts, Value, LCU","TW, Imports, Capital goods, parts, Value, LCU, bn",r,line
+"Imports, Semi mfg equipment, Value, LCU","TW, Imports, Semi mfg equipment, Value, LCU, bn",r,line
+"Exports, All, Work day adjusted, Value, USD","TW, Exports, All, Work day adjusted, Value, USD, bn",r,line
+"Exports, All, Value, USD, % YoY","TW, Exports, All, Value, USD, % YoY",p,line
+"Exports, Tech, total, Value, USD, % YoY","TW, Exports, Tech, total, Value, USD, % YoY",p,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, USD, % YoY","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, USD, % YoY",p,line
+"Exports, Telecommunications equipment SITC 76, Value, USD, % YoY","TW, Exports, Telecommunications equipment SITC 76, Value, USD, % YoY",p,line
+"Exports, Electrical machinery SITC 77, Value, USD, % YoY","TW, Exports, Electrical machinery SITC 77, Value, USD, % YoY",p,line
+"Exports, Semiconductors HS 776, Value, USD, % YoY","TW, Exports, Semiconductors HS 776, Value, USD, % YoY",p,line
+"Exports, Semiconductor manufacturing equipment HS 848620, Value, USD, % YoY","TW, Exports, Semiconductor manufacturing equipment HS 848620, Value, USD, % YoY",p,line
+"Exports, Non-tech exports, total, Value, USD, % YoY","TW, Exports, Non-tech exports, total, Value, USD, % YoY",p,line
+"Exports, EU, Value, USD, % YoY","TW, Exports, EU, Value, USD, % YoY",p,line
+"Exports, DM excl Japan, Value, USD, % YoY","TW, Exports, DM excl Japan, Value, USD, % YoY",p,line
+"Exports, China and Hong Kong, Value, USD, % YoY","TW, Exports, China and Hong Kong, Value, USD, % YoY",p,line
+"Exports, North Asia, Value, USD, % YoY","TW, Exports, North Asia, Value, USD, % YoY",p,line
+"Exports, US, Value, USD, % YoY","TW, Exports, US, Value, USD, % YoY",p,line
+"Exports, ASEAN, Value, USD, % YoY","TW, Exports, ASEAN, Value, USD, % YoY",p,line
+"Exports, EM, Value, USD, % YoY","TW, Exports, EM, Value, USD, % YoY",p,line
+"Imports, All, Value, USD, % YoY","TW, Imports, All, Value, USD, % YoY",p,line
+"Imports, Fuels, Value, USD, % YoY","TW, Imports, Fuels, Value, USD, % YoY",p,line
+"Imports, Capital goods, incl parts, Value, USD, % YoY","TW, Imports, Capital goods, incl parts, Value, USD, % YoY",p,line
+"Imports, Capital goods, Value, USD, % YoY","TW, Imports, Capital goods, Value, USD, % YoY",p,line
+"Imports, Capital goods, parts, Value, USD, % YoY","TW, Imports, Capital goods, parts, Value, USD, % YoY",p,line
+"Imports, Semi mfg equipment, Value, USD, % YoY","TW, Imports, Semi mfg equipment, Value, USD, % YoY",p,line
+"Exports, All, Value, LCU, % YoY","TW, Exports, All, Value, LCU, % YoY",p,line
+"Exports, Tech, total, Value, LCU, % YoY","TW, Exports, Tech, total, Value, LCU, % YoY",p,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, LCU, % YoY","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, LCU, % YoY",p,line
+"Exports, Telecommunications equipment SITC 76, Value, LCU, % YoY","TW, Exports, Telecommunications equipment SITC 76, Value, LCU, % YoY",p,line
+"Exports, Electrical machinery SITC 77, Value, LCU, % YoY","TW, Exports, Electrical machinery SITC 77, Value, LCU, % YoY",p,line
+"Exports, Semiconductors HS 776, Value, LCU, % YoY","TW, Exports, Semiconductors HS 776, Value, LCU, % YoY",p,line
+"Exports, Semiconductor manufacturing equipment HS 848620, Value, LCU, % YoY","TW, Exports, Semiconductor manufacturing equipment HS 848620, Value, LCU, % YoY",p,line
+"Exports, Non-tech exports, total, Value, LCU, % YoY","TW, Exports, Non-tech exports, total, Value, LCU, % YoY",p,line
+"Exports, EU, Value, LCU, % YoY","TW, Exports, EU, Value, LCU, % YoY",p,line
+"Exports, DM excl Japan, Value, LCU, % YoY","TW, Exports, DM excl Japan, Value, LCU, % YoY",p,line
+"Exports, China and Hong Kong, Value, LCU, % YoY","TW, Exports, China and Hong Kong, Value, LCU, % YoY",p,line
+"Exports, North Asia, Value, LCU, % YoY","TW, Exports, North Asia, Value, LCU, % YoY",p,line
+"Exports, US, Value, LCU, % YoY","TW, Exports, US, Value, LCU, % YoY",p,line
+"Exports, ASEAN, Value, LCU, % YoY","TW, Exports, ASEAN, Value, LCU, % YoY",p,line
+"Exports, EM, Value, LCU, % YoY","TW, Exports, EM, Value, LCU, % YoY",p,line
+"Imports, All, Value, LCU, % YoY","TW, Imports, All, Value, LCU, % YoY",p,line
+"Imports, Fuels, Value, LCU, % YoY","TW, Imports, Fuels, Value, LCU, % YoY",p,line
+"Imports, Capital goods, incl parts, Value, LCU, % YoY","TW, Imports, Capital goods, incl parts, Value, LCU, % YoY",p,line
+"Imports, Capital goods, Value, LCU, % YoY","TW, Imports, Capital goods, Value, LCU, % YoY",p,line
+"Imports, Capital goods, parts, Value, LCU, % YoY","TW, Imports, Capital goods, parts, Value, LCU, % YoY",p,line
+"Imports, Semi mfg equipment, Value, LCU, % YoY","TW, Imports, Semi mfg equipment, Value, LCU, % YoY",p,line
+"Exports, All, USD, % YoY, 3mma, Value","TW, Exports, All, USD, % YoY, 3mma, Value",p,line
+"Exports, Tech, total, USD, % YoY, 3mma, Value","TW, Exports, Tech, total, USD, % YoY, 3mma, Value",p,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, % YoY, 3mma, Value","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, % YoY, 3mma, Value",p,line
+"Exports, Telecommunications equipment SITC 76, USD, % YoY, 3mma, Value","TW, Exports, Telecommunications equipment SITC 76, USD, % YoY, 3mma, Value",p,line
+"Exports, Electrical machinery SITC 77, USD, % YoY, 3mma, Value","TW, Exports, Electrical machinery SITC 77, USD, % YoY, 3mma, Value",p,line
+"Exports, Semiconductors HS 776, USD, % YoY, 3mma, Value","TW, Exports, Semiconductors HS 776, USD, % YoY, 3mma, Value",p,line
+"Exports, Semiconductor manufacturing equipment HS 848620, USD, % YoY, 3mma, Value","TW, Exports, Semiconductor manufacturing equipment HS 848620, USD, % YoY, 3mma, Value",p,line
+"Exports, Non-tech exports, total, USD, % YoY, 3mma, Value","TW, Exports, Non-tech exports, total, USD, % YoY, 3mma, Value",p,line
+"Exports, EU, USD, % YoY, 3mma, Value","TW, Exports, EU, USD, % YoY, 3mma, Value",p,line
+"Exports, DM excl Japan, USD, % YoY, 3mma, Value","TW, Exports, DM excl Japan, USD, % YoY, 3mma, Value",p,line
+"Exports, China and Hong Kong, USD, % YoY, 3mma, Value","TW, Exports, China and Hong Kong, USD, % YoY, 3mma, Value",p,line
+"Exports, North Asia, USD, % YoY, 3mma, Value","TW, Exports, North Asia, USD, % YoY, 3mma, Value",p,line
+"Exports, US, USD, % YoY, 3mma, Value","TW, Exports, US, USD, % YoY, 3mma, Value",p,line
+"Exports, ASEAN, USD, % YoY, 3mma, Value","TW, Exports, ASEAN, USD, % YoY, 3mma, Value",p,line
+"Exports, EM, USD, % YoY, 3mma, Value","TW, Exports, EM, USD, % YoY, 3mma, Value",p,line
+"Imports, All, USD, % YoY, 3mma, Value","TW, Imports, All, USD, % YoY, 3mma, Value",p,line
+"Imports, Fuels, USD, % YoY, 3mma, Value","TW, Imports, Fuels, USD, % YoY, 3mma, Value",p,line
+"Imports, Capital goods, incl parts, USD, % YoY, 3mma, Value","TW, Imports, Capital goods, incl parts, USD, % YoY, 3mma, Value",p,line
+"Imports, Capital goods, USD, % YoY, 3mma, Value","TW, Imports, Capital goods, USD, % YoY, 3mma, Value",p,line
+"Imports, Capital goods, parts, USD, % YoY, 3mma, Value","TW, Imports, Capital goods, parts, USD, % YoY, 3mma, Value",p,line
+"Imports, Semi mfg equipment, USD, % YoY, 3mma, Value","TW, Imports, Semi mfg equipment, USD, % YoY, 3mma, Value",p,line
+"Exports, All, LCU, % YoY, 3mma, Value","TW, Exports, All, LCU, % YoY, 3mma, Value",p,line
+"Exports, Tech, total, LCU, % YoY, 3mma, Value","TW, Exports, Tech, total, LCU, % YoY, 3mma, Value",p,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, % YoY, 3mma, Value","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, % YoY, 3mma, Value",p,line
+"Exports, Telecommunications equipment SITC 76, LCU, % YoY, 3mma, Value","TW, Exports, Telecommunications equipment SITC 76, LCU, % YoY, 3mma, Value",p,line
+"Exports, Electrical machinery SITC 77, LCU, % YoY, 3mma, Value","TW, Exports, Electrical machinery SITC 77, LCU, % YoY, 3mma, Value",p,line
+"Exports, Semiconductors HS 776, LCU, % YoY, 3mma, Value","TW, Exports, Semiconductors HS 776, LCU, % YoY, 3mma, Value",p,line
+"Exports, Semiconductor manufacturing equipment HS 848620, LCU, % YoY, 3mma, Value","TW, Exports, Semiconductor manufacturing equipment HS 848620, LCU, % YoY, 3mma, Value",p,line
+"Exports, Non-tech exports, total, LCU, % YoY, 3mma, Value","TW, Exports, Non-tech exports, total, LCU, % YoY, 3mma, Value",p,line
+"Exports, EU, LCU, % YoY, 3mma, Value","TW, Exports, EU, LCU, % YoY, 3mma, Value",p,line
+"Exports, DM excl Japan, LCU, % YoY, 3mma, Value","TW, Exports, DM excl Japan, LCU, % YoY, 3mma, Value",p,line
+"Exports, China and Hong Kong, LCU, % YoY, 3mma, Value","TW, Exports, China and Hong Kong, LCU, % YoY, 3mma, Value",p,line
+"Exports, North Asia, LCU, % YoY, 3mma, Value","TW, Exports, North Asia, LCU, % YoY, 3mma, Value",p,line
+"Exports, US, LCU, % YoY, 3mma, Value","TW, Exports, US, LCU, % YoY, 3mma, Value",p,line
+"Exports, ASEAN, LCU, % YoY, 3mma, Value","TW, Exports, ASEAN, LCU, % YoY, 3mma, Value",p,line
+"Exports, EM, LCU, % YoY, 3mma, Value","TW, Exports, EM, LCU, % YoY, 3mma, Value",p,line
+"Imports, All, LCU, % YoY, 3mma, Value","TW, Imports, All, LCU, % YoY, 3mma, Value",p,line
+"Imports, Fuels, LCU, % YoY, 3mma, Value","TW, Imports, Fuels, LCU, % YoY, 3mma, Value",p,line
+"Imports, Capital goods, incl parts, LCU, % YoY, 3mma, Value","TW, Imports, Capital goods, incl parts, LCU, % YoY, 3mma, Value",p,line
+"Imports, Capital goods, LCU, % YoY, 3mma, Value","TW, Imports, Capital goods, LCU, % YoY, 3mma, Value",p,line
+"Imports, Capital goods, parts, LCU, % YoY, 3mma, Value","TW, Imports, Capital goods, parts, LCU, % YoY, 3mma, Value",p,line
+"Imports, Semi mfg equipment, LCU, % YoY, 3mma, Value","TW, Imports, Semi mfg equipment, LCU, % YoY, 3mma, Value",p,line
+"Exports, All, Value, USD, SA","TW, Exports, All, Value, USD, SA, bn",r,line
+"Exports, Tech, total, Value, USD, SA","TW, Exports, Tech, total, Value, USD, SA, bn",r,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, USD, SA","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, USD, SA, bn",r,line
+"Exports, Telecommunications equipment SITC 76, Value, USD, SA","TW, Exports, Telecommunications equipment SITC 76, Value, USD, SA, bn",r,line
+"Exports, Electrical machinery SITC 77, Value, USD, SA","TW, Exports, Electrical machinery SITC 77, Value, USD, SA, bn",r,line
+"Exports, Semiconductors HS 776, Value, USD, SA","TW, Exports, Semiconductors HS 776, Value, USD, SA, bn",r,line
+"Exports, Semiconductor manufacturing equipment HS 848620, Value, USD, SA","TW, Exports, Semiconductor manufacturing equipment HS 848620, Value, USD, SA, bn",r,line
+"Exports, Non-tech exports, total, Value, USD, SA","TW, Exports, Non-tech exports, total, Value, USD, SA, bn",r,line
+"Exports, EU, Value, USD, SA","TW, Exports, EU, Value, USD, SA, bn",r,line
+"Exports, DM excl Japan, Value, USD, SA","TW, Exports, DM excl Japan, Value, USD, SA, bn",r,line
+"Exports, China and Hong Kong, Value, USD, SA","TW, Exports, China and Hong Kong, Value, USD, SA, bn",r,line
+"Exports, North Asia, Value, USD, SA","TW, Exports, North Asia, Value, USD, SA, bn",r,line
+"Exports, US, Value, USD, SA","TW, Exports, US, Value, USD, SA, bn",r,line
+"Exports, ASEAN, Value, USD, SA","TW, Exports, ASEAN, Value, USD, SA, bn",r,line
+"Exports, EM, Value, USD, SA","TW, Exports, EM, Value, USD, SA, bn",r,line
+"Imports, All, Value, USD, SA","TW, Imports, All, Value, USD, SA, bn",r,line
+"Imports, Fuels, Value, USD, SA","TW, Imports, Fuels, Value, USD, SA, bn",r,line
+"Imports, Capital goods, incl parts, Value, USD, SA","TW, Imports, Capital goods, incl parts, Value, USD, SA, bn",r,line
+"Imports, Capital goods, Value, USD, SA","TW, Imports, Capital goods, Value, USD, SA, bn",r,line
+"Imports, Capital goods, parts, Value, USD, SA","TW, Imports, Capital goods, parts, Value, USD, SA, bn",r,line
+"Imports, Semi mfg equipment, Value, USD, SA","TW, Imports, Semi mfg equipment, Value, USD, SA, bn",r,line
+"Exports, All, Value, LCU, SA","TW, Exports, All, Value, LCU, SA, bn",r,line
+"Exports, Tech, total, Value, LCU, SA","TW, Exports, Tech, total, Value, LCU, SA, bn",r,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, LCU, SA","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, LCU, SA, bn",r,line
+"Exports, Telecommunications equipment SITC 76, Value, LCU, SA","TW, Exports, Telecommunications equipment SITC 76, Value, LCU, SA, bn",r,line
+"Exports, Electrical machinery SITC 77, Value, LCU, SA","TW, Exports, Electrical machinery SITC 77, Value, LCU, SA, bn",r,line
+"Exports, Semiconductors HS 776, Value, LCU, SA","TW, Exports, Semiconductors HS 776, Value, LCU, SA, bn",r,line
+"Exports, Semiconductor manufacturing equipment HS 848620, Value, LCU, SA","TW, Exports, Semiconductor manufacturing equipment HS 848620, Value, LCU, SA, bn",r,line
+"Exports, Non-tech exports, total, Value, LCU, SA","TW, Exports, Non-tech exports, total, Value, LCU, SA, bn",r,line
+"Exports, EU, Value, LCU, SA","TW, Exports, EU, Value, LCU, SA, bn",r,line
+"Exports, DM excl Japan, Value, LCU, SA","TW, Exports, DM excl Japan, Value, LCU, SA, bn",r,line
+"Exports, China and Hong Kong, Value, LCU, SA","TW, Exports, China and Hong Kong, Value, LCU, SA, bn",r,line
+"Exports, North Asia, Value, LCU, SA","TW, Exports, North Asia, Value, LCU, SA, bn",r,line
+"Exports, US, Value, LCU, SA","TW, Exports, US, Value, LCU, SA, bn",r,line
+"Exports, ASEAN, Value, LCU, SA","TW, Exports, ASEAN, Value, LCU, SA, bn",r,line
+"Exports, EM, Value, LCU, SA","TW, Exports, EM, Value, LCU, SA, bn",r,line
+"Imports, All, Value, LCU, SA","TW, Imports, All, Value, LCU, SA, bn",r,line
+"Imports, Fuels, Value, LCU, SA","TW, Imports, Fuels, Value, LCU, SA, bn",r,line
+"Imports, Capital goods, incl parts, Value, LCU, SA","TW, Imports, Capital goods, incl parts, Value, LCU, SA, bn",r,line
+"Imports, Capital goods, Value, LCU, SA","TW, Imports, Capital goods, Value, LCU, SA, bn",r,line
+"Imports, Capital goods, parts, Value, LCU, SA","TW, Imports, Capital goods, parts, Value, LCU, SA, bn",r,line
+"Imports, Semi mfg equipment, Value, LCU, SA","TW, Imports, Semi mfg equipment, Value, LCU, SA, bn",r,line
+"Exports, All, Work day adjusted, Value, USD, SA","TW, Exports, All, Work day adjusted, Value, USD, SA, bn",r,line
+"Exports, DM excl Japan, Value, % of total, SA","TW, Exports, DM excl Japan, Value, % of total, SA",p,line
+"Exports, North Asia, Value, % of total, SA","TW, Exports, North Asia, Value, % of total, SA",p,line
+"Exports, US, Value, % of total, SA","TW, Exports, US, Value, % of total, SA",p,line
+"Exports, ASEAN, Value, % of total, SA","TW, Exports, ASEAN, Value, % of total, SA",p,line
+"Exports, EM, Value, % of total, SA","TW, Exports, EM, Value, % of total, SA",p,line
+"Exports, EU, Value, % of total, SA","TW, Exports, EU, Value, % of total, SA",p,line
+"Exports, China and Hong Kong, Value, % of total, SA","TW, Exports, China and Hong Kong, Value, % of total, SA",p,line
+"Semiconductor exports, % of total exports, Value","TW, Semiconductor exports, % of total exports, Value",p,line
+"Exports, All, USD, SA, 3mma, Value","TW, Exports, All, USD, SA, 3mma, Value, bn",r,line
+"Exports, All, Value, USD, % MoM, SA","TW, Exports, All, Value, USD, % MoM, SA",p,line
+"Exports, Tech, total, Value, USD, % MoM, SA","TW, Exports, Tech, total, Value, USD, % MoM, SA",p,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, USD, % MoM, SA","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, USD, % MoM, SA",p,line
+"Exports, Telecommunications equipment SITC 76, Value, USD, % MoM, SA","TW, Exports, Telecommunications equipment SITC 76, Value, USD, % MoM, SA",p,line
+"Exports, Electrical machinery SITC 77, Value, USD, % MoM, SA","TW, Exports, Electrical machinery SITC 77, Value, USD, % MoM, SA",p,line
+"Exports, Semiconductors HS 776, Value, USD, % MoM, SA","TW, Exports, Semiconductors HS 776, Value, USD, % MoM, SA",p,line
+"Exports, Semiconductor manufacturing equipment HS 848620, Value, USD, % MoM, SA","TW, Exports, Semiconductor manufacturing equipment HS 848620, Value, USD, % MoM, SA",p,line
+"Exports, Non-tech exports, total, Value, USD, % MoM, SA","TW, Exports, Non-tech exports, total, Value, USD, % MoM, SA",p,line
+"Exports, EU, Value, USD, % MoM, SA","TW, Exports, EU, Value, USD, % MoM, SA",p,line
+"Exports, DM excl Japan, Value, USD, % MoM, SA","TW, Exports, DM excl Japan, Value, USD, % MoM, SA",p,line
+"Exports, China and Hong Kong, Value, USD, % MoM, SA","TW, Exports, China and Hong Kong, Value, USD, % MoM, SA",p,line
+"Exports, North Asia, Value, USD, % MoM, SA","TW, Exports, North Asia, Value, USD, % MoM, SA",p,line
+"Exports, US, Value, USD, % MoM, SA","TW, Exports, US, Value, USD, % MoM, SA",p,line
+"Exports, ASEAN, Value, USD, % MoM, SA","TW, Exports, ASEAN, Value, USD, % MoM, SA",p,line
+"Exports, EM, Value, USD, % MoM, SA","TW, Exports, EM, Value, USD, % MoM, SA",p,line
+"Imports, All, Value, USD, % MoM, SA","TW, Imports, All, Value, USD, % MoM, SA",p,line
+"Imports, Fuels, Value, USD, % MoM, SA","TW, Imports, Fuels, Value, USD, % MoM, SA",p,line
+"Imports, Capital goods, incl parts, Value, USD, % MoM, SA","TW, Imports, Capital goods, incl parts, Value, USD, % MoM, SA",p,line
+"Imports, Capital goods, Value, USD, % MoM, SA","TW, Imports, Capital goods, Value, USD, % MoM, SA",p,line
+"Imports, Capital goods, parts, Value, USD, % MoM, SA","TW, Imports, Capital goods, parts, Value, USD, % MoM, SA",p,line
+"Imports, Semi mfg equipment, Value, USD, % MoM, SA","TW, Imports, Semi mfg equipment, Value, USD, % MoM, SA",p,line
+"Exports, All, Value, LCU, % MoM, SA","TW, Exports, All, Value, LCU, % MoM, SA",p,line
+"Exports, Tech, total, Value, LCU, % MoM, SA","TW, Exports, Tech, total, Value, LCU, % MoM, SA",p,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, LCU, % MoM, SA","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, Value, LCU, % MoM, SA",p,line
+"Exports, Telecommunications equipment SITC 76, Value, LCU, % MoM, SA","TW, Exports, Telecommunications equipment SITC 76, Value, LCU, % MoM, SA",p,line
+"Exports, Electrical machinery SITC 77, Value, LCU, % MoM, SA","TW, Exports, Electrical machinery SITC 77, Value, LCU, % MoM, SA",p,line
+"Exports, Semiconductors HS 776, Value, LCU, % MoM, SA","TW, Exports, Semiconductors HS 776, Value, LCU, % MoM, SA",p,line
+"Exports, Semiconductor manufacturing equipment HS 848620, Value, LCU, % MoM, SA","TW, Exports, Semiconductor manufacturing equipment HS 848620, Value, LCU, % MoM, SA",p,line
+"Exports, Non-tech exports, total, Value, LCU, % MoM, SA","TW, Exports, Non-tech exports, total, Value, LCU, % MoM, SA",p,line
+"Exports, EU, Value, LCU, % MoM, SA","TW, Exports, EU, Value, LCU, % MoM, SA",p,line
+"Exports, DM excl Japan, Value, LCU, % MoM, SA","TW, Exports, DM excl Japan, Value, LCU, % MoM, SA",p,line
+"Exports, China and Hong Kong, Value, LCU, % MoM, SA","TW, Exports, China and Hong Kong, Value, LCU, % MoM, SA",p,line
+"Exports, North Asia, Value, LCU, % MoM, SA","TW, Exports, North Asia, Value, LCU, % MoM, SA",p,line
+"Exports, US, Value, LCU, % MoM, SA","TW, Exports, US, Value, LCU, % MoM, SA",p,line
+"Exports, ASEAN, Value, LCU, % MoM, SA","TW, Exports, ASEAN, Value, LCU, % MoM, SA",p,line
+"Exports, EM, Value, LCU, % MoM, SA","TW, Exports, EM, Value, LCU, % MoM, SA",p,line
+"Imports, All, Value, LCU, % MoM, SA","TW, Imports, All, Value, LCU, % MoM, SA",p,line
+"Imports, Fuels, Value, LCU, % MoM, SA","TW, Imports, Fuels, Value, LCU, % MoM, SA",p,line
+"Imports, Capital goods, incl parts, Value, LCU, % MoM, SA","TW, Imports, Capital goods, incl parts, Value, LCU, % MoM, SA",p,line
+"Imports, Capital goods, Value, LCU, % MoM, SA","TW, Imports, Capital goods, Value, LCU, % MoM, SA",p,line
+"Imports, Capital goods, parts, Value, LCU, % MoM, SA","TW, Imports, Capital goods, parts, Value, LCU, % MoM, SA",p,line
+"Imports, Semi mfg equipment, Value, LCU, % MoM, SA","TW, Imports, Semi mfg equipment, Value, LCU, % MoM, SA",p,line
+"Exports, All, Work day adjusted, Value, USD, % MoM, SA","TW, Exports, All, Work day adjusted, Value, USD, % MoM, SA",p,line
+"Exports, All, USD, % MoM, SA, 3mma, Value","TW, Exports, All, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, Tech, total, USD, % MoM, SA, 3mma, Value","TW, Exports, Tech, total, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, % MoM, SA, 3mma, Value","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, Telecommunications equipment SITC 76, USD, % MoM, SA, 3mma, Value","TW, Exports, Telecommunications equipment SITC 76, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, Electrical machinery SITC 77, USD, % MoM, SA, 3mma, Value","TW, Exports, Electrical machinery SITC 77, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, Semiconductors HS 776, USD, % MoM, SA, 3mma, Value","TW, Exports, Semiconductors HS 776, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, Semiconductor manufacturing equipment HS 848620, USD, % MoM, SA, 3mma, Value","TW, Exports, Semiconductor manufacturing equipment HS 848620, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, Non-tech exports, total, USD, % MoM, SA, 3mma, Value","TW, Exports, Non-tech exports, total, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, EU, USD, % MoM, SA, 3mma, Value","TW, Exports, EU, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, DM excl Japan, USD, % MoM, SA, 3mma, Value","TW, Exports, DM excl Japan, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, China and Hong Kong, USD, % MoM, SA, 3mma, Value","TW, Exports, China and Hong Kong, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, North Asia, USD, % MoM, SA, 3mma, Value","TW, Exports, North Asia, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, US, USD, % MoM, SA, 3mma, Value","TW, Exports, US, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, ASEAN, USD, % MoM, SA, 3mma, Value","TW, Exports, ASEAN, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, EM, USD, % MoM, SA, 3mma, Value","TW, Exports, EM, USD, % MoM, SA, 3mma, Value",p,line
+"Imports, All, USD, % MoM, SA, 3mma, Value","TW, Imports, All, USD, % MoM, SA, 3mma, Value",p,line
+"Imports, Fuels, USD, % MoM, SA, 3mma, Value","TW, Imports, Fuels, USD, % MoM, SA, 3mma, Value",p,line
+"Imports, Capital goods, incl parts, USD, % MoM, SA, 3mma, Value","TW, Imports, Capital goods, incl parts, USD, % MoM, SA, 3mma, Value",p,line
+"Imports, Capital goods, USD, % MoM, SA, 3mma, Value","TW, Imports, Capital goods, USD, % MoM, SA, 3mma, Value",p,line
+"Imports, Capital goods, parts, USD, % MoM, SA, 3mma, Value","TW, Imports, Capital goods, parts, USD, % MoM, SA, 3mma, Value",p,line
+"Imports, Semi mfg equipment, USD, % MoM, SA, 3mma, Value","TW, Imports, Semi mfg equipment, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, All, LCU, SA, % MoM, 3mma, Value","TW, Exports, All, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, Tech, total, LCU, SA, % MoM, 3mma, Value","TW, Exports, Tech, total, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, % MoM, 3mma, Value","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, Telecommunications equipment SITC 76, LCU, SA, % MoM, 3mma, Value","TW, Exports, Telecommunications equipment SITC 76, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, Electrical machinery SITC 77, LCU, SA, % MoM, 3mma, Value","TW, Exports, Electrical machinery SITC 77, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, Semiconductors HS 776, LCU, SA, % MoM, 3mma, Value","TW, Exports, Semiconductors HS 776, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, % MoM, 3mma, Value","TW, Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, Non-tech exports, total, LCU, SA, % MoM, 3mma, Value","TW, Exports, Non-tech exports, total, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, EU, LCU, SA, % MoM, 3mma, Value","TW, Exports, EU, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, DM excl Japan, LCU, SA, % MoM, 3mma, Value","TW, Exports, DM excl Japan, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, China and Hong Kong, LCU, SA, % MoM, 3mma, Value","TW, Exports, China and Hong Kong, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, North Asia, LCU, SA, % MoM, 3mma, Value","TW, Exports, North Asia, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, US, LCU, SA, % MoM, 3mma, Value","TW, Exports, US, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, ASEAN, LCU, SA, % MoM, 3mma, Value","TW, Exports, ASEAN, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, EM, LCU, SA, % MoM, 3mma, Value","TW, Exports, EM, LCU, SA, % MoM, 3mma, Value",p,line
+"Imports, All, LCU, SA, % MoM, 3mma, Value","TW, Imports, All, LCU, SA, % MoM, 3mma, Value",p,line
+"Imports, Fuels, LCU, SA, % MoM, 3mma, Value","TW, Imports, Fuels, LCU, SA, % MoM, 3mma, Value",p,line
+"Imports, Capital goods, incl parts, LCU, SA, % MoM, 3mma, Value","TW, Imports, Capital goods, incl parts, LCU, SA, % MoM, 3mma, Value",p,line
+"Imports, Capital goods, LCU, SA, % MoM, 3mma, Value","TW, Imports, Capital goods, LCU, SA, % MoM, 3mma, Value",p,line
+"Imports, Capital goods, parts, LCU, SA, % MoM, 3mma, Value","TW, Imports, Capital goods, parts, LCU, SA, % MoM, 3mma, Value",p,line
+"Imports, Semi mfg equipment, LCU, SA, % MoM, 3mma, Value","TW, Imports, Semi mfg equipment, LCU, SA, % MoM, 3mma, Value",p,line
+"Exports, All, Work day adjusted, USD, % MoM, SA, 3mma, Value","TW, Exports, All, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, All, USD, SA, % 3m/3m, Value","TW, Exports, All, USD, SA, % 3m/3m, Value",p,line
+"Exports, Tech, total, USD, SA, % 3m/3m, Value","TW, Exports, Tech, total, USD, SA, % 3m/3m, Value",p,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, SA, % 3m/3m, Value","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, SA, % 3m/3m, Value",p,line
+"Exports, Telecommunications equipment SITC 76, USD, SA, % 3m/3m, Value","TW, Exports, Telecommunications equipment SITC 76, USD, SA, % 3m/3m, Value",p,line
+"Exports, Electrical machinery SITC 77, USD, SA, % 3m/3m, Value","TW, Exports, Electrical machinery SITC 77, USD, SA, % 3m/3m, Value",p,line
+"Exports, Semiconductors HS 776, USD, SA, % 3m/3m, Value","TW, Exports, Semiconductors HS 776, USD, SA, % 3m/3m, Value",p,line
+"Exports, Semiconductor manufacturing equipment HS 848620, USD, SA, % 3m/3m, Value","TW, Exports, Semiconductor manufacturing equipment HS 848620, USD, SA, % 3m/3m, Value",p,line
+"Exports, Non-tech exports, total, USD, SA, % 3m/3m, Value","TW, Exports, Non-tech exports, total, USD, SA, % 3m/3m, Value",p,line
+"Exports, EU, USD, SA, % 3m/3m, Value","TW, Exports, EU, USD, SA, % 3m/3m, Value",p,line
+"Exports, DM excl Japan, USD, SA, % 3m/3m, Value","TW, Exports, DM excl Japan, USD, SA, % 3m/3m, Value",p,line
+"Exports, China and Hong Kong, USD, SA, % 3m/3m, Value","TW, Exports, China and Hong Kong, USD, SA, % 3m/3m, Value",p,line
+"Exports, North Asia, USD, SA, % 3m/3m, Value","TW, Exports, North Asia, USD, SA, % 3m/3m, Value",p,line
+"Exports, US, USD, SA, % 3m/3m, Value","TW, Exports, US, USD, SA, % 3m/3m, Value",p,line
+"Exports, ASEAN, USD, SA, % 3m/3m, Value","TW, Exports, ASEAN, USD, SA, % 3m/3m, Value",p,line
+"Exports, EM, USD, SA, % 3m/3m, Value","TW, Exports, EM, USD, SA, % 3m/3m, Value",p,line
+"Imports, All, USD, SA, % 3m/3m, Value","TW, Imports, All, USD, SA, % 3m/3m, Value",p,line
+"Imports, Fuels, USD, SA, % 3m/3m, Value","TW, Imports, Fuels, USD, SA, % 3m/3m, Value",p,line
+"Imports, Capital goods, incl parts, USD, SA, % 3m/3m, Value","TW, Imports, Capital goods, incl parts, USD, SA, % 3m/3m, Value",p,line
+"Imports, Capital goods, USD, SA, % 3m/3m, Value","TW, Imports, Capital goods, USD, SA, % 3m/3m, Value",p,line
+"Imports, Capital goods, parts, USD, SA, % 3m/3m, Value","TW, Imports, Capital goods, parts, USD, SA, % 3m/3m, Value",p,line
+"Imports, Semi mfg equipment, USD, SA, % 3m/3m, Value","TW, Imports, Semi mfg equipment, USD, SA, % 3m/3m, Value",p,line
+"Exports, All, LCU, SA, % 3m/3m, Value","TW, Exports, All, LCU, SA, % 3m/3m, Value",p,line
+"Exports, Tech, total, LCU, SA, % 3m/3m, Value","TW, Exports, Tech, total, LCU, SA, % 3m/3m, Value",p,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, % 3m/3m, Value","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, % 3m/3m, Value",p,line
+"Exports, Telecommunications equipment SITC 76, LCU, SA, % 3m/3m, Value","TW, Exports, Telecommunications equipment SITC 76, LCU, SA, % 3m/3m, Value",p,line
+"Exports, Electrical machinery SITC 77, LCU, SA, % 3m/3m, Value","TW, Exports, Electrical machinery SITC 77, LCU, SA, % 3m/3m, Value",p,line
+"Exports, Semiconductors HS 776, LCU, SA, % 3m/3m, Value","TW, Exports, Semiconductors HS 776, LCU, SA, % 3m/3m, Value",p,line
+"Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, % 3m/3m, Value","TW, Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, % 3m/3m, Value",p,line
+"Exports, Non-tech exports, total, LCU, SA, % 3m/3m, Value","TW, Exports, Non-tech exports, total, LCU, SA, % 3m/3m, Value",p,line
+"Exports, EU, LCU, SA, % 3m/3m, Value","TW, Exports, EU, LCU, SA, % 3m/3m, Value",p,line
+"Exports, DM excl Japan, LCU, SA, % 3m/3m, Value","TW, Exports, DM excl Japan, LCU, SA, % 3m/3m, Value",p,line
+"Exports, China and Hong Kong, LCU, SA, % 3m/3m, Value","TW, Exports, China and Hong Kong, LCU, SA, % 3m/3m, Value",p,line
+"Exports, North Asia, LCU, SA, % 3m/3m, Value","TW, Exports, North Asia, LCU, SA, % 3m/3m, Value",p,line
+"Exports, US, LCU, SA, % 3m/3m, Value","TW, Exports, US, LCU, SA, % 3m/3m, Value",p,line
+"Exports, ASEAN, LCU, SA, % 3m/3m, Value","TW, Exports, ASEAN, LCU, SA, % 3m/3m, Value",p,line
+"Exports, EM, LCU, SA, % 3m/3m, Value","TW, Exports, EM, LCU, SA, % 3m/3m, Value",p,line
+"Imports, All, LCU, SA, % 3m/3m, Value","TW, Imports, All, LCU, SA, % 3m/3m, Value",p,line
+"Imports, Fuels, LCU, SA, % 3m/3m, Value","TW, Imports, Fuels, LCU, SA, % 3m/3m, Value",p,line
+"Imports, Capital goods, incl parts, LCU, SA, % 3m/3m, Value","TW, Imports, Capital goods, incl parts, LCU, SA, % 3m/3m, Value",p,line
+"Imports, Capital goods, LCU, SA, % 3m/3m, Value","TW, Imports, Capital goods, LCU, SA, % 3m/3m, Value",p,line
+"Imports, Capital goods, parts, LCU, SA, % 3m/3m, Value","TW, Imports, Capital goods, parts, LCU, SA, % 3m/3m, Value",p,line
+"Imports, Semi mfg equipment, LCU, SA, % 3m/3m, Value","TW, Imports, Semi mfg equipment, LCU, SA, % 3m/3m, Value",p,line
+"Exports, All, Work day adjusted, USD, SA, % 3m/3m, Value","TW, Exports, All, Work day adjusted, USD, SA, % 3m/3m, Value",p,line
+"Exports, All, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, All, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, Tech, total, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, Tech, total, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, Telecommunications equipment SITC 76, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, Telecommunications equipment SITC 76, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, Electrical machinery SITC 77, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, Electrical machinery SITC 77, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, Semiconductors HS 776, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, Semiconductors HS 776, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, Semiconductor manufacturing equipment HS 848620, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, Semiconductor manufacturing equipment HS 848620, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, Non-tech exports, total, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, Non-tech exports, total, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, EU, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, EU, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, DM excl Japan, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, DM excl Japan, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, China and Hong Kong, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, China and Hong Kong, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, North Asia, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, North Asia, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, US, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, US, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, ASEAN, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, ASEAN, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, EM, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, EM, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Imports, All, USD, SA, % 3m/3m, 3mma, Value","TW, Imports, All, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Imports, Fuels, USD, SA, % 3m/3m, 3mma, Value","TW, Imports, Fuels, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Imports, Capital goods, incl parts, USD, SA, % 3m/3m, 3mma, Value","TW, Imports, Capital goods, incl parts, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Imports, Capital goods, USD, SA, % 3m/3m, 3mma, Value","TW, Imports, Capital goods, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Imports, Capital goods, parts, USD, SA, % 3m/3m, 3mma, Value","TW, Imports, Capital goods, parts, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Imports, Semi mfg equipment, USD, SA, % 3m/3m, 3mma, Value","TW, Imports, Semi mfg equipment, USD, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, All, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, All, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, Tech, total, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, Tech, total, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, Office Machines and Automatic Data-processing Machines SITC 75, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, Telecommunications equipment SITC 76, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, Telecommunications equipment SITC 76, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, Electrical machinery SITC 77, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, Electrical machinery SITC 77, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, Semiconductors HS 776, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, Semiconductors HS 776, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, Semiconductor manufacturing equipment HS 848620, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, Non-tech exports, total, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, Non-tech exports, total, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, EU, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, EU, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, DM excl Japan, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, DM excl Japan, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, China and Hong Kong, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, China and Hong Kong, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, North Asia, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, North Asia, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, US, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, US, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, ASEAN, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, ASEAN, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, EM, LCU, SA, % 3m/3m, 3mma, Value","TW, Exports, EM, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Imports, All, LCU, SA, % 3m/3m, 3mma, Value","TW, Imports, All, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Imports, Fuels, LCU, SA, % 3m/3m, 3mma, Value","TW, Imports, Fuels, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Imports, Capital goods, incl parts, LCU, SA, % 3m/3m, 3mma, Value","TW, Imports, Capital goods, incl parts, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Imports, Capital goods, LCU, SA, % 3m/3m, 3mma, Value","TW, Imports, Capital goods, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Imports, Capital goods, parts, LCU, SA, % 3m/3m, 3mma, Value","TW, Imports, Capital goods, parts, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Imports, Semi mfg equipment, LCU, SA, % 3m/3m, 3mma, Value","TW, Imports, Semi mfg equipment, LCU, SA, % 3m/3m, 3mma, Value",p,line
+"Exports, All, Work day adjusted, USD, SA, % 3m/3m, 3mma, Value","TW, Exports, All, Work day adjusted, USD, SA, % 3m/3m, 3mma, Value",p,line
+"work, Value","TW, work, Value, bn",r,line
+"hol, Value","TW, hol, Value, bn",r,line
+"check, Value","TW, check, Value, bn",r,line
+"Adj, Value","TW, Adj, Value, bn",r,line
+"factor, Value","TW, factor, Value, bn",r,line
+"Trade balance, Value, USD","TW, Trade balance, Value, USD, bn",r,line
+"Trade balance, Value, LCU","TW, Trade balance, Value, LCU, bn",r,line
+"Trade balance, Value, USD, SA","TW, Trade balance, Value, USD, SA, bn",r,line
+"Trade balance, Value, LCU, SA","TW, Trade balance, Value, LCU, SA, bn",r,line
+"Trade balance, USD, SA, 3mma, Value","TW, Trade balance, USD, SA, 3mma, Value, bn",r,line
+"Exports, All, Value, % of GDP, SA","TW, Exports, All, Value, % of GDP, SA",p,line
+"Exports, Semiconductors HS 776, Value, % of GDP, SA","TW, Exports, Semiconductors HS 776, Value, % of GDP, SA",p,line
+"Trade balance, Value, % of GDP","TW, Trade balance, Value, % of GDP",p,line
