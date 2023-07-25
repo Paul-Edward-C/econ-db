@@ -399,15 +399,7 @@ class Setting:
             {"id": 3, "color": "#4b0082", "used": False, "label": "indigo"},
         ]
 
-        self.freq_data_mapping_map = {
-            "Q": {
-                "NGDP Q": "NGDP",
-                "RGDP Q": "RGDP"
-            },
-            "M": {
-                "Monthly": "Monthly"
-            }
-        }
+        self.freq_data_mapping_map = {"Q": {"NGDP Q": "NGDP", "RGDP Q": "RGDP"}, "M": {"Monthly": "Monthly"}}
 
         self.country_currency_map = {
             "KR": {"KRW": "LCU", "USD": "USD"},
@@ -428,11 +420,13 @@ class Setting:
                 "National Accounts": {
                     "Q": True,
                     "Quarterly_data_path": "db/jp/gdp/q/jp_gdp_q.csv",
+                    "Quarterly_raw_data_path": "db/jp/gdp/q/jp_gdp_q_raw.csv",
                     "Quarterly_setting_path": "db/jp/gdp/q/jp_gdp_q_setting.csv",
                 },
                 "Foreign Trade": {
                     "M": True,
                     "Monthly_data_path": "db/jp/export/m/jp_export_m.csv",
+                    "Monthly_raw_data_path": "db/jp/export/m/jp_export_m_raw.csv",
                     "Monthly_setting_path": "db/jp/export/m/jp_export_m_setting.csv",
                 },
             },
