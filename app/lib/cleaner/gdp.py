@@ -13,14 +13,16 @@ sys.path.append(f"""{str(pathlib.Path(__file__).resolve().parent.parent.parent)}
 from lib.tools import Setting, Tool
 
 
-def run_cleaning_pipeline(country, freq, to_db):
+def clean(country, freq, to_db):
     logging.info(f"Running cleaning pipeline for {country} {freq}")
     setting = Setting()
     tool = Tool()
 
     freq_full = setting.freq_full_name_map[freq]
+    raw_data_path = setting.structure[country]["National Accounts"][f"{freq_full}_raw_data_path"]
     data_path = setting.structure[country]["National Accounts"][f"{freq_full}_data_path"]
-    data = pd.read_csv(data_path, index_col=[0])
+    
+    data = pd.read_csv(raw_data_path, index_col=[0])
     mapping_template_path = setting.category_structure["National Accounts"]["input_path"]
     mapping_template = pd.read_excel(mapping_template_path, index_col=None)
 
@@ -84,6 +86,8 @@ def run_cleaning_pipeline(country, freq, to_db):
                     "SA, % of GDP": "% of GDP, SA",
                     "SA, % QoQ": "% QoQ, SA",
                     "SA, % YoY": "% YoY, SA",
+                    "% of GDP, LCU": "LCU, % of GDP",
+                    
                 },
                 3: {
                     "Contribution to % YoY chg, ppts, LCU": "LCU, Contribution to % YoY chg, ppts",
@@ -93,7 +97,7 @@ def run_cleaning_pipeline(country, freq, to_db):
                     "SA, % of GDP, LCU": 'LCU, % of GDP, SA',
                     "SA, % QoQ, LCU": "LCU, % QoQ, SA",
                     "SA, % YoY, LCU": "LCU, % YoY, SA",
-                    
+                    "SA, LCU, % YoY": "LCU, % YoY, SA",
                 },
                 4: {},
             }
@@ -103,7 +107,7 @@ def run_cleaning_pipeline(country, freq, to_db):
                 unit_replace_num += 1
             else:
                 if not(any(i in column for i in ignore_list)):
-                    logging.warning(f"Wrong unit order : {column}  {unit_num} {current_unit_list}")
+                    logging.warning(f"Wrong unit order : {column}  {unit_num} {current_unit_list} {check_list}")
 
         new_columns.append(column)
     columns = new_columns
@@ -139,6 +143,14 @@ def jp_q_exception(columns, unit_component):  # Add LCU unit to column not have 
             column += ", LCU"
         
         new_columns.append(column)
+    columns = new_columns
+    
+    new_columns = []
+    for column in columns:
+        if "SA % QoQ" in column:
+            column = column.replace("SA % QoQ", "SA, % QoQ")
+        new_columns.append(column)
+    
     return new_columns
 
 
@@ -179,7 +191,6 @@ def kr_q_exception(columns, unit_component):  # Add LCU unit to column without c
 
     return new_columns
 
-
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--country")  # in upper class
@@ -192,7 +203,7 @@ def main():
 
     for country in country_list:
         for freq in freq_list:
-            run_cleaning_pipeline(country, freq, args.to_db)
+            clean(country, freq, args.to_db)
 
 
 if __name__ == "__main__":
