@@ -21,7 +21,7 @@ def clean(country, freq, to_db):
     freq_full = setting.freq_full_name_map[freq]
     raw_data_path = setting.structure[country]["National Accounts"][f"{freq_full}_raw_data_path"]
     data_path = setting.structure[country]["National Accounts"][f"{freq_full}_data_path"]
-    
+
     data = pd.read_csv(raw_data_path, index_col=[0])
     mapping_template_path = setting.category_structure["National Accounts"]["input_path"]
     mapping_template = pd.read_excel(mapping_template_path, index_col=None)
@@ -49,7 +49,7 @@ def clean(country, freq, to_db):
 
             new_columns.append(column)
         columns = new_columns
-    
+
     # Deal with country exceptions
     if country == "CN" and freq == "Q":
         columns = cn_q_exception(columns, unit_component)
@@ -63,7 +63,7 @@ def clean(country, freq, to_db):
     # Check unit order
     unit_replace_num = 0
     new_columns = []
-    ignore_list = ["SAAR", 'ppt', "YTD"]
+    ignore_list = ["SAAR", "ppt", "YTD"]
     for column in columns:
         # Calculate unit number in column
         current_unit_list = []
@@ -87,14 +87,13 @@ def clean(country, freq, to_db):
                     "SA, % QoQ": "% QoQ, SA",
                     "SA, % YoY": "% YoY, SA",
                     "% of GDP, LCU": "LCU, % of GDP",
-                    
                 },
                 3: {
                     "Contribution to % YoY chg, ppts, LCU": "LCU, Contribution to % YoY chg, ppts",
                     "Contribution to % QoQ chg, ppts, LCU": "LCU, Contribution to % QoQ chg, ppts",
                     "% of GDP, SA, LCU": "LCU, % of GDP, SA",
                     "% YoY, SA, LCU": "LCU, % YoY, SA",
-                    "SA, % of GDP, LCU": 'LCU, % of GDP, SA',
+                    "SA, % of GDP, LCU": "LCU, % of GDP, SA",
                     "SA, % QoQ, LCU": "LCU, % QoQ, SA",
                     "SA, % YoY, LCU": "LCU, % YoY, SA",
                     "SA, LCU, % YoY": "LCU, % YoY, SA",
@@ -106,7 +105,7 @@ def clean(country, freq, to_db):
                 column = column.replace(check_list[0], cond_dict[unit_num][check_list[0]])
                 unit_replace_num += 1
             else:
-                if not(any(i in column for i in ignore_list)):
+                if not (any(i in column for i in ignore_list)):
                     logging.warning(f"Wrong unit order : {column}  {unit_num} {current_unit_list} {check_list}")
 
         new_columns.append(column)
@@ -128,7 +127,7 @@ def tw_q_exception(columns, unit_component):  # Add LCU unit to column not have 
     for column in columns:
         if not any(i in column for i in currency_units):
             column += ", LCU"
-        
+
         new_columns.append(column)
     return new_columns
 
@@ -141,16 +140,16 @@ def jp_q_exception(columns, unit_component):  # Add LCU unit to column not have 
     for column in columns:
         if not any(i in column for i in currency_units):
             column += ", LCU"
-        
+
         new_columns.append(column)
     columns = new_columns
-    
+
     new_columns = []
     for column in columns:
         if "SA % QoQ" in column:
             column = column.replace("SA % QoQ", "SA, % QoQ")
         new_columns.append(column)
-    
+
     return new_columns
 
 
@@ -190,6 +189,7 @@ def kr_q_exception(columns, unit_component):  # Add LCU unit to column without c
         new_columns.append(column)
 
     return new_columns
+
 
 def main():
     parser = argparse.ArgumentParser()

@@ -399,15 +399,7 @@ class Setting:
             {"id": 3, "color": "#4b0082", "used": False, "label": "indigo"},
         ]
 
-        self.freq_data_mapping_map = {
-            "Q": {
-                "NGDP Q": "NGDP",
-                "RGDP Q": "RGDP"
-            },
-            "M": {
-                "Monthly": "Monthly"
-            }
-        }
+        self.freq_data_mapping_map = {"Q": {"NGDP Q": "NGDP", "RGDP Q": "RGDP"}, "M": {"Monthly": "Monthly"}}
 
         self.country_currency_map = {
             "KR": {"KRW": "LCU", "USD": "USD"},
