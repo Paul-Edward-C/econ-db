@@ -434,11 +434,13 @@ class Setting:
                 "National Accounts": {
                     "Q": True,
                     "Quarterly_data_path": "db/tw/gdp/q/tw_gdp_q.csv",
+                    "Quarterly_raw_data_path": "db/tw/gdp/q/tw_gdp_q_raw.csv",
                     "Quarterly_setting_path": "db/tw/gdp/q/tw_gdp_q_setting.csv",
                 },
                 "Foreign Trade": {
                     "M": True,
                     "Monthly_data_path": "db/tw/export/m/tw_export_m.csv",
+                    "Monthly_raw_data_path": "db/tw/export/m/tw_export_m_raw.csv",
                     "Monthly_setting_path": "db/tw/export//m/tw_export_m_setting.csv",
                 },
             },
@@ -446,11 +448,13 @@ class Setting:
                 "National Accounts": {
                     "Q": True,
                     "Quarterly_data_path": "db/kr/gdp/q/kr_gdp_q.csv",
+                    "Quarterly_raw_data_path": "db/kr/gdp/q/kr_gdp_q_raw.csv",
                     "Quarterly_setting_path": "db/kr/gdp/q/kr_gdp_q_setting.csv",
                 },
                 "Foreign Trade": {
                     "M": True,
                     "Monthly_data_path": "db/kr/export/m/kr_export_m.csv",
+                    "Monthly_raw_data_path": "db/kr/export/m/kr_export_m_raw.csv",
                     "Monthly_setting_path": "db/kr/export/m/kr_export_m_setting.csv",
                 },
             },
@@ -458,11 +462,13 @@ class Setting:
                 "National Accounts": {
                     "Q": True,
                     "Quarterly_data_path": "db/cn/gdp/q/cn_gdp_q.csv",
+                    "Quarterly_raw_data_path": "db/cn/gdp/q/cn_gdp_q_raw.csv",
                     "Quarterly_setting_path": "db/cn/gdp/q/cn_gdp_q_setting.csv",
                 },
                 "Foreign Trade": {
                     "M": True,
                     "Monthly_data_path": "db/cn/export/m/cn_export_m.csv",
+                    "Monthly_raw_data_path": "db/cn/export/m/cn_export_m_raw.csv",
                     "Monthly_setting_path": "db/cn/export/m/cn_export_m_setting.csv",
                 },
             },

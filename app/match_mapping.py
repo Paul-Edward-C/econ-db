@@ -8,7 +8,7 @@ from lib.tools import Setting
 logging.basicConfig(level=logging.INFO)
 
 
-def match_export(country_list, freq_list, to_db, to_output, category="export"):
+def run_match_export_pipeline(country_list, freq_list, to_db, to_output, category="export"):
     setting = Setting()
     category_full = setting.category_full_name_map[category]
     freq_country_map = {
@@ -34,7 +34,7 @@ def match_export(country_list, freq_list, to_db, to_output, category="export"):
             )
 
 
-def match_gdp(country_list, freq_list, to_db, to_output, category="gdp"):
+def run_match_gdp_pipeline(country_list, freq_list, to_db, to_output, category="gdp"):
     setting = Setting()
     category_full = setting.category_full_name_map[category]
     setting = Setting()
@@ -70,7 +70,7 @@ def main():
     parser.add_argument("--to_output", action="store_true")
     args = parser.parse_args()
 
-    funcs_map = {"gdp": match_gdp, "export": match_export}
+    funcs_map = {"gdp": run_match_gdp_pipeline, "export": run_match_export_pipeline}
     category_list = args.category.split(",") if args.category is not None else funcs_map.keys()
     country_list = args.country.split(",") if args.country is not None else None
     freq_list = args.freq.split(",") if args.freq is not None else None

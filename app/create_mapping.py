@@ -1,6 +1,6 @@
 import argparse
 
-from lib.generator.mapping_generator import Mapping_generator as MG
+from lib.generator.mapping_generator import Mapping_Generator as MG
 from lib.tools import Setting
 
 

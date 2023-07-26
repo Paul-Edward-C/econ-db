@@ -6,7 +6,7 @@ import pandas as pd
 # =========DEFINE CLASS OBJECT==========
 
 
-class Mapping_generator:
+class Mapping_Generator:
     def __init__(self, input_path, output_path, sep="Subcategories"):
         for key, value in locals().items():
             if key != "self":
