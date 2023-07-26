@@ -17,7 +17,7 @@ class Data_Setting_Generator:
         category_full = setting.category_full_name_map[category]
         freq_full = setting.freq_full_name_map[freq]
 
-        raw_data_path = setting.structure[country][category_full][f"{freq_full}_raw_data_path"]
+        raw_data_path = setting.structure[country][category_full][f"{freq_full}_data_path"]
         data = pd.read_csv(raw_data_path, index_col=[0])
 
         columns = data.columns.tolist()
