@@ -3,21 +3,30 @@ name,display_name,data_type,chart_type
 "NGDP, LCU","CN, NGDP, LCU, bn",r,line
 "NGDP, LCU, YTD","CN, NGDP, LCU, YTD, bn",r,line
 "NGDP, Other, LCU","CN, NGDP, Other, LCU, bn",r,line
+"NGDP, Other, LCU, YTD","CN, NGDP, Other, LCU, YTD, bn",r,line
 "NGDP, Storage and Post, LCU","CN, NGDP, Storage and Post, LCU, bn",r,line
+"NGDP, Storage and Post, LCU, YTD","CN, NGDP, Storage and Post, LCU, YTD, bn",r,line
 "RGDP, LCU, % QoQ","CN, RGDP, LCU, % QoQ",p,line
 "RGDP, LCU, % YoY","CN, RGDP, LCU, % YoY",p,line
 "RGDP, % YoY, YTD, LCU","CN, RGDP, % YoY, YTD, LCU",p,line
 "RGDP, LCU","CN, RGDP, LCU, bn",r,line
 "RGDP, LCU, YTD","CN, RGDP, LCU, YTD, bn",r,line
 "RGDP, Other, LCU, % YoY","CN, RGDP, Other, LCU, % YoY",p,line
+"RGDP, Other, % YoY, YTD, LCU","CN, RGDP, Other, % YoY, YTD, LCU",p,line
 "RGDP, Storage and Post, LCU, % YoY","CN, RGDP, Storage and Post, LCU, % YoY",p,line
-"RGDP, index","CN, RGDP, index, bn",r,line
+"RGDP, Storage and Post, % YoY, YTD, LCU","CN, RGDP, Storage and Post, % YoY, YTD, LCU",p,line
 "NGDP, LCU, SA","CN, NGDP, LCU, SA, bn",r,line
 "NGDP, LCU, % QoQ","CN, NGDP, LCU, % QoQ",p,line
 "NGDP, USD","CN, NGDP, USD, bn",r,line
 "NGDP, USD, SA","CN, NGDP, USD, SA, bn",r,line
 "NGDP, LCU, 12M sum","CN, NGDP, LCU, 12M sum, bn",r,line
 "NGDP, USD, 12M sum","CN, NGDP, USD, 12M sum, bn",r,line
+"NGDP, % QoQ, SA","CN, NGDP, % QoQ, SA",p,line
+"NGDP, index","CN, NGDP, index, bn",r,line
+"RGDP, index","CN, RGDP, index, bn",r,line
+"GDP, Deflator","CN, GDP, Deflator, bn",r,line
+"GDP, Deflator, LCU, % YoY","CN, GDP, Deflator, LCU, % YoY",p,line
+"GDP, Deflator, % YoY, approx, LCU","CN, GDP, Deflator, % YoY, approx, LCU",p,line
 "RGDP, index, HP filter trend","CN, RGDP, index, HP filter trend, bn",r,line
 "RGDP, output gap, ppts","CN, RGDP, output gap, ppts, bn",r,line
 "NGDP, HP filter trend","CN, NGDP, HP filter trend, bn",r,line
@@ -37,6 +46,7 @@ name,display_name,data_type,chart_type
 "NGDP, By Activity, Primary, LCU","CN, NGDP, By Activity, Primary, LCU, bn",r,line
 "NGDP, By Activity, Primary, LCU, YTD","CN, NGDP, By Activity, Primary, LCU, YTD, bn",r,line
 "NGDP, By Activity, Primary, Primary, Agriculture, LCU","CN, NGDP, By Activity, Primary, Primary, Agriculture, LCU, bn",r,line
+"NGDP, By Activity, Primary, Primary, Agriculture, LCU, YTD","CN, NGDP, By Activity, Primary, Primary, Agriculture, LCU, YTD, bn",r,line
 "NGDP, By Activity, Secondary, LCU, % YoY","CN, NGDP, By Activity, Secondary, LCU, % YoY",p,line
 "NGDP, By Activity, Secondary, LCU","CN, NGDP, By Activity, Secondary, LCU, bn",r,line
 "NGDP, By Activity, Secondary, LCU, YTD","CN, NGDP, By Activity, Secondary, LCU, YTD, bn",r,line
@@ -56,6 +66,7 @@ name,display_name,data_type,chart_type
 "RGDP, By Activity, Primary, LCU","CN, RGDP, By Activity, Primary, LCU, bn",r,line
 "RGDP, By Activity, Primary, LCU, YTD","CN, RGDP, By Activity, Primary, LCU, YTD, bn",r,line
 "RGDP, By Activity, Primary, Primary, Agriculture, LCU, % YoY","CN, RGDP, By Activity, Primary, Primary, Agriculture, LCU, % YoY",p,line
+"RGDP, By Activity, Primary, Primary, Agriculture, % YoY, YTD, LCU","CN, RGDP, By Activity, Primary, Primary, Agriculture, % YoY, YTD, LCU",p,line
 "RGDP, By Activity, Secondary, LCU, % YoY","CN, RGDP, By Activity, Secondary, LCU, % YoY",p,line
 "RGDP, By Activity, Secondary, % YoY, YTD, LCU","CN, RGDP, By Activity, Secondary, % YoY, YTD, LCU",p,line
 "RGDP, By Activity, Secondary, LCU","CN, RGDP, By Activity, Secondary, LCU, bn",r,line

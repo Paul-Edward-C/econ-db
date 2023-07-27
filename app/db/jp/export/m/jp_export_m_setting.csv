@@ -2308,8 +2308,8 @@ name,display_name,data_type,chart_type
 "Exports, World, Electronic integrated circuits, SA, 3mma, index, Volume","JP, Exports, World, Electronic integrated circuits, SA, 3mma, index, Volume, bn",r,line
 "Exports, World, Semicon Machinery, SA, 3mma, index, Volume","JP, Exports, World, Semicon Machinery, SA, 3mma, index, Volume, bn",r,line
 "Exports, World, Total, SA, 3mma, index, Volume","JP, Exports, World, Total, SA, 3mma, index, Volume, bn",r,line
-"BOJ, Exports, index, SA, 3mma, Volume","JP, BOJ, Exports, index, SA, 3mma, Volume, bn",r,line
-"BOJ, Imports, index, SA, 3mma, Volume","JP, BOJ, Imports, index, SA, 3mma, Volume, bn",r,line
+"BOJ, Exports, Volume, index, SA, 3mma","JP, BOJ, Exports, Volume, index, SA, 3mma, bn",r,line
+"BOJ, Imports, Volume, index, SA, 3mma","JP, BOJ, Imports, Volume, index, SA, 3mma, bn",r,line
 "Real trade balance, Real trade, % of real GDP, 3mma, Value","JP, Real trade balance, Real trade, % of real GDP, 3mma, Value",p,line
 "BOJ, Exports, United States, index, SA, 3mma, Volume","JP, BOJ, Exports, United States, index, SA, 3mma, Volume, bn",r,line
 "BOJ, Exports, EU, index, SA, 3mma, Volume","JP, BOJ, Exports, EU, index, SA, 3mma, Volume, bn",r,line
@@ -3473,8 +3473,8 @@ name,display_name,data_type,chart_type
 "Exports, World, Electronic integrated circuits, Volume, index, % YoY, SA","JP, Exports, World, Electronic integrated circuits, Volume, index, % YoY, SA",p,line
 "Exports, World, Semicon Machinery, Volume, index, % YoY, SA","JP, Exports, World, Semicon Machinery, Volume, index, % YoY, SA",p,line
 "Exports, World, Total, Volume, index, % YoY, SA","JP, Exports, World, Total, Volume, index, % YoY, SA",p,line
-"BOJ, Exports, Volume, index, % YoY, SA","JP, BOJ, Exports, Volume, index, % YoY, SA",p,line
-"BOJ, Imports, Volume, index, % YoY, SA","JP, BOJ, Imports, Volume, index, % YoY, SA",p,line
+"BOJ, Exports, Volume, index, SA, % YoY","JP, BOJ, Exports, Volume, index, SA, % YoY",p,line
+"BOJ, Imports, Volume, index, SA, % YoY","JP, BOJ, Imports, Volume, index, SA, % YoY",p,line
 "Real trade balance, Real trade, % of real GDP, % YoY, Value","JP, Real trade balance, Real trade, % of real GDP, % YoY, Value",p,line
 "BOJ, Exports, United States, Volume, index, % YoY, SA","JP, BOJ, Exports, United States, Volume, index, % YoY, SA",p,line
 "BOJ, Exports, EU, Volume, index, % YoY, SA","JP, BOJ, Exports, EU, Volume, index, % YoY, SA",p,line
@@ -4630,8 +4630,8 @@ name,display_name,data_type,chart_type
 "Exports, World, Electronic integrated circuits, SA, % YoY, 3mma, index, Volume","JP, Exports, World, Electronic integrated circuits, SA, % YoY, 3mma, index, Volume",p,line
 "Exports, World, Semicon Machinery, SA, % YoY, 3mma, index, Volume","JP, Exports, World, Semicon Machinery, SA, % YoY, 3mma, index, Volume",p,line
 "Exports, World, Total, SA, % YoY, 3mma, index, Volume","JP, Exports, World, Total, SA, % YoY, 3mma, index, Volume",p,line
-"BOJ, Exports, index, SA, % YoY, 3mma, Volume","JP, BOJ, Exports, index, SA, % YoY, 3mma, Volume",p,line
-"BOJ, Imports, index, SA, % YoY, 3mma, Volume","JP, BOJ, Imports, index, SA, % YoY, 3mma, Volume",p,line
+"BOJ, Exports, Volume, index, SA, % YoY, 3mma","JP, BOJ, Exports, Volume, index, SA, % YoY, 3mma",p,line
+"BOJ, Imports, Volume, index, SA, % YoY, 3mma","JP, BOJ, Imports, Volume, index, SA, % YoY, 3mma",p,line
 "Real trade balance, Real trade, % of real GDP, % YoY, 3mma, Value","JP, Real trade balance, Real trade, % of real GDP, % YoY, 3mma, Value",p,line
 "BOJ, Exports, United States, index, SA, % YoY, 3mma, Volume","JP, BOJ, Exports, United States, index, SA, % YoY, 3mma, Volume",p,line
 "BOJ, Exports, EU, index, SA, % YoY, 3mma, Volume","JP, BOJ, Exports, EU, index, SA, % YoY, 3mma, Volume",p,line

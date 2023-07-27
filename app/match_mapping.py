@@ -21,10 +21,10 @@ def run_match_export_pipeline(country_list, freq_list, to_db, to_output, categor
 
     freq_list = freq_country_map.keys() if freq_list is None else freq_list
     for freq in freq_list:
-        country_list = (
+        current_country_list = (
             freq_country_map[freq] if country_list is None else [i for i in country_list if i in freq_country_map[freq]]
         )
-        for country in country_list:
+        for country in current_country_list:
             matching_num, data_num, mapping_length, matching_ratio = matcher.run_matching_pipeline(
                 country=country, freq=freq, to_db=to_db, to_output=to_output
             )
@@ -48,10 +48,10 @@ def run_match_gdp_pipeline(country_list, freq_list, to_db, to_output, category="
 
     freq_list = freq_country_map.keys() if freq_list is None else freq_list
     for freq in freq_list:
-        country_list = (
+        current_country_list = (
             freq_country_map[freq] if country_list is None else [i for i in country_list if i in freq_country_map[freq]]
         )
-        for country in country_list:
+        for country in current_country_list:
             matching_num, data_num, mapping_length, matching_ratio = matcher.run_matching_pipeline(
                 country=country, freq=freq, to_db=to_db, to_output=to_output
             )
