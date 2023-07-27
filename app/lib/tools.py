@@ -244,10 +244,8 @@ class Tool:
         self.data_setting = pd.read_csv(setting_path, index_col=[0])
 
         data = pd.read_csv(data_path, index_col=[0]).dropna(how="all", axis=0)
-        if "m.csv" in data_path:  # This is monthly data, still need to find a better solution
-            data.index = pd.to_datetime(data.index) - pd.offsets.MonthEnd(1)
-        else:
-            data.index = pd.to_datetime(data.index)
+        data.index = pd.to_datetime(data.index)
+        data = data.resample("M").last()
 
         self.data = data[matched_columns] if matched_columns is not None else data
         self.data.index = pd.to_datetime(self.data.index)
