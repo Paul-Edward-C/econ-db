@@ -661,514 +661,146 @@ name,display_name,data_type,chart_type
 "Imports, Oceania, Work day adjusted, Contribution to YoY chg, ppts, Value","KR, Imports, Oceania, Work day adjusted, Contribution to YoY chg, ppts, Value, bn",r,bar
 "Imports, all, Work day adjusted, Contribution to YoY chg, ppts, Value","KR, Imports, all, Work day adjusted, Contribution to YoY chg, ppts, Value, bn",r,bar
 "Imports, mineral fuels, Work day adjusted, Contribution to YoY chg, ppts, Value","KR, Imports, mineral fuels, Work day adjusted, Contribution to YoY chg, ppts, Value, bn",r,bar
-"Exports, China, Value, USD, SA","KR, Exports, China, Value, USD, SA, bn",r,line
 "Exports, US, Value, USD, SA","KR, Exports, US, Value, USD, SA, bn",r,line
 "Exports, EU, Value, USD, SA","KR, Exports, EU, Value, USD, SA, bn",r,line
-"Exports, Vietnam, Value, USD, SA","KR, Exports, Vietnam, Value, USD, SA, bn",r,line
-"Exports, Hong Kong, Value, USD, SA","KR, Exports, Hong Kong, Value, USD, SA, bn",r,line
-"Exports, Japan, Value, USD, SA","KR, Exports, Japan, Value, USD, SA, bn",r,line
-"Exports, Taiwan, Value, USD, SA","KR, Exports, Taiwan, Value, USD, SA, bn",r,line
-"Exports, India, Value, USD, SA","KR, Exports, India, Value, USD, SA, bn",r,line
-"Exports, Singapore, Value, USD, SA","KR, Exports, Singapore, Value, USD, SA, bn",r,line
-"Exports, Malaysia, Value, USD, SA","KR, Exports, Malaysia, Value, USD, SA, bn",r,line
 "Exports, Country, Other, Value, USD, SA","KR, Exports, Country, Other, Value, USD, SA, bn",r,line
 "Exports, ASEAN Three and India, Value, USD, SA","KR, Exports, ASEAN Three and India, Value, USD, SA, bn",r,line
 "Exports, North Asia, Value, USD, SA","KR, Exports, North Asia, Value, USD, SA, bn",r,line
 "Exports, DM, Value, USD, SA","KR, Exports, DM, Value, USD, SA, bn",r,line
 "Exports, China and Hong Kong, Value, USD, SA","KR, Exports, China and Hong Kong, Value, USD, SA, bn",r,line
-"Imports, China, Value, USD, SA","KR, Imports, China, Value, USD, SA, bn",r,line
-"Imports, US, Value, USD, SA","KR, Imports, US, Value, USD, SA, bn",r,line
-"Imports, EU, Value, USD, SA","KR, Imports, EU, Value, USD, SA, bn",r,line
-"Imports, Japan, Value, USD, SA","KR, Imports, Japan, Value, USD, SA, bn",r,line
-"Imports, Vietnam, Value, USD, SA","KR, Imports, Vietnam, Value, USD, SA, bn",r,line
-"Imports, Australia, Value, USD, SA","KR, Imports, Australia, Value, USD, SA, bn",r,line
-"Imports, Taiwan, Value, USD, SA","KR, Imports, Taiwan, Value, USD, SA, bn",r,line
-"Imports, Saudi Arabia, Value, USD, SA","KR, Imports, Saudi Arabia, Value, USD, SA, bn",r,line
-"Imports, Russia, Value, USD, SA","KR, Imports, Russia, Value, USD, SA, bn",r,line
-"Imports, Malaysia, Value, USD, SA","KR, Imports, Malaysia, Value, USD, SA, bn",r,line
-"Imports, Country, Other, Value, USD, SA","KR, Imports, Country, Other, Value, USD, SA, bn",r,line
-"Imports, Commodity producers, Value, USD, SA","KR, Imports, Commodity producers, Value, USD, SA, bn",r,line
-"Imports, North Asia, Value, USD, SA","KR, Imports, North Asia, Value, USD, SA, bn",r,line
 "Exports, Semiconductors, Value, USD, SA","KR, Exports, Semiconductors, Value, USD, SA, bn",r,line
 "Exports, Steel products, Value, USD, SA","KR, Exports, Steel products, Value, USD, SA, bn",r,line
 "Exports, Autos, Value, USD, SA","KR, Exports, Autos, Value, USD, SA, bn",r,line
 "Exports, Petroleum products, Value, USD, SA","KR, Exports, Petroleum products, Value, USD, SA, bn",r,line
-"Exports, Wireless communication equipment, Value, USD, SA","KR, Exports, Wireless communication equipment, Value, USD, SA, bn",r,line
 "Exports, Ships, Value, USD, SA","KR, Exports, Ships, Value, USD, SA, bn",r,line
-"Exports, Automobile parts, Value, USD, SA","KR, Exports, Automobile parts, Value, USD, SA, bn",r,line
-"Exports, Computer peripherals, Value, USD, SA","KR, Exports, Computer peripherals, Value, USD, SA, bn",r,line
-"Exports, Precision equipment, Value, USD, SA","KR, Exports, Precision equipment, Value, USD, SA, bn",r,line
-"Exports, Home appliances, Value, USD, SA","KR, Exports, Home appliances, Value, USD, SA, bn",r,line
 "Exports, All, Value, USD, SA","KR, Exports, All, Value, USD, SA, bn",r,line
-"Exports, Product, Other, Value, USD, SA","KR, Exports, Product, Other, Value, USD, SA, bn",r,line
 "Exports, All ex ships, Value, USD, SA","KR, Exports, All ex ships, Value, USD, SA, bn",r,line
 "Exports, Tech, Value, USD, SA","KR, Exports, Tech, Value, USD, SA, bn",r,line
 "Exports, Auto and parts, Value, USD, SA","KR, Exports, Auto and parts, Value, USD, SA, bn",r,line
 "Exports, Other products inc Home appliances, Value, USD, SA","KR, Exports, Other products inc Home appliances, Value, USD, SA, bn",r,line
-"Imports, Semiconductors, Value, USD, SA","KR, Imports, Semiconductors, Value, USD, SA, bn",r,line
-"Imports, Crude oil, Value, USD, SA","KR, Imports, Crude oil, Value, USD, SA, bn",r,line
-"Imports, Machinery, Value, USD, SA","KR, Imports, Machinery, Value, USD, SA, bn",r,line
-"Imports, Gas, Value, USD, SA","KR, Imports, Gas, Value, USD, SA, bn",r,line
 "Imports, Semiconductor mfg equipment, Value, USD, SA","KR, Imports, Semiconductor mfg equipment, Value, USD, SA, bn",r,line
-"Imports, Precision equipment, Value, USD, SA","KR, Imports, Precision equipment, Value, USD, SA, bn",r,line
-"Imports, Petroleum products, Value, USD, SA","KR, Imports, Petroleum products, Value, USD, SA, bn",r,line
-"Imports, Wireless communication equipment, Value, USD, SA","KR, Imports, Wireless communication equipment, Value, USD, SA, bn",r,line
-"Imports, Autos, Value, USD, SA","KR, Imports, Autos, Value, USD, SA, bn",r,line
-"Imports, Coal, Value, USD, SA","KR, Imports, Coal, Value, USD, SA, bn",r,line
 "Imports, All, Value, USD, SA","KR, Imports, All, Value, USD, SA, bn",r,line
-"Imports, Product, Other, Value, USD, SA","KR, Imports, Product, Other, Value, USD, SA, bn",r,line
 "Imports, Energy, Value, USD, SA","KR, Imports, Energy, Value, USD, SA, bn",r,line
 "Exports, ASEAN, Value, USD, SA","KR, Exports, ASEAN, Value, USD, SA, bn",r,line
-"Exports, Africa, Value, USD, SA","KR, Exports, Africa, Value, USD, SA, bn",r,line
-"Exports, Asia, Value, USD, SA","KR, Exports, Asia, Value, USD, SA, bn",r,line
-"Exports, Europe, Value, USD, SA","KR, Exports, Europe, Value, USD, SA, bn",r,line
-"Exports, Latin America, Value, USD, SA","KR, Exports, Latin America, Value, USD, SA, bn",r,line
-"Exports, Middle East, Value, USD, SA","KR, Exports, Middle East, Value, USD, SA, bn",r,line
-"Exports, Mobile phones, Value, USD, SA","KR, Exports, Mobile phones, Value, USD, SA, bn",r,line
-"Exports, North America, Value, USD, SA","KR, Exports, North America, Value, USD, SA, bn",r,line
-"Exports, Oceania, Value, USD, SA","KR, Exports, Oceania, Value, USD, SA, bn",r,line
-"Exports, Semiconductor mfg equipment, Value, USD, SA","KR, Exports, Semiconductor mfg equipment, Value, USD, SA, bn",r,line
-"Exports, all, Value, USD, SA","KR, Exports, all, Value, USD, SA, bn",r,line
-"Exports, mineral fuels, Value, USD, SA","KR, Exports, mineral fuels, Value, USD, SA, bn",r,line
-"Imports, ASEAN, Value, USD, SA","KR, Imports, ASEAN, Value, USD, SA, bn",r,line
-"Imports, Africa, Value, USD, SA","KR, Imports, Africa, Value, USD, SA, bn",r,line
-"Imports, Asia, Value, USD, SA","KR, Imports, Asia, Value, USD, SA, bn",r,line
-"Imports, Europe, Value, USD, SA","KR, Imports, Europe, Value, USD, SA, bn",r,line
-"Imports, Hong Kong, Value, USD, SA","KR, Imports, Hong Kong, Value, USD, SA, bn",r,line
-"Imports, Latin America, Value, USD, SA","KR, Imports, Latin America, Value, USD, SA, bn",r,line
-"Imports, Middle East, Value, USD, SA","KR, Imports, Middle East, Value, USD, SA, bn",r,line
-"Imports, Mobile phones, Value, USD, SA","KR, Imports, Mobile phones, Value, USD, SA, bn",r,line
-"Imports, North America, Value, USD, SA","KR, Imports, North America, Value, USD, SA, bn",r,line
-"Imports, Oceania, Value, USD, SA","KR, Imports, Oceania, Value, USD, SA, bn",r,line
-"Imports, all, Value, USD, SA","KR, Imports, all, Value, USD, SA, bn",r,line
-"Imports, mineral fuels, Value, USD, SA","KR, Imports, mineral fuels, Value, USD, SA, bn",r,line
 "Exports, EM, Value, USD, SA","KR, Exports, EM, Value, USD, SA, bn",r,line
-"Exports, China, Work day adjusted, Value, USD, SA","KR, Exports, China, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, US, Work day adjusted, Value, USD, SA","KR, Exports, US, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, EU, Work day adjusted, Value, USD, SA","KR, Exports, EU, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Vietnam, Work day adjusted, Value, USD, SA","KR, Exports, Vietnam, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Hong Kong, Work day adjusted, Value, USD, SA","KR, Exports, Hong Kong, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Japan, Work day adjusted, Value, USD, SA","KR, Exports, Japan, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Taiwan, Work day adjusted, Value, USD, SA","KR, Exports, Taiwan, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, India, Work day adjusted, Value, USD, SA","KR, Exports, India, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Singapore, Work day adjusted, Value, USD, SA","KR, Exports, Singapore, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Malaysia, Work day adjusted, Value, USD, SA","KR, Exports, Malaysia, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, Country, Other, Work day adjusted, Value, USD, SA","KR, Exports, Country, Other, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, ASEAN Three and India, Work day adjusted, Value, USD, SA","KR, Exports, ASEAN Three and India, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, North Asia, Work day adjusted, Value, USD, SA","KR, Exports, North Asia, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, DM, Work day adjusted, Value, USD, SA","KR, Exports, DM, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, China and Hong Kong, Work day adjusted, Value, USD, SA","KR, Exports, China and Hong Kong, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, China, Work day adjusted, Value, USD, SA","KR, Imports, China, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, US, Work day adjusted, Value, USD, SA","KR, Imports, US, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, EU, Work day adjusted, Value, USD, SA","KR, Imports, EU, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Japan, Work day adjusted, Value, USD, SA","KR, Imports, Japan, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Vietnam, Work day adjusted, Value, USD, SA","KR, Imports, Vietnam, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Australia, Work day adjusted, Value, USD, SA","KR, Imports, Australia, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Taiwan, Work day adjusted, Value, USD, SA","KR, Imports, Taiwan, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Saudi Arabia, Work day adjusted, Value, USD, SA","KR, Imports, Saudi Arabia, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Russia, Work day adjusted, Value, USD, SA","KR, Imports, Russia, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Malaysia, Work day adjusted, Value, USD, SA","KR, Imports, Malaysia, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Country, Other, Work day adjusted, Value, USD, SA","KR, Imports, Country, Other, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Commodity producers, Work day adjusted, Value, USD, SA","KR, Imports, Commodity producers, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, North Asia, Work day adjusted, Value, USD, SA","KR, Imports, North Asia, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, Semiconductors, Work day adjusted, Value, USD, SA","KR, Exports, Semiconductors, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, Steel products, Work day adjusted, Value, USD, SA","KR, Exports, Steel products, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, Autos, Work day adjusted, Value, USD, SA","KR, Exports, Autos, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, Petroleum products, Work day adjusted, Value, USD, SA","KR, Exports, Petroleum products, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Wireless communication equipment, Work day adjusted, Value, USD, SA","KR, Exports, Wireless communication equipment, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, Ships, Work day adjusted, Value, USD, SA","KR, Exports, Ships, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Automobile parts, Work day adjusted, Value, USD, SA","KR, Exports, Automobile parts, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Computer peripherals, Work day adjusted, Value, USD, SA","KR, Exports, Computer peripherals, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Precision equipment, Work day adjusted, Value, USD, SA","KR, Exports, Precision equipment, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Home appliances, Work day adjusted, Value, USD, SA","KR, Exports, Home appliances, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, All, Work day adjusted, Value, USD, SA","KR, Exports, All, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Product, Other, Work day adjusted, Value, USD, SA","KR, Exports, Product, Other, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, All ex ships, Work day adjusted, Value, USD, SA","KR, Exports, All ex ships, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, Tech, Work day adjusted, Value, USD, SA","KR, Exports, Tech, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, Auto and parts, Work day adjusted, Value, USD, SA","KR, Exports, Auto and parts, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, Other products inc Home appliances, Work day adjusted, Value, USD, SA","KR, Exports, Other products inc Home appliances, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Semiconductors, Work day adjusted, Value, USD, SA","KR, Imports, Semiconductors, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Crude oil, Work day adjusted, Value, USD, SA","KR, Imports, Crude oil, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Machinery, Work day adjusted, Value, USD, SA","KR, Imports, Machinery, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Gas, Work day adjusted, Value, USD, SA","KR, Imports, Gas, Work day adjusted, Value, USD, SA, bn",r,line
 "Imports, Semiconductor mfg equipment, Work day adjusted, Value, USD, SA","KR, Imports, Semiconductor mfg equipment, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Precision equipment, Work day adjusted, Value, USD, SA","KR, Imports, Precision equipment, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Petroleum products, Work day adjusted, Value, USD, SA","KR, Imports, Petroleum products, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Wireless communication equipment, Work day adjusted, Value, USD, SA","KR, Imports, Wireless communication equipment, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Autos, Work day adjusted, Value, USD, SA","KR, Imports, Autos, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Coal, Work day adjusted, Value, USD, SA","KR, Imports, Coal, Work day adjusted, Value, USD, SA, bn",r,line
 "Imports, All, Work day adjusted, Value, USD, SA","KR, Imports, All, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Product, Other, Work day adjusted, Value, USD, SA","KR, Imports, Product, Other, Work day adjusted, Value, USD, SA, bn",r,line
 "Imports, Energy, Work day adjusted, Value, USD, SA","KR, Imports, Energy, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, ASEAN, Work day adjusted, Value, USD, SA","KR, Exports, ASEAN, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Africa, Work day adjusted, Value, USD, SA","KR, Exports, Africa, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Asia, Work day adjusted, Value, USD, SA","KR, Exports, Asia, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Europe, Work day adjusted, Value, USD, SA","KR, Exports, Europe, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Latin America, Work day adjusted, Value, USD, SA","KR, Exports, Latin America, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Middle East, Work day adjusted, Value, USD, SA","KR, Exports, Middle East, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Mobile phones, Work day adjusted, Value, USD, SA","KR, Exports, Mobile phones, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, North America, Work day adjusted, Value, USD, SA","KR, Exports, North America, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Oceania, Work day adjusted, Value, USD, SA","KR, Exports, Oceania, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, Semiconductor mfg equipment, Work day adjusted, Value, USD, SA","KR, Exports, Semiconductor mfg equipment, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, all, Work day adjusted, Value, USD, SA","KR, Exports, all, Work day adjusted, Value, USD, SA, bn",r,line
-"Exports, mineral fuels, Work day adjusted, Value, USD, SA","KR, Exports, mineral fuels, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, ASEAN, Work day adjusted, Value, USD, SA","KR, Imports, ASEAN, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Africa, Work day adjusted, Value, USD, SA","KR, Imports, Africa, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Asia, Work day adjusted, Value, USD, SA","KR, Imports, Asia, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Europe, Work day adjusted, Value, USD, SA","KR, Imports, Europe, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Hong Kong, Work day adjusted, Value, USD, SA","KR, Imports, Hong Kong, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Latin America, Work day adjusted, Value, USD, SA","KR, Imports, Latin America, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Middle East, Work day adjusted, Value, USD, SA","KR, Imports, Middle East, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Mobile phones, Work day adjusted, Value, USD, SA","KR, Imports, Mobile phones, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, North America, Work day adjusted, Value, USD, SA","KR, Imports, North America, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, Oceania, Work day adjusted, Value, USD, SA","KR, Imports, Oceania, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, all, Work day adjusted, Value, USD, SA","KR, Imports, all, Work day adjusted, Value, USD, SA, bn",r,line
-"Imports, mineral fuels, Work day adjusted, Value, USD, SA","KR, Imports, mineral fuels, Work day adjusted, Value, USD, SA, bn",r,line
 "Exports, EM, Work day adjusted, Value, USD, SA","KR, Exports, EM, Work day adjusted, Value, USD, SA, bn",r,line
 "Imports, All, Value, LCU, SA","KR, Imports, All, Value, LCU, SA, bn",r,line
 "Exports, All, Value, LCU, SA","KR, Exports, All, Value, LCU, SA, bn",r,line
-"Exports, China, Value, USD, % MoM, SA","KR, Exports, China, Value, USD, % MoM, SA",p,line
 "Exports, US, Value, USD, % MoM, SA","KR, Exports, US, Value, USD, % MoM, SA",p,line
 "Exports, EU, Value, USD, % MoM, SA","KR, Exports, EU, Value, USD, % MoM, SA",p,line
-"Exports, Vietnam, Value, USD, % MoM, SA","KR, Exports, Vietnam, Value, USD, % MoM, SA",p,line
-"Exports, Hong Kong, Value, USD, % MoM, SA","KR, Exports, Hong Kong, Value, USD, % MoM, SA",p,line
-"Exports, Japan, Value, USD, % MoM, SA","KR, Exports, Japan, Value, USD, % MoM, SA",p,line
-"Exports, Taiwan, Value, USD, % MoM, SA","KR, Exports, Taiwan, Value, USD, % MoM, SA",p,line
-"Exports, India, Value, USD, % MoM, SA","KR, Exports, India, Value, USD, % MoM, SA",p,line
-"Exports, Singapore, Value, USD, % MoM, SA","KR, Exports, Singapore, Value, USD, % MoM, SA",p,line
-"Exports, Malaysia, Value, USD, % MoM, SA","KR, Exports, Malaysia, Value, USD, % MoM, SA",p,line
 "Exports, Country, Other, Value, USD, % MoM, SA","KR, Exports, Country, Other, Value, USD, % MoM, SA",p,line
 "Exports, ASEAN Three and India, Value, USD, % MoM, SA","KR, Exports, ASEAN Three and India, Value, USD, % MoM, SA",p,line
 "Exports, North Asia, Value, USD, % MoM, SA","KR, Exports, North Asia, Value, USD, % MoM, SA",p,line
 "Exports, DM, Value, USD, % MoM, SA","KR, Exports, DM, Value, USD, % MoM, SA",p,line
 "Exports, China and Hong Kong, Value, USD, % MoM, SA","KR, Exports, China and Hong Kong, Value, USD, % MoM, SA",p,line
-"Imports, China, Value, USD, % MoM, SA","KR, Imports, China, Value, USD, % MoM, SA",p,line
-"Imports, US, Value, USD, % MoM, SA","KR, Imports, US, Value, USD, % MoM, SA",p,line
-"Imports, EU, Value, USD, % MoM, SA","KR, Imports, EU, Value, USD, % MoM, SA",p,line
-"Imports, Japan, Value, USD, % MoM, SA","KR, Imports, Japan, Value, USD, % MoM, SA",p,line
-"Imports, Vietnam, Value, USD, % MoM, SA","KR, Imports, Vietnam, Value, USD, % MoM, SA",p,line
-"Imports, Australia, Value, USD, % MoM, SA","KR, Imports, Australia, Value, USD, % MoM, SA",p,line
-"Imports, Taiwan, Value, USD, % MoM, SA","KR, Imports, Taiwan, Value, USD, % MoM, SA",p,line
-"Imports, Saudi Arabia, Value, USD, % MoM, SA","KR, Imports, Saudi Arabia, Value, USD, % MoM, SA",p,line
-"Imports, Russia, Value, USD, % MoM, SA","KR, Imports, Russia, Value, USD, % MoM, SA",p,line
-"Imports, Malaysia, Value, USD, % MoM, SA","KR, Imports, Malaysia, Value, USD, % MoM, SA",p,line
-"Imports, Country, Other, Value, USD, % MoM, SA","KR, Imports, Country, Other, Value, USD, % MoM, SA",p,line
-"Imports, Commodity producers, Value, USD, % MoM, SA","KR, Imports, Commodity producers, Value, USD, % MoM, SA",p,line
-"Imports, North Asia, Value, USD, % MoM, SA","KR, Imports, North Asia, Value, USD, % MoM, SA",p,line
 "Exports, Semiconductors, Value, USD, % MoM, SA","KR, Exports, Semiconductors, Value, USD, % MoM, SA",p,line
 "Exports, Steel products, Value, USD, % MoM, SA","KR, Exports, Steel products, Value, USD, % MoM, SA",p,line
 "Exports, Autos, Value, USD, % MoM, SA","KR, Exports, Autos, Value, USD, % MoM, SA",p,line
 "Exports, Petroleum products, Value, USD, % MoM, SA","KR, Exports, Petroleum products, Value, USD, % MoM, SA",p,line
-"Exports, Wireless communication equipment, Value, USD, % MoM, SA","KR, Exports, Wireless communication equipment, Value, USD, % MoM, SA",p,line
 "Exports, Ships, Value, USD, % MoM, SA","KR, Exports, Ships, Value, USD, % MoM, SA",p,line
-"Exports, Automobile parts, Value, USD, % MoM, SA","KR, Exports, Automobile parts, Value, USD, % MoM, SA",p,line
-"Exports, Computer peripherals, Value, USD, % MoM, SA","KR, Exports, Computer peripherals, Value, USD, % MoM, SA",p,line
-"Exports, Precision equipment, Value, USD, % MoM, SA","KR, Exports, Precision equipment, Value, USD, % MoM, SA",p,line
-"Exports, Home appliances, Value, USD, % MoM, SA","KR, Exports, Home appliances, Value, USD, % MoM, SA",p,line
 "Exports, All, Value, USD, % MoM, SA","KR, Exports, All, Value, USD, % MoM, SA",p,line
-"Exports, Product, Other, Value, USD, % MoM, SA","KR, Exports, Product, Other, Value, USD, % MoM, SA",p,line
 "Exports, All ex ships, Value, USD, % MoM, SA","KR, Exports, All ex ships, Value, USD, % MoM, SA",p,line
 "Exports, Tech, Value, USD, % MoM, SA","KR, Exports, Tech, Value, USD, % MoM, SA",p,line
 "Exports, Auto and parts, Value, USD, % MoM, SA","KR, Exports, Auto and parts, Value, USD, % MoM, SA",p,line
 "Exports, Other products inc Home appliances, Value, USD, % MoM, SA","KR, Exports, Other products inc Home appliances, Value, USD, % MoM, SA",p,line
-"Imports, Semiconductors, Value, USD, % MoM, SA","KR, Imports, Semiconductors, Value, USD, % MoM, SA",p,line
-"Imports, Crude oil, Value, USD, % MoM, SA","KR, Imports, Crude oil, Value, USD, % MoM, SA",p,line
-"Imports, Machinery, Value, USD, % MoM, SA","KR, Imports, Machinery, Value, USD, % MoM, SA",p,line
-"Imports, Gas, Value, USD, % MoM, SA","KR, Imports, Gas, Value, USD, % MoM, SA",p,line
 "Imports, Semiconductor mfg equipment, Value, USD, % MoM, SA","KR, Imports, Semiconductor mfg equipment, Value, USD, % MoM, SA",p,line
-"Imports, Precision equipment, Value, USD, % MoM, SA","KR, Imports, Precision equipment, Value, USD, % MoM, SA",p,line
-"Imports, Petroleum products, Value, USD, % MoM, SA","KR, Imports, Petroleum products, Value, USD, % MoM, SA",p,line
-"Imports, Wireless communication equipment, Value, USD, % MoM, SA","KR, Imports, Wireless communication equipment, Value, USD, % MoM, SA",p,line
-"Imports, Autos, Value, USD, % MoM, SA","KR, Imports, Autos, Value, USD, % MoM, SA",p,line
-"Imports, Coal, Value, USD, % MoM, SA","KR, Imports, Coal, Value, USD, % MoM, SA",p,line
 "Imports, All, Value, USD, % MoM, SA","KR, Imports, All, Value, USD, % MoM, SA",p,line
-"Imports, Product, Other, Value, USD, % MoM, SA","KR, Imports, Product, Other, Value, USD, % MoM, SA",p,line
 "Imports, Energy, Value, USD, % MoM, SA","KR, Imports, Energy, Value, USD, % MoM, SA",p,line
 "Exports, ASEAN, Value, USD, % MoM, SA","KR, Exports, ASEAN, Value, USD, % MoM, SA",p,line
-"Exports, Africa, Value, USD, % MoM, SA","KR, Exports, Africa, Value, USD, % MoM, SA",p,line
-"Exports, Asia, Value, USD, % MoM, SA","KR, Exports, Asia, Value, USD, % MoM, SA",p,line
-"Exports, Europe, Value, USD, % MoM, SA","KR, Exports, Europe, Value, USD, % MoM, SA",p,line
-"Exports, Latin America, Value, USD, % MoM, SA","KR, Exports, Latin America, Value, USD, % MoM, SA",p,line
-"Exports, Middle East, Value, USD, % MoM, SA","KR, Exports, Middle East, Value, USD, % MoM, SA",p,line
-"Exports, Mobile phones, Value, USD, % MoM, SA","KR, Exports, Mobile phones, Value, USD, % MoM, SA",p,line
-"Exports, North America, Value, USD, % MoM, SA","KR, Exports, North America, Value, USD, % MoM, SA",p,line
-"Exports, Oceania, Value, USD, % MoM, SA","KR, Exports, Oceania, Value, USD, % MoM, SA",p,line
-"Exports, Semiconductor mfg equipment, Value, USD, % MoM, SA","KR, Exports, Semiconductor mfg equipment, Value, USD, % MoM, SA",p,line
-"Exports, all, Value, USD, % MoM, SA","KR, Exports, all, Value, USD, % MoM, SA",p,line
-"Exports, mineral fuels, Value, USD, % MoM, SA","KR, Exports, mineral fuels, Value, USD, % MoM, SA",p,line
-"Imports, ASEAN, Value, USD, % MoM, SA","KR, Imports, ASEAN, Value, USD, % MoM, SA",p,line
-"Imports, Africa, Value, USD, % MoM, SA","KR, Imports, Africa, Value, USD, % MoM, SA",p,line
-"Imports, Asia, Value, USD, % MoM, SA","KR, Imports, Asia, Value, USD, % MoM, SA",p,line
-"Imports, Europe, Value, USD, % MoM, SA","KR, Imports, Europe, Value, USD, % MoM, SA",p,line
-"Imports, Hong Kong, Value, USD, % MoM, SA","KR, Imports, Hong Kong, Value, USD, % MoM, SA",p,line
-"Imports, Latin America, Value, USD, % MoM, SA","KR, Imports, Latin America, Value, USD, % MoM, SA",p,line
-"Imports, Middle East, Value, USD, % MoM, SA","KR, Imports, Middle East, Value, USD, % MoM, SA",p,line
-"Imports, Mobile phones, Value, USD, % MoM, SA","KR, Imports, Mobile phones, Value, USD, % MoM, SA",p,line
-"Imports, North America, Value, USD, % MoM, SA","KR, Imports, North America, Value, USD, % MoM, SA",p,line
-"Imports, Oceania, Value, USD, % MoM, SA","KR, Imports, Oceania, Value, USD, % MoM, SA",p,line
-"Imports, all, Value, USD, % MoM, SA","KR, Imports, all, Value, USD, % MoM, SA",p,line
-"Imports, mineral fuels, Value, USD, % MoM, SA","KR, Imports, mineral fuels, Value, USD, % MoM, SA",p,line
 "Exports, EM, Value, USD, % MoM, SA","KR, Exports, EM, Value, USD, % MoM, SA",p,line
-"Exports, China, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, China, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, US, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, US, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, EU, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, EU, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Vietnam, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Vietnam, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Hong Kong, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Hong Kong, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Japan, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Japan, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Taiwan, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Taiwan, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, India, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, India, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Singapore, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Singapore, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Malaysia, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Malaysia, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, Country, Other, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Country, Other, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, ASEAN Three and India, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, ASEAN Three and India, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, North Asia, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, North Asia, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, DM, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, DM, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, China and Hong Kong, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, China and Hong Kong, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, China, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, China, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, US, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, US, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, EU, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, EU, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Japan, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Japan, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Vietnam, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Vietnam, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Australia, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Australia, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Taiwan, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Taiwan, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Saudi Arabia, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Saudi Arabia, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Russia, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Russia, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Malaysia, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Malaysia, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Country, Other, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Country, Other, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Commodity producers, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Commodity producers, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, North Asia, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, North Asia, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, Semiconductors, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Semiconductors, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, Steel products, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Steel products, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, Autos, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Autos, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, Petroleum products, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Petroleum products, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Wireless communication equipment, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Wireless communication equipment, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, Ships, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Ships, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Automobile parts, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Automobile parts, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Computer peripherals, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Computer peripherals, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Precision equipment, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Precision equipment, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Home appliances, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Home appliances, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, All, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, All, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Product, Other, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Product, Other, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, All ex ships, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, All ex ships, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, Tech, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Tech, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, Auto and parts, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Auto and parts, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, Other products inc Home appliances, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Other products inc Home appliances, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Semiconductors, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Semiconductors, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Crude oil, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Crude oil, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Machinery, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Machinery, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Gas, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Gas, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Imports, Semiconductor mfg equipment, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Semiconductor mfg equipment, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Precision equipment, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Precision equipment, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Petroleum products, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Petroleum products, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Wireless communication equipment, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Wireless communication equipment, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Autos, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Autos, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Coal, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Coal, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Imports, All, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, All, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Product, Other, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Product, Other, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Imports, Energy, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Energy, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, ASEAN, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, ASEAN, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Africa, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Africa, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Asia, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Asia, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Europe, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Europe, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Latin America, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Latin America, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Middle East, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Middle East, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Mobile phones, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Mobile phones, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, North America, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, North America, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Oceania, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Oceania, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, Semiconductor mfg equipment, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, Semiconductor mfg equipment, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, all, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, all, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Exports, mineral fuels, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, mineral fuels, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, ASEAN, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, ASEAN, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Africa, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Africa, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Asia, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Asia, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Europe, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Europe, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Hong Kong, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Hong Kong, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Latin America, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Latin America, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Middle East, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Middle East, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Mobile phones, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Mobile phones, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, North America, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, North America, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, Oceania, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, Oceania, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, all, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, all, Work day adjusted, Value, USD, % MoM, SA",p,line
-"Imports, mineral fuels, Work day adjusted, Value, USD, % MoM, SA","KR, Imports, mineral fuels, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Exports, EM, Work day adjusted, Value, USD, % MoM, SA","KR, Exports, EM, Work day adjusted, Value, USD, % MoM, SA",p,line
 "Imports, All, Value, LCU, % MoM, SA","KR, Imports, All, Value, LCU, % MoM, SA",p,line
 "Exports, All, Value, LCU, % MoM, SA","KR, Exports, All, Value, LCU, % MoM, SA",p,line
-"Exports, China, USD, % MoM, SA, 3mma, Value","KR, Exports, China, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, US, USD, % MoM, SA, 3mma, Value","KR, Exports, US, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, EU, USD, % MoM, SA, 3mma, Value","KR, Exports, EU, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Vietnam, USD, % MoM, SA, 3mma, Value","KR, Exports, Vietnam, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Hong Kong, USD, % MoM, SA, 3mma, Value","KR, Exports, Hong Kong, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Japan, USD, % MoM, SA, 3mma, Value","KR, Exports, Japan, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Taiwan, USD, % MoM, SA, 3mma, Value","KR, Exports, Taiwan, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, India, USD, % MoM, SA, 3mma, Value","KR, Exports, India, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Singapore, USD, % MoM, SA, 3mma, Value","KR, Exports, Singapore, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Malaysia, USD, % MoM, SA, 3mma, Value","KR, Exports, Malaysia, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Country, Other, USD, % MoM, SA, 3mma, Value","KR, Exports, Country, Other, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, ASEAN Three and India, USD, % MoM, SA, 3mma, Value","KR, Exports, ASEAN Three and India, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, North Asia, USD, % MoM, SA, 3mma, Value","KR, Exports, North Asia, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, DM, USD, % MoM, SA, 3mma, Value","KR, Exports, DM, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, China and Hong Kong, USD, % MoM, SA, 3mma, Value","KR, Exports, China and Hong Kong, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, China, USD, % MoM, SA, 3mma, Value","KR, Imports, China, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, US, USD, % MoM, SA, 3mma, Value","KR, Imports, US, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, EU, USD, % MoM, SA, 3mma, Value","KR, Imports, EU, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Japan, USD, % MoM, SA, 3mma, Value","KR, Imports, Japan, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Vietnam, USD, % MoM, SA, 3mma, Value","KR, Imports, Vietnam, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Australia, USD, % MoM, SA, 3mma, Value","KR, Imports, Australia, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Taiwan, USD, % MoM, SA, 3mma, Value","KR, Imports, Taiwan, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Saudi Arabia, USD, % MoM, SA, 3mma, Value","KR, Imports, Saudi Arabia, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Russia, USD, % MoM, SA, 3mma, Value","KR, Imports, Russia, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Malaysia, USD, % MoM, SA, 3mma, Value","KR, Imports, Malaysia, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Country, Other, USD, % MoM, SA, 3mma, Value","KR, Imports, Country, Other, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Commodity producers, USD, % MoM, SA, 3mma, Value","KR, Imports, Commodity producers, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, North Asia, USD, % MoM, SA, 3mma, Value","KR, Imports, North Asia, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Semiconductors, USD, % MoM, SA, 3mma, Value","KR, Exports, Semiconductors, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Steel products, USD, % MoM, SA, 3mma, Value","KR, Exports, Steel products, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Autos, USD, % MoM, SA, 3mma, Value","KR, Exports, Autos, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Petroleum products, USD, % MoM, SA, 3mma, Value","KR, Exports, Petroleum products, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Wireless communication equipment, USD, % MoM, SA, 3mma, Value","KR, Exports, Wireless communication equipment, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Ships, USD, % MoM, SA, 3mma, Value","KR, Exports, Ships, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Automobile parts, USD, % MoM, SA, 3mma, Value","KR, Exports, Automobile parts, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Computer peripherals, USD, % MoM, SA, 3mma, Value","KR, Exports, Computer peripherals, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Precision equipment, USD, % MoM, SA, 3mma, Value","KR, Exports, Precision equipment, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Home appliances, USD, % MoM, SA, 3mma, Value","KR, Exports, Home appliances, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, All, USD, % MoM, SA, 3mma, Value","KR, Exports, All, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Product, Other, USD, % MoM, SA, 3mma, Value","KR, Exports, Product, Other, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, All ex ships, USD, % MoM, SA, 3mma, Value","KR, Exports, All ex ships, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Tech, USD, % MoM, SA, 3mma, Value","KR, Exports, Tech, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Auto and parts, USD, % MoM, SA, 3mma, Value","KR, Exports, Auto and parts, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Other products inc Home appliances, USD, % MoM, SA, 3mma, Value","KR, Exports, Other products inc Home appliances, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Semiconductors, USD, % MoM, SA, 3mma, Value","KR, Imports, Semiconductors, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Crude oil, USD, % MoM, SA, 3mma, Value","KR, Imports, Crude oil, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Machinery, USD, % MoM, SA, 3mma, Value","KR, Imports, Machinery, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Gas, USD, % MoM, SA, 3mma, Value","KR, Imports, Gas, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Semiconductor mfg equipment, USD, % MoM, SA, 3mma, Value","KR, Imports, Semiconductor mfg equipment, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Precision equipment, USD, % MoM, SA, 3mma, Value","KR, Imports, Precision equipment, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Petroleum products, USD, % MoM, SA, 3mma, Value","KR, Imports, Petroleum products, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Wireless communication equipment, USD, % MoM, SA, 3mma, Value","KR, Imports, Wireless communication equipment, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Autos, USD, % MoM, SA, 3mma, Value","KR, Imports, Autos, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Coal, USD, % MoM, SA, 3mma, Value","KR, Imports, Coal, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, All, USD, % MoM, SA, 3mma, Value","KR, Imports, All, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Product, Other, USD, % MoM, SA, 3mma, Value","KR, Imports, Product, Other, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Energy, USD, % MoM, SA, 3mma, Value","KR, Imports, Energy, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, ASEAN, USD, % MoM, SA, 3mma, Value","KR, Exports, ASEAN, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Africa, USD, % MoM, SA, 3mma, Value","KR, Exports, Africa, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Asia, USD, % MoM, SA, 3mma, Value","KR, Exports, Asia, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Europe, USD, % MoM, SA, 3mma, Value","KR, Exports, Europe, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Latin America, USD, % MoM, SA, 3mma, Value","KR, Exports, Latin America, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Middle East, USD, % MoM, SA, 3mma, Value","KR, Exports, Middle East, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Mobile phones, USD, % MoM, SA, 3mma, Value","KR, Exports, Mobile phones, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, North America, USD, % MoM, SA, 3mma, Value","KR, Exports, North America, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Oceania, USD, % MoM, SA, 3mma, Value","KR, Exports, Oceania, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Semiconductor mfg equipment, USD, % MoM, SA, 3mma, Value","KR, Exports, Semiconductor mfg equipment, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, all, USD, % MoM, SA, 3mma, Value","KR, Exports, all, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, mineral fuels, USD, % MoM, SA, 3mma, Value","KR, Exports, mineral fuels, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, ASEAN, USD, % MoM, SA, 3mma, Value","KR, Imports, ASEAN, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Africa, USD, % MoM, SA, 3mma, Value","KR, Imports, Africa, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Asia, USD, % MoM, SA, 3mma, Value","KR, Imports, Asia, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Europe, USD, % MoM, SA, 3mma, Value","KR, Imports, Europe, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Hong Kong, USD, % MoM, SA, 3mma, Value","KR, Imports, Hong Kong, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Latin America, USD, % MoM, SA, 3mma, Value","KR, Imports, Latin America, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Middle East, USD, % MoM, SA, 3mma, Value","KR, Imports, Middle East, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Mobile phones, USD, % MoM, SA, 3mma, Value","KR, Imports, Mobile phones, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, North America, USD, % MoM, SA, 3mma, Value","KR, Imports, North America, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Oceania, USD, % MoM, SA, 3mma, Value","KR, Imports, Oceania, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, all, USD, % MoM, SA, 3mma, Value","KR, Imports, all, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, mineral fuels, USD, % MoM, SA, 3mma, Value","KR, Imports, mineral fuels, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, EM, USD, % MoM, SA, 3mma, Value","KR, Exports, EM, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, China, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, China, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, US, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, US, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, EU, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, EU, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Vietnam, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Vietnam, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Hong Kong, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Hong Kong, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Japan, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Japan, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Taiwan, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Taiwan, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, India, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, India, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Singapore, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Singapore, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Malaysia, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Malaysia, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Country, Other, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Country, Other, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, ASEAN Three and India, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, ASEAN Three and India, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, North Asia, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, North Asia, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, DM, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, DM, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, China and Hong Kong, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, China and Hong Kong, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, China, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, China, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, US, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, US, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, EU, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, EU, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Japan, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Japan, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Vietnam, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Vietnam, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Australia, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Australia, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Taiwan, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Taiwan, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Saudi Arabia, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Saudi Arabia, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Russia, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Russia, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Malaysia, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Malaysia, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Country, Other, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Country, Other, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Commodity producers, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Commodity producers, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, North Asia, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, North Asia, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Semiconductors, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Semiconductors, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Steel products, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Steel products, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Autos, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Autos, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Petroleum products, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Petroleum products, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Wireless communication equipment, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Wireless communication equipment, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Ships, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Ships, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Automobile parts, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Automobile parts, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Computer peripherals, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Computer peripherals, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Precision equipment, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Precision equipment, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Home appliances, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Home appliances, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, All, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, All, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Product, Other, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Product, Other, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, All ex ships, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, All ex ships, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Tech, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Tech, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Auto and parts, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Auto and parts, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Other products inc Home appliances, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Other products inc Home appliances, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Semiconductors, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Semiconductors, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Crude oil, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Crude oil, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Machinery, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Machinery, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Gas, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Gas, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Semiconductor mfg equipment, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Semiconductor mfg equipment, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Precision equipment, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Precision equipment, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Petroleum products, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Petroleum products, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Wireless communication equipment, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Wireless communication equipment, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Autos, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Autos, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Coal, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Coal, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, All, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, All, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Product, Other, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Product, Other, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Energy, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Energy, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, ASEAN, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, ASEAN, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Africa, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Africa, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Asia, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Asia, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Europe, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Europe, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Latin America, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Latin America, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Middle East, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Middle East, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Mobile phones, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Mobile phones, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, North America, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, North America, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Oceania, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Oceania, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, Semiconductor mfg equipment, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, Semiconductor mfg equipment, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, all, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, all, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, mineral fuels, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, mineral fuels, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, ASEAN, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, ASEAN, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Africa, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Africa, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Asia, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Asia, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Europe, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Europe, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Hong Kong, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Hong Kong, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Latin America, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Latin America, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Middle East, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Middle East, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Mobile phones, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Mobile phones, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, North America, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, North America, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, Oceania, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, Oceania, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, all, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, all, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Imports, mineral fuels, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Imports, mineral fuels, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
-"Exports, EM, Work day adjusted, USD, % MoM, SA, 3mma, Value","KR, Exports, EM, Work day adjusted, USD, % MoM, SA, 3mma, Value",p,line
+"Exports, US, SA, USD, % MoM, 3mma, Value","KR, Exports, US, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, EU, SA, USD, % MoM, 3mma, Value","KR, Exports, EU, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Country, Other, SA, USD, % MoM, 3mma, Value","KR, Exports, Country, Other, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, ASEAN Three and India, SA, USD, % MoM, 3mma, Value","KR, Exports, ASEAN Three and India, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, North Asia, SA, USD, % MoM, 3mma, Value","KR, Exports, North Asia, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, DM, SA, USD, % MoM, 3mma, Value","KR, Exports, DM, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, China and Hong Kong, SA, USD, % MoM, 3mma, Value","KR, Exports, China and Hong Kong, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Semiconductors, SA, USD, % MoM, 3mma, Value","KR, Exports, Semiconductors, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Steel products, SA, USD, % MoM, 3mma, Value","KR, Exports, Steel products, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Autos, SA, USD, % MoM, 3mma, Value","KR, Exports, Autos, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Petroleum products, SA, USD, % MoM, 3mma, Value","KR, Exports, Petroleum products, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Ships, SA, USD, % MoM, 3mma, Value","KR, Exports, Ships, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, All, SA, USD, % MoM, 3mma, Value","KR, Exports, All, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, All ex ships, SA, USD, % MoM, 3mma, Value","KR, Exports, All ex ships, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Tech, SA, USD, % MoM, 3mma, Value","KR, Exports, Tech, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Auto and parts, SA, USD, % MoM, 3mma, Value","KR, Exports, Auto and parts, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Other products inc Home appliances, SA, USD, % MoM, 3mma, Value","KR, Exports, Other products inc Home appliances, SA, USD, % MoM, 3mma, Value",p,line
+"Imports, Semiconductor mfg equipment, SA, USD, % MoM, 3mma, Value","KR, Imports, Semiconductor mfg equipment, SA, USD, % MoM, 3mma, Value",p,line
+"Imports, All, SA, USD, % MoM, 3mma, Value","KR, Imports, All, SA, USD, % MoM, 3mma, Value",p,line
+"Imports, Energy, SA, USD, % MoM, 3mma, Value","KR, Imports, Energy, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, ASEAN, SA, USD, % MoM, 3mma, Value","KR, Exports, ASEAN, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, EM, SA, USD, % MoM, 3mma, Value","KR, Exports, EM, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, US, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, US, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, EU, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, EU, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Country, Other, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, Country, Other, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, ASEAN Three and India, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, ASEAN Three and India, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, North Asia, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, North Asia, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, DM, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, DM, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, China and Hong Kong, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, China and Hong Kong, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Semiconductors, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, Semiconductors, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Steel products, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, Steel products, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Autos, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, Autos, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Petroleum products, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, Petroleum products, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Ships, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, Ships, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, All, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, All, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, All ex ships, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, All ex ships, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Tech, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, Tech, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Auto and parts, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, Auto and parts, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, Other products inc Home appliances, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, Other products inc Home appliances, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Imports, Semiconductor mfg equipment, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Imports, Semiconductor mfg equipment, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Imports, All, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Imports, All, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Imports, Energy, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Imports, Energy, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, ASEAN, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, ASEAN, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
+"Exports, EM, Work day adjusted, SA, USD, % MoM, 3mma, Value","KR, Exports, EM, Work day adjusted, SA, USD, % MoM, 3mma, Value",p,line
 "Imports, All, SA, LCU, % MoM, 3mma, Value","KR, Imports, All, SA, LCU, % MoM, 3mma, Value",p,line
 "Exports, All, SA, LCU, % MoM, 3mma, Value","KR, Exports, All, SA, LCU, % MoM, 3mma, Value",p,line
-"Exports, China, Contribution to MoM chg, ppts, Value","KR, Exports, China, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, US, Contribution to MoM chg, ppts, Value","KR, Exports, US, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, EU, Contribution to MoM chg, ppts, Value","KR, Exports, EU, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Vietnam, Contribution to MoM chg, ppts, Value","KR, Exports, Vietnam, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Hong Kong, Contribution to MoM chg, ppts, Value","KR, Exports, Hong Kong, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Japan, Contribution to MoM chg, ppts, Value","KR, Exports, Japan, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Taiwan, Contribution to MoM chg, ppts, Value","KR, Exports, Taiwan, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, India, Contribution to MoM chg, ppts, Value","KR, Exports, India, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Singapore, Contribution to MoM chg, ppts, Value","KR, Exports, Singapore, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Malaysia, Contribution to MoM chg, ppts, Value","KR, Exports, Malaysia, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, Country, Other, Contribution to MoM chg, ppts, Value","KR, Exports, Country, Other, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, ASEAN Three and India, Contribution to MoM chg, ppts, Value","KR, Exports, ASEAN Three and India, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, North Asia, Contribution to MoM chg, ppts, Value","KR, Exports, North Asia, Contribution to MoM chg, ppts, Value, bn",r,bar
@@ -1178,81 +810,21 @@ name,display_name,data_type,chart_type
 "Exports, Steel products, Contribution to MoM chg, ppts, Value","KR, Exports, Steel products, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, Autos, Contribution to MoM chg, ppts, Value","KR, Exports, Autos, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, Petroleum products, Contribution to MoM chg, ppts, Value","KR, Exports, Petroleum products, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Wireless communication equipment, Contribution to MoM chg, ppts, Value","KR, Exports, Wireless communication equipment, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, Ships, Contribution to MoM chg, ppts, Value","KR, Exports, Ships, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Automobile parts, Contribution to MoM chg, ppts, Value","KR, Exports, Automobile parts, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Computer peripherals, Contribution to MoM chg, ppts, Value","KR, Exports, Computer peripherals, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Precision equipment, Contribution to MoM chg, ppts, Value","KR, Exports, Precision equipment, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Home appliances, Contribution to MoM chg, ppts, Value","KR, Exports, Home appliances, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, All, Contribution to MoM chg, ppts, Value","KR, Exports, All, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Product, Other, Contribution to MoM chg, ppts, Value","KR, Exports, Product, Other, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, All ex ships, Contribution to MoM chg, ppts, Value","KR, Exports, All ex ships, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, Tech, Contribution to MoM chg, ppts, Value","KR, Exports, Tech, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, Auto and parts, Contribution to MoM chg, ppts, Value","KR, Exports, Auto and parts, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, Other products inc Home appliances, Contribution to MoM chg, ppts, Value","KR, Exports, Other products inc Home appliances, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, ASEAN, Contribution to MoM chg, ppts, Value","KR, Exports, ASEAN, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Africa, Contribution to MoM chg, ppts, Value","KR, Exports, Africa, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Asia, Contribution to MoM chg, ppts, Value","KR, Exports, Asia, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Europe, Contribution to MoM chg, ppts, Value","KR, Exports, Europe, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Latin America, Contribution to MoM chg, ppts, Value","KR, Exports, Latin America, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Middle East, Contribution to MoM chg, ppts, Value","KR, Exports, Middle East, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Mobile phones, Contribution to MoM chg, ppts, Value","KR, Exports, Mobile phones, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, North America, Contribution to MoM chg, ppts, Value","KR, Exports, North America, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Oceania, Contribution to MoM chg, ppts, Value","KR, Exports, Oceania, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Semiconductor mfg equipment, Contribution to MoM chg, ppts, Value","KR, Exports, Semiconductor mfg equipment, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, all, Contribution to MoM chg, ppts, Value","KR, Exports, all, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, mineral fuels, Contribution to MoM chg, ppts, Value","KR, Exports, mineral fuels, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, EM, Contribution to MoM chg, ppts, Value","KR, Exports, EM, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, All, LCU.1, Value","KR, Exports, All, LCU.1, Value, bn",r,line
-"Imports, China, Contribution to MoM chg, ppts, Value","KR, Imports, China, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, US, Contribution to MoM chg, ppts, Value","KR, Imports, US, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, EU, Contribution to MoM chg, ppts, Value","KR, Imports, EU, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Japan, Contribution to MoM chg, ppts, Value","KR, Imports, Japan, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Vietnam, Contribution to MoM chg, ppts, Value","KR, Imports, Vietnam, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Australia, Contribution to MoM chg, ppts, Value","KR, Imports, Australia, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Taiwan, Contribution to MoM chg, ppts, Value","KR, Imports, Taiwan, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Saudi Arabia, Contribution to MoM chg, ppts, Value","KR, Imports, Saudi Arabia, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Russia, Contribution to MoM chg, ppts, Value","KR, Imports, Russia, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Malaysia, Contribution to MoM chg, ppts, Value","KR, Imports, Malaysia, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Country, Other, Contribution to MoM chg, ppts, Value","KR, Imports, Country, Other, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Commodity producers, Contribution to MoM chg, ppts, Value","KR, Imports, Commodity producers, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, North Asia, Contribution to MoM chg, ppts, Value","KR, Imports, North Asia, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Semiconductors, Contribution to MoM chg, ppts, Value","KR, Imports, Semiconductors, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Crude oil, Contribution to MoM chg, ppts, Value","KR, Imports, Crude oil, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Machinery, Contribution to MoM chg, ppts, Value","KR, Imports, Machinery, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Gas, Contribution to MoM chg, ppts, Value","KR, Imports, Gas, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Imports, Semiconductor mfg equipment, Contribution to MoM chg, ppts, Value","KR, Imports, Semiconductor mfg equipment, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Precision equipment, Contribution to MoM chg, ppts, Value","KR, Imports, Precision equipment, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Petroleum products, Contribution to MoM chg, ppts, Value","KR, Imports, Petroleum products, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Wireless communication equipment, Contribution to MoM chg, ppts, Value","KR, Imports, Wireless communication equipment, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Autos, Contribution to MoM chg, ppts, Value","KR, Imports, Autos, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Coal, Contribution to MoM chg, ppts, Value","KR, Imports, Coal, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Imports, All, Contribution to MoM chg, ppts, Value","KR, Imports, All, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Product, Other, Contribution to MoM chg, ppts, Value","KR, Imports, Product, Other, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Imports, Energy, Contribution to MoM chg, ppts, Value","KR, Imports, Energy, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, ASEAN, Contribution to MoM chg, ppts, Value","KR, Imports, ASEAN, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Africa, Contribution to MoM chg, ppts, Value","KR, Imports, Africa, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Asia, Contribution to MoM chg, ppts, Value","KR, Imports, Asia, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Europe, Contribution to MoM chg, ppts, Value","KR, Imports, Europe, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Hong Kong, Contribution to MoM chg, ppts, Value","KR, Imports, Hong Kong, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Latin America, Contribution to MoM chg, ppts, Value","KR, Imports, Latin America, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Middle East, Contribution to MoM chg, ppts, Value","KR, Imports, Middle East, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Mobile phones, Contribution to MoM chg, ppts, Value","KR, Imports, Mobile phones, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, North America, Contribution to MoM chg, ppts, Value","KR, Imports, North America, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Oceania, Contribution to MoM chg, ppts, Value","KR, Imports, Oceania, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, all, Contribution to MoM chg, ppts, Value","KR, Imports, all, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, mineral fuels, Contribution to MoM chg, ppts, Value","KR, Imports, mineral fuels, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Imports, All, LCU.1, Value","KR, Imports, All, LCU.1, Value, bn",r,line
-"Exports, China, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, China, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, US, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, US, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, EU, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, EU, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Vietnam, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Vietnam, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Hong Kong, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Hong Kong, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Japan, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Japan, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Taiwan, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Taiwan, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, India, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, India, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Singapore, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Singapore, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Malaysia, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Malaysia, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, Country, Other, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Country, Other, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, ASEAN Three and India, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, ASEAN Three and India, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, North Asia, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, North Asia, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
@@ -1262,69 +834,17 @@ name,display_name,data_type,chart_type
 "Exports, Steel products, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Steel products, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, Autos, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Autos, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, Petroleum products, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Petroleum products, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Wireless communication equipment, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Wireless communication equipment, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, Ships, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Ships, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Automobile parts, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Automobile parts, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Computer peripherals, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Computer peripherals, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Precision equipment, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Precision equipment, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Home appliances, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Home appliances, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, All, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, All, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Product, Other, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Product, Other, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, All ex ships, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, All ex ships, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, Tech, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Tech, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, Auto and parts, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Auto and parts, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, Other products inc Home appliances, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Other products inc Home appliances, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, ASEAN, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, ASEAN, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Africa, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Africa, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Asia, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Asia, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Europe, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Europe, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Latin America, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Latin America, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Middle East, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Middle East, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Mobile phones, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Mobile phones, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, North America, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, North America, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Oceania, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Oceania, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, Semiconductor mfg equipment, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, Semiconductor mfg equipment, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, all, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, all, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Exports, mineral fuels, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, mineral fuels, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Exports, EM, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Exports, EM, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, China, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, China, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, US, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, US, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, EU, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, EU, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Japan, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Japan, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Vietnam, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Vietnam, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Australia, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Australia, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Taiwan, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Taiwan, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Saudi Arabia, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Saudi Arabia, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Russia, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Russia, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Malaysia, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Malaysia, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Country, Other, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Country, Other, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Commodity producers, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Commodity producers, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, North Asia, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, North Asia, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Semiconductors, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Semiconductors, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Crude oil, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Crude oil, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Machinery, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Machinery, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Gas, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Gas, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Imports, Semiconductor mfg equipment, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Semiconductor mfg equipment, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Precision equipment, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Precision equipment, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Petroleum products, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Petroleum products, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Wireless communication equipment, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Wireless communication equipment, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Autos, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Autos, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Coal, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Coal, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Imports, All, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, All, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Product, Other, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Product, Other, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Imports, Energy, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Energy, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, ASEAN, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, ASEAN, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Africa, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Africa, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Asia, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Asia, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Europe, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Europe, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Hong Kong, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Hong Kong, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Latin America, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Latin America, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Middle East, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Middle East, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Mobile phones, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Mobile phones, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, North America, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, North America, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, Oceania, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, Oceania, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, all, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, all, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
-"Imports, mineral fuels, Work day adjusted, Contribution to MoM chg, ppts, Value","KR, Imports, mineral fuels, Work day adjusted, Contribution to MoM chg, ppts, Value, bn",r,bar
 "Trade balance, Value, USD","KR, Trade balance, Value, USD, bn",r,line
 "Trade balance, Value, USD, SA","KR, Trade balance, Value, USD, SA, bn",r,line
 "Exports, ASEAN, Value, % of total, SA","KR, Exports, ASEAN, Value, % of total, SA",p,line

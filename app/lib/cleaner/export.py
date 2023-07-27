@@ -18,8 +18,9 @@ def run_cleaning_pipeline(country, freq, to_db):
     tool = Tool()
 
     freq_full = setting.freq_full_name_map[freq]
+    raw_data_path = setting.structure[country]["Foreign Trade"][f"{freq_full}_raw_data_path"]
     data_path = setting.structure[country]["Foreign Trade"][f"{freq_full}_data_path"]
-    data = pd.read_csv(data_path, index_col=[0])
+    data = pd.read_csv(raw_data_path, index_col=[0])
     mapping_template_path = setting.category_structure["Foreign Trade"]["input_path"]
     mapping_template = pd.read_excel(mapping_template_path, index_col=None)
 
