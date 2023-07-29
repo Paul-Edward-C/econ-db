@@ -175,7 +175,7 @@ class GDP_cleaner:
 
         return new_columns
 
-    def kr_q_exception(columns, unit_component):  # Add LCU unit to column without currency unit
+    def kr_q_exception(self, columns, unit_component):  # Add LCU unit to column without currency unit
         tool = Tool()
         new_columns = []
 

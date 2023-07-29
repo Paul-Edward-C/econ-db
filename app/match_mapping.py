@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO)
 
 def run_matching_pipeline(category_list, country_list, freq_list, to_db=False, to_output=False):
     setting = Setting()
-    matcher_map = {"gdp": GDP_matcher, "export": Export_matcher}
+    matcher_map = {"gdp": GDP_matcher(), "export": Export_matcher()}
     category_list = matcher_map.keys() if category_list is None else category_list
 
     for category in category_list:
