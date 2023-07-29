@@ -52,8 +52,16 @@ def main():
     category_list = args.category.split(",") if args.category is not None else None
     country_list = args.country.split(",") if args.country is not None else None
     freq_list = args.freq.split(",") if args.freq is not None else None
-
-    run_matching_pipeline(category_list, country_list, freq_list, args.to_db, args.to_output)
+    
+    if args.to_db and args.to_output:
+        run_matching_pipeline(category_list, country_list, freq_list, args.to_db, args.to_output)
+    elif args.to_db:
+        run_matching_pipeline(category_list, country_list, freq_list, args.to_db)
+    elif args.to_output:
+        run_matching_pipeline(category_list, country_list, freq_list, args.to_output)
+    else:
+        run_matching_pipeline(category_list, country_list, freq_list)
+        
 
 
 if __name__ == "__main__":

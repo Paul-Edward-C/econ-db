@@ -44,8 +44,11 @@ def main():
     category_list = args.category.split(",") if args.category is not None else None
     country_list = args.country.split(",") if args.country is not None else None
     freq_list = args.freq.split(",") if args.freq is not None else None
-
-    run_cleaning_pipeline(category_list, country_list, freq_list, args.to_db)
+    
+    if args.to_db:
+        run_cleaning_pipeline(category_list, country_list, freq_list, args.to_db)
+    else:
+        run_cleaning_pipeline(category_list, country_list, freq_list)
 
 
 if __name__ == "__main__":
