@@ -6,7 +6,7 @@ from lib.cleaner.gdp_cleaner import GDP_cleaner
 from lib.tools import Setting
 
 
-def run_cleaning_pipeline(category_list, country_list, freq_list, to_db):
+def run_cleaning_pipeline(category_list, country_list, freq_list, to_db=False):
     setting = Setting()
     cleaner_map = {"gdp": GDP_cleaner, "export": EXPORT_cleaner}
     category_list = cleaner_map.keys() if category_list is None else category_list
