@@ -51,7 +51,7 @@ class Export_matcher:
 
         return similarity[0][0]
 
-    def run_matching_pipeline(self, country, freq, to_db, to_output):
+    def match(self, country, freq, to_db, to_output):
         all_matching_result = pd.DataFrame()
         freq_full = self.setting.freq_full_name_map[freq]
         data_path = self.setting.structure[country][self.category_full][f"{freq_full}_data_path"]
