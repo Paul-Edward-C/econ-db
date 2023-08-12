@@ -65,6 +65,33 @@ class GDP_cleaner:
         unit_replace_num = 0
         new_columns = []
         ignore_list = ["SAAR", "ppt", "YTD"]
+
+        cond_dict = {
+            0: {},
+            1: {},
+            2: {
+                "% QoQ, LCU": "LCU, % QoQ",
+                "% YoY, LCU": "LCU, % YoY",
+                "SA, LCU": "LCU, SA",
+                "SA, USD": "USD, SA",
+                "SA, % of GDP": "% of GDP, SA",
+                "SA, % QoQ": "% QoQ, SA",
+                "SA, % YoY": "% YoY, SA",
+                "% of GDP, LCU": "LCU, % of GDP",
+            },
+            3: {
+                "Contribution to % YoY chg, ppts, LCU": "LCU, Contribution to % YoY chg, ppts",
+                "Contribution to % QoQ chg, ppts, LCU": "LCU, Contribution to % QoQ chg, ppts",
+                "% of GDP, SA, LCU": "LCU, % of GDP, SA",
+                "% YoY, SA, LCU": "LCU, % YoY, SA",
+                "SA, % of GDP, LCU": "LCU, % of GDP, SA",
+                "SA, % QoQ, LCU": "LCU, % QoQ, SA",
+                "SA, % YoY, LCU": "LCU, % YoY, SA",
+                "SA, LCU, % YoY": "LCU, % YoY, SA",
+            },
+            4: {},
+        }
+
         for column in columns:
             # Calculate unit number in column
             current_unit_list = []
@@ -76,31 +103,6 @@ class GDP_cleaner:
             right_unit_order_list = [", ".join(units).strip(", ") for units in unit_list if len(units) == unit_num]
 
             if not any(i in column for i in right_unit_order_list):
-                cond_dict = {
-                    0: {},
-                    1: {},
-                    2: {
-                        "% QoQ, LCU": "LCU, % QoQ",
-                        "% YoY, LCU": "LCU, % YoY",
-                        "SA, LCU": "LCU, SA",
-                        "SA, USD": "USD, SA",
-                        "SA, % of GDP": "% of GDP, SA",
-                        "SA, % QoQ": "% QoQ, SA",
-                        "SA, % YoY": "% YoY, SA",
-                        "% of GDP, LCU": "LCU, % of GDP",
-                    },
-                    3: {
-                        "Contribution to % YoY chg, ppts, LCU": "LCU, Contribution to % YoY chg, ppts",
-                        "Contribution to % QoQ chg, ppts, LCU": "LCU, Contribution to % QoQ chg, ppts",
-                        "% of GDP, SA, LCU": "LCU, % of GDP, SA",
-                        "% YoY, SA, LCU": "LCU, % YoY, SA",
-                        "SA, % of GDP, LCU": "LCU, % of GDP, SA",
-                        "SA, % QoQ, LCU": "LCU, % QoQ, SA",
-                        "SA, % YoY, LCU": "LCU, % YoY, SA",
-                        "SA, LCU, % YoY": "LCU, % YoY, SA",
-                    },
-                    4: {},
-                }
                 check_list = [
                     i for i in cond_dict[unit_num].keys() if i in column
                 ]  # Ideally this list length will be one.

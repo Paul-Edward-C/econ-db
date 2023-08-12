@@ -3,6 +3,7 @@ import logging
 
 from lib.cleaner.export_cleaner import EXPORT_cleaner
 from lib.cleaner.gdp_cleaner import GDP_cleaner
+from lib.generator.number_unit_generator import Number_Unit_Generator
 from lib.tools import Setting
 
 
@@ -20,6 +21,7 @@ def run_cleaning_pipeline(category_list, country_list, freq_list, to_db=False):
         }
 
         cleaner = cleaner_map[category]
+        number_unit_generator = Number_Unit_Generator()
 
         freq_list = freq_country_map.keys() if freq_list is None else freq_list
         for freq in freq_list:
@@ -29,6 +31,7 @@ def run_cleaning_pipeline(category_list, country_list, freq_list, to_db=False):
                 else [i for i in country_list if i in freq_country_map[freq]]
             )
             for country in current_country_list:
+                number_unit_generator.create(country=country, category=category, freq=freq)
                 cleaner.clean(country, freq, to_db)
                 logging.info(f"Finished cleaning country: {category}-{country}-{freq} to DB: {to_db}")
 
@@ -44,7 +47,7 @@ def main():
     category_list = args.category.split(",") if args.category is not None else None
     country_list = args.country.split(",") if args.country is not None else None
     freq_list = args.freq.split(",") if args.freq is not None else None
-    
+
     if args.to_db:
         run_cleaning_pipeline(category_list, country_list, freq_list, args.to_db)
     else:

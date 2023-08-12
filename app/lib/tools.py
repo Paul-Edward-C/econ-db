@@ -420,12 +420,14 @@ class Setting:
                     "Quarterly_data_path": "db/jp/gdp/q/jp_gdp_q.csv",
                     "Quarterly_raw_data_path": "db/jp/gdp/q/jp_gdp_q_raw.csv",
                     "Quarterly_setting_path": "db/jp/gdp/q/jp_gdp_q_setting.csv",
+                    "Quarterly_temp_setting_path": "db/jp/gdp/q/jp_gdp_q_setting_temp.csv",
                 },
                 "Foreign Trade": {
                     "M": True,
                     "Monthly_data_path": "db/jp/export/m/jp_export_m.csv",
                     "Monthly_raw_data_path": "db/jp/export/m/jp_export_m_raw.csv",
                     "Monthly_setting_path": "db/jp/export/m/jp_export_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/jp/export/m/jp_export_m_setting_temp.csv",
                 },
             },
             "TW": {
@@ -434,12 +436,14 @@ class Setting:
                     "Quarterly_data_path": "db/tw/gdp/q/tw_gdp_q.csv",
                     "Quarterly_raw_data_path": "db/tw/gdp/q/tw_gdp_q_raw.csv",
                     "Quarterly_setting_path": "db/tw/gdp/q/tw_gdp_q_setting.csv",
+                    "Quarterly_temp_setting_path": "db/tw/gdp/q/tw_gdp_q_setting_temp.csv",
                 },
                 "Foreign Trade": {
                     "M": True,
                     "Monthly_data_path": "db/tw/export/m/tw_export_m.csv",
                     "Monthly_raw_data_path": "db/tw/export/m/tw_export_m_raw.csv",
                     "Monthly_setting_path": "db/tw/export//m/tw_export_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/tw/export//m/tw_export_m_setting_temp.csv",
                 },
             },
             "KR": {
@@ -448,12 +452,14 @@ class Setting:
                     "Quarterly_data_path": "db/kr/gdp/q/kr_gdp_q.csv",
                     "Quarterly_raw_data_path": "db/kr/gdp/q/kr_gdp_q_raw.csv",
                     "Quarterly_setting_path": "db/kr/gdp/q/kr_gdp_q_setting.csv",
+                    "Quarterly_temp_setting_path": "db/kr/gdp/q/kr_gdp_q_setting_temp.csv",
                 },
                 "Foreign Trade": {
                     "M": True,
                     "Monthly_data_path": "db/kr/export/m/kr_export_m.csv",
                     "Monthly_raw_data_path": "db/kr/export/m/kr_export_m_raw.csv",
                     "Monthly_setting_path": "db/kr/export/m/kr_export_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/kr/export/m/kr_export_m_setting_temp.csv",
                 },
             },
             "CN": {
@@ -462,12 +468,14 @@ class Setting:
                     "Quarterly_data_path": "db/cn/gdp/q/cn_gdp_q.csv",
                     "Quarterly_raw_data_path": "db/cn/gdp/q/cn_gdp_q_raw.csv",
                     "Quarterly_setting_path": "db/cn/gdp/q/cn_gdp_q_setting.csv",
+                    "Quarterly_temp_setting_path": "db/cn/gdp/q/cn_gdp_q_setting_temp.csv",
                 },
                 "Foreign Trade": {
                     "M": True,
                     "Monthly_data_path": "db/cn/export/m/cn_export_m.csv",
                     "Monthly_raw_data_path": "db/cn/export/m/cn_export_m_raw.csv",
                     "Monthly_setting_path": "db/cn/export/m/cn_export_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/cn/export/m/cn_export_m_setting_temp.csv",
                 },
             },
         }
