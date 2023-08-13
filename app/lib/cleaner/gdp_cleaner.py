@@ -24,8 +24,10 @@ class GDP_cleaner:
 
         freq_full = self.setting.freq_full_name_map[freq]
         raw_data_path = self.setting.structure[country]["National Accounts"][f"{freq_full}_raw_data_path"]
+        temp_data_setting_path = self.setting.structure[country]["National Accounts"][f"{freq_full}_temp_setting_path"]
         data_path = self.setting.structure[country]["National Accounts"][f"{freq_full}_data_path"]
         data = pd.read_csv(raw_data_path, index_col=[0])
+        temp_data_setting = pd.read_csv(temp_data_setting_path, index_col=[0])
 
         # Create unique unit components
         unit_list = [[g.strip() for g in i.split(",")] for i in self.mapping_template["Unit"].dropna().tolist()]
@@ -115,6 +117,12 @@ class GDP_cleaner:
 
             new_columns.append(column)
         columns = new_columns
+
+        # Write raw data name and new column name into temp data_setting_file
+        for column, new_column in zip(data.columns, columns):
+            temp_data_setting.loc[column, "cleaned_name"] = new_column
+        temp_data_setting.to_csv(temp_data_setting_path, index=True)
+
         data.columns = columns
         if to_db:
             data.to_csv(data_path, index=True)
