@@ -1,0 +1,1681 @@
+raw_data_name,data_type
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, SA, % QoQ",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, % SAAR",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, SA, % QoQ",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, % SAAR",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, SA, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, SA, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, JPY bn.1",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, Contribution to YoY chg, ppts.1",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, SAAR, JPY bn.1",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, Contribution to QoQ chg, ppts.1",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, JPY bn.1",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, Contribution to YoY chg, ppts.1",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, SAAR, JPY bn.1",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, Contribution to QoQ chg, ppts.1",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, SA, JPY bn.1",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, SA, JPY bn.1",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, JPY, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, Contribution to YoY chg, ppts.2",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, SAAR, JPY, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, Contribution to QoQ chg, ppts.2",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, JPY, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, Contribution to YoY chg, ppts.2",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, SAAR, JPY, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, Contribution to QoQ chg, ppts.2",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, SA, JPY, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, SA, JPY, % YoY",p
+"NGDP, Domestic Demand, JPY bn",b
+"NGDP, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, JPY bn",b
+"NGDP, Domestic Demand, Government Consumption, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, JPY bn",b
+"NGDP, Income from /to the Rest of the World Net, Receipt, JPY bn",b
+"NGDP, Income from /to the Rest of the World Net, Payment, JPY bn",b
+"NGDP, Domestic Demand, Private Demand, JPY bn",b
+"NGDP, Domestic Demand, Public Demand, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, JPY bn",b
+"NGDP, Domestic Demand, % YoY",p
+"NGDP, % YoY",p
+"NGDP, Domestic Demand, Private Consumption, % YoY",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, % YoY",p
+"NGDP, Domestic Demand, Government Consumption, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, % YoY",p
+"NGDP, Income from /to the Rest of the World Net, Receipt, % YoY",p
+"NGDP, Income from /to the Rest of the World Net, Payment, % YoY",p
+"NGDP, Domestic Demand, Private Demand, % YoY",p
+"NGDP, Domestic Demand, Public Demand, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, % YoY",p
+"NGDP, Domestic Demand, Contribution to YoY chg, ppts",p
+"NGDP, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Government Consumption, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, Contribution to YoY chg, ppts",p
+"NGDP, Income from /to the Rest of the World Net, Receipt, Contribution to YoY chg, ppts",p
+"NGDP, Income from /to the Rest of the World Net, Payment, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Private Demand, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Public Demand, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Inventories, JPY bn",b
+"NGDP, Net Exports of Goods and Services, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, % YoY",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, % YoY",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, % YoY",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, % YoY",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, % YoY",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, % YoY",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, % YoY",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Inventories, % YoY",p
+"NGDP, Net Exports of Goods and Services, % YoY",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, % YoY",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, % YoY",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, % YoY",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, % YoY",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, % YoY",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, % YoY",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Inventories, Contribution to YoY chg, ppts",p
+"NGDP, Net Exports of Goods and Services, Contribution to YoY chg, ppts",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Contribution to YoY chg, ppts",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, Contribution to YoY chg, ppts",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, Contribution to YoY chg, ppts",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Contribution to YoY chg, ppts",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, Contribution to YoY chg, ppts",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, Contribution to YoY chg, ppts",p
+"NGDP, Domestic Demand, SAAR, JPY bn",b
+"NGDP, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Government Consumption, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, SAAR, JPY bn",b
+"NGDP, Income from /to the Rest of the World Net, Receipt, SAAR, JPY bn",b
+"NGDP, Income from /to the Rest of the World Net, Payment, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Private Demand, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Public Demand, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, SAAR, JPY bn",b
+"NGDP, Domestic Demand, SA, % QoQ",p
+"NGDP, SA, % QoQ",p
+"NGDP, Domestic Demand, Private Consumption, SA, % QoQ",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, SA, % QoQ",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, SA, % QoQ",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, SA, % QoQ",p
+"NGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, SA, % QoQ",p
+"NGDP, Domestic Demand, Government Consumption, SA, % QoQ",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, SA, % QoQ",p
+"NGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, SA, % QoQ",p
+"NGDP, Income from /to the Rest of the World Net, Receipt, SA, % QoQ",p
+"NGDP, Income from /to the Rest of the World Net, Payment, SA, % QoQ",p
+"NGDP, Domestic Demand, Private Demand, SA, % QoQ",p
+"NGDP, Domestic Demand, Public Demand, SA, % QoQ",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, SA, % QoQ",p
+"NGDP, Domestic Demand, % SAAR",p
+"NGDP, % SAAR",p
+"NGDP, Domestic Demand, Private Consumption, % SAAR",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, % SAAR",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, % SAAR",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, % SAAR",p
+"NGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, % SAAR",p
+"NGDP, Domestic Demand, Government Consumption, % SAAR",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, % SAAR",p
+"NGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, % SAAR",p
+"NGDP, Domestic Demand, Private Demand, % SAAR",p
+"NGDP, Domestic Demand, Public Demand, % SAAR",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, % SAAR",p
+"NGDP, Domestic Demand, Contribution to QoQ chg, ppts",p
+"NGDP, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Government Consumption, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, Contribution to QoQ chg, ppts",p
+"NGDP, Income from /to the Rest of the World Net, Receipt, Contribution to QoQ chg, ppts",p
+"NGDP, Income from /to the Rest of the World Net, Payment, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Private Demand, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Public Demand, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Inventories, SAAR, JPY bn",b
+"NGDP, Net Exports of Goods and Services, SAAR, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, SAAR, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SAAR, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, SAAR, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, SAAR, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SAAR, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, SA, % QoQ",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, SA, % QoQ",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, SA, % QoQ",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, SA, % QoQ",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, SA, % QoQ",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, SA, % QoQ",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, SA, % QoQ",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, SA, % QoQ",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, SA, % QoQ",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, SA, % QoQ",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, SA, % QoQ",p
+"NGDP, Domestic Demand, Gross Capital Formation, SA, % QoQ",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, SA, % QoQ",p
+"NGDP, Domestic Demand, Gross Capital Formation, Inventories, SA, % QoQ",p
+"NGDP, Net Exports of Goods and Services, SA, % QoQ",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, SA, % QoQ",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % QoQ",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % QoQ",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, SA, % QoQ",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % QoQ",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, SA, % QoQ",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, % SAAR",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, % SAAR",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, % SAAR",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, % SAAR",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, % SAAR",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, % SAAR",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, % SAAR",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, % SAAR",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, % SAAR",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, % SAAR",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, % SAAR",p
+"NGDP, Domestic Demand, Gross Capital Formation, % SAAR",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, % SAAR",p
+"NGDP, Domestic Demand, Gross Capital Formation, Inventories, % SAAR",p
+"NGDP, Net Exports of Goods and Services, % SAAR",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, % SAAR",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, % SAAR",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, % SAAR",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, % SAAR",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, % SAAR",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, % SAAR",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, Contribution to QoQ chg, ppts",p
+"NGDP, Domestic Demand, Gross Capital Formation, Inventories, Contribution to QoQ chg, ppts",p
+"NGDP, Net Exports of Goods and Services, Contribution to QoQ chg, ppts",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Contribution to QoQ chg, ppts",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, Contribution to QoQ chg, ppts",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, Contribution to QoQ chg, ppts",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Contribution to QoQ chg, ppts",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, Contribution to QoQ chg, ppts",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, JPY bn",b
+"RGDP, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, JPY bn",b
+"RGDP, Domestic Demand, Government Consumption, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, JPY bn",b
+"RGDP, Income from /to the Rest of the World Net, Receipt, JPY bn",b
+"RGDP, Income from /to the Rest of the World Net, Payment, JPY bn",b
+"RGDP, Domestic Demand, Private Demand, JPY bn",b
+"RGDP, Domestic Demand, Public Demand, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, JPY bn",b
+"RGDP, Domestic Demand, % YoY",p
+"RGDP, % YoY",p
+"RGDP, Domestic Demand, Private Consumption, % YoY",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, % YoY",p
+"RGDP, Domestic Demand, Government Consumption, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, % YoY",p
+"RGDP, Income from /to the Rest of the World Net, Receipt, % YoY",p
+"RGDP, Income from /to the Rest of the World Net, Payment, % YoY",p
+"RGDP, Domestic Demand, Private Demand, % YoY",p
+"RGDP, Domestic Demand, Public Demand, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, % YoY",p
+"RGDP, Domestic Demand, Contribution to YoY chg, ppts",p
+"RGDP, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Government Consumption, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, Contribution to YoY chg, ppts",p
+"RGDP, Income from /to the Rest of the World Net, Receipt, Contribution to YoY chg, ppts",p
+"RGDP, Income from /to the Rest of the World Net, Payment, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Private Demand, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Public Demand, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Inventories, JPY bn",b
+"RGDP, Net Exports of Goods and Services, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, % YoY",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, % YoY",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, % YoY",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, % YoY",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, % YoY",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, % YoY",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, % YoY",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Inventories, % YoY",p
+"RGDP, Net Exports of Goods and Services, % YoY",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, % YoY",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, % YoY",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, % YoY",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, % YoY",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, % YoY",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, % YoY",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Inventories, Contribution to YoY chg, ppts",p
+"RGDP, Net Exports of Goods and Services, Contribution to YoY chg, ppts",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Contribution to YoY chg, ppts",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, Contribution to YoY chg, ppts",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, Contribution to YoY chg, ppts",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Contribution to YoY chg, ppts",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, Contribution to YoY chg, ppts",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, Contribution to YoY chg, ppts",p
+"RGDP, Domestic Demand, SAAR, JPY bn",b
+"RGDP, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Government Consumption, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, SAAR, JPY bn",b
+"RGDP, Income from /to the Rest of the World Net, Receipt, SAAR, JPY bn",b
+"RGDP, Income from /to the Rest of the World Net, Payment, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Private Demand, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Public Demand, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, SAAR, JPY bn",b
+"RGDP, Domestic Demand, SA, % QoQ",p
+"RGDP, SA, % QoQ",p
+"RGDP, Domestic Demand, Private Consumption, SA, % QoQ",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, SA, % QoQ",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, SA, % QoQ",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, SA, % QoQ",p
+"RGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, SA, % QoQ",p
+"RGDP, Domestic Demand, Government Consumption, SA, % QoQ",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, SA, % QoQ",p
+"RGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, SA, % QoQ",p
+"RGDP, Income from /to the Rest of the World Net, Receipt, SA, % QoQ",p
+"RGDP, Income from /to the Rest of the World Net, Payment, SA, % QoQ",p
+"RGDP, Domestic Demand, Private Demand, SA, % QoQ",p
+"RGDP, Domestic Demand, Public Demand, SA, % QoQ",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, SA, % QoQ",p
+"RGDP, Domestic Demand, % SAAR",p
+"RGDP, % SAAR",p
+"RGDP, Domestic Demand, Private Consumption, % SAAR",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, % SAAR",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, % SAAR",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, % SAAR",p
+"RGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, % SAAR",p
+"RGDP, Domestic Demand, Government Consumption, % SAAR",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, % SAAR",p
+"RGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, % SAAR",p
+"RGDP, Domestic Demand, Private Demand, % SAAR",p
+"RGDP, Domestic Demand, Public Demand, % SAAR",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, % SAAR",p
+"RGDP, Domestic Demand, Contribution to QoQ chg, ppts",p
+"RGDP, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Government Consumption, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, Contribution to QoQ chg, ppts",p
+"RGDP, Income from /to the Rest of the World Net, Receipt, Contribution to QoQ chg, ppts",p
+"RGDP, Income from /to the Rest of the World Net, Payment, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Private Demand, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Public Demand, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Contribution to % QoQ SAAR chg, ppts",p
+"RGDP, Contribution to % QoQ SAAR chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Contribution to % QoQ SAAR chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, Contribution to % QoQ SAAR chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, Contribution to % QoQ SAAR chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, Contribution to % QoQ SAAR chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, Contribution to % QoQ SAAR chg, ppts",p
+"RGDP, Domestic Demand, Government Consumption, Contribution to % QoQ SAAR chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Contribution to % QoQ SAAR chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, Contribution to % QoQ SAAR chg, ppts",p
+"RGDP, Domestic Demand, Private Demand, Contribution to % QoQ SAAR chg, ppts",p
+"RGDP, Domestic Demand, Public Demand, Contribution to % QoQ SAAR chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Contribution to % QoQ SAAR chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Inventories, SAAR, JPY bn",b
+"RGDP, Net Exports of Goods and Services, SAAR, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, SAAR, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SAAR, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, SAAR, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, SAAR, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SAAR, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, SA, % QoQ",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, SA, % QoQ",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, SA, % QoQ",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, SA, % QoQ",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, SA, % QoQ",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, SA, % QoQ",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, SA, % QoQ",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, SA, % QoQ",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, SA, % QoQ",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, SA, % QoQ",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, SA, % QoQ",p
+"RGDP, Domestic Demand, Gross Capital Formation, SA, % QoQ",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, SA, % QoQ",p
+"RGDP, Domestic Demand, Gross Capital Formation, Inventories, SA, % QoQ",p
+"RGDP, Net Exports of Goods and Services, SA, % QoQ",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, SA, % QoQ",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % QoQ",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % QoQ",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, SA, % QoQ",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % QoQ",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, SA, % QoQ",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, % SAAR",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, % SAAR",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, % SAAR",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, % SAAR",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, % SAAR",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, % SAAR",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, % SAAR",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, % SAAR",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, % SAAR",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, % SAAR",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, % SAAR",p
+"RGDP, Domestic Demand, Gross Capital Formation, % SAAR",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, % SAAR",p
+"RGDP, Domestic Demand, Gross Capital Formation, Inventories, % SAAR",p
+"RGDP, Net Exports of Goods and Services, % SAAR",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, % SAAR",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, % SAAR",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, % SAAR",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, % SAAR",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, % SAAR",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, % SAAR",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, Contribution to QoQ chg, ppts",p
+"RGDP, Domestic Demand, Gross Capital Formation, Inventories, Contribution to QoQ chg, ppts",p
+"RGDP, Net Exports of Goods and Services, Contribution to QoQ chg, ppts",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Contribution to QoQ chg, ppts",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, Contribution to QoQ chg, ppts",p
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, Contribution to QoQ chg, ppts",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Contribution to QoQ chg, ppts",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, Contribution to QoQ chg, ppts",p
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, Contribution to QoQ chg, ppts",p
+"NGDP, Employee compensation, JPY bn",b
+"NGDP, Employee compensation, % YoY",p
+"NGDP, Employee compensation, SAAR, JPY bn",b
+"NGDP, Employee compensation, % SAAR",p
+"RGDP, Employee compensation, JPY bn",b
+"RGDP, Employee compensation, % YoY",p
+"RGDP, Employee compensation, SAAR, JPY bn",b
+"RGDP, Employee compensation, % SAAR",p
+"NGDP, Domestic Demand, SA, JPY bn",b
+"NGDP, SA, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, SA, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, SA, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, SA, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, SA, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, SA, JPY bn",b
+"NGDP, Domestic Demand, Government Consumption, SA, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, SA, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, SA, JPY bn",b
+"NGDP, Income from /to the Rest of the World Net, Receipt, SA, JPY bn",b
+"NGDP, Income from /to the Rest of the World Net, Payment, SA, JPY bn",b
+"NGDP, Domestic Demand, Private Demand, SA, JPY bn",b
+"NGDP, Domestic Demand, Public Demand, SA, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, SA, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, SA, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, SA, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, SA, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, SA, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, SA, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, SA, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, SA, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, SA, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, SA, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, SA, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, SA, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, SA, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, SA, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Inventories, SA, JPY bn",b
+"NGDP, Net Exports of Goods and Services, SA, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, SA, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, SA, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, JPY bn",b
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, SA, JPY bn",b
+"RGDP, Domestic Demand, SA, JPY bn",b
+"RGDP, SA, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, SA, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, SA, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, SA, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, SA, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, SA, JPY bn",b
+"RGDP, Domestic Demand, Government Consumption, SA, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, SA, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, SA, JPY bn",b
+"RGDP, Income from /to the Rest of the World Net, Receipt, SA, JPY bn",b
+"RGDP, Income from /to the Rest of the World Net, Payment, SA, JPY bn",b
+"RGDP, Domestic Demand, Private Demand, SA, JPY bn",b
+"RGDP, Domestic Demand, Public Demand, SA, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, SA, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, SA, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, SA, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, SA, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, SA, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, SA, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, SA, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, SA, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, SA, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, SA, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, SA, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, SA, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, SA, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, SA, JPY bn",b
+"RGDP, Domestic Demand, Gross Capital Formation, Inventories, SA, JPY bn",b
+"RGDP, Net Exports of Goods and Services, SA, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, SA, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, SA, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, JPY bn",b
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, SA, JPY bn",b
+"NGDP, Employee compensation, SA, JPY bn",b
+"RGDP, Employee compensation, SA, JPY bn",b
+"NGDP, Households, Operating surplus and mixed income, SA, JPY bn",b
+"NGDP, Households, Compensation of employees, receivable, SA, JPY bn",b
+"NGDP, Households, Property income, net, SA, JPY bn",b
+"NGDP, Households, Current taxes on income, wealth, etc., payable, SA, JPY bn",b
+"NGDP, Households, Net social contributions, payable, SA, JPY bn",b
+"NGDP, Households, Social benefits other than social transfers in kind, receivable, SA, JPY bn",b
+"NGDP, Households, Other current transfers, net, SA, JPY bn",b
+"NGDP, Households, Nominal disposable income, SA, JPY bn",b
+"NGDP, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY bn",b
+"NGDP, Households, Consumption of households, SA, JPY bn",b
+"NGDP, Households, Saving, SA, JPY bn",b
+"NGDP, Households, Saving ratio, %, SA",None
+"RGDP, Households, Real disposable income, SA, JPY bn",b
+"NGDP, Households, Operating surplus and mixed income, SA, % QoQ",p
+"NGDP, Households, Compensation of employees, receivable, SA, % QoQ",p
+"NGDP, Households, Property income, net, SA, % QoQ",p
+"NGDP, Households, Current taxes on income, wealth, etc., payable, SA, % QoQ",p
+"NGDP, Households, Net social contributions, payable, SA, % QoQ",p
+"NGDP, Households, Social benefits other than social transfers in kind, receivable, SA, % QoQ",p
+"NGDP, Households, Other current transfers, net, SA, % QoQ",p
+"NGDP, Households, Nominal disposable income, SA, % QoQ",p
+"NGDP, Households, Adjustment for the change in pension entitlements, receivable, SA, % QoQ",p
+"NGDP, Households, Consumption of households, SA, % QoQ",p
+"NGDP, Households, Saving, SA, % QoQ",p
+"NGDP, Households, Saving ratio (%), SA, % QoQ",p
+"RGDP, Households, Real disposable income, SA, % QoQ",p
+"NGDP, Households, Operating surplus and mixed income, % YoY",p
+"NGDP, Households, Compensation of employees, receivable, % YoY",p
+"NGDP, Households, Property income, net, % YoY",p
+"NGDP, Households, Current taxes on income, wealth, etc., payable, % YoY",p
+"NGDP, Households, Net social contributions, payable, % YoY",p
+"NGDP, Households, Social benefits other than social transfers in kind, receivable, % YoY",p
+"NGDP, Households, Other current transfers, net, % YoY",p
+"NGDP, Households, Nominal disposable income, % YoY",p
+"NGDP, Households, Adjustment for the change in pension entitlements, receivable, % YoY",p
+"NGDP, Households, Consumption of households, % YoY",p
+"NGDP, Households, Saving, % YoY",p
+"NGDP, Households, Saving ratio (%), % YoY",p
+"RGDP, Households, Real disposable income, % YoY",p
+"NGDP, By Activity, Primary, Agriculture, forestry and fishing, SA % QoQ",p
+"NGDP, By Activity, Primary, Mining, SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, Food products and beverages, SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, Textile products, SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, Chemicals, SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, Basic metal, SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, Transport equipment, SA % QoQ",p
+"NGDP, By Activity, Secondary, Manufacturing, Other manufacturing, SA % QoQ",p
+"NGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, SA % QoQ",p
+"NGDP, By Activity, Secondary, Construction, SA % QoQ",p
+"NGDP, By Activity, Tertiary, Wholesale and retail trade, SA % QoQ",p
+"NGDP, By Activity, Tertiary, Transport and postal services, SA % QoQ",p
+"NGDP, By Activity, Tertiary, Accommodation and food services, SA % QoQ",p
+"NGDP, By Activity, Tertiary, Information and communications, SA % QoQ",p
+"NGDP, By Activity, Tertiary, Finance and insurance, SA % QoQ",p
+"NGDP, By Activity, Tertiary, Real estate, SA % QoQ",p
+"NGDP, By Activity, Tertiary, Professional, scientific and technical, SA % QoQ",p
+"NGDP, By Activity, Tertiary, Public administration, SA % QoQ",p
+"NGDP, By Activity, Tertiary, Education, SA % QoQ",p
+"NGDP, By Activity, Tertiary, Human health and social work, SA % QoQ",p
+"NGDP, By Activity, Tertiary, Other service, SA % QoQ",p
+"NGDP, By Activity, Sub-total, SA % QoQ",p
+"NGDP, By Activity, Gross domestic product (not including statistical discrepancy), SA % QoQ",p
+"NGDP, By Activity, Statistical discrepancy, SA % QoQ",p
+"NGDP, By Activity, SA % QoQ",p
+"NGDP, By Activity, Primary, SA % QoQ",p
+"NGDP, By Activity, Secondary, SA % QoQ",p
+"NGDP, By Activity, Tertiary, SA % QoQ",p
+"RGDP, By Activity, Primary, Agriculture, forestry and fishing, SA % QoQ",p
+"RGDP, By Activity, Primary, Mining, SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, Food products and beverages, SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, Textile products, SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, Chemicals, SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, Basic metal, SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, Transport equipment, SA % QoQ",p
+"RGDP, By Activity, Secondary, Manufacturing, Other manufacturing, SA % QoQ",p
+"RGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, SA % QoQ",p
+"RGDP, By Activity, Secondary, Construction, SA % QoQ",p
+"RGDP, By Activity, Tertiary, Wholesale and retail trade, SA % QoQ",p
+"RGDP, By Activity, Tertiary, Transport and postal services, SA % QoQ",p
+"RGDP, By Activity, Tertiary, Accommodation and food services, SA % QoQ",p
+"RGDP, By Activity, Tertiary, Information and communications, SA % QoQ",p
+"RGDP, By Activity, Tertiary, Finance and insurance, SA % QoQ",p
+"RGDP, By Activity, Tertiary, Real estate, SA % QoQ",p
+"RGDP, By Activity, Tertiary, Professional, scientific and technical, SA % QoQ",p
+"RGDP, By Activity, Tertiary, Public administration, SA % QoQ",p
+"RGDP, By Activity, Tertiary, Education, SA % QoQ",p
+"RGDP, By Activity, Tertiary, Human health and social work, SA % QoQ",p
+"RGDP, By Activity, Tertiary, Other service, SA % QoQ",p
+"RGDP, By Activity, Sub-total, SA % QoQ",p
+"RGDP, By Activity, Gross domestic product (not including statistical discrepancy), SA % QoQ",p
+"RGDP, By Activity, Statistical discrepancy, SA % QoQ",p
+"RGDP, By Activity, SA % QoQ",p
+"RGDP, By Activity, Primary, SA % QoQ",p
+"RGDP, By Activity, Secondary, SA % QoQ",p
+"RGDP, By Activity, Tertiary, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, Agriculture, forestry and fishing, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, Mining, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Food products and beverages, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Textile products, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Chemicals, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Basic metal, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Transport equipment, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Other manufacturing, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Construction, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Wholesale and retail trade, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Transport and postal services, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Accommodation and food services, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Information and communications, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Finance and insurance, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Real estate, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Professional, scientific and technical, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Public administration, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Education, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Human health and social work, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Other service, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Sub-total, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, SA % QoQ",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Primary, Agriculture, forestry and fishing, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Primary, Mining, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Food products and beverages, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Textile products, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Chemicals, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Basic metal, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Transport equipment, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Other manufacturing, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Construction, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Wholesale and retail trade, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Transport and postal services, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Accommodation and food services, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Information and communications, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Finance and insurance, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Real estate, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Professional, scientific and technical, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Public administration, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Education, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Human health and social work, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Other service, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Sub-total, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Primary, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, SA % QoQ",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, SA % QoQ",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Primary, Agriculture, forestry and fishing, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Primary, Mining, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Food products and beverages, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Textile products, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Pulp, paper and paper products, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Chemicals, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Petroleum and coal products, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Non-metallic mineral products , SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Basic metal, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Fabricated metal products, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, General-purpose, production and business oriented machinery, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Electronic components and devices, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Electrical machinery, equipment and supplies, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Information and communication electronics equipment, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Transport equipment, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Other manufacturing, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Electricity, gas and water supply, waste management service, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Construction, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Wholesale and retail trade, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Transport and postal services, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Accommodation and food services, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Information and communications, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Finance and insurance, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Real estate, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Professional, scientific and technical, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Public administration, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Education, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Human health and social work, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Other service, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Sub-total, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Gross domestic product (not including statistical discrepancy), SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Statistical discrepancy, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Primary, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Primary, Agriculture, forestry and fishing, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Primary, Mining, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Food products and beverages, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Textile products, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Pulp, paper and paper products, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Chemicals, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Petroleum and coal products, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Non-metallic mineral products , SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Basic metal, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Fabricated metal products, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, General-purpose, production and business oriented machinery, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Electronic components and devices, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Electrical machinery, equipment and supplies, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Information and communication electronics equipment, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Transport equipment, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Other manufacturing, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Electricity, gas and water supply, waste management service, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, Construction, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Wholesale and retail trade, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Transport and postal services, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Accommodation and food services, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Information and communications, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Finance and insurance, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Real estate, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Professional, scientific and technical, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Public administration, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Education, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Human health and social work, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Other service, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Sub-total, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Gross domestic product (not including statistical discrepancy), SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Statistical discrepancy, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Primary, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Secondary, SA, Contribution to % QoQ, ppts",p
+"RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Primary, Agriculture, forestry and fishing, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Primary, Mining, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Food products and beverages, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Textile products, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Pulp, paper and paper products, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Chemicals, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Petroleum and coal products, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Non-metallic mineral products , SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Basic metal, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Fabricated metal products, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, General-purpose, production and business oriented machinery, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Electronic components and devices, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Electrical machinery, equipment and supplies, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Information and communication electronics equipment, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Transport equipment, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Other manufacturing, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Electricity, gas and water supply, waste management service, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Construction, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Wholesale and retail trade, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Transport and postal services, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Accommodation and food services, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Information and communications, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Finance and insurance, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Real estate, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Professional, scientific and technical, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Public administration, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Education, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Human health and social work, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Other service, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Sub-total, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Primary, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Primary, Agriculture, forestry and fishing, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Primary, Mining, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Food products and beverages, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Textile products, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Pulp, paper and paper products, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Chemicals, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Petroleum and coal products, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Non-metallic mineral products , SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Basic metal, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Fabricated metal products, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, General-purpose, production and business oriented machinery, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Electronic components and devices, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Electrical machinery, equipment and supplies, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Information and communication electronics equipment, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Transport equipment, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Manufacturing, Other manufacturing, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Electricity, gas and water supply, waste management service, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, Construction, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Wholesale and retail trade, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Transport and postal services, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Accommodation and food services, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Information and communications, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Finance and insurance, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Real estate, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Professional, scientific and technical, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Public administration, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Education, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Human health and social work, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, Other service, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Sub-total, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Primary, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Secondary, SA, Contribution to % QoQ, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Quarter-to-Quarter Percent Change in Total), Tertiary, SA, Contribution to % QoQ, ppts",p
+"NGDP, By Activity, Primary, Agriculture, forestry and fishing, % YoY",p
+"NGDP, By Activity, Primary, Mining, % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, Food products and beverages, % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, Textile products, % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, Chemicals, % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, Basic metal, % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, Transport equipment, % YoY",p
+"NGDP, By Activity, Secondary, Manufacturing, Other manufacturing, % YoY",p
+"NGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, % YoY",p
+"NGDP, By Activity, Secondary, Construction, % YoY",p
+"NGDP, By Activity, Tertiary, Wholesale and retail trade, % YoY",p
+"NGDP, By Activity, Tertiary, Transport and postal services, % YoY",p
+"NGDP, By Activity, Tertiary, Accommodation and food services, % YoY",p
+"NGDP, By Activity, Tertiary, Information and communications, % YoY",p
+"NGDP, By Activity, Tertiary, Finance and insurance, % YoY",p
+"NGDP, By Activity, Tertiary, Real estate, % YoY",p
+"NGDP, By Activity, Tertiary, Professional, scientific and technical, % YoY",p
+"NGDP, By Activity, Tertiary, Public administration, % YoY",p
+"NGDP, By Activity, Tertiary, Education, % YoY",p
+"NGDP, By Activity, Tertiary, Human health and social work, % YoY",p
+"NGDP, By Activity, Tertiary, Other service, % YoY",p
+"NGDP, By Activity, Sub-total, % YoY",p
+"NGDP, By Activity, Gross domestic product (not including statistical discrepancy), % YoY",p
+"NGDP, By Activity, Statistical discrepancy, % YoY",p
+"NGDP, By Activity, % YoY",p
+"NGDP, By Activity, Primary, % YoY",p
+"NGDP, By Activity, Secondary, % YoY",p
+"NGDP, By Activity, Tertiary, % YoY",p
+"RGDP, By Activity, Primary, Agriculture, forestry and fishing, % YoY",p
+"RGDP, By Activity, Primary, Mining, % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, Food products and beverages, % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, Textile products, % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, Chemicals, % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, Basic metal, % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, Transport equipment, % YoY",p
+"RGDP, By Activity, Secondary, Manufacturing, Other manufacturing, % YoY",p
+"RGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, % YoY",p
+"RGDP, By Activity, Secondary, Construction, % YoY",p
+"RGDP, By Activity, Tertiary, Wholesale and retail trade, % YoY",p
+"RGDP, By Activity, Tertiary, Transport and postal services, % YoY",p
+"RGDP, By Activity, Tertiary, Accommodation and food services, % YoY",p
+"RGDP, By Activity, Tertiary, Information and communications, % YoY",p
+"RGDP, By Activity, Tertiary, Finance and insurance, % YoY",p
+"RGDP, By Activity, Tertiary, Real estate, % YoY",p
+"RGDP, By Activity, Tertiary, Professional, scientific and technical, % YoY",p
+"RGDP, By Activity, Tertiary, Public administration, % YoY",p
+"RGDP, By Activity, Tertiary, Education, % YoY",p
+"RGDP, By Activity, Tertiary, Human health and social work, % YoY",p
+"RGDP, By Activity, Tertiary, Other service, % YoY",p
+"RGDP, By Activity, Sub-total, % YoY",p
+"RGDP, By Activity, Gross domestic product (not including statistical discrepancy), % YoY",p
+"RGDP, By Activity, Statistical discrepancy, % YoY",p
+"RGDP, By Activity, % YoY",p
+"RGDP, By Activity, Primary, % YoY",p
+"RGDP, By Activity, Secondary, % YoY",p
+"RGDP, By Activity, Tertiary, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, Agriculture, forestry and fishing, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, Mining, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Food products and beverages, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Textile products, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Chemicals, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Basic metal, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Transport equipment, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Other manufacturing, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Construction, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Wholesale and retail trade, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Transport and postal services, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Accommodation and food services, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Information and communications, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Finance and insurance, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Real estate, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Professional, scientific and technical, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Public administration, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Education, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Human health and social work, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Other service, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Sub-total, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, % YoY",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Primary, Agriculture, forestry and fishing, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Primary, Mining, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Food products and beverages, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Textile products, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Chemicals, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Basic metal, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Transport equipment, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Other manufacturing, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Construction, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Wholesale and retail trade, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Transport and postal services, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Accommodation and food services, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Information and communications, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Finance and insurance, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Real estate, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Professional, scientific and technical, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Public administration, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Education, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Human health and social work, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Other service, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Sub-total, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Primary, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, % YoY",p
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, % YoY",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Primary, Agriculture, forestry and fishing, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Primary, Mining, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Food products and beverages, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Textile products, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Pulp, paper and paper products, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Chemicals, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Petroleum and coal products, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Non-metallic mineral products , Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Basic metal, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Fabricated metal products, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, General-purpose, production and business oriented machinery, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Electronic components and devices, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Electrical machinery, equipment and supplies, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Information and communication electronics equipment, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Transport equipment, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Other manufacturing, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Electricity, gas and water supply, waste management service, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Construction, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Wholesale and retail trade, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Transport and postal services, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Accommodation and food services, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Information and communications, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Finance and insurance, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Real estate, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Professional, scientific and technical, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Public administration, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Education, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Human health and social work, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Other service, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Sub-total, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Gross domestic product (not including statistical discrepancy), Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Statistical discrepancy, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Primary, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Contribution to % YoY, ppts",p
+"NGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Primary, Agriculture, forestry and fishing, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Primary, Mining, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Food products and beverages, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Textile products, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Pulp, paper and paper products, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Chemicals, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Petroleum and coal products, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Non-metallic mineral products , Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Basic metal, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Fabricated metal products, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, General-purpose, production and business oriented machinery, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Electronic components and devices, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Electrical machinery, equipment and supplies, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Information and communication electronics equipment, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Transport equipment, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Manufacturing, Other manufacturing, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Electricity, gas and water supply, waste management service, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Construction, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Wholesale and retail trade, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Transport and postal services, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Accommodation and food services, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Information and communications, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Finance and insurance, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Real estate, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Professional, scientific and technical, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Public administration, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Education, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Human health and social work, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Other service, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Sub-total, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Gross domestic product (not including statistical discrepancy), Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Statistical discrepancy, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Primary, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Secondary, Contribution to % YoY, ppts",p
+"RGDP, By Activity, (Contributions to Year-over-Year Percent Change in GDP (not including statistical discrepancy)), Tertiary, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Primary, Agriculture, forestry and fishing, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Primary, Mining, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Food products and beverages, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Textile products, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Pulp, paper and paper products, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Chemicals, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Petroleum and coal products, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Non-metallic mineral products , Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Basic metal, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Fabricated metal products, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, General-purpose, production and business oriented machinery, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Electronic components and devices, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Electrical machinery, equipment and supplies, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Information and communication electronics equipment, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Transport equipment, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Other manufacturing, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Electricity, gas and water supply, waste management service, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Construction, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Wholesale and retail trade, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Transport and postal services, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Accommodation and food services, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Information and communications, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Finance and insurance, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Real estate, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Professional, scientific and technical, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Public administration, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Education, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Human health and social work, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Other service, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Sub-total, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Primary, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, NGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Primary, Agriculture, forestry and fishing, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Primary, Mining, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Food products and beverages, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Textile products, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Pulp, paper and paper products, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Chemicals, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Petroleum and coal products, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Non-metallic mineral products , Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Basic metal, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Fabricated metal products, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, General-purpose, production and business oriented machinery, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Electronic components and devices, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Electrical machinery, equipment and supplies, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Information and communication electronics equipment, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Transport equipment, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Manufacturing, Other manufacturing, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Electricity, gas and water supply, waste management service, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Construction, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Wholesale and retail trade, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Transport and postal services, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Accommodation and food services, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Information and communications, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Finance and insurance, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Real estate, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Professional, scientific and technical, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Public administration, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Education, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Human health and social work, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Other service, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Sub-total, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Primary, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Secondary, Contribution to % YoY, ppts",p
+"Gross Output by Economic Activity, RGDP, By Activity, (Contributions to Year-over-Year Percent Change in Total), Tertiary, Contribution to % YoY, ppts",p
+"NGDP, By Activity, Primary, Agriculture, forestry and fishing, JPY bn",b
+"NGDP, By Activity, Primary, Mining, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Food products and beverages, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Textile products, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Chemicals, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Basic metal, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Transport equipment, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Other manufacturing, JPY bn",b
+"NGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, JPY bn",b
+"NGDP, By Activity, Secondary, Construction, JPY bn",b
+"NGDP, By Activity, Tertiary, Wholesale and retail trade, JPY bn",b
+"NGDP, By Activity, Tertiary, Transport and postal services, JPY bn",b
+"NGDP, By Activity, Tertiary, Accommodation and food services, JPY bn",b
+"NGDP, By Activity, Tertiary, Information and communications, JPY bn",b
+"NGDP, By Activity, Tertiary, Finance and insurance, JPY bn",b
+"NGDP, By Activity, Tertiary, Real estate, JPY bn",b
+"NGDP, By Activity, Tertiary, Professional, scientific and technical, JPY bn",b
+"NGDP, By Activity, Tertiary, Public administration, JPY bn",b
+"NGDP, By Activity, Tertiary, Education, JPY bn",b
+"NGDP, By Activity, Tertiary, Human health and social work, JPY bn",b
+"NGDP, By Activity, Tertiary, Other service, JPY bn",b
+"NGDP, By Activity, Sub-total, JPY bn",b
+"NGDP, By Activity, Gross domestic product (not including statistical discrepancy), JPY bn",b
+"NGDP, By Activity, Statistical discrepancy, JPY bn",b
+"NGDP, By Activity, JPY bn",b
+"NGDP, By Activity, Primary, JPY bn",b
+"NGDP, By Activity, Secondary, JPY bn",b
+"NGDP, By Activity, Tertiary, JPY bn",b
+"RGDP, By Activity, Primary, Agriculture, forestry and fishing, JPY bn",b
+"RGDP, By Activity, Primary, Mining, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Food products and beverages, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Textile products, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Chemicals, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Basic metal, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Transport equipment, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Other manufacturing, JPY bn",b
+"RGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, JPY bn",b
+"RGDP, By Activity, Secondary, Construction, JPY bn",b
+"RGDP, By Activity, Tertiary, Wholesale and retail trade, JPY bn",b
+"RGDP, By Activity, Tertiary, Transport and postal services, JPY bn",b
+"RGDP, By Activity, Tertiary, Accommodation and food services, JPY bn",b
+"RGDP, By Activity, Tertiary, Information and communications, JPY bn",b
+"RGDP, By Activity, Tertiary, Finance and insurance, JPY bn",b
+"RGDP, By Activity, Tertiary, Real estate, JPY bn",b
+"RGDP, By Activity, Tertiary, Professional, scientific and technical, JPY bn",b
+"RGDP, By Activity, Tertiary, Public administration, JPY bn",b
+"RGDP, By Activity, Tertiary, Education, JPY bn",b
+"RGDP, By Activity, Tertiary, Human health and social work, JPY bn",b
+"RGDP, By Activity, Tertiary, Other service, JPY bn",b
+"RGDP, By Activity, Sub-total, JPY bn",b
+"RGDP, By Activity, Gross domestic product (not including statistical discrepancy), JPY bn",b
+"RGDP, By Activity, Statistical discrepancy, JPY bn",b
+"RGDP, By Activity, JPY bn",b
+"RGDP, By Activity, Primary, JPY bn",b
+"RGDP, By Activity, Secondary, JPY bn",b
+"RGDP, By Activity, Tertiary, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, Agriculture, forestry and fishing, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, Mining, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Food products and beverages, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Textile products, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Chemicals, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Basic metal, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Transport equipment, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Other manufacturing, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Construction, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Wholesale and retail trade, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Transport and postal services, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Accommodation and food services, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Information and communications, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Finance and insurance, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Real estate, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Professional, scientific and technical, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Public administration, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Education, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Human health and social work, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Other service, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Sub-total, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Primary, Agriculture, forestry and fishing, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Primary, Mining, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Food products and beverages, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Textile products, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Chemicals, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Basic metal, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Transport equipment, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Other manufacturing, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Construction, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Wholesale and retail trade, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Transport and postal services, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Accommodation and food services, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Information and communications, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Finance and insurance, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Real estate, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Professional, scientific and technical, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Public administration, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Education, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Human health and social work, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Other service, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Sub-total, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Primary, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, JPY bn",b
+"NGDP, By Activity, Primary, Agriculture, forestry and fishing, SA, JPY bn",b
+"NGDP, By Activity, Primary, Mining, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Food products and beverages, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Textile products, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Chemicals, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Basic metal, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Transport equipment, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Manufacturing, Other manufacturing, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, SA, JPY bn",b
+"NGDP, By Activity, Secondary, Construction, SA, JPY bn",b
+"NGDP, By Activity, Tertiary, Wholesale and retail trade, SA, JPY bn",b
+"NGDP, By Activity, Tertiary, Transport and postal services, SA, JPY bn",b
+"NGDP, By Activity, Tertiary, Accommodation and food services, SA, JPY bn",b
+"NGDP, By Activity, Tertiary, Information and communications, SA, JPY bn",b
+"NGDP, By Activity, Tertiary, Finance and insurance, SA, JPY bn",b
+"NGDP, By Activity, Tertiary, Real estate, SA, JPY bn",b
+"NGDP, By Activity, Tertiary, Professional, scientific and technical, SA, JPY bn",b
+"NGDP, By Activity, Tertiary, Public administration, SA, JPY bn",b
+"NGDP, By Activity, Tertiary, Education, SA, JPY bn",b
+"NGDP, By Activity, Tertiary, Human health and social work, SA, JPY bn",b
+"NGDP, By Activity, Tertiary, Other service, SA, JPY bn",b
+"NGDP, By Activity, Sub-total, SA, JPY bn",b
+"NGDP, By Activity, Gross domestic product (not including statistical discrepancy), SA, JPY bn",b
+"NGDP, By Activity, Statistical discrepancy, SA, JPY bn",b
+"NGDP, By Activity, SA, JPY bn",b
+"NGDP, By Activity, Primary, SA, JPY bn",b
+"NGDP, By Activity, Secondary, SA, JPY bn",b
+"NGDP, By Activity, Tertiary, SA, JPY bn",b
+"RGDP, By Activity, Primary, Agriculture, forestry and fishing, SA, JPY bn",b
+"RGDP, By Activity, Primary, Mining, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Food products and beverages, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Textile products, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Chemicals, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Basic metal, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Transport equipment, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Manufacturing, Other manufacturing, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, SA, JPY bn",b
+"RGDP, By Activity, Secondary, Construction, SA, JPY bn",b
+"RGDP, By Activity, Tertiary, Wholesale and retail trade, SA, JPY bn",b
+"RGDP, By Activity, Tertiary, Transport and postal services, SA, JPY bn",b
+"RGDP, By Activity, Tertiary, Accommodation and food services, SA, JPY bn",b
+"RGDP, By Activity, Tertiary, Information and communications, SA, JPY bn",b
+"RGDP, By Activity, Tertiary, Finance and insurance, SA, JPY bn",b
+"RGDP, By Activity, Tertiary, Real estate, SA, JPY bn",b
+"RGDP, By Activity, Tertiary, Professional, scientific and technical, SA, JPY bn",b
+"RGDP, By Activity, Tertiary, Public administration, SA, JPY bn",b
+"RGDP, By Activity, Tertiary, Education, SA, JPY bn",b
+"RGDP, By Activity, Tertiary, Human health and social work, SA, JPY bn",b
+"RGDP, By Activity, Tertiary, Other service, SA, JPY bn",b
+"RGDP, By Activity, Sub-total, SA, JPY bn",b
+"RGDP, By Activity, Gross domestic product (not including statistical discrepancy), SA, JPY bn",b
+"RGDP, By Activity, Statistical discrepancy, SA, JPY bn",b
+"RGDP, By Activity, SA, JPY bn",b
+"RGDP, By Activity, Primary, SA, JPY bn",b
+"RGDP, By Activity, Secondary, SA, JPY bn",b
+"RGDP, By Activity, Tertiary, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, Agriculture, forestry and fishing, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, Mining, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Food products and beverages, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Textile products, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Chemicals, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Basic metal, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Transport equipment, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Other manufacturing, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Construction, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Wholesale and retail trade, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Transport and postal services, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Accommodation and food services, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Information and communications, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Finance and insurance, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Real estate, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Professional, scientific and technical, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Public administration, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Education, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Human health and social work, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Other service, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Sub-total, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, SA, JPY bn",b
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Primary, Agriculture, forestry and fishing, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Primary, Mining, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Food products and beverages, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Textile products, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Chemicals, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Basic metal, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Transport equipment, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Manufacturing, Other manufacturing, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, Construction, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Wholesale and retail trade, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Transport and postal services, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Accommodation and food services, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Information and communications, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Finance and insurance, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Real estate, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Professional, scientific and technical, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Public administration, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Education, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Human health and social work, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, Other service, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Sub-total, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Primary, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Secondary, SA, JPY bn",b
+"Gross Output by Economic Activity, RGDP, By Activity, Tertiary, SA, JPY bn",b
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Total Goods, SAAR, JPY bn",b
+"RGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Total Goods, SAAR, JPY bn",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, JPY bn.1",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, Contribution to YoY chg, ppts.1",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, SAAR, JPY bn.1",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, Contribution to QoQ chg, ppts.1",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, JPY bn.1",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, Contribution to YoY chg, ppts.1",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, SAAR, JPY bn.1",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, Contribution to QoQ chg, ppts.1",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, SA, JPY bn.1",b
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, SA, JPY bn.1",b
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, JPY, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, Contribution to YoY chg, ppts.2",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, SAAR, JPY, % YoY",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, Contribution to QoQ chg, ppts.2",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, JPY, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, Contribution to YoY chg, ppts.2",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, SAAR, JPY, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, Contribution to QoQ chg, ppts.2",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, SA, JPY, % YoY",p
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, SA, JPY, % YoY",p
+"NGDP, Households, Nominal disposable income, SA, JPY bn, post-2012 trend",b
+"NGDP, Households, Consumption of households, SA, JPY bn, post-2012 trend",b
+"NGDP, Households, Saving ratio, %, SA, post-2012 trend",None
+"NGDP, SAAR, JPY bn, post-2012 trend",b
+"RGDP, SAAR, JPY bn, post-2012 trend",b
+"RGDP, By Activity, Tertiary, Accommodation and food services, SA, JPY bn, post-2012 trend",b
+"RGDP, By Activity, Tertiary, SA, JPY bn, post-2012 trend",b
+"NGDP, Excess savings, JPY bn",b
+"NGDP, Excess savings, JPY bn, based on trend income",b
+"NGDP, Post-covid excess savings, JPY bn",b
+"NGDP, Post-covid excess savings, JPY bn, based on trend income",b
+"NGDP, By Activity, Primary, Agriculture, forestry and fishing, % of GDP",p
+"NGDP, By Activity, Primary, Mining, % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, Food products and beverages, % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, Textile products, % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, Chemicals, % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, Basic metal, % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, Transport equipment, % of GDP",p
+"NGDP, By Activity, Secondary, Manufacturing, Other manufacturing, % of GDP",p
+"NGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, % of GDP",p
+"NGDP, By Activity, Secondary, Construction, % of GDP",p
+"NGDP, By Activity, Tertiary, Wholesale and retail trade, % of GDP",p
+"NGDP, By Activity, Tertiary, Transport and postal services, % of GDP",p
+"NGDP, By Activity, Tertiary, Accommodation and food services, % of GDP",p
+"NGDP, By Activity, Tertiary, Information and communications, % of GDP",p
+"NGDP, By Activity, Tertiary, Finance and insurance, % of GDP",p
+"NGDP, By Activity, Tertiary, Real estate, % of GDP",p
+"NGDP, By Activity, Tertiary, Professional, scientific and technical, % of GDP",p
+"NGDP, By Activity, Tertiary, Public administration, % of GDP",p
+"NGDP, By Activity, Tertiary, Education, % of GDP",p
+"NGDP, By Activity, Tertiary, Human health and social work, % of GDP",p
+"NGDP, By Activity, Tertiary, Other service, % of GDP",p
+"NGDP, By Activity, Sub-total, % of GDP",p
+"NGDP, By Activity, Gross domestic product (not including statistical discrepancy), % of GDP",p
+"NGDP, By Activity, Statistical discrepancy, % of GDP",p
+"NGDP, By Activity, % of GDP",p
+"NGDP, By Activity, Primary, % of GDP",p
+"NGDP, By Activity, Secondary, % of GDP",p
+"NGDP, By Activity, Tertiary, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, Agriculture, forestry and fishing, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, Mining, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Food products and beverages, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Textile products, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Pulp, paper and paper products, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Chemicals, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Petroleum and coal products, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Non-metallic mineral products , % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Basic metal, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Fabricated metal products, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Electronic components and devices, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Information and communication electronics equipment, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Transport equipment, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Manufacturing, Other manufacturing, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Electricity, gas and water supply, waste management service, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, Construction, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Wholesale and retail trade, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Transport and postal services, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Accommodation and food services, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Information and communications, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Finance and insurance, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Real estate, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Professional, scientific and technical, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Public administration, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Education, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Human health and social work, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, Other service, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Sub-total, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Primary, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Secondary, % of GDP",p
+"Gross Output by Economic Activity, NGDP, By Activity, Tertiary, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, Non-Residential, % of GDP.1",p
+"NGDP, Domestic Demand, % of GDP",p
+"NGDP, % of GDP",p
+"NGDP, Domestic Demand, Private Consumption, % of GDP",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Residential, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Non-Residential, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, Private, Inventories, % of GDP",p
+"NGDP, Domestic Demand, Government Consumption, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, Public, Inventories, % of GDP",p
+"NGDP, Income from /to the Rest of the World Net, Receipt, % of GDP",p
+"NGDP, Income from /to the Rest of the World Net, Payment, % of GDP",p
+"NGDP, Domestic Demand, Private Demand, % of GDP",p
+"NGDP, Domestic Demand, Public Demand, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, % of GDP",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, % of GDP",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, % of GDP",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, % of GDP",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, % of GDP",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Durable Goods, % of GDP",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Semi-Durable Goods, % of GDP",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Non-Durable Goods, % of GDP",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, Inventories, % of GDP",p
+"NGDP, Net Exports of Goods and Services, % of GDP",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, % of GDP",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, % of GDP",p
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, % of GDP",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, % of GDP",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, % of GDP",p
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, % of GDP",p
+"NGDP, Employee compensation, % of GDP",p
+"NGDP, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Total Goods, % of GDP",p
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Buildings and Structures, Residential, % of GDP.1",p
