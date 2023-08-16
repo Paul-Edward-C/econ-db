@@ -57,35 +57,35 @@ name,display_name,data_type,chart_type
 "Exports, Main product, Traditional labour-intensive sectors, USD, % YoY, 3mma, Value","CN, Exports, Main product, Traditional labour-intensive sectors, USD, % YoY, 3mma, Value",p,line
 "Exports, Main product, Commodities, USD, % YoY, 3mma, Value","CN, Exports, Main product, Commodities, USD, % YoY, 3mma, Value",p,line
 "Imports, Energy, USD, % YoY, 3mma, Value","CN, Imports, Energy, USD, % YoY, 3mma, Value",p,line
-"Exports, All, Value, LCU","CN, Exports, All, Value, LCU, bn",r,line
-"Exports, All, Value, USD","CN, Exports, All, Value, USD, bn",r,line
-"Imports, Value, LCU","CN, Imports, Value, LCU, bn",r,line
-"Imports, Value, USD","CN, Imports, Value, USD, bn",r,line
-"Processing Imports, all, Value, USD","CN, Processing Imports, all, Value, USD, bn",r,line
-"Retained imports, Value, USD","CN, Retained imports, Value, USD, bn",r,line
-"Exports, US, Value, USD","CN, Exports, US, Value, USD, bn",r,line
-"Exports, EU, Value, USD","CN, Exports, EU, Value, USD, bn",r,line
-"Exports, North Asia, Value, USD","CN, Exports, North Asia, Value, USD, bn",r,line
-"Exports, ASEAN, Value, USD","CN, Exports, ASEAN, Value, USD, bn",r,line
-"Exports, EM, Value, USD","CN, Exports, EM, Value, USD, bn",r,line
-"Exports, DM incl North Asia, Value, USD","CN, Exports, DM incl North Asia, Value, USD, bn",r,line
-"Exports, Africa, Value, USD","CN, Exports, Africa, Value, USD, bn",r,line
-"Exports, Latin America, Value, USD","CN, Exports, Latin America, Value, USD, bn",r,line
-"Exports, DM excl Japan, Value, USD","CN, Exports, DM excl Japan, Value, USD, bn",r,line
-"Exports, India, Value, USD","CN, Exports, India, Value, USD, bn",r,line
-"Exports, Russia, Value, USD","CN, Exports, Russia, Value, USD, bn",r,line
-"Exports, South Africa, Value, USD","CN, Exports, South Africa, Value, USD, bn",r,line
-"Exports, Middle East, Value, USD","CN, Exports, Middle East, Value, USD, bn",r,line
-"Exports, ROW incl Middle East, Value, USD","CN, Exports, ROW incl Middle East, Value, USD, bn",r,line
-"Exports, ROW excl Middle East, Value, USD","CN, Exports, ROW excl Middle East, Value, USD, bn",r,line
-"Exports, Brazil, Value, USD","CN, Exports, Brazil, Value, USD, bn",r,line
-"Exports, State firms, Value, USD","CN, Exports, State firms, Value, USD, bn",r,line
-"Exports, Foreign firms, Value, USD","CN, Exports, Foreign firms, Value, USD, bn",r,line
-"Exports, Private firms, Value, USD","CN, Exports, Private firms, Value, USD, bn",r,line
-"Exports, Other firms, Value, USD","CN, Exports, Other firms, Value, USD, bn",r,line
-"Trade balance, Value, USD","CN, Trade balance, Value, USD, bn",r,line
-"Trade balance, Excl energy imports, Value, USD","CN, Trade balance, Excl energy imports, Value, USD, bn",r,line
-"Trade balance, Value, LCU","CN, Trade balance, Value, LCU, bn",r,line
+"Exports, All, Value, LCU","CN, Exports, All, Value, LCU",b,line
+"Exports, All, Value, USD","CN, Exports, All, Value, USD",b,line
+"Imports, Value, LCU","CN, Imports, Value, LCU",b,line
+"Imports, Value, USD","CN, Imports, Value, USD",b,line
+"Processing Imports, all, Value, USD","CN, Processing Imports, all, Value, USD",b,line
+"Retained imports, Value, USD","CN, Retained imports, Value, USD",b,line
+"Exports, US, Value, USD","CN, Exports, US, Value, USD",b,line
+"Exports, EU, Value, USD","CN, Exports, EU, Value, USD",b,line
+"Exports, North Asia, Value, USD","CN, Exports, North Asia, Value, USD",b,line
+"Exports, ASEAN, Value, USD","CN, Exports, ASEAN, Value, USD",b,line
+"Exports, EM, Value, USD","CN, Exports, EM, Value, USD",b,line
+"Exports, DM incl North Asia, Value, USD","CN, Exports, DM incl North Asia, Value, USD",b,line
+"Exports, Africa, Value, USD","CN, Exports, Africa, Value, USD",b,line
+"Exports, Latin America, Value, USD","CN, Exports, Latin America, Value, USD",b,line
+"Exports, DM excl Japan, Value, USD","CN, Exports, DM excl Japan, Value, USD",b,line
+"Exports, India, Value, USD","CN, Exports, India, Value, USD",b,line
+"Exports, Russia, Value, USD","CN, Exports, Russia, Value, USD",b,line
+"Exports, South Africa, Value, USD","CN, Exports, South Africa, Value, USD",b,line
+"Exports, Middle East, Value, USD","CN, Exports, Middle East, Value, USD",b,line
+"Exports, ROW incl Middle East, Value, USD","CN, Exports, ROW incl Middle East, Value, USD",b,line
+"Exports, ROW excl Middle East, Value, USD","CN, Exports, ROW excl Middle East, Value, USD",b,line
+"Exports, Brazil, Value, USD","CN, Exports, Brazil, Value, USD",b,line
+"Exports, State firms, Value, USD","CN, Exports, State firms, Value, USD",b,line
+"Exports, Foreign firms, Value, USD","CN, Exports, Foreign firms, Value, USD",b,line
+"Exports, Private firms, Value, USD","CN, Exports, Private firms, Value, USD",b,line
+"Exports, Other firms, Value, USD","CN, Exports, Other firms, Value, USD",b,line
+"Trade balance, Value, USD","CN, Trade balance, Value, USD",b,line
+"Trade balance, Excl energy imports, Value, USD","CN, Trade balance, Excl energy imports, Value, USD",b,line
+"Trade balance, Value, LCU","CN, Trade balance, Value, LCU",b,line
 "Exports, All, Value, LCU, % YoY","CN, Exports, All, Value, LCU, % YoY",p,line
 "Exports, All, Value, USD, % YoY","CN, Exports, All, Value, USD, % YoY",p,line
 "Imports, Value, LCU, % YoY","CN, Imports, Value, LCU, % YoY",p,line
@@ -144,64 +144,64 @@ name,display_name,data_type,chart_type
 "Trade balance, USD, % YoY, 3mma, Value","CN, Trade balance, USD, % YoY, 3mma, Value",p,line
 "Trade balance, Excl energy imports, USD, % YoY, 3mma, Value","CN, Trade balance, Excl energy imports, USD, % YoY, 3mma, Value",p,line
 "Trade balance, LCU, % YoY, 3mma, Value","CN, Trade balance, LCU, % YoY, 3mma, Value",p,line
-"Exports, Main product, Agriculture Product, Value, USD, SA","CN, Exports, Main product, Agriculture Product, Value, USD, SA, bn",r,line
-"Exports, Main product, Medical or Surgical Instrument & Apparatus, Value, USD, SA","CN, Exports, Main product, Medical or Surgical Instrument & Apparatus, Value, USD, SA, bn",r,line
-"Exports, Main product, Plastic Article, Value, USD, SA","CN, Exports, Main product, Plastic Article, Value, USD, SA, bn",r,line
-"Exports, Main product, Furniture & Part thereof, Value, USD, SA","CN, Exports, Main product, Furniture & Part thereof, Value, USD, SA, bn",r,line
-"Exports, Main product, Refined Petroleum Product, Value, USD, SA","CN, Exports, Main product, Refined Petroleum Product, Value, USD, SA, bn",r,line
-"Exports, Main product, Mobile Phone, Value, USD, SA","CN, Exports, Main product, Mobile Phone, Value, USD, SA, bn",r,line
-"Exports, Main product, Garment & Clothing Accessory, Value, USD, SA","CN, Exports, Main product, Garment & Clothing Accessory, Value, USD, SA, bn",r,line
-"Exports, Main product, Unwrought Aluminium & Aluminium Product, Value, USD, SA","CN, Exports, Main product, Unwrought Aluminium & Aluminium Product, Value, USD, SA, bn",r,line
-"Exports, Main product, Mechanical & Electrical Product, Value, USD, SA","CN, Exports, Main product, Mechanical & Electrical Product, Value, USD, SA, bn",r,line
-"Exports, Main product, Auto parts, Value, USD, SA","CN, Exports, Main product, Auto parts, Value, USD, SA, bn",r,line
-"Exports, Main product, Motor Vehicle, Value, USD, SA","CN, Exports, Main product, Motor Vehicle, Value, USD, SA, bn",r,line
-"Exports, Main product, LCD module, Value, USD, SA","CN, Exports, Main product, LCD module, Value, USD, SA, bn",r,line
-"Exports, Main product, Liquid Crystal Display (LCD) Panel, Value, USD, SA","CN, Exports, Main product, Liquid Crystal Display (LCD) Panel, Value, USD, SA, bn",r,line
-"Exports, Main product, Lamp & Lighting Fitting & Part thereof, Value, USD, SA","CN, Exports, Main product, Lamp & Lighting Fitting & Part thereof, Value, USD, SA, bn",r,line
-"Exports, Main product, Toy, Value, USD, SA","CN, Exports, Main product, Toy, Value, USD, SA, bn",r,line
-"Exports, Main product, Rare-earthore,metals,compounds, Value, USD, SA","CN, Exports, Main product, Rare-earthore,metals,compounds, Value, USD, SA, bn",r,line
-"Exports, Main product, Suit-case, Handbag & Similar Container, Value, USD, SA","CN, Exports, Main product, Suit-case, Handbag & Similar Container, Value, USD, SA, bn",r,line
-"Exports, Main product, Textile Yarn, Fabric & Article thereof, Value, USD, SA","CN, Exports, Main product, Textile Yarn, Fabric & Article thereof, Value, USD, SA, bn",r,line
-"Exports, Main product, Fertilizer, Value, USD, SA","CN, Exports, Main product, Fertilizer, Value, USD, SA, bn",r,line
-"Exports, Main product, Automatic Data Processing Machine & Part thereof, Value, USD, SA","CN, Exports, Main product, Automatic Data Processing Machine & Part thereof, Value, USD, SA, bn",r,line
-"Exports, Main product, Ship, Value, USD, SA","CN, Exports, Main product, Ship, Value, USD, SA, bn",r,line
-"Exports, Main product, Product of Steel or Iron, Value, USD, SA","CN, Exports, Main product, Product of Steel or Iron, Value, USD, SA, bn",r,line
-"Exports, Main product, Ceramic Product, Value, USD, SA","CN, Exports, Main product, Ceramic Product, Value, USD, SA, bn",r,line
-"Exports, Main product, Electronic Integrated Circuit, Value, USD, SA","CN, Exports, Main product, Electronic Integrated Circuit, Value, USD, SA, bn",r,line
-"Exports, Main product, Footwear, Value, USD, SA","CN, Exports, Main product, Footwear, Value, USD, SA, bn",r,line
-"Exports, Main product, Hi-Tech Product, Value, USD, SA","CN, Exports, Main product, Hi-Tech Product, Value, USD, SA, bn",r,line
-"Exports, Main product, Traditional labour-intensive sectors, Value, USD, SA","CN, Exports, Main product, Traditional labour-intensive sectors, Value, USD, SA, bn",r,line
-"Exports, Main product, Commodities, Value, USD, SA","CN, Exports, Main product, Commodities, Value, USD, SA, bn",r,line
-"Imports, Energy, Value, USD, SA","CN, Imports, Energy, Value, USD, SA, bn",r,line
-"Exports, All, Value, LCU, SA","CN, Exports, All, Value, LCU, SA, bn",r,line
-"Exports, All, Value, USD, SA","CN, Exports, All, Value, USD, SA, bn",r,line
-"Imports, Value, LCU, SA","CN, Imports, Value, LCU, SA, bn",r,line
-"Imports, Value, USD, SA","CN, Imports, Value, USD, SA, bn",r,line
-"Processing Imports, all, Value, USD, SA","CN, Processing Imports, all, Value, USD, SA, bn",r,line
-"Retained imports, Value, USD, SA","CN, Retained imports, Value, USD, SA, bn",r,line
-"Exports, US, Value, USD, SA","CN, Exports, US, Value, USD, SA, bn",r,line
-"Exports, EU, Value, USD, SA","CN, Exports, EU, Value, USD, SA, bn",r,line
-"Exports, North Asia, Value, USD, SA","CN, Exports, North Asia, Value, USD, SA, bn",r,line
-"Exports, ASEAN, Value, USD, SA","CN, Exports, ASEAN, Value, USD, SA, bn",r,line
-"Exports, EM, Value, USD, SA","CN, Exports, EM, Value, USD, SA, bn",r,line
-"Exports, DM incl North Asia, Value, USD, SA","CN, Exports, DM incl North Asia, Value, USD, SA, bn",r,line
-"Exports, Africa, Value, USD, SA","CN, Exports, Africa, Value, USD, SA, bn",r,line
-"Exports, Latin America, Value, USD, SA","CN, Exports, Latin America, Value, USD, SA, bn",r,line
-"Exports, DM excl Japan, Value, USD, SA","CN, Exports, DM excl Japan, Value, USD, SA, bn",r,line
-"Exports, India, Value, USD, SA","CN, Exports, India, Value, USD, SA, bn",r,line
-"Exports, Russia, Value, USD, SA","CN, Exports, Russia, Value, USD, SA, bn",r,line
-"Exports, South Africa, Value, USD, SA","CN, Exports, South Africa, Value, USD, SA, bn",r,line
-"Exports, Middle East, Value, USD, SA","CN, Exports, Middle East, Value, USD, SA, bn",r,line
-"Exports, ROW incl Middle East, Value, USD, SA","CN, Exports, ROW incl Middle East, Value, USD, SA, bn",r,line
-"Exports, ROW excl Middle East, Value, USD, SA","CN, Exports, ROW excl Middle East, Value, USD, SA, bn",r,line
-"Exports, Brazil, Value, USD, SA","CN, Exports, Brazil, Value, USD, SA, bn",r,line
-"Exports, State firms, Value, USD, SA","CN, Exports, State firms, Value, USD, SA, bn",r,line
-"Exports, Foreign firms, Value, USD, SA","CN, Exports, Foreign firms, Value, USD, SA, bn",r,line
-"Exports, Private firms, Value, USD, SA","CN, Exports, Private firms, Value, USD, SA, bn",r,line
-"Exports, Other firms, Value, USD, SA","CN, Exports, Other firms, Value, USD, SA, bn",r,line
-"Trade balance, Value, USD, SA","CN, Trade balance, Value, USD, SA, bn",r,line
-"Trade balance, Excl energy imports, Value, USD, SA","CN, Trade balance, Excl energy imports, Value, USD, SA, bn",r,line
-"Trade balance, Value, LCU, SA","CN, Trade balance, Value, LCU, SA, bn",r,line
+"Exports, Main product, Agriculture Product, Value, USD, SA","CN, Exports, Main product, Agriculture Product, Value, USD, SA",b,line
+"Exports, Main product, Medical or Surgical Instrument & Apparatus, Value, USD, SA","CN, Exports, Main product, Medical or Surgical Instrument & Apparatus, Value, USD, SA",b,line
+"Exports, Main product, Plastic Article, Value, USD, SA","CN, Exports, Main product, Plastic Article, Value, USD, SA",b,line
+"Exports, Main product, Furniture & Part thereof, Value, USD, SA","CN, Exports, Main product, Furniture & Part thereof, Value, USD, SA",b,line
+"Exports, Main product, Refined Petroleum Product, Value, USD, SA","CN, Exports, Main product, Refined Petroleum Product, Value, USD, SA",b,line
+"Exports, Main product, Mobile Phone, Value, USD, SA","CN, Exports, Main product, Mobile Phone, Value, USD, SA",b,line
+"Exports, Main product, Garment & Clothing Accessory, Value, USD, SA","CN, Exports, Main product, Garment & Clothing Accessory, Value, USD, SA",b,line
+"Exports, Main product, Unwrought Aluminium & Aluminium Product, Value, USD, SA","CN, Exports, Main product, Unwrought Aluminium & Aluminium Product, Value, USD, SA",b,line
+"Exports, Main product, Mechanical & Electrical Product, Value, USD, SA","CN, Exports, Main product, Mechanical & Electrical Product, Value, USD, SA",b,line
+"Exports, Main product, Auto parts, Value, USD, SA","CN, Exports, Main product, Auto parts, Value, USD, SA",b,line
+"Exports, Main product, Motor Vehicle, Value, USD, SA","CN, Exports, Main product, Motor Vehicle, Value, USD, SA",b,line
+"Exports, Main product, LCD module, Value, USD, SA","CN, Exports, Main product, LCD module, Value, USD, SA",b,line
+"Exports, Main product, Liquid Crystal Display (LCD) Panel, Value, USD, SA","CN, Exports, Main product, Liquid Crystal Display (LCD) Panel, Value, USD, SA",b,line
+"Exports, Main product, Lamp & Lighting Fitting & Part thereof, Value, USD, SA","CN, Exports, Main product, Lamp & Lighting Fitting & Part thereof, Value, USD, SA",b,line
+"Exports, Main product, Toy, Value, USD, SA","CN, Exports, Main product, Toy, Value, USD, SA",b,line
+"Exports, Main product, Rare-earthore,metals,compounds, Value, USD, SA","CN, Exports, Main product, Rare-earthore,metals,compounds, Value, USD, SA",b,line
+"Exports, Main product, Suit-case, Handbag & Similar Container, Value, USD, SA","CN, Exports, Main product, Suit-case, Handbag & Similar Container, Value, USD, SA",b,line
+"Exports, Main product, Textile Yarn, Fabric & Article thereof, Value, USD, SA","CN, Exports, Main product, Textile Yarn, Fabric & Article thereof, Value, USD, SA",b,line
+"Exports, Main product, Fertilizer, Value, USD, SA","CN, Exports, Main product, Fertilizer, Value, USD, SA",b,line
+"Exports, Main product, Automatic Data Processing Machine & Part thereof, Value, USD, SA","CN, Exports, Main product, Automatic Data Processing Machine & Part thereof, Value, USD, SA",b,line
+"Exports, Main product, Ship, Value, USD, SA","CN, Exports, Main product, Ship, Value, USD, SA",b,line
+"Exports, Main product, Product of Steel or Iron, Value, USD, SA","CN, Exports, Main product, Product of Steel or Iron, Value, USD, SA",b,line
+"Exports, Main product, Ceramic Product, Value, USD, SA","CN, Exports, Main product, Ceramic Product, Value, USD, SA",b,line
+"Exports, Main product, Electronic Integrated Circuit, Value, USD, SA","CN, Exports, Main product, Electronic Integrated Circuit, Value, USD, SA",b,line
+"Exports, Main product, Footwear, Value, USD, SA","CN, Exports, Main product, Footwear, Value, USD, SA",b,line
+"Exports, Main product, Hi-Tech Product, Value, USD, SA","CN, Exports, Main product, Hi-Tech Product, Value, USD, SA",b,line
+"Exports, Main product, Traditional labour-intensive sectors, Value, USD, SA","CN, Exports, Main product, Traditional labour-intensive sectors, Value, USD, SA",b,line
+"Exports, Main product, Commodities, Value, USD, SA","CN, Exports, Main product, Commodities, Value, USD, SA",b,line
+"Imports, Energy, Value, USD, SA","CN, Imports, Energy, Value, USD, SA",b,line
+"Exports, All, Value, LCU, SA","CN, Exports, All, Value, LCU, SA",b,line
+"Exports, All, Value, USD, SA","CN, Exports, All, Value, USD, SA",b,line
+"Imports, Value, LCU, SA","CN, Imports, Value, LCU, SA",b,line
+"Imports, Value, USD, SA","CN, Imports, Value, USD, SA",b,line
+"Processing Imports, all, Value, USD, SA","CN, Processing Imports, all, Value, USD, SA",b,line
+"Retained imports, Value, USD, SA","CN, Retained imports, Value, USD, SA",b,line
+"Exports, US, Value, USD, SA","CN, Exports, US, Value, USD, SA",b,line
+"Exports, EU, Value, USD, SA","CN, Exports, EU, Value, USD, SA",b,line
+"Exports, North Asia, Value, USD, SA","CN, Exports, North Asia, Value, USD, SA",b,line
+"Exports, ASEAN, Value, USD, SA","CN, Exports, ASEAN, Value, USD, SA",b,line
+"Exports, EM, Value, USD, SA","CN, Exports, EM, Value, USD, SA",b,line
+"Exports, DM incl North Asia, Value, USD, SA","CN, Exports, DM incl North Asia, Value, USD, SA",b,line
+"Exports, Africa, Value, USD, SA","CN, Exports, Africa, Value, USD, SA",b,line
+"Exports, Latin America, Value, USD, SA","CN, Exports, Latin America, Value, USD, SA",b,line
+"Exports, DM excl Japan, Value, USD, SA","CN, Exports, DM excl Japan, Value, USD, SA",b,line
+"Exports, India, Value, USD, SA","CN, Exports, India, Value, USD, SA",b,line
+"Exports, Russia, Value, USD, SA","CN, Exports, Russia, Value, USD, SA",b,line
+"Exports, South Africa, Value, USD, SA","CN, Exports, South Africa, Value, USD, SA",b,line
+"Exports, Middle East, Value, USD, SA","CN, Exports, Middle East, Value, USD, SA",b,line
+"Exports, ROW incl Middle East, Value, USD, SA","CN, Exports, ROW incl Middle East, Value, USD, SA",b,line
+"Exports, ROW excl Middle East, Value, USD, SA","CN, Exports, ROW excl Middle East, Value, USD, SA",b,line
+"Exports, Brazil, Value, USD, SA","CN, Exports, Brazil, Value, USD, SA",b,line
+"Exports, State firms, Value, USD, SA","CN, Exports, State firms, Value, USD, SA",b,line
+"Exports, Foreign firms, Value, USD, SA","CN, Exports, Foreign firms, Value, USD, SA",b,line
+"Exports, Private firms, Value, USD, SA","CN, Exports, Private firms, Value, USD, SA",b,line
+"Exports, Other firms, Value, USD, SA","CN, Exports, Other firms, Value, USD, SA",b,line
+"Trade balance, Value, USD, SA","CN, Trade balance, Value, USD, SA",b,line
+"Trade balance, Excl energy imports, Value, USD, SA","CN, Trade balance, Excl energy imports, Value, USD, SA",b,line
+"Trade balance, Value, LCU, SA","CN, Trade balance, Value, LCU, SA",b,line
 "Exports, US, Value, % of total, SA","CN, Exports, US, Value, % of total, SA",p,line
 "Exports, EU, Value, % of total, SA","CN, Exports, EU, Value, % of total, SA",p,line
 "Exports, DM excl Japan, Value, % of total, SA","CN, Exports, DM excl Japan, Value, % of total, SA",p,line
@@ -212,7 +212,7 @@ name,display_name,data_type,chart_type
 "Exports, Foreign firms, Value, % of total, SA","CN, Exports, Foreign firms, Value, % of total, SA",p,line
 "Exports, Private firms, Value, % of total, SA","CN, Exports, Private firms, Value, % of total, SA",p,line
 "Exports, Other firms, Value, % of total, SA","CN, Exports, Other firms, Value, % of total, SA",p,line
-"China, NGDP, USD, 12M sum, Value","CN, China, NGDP, USD, 12M sum, Value, bn",r,line
+"China, NGDP, USD, 12M sum, Value","CN, China, NGDP, USD, 12M sum, Value",b,line
 "Exports, Value, % of GDP","CN, Exports, Value, % of GDP",p,line
 "Trade balance, Value, % of GDP","CN, Trade balance, Value, % of GDP",p,line
 "Trade balance, % of GDP, 3mma, Value","CN, Trade balance, % of GDP, 3mma, Value",p,line
@@ -224,238 +224,238 @@ name,display_name,data_type,chart_type
 "China, Exports, % of world, CCA, 3mma, Value","CN, China, Exports, % of world, CCA, 3mma, Value",p,line
 "Exports, Other firms, % of world, CCA, Value","CN, Exports, Other firms, % of world, CCA, Value",p,line
 "Exports, Other firms, % of world, CCA, 3mma, Value","CN, Exports, Other firms, % of world, CCA, 3mma, Value",p,line
-"Exports, Main product, Agriculture Product, SA, USD, 3mma, Value","CN, Exports, Main product, Agriculture Product, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Medical or Surgical Instrument & Apparatus, SA, USD, 3mma, Value","CN, Exports, Main product, Medical or Surgical Instrument & Apparatus, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Plastic Article, SA, USD, 3mma, Value","CN, Exports, Main product, Plastic Article, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Furniture & Part thereof, SA, USD, 3mma, Value","CN, Exports, Main product, Furniture & Part thereof, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Refined Petroleum Product, SA, USD, 3mma, Value","CN, Exports, Main product, Refined Petroleum Product, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Mobile Phone, SA, USD, 3mma, Value","CN, Exports, Main product, Mobile Phone, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Garment & Clothing Accessory, SA, USD, 3mma, Value","CN, Exports, Main product, Garment & Clothing Accessory, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Unwrought Aluminium & Aluminium Product, SA, USD, 3mma, Value","CN, Exports, Main product, Unwrought Aluminium & Aluminium Product, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Mechanical & Electrical Product, SA, USD, 3mma, Value","CN, Exports, Main product, Mechanical & Electrical Product, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Auto parts, SA, USD, 3mma, Value","CN, Exports, Main product, Auto parts, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Motor Vehicle, SA, USD, 3mma, Value","CN, Exports, Main product, Motor Vehicle, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, LCD module, SA, USD, 3mma, Value","CN, Exports, Main product, LCD module, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Liquid Crystal Display (LCD) Panel, SA, USD, 3mma, Value","CN, Exports, Main product, Liquid Crystal Display (LCD) Panel, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Lamp & Lighting Fitting & Part thereof, SA, USD, 3mma, Value","CN, Exports, Main product, Lamp & Lighting Fitting & Part thereof, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Toy, SA, USD, 3mma, Value","CN, Exports, Main product, Toy, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Rare-earthore,metals,compounds, SA, USD, 3mma, Value","CN, Exports, Main product, Rare-earthore,metals,compounds, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Suit-case, Handbag & Similar Container, SA, USD, 3mma, Value","CN, Exports, Main product, Suit-case, Handbag & Similar Container, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Textile Yarn, Fabric & Article thereof, SA, USD, 3mma, Value","CN, Exports, Main product, Textile Yarn, Fabric & Article thereof, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Fertilizer, SA, USD, 3mma, Value","CN, Exports, Main product, Fertilizer, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Automatic Data Processing Machine & Part thereof, SA, USD, 3mma, Value","CN, Exports, Main product, Automatic Data Processing Machine & Part thereof, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Ship, SA, USD, 3mma, Value","CN, Exports, Main product, Ship, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Product of Steel or Iron, SA, USD, 3mma, Value","CN, Exports, Main product, Product of Steel or Iron, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Ceramic Product, SA, USD, 3mma, Value","CN, Exports, Main product, Ceramic Product, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Electronic Integrated Circuit, SA, USD, 3mma, Value","CN, Exports, Main product, Electronic Integrated Circuit, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Footwear, SA, USD, 3mma, Value","CN, Exports, Main product, Footwear, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Hi-Tech Product, SA, USD, 3mma, Value","CN, Exports, Main product, Hi-Tech Product, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Traditional labour-intensive sectors, SA, USD, 3mma, Value","CN, Exports, Main product, Traditional labour-intensive sectors, SA, USD, 3mma, Value, bn",r,line
-"Exports, Main product, Commodities, SA, USD, 3mma, Value","CN, Exports, Main product, Commodities, SA, USD, 3mma, Value, bn",r,line
-"Imports, Energy, SA, USD, 3mma, Value","CN, Imports, Energy, SA, USD, 3mma, Value, bn",r,line
-"Exports, All, SA, LCU, 3mma, Value","CN, Exports, All, SA, LCU, 3mma, Value, bn",r,line
-"Exports, All, SA, USD, 3mma, Value","CN, Exports, All, SA, USD, 3mma, Value, bn",r,line
-"Imports, SA, LCU, 3mma, Value","CN, Imports, SA, LCU, 3mma, Value, bn",r,line
-"Imports, SA, USD, 3mma, Value","CN, Imports, SA, USD, 3mma, Value, bn",r,line
-"Processing Imports, all, SA, USD, 3mma, Value","CN, Processing Imports, all, SA, USD, 3mma, Value, bn",r,line
-"Retained imports, SA, USD, 3mma, Value","CN, Retained imports, SA, USD, 3mma, Value, bn",r,line
-"Exports, US, SA, USD, 3mma, Value","CN, Exports, US, SA, USD, 3mma, Value, bn",r,line
-"Exports, EU, SA, USD, 3mma, Value","CN, Exports, EU, SA, USD, 3mma, Value, bn",r,line
-"Exports, North Asia, SA, USD, 3mma, Value","CN, Exports, North Asia, SA, USD, 3mma, Value, bn",r,line
-"Exports, ASEAN, SA, USD, 3mma, Value","CN, Exports, ASEAN, SA, USD, 3mma, Value, bn",r,line
-"Exports, EM, SA, USD, 3mma, Value","CN, Exports, EM, SA, USD, 3mma, Value, bn",r,line
-"Exports, DM incl North Asia, SA, USD, 3mma, Value","CN, Exports, DM incl North Asia, SA, USD, 3mma, Value, bn",r,line
-"Exports, Africa, SA, USD, 3mma, Value","CN, Exports, Africa, SA, USD, 3mma, Value, bn",r,line
-"Exports, Latin America, SA, USD, 3mma, Value","CN, Exports, Latin America, SA, USD, 3mma, Value, bn",r,line
-"Exports, DM excl Japan, SA, USD, 3mma, Value","CN, Exports, DM excl Japan, SA, USD, 3mma, Value, bn",r,line
-"Exports, India, SA, USD, 3mma, Value","CN, Exports, India, SA, USD, 3mma, Value, bn",r,line
-"Exports, Russia, SA, USD, 3mma, Value","CN, Exports, Russia, SA, USD, 3mma, Value, bn",r,line
-"Exports, South Africa, SA, USD, 3mma, Value","CN, Exports, South Africa, SA, USD, 3mma, Value, bn",r,line
-"Exports, Middle East, SA, USD, 3mma, Value","CN, Exports, Middle East, SA, USD, 3mma, Value, bn",r,line
-"Exports, ROW incl Middle East, SA, USD, 3mma, Value","CN, Exports, ROW incl Middle East, SA, USD, 3mma, Value, bn",r,line
-"Exports, ROW excl Middle East, SA, USD, 3mma, Value","CN, Exports, ROW excl Middle East, SA, USD, 3mma, Value, bn",r,line
-"Exports, Brazil, SA, USD, 3mma, Value","CN, Exports, Brazil, SA, USD, 3mma, Value, bn",r,line
-"Exports, State firms, SA, USD, 3mma, Value","CN, Exports, State firms, SA, USD, 3mma, Value, bn",r,line
-"Exports, Foreign firms, SA, USD, 3mma, Value","CN, Exports, Foreign firms, SA, USD, 3mma, Value, bn",r,line
-"Exports, Private firms, SA, USD, 3mma, Value","CN, Exports, Private firms, SA, USD, 3mma, Value, bn",r,line
-"Exports, Other firms, SA, USD, 3mma, Value","CN, Exports, Other firms, SA, USD, 3mma, Value, bn",r,line
-"Trade balance, SA, USD, 3mma, Value","CN, Trade balance, SA, USD, 3mma, Value, bn",r,line
-"Trade balance, Excl energy imports, SA, USD, 3mma, Value","CN, Trade balance, Excl energy imports, SA, USD, 3mma, Value, bn",r,line
-"Trade balance, SA, LCU, 3mma, Value","CN, Trade balance, SA, LCU, 3mma, Value, bn",r,line
-"Exports, Main product, Agriculture Product, Value, USD, % MoM, SA","CN, Exports, Main product, Agriculture Product, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Medical or Surgical Instrument & Apparatus, Value, USD, % MoM, SA","CN, Exports, Main product, Medical or Surgical Instrument & Apparatus, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Plastic Article, Value, USD, % MoM, SA","CN, Exports, Main product, Plastic Article, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Furniture & Part thereof, Value, USD, % MoM, SA","CN, Exports, Main product, Furniture & Part thereof, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Refined Petroleum Product, Value, USD, % MoM, SA","CN, Exports, Main product, Refined Petroleum Product, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Mobile Phone, Value, USD, % MoM, SA","CN, Exports, Main product, Mobile Phone, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Garment & Clothing Accessory, Value, USD, % MoM, SA","CN, Exports, Main product, Garment & Clothing Accessory, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Unwrought Aluminium & Aluminium Product, Value, USD, % MoM, SA","CN, Exports, Main product, Unwrought Aluminium & Aluminium Product, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Mechanical & Electrical Product, Value, USD, % MoM, SA","CN, Exports, Main product, Mechanical & Electrical Product, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Auto parts, Value, USD, % MoM, SA","CN, Exports, Main product, Auto parts, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Motor Vehicle, Value, USD, % MoM, SA","CN, Exports, Main product, Motor Vehicle, Value, USD, % MoM, SA",p,line
-"Exports, Main product, LCD module, Value, USD, % MoM, SA","CN, Exports, Main product, LCD module, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Liquid Crystal Display (LCD) Panel, Value, USD, % MoM, SA","CN, Exports, Main product, Liquid Crystal Display (LCD) Panel, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Lamp & Lighting Fitting & Part thereof, Value, USD, % MoM, SA","CN, Exports, Main product, Lamp & Lighting Fitting & Part thereof, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Toy, Value, USD, % MoM, SA","CN, Exports, Main product, Toy, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Rare-earthore,metals,compounds, Value, USD, % MoM, SA","CN, Exports, Main product, Rare-earthore,metals,compounds, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Suit-case, Handbag & Similar Container, Value, USD, % MoM, SA","CN, Exports, Main product, Suit-case, Handbag & Similar Container, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Textile Yarn, Fabric & Article thereof, Value, USD, % MoM, SA","CN, Exports, Main product, Textile Yarn, Fabric & Article thereof, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Fertilizer, Value, USD, % MoM, SA","CN, Exports, Main product, Fertilizer, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Automatic Data Processing Machine & Part thereof, Value, USD, % MoM, SA","CN, Exports, Main product, Automatic Data Processing Machine & Part thereof, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Ship, Value, USD, % MoM, SA","CN, Exports, Main product, Ship, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Product of Steel or Iron, Value, USD, % MoM, SA","CN, Exports, Main product, Product of Steel or Iron, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Ceramic Product, Value, USD, % MoM, SA","CN, Exports, Main product, Ceramic Product, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Electronic Integrated Circuit, Value, USD, % MoM, SA","CN, Exports, Main product, Electronic Integrated Circuit, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Footwear, Value, USD, % MoM, SA","CN, Exports, Main product, Footwear, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Hi-Tech Product, Value, USD, % MoM, SA","CN, Exports, Main product, Hi-Tech Product, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Traditional labour-intensive sectors, Value, USD, % MoM, SA","CN, Exports, Main product, Traditional labour-intensive sectors, Value, USD, % MoM, SA",p,line
-"Exports, Main product, Commodities, Value, USD, % MoM, SA","CN, Exports, Main product, Commodities, Value, USD, % MoM, SA",p,line
-"Imports, Energy, Value, USD, % MoM, SA","CN, Imports, Energy, Value, USD, % MoM, SA",p,line
-"Exports, All, Value, LCU, % MoM, SA","CN, Exports, All, Value, LCU, % MoM, SA",p,line
-"Exports, All, Value, USD, % MoM, SA","CN, Exports, All, Value, USD, % MoM, SA",p,line
-"Imports, Value, LCU, % MoM, SA","CN, Imports, Value, LCU, % MoM, SA",p,line
-"Imports, Value, USD, % MoM, SA","CN, Imports, Value, USD, % MoM, SA",p,line
-"Processing Imports, all, Value, USD, % MoM, SA","CN, Processing Imports, all, Value, USD, % MoM, SA",p,line
-"Retained imports, Value, USD, % MoM, SA","CN, Retained imports, Value, USD, % MoM, SA",p,line
-"Exports, US, Value, USD, % MoM, SA","CN, Exports, US, Value, USD, % MoM, SA",p,line
-"Exports, EU, Value, USD, % MoM, SA","CN, Exports, EU, Value, USD, % MoM, SA",p,line
-"Exports, North Asia, Value, USD, % MoM, SA","CN, Exports, North Asia, Value, USD, % MoM, SA",p,line
-"Exports, ASEAN, Value, USD, % MoM, SA","CN, Exports, ASEAN, Value, USD, % MoM, SA",p,line
-"Exports, EM, Value, USD, % MoM, SA","CN, Exports, EM, Value, USD, % MoM, SA",p,line
-"Exports, DM incl North Asia, Value, USD, % MoM, SA","CN, Exports, DM incl North Asia, Value, USD, % MoM, SA",p,line
-"Exports, Africa, Value, USD, % MoM, SA","CN, Exports, Africa, Value, USD, % MoM, SA",p,line
-"Exports, Latin America, Value, USD, % MoM, SA","CN, Exports, Latin America, Value, USD, % MoM, SA",p,line
-"Exports, DM excl Japan, Value, USD, % MoM, SA","CN, Exports, DM excl Japan, Value, USD, % MoM, SA",p,line
-"Exports, India, Value, USD, % MoM, SA","CN, Exports, India, Value, USD, % MoM, SA",p,line
-"Exports, Russia, Value, USD, % MoM, SA","CN, Exports, Russia, Value, USD, % MoM, SA",p,line
-"Exports, South Africa, Value, USD, % MoM, SA","CN, Exports, South Africa, Value, USD, % MoM, SA",p,line
-"Exports, Middle East, Value, USD, % MoM, SA","CN, Exports, Middle East, Value, USD, % MoM, SA",p,line
-"Exports, ROW incl Middle East, Value, USD, % MoM, SA","CN, Exports, ROW incl Middle East, Value, USD, % MoM, SA",p,line
-"Exports, ROW excl Middle East, Value, USD, % MoM, SA","CN, Exports, ROW excl Middle East, Value, USD, % MoM, SA",p,line
-"Exports, Brazil, Value, USD, % MoM, SA","CN, Exports, Brazil, Value, USD, % MoM, SA",p,line
-"Exports, State firms, Value, USD, % MoM, SA","CN, Exports, State firms, Value, USD, % MoM, SA",p,line
-"Exports, Foreign firms, Value, USD, % MoM, SA","CN, Exports, Foreign firms, Value, USD, % MoM, SA",p,line
-"Exports, Private firms, Value, USD, % MoM, SA","CN, Exports, Private firms, Value, USD, % MoM, SA",p,line
-"Exports, Other firms, Value, USD, % MoM, SA","CN, Exports, Other firms, Value, USD, % MoM, SA",p,line
-"Trade balance, Value, USD, % MoM, SA","CN, Trade balance, Value, USD, % MoM, SA",p,line
-"Trade balance, Excl energy imports, Value, USD, % MoM, SA","CN, Trade balance, Excl energy imports, Value, USD, % MoM, SA",p,line
-"Trade balance, Value, LCU, % MoM, SA","CN, Trade balance, Value, LCU, % MoM, SA",p,line
-"Exports, Main product, Agriculture Product, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Agriculture Product, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Medical or Surgical Instrument & Apparatus, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Medical or Surgical Instrument & Apparatus, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Plastic Article, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Plastic Article, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Furniture & Part thereof, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Furniture & Part thereof, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Refined Petroleum Product, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Refined Petroleum Product, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Mobile Phone, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Mobile Phone, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Garment & Clothing Accessory, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Garment & Clothing Accessory, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Unwrought Aluminium & Aluminium Product, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Unwrought Aluminium & Aluminium Product, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Mechanical & Electrical Product, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Mechanical & Electrical Product, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Auto parts, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Auto parts, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Motor Vehicle, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Motor Vehicle, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, LCD module, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, LCD module, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Liquid Crystal Display (LCD) Panel, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Liquid Crystal Display (LCD) Panel, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Lamp & Lighting Fitting & Part thereof, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Lamp & Lighting Fitting & Part thereof, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Toy, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Toy, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Rare-earthore,metals,compounds, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Rare-earthore,metals,compounds, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Suit-case, Handbag & Similar Container, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Suit-case, Handbag & Similar Container, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Textile Yarn, Fabric & Article thereof, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Textile Yarn, Fabric & Article thereof, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Fertilizer, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Fertilizer, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Automatic Data Processing Machine & Part thereof, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Automatic Data Processing Machine & Part thereof, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Ship, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Ship, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Product of Steel or Iron, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Product of Steel or Iron, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Ceramic Product, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Ceramic Product, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Electronic Integrated Circuit, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Electronic Integrated Circuit, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Footwear, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Footwear, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Hi-Tech Product, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Hi-Tech Product, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Traditional labour-intensive sectors, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Traditional labour-intensive sectors, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Main product, Commodities, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Commodities, SA, USD, % MoM, 3mma, Value",p,line
-"Imports, Energy, SA, USD, % MoM, 3mma, Value","CN, Imports, Energy, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, All, SA, LCU, % MoM, 3mma, Value","CN, Exports, All, SA, LCU, % MoM, 3mma, Value",p,line
-"Exports, All, SA, USD, % MoM, 3mma, Value","CN, Exports, All, SA, USD, % MoM, 3mma, Value",p,line
-"Imports, SA, LCU, % MoM, 3mma, Value","CN, Imports, SA, LCU, % MoM, 3mma, Value",p,line
-"Imports, SA, USD, % MoM, 3mma, Value","CN, Imports, SA, USD, % MoM, 3mma, Value",p,line
-"Processing Imports, all, SA, USD, % MoM, 3mma, Value","CN, Processing Imports, all, SA, USD, % MoM, 3mma, Value",p,line
-"Retained imports, SA, USD, % MoM, 3mma, Value","CN, Retained imports, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, US, SA, USD, % MoM, 3mma, Value","CN, Exports, US, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, EU, SA, USD, % MoM, 3mma, Value","CN, Exports, EU, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, North Asia, SA, USD, % MoM, 3mma, Value","CN, Exports, North Asia, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, ASEAN, SA, USD, % MoM, 3mma, Value","CN, Exports, ASEAN, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, EM, SA, USD, % MoM, 3mma, Value","CN, Exports, EM, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, DM incl North Asia, SA, USD, % MoM, 3mma, Value","CN, Exports, DM incl North Asia, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Africa, SA, USD, % MoM, 3mma, Value","CN, Exports, Africa, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Latin America, SA, USD, % MoM, 3mma, Value","CN, Exports, Latin America, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, DM excl Japan, SA, USD, % MoM, 3mma, Value","CN, Exports, DM excl Japan, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, India, SA, USD, % MoM, 3mma, Value","CN, Exports, India, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Russia, SA, USD, % MoM, 3mma, Value","CN, Exports, Russia, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, South Africa, SA, USD, % MoM, 3mma, Value","CN, Exports, South Africa, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Middle East, SA, USD, % MoM, 3mma, Value","CN, Exports, Middle East, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, ROW incl Middle East, SA, USD, % MoM, 3mma, Value","CN, Exports, ROW incl Middle East, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, ROW excl Middle East, SA, USD, % MoM, 3mma, Value","CN, Exports, ROW excl Middle East, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Brazil, SA, USD, % MoM, 3mma, Value","CN, Exports, Brazil, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, State firms, SA, USD, % MoM, 3mma, Value","CN, Exports, State firms, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Foreign firms, SA, USD, % MoM, 3mma, Value","CN, Exports, Foreign firms, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Private firms, SA, USD, % MoM, 3mma, Value","CN, Exports, Private firms, SA, USD, % MoM, 3mma, Value",p,line
-"Exports, Other firms, SA, USD, % MoM, 3mma, Value","CN, Exports, Other firms, SA, USD, % MoM, 3mma, Value",p,line
-"Trade balance, SA, USD, % MoM, 3mma, Value","CN, Trade balance, SA, USD, % MoM, 3mma, Value",p,line
-"Trade balance, Excl energy imports, SA, USD, % MoM, 3mma, Value","CN, Trade balance, Excl energy imports, SA, USD, % MoM, 3mma, Value",p,line
-"Trade balance, SA, LCU, % MoM, 3mma, Value","CN, Trade balance, SA, LCU, % MoM, 3mma, Value",p,line
-"Exports, Main product, Agriculture Product, SA, USD, MoM chg, Value","CN, Exports, Main product, Agriculture Product, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Medical or Surgical Instrument & Apparatus, SA, USD, MoM chg, Value","CN, Exports, Main product, Medical or Surgical Instrument & Apparatus, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Plastic Article, SA, USD, MoM chg, Value","CN, Exports, Main product, Plastic Article, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Furniture & Part thereof, SA, USD, MoM chg, Value","CN, Exports, Main product, Furniture & Part thereof, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Refined Petroleum Product, SA, USD, MoM chg, Value","CN, Exports, Main product, Refined Petroleum Product, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Mobile Phone, SA, USD, MoM chg, Value","CN, Exports, Main product, Mobile Phone, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Garment & Clothing Accessory, SA, USD, MoM chg, Value","CN, Exports, Main product, Garment & Clothing Accessory, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Unwrought Aluminium & Aluminium Product, SA, USD, MoM chg, Value","CN, Exports, Main product, Unwrought Aluminium & Aluminium Product, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Mechanical & Electrical Product, SA, USD, MoM chg, Value","CN, Exports, Main product, Mechanical & Electrical Product, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Auto parts, SA, USD, MoM chg, Value","CN, Exports, Main product, Auto parts, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Motor Vehicle, SA, USD, MoM chg, Value","CN, Exports, Main product, Motor Vehicle, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, LCD module, SA, USD, MoM chg, Value","CN, Exports, Main product, LCD module, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Liquid Crystal Display (LCD) Panel, SA, USD, MoM chg, Value","CN, Exports, Main product, Liquid Crystal Display (LCD) Panel, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Lamp & Lighting Fitting & Part thereof, SA, USD, MoM chg, Value","CN, Exports, Main product, Lamp & Lighting Fitting & Part thereof, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Toy, SA, USD, MoM chg, Value","CN, Exports, Main product, Toy, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Rare-earthore,metals,compounds, SA, USD, MoM chg, Value","CN, Exports, Main product, Rare-earthore,metals,compounds, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Suit-case, Handbag & Similar Container, SA, USD, MoM chg, Value","CN, Exports, Main product, Suit-case, Handbag & Similar Container, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Textile Yarn, Fabric & Article thereof, SA, USD, MoM chg, Value","CN, Exports, Main product, Textile Yarn, Fabric & Article thereof, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Fertilizer, SA, USD, MoM chg, Value","CN, Exports, Main product, Fertilizer, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Automatic Data Processing Machine & Part thereof, SA, USD, MoM chg, Value","CN, Exports, Main product, Automatic Data Processing Machine & Part thereof, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Ship, SA, USD, MoM chg, Value","CN, Exports, Main product, Ship, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Product of Steel or Iron, SA, USD, MoM chg, Value","CN, Exports, Main product, Product of Steel or Iron, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Ceramic Product, SA, USD, MoM chg, Value","CN, Exports, Main product, Ceramic Product, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Electronic Integrated Circuit, SA, USD, MoM chg, Value","CN, Exports, Main product, Electronic Integrated Circuit, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Footwear, SA, USD, MoM chg, Value","CN, Exports, Main product, Footwear, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Hi-Tech Product, SA, USD, MoM chg, Value","CN, Exports, Main product, Hi-Tech Product, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Traditional labour-intensive sectors, SA, USD, MoM chg, Value","CN, Exports, Main product, Traditional labour-intensive sectors, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Main product, Commodities, SA, USD, MoM chg, Value","CN, Exports, Main product, Commodities, SA, USD, MoM chg, Value, bn",r,line
-"Imports, Energy, SA, USD, MoM chg, Value","CN, Imports, Energy, SA, USD, MoM chg, Value, bn",r,line
-"Exports, All, SA, LCU, MoM chg, Value","CN, Exports, All, SA, LCU, MoM chg, Value, bn",r,line
-"Exports, All, SA, USD, MoM chg, Value","CN, Exports, All, SA, USD, MoM chg, Value, bn",r,line
-"Imports, SA, LCU, MoM chg, Value","CN, Imports, SA, LCU, MoM chg, Value, bn",r,line
-"Imports, SA, USD, MoM chg, Value","CN, Imports, SA, USD, MoM chg, Value, bn",r,line
-"Processing Imports, all, SA, USD, MoM chg, Value","CN, Processing Imports, all, SA, USD, MoM chg, Value, bn",r,line
-"Retained imports, SA, USD, MoM chg, Value","CN, Retained imports, SA, USD, MoM chg, Value, bn",r,line
-"Exports, US, SA, USD, MoM chg, Value","CN, Exports, US, SA, USD, MoM chg, Value, bn",r,line
-"Exports, EU, SA, USD, MoM chg, Value","CN, Exports, EU, SA, USD, MoM chg, Value, bn",r,line
-"Exports, North Asia, SA, USD, MoM chg, Value","CN, Exports, North Asia, SA, USD, MoM chg, Value, bn",r,line
-"Exports, ASEAN, SA, USD, MoM chg, Value","CN, Exports, ASEAN, SA, USD, MoM chg, Value, bn",r,line
-"Exports, EM, SA, USD, MoM chg, Value","CN, Exports, EM, SA, USD, MoM chg, Value, bn",r,line
-"Exports, DM incl North Asia, SA, USD, MoM chg, Value","CN, Exports, DM incl North Asia, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Africa, SA, USD, MoM chg, Value","CN, Exports, Africa, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Latin America, SA, USD, MoM chg, Value","CN, Exports, Latin America, SA, USD, MoM chg, Value, bn",r,line
-"Exports, DM excl Japan, SA, USD, MoM chg, Value","CN, Exports, DM excl Japan, SA, USD, MoM chg, Value, bn",r,line
-"Exports, India, SA, USD, MoM chg, Value","CN, Exports, India, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Russia, SA, USD, MoM chg, Value","CN, Exports, Russia, SA, USD, MoM chg, Value, bn",r,line
-"Exports, South Africa, SA, USD, MoM chg, Value","CN, Exports, South Africa, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Middle East, SA, USD, MoM chg, Value","CN, Exports, Middle East, SA, USD, MoM chg, Value, bn",r,line
-"Exports, ROW incl Middle East, SA, USD, MoM chg, Value","CN, Exports, ROW incl Middle East, SA, USD, MoM chg, Value, bn",r,line
-"Exports, ROW excl Middle East, SA, USD, MoM chg, Value","CN, Exports, ROW excl Middle East, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Brazil, SA, USD, MoM chg, Value","CN, Exports, Brazil, SA, USD, MoM chg, Value, bn",r,line
-"Exports, State firms, SA, USD, MoM chg, Value","CN, Exports, State firms, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Foreign firms, SA, USD, MoM chg, Value","CN, Exports, Foreign firms, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Private firms, SA, USD, MoM chg, Value","CN, Exports, Private firms, SA, USD, MoM chg, Value, bn",r,line
-"Exports, Other firms, SA, USD, MoM chg, Value","CN, Exports, Other firms, SA, USD, MoM chg, Value, bn",r,line
-"Trade balance, SA, USD, MoM chg, Value","CN, Trade balance, SA, USD, MoM chg, Value, bn",r,line
-"Trade balance, Excl energy imports, SA, USD, MoM chg, Value","CN, Trade balance, Excl energy imports, SA, USD, MoM chg, Value, bn",r,line
-"Trade balance, SA, LCU, MoM chg, Value","CN, Trade balance, SA, LCU, MoM chg, Value, bn",r,line
+"Exports, Main product, Agriculture Product, SA, USD, 3mma, Value","CN, Exports, Main product, Agriculture Product, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Medical or Surgical Instrument & Apparatus, SA, USD, 3mma, Value","CN, Exports, Main product, Medical or Surgical Instrument & Apparatus, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Plastic Article, SA, USD, 3mma, Value","CN, Exports, Main product, Plastic Article, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Furniture & Part thereof, SA, USD, 3mma, Value","CN, Exports, Main product, Furniture & Part thereof, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Refined Petroleum Product, SA, USD, 3mma, Value","CN, Exports, Main product, Refined Petroleum Product, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Mobile Phone, SA, USD, 3mma, Value","CN, Exports, Main product, Mobile Phone, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Garment & Clothing Accessory, SA, USD, 3mma, Value","CN, Exports, Main product, Garment & Clothing Accessory, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Unwrought Aluminium & Aluminium Product, SA, USD, 3mma, Value","CN, Exports, Main product, Unwrought Aluminium & Aluminium Product, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Mechanical & Electrical Product, SA, USD, 3mma, Value","CN, Exports, Main product, Mechanical & Electrical Product, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Auto parts, SA, USD, 3mma, Value","CN, Exports, Main product, Auto parts, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Motor Vehicle, SA, USD, 3mma, Value","CN, Exports, Main product, Motor Vehicle, SA, USD, 3mma, Value",b,line
+"Exports, Main product, LCD module, SA, USD, 3mma, Value","CN, Exports, Main product, LCD module, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Liquid Crystal Display (LCD) Panel, SA, USD, 3mma, Value","CN, Exports, Main product, Liquid Crystal Display (LCD) Panel, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Lamp & Lighting Fitting & Part thereof, SA, USD, 3mma, Value","CN, Exports, Main product, Lamp & Lighting Fitting & Part thereof, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Toy, SA, USD, 3mma, Value","CN, Exports, Main product, Toy, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Rare-earthore,metals,compounds, SA, USD, 3mma, Value","CN, Exports, Main product, Rare-earthore,metals,compounds, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Suit-case, Handbag & Similar Container, SA, USD, 3mma, Value","CN, Exports, Main product, Suit-case, Handbag & Similar Container, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Textile Yarn, Fabric & Article thereof, SA, USD, 3mma, Value","CN, Exports, Main product, Textile Yarn, Fabric & Article thereof, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Fertilizer, SA, USD, 3mma, Value","CN, Exports, Main product, Fertilizer, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Automatic Data Processing Machine & Part thereof, SA, USD, 3mma, Value","CN, Exports, Main product, Automatic Data Processing Machine & Part thereof, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Ship, SA, USD, 3mma, Value","CN, Exports, Main product, Ship, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Product of Steel or Iron, SA, USD, 3mma, Value","CN, Exports, Main product, Product of Steel or Iron, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Ceramic Product, SA, USD, 3mma, Value","CN, Exports, Main product, Ceramic Product, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Electronic Integrated Circuit, SA, USD, 3mma, Value","CN, Exports, Main product, Electronic Integrated Circuit, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Footwear, SA, USD, 3mma, Value","CN, Exports, Main product, Footwear, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Hi-Tech Product, SA, USD, 3mma, Value","CN, Exports, Main product, Hi-Tech Product, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Traditional labour-intensive sectors, SA, USD, 3mma, Value","CN, Exports, Main product, Traditional labour-intensive sectors, SA, USD, 3mma, Value",b,line
+"Exports, Main product, Commodities, SA, USD, 3mma, Value","CN, Exports, Main product, Commodities, SA, USD, 3mma, Value",b,line
+"Imports, Energy, SA, USD, 3mma, Value","CN, Imports, Energy, SA, USD, 3mma, Value",b,line
+"Exports, All, SA, LCU, 3mma, Value","CN, Exports, All, SA, LCU, 3mma, Value",b,line
+"Exports, All, SA, USD, 3mma, Value","CN, Exports, All, SA, USD, 3mma, Value",b,line
+"Imports, SA, LCU, 3mma, Value","CN, Imports, SA, LCU, 3mma, Value",b,line
+"Imports, SA, USD, 3mma, Value","CN, Imports, SA, USD, 3mma, Value",b,line
+"Processing Imports, all, SA, USD, 3mma, Value","CN, Processing Imports, all, SA, USD, 3mma, Value",b,line
+"Retained imports, SA, USD, 3mma, Value","CN, Retained imports, SA, USD, 3mma, Value",b,line
+"Exports, US, SA, USD, 3mma, Value","CN, Exports, US, SA, USD, 3mma, Value",b,line
+"Exports, EU, SA, USD, 3mma, Value","CN, Exports, EU, SA, USD, 3mma, Value",b,line
+"Exports, North Asia, SA, USD, 3mma, Value","CN, Exports, North Asia, SA, USD, 3mma, Value",b,line
+"Exports, ASEAN, SA, USD, 3mma, Value","CN, Exports, ASEAN, SA, USD, 3mma, Value",b,line
+"Exports, EM, SA, USD, 3mma, Value","CN, Exports, EM, SA, USD, 3mma, Value",b,line
+"Exports, DM incl North Asia, SA, USD, 3mma, Value","CN, Exports, DM incl North Asia, SA, USD, 3mma, Value",b,line
+"Exports, Africa, SA, USD, 3mma, Value","CN, Exports, Africa, SA, USD, 3mma, Value",b,line
+"Exports, Latin America, SA, USD, 3mma, Value","CN, Exports, Latin America, SA, USD, 3mma, Value",b,line
+"Exports, DM excl Japan, SA, USD, 3mma, Value","CN, Exports, DM excl Japan, SA, USD, 3mma, Value",b,line
+"Exports, India, SA, USD, 3mma, Value","CN, Exports, India, SA, USD, 3mma, Value",b,line
+"Exports, Russia, SA, USD, 3mma, Value","CN, Exports, Russia, SA, USD, 3mma, Value",b,line
+"Exports, South Africa, SA, USD, 3mma, Value","CN, Exports, South Africa, SA, USD, 3mma, Value",b,line
+"Exports, Middle East, SA, USD, 3mma, Value","CN, Exports, Middle East, SA, USD, 3mma, Value",b,line
+"Exports, ROW incl Middle East, SA, USD, 3mma, Value","CN, Exports, ROW incl Middle East, SA, USD, 3mma, Value",b,line
+"Exports, ROW excl Middle East, SA, USD, 3mma, Value","CN, Exports, ROW excl Middle East, SA, USD, 3mma, Value",b,line
+"Exports, Brazil, SA, USD, 3mma, Value","CN, Exports, Brazil, SA, USD, 3mma, Value",b,line
+"Exports, State firms, SA, USD, 3mma, Value","CN, Exports, State firms, SA, USD, 3mma, Value",b,line
+"Exports, Foreign firms, SA, USD, 3mma, Value","CN, Exports, Foreign firms, SA, USD, 3mma, Value",b,line
+"Exports, Private firms, SA, USD, 3mma, Value","CN, Exports, Private firms, SA, USD, 3mma, Value",b,line
+"Exports, Other firms, SA, USD, 3mma, Value","CN, Exports, Other firms, SA, USD, 3mma, Value",b,line
+"Trade balance, SA, USD, 3mma, Value","CN, Trade balance, SA, USD, 3mma, Value",b,line
+"Trade balance, Excl energy imports, SA, USD, 3mma, Value","CN, Trade balance, Excl energy imports, SA, USD, 3mma, Value",b,line
+"Trade balance, SA, LCU, 3mma, Value","CN, Trade balance, SA, LCU, 3mma, Value",b,line
+"Exports, Main product, Agriculture Product, Value, USD, % MoM, SA","CN, Exports, Main product, Agriculture Product, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Medical or Surgical Instrument & Apparatus, Value, USD, % MoM, SA","CN, Exports, Main product, Medical or Surgical Instrument & Apparatus, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Plastic Article, Value, USD, % MoM, SA","CN, Exports, Main product, Plastic Article, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Furniture & Part thereof, Value, USD, % MoM, SA","CN, Exports, Main product, Furniture & Part thereof, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Refined Petroleum Product, Value, USD, % MoM, SA","CN, Exports, Main product, Refined Petroleum Product, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Mobile Phone, Value, USD, % MoM, SA","CN, Exports, Main product, Mobile Phone, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Garment & Clothing Accessory, Value, USD, % MoM, SA","CN, Exports, Main product, Garment & Clothing Accessory, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Unwrought Aluminium & Aluminium Product, Value, USD, % MoM, SA","CN, Exports, Main product, Unwrought Aluminium & Aluminium Product, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Mechanical & Electrical Product, Value, USD, % MoM, SA","CN, Exports, Main product, Mechanical & Electrical Product, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Auto parts, Value, USD, % MoM, SA","CN, Exports, Main product, Auto parts, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Motor Vehicle, Value, USD, % MoM, SA","CN, Exports, Main product, Motor Vehicle, Value, USD, % MoM, SA",b,line
+"Exports, Main product, LCD module, Value, USD, % MoM, SA","CN, Exports, Main product, LCD module, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Liquid Crystal Display (LCD) Panel, Value, USD, % MoM, SA","CN, Exports, Main product, Liquid Crystal Display (LCD) Panel, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Lamp & Lighting Fitting & Part thereof, Value, USD, % MoM, SA","CN, Exports, Main product, Lamp & Lighting Fitting & Part thereof, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Toy, Value, USD, % MoM, SA","CN, Exports, Main product, Toy, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Rare-earthore,metals,compounds, Value, USD, % MoM, SA","CN, Exports, Main product, Rare-earthore,metals,compounds, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Suit-case, Handbag & Similar Container, Value, USD, % MoM, SA","CN, Exports, Main product, Suit-case, Handbag & Similar Container, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Textile Yarn, Fabric & Article thereof, Value, USD, % MoM, SA","CN, Exports, Main product, Textile Yarn, Fabric & Article thereof, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Fertilizer, Value, USD, % MoM, SA","CN, Exports, Main product, Fertilizer, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Automatic Data Processing Machine & Part thereof, Value, USD, % MoM, SA","CN, Exports, Main product, Automatic Data Processing Machine & Part thereof, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Ship, Value, USD, % MoM, SA","CN, Exports, Main product, Ship, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Product of Steel or Iron, Value, USD, % MoM, SA","CN, Exports, Main product, Product of Steel or Iron, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Ceramic Product, Value, USD, % MoM, SA","CN, Exports, Main product, Ceramic Product, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Electronic Integrated Circuit, Value, USD, % MoM, SA","CN, Exports, Main product, Electronic Integrated Circuit, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Footwear, Value, USD, % MoM, SA","CN, Exports, Main product, Footwear, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Hi-Tech Product, Value, USD, % MoM, SA","CN, Exports, Main product, Hi-Tech Product, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Traditional labour-intensive sectors, Value, USD, % MoM, SA","CN, Exports, Main product, Traditional labour-intensive sectors, Value, USD, % MoM, SA",b,line
+"Exports, Main product, Commodities, Value, USD, % MoM, SA","CN, Exports, Main product, Commodities, Value, USD, % MoM, SA",b,line
+"Imports, Energy, Value, USD, % MoM, SA","CN, Imports, Energy, Value, USD, % MoM, SA",b,line
+"Exports, All, Value, LCU, % MoM, SA","CN, Exports, All, Value, LCU, % MoM, SA",b,line
+"Exports, All, Value, USD, % MoM, SA","CN, Exports, All, Value, USD, % MoM, SA",b,line
+"Imports, Value, LCU, % MoM, SA","CN, Imports, Value, LCU, % MoM, SA",b,line
+"Imports, Value, USD, % MoM, SA","CN, Imports, Value, USD, % MoM, SA",b,line
+"Processing Imports, all, Value, USD, % MoM, SA","CN, Processing Imports, all, Value, USD, % MoM, SA",b,line
+"Retained imports, Value, USD, % MoM, SA","CN, Retained imports, Value, USD, % MoM, SA",b,line
+"Exports, US, Value, USD, % MoM, SA","CN, Exports, US, Value, USD, % MoM, SA",b,line
+"Exports, EU, Value, USD, % MoM, SA","CN, Exports, EU, Value, USD, % MoM, SA",b,line
+"Exports, North Asia, Value, USD, % MoM, SA","CN, Exports, North Asia, Value, USD, % MoM, SA",b,line
+"Exports, ASEAN, Value, USD, % MoM, SA","CN, Exports, ASEAN, Value, USD, % MoM, SA",b,line
+"Exports, EM, Value, USD, % MoM, SA","CN, Exports, EM, Value, USD, % MoM, SA",b,line
+"Exports, DM incl North Asia, Value, USD, % MoM, SA","CN, Exports, DM incl North Asia, Value, USD, % MoM, SA",b,line
+"Exports, Africa, Value, USD, % MoM, SA","CN, Exports, Africa, Value, USD, % MoM, SA",b,line
+"Exports, Latin America, Value, USD, % MoM, SA","CN, Exports, Latin America, Value, USD, % MoM, SA",b,line
+"Exports, DM excl Japan, Value, USD, % MoM, SA","CN, Exports, DM excl Japan, Value, USD, % MoM, SA",b,line
+"Exports, India, Value, USD, % MoM, SA","CN, Exports, India, Value, USD, % MoM, SA",b,line
+"Exports, Russia, Value, USD, % MoM, SA","CN, Exports, Russia, Value, USD, % MoM, SA",b,line
+"Exports, South Africa, Value, USD, % MoM, SA","CN, Exports, South Africa, Value, USD, % MoM, SA",b,line
+"Exports, Middle East, Value, USD, % MoM, SA","CN, Exports, Middle East, Value, USD, % MoM, SA",b,line
+"Exports, ROW incl Middle East, Value, USD, % MoM, SA","CN, Exports, ROW incl Middle East, Value, USD, % MoM, SA",b,line
+"Exports, ROW excl Middle East, Value, USD, % MoM, SA","CN, Exports, ROW excl Middle East, Value, USD, % MoM, SA",b,line
+"Exports, Brazil, Value, USD, % MoM, SA","CN, Exports, Brazil, Value, USD, % MoM, SA",b,line
+"Exports, State firms, Value, USD, % MoM, SA","CN, Exports, State firms, Value, USD, % MoM, SA",b,line
+"Exports, Foreign firms, Value, USD, % MoM, SA","CN, Exports, Foreign firms, Value, USD, % MoM, SA",b,line
+"Exports, Private firms, Value, USD, % MoM, SA","CN, Exports, Private firms, Value, USD, % MoM, SA",b,line
+"Exports, Other firms, Value, USD, % MoM, SA","CN, Exports, Other firms, Value, USD, % MoM, SA",b,line
+"Trade balance, Value, USD, % MoM, SA","CN, Trade balance, Value, USD, % MoM, SA",b,line
+"Trade balance, Excl energy imports, Value, USD, % MoM, SA","CN, Trade balance, Excl energy imports, Value, USD, % MoM, SA",b,line
+"Trade balance, Value, LCU, % MoM, SA","CN, Trade balance, Value, LCU, % MoM, SA",b,line
+"Exports, Main product, Agriculture Product, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Agriculture Product, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Medical or Surgical Instrument & Apparatus, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Medical or Surgical Instrument & Apparatus, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Plastic Article, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Plastic Article, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Furniture & Part thereof, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Furniture & Part thereof, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Refined Petroleum Product, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Refined Petroleum Product, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Mobile Phone, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Mobile Phone, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Garment & Clothing Accessory, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Garment & Clothing Accessory, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Unwrought Aluminium & Aluminium Product, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Unwrought Aluminium & Aluminium Product, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Mechanical & Electrical Product, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Mechanical & Electrical Product, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Auto parts, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Auto parts, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Motor Vehicle, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Motor Vehicle, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, LCD module, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, LCD module, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Liquid Crystal Display (LCD) Panel, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Liquid Crystal Display (LCD) Panel, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Lamp & Lighting Fitting & Part thereof, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Lamp & Lighting Fitting & Part thereof, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Toy, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Toy, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Rare-earthore,metals,compounds, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Rare-earthore,metals,compounds, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Suit-case, Handbag & Similar Container, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Suit-case, Handbag & Similar Container, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Textile Yarn, Fabric & Article thereof, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Textile Yarn, Fabric & Article thereof, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Fertilizer, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Fertilizer, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Automatic Data Processing Machine & Part thereof, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Automatic Data Processing Machine & Part thereof, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Ship, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Ship, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Product of Steel or Iron, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Product of Steel or Iron, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Ceramic Product, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Ceramic Product, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Electronic Integrated Circuit, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Electronic Integrated Circuit, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Footwear, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Footwear, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Hi-Tech Product, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Hi-Tech Product, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Traditional labour-intensive sectors, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Traditional labour-intensive sectors, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Main product, Commodities, SA, USD, % MoM, 3mma, Value","CN, Exports, Main product, Commodities, SA, USD, % MoM, 3mma, Value",b,line
+"Imports, Energy, SA, USD, % MoM, 3mma, Value","CN, Imports, Energy, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, All, SA, LCU, % MoM, 3mma, Value","CN, Exports, All, SA, LCU, % MoM, 3mma, Value",b,line
+"Exports, All, SA, USD, % MoM, 3mma, Value","CN, Exports, All, SA, USD, % MoM, 3mma, Value",b,line
+"Imports, SA, LCU, % MoM, 3mma, Value","CN, Imports, SA, LCU, % MoM, 3mma, Value",b,line
+"Imports, SA, USD, % MoM, 3mma, Value","CN, Imports, SA, USD, % MoM, 3mma, Value",b,line
+"Processing Imports, all, SA, USD, % MoM, 3mma, Value","CN, Processing Imports, all, SA, USD, % MoM, 3mma, Value",b,line
+"Retained imports, SA, USD, % MoM, 3mma, Value","CN, Retained imports, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, US, SA, USD, % MoM, 3mma, Value","CN, Exports, US, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, EU, SA, USD, % MoM, 3mma, Value","CN, Exports, EU, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, North Asia, SA, USD, % MoM, 3mma, Value","CN, Exports, North Asia, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, ASEAN, SA, USD, % MoM, 3mma, Value","CN, Exports, ASEAN, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, EM, SA, USD, % MoM, 3mma, Value","CN, Exports, EM, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, DM incl North Asia, SA, USD, % MoM, 3mma, Value","CN, Exports, DM incl North Asia, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Africa, SA, USD, % MoM, 3mma, Value","CN, Exports, Africa, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Latin America, SA, USD, % MoM, 3mma, Value","CN, Exports, Latin America, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, DM excl Japan, SA, USD, % MoM, 3mma, Value","CN, Exports, DM excl Japan, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, India, SA, USD, % MoM, 3mma, Value","CN, Exports, India, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Russia, SA, USD, % MoM, 3mma, Value","CN, Exports, Russia, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, South Africa, SA, USD, % MoM, 3mma, Value","CN, Exports, South Africa, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Middle East, SA, USD, % MoM, 3mma, Value","CN, Exports, Middle East, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, ROW incl Middle East, SA, USD, % MoM, 3mma, Value","CN, Exports, ROW incl Middle East, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, ROW excl Middle East, SA, USD, % MoM, 3mma, Value","CN, Exports, ROW excl Middle East, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Brazil, SA, USD, % MoM, 3mma, Value","CN, Exports, Brazil, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, State firms, SA, USD, % MoM, 3mma, Value","CN, Exports, State firms, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Foreign firms, SA, USD, % MoM, 3mma, Value","CN, Exports, Foreign firms, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Private firms, SA, USD, % MoM, 3mma, Value","CN, Exports, Private firms, SA, USD, % MoM, 3mma, Value",b,line
+"Exports, Other firms, SA, USD, % MoM, 3mma, Value","CN, Exports, Other firms, SA, USD, % MoM, 3mma, Value",b,line
+"Trade balance, SA, USD, % MoM, 3mma, Value","CN, Trade balance, SA, USD, % MoM, 3mma, Value",b,line
+"Trade balance, Excl energy imports, SA, USD, % MoM, 3mma, Value","CN, Trade balance, Excl energy imports, SA, USD, % MoM, 3mma, Value",b,line
+"Trade balance, SA, LCU, % MoM, 3mma, Value","CN, Trade balance, SA, LCU, % MoM, 3mma, Value",b,line
+"Exports, Main product, Agriculture Product, SA, USD, MoM chg, Value","CN, Exports, Main product, Agriculture Product, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Medical or Surgical Instrument & Apparatus, SA, USD, MoM chg, Value","CN, Exports, Main product, Medical or Surgical Instrument & Apparatus, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Plastic Article, SA, USD, MoM chg, Value","CN, Exports, Main product, Plastic Article, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Furniture & Part thereof, SA, USD, MoM chg, Value","CN, Exports, Main product, Furniture & Part thereof, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Refined Petroleum Product, SA, USD, MoM chg, Value","CN, Exports, Main product, Refined Petroleum Product, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Mobile Phone, SA, USD, MoM chg, Value","CN, Exports, Main product, Mobile Phone, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Garment & Clothing Accessory, SA, USD, MoM chg, Value","CN, Exports, Main product, Garment & Clothing Accessory, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Unwrought Aluminium & Aluminium Product, SA, USD, MoM chg, Value","CN, Exports, Main product, Unwrought Aluminium & Aluminium Product, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Mechanical & Electrical Product, SA, USD, MoM chg, Value","CN, Exports, Main product, Mechanical & Electrical Product, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Auto parts, SA, USD, MoM chg, Value","CN, Exports, Main product, Auto parts, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Motor Vehicle, SA, USD, MoM chg, Value","CN, Exports, Main product, Motor Vehicle, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, LCD module, SA, USD, MoM chg, Value","CN, Exports, Main product, LCD module, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Liquid Crystal Display (LCD) Panel, SA, USD, MoM chg, Value","CN, Exports, Main product, Liquid Crystal Display (LCD) Panel, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Lamp & Lighting Fitting & Part thereof, SA, USD, MoM chg, Value","CN, Exports, Main product, Lamp & Lighting Fitting & Part thereof, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Toy, SA, USD, MoM chg, Value","CN, Exports, Main product, Toy, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Rare-earthore,metals,compounds, SA, USD, MoM chg, Value","CN, Exports, Main product, Rare-earthore,metals,compounds, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Suit-case, Handbag & Similar Container, SA, USD, MoM chg, Value","CN, Exports, Main product, Suit-case, Handbag & Similar Container, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Textile Yarn, Fabric & Article thereof, SA, USD, MoM chg, Value","CN, Exports, Main product, Textile Yarn, Fabric & Article thereof, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Fertilizer, SA, USD, MoM chg, Value","CN, Exports, Main product, Fertilizer, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Automatic Data Processing Machine & Part thereof, SA, USD, MoM chg, Value","CN, Exports, Main product, Automatic Data Processing Machine & Part thereof, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Ship, SA, USD, MoM chg, Value","CN, Exports, Main product, Ship, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Product of Steel or Iron, SA, USD, MoM chg, Value","CN, Exports, Main product, Product of Steel or Iron, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Ceramic Product, SA, USD, MoM chg, Value","CN, Exports, Main product, Ceramic Product, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Electronic Integrated Circuit, SA, USD, MoM chg, Value","CN, Exports, Main product, Electronic Integrated Circuit, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Footwear, SA, USD, MoM chg, Value","CN, Exports, Main product, Footwear, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Hi-Tech Product, SA, USD, MoM chg, Value","CN, Exports, Main product, Hi-Tech Product, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Traditional labour-intensive sectors, SA, USD, MoM chg, Value","CN, Exports, Main product, Traditional labour-intensive sectors, SA, USD, MoM chg, Value",b,line
+"Exports, Main product, Commodities, SA, USD, MoM chg, Value","CN, Exports, Main product, Commodities, SA, USD, MoM chg, Value",b,line
+"Imports, Energy, SA, USD, MoM chg, Value","CN, Imports, Energy, SA, USD, MoM chg, Value",b,line
+"Exports, All, SA, LCU, MoM chg, Value","CN, Exports, All, SA, LCU, MoM chg, Value",b,line
+"Exports, All, SA, USD, MoM chg, Value","CN, Exports, All, SA, USD, MoM chg, Value",b,line
+"Imports, SA, LCU, MoM chg, Value","CN, Imports, SA, LCU, MoM chg, Value",b,line
+"Imports, SA, USD, MoM chg, Value","CN, Imports, SA, USD, MoM chg, Value",b,line
+"Processing Imports, all, SA, USD, MoM chg, Value","CN, Processing Imports, all, SA, USD, MoM chg, Value",b,line
+"Retained imports, SA, USD, MoM chg, Value","CN, Retained imports, SA, USD, MoM chg, Value",b,line
+"Exports, US, SA, USD, MoM chg, Value","CN, Exports, US, SA, USD, MoM chg, Value",b,line
+"Exports, EU, SA, USD, MoM chg, Value","CN, Exports, EU, SA, USD, MoM chg, Value",b,line
+"Exports, North Asia, SA, USD, MoM chg, Value","CN, Exports, North Asia, SA, USD, MoM chg, Value",b,line
+"Exports, ASEAN, SA, USD, MoM chg, Value","CN, Exports, ASEAN, SA, USD, MoM chg, Value",b,line
+"Exports, EM, SA, USD, MoM chg, Value","CN, Exports, EM, SA, USD, MoM chg, Value",b,line
+"Exports, DM incl North Asia, SA, USD, MoM chg, Value","CN, Exports, DM incl North Asia, SA, USD, MoM chg, Value",b,line
+"Exports, Africa, SA, USD, MoM chg, Value","CN, Exports, Africa, SA, USD, MoM chg, Value",b,line
+"Exports, Latin America, SA, USD, MoM chg, Value","CN, Exports, Latin America, SA, USD, MoM chg, Value",b,line
+"Exports, DM excl Japan, SA, USD, MoM chg, Value","CN, Exports, DM excl Japan, SA, USD, MoM chg, Value",b,line
+"Exports, India, SA, USD, MoM chg, Value","CN, Exports, India, SA, USD, MoM chg, Value",b,line
+"Exports, Russia, SA, USD, MoM chg, Value","CN, Exports, Russia, SA, USD, MoM chg, Value",b,line
+"Exports, South Africa, SA, USD, MoM chg, Value","CN, Exports, South Africa, SA, USD, MoM chg, Value",b,line
+"Exports, Middle East, SA, USD, MoM chg, Value","CN, Exports, Middle East, SA, USD, MoM chg, Value",b,line
+"Exports, ROW incl Middle East, SA, USD, MoM chg, Value","CN, Exports, ROW incl Middle East, SA, USD, MoM chg, Value",b,line
+"Exports, ROW excl Middle East, SA, USD, MoM chg, Value","CN, Exports, ROW excl Middle East, SA, USD, MoM chg, Value",b,line
+"Exports, Brazil, SA, USD, MoM chg, Value","CN, Exports, Brazil, SA, USD, MoM chg, Value",b,line
+"Exports, State firms, SA, USD, MoM chg, Value","CN, Exports, State firms, SA, USD, MoM chg, Value",b,line
+"Exports, Foreign firms, SA, USD, MoM chg, Value","CN, Exports, Foreign firms, SA, USD, MoM chg, Value",b,line
+"Exports, Private firms, SA, USD, MoM chg, Value","CN, Exports, Private firms, SA, USD, MoM chg, Value",b,line
+"Exports, Other firms, SA, USD, MoM chg, Value","CN, Exports, Other firms, SA, USD, MoM chg, Value",b,line
+"Trade balance, SA, USD, MoM chg, Value","CN, Trade balance, SA, USD, MoM chg, Value",b,line
+"Trade balance, Excl energy imports, SA, USD, MoM chg, Value","CN, Trade balance, Excl energy imports, SA, USD, MoM chg, Value",b,line
+"Trade balance, SA, LCU, MoM chg, Value","CN, Trade balance, SA, LCU, MoM chg, Value",b,line
 "Exports, US, SA, % of total, MoM chg, Value","CN, Exports, US, SA, % of total, MoM chg, Value",p,line
 "Exports, EU, SA, % of total, MoM chg, Value","CN, Exports, EU, SA, % of total, MoM chg, Value",p,line
 "Exports, DM excl Japan, SA, % of total, MoM chg, Value","CN, Exports, DM excl Japan, SA, % of total, MoM chg, Value",p,line
@@ -474,48 +474,48 @@ name,display_name,data_type,chart_type
 "Private firms, Exports, Contribution to YoY % chg, ppts, 3mma, Value","CN, Private firms, Exports, Contribution to YoY % chg, ppts, 3mma, Value",p,bar
 "Foreign firms, Exports, Contribution to YoY % chg, ppts, 3mma, Value","CN, Foreign firms, Exports, Contribution to YoY % chg, ppts, 3mma, Value",p,bar
 "Other firms, Exports, Contribution to YoY % chg, ppts, 3mma, Value","CN, Other firms, Exports, Contribution to YoY % chg, ppts, 3mma, Value",p,bar
-"Exports, Latin America and Africa Value, USD, SA","CN, Exports, Latin America and Africa Value, USD, SA, bn",r,line
-"Exports, DM, Value, USD","CN, Exports, DM, Value, USD, bn",r,line
-"Auto exports, Myanmar, Value, USD","CN, Auto exports, Myanmar, Value, USD, bn",r,line
-"Auto exports, Hong Kong, Value, USD","CN, Auto exports, Hong Kong, Value, USD, bn",r,line
-"Auto exports, India, Value, USD","CN, Auto exports, India, Value, USD, bn",r,line
-"Auto exports, Indonesia, Value, USD","CN, Auto exports, Indonesia, Value, USD, bn",r,line
-"Auto exports, Iran, Value, USD","CN, Auto exports, Iran, Value, USD, bn",r,line
-"Auto exports, Japan, Value, USD","CN, Auto exports, Japan, Value, USD, bn",r,line
-"Auto exports, Macao, Value, USD","CN, Auto exports, Macao, Value, USD, bn",r,line
-"Auto exports, Malaysia, Value, USD","CN, Auto exports, Malaysia, Value, USD, bn",r,line
-"Auto exports, Oman, Value, USD","CN, Auto exports, Oman, Value, USD, bn",r,line
-"Auto exports, Pakistan, Value, USD","CN, Auto exports, Pakistan, Value, USD, bn",r,line
-"Auto exports, Philippines, Value, USD","CN, Auto exports, Philippines, Value, USD, bn",r,line
-"Auto exports, Saudi Arabia, Value, USD","CN, Auto exports, Saudi Arabia, Value, USD, bn",r,line
-"Auto exports, Singapore, Value, USD","CN, Auto exports, Singapore, Value, USD, bn",r,line
-"Auto exports, Korea,Rep., Value, USD","CN, Auto exports, Korea,Rep., Value, USD, bn",r,line
-"Auto exports, Thailand, Value, USD","CN, Auto exports, Thailand, Value, USD, bn",r,line
-"Auto exports, Turkey, Value, USD","CN, Auto exports, Turkey, Value, USD, bn",r,line
-"Auto exports, United Arab Emirates, Value, USD","CN, Auto exports, United Arab Emirates, Value, USD, bn",r,line
-"Auto exports, Vietnam, Value, USD","CN, Auto exports, Vietnam, Value, USD, bn",r,line
-"Auto exports, Taiwan, Value, USD","CN, Auto exports, Taiwan, Value, USD, bn",r,line
-"Auto exports, Kazakhstan, Value, USD","CN, Auto exports, Kazakhstan, Value, USD, bn",r,line
-"Auto exports, South Africa, Value, USD","CN, Auto exports, South Africa, Value, USD, bn",r,line
-"Auto exports, EU, Value, USD","CN, Auto exports, EU, Value, USD, bn",r,line
-"Auto exports, United Kingdom, Value, USD","CN, Auto exports, United Kingdom, Value, USD, bn",r,line
-"Auto exports, Switzerland, Value, USD","CN, Auto exports, Switzerland, Value, USD, bn",r,line
-"Auto exports, Russia, Value, USD","CN, Auto exports, Russia, Value, USD, bn",r,line
-"Auto exports, Ukraine, Value, USD","CN, Auto exports, Ukraine, Value, USD, bn",r,line
-"Auto exports, Argentina, Value, USD","CN, Auto exports, Argentina, Value, USD, bn",r,line
-"Auto exports, Brazil, Value, USD","CN, Auto exports, Brazil, Value, USD, bn",r,line
-"Auto exports, Chile, Value, USD","CN, Auto exports, Chile, Value, USD, bn",r,line
-"Auto exports, Canada, Value, USD","CN, Auto exports, Canada, Value, USD, bn",r,line
-"Auto exports, United States, Value, USD","CN, Auto exports, United States, Value, USD, bn",r,line
-"Auto exports, Australia, Value, USD","CN, Auto exports, Australia, Value, USD, bn",r,line
-"Auto exports, New Zealand, Value, USD","CN, Auto exports, New Zealand, Value, USD, bn",r,line
-"Auto exports, Total, Value, USD","CN, Auto exports, Total, Value, USD, bn",r,line
-"Auto exports, Europe, Value, USD","CN, Auto exports, Europe, Value, USD, bn",r,line
-"Auto exports, East Asia, Value, USD","CN, Auto exports, East Asia, Value, USD, bn",r,line
-"Auto exports, Other EM, Value, USD","CN, Auto exports, Other EM, Value, USD, bn",r,line
-"Auto exports, North America, Value, USD","CN, Auto exports, North America, Value, USD, bn",r,line
-"Auto exports, Australia and NZ, Value, USD","CN, Auto exports, Australia and NZ, Value, USD, bn",r,line
-"Auto exports, India and Middle East, Value, USD","CN, Auto exports, India and Middle East, Value, USD, bn",r,line
+"Exports, Latin America and Africa Value, USD, SA","CN, Exports, Latin America and Africa Value, USD, SA",b,line
+"Exports, DM, Value, USD","CN, Exports, DM, Value, USD",b,line
+"Auto exports, Myanmar, Value, USD","CN, Auto exports, Myanmar, Value, USD",None,line
+"Auto exports, Hong Kong, Value, USD","CN, Auto exports, Hong Kong, Value, USD",None,line
+"Auto exports, India, Value, USD","CN, Auto exports, India, Value, USD",None,line
+"Auto exports, Indonesia, Value, USD","CN, Auto exports, Indonesia, Value, USD",None,line
+"Auto exports, Iran, Value, USD","CN, Auto exports, Iran, Value, USD",None,line
+"Auto exports, Japan, Value, USD","CN, Auto exports, Japan, Value, USD",None,line
+"Auto exports, Macao, Value, USD","CN, Auto exports, Macao, Value, USD",None,line
+"Auto exports, Malaysia, Value, USD","CN, Auto exports, Malaysia, Value, USD",None,line
+"Auto exports, Oman, Value, USD","CN, Auto exports, Oman, Value, USD",None,line
+"Auto exports, Pakistan, Value, USD","CN, Auto exports, Pakistan, Value, USD",None,line
+"Auto exports, Philippines, Value, USD","CN, Auto exports, Philippines, Value, USD",None,line
+"Auto exports, Saudi Arabia, Value, USD","CN, Auto exports, Saudi Arabia, Value, USD",None,line
+"Auto exports, Singapore, Value, USD","CN, Auto exports, Singapore, Value, USD",None,line
+"Auto exports, Korea,Rep., Value, USD","CN, Auto exports, Korea,Rep., Value, USD",None,line
+"Auto exports, Thailand, Value, USD","CN, Auto exports, Thailand, Value, USD",None,line
+"Auto exports, Turkey, Value, USD","CN, Auto exports, Turkey, Value, USD",None,line
+"Auto exports, United Arab Emirates, Value, USD","CN, Auto exports, United Arab Emirates, Value, USD",None,line
+"Auto exports, Vietnam, Value, USD","CN, Auto exports, Vietnam, Value, USD",None,line
+"Auto exports, Taiwan, Value, USD","CN, Auto exports, Taiwan, Value, USD",None,line
+"Auto exports, Kazakhstan, Value, USD","CN, Auto exports, Kazakhstan, Value, USD",None,line
+"Auto exports, South Africa, Value, USD","CN, Auto exports, South Africa, Value, USD",None,line
+"Auto exports, EU, Value, USD","CN, Auto exports, EU, Value, USD",None,line
+"Auto exports, United Kingdom, Value, USD","CN, Auto exports, United Kingdom, Value, USD",None,line
+"Auto exports, Switzerland, Value, USD","CN, Auto exports, Switzerland, Value, USD",None,line
+"Auto exports, Russia, Value, USD","CN, Auto exports, Russia, Value, USD",None,line
+"Auto exports, Ukraine, Value, USD","CN, Auto exports, Ukraine, Value, USD",None,line
+"Auto exports, Argentina, Value, USD","CN, Auto exports, Argentina, Value, USD",None,line
+"Auto exports, Brazil, Value, USD","CN, Auto exports, Brazil, Value, USD",None,line
+"Auto exports, Chile, Value, USD","CN, Auto exports, Chile, Value, USD",None,line
+"Auto exports, Canada, Value, USD","CN, Auto exports, Canada, Value, USD",None,line
+"Auto exports, United States, Value, USD","CN, Auto exports, United States, Value, USD",None,line
+"Auto exports, Australia, Value, USD","CN, Auto exports, Australia, Value, USD",None,line
+"Auto exports, New Zealand, Value, USD","CN, Auto exports, New Zealand, Value, USD",None,line
+"Auto exports, Total, Value, USD","CN, Auto exports, Total, Value, USD",None,line
+"Auto exports, Europe, Value, USD","CN, Auto exports, Europe, Value, USD",None,line
+"Auto exports, East Asia, Value, USD","CN, Auto exports, East Asia, Value, USD",None,line
+"Auto exports, Other EM, Value, USD","CN, Auto exports, Other EM, Value, USD",None,line
+"Auto exports, North America, Value, USD","CN, Auto exports, North America, Value, USD",None,line
+"Auto exports, Australia and NZ, Value, USD","CN, Auto exports, Australia and NZ, Value, USD",None,line
+"Auto exports, India and Middle East, Value, USD","CN, Auto exports, India and Middle East, Value, USD",None,line
 "Auto exports, Europe, Value, % of total","CN, Auto exports, Europe, Value, % of total",p,line
 "Auto exports, East Asia, Value, % of total","CN, Auto exports, East Asia, Value, % of total",p,line
 "Auto exports, Russia, Value, % of total","CN, Auto exports, Russia, Value, % of total",p,line

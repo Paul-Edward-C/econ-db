@@ -33,7 +33,7 @@ class Number_Unit_Generator(object):
         # Use to determine raw data number unit
         number_unit_data_type_map = {
             "k": [],
-            "b": ["JPY bn"],
+            "b": ["JPY bn", "NTD bn", "USD bn", "KRW bn", "CNY bn", "TWD bn"],
             "m": [],
             "p": [
                 "% of GDP",
@@ -42,6 +42,14 @@ class Number_Unit_Generator(object):
                 "Contribution to QoQ chg, ppts",
                 "% SAAR",
                 "Contribution to YoY chg, ppts",
+                "Contribution to YoY % chg, ppts",
+                "SA, % MoM",
+                "SA, % of total",
+                "SA, TWD bn, % MoM",
+                "% of total exports",
+                "% of total",
+                "% of world",
+                "Contribution to MoM chg, ppts",
             ],
         }
 
@@ -52,9 +60,8 @@ class Number_Unit_Generator(object):
             ]
 
             if any(status_list):
-                result.loc[column, "data_type"] = [
-                    unit for unit, status in zip(number_unit_data_type_map.keys(), status_list) if status
-                ][0]
+                data_types = [unit for unit, status in zip(number_unit_data_type_map.keys(), status_list) if status]
+                result.loc[column, "data_type"] = "p" if "p" in data_types and len(data_types) != 1 else data_types[0]
             else:
                 result.loc[column, "data_type"] = "None"
                 logging.warning(f"No matching:{column}")

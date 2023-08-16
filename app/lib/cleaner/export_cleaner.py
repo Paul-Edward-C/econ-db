@@ -25,7 +25,7 @@ class EXPORT_cleaner:
 
         freq_full = self.setting.freq_full_name_map[freq]
         raw_data_path = self.setting.structure[country]["Foreign Trade"][f"{freq_full}_raw_data_path"]
-        temp_data_setting_path = self.setting.structure[country]["Foreign Trade"][f"{freq}_temp_setting_path"]
+        temp_data_setting_path = self.setting.structure[country]["Foreign Trade"][f"{freq_full}_temp_setting_path"]
         data_path = self.setting.structure[country]["Foreign Trade"][f"{freq_full}_data_path"]
         data = pd.read_csv(raw_data_path, index_col=[0])
         temp_data_setting = pd.read_csv(temp_data_setting_path, index_col=[0])
