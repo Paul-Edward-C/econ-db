@@ -1,58 +1,58 @@
 name,display_name,data_type,chart_type
 "NGDP, LCU, % YoY","CN, NGDP, LCU, % YoY",p,line
-"NGDP, LCU","CN, NGDP, LCU, bn",r,line
-"NGDP, LCU, YTD","CN, NGDP, LCU, YTD, bn",r,line
-"NGDP, Other, LCU","CN, NGDP, Other, LCU, bn",r,line
-"NGDP, Other, LCU, YTD","CN, NGDP, Other, LCU, YTD, bn",r,line
-"NGDP, Storage and Post, LCU","CN, NGDP, Storage and Post, LCU, bn",r,line
-"NGDP, Storage and Post, LCU, YTD","CN, NGDP, Storage and Post, LCU, YTD, bn",r,line
+"NGDP, LCU","CN, NGDP, LCU",b,line
+"NGDP, LCU, YTD","CN, NGDP, LCU, YTD",b,line
+"NGDP, Other, LCU","CN, NGDP, Other, LCU",b,line
+"NGDP, Other, LCU, YTD","CN, NGDP, Other, LCU, YTD",b,line
+"NGDP, Storage and Post, LCU","CN, NGDP, Storage and Post, LCU",b,line
+"NGDP, Storage and Post, LCU, YTD","CN, NGDP, Storage and Post, LCU, YTD",b,line
 "RGDP, LCU, % QoQ","CN, RGDP, LCU, % QoQ",p,line
 "RGDP, LCU, % YoY","CN, RGDP, LCU, % YoY",p,line
 "RGDP, % YoY, YTD, LCU","CN, RGDP, % YoY, YTD, LCU",p,line
-"RGDP, LCU","CN, RGDP, LCU, bn",r,line
-"RGDP, LCU, YTD","CN, RGDP, LCU, YTD, bn",r,line
+"RGDP, LCU","CN, RGDP, LCU",b,line
+"RGDP, LCU, YTD","CN, RGDP, LCU, YTD",b,line
 "RGDP, Other, LCU, % YoY","CN, RGDP, Other, LCU, % YoY",p,line
 "RGDP, Other, % YoY, YTD, LCU","CN, RGDP, Other, % YoY, YTD, LCU",p,line
 "RGDP, Storage and Post, LCU, % YoY","CN, RGDP, Storage and Post, LCU, % YoY",p,line
 "RGDP, Storage and Post, % YoY, YTD, LCU","CN, RGDP, Storage and Post, % YoY, YTD, LCU",p,line
-"NGDP, LCU, SA","CN, NGDP, LCU, SA, bn",r,line
+"NGDP, LCU, SA","CN, NGDP, LCU, SA",b,line
 "NGDP, LCU, % QoQ","CN, NGDP, LCU, % QoQ",p,line
-"NGDP, USD","CN, NGDP, USD, bn",r,line
-"NGDP, USD, SA","CN, NGDP, USD, SA, bn",r,line
-"NGDP, LCU, 12M sum","CN, NGDP, LCU, 12M sum, bn",r,line
-"NGDP, USD, 12M sum","CN, NGDP, USD, 12M sum, bn",r,line
+"NGDP, USD","CN, NGDP, USD",b,line
+"NGDP, USD, SA","CN, NGDP, USD, SA",b,line
+"NGDP, LCU, 12M sum","CN, NGDP, LCU, 12M sum",b,line
+"NGDP, USD, 12M sum","CN, NGDP, USD, 12M sum",b,line
 "NGDP, % QoQ, SA","CN, NGDP, % QoQ, SA",p,line
-"NGDP, index","CN, NGDP, index, bn",r,line
-"RGDP, index","CN, RGDP, index, bn",r,line
-"GDP, Deflator","CN, GDP, Deflator, bn",r,line
+"NGDP, index","CN, NGDP, index",None,line
+"RGDP, index","CN, RGDP, index",None,line
+"GDP, Deflator","CN, GDP, Deflator",None,line
 "GDP, Deflator, LCU, % YoY","CN, GDP, Deflator, LCU, % YoY",p,line
 "GDP, Deflator, % YoY, approx, LCU","CN, GDP, Deflator, % YoY, approx, LCU",p,line
-"RGDP, index, HP filter trend","CN, RGDP, index, HP filter trend, bn",r,line
-"RGDP, output gap, ppts","CN, RGDP, output gap, ppts, bn",r,line
-"NGDP, HP filter trend","CN, NGDP, HP filter trend, bn",r,line
+"RGDP, index, HP filter trend","CN, RGDP, index, HP filter trend",None,line
+"RGDP, output gap, ppts","CN, RGDP, output gap, ppts",None,line
+"NGDP, HP filter trend","CN, NGDP, HP filter trend",None,line
 "NGDP, By Activity, Primary, Agriculture, LCU, % YoY","CN, NGDP, By Activity, Primary, Agriculture, LCU, % YoY",p,line
-"NGDP, By Activity, Primary, Agriculture, LCU","CN, NGDP, By Activity, Primary, Agriculture, LCU, bn",r,line
-"NGDP, By Activity, Primary, Agriculture, LCU, YTD","CN, NGDP, By Activity, Primary, Agriculture, LCU, YTD, bn",r,line
+"NGDP, By Activity, Primary, Agriculture, LCU","CN, NGDP, By Activity, Primary, Agriculture, LCU",b,line
+"NGDP, By Activity, Primary, Agriculture, LCU, YTD","CN, NGDP, By Activity, Primary, Agriculture, LCU, YTD",b,line
 "NGDP, By Activity, Secondary, Construction, LCU, % YoY","CN, NGDP, By Activity, Secondary, Construction, LCU, % YoY",p,line
-"NGDP, By Activity, Secondary, Construction, LCU","CN, NGDP, By Activity, Secondary, Construction, LCU, bn",r,line
-"NGDP, By Activity, Secondary, Construction, LCU, YTD","CN, NGDP, By Activity, Secondary, Construction, LCU, YTD, bn",r,line
+"NGDP, By Activity, Secondary, Construction, LCU","CN, NGDP, By Activity, Secondary, Construction, LCU",b,line
+"NGDP, By Activity, Secondary, Construction, LCU, YTD","CN, NGDP, By Activity, Secondary, Construction, LCU, YTD",b,line
 "NGDP, By Activity, Secondary, Industry, LCU, % YoY","CN, NGDP, By Activity, Secondary, Industry, LCU, % YoY",p,line
-"NGDP, By Activity, Secondary, Industry, LCU","CN, NGDP, By Activity, Secondary, Industry, LCU, bn",r,line
-"NGDP, By Activity, Secondary, Industry, LCU, YTD","CN, NGDP, By Activity, Secondary, Industry, LCU, YTD, bn",r,line
+"NGDP, By Activity, Secondary, Industry, LCU","CN, NGDP, By Activity, Secondary, Industry, LCU",b,line
+"NGDP, By Activity, Secondary, Industry, LCU, YTD","CN, NGDP, By Activity, Secondary, Industry, LCU, YTD",b,line
 "NGDP, By Activity, Secondary, Industry, Manufacturing, LCU, % YoY","CN, NGDP, By Activity, Secondary, Industry, Manufacturing, LCU, % YoY",p,line
-"NGDP, By Activity, Secondary, Industry, Manufacturing, LCU","CN, NGDP, By Activity, Secondary, Industry, Manufacturing, LCU, bn",r,line
-"NGDP, By Activity, Secondary, Industry, Manufacturing, LCU, YTD","CN, NGDP, By Activity, Secondary, Industry, Manufacturing, LCU, YTD, bn",r,line
+"NGDP, By Activity, Secondary, Industry, Manufacturing, LCU","CN, NGDP, By Activity, Secondary, Industry, Manufacturing, LCU",b,line
+"NGDP, By Activity, Secondary, Industry, Manufacturing, LCU, YTD","CN, NGDP, By Activity, Secondary, Industry, Manufacturing, LCU, YTD",b,line
 "NGDP, By Activity, Primary, LCU, % YoY","CN, NGDP, By Activity, Primary, LCU, % YoY",p,line
-"NGDP, By Activity, Primary, LCU","CN, NGDP, By Activity, Primary, LCU, bn",r,line
-"NGDP, By Activity, Primary, LCU, YTD","CN, NGDP, By Activity, Primary, LCU, YTD, bn",r,line
-"NGDP, By Activity, Primary, Primary, Agriculture, LCU","CN, NGDP, By Activity, Primary, Primary, Agriculture, LCU, bn",r,line
-"NGDP, By Activity, Primary, Primary, Agriculture, LCU, YTD","CN, NGDP, By Activity, Primary, Primary, Agriculture, LCU, YTD, bn",r,line
+"NGDP, By Activity, Primary, LCU","CN, NGDP, By Activity, Primary, LCU",b,line
+"NGDP, By Activity, Primary, LCU, YTD","CN, NGDP, By Activity, Primary, LCU, YTD",b,line
+"NGDP, By Activity, Primary, Primary, Agriculture, LCU","CN, NGDP, By Activity, Primary, Primary, Agriculture, LCU",b,line
+"NGDP, By Activity, Primary, Primary, Agriculture, LCU, YTD","CN, NGDP, By Activity, Primary, Primary, Agriculture, LCU, YTD",b,line
 "NGDP, By Activity, Secondary, LCU, % YoY","CN, NGDP, By Activity, Secondary, LCU, % YoY",p,line
-"NGDP, By Activity, Secondary, LCU","CN, NGDP, By Activity, Secondary, LCU, bn",r,line
-"NGDP, By Activity, Secondary, LCU, YTD","CN, NGDP, By Activity, Secondary, LCU, YTD, bn",r,line
+"NGDP, By Activity, Secondary, LCU","CN, NGDP, By Activity, Secondary, LCU",b,line
+"NGDP, By Activity, Secondary, LCU, YTD","CN, NGDP, By Activity, Secondary, LCU, YTD",b,line
 "NGDP, By Activity, Tertiary, LCU, % YoY","CN, NGDP, By Activity, Tertiary, LCU, % YoY",p,line
-"NGDP, By Activity, Tertiary, LCU","CN, NGDP, By Activity, Tertiary, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, LCU, YTD","CN, NGDP, By Activity, Tertiary, LCU, YTD, bn",r,line
+"NGDP, By Activity, Tertiary, LCU","CN, NGDP, By Activity, Tertiary, LCU",b,line
+"NGDP, By Activity, Tertiary, LCU, YTD","CN, NGDP, By Activity, Tertiary, LCU, YTD",b,line
 "RGDP, By Activity, Primary, Agriculture, LCU, % YoY","CN, RGDP, By Activity, Primary, Agriculture, LCU, % YoY",p,line
 "RGDP, By Activity, Primary, Agriculture, % YoY, YTD, LCU","CN, RGDP, By Activity, Primary, Agriculture, % YoY, YTD, LCU",p,line
 "RGDP, By Activity, Secondary, Construction, LCU, % YoY","CN, RGDP, By Activity, Secondary, Construction, LCU, % YoY",p,line
@@ -63,42 +63,42 @@ name,display_name,data_type,chart_type
 "RGDP, By Activity, Secondary, Industry, Manufacturing, % YoY, YTD, LCU","CN, RGDP, By Activity, Secondary, Industry, Manufacturing, % YoY, YTD, LCU",p,line
 "RGDP, By Activity, Primary, LCU, % YoY","CN, RGDP, By Activity, Primary, LCU, % YoY",p,line
 "RGDP, By Activity, Primary, % YoY, YTD, LCU","CN, RGDP, By Activity, Primary, % YoY, YTD, LCU",p,line
-"RGDP, By Activity, Primary, LCU","CN, RGDP, By Activity, Primary, LCU, bn",r,line
-"RGDP, By Activity, Primary, LCU, YTD","CN, RGDP, By Activity, Primary, LCU, YTD, bn",r,line
+"RGDP, By Activity, Primary, LCU","CN, RGDP, By Activity, Primary, LCU",b,line
+"RGDP, By Activity, Primary, LCU, YTD","CN, RGDP, By Activity, Primary, LCU, YTD",b,line
 "RGDP, By Activity, Primary, Primary, Agriculture, LCU, % YoY","CN, RGDP, By Activity, Primary, Primary, Agriculture, LCU, % YoY",p,line
 "RGDP, By Activity, Primary, Primary, Agriculture, % YoY, YTD, LCU","CN, RGDP, By Activity, Primary, Primary, Agriculture, % YoY, YTD, LCU",p,line
 "RGDP, By Activity, Secondary, LCU, % YoY","CN, RGDP, By Activity, Secondary, LCU, % YoY",p,line
 "RGDP, By Activity, Secondary, % YoY, YTD, LCU","CN, RGDP, By Activity, Secondary, % YoY, YTD, LCU",p,line
-"RGDP, By Activity, Secondary, LCU","CN, RGDP, By Activity, Secondary, LCU, bn",r,line
-"RGDP, By Activity, Secondary, LCU, YTD","CN, RGDP, By Activity, Secondary, LCU, YTD, bn",r,line
+"RGDP, By Activity, Secondary, LCU","CN, RGDP, By Activity, Secondary, LCU",b,line
+"RGDP, By Activity, Secondary, LCU, YTD","CN, RGDP, By Activity, Secondary, LCU, YTD",b,line
 "RGDP, By Activity, Tertiary, LCU, % YoY","CN, RGDP, By Activity, Tertiary, LCU, % YoY",p,line
 "RGDP, By Activity, Tertiary, % YoY, YTD, LCU","CN, RGDP, By Activity, Tertiary, % YoY, YTD, LCU",p,line
-"RGDP, By Activity, Tertiary, LCU","CN, RGDP, By Activity, Tertiary, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, LCU, YTD","CN, RGDP, By Activity, Tertiary, LCU, YTD, bn",r,line
+"RGDP, By Activity, Tertiary, LCU","CN, RGDP, By Activity, Tertiary, LCU",b,line
+"RGDP, By Activity, Tertiary, LCU, YTD","CN, RGDP, By Activity, Tertiary, LCU, YTD",b,line
 "NGDP, By Activity, Tertiary, Finance and insurance, LCU, % YoY","CN, NGDP, By Activity, Tertiary, Finance and insurance, LCU, % YoY",p,line
-"NGDP, By Activity, Tertiary, Finance and insurance, LCU","CN, NGDP, By Activity, Tertiary, Finance and insurance, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Finance and insurance, LCU, YTD","CN, NGDP, By Activity, Tertiary, Finance and insurance, LCU, YTD, bn",r,line
+"NGDP, By Activity, Tertiary, Finance and insurance, LCU","CN, NGDP, By Activity, Tertiary, Finance and insurance, LCU",b,line
+"NGDP, By Activity, Tertiary, Finance and insurance, LCU, YTD","CN, NGDP, By Activity, Tertiary, Finance and insurance, LCU, YTD",b,line
 "NGDP, By Activity, Tertiary, Accommodation and food services, LCU, % YoY","CN, NGDP, By Activity, Tertiary, Accommodation and food services, LCU, % YoY",p,line
-"NGDP, By Activity, Tertiary, Accommodation and food services, LCU","CN, NGDP, By Activity, Tertiary, Accommodation and food services, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Accommodation and food services, LCU, YTD","CN, NGDP, By Activity, Tertiary, Accommodation and food services, LCU, YTD, bn",r,line
+"NGDP, By Activity, Tertiary, Accommodation and food services, LCU","CN, NGDP, By Activity, Tertiary, Accommodation and food services, LCU",b,line
+"NGDP, By Activity, Tertiary, Accommodation and food services, LCU, YTD","CN, NGDP, By Activity, Tertiary, Accommodation and food services, LCU, YTD",b,line
 "NGDP, By Activity, Tertiary, Information and communication, LCU, % YoY","CN, NGDP, By Activity, Tertiary, Information and communication, LCU, % YoY",p,line
-"NGDP, By Activity, Tertiary, Information and communication, LCU","CN, NGDP, By Activity, Tertiary, Information and communication, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Information and communication, LCU, YTD","CN, NGDP, By Activity, Tertiary, Information and communication, LCU, YTD, bn",r,line
+"NGDP, By Activity, Tertiary, Information and communication, LCU","CN, NGDP, By Activity, Tertiary, Information and communication, LCU",b,line
+"NGDP, By Activity, Tertiary, Information and communication, LCU, YTD","CN, NGDP, By Activity, Tertiary, Information and communication, LCU, YTD",b,line
 "NGDP, By Activity, Tertiary, Leasing and Business Services, LCU, % YoY","CN, NGDP, By Activity, Tertiary, Leasing and Business Services, LCU, % YoY",p,line
-"NGDP, By Activity, Tertiary, Leasing and Business Services, LCU","CN, NGDP, By Activity, Tertiary, Leasing and Business Services, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Leasing and Business Services, LCU, YTD","CN, NGDP, By Activity, Tertiary, Leasing and Business Services, LCU, YTD, bn",r,line
+"NGDP, By Activity, Tertiary, Leasing and Business Services, LCU","CN, NGDP, By Activity, Tertiary, Leasing and Business Services, LCU",b,line
+"NGDP, By Activity, Tertiary, Leasing and Business Services, LCU, YTD","CN, NGDP, By Activity, Tertiary, Leasing and Business Services, LCU, YTD",b,line
 "NGDP, By Activity, Tertiary, Others, LCU, % YoY","CN, NGDP, By Activity, Tertiary, Others, LCU, % YoY",p,line
-"NGDP, By Activity, Tertiary, Others, LCU","CN, NGDP, By Activity, Tertiary, Others, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Others, LCU, YTD","CN, NGDP, By Activity, Tertiary, Others, LCU, YTD, bn",r,line
+"NGDP, By Activity, Tertiary, Others, LCU","CN, NGDP, By Activity, Tertiary, Others, LCU",b,line
+"NGDP, By Activity, Tertiary, Others, LCU, YTD","CN, NGDP, By Activity, Tertiary, Others, LCU, YTD",b,line
 "NGDP, By Activity, Tertiary, Real estate, LCU, % YoY","CN, NGDP, By Activity, Tertiary, Real estate, LCU, % YoY",p,line
-"NGDP, By Activity, Tertiary, Real estate, LCU","CN, NGDP, By Activity, Tertiary, Real estate, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Real estate, LCU, YTD","CN, NGDP, By Activity, Tertiary, Real estate, LCU, YTD, bn",r,line
+"NGDP, By Activity, Tertiary, Real estate, LCU","CN, NGDP, By Activity, Tertiary, Real estate, LCU",b,line
+"NGDP, By Activity, Tertiary, Real estate, LCU, YTD","CN, NGDP, By Activity, Tertiary, Real estate, LCU, YTD",b,line
 "NGDP, By Activity, Tertiary, Transportation and storage, LCU, % YoY","CN, NGDP, By Activity, Tertiary, Transportation and storage, LCU, % YoY",p,line
-"NGDP, By Activity, Tertiary, Transportation and storage, LCU","CN, NGDP, By Activity, Tertiary, Transportation and storage, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Transportation and storage, LCU, YTD","CN, NGDP, By Activity, Tertiary, Transportation and storage, LCU, YTD, bn",r,line
+"NGDP, By Activity, Tertiary, Transportation and storage, LCU","CN, NGDP, By Activity, Tertiary, Transportation and storage, LCU",b,line
+"NGDP, By Activity, Tertiary, Transportation and storage, LCU, YTD","CN, NGDP, By Activity, Tertiary, Transportation and storage, LCU, YTD",b,line
 "NGDP, By Activity, Tertiary, Wholesale and retail trade, LCU, % YoY","CN, NGDP, By Activity, Tertiary, Wholesale and retail trade, LCU, % YoY",p,line
-"NGDP, By Activity, Tertiary, Wholesale and retail trade, LCU","CN, NGDP, By Activity, Tertiary, Wholesale and retail trade, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Wholesale and retail trade, LCU, YTD","CN, NGDP, By Activity, Tertiary, Wholesale and retail trade, LCU, YTD, bn",r,line
+"NGDP, By Activity, Tertiary, Wholesale and retail trade, LCU","CN, NGDP, By Activity, Tertiary, Wholesale and retail trade, LCU",b,line
+"NGDP, By Activity, Tertiary, Wholesale and retail trade, LCU, YTD","CN, NGDP, By Activity, Tertiary, Wholesale and retail trade, LCU, YTD",b,line
 "RGDP, By Activity, Tertiary, Finance and insurance, LCU, % YoY","CN, RGDP, By Activity, Tertiary, Finance and insurance, LCU, % YoY",p,line
 "RGDP, By Activity, Tertiary, Finance and insurance, % YoY, YTD, LCU","CN, RGDP, By Activity, Tertiary, Finance and insurance, % YoY, YTD, LCU",p,line
 "RGDP, By Activity, Tertiary, Accommodation and food services, LCU, % YoY","CN, RGDP, By Activity, Tertiary, Accommodation and food services, LCU, % YoY",p,line
@@ -115,155 +115,155 @@ name,display_name,data_type,chart_type
 "RGDP, By Activity, Tertiary, Transportation and storage, % YoY, YTD, LCU","CN, RGDP, By Activity, Tertiary, Transportation and storage, % YoY, YTD, LCU",p,line
 "RGDP, By Activity, Tertiary, Wholesale and retail trade, LCU, % YoY","CN, RGDP, By Activity, Tertiary, Wholesale and retail trade, LCU, % YoY",p,line
 "RGDP, By Activity, Tertiary, Wholesale and retail trade, % YoY, YTD, LCU","CN, RGDP, By Activity, Tertiary, Wholesale and retail trade, % YoY, YTD, LCU",p,line
-"RGDP, By Expenditure, Domestic Demand, Final Consumption Expenditure Contribution, %","CN, RGDP, By Expenditure, Domestic Demand, Final Consumption Expenditure Contribution, %",p,line
-"RGDP, By Expenditure, Domestic Demand, Final Consumption Expenditure Contribution, YTD, %","CN, RGDP, By Expenditure, Domestic Demand, Final Consumption Expenditure Contribution, YTD, %",p,line
-"RGDP, By Expenditure, Domestic Demand, Final Consumption Expenditure Contribution, YTD, ppts","CN, RGDP, By Expenditure, Domestic Demand, Final Consumption Expenditure Contribution, YTD, ppts, bn",r,line
+"RGDP, By Expenditure, Domestic Demand, Final Consumption Expenditure Contribution, %","CN, RGDP, By Expenditure, Domestic Demand, Final Consumption Expenditure Contribution, %",None,line
+"RGDP, By Expenditure, Domestic Demand, Final Consumption Expenditure Contribution, YTD, %","CN, RGDP, By Expenditure, Domestic Demand, Final Consumption Expenditure Contribution, YTD, %",None,line
+"RGDP, By Expenditure, Domestic Demand, Final Consumption Expenditure Contribution, YTD, ppts","CN, RGDP, By Expenditure, Domestic Demand, Final Consumption Expenditure Contribution, YTD, ppts",None,line
 "RGDP, By Expenditure, Domestic Demand, Final Consumption Expenditure, LCU, Contribution to % YoY chg, ppts","CN, RGDP, By Expenditure, Domestic Demand, Final Consumption Expenditure, LCU, Contribution to % YoY chg, ppts",p,bar
-"RGDP, By Expenditure, Domestic Demand, Gross Capital Formation Contribution, %","CN, RGDP, By Expenditure, Domestic Demand, Gross Capital Formation Contribution, %",p,line
-"RGDP, By Expenditure, Domestic Demand, Gross Capital Formation Contribution, YTD, %","CN, RGDP, By Expenditure, Domestic Demand, Gross Capital Formation Contribution, YTD, %",p,line
-"RGDP, By Expenditure, Domestic Demand, Gross Capital Formation Contribution, YTD, ppts","CN, RGDP, By Expenditure, Domestic Demand, Gross Capital Formation Contribution, YTD, ppts, bn",r,line
+"RGDP, By Expenditure, Domestic Demand, Gross Capital Formation Contribution, %","CN, RGDP, By Expenditure, Domestic Demand, Gross Capital Formation Contribution, %",None,line
+"RGDP, By Expenditure, Domestic Demand, Gross Capital Formation Contribution, YTD, %","CN, RGDP, By Expenditure, Domestic Demand, Gross Capital Formation Contribution, YTD, %",None,line
+"RGDP, By Expenditure, Domestic Demand, Gross Capital Formation Contribution, YTD, ppts","CN, RGDP, By Expenditure, Domestic Demand, Gross Capital Formation Contribution, YTD, ppts",None,line
 "RGDP, By Expenditure, Domestic Demand, Gross Capital Formation, LCU, Contribution to % YoY chg, ppts","CN, RGDP, By Expenditure, Domestic Demand, Gross Capital Formation, LCU, Contribution to % YoY chg, ppts",p,bar
-"RGDP, By Expenditure, Net Exports of Goods and Services Contribution, %","CN, RGDP, By Expenditure, Net Exports of Goods and Services Contribution, %",p,line
-"RGDP, By Expenditure, Net Exports of Goods and Services Contribution, YTD, %","CN, RGDP, By Expenditure, Net Exports of Goods and Services Contribution, YTD, %",p,line
-"RGDP, By Expenditure, Net Exports of Goods and Services Contribution, YTD, ppts","CN, RGDP, By Expenditure, Net Exports of Goods and Services Contribution, YTD, ppts, bn",r,line
+"RGDP, By Expenditure, Net Exports of Goods and Services Contribution, %","CN, RGDP, By Expenditure, Net Exports of Goods and Services Contribution, %",None,line
+"RGDP, By Expenditure, Net Exports of Goods and Services Contribution, YTD, %","CN, RGDP, By Expenditure, Net Exports of Goods and Services Contribution, YTD, %",None,line
+"RGDP, By Expenditure, Net Exports of Goods and Services Contribution, YTD, ppts","CN, RGDP, By Expenditure, Net Exports of Goods and Services Contribution, YTD, ppts",None,line
 "RGDP, By Expenditure, Net Exports of Goods and Services, LCU, Contribution to % YoY chg, ppts","CN, RGDP, By Expenditure, Net Exports of Goods and Services, LCU, Contribution to % YoY chg, ppts",p,bar
 "National median, Clothing and Footwear Expenditure, YTD, LCU, % YoY","CN, National median, Clothing and Footwear Expenditure, YTD, LCU, % YoY",p,line
-"National median, Clothing and Footwear Expenditure, YTD, LCU","CN, National median, Clothing and Footwear Expenditure, YTD, LCU, bn",r,line
+"National median, Clothing and Footwear Expenditure, YTD, LCU","CN, National median, Clothing and Footwear Expenditure, YTD, LCU",None,line
 "National median, Education, Culture & Recreation Expenditure, YTD, LCU, % YoY","CN, National median, Education, Culture & Recreation Expenditure, YTD, LCU, % YoY",p,line
-"National median, Education, Culture & Recreation Expenditure, YTD, LCU","CN, National median, Education, Culture & Recreation Expenditure, YTD, LCU, bn",r,line
+"National median, Education, Culture & Recreation Expenditure, YTD, LCU","CN, National median, Education, Culture & Recreation Expenditure, YTD, LCU",None,line
 "National median, Food?Tobacco & Liquor Expenditure, YTD, LCU, % YoY","CN, National median, Food?Tobacco & Liquor Expenditure, YTD, LCU, % YoY",p,line
-"National median, Food?Tobacco & Liquor Expenditure, YTD, LCU","CN, National median, Food?Tobacco & Liquor Expenditure, YTD, LCU, bn",r,line
+"National median, Food?Tobacco & Liquor Expenditure, YTD, LCU","CN, National median, Food?Tobacco & Liquor Expenditure, YTD, LCU",None,line
 "National median, Health Care and Medical Services, YTD, LCU, % YoY","CN, National median, Health Care and Medical Services, YTD, LCU, % YoY",p,line
-"National median, Health Care and Medical Services, YTD, LCU","CN, National median, Health Care and Medical Services, YTD, LCU, bn",r,line
+"National median, Health Care and Medical Services, YTD, LCU","CN, National median, Health Care and Medical Services, YTD, LCU",None,line
 "National median, Household Equipments, Furnishings and Services Expenditure, YTD, LCU, % YoY","CN, National median, Household Equipments, Furnishings and Services Expenditure, YTD, LCU, % YoY",p,line
-"National median, Household Equipments, Furnishings and Services Expenditure, YTD, LCU","CN, National median, Household Equipments, Furnishings and Services Expenditure, YTD, LCU, bn",r,line
+"National median, Household Equipments, Furnishings and Services Expenditure, YTD, LCU","CN, National median, Household Equipments, Furnishings and Services Expenditure, YTD, LCU",None,line
 "National median, Housing Expenditure, YTD, LCU, % YoY","CN, National median, Housing Expenditure, YTD, LCU, % YoY",p,line
-"National median, Housing Expenditure, YTD, LCU","CN, National median, Housing Expenditure, YTD, LCU, bn",r,line
+"National median, Housing Expenditure, YTD, LCU","CN, National median, Housing Expenditure, YTD, LCU",None,line
 "National median, Income from Wages and Salaries, YTD, LCU, % YoY","CN, National median, Income from Wages and Salaries, YTD, LCU, % YoY",p,line
-"National median, Income from Wages and Salaries, YTD, LCU","CN, National median, Income from Wages and Salaries, YTD, LCU, bn",r,line
+"National median, Income from Wages and Salaries, YTD, LCU","CN, National median, Income from Wages and Salaries, YTD, LCU",None,line
 "National median, National median of Per Capita Disposable Income, YTD, LCU, % YoY","CN, National median, National median of Per Capita Disposable Income, YTD, LCU, % YoY",p,line
-"National median, National median of Per Capita Disposable Income, YTD, LCU","CN, National median, National median of Per Capita Disposable Income, YTD, LCU, bn",r,line
+"National median, National median of Per Capita Disposable Income, YTD, LCU","CN, National median, National median of Per Capita Disposable Income, YTD, LCU",None,line
 "National median, Miscellaneous Goods and Services Expenditure, YTD, LCU, % YoY","CN, National median, Miscellaneous Goods and Services Expenditure, YTD, LCU, % YoY",p,line
-"National median, Miscellaneous Goods and Services Expenditure, YTD, LCU","CN, National median, Miscellaneous Goods and Services Expenditure, YTD, LCU, bn",r,line
+"National median, Miscellaneous Goods and Services Expenditure, YTD, LCU","CN, National median, Miscellaneous Goods and Services Expenditure, YTD, LCU",None,line
 "National median, Net Business Income, YTD, LCU, % YoY","CN, National median, Net Business Income, YTD, LCU, % YoY",p,line
-"National median, Net Business Income, YTD, LCU","CN, National median, Net Business Income, YTD, LCU, bn",r,line
+"National median, Net Business Income, YTD, LCU","CN, National median, Net Business Income, YTD, LCU",None,line
 "National median, Net Income from Property, YTD, LCU, % YoY","CN, National median, Net Income from Property, YTD, LCU, % YoY",p,line
-"National median, Net Income from Property, YTD, LCU","CN, National median, Net Income from Property, YTD, LCU, bn",r,line
+"National median, Net Income from Property, YTD, LCU","CN, National median, Net Income from Property, YTD, LCU",None,line
 "National median, Net Income from Transfer, YTD, LCU, % YoY","CN, National median, Net Income from Transfer, YTD, LCU, % YoY",p,line
-"National median, Net Income from Transfer, YTD, LCU","CN, National median, Net Income from Transfer, YTD, LCU, bn",r,line
+"National median, Net Income from Transfer, YTD, LCU","CN, National median, Net Income from Transfer, YTD, LCU",None,line
 "National median, Per Capita Consumption Expenditure, YTD, LCU, % YoY","CN, National median, Per Capita Consumption Expenditure, YTD, LCU, % YoY",p,line
-"National median, Per Capita Consumption Expenditure, YTD, LCU","CN, National median, Per Capita Consumption Expenditure, YTD, LCU, bn",r,line
+"National median, Per Capita Consumption Expenditure, YTD, LCU","CN, National median, Per Capita Consumption Expenditure, YTD, LCU",None,line
 "National median, Per Capita Disposable Income, YTD, LCU, % YoY","CN, National median, Per Capita Disposable Income, YTD, LCU, % YoY",p,line
-"National median, Per Capita Disposable Income, YTD, LCU","CN, National median, Per Capita Disposable Income, YTD, LCU, bn",r,line
+"National median, Per Capita Disposable Income, YTD, LCU","CN, National median, Per Capita Disposable Income, YTD, LCU",None,line
 "National median, Transport and Communication Expenditure, YTD, LCU, % YoY","CN, National median, Transport and Communication Expenditure, YTD, LCU, % YoY",p,line
-"National median, Transport and Communication Expenditure, YTD, LCU","CN, National median, Transport and Communication Expenditure, YTD, LCU, bn",r,line
+"National median, Transport and Communication Expenditure, YTD, LCU","CN, National median, Transport and Communication Expenditure, YTD, LCU",None,line
 "Rural, Clothing and Footwear Expenditure, YTD, LCU, % YoY","CN, Rural, Clothing and Footwear Expenditure, YTD, LCU, % YoY",p,line
-"Rural, Clothing and Footwear Expenditure, YTD, LCU","CN, Rural, Clothing and Footwear Expenditure, YTD, LCU, bn",r,line
+"Rural, Clothing and Footwear Expenditure, YTD, LCU","CN, Rural, Clothing and Footwear Expenditure, YTD, LCU",None,line
 "Rural, Education, Culture & Recreation Expenditure, YTD, LCU, % YoY","CN, Rural, Education, Culture & Recreation Expenditure, YTD, LCU, % YoY",p,line
-"Rural, Education, Culture & Recreation Expenditure, YTD, LCU","CN, Rural, Education, Culture & Recreation Expenditure, YTD, LCU, bn",r,line
+"Rural, Education, Culture & Recreation Expenditure, YTD, LCU","CN, Rural, Education, Culture & Recreation Expenditure, YTD, LCU",None,line
 "Rural, Food?Tobacco & Liquor Expenditure, YTD, LCU, % YoY","CN, Rural, Food?Tobacco & Liquor Expenditure, YTD, LCU, % YoY",p,line
-"Rural, Food?Tobacco & Liquor Expenditure, YTD, LCU","CN, Rural, Food?Tobacco & Liquor Expenditure, YTD, LCU, bn",r,line
+"Rural, Food?Tobacco & Liquor Expenditure, YTD, LCU","CN, Rural, Food?Tobacco & Liquor Expenditure, YTD, LCU",None,line
 "Rural, Health Care and Medical Services, YTD, LCU, % YoY","CN, Rural, Health Care and Medical Services, YTD, LCU, % YoY",p,line
-"Rural, Health Care and Medical Services, YTD, LCU","CN, Rural, Health Care and Medical Services, YTD, LCU, bn",r,line
+"Rural, Health Care and Medical Services, YTD, LCU","CN, Rural, Health Care and Medical Services, YTD, LCU",None,line
 "Rural, Household Equipments, Furnishings and Services Expenditure, YTD, LCU, % YoY","CN, Rural, Household Equipments, Furnishings and Services Expenditure, YTD, LCU, % YoY",p,line
-"Rural, Household Equipments, Furnishings and Services Expenditure, YTD, LCU","CN, Rural, Household Equipments, Furnishings and Services Expenditure, YTD, LCU, bn",r,line
+"Rural, Household Equipments, Furnishings and Services Expenditure, YTD, LCU","CN, Rural, Household Equipments, Furnishings and Services Expenditure, YTD, LCU",None,line
 "Rural, Housing Expenditure, YTD, LCU, % YoY","CN, Rural, Housing Expenditure, YTD, LCU, % YoY",p,line
-"Rural, Housing Expenditure, YTD, LCU","CN, Rural, Housing Expenditure, YTD, LCU, bn",r,line
+"Rural, Housing Expenditure, YTD, LCU","CN, Rural, Housing Expenditure, YTD, LCU",None,line
 "Rural, Income from Wages and Salaries, YTD, LCU, % YoY","CN, Rural, Income from Wages and Salaries, YTD, LCU, % YoY",p,line
-"Rural, Income from Wages and Salaries, YTD, LCU","CN, Rural, Income from Wages and Salaries, YTD, LCU, bn",r,line
+"Rural, Income from Wages and Salaries, YTD, LCU","CN, Rural, Income from Wages and Salaries, YTD, LCU",None,line
 "Rural, National median of Per Capita Disposable Income, YTD, LCU, % YoY","CN, Rural, National median of Per Capita Disposable Income, YTD, LCU, % YoY",p,line
-"Rural, National median of Per Capita Disposable Income, YTD, LCU","CN, Rural, National median of Per Capita Disposable Income, YTD, LCU, bn",r,line
+"Rural, National median of Per Capita Disposable Income, YTD, LCU","CN, Rural, National median of Per Capita Disposable Income, YTD, LCU",None,line
 "Rural, Miscellaneous Goods and Services Expenditure, YTD, LCU, % YoY","CN, Rural, Miscellaneous Goods and Services Expenditure, YTD, LCU, % YoY",p,line
-"Rural, Miscellaneous Goods and Services Expenditure, YTD, LCU","CN, Rural, Miscellaneous Goods and Services Expenditure, YTD, LCU, bn",r,line
+"Rural, Miscellaneous Goods and Services Expenditure, YTD, LCU","CN, Rural, Miscellaneous Goods and Services Expenditure, YTD, LCU",None,line
 "Rural, Net Business Income, YTD, LCU, % YoY","CN, Rural, Net Business Income, YTD, LCU, % YoY",p,line
-"Rural, Net Business Income, YTD, LCU","CN, Rural, Net Business Income, YTD, LCU, bn",r,line
+"Rural, Net Business Income, YTD, LCU","CN, Rural, Net Business Income, YTD, LCU",None,line
 "Rural, Net Income from Property, YTD, LCU, % YoY","CN, Rural, Net Income from Property, YTD, LCU, % YoY",p,line
-"Rural, Net Income from Property, YTD, LCU","CN, Rural, Net Income from Property, YTD, LCU, bn",r,line
+"Rural, Net Income from Property, YTD, LCU","CN, Rural, Net Income from Property, YTD, LCU",None,line
 "Rural, Net Income from Transfer, YTD, LCU, % YoY","CN, Rural, Net Income from Transfer, YTD, LCU, % YoY",p,line
-"Rural, Net Income from Transfer, YTD, LCU","CN, Rural, Net Income from Transfer, YTD, LCU, bn",r,line
+"Rural, Net Income from Transfer, YTD, LCU","CN, Rural, Net Income from Transfer, YTD, LCU",None,line
 "Rural, Per Capita Consumption Expenditure, YTD, LCU, % YoY","CN, Rural, Per Capita Consumption Expenditure, YTD, LCU, % YoY",p,line
-"Rural, Per Capita Consumption Expenditure, YTD, LCU","CN, Rural, Per Capita Consumption Expenditure, YTD, LCU, bn",r,line
+"Rural, Per Capita Consumption Expenditure, YTD, LCU","CN, Rural, Per Capita Consumption Expenditure, YTD, LCU",None,line
 "Rural, Per Capita Disposable Income, YTD, LCU, % YoY","CN, Rural, Per Capita Disposable Income, YTD, LCU, % YoY",p,line
-"Rural, Per Capita Disposable Income, YTD, LCU","CN, Rural, Per Capita Disposable Income, YTD, LCU, bn",r,line
+"Rural, Per Capita Disposable Income, YTD, LCU","CN, Rural, Per Capita Disposable Income, YTD, LCU",None,line
 "Rural, Transport and Communication Expenditure, YTD, LCU, % YoY","CN, Rural, Transport and Communication Expenditure, YTD, LCU, % YoY",p,line
-"Rural, Transport and Communication Expenditure, YTD, LCU","CN, Rural, Transport and Communication Expenditure, YTD, LCU, bn",r,line
+"Rural, Transport and Communication Expenditure, YTD, LCU","CN, Rural, Transport and Communication Expenditure, YTD, LCU",None,line
 "Urban, Clothing and Footwear Expenditure, YTD, LCU, % YoY","CN, Urban, Clothing and Footwear Expenditure, YTD, LCU, % YoY",p,line
-"Urban, Clothing and Footwear Expenditure, YTD, LCU","CN, Urban, Clothing and Footwear Expenditure, YTD, LCU, bn",r,line
+"Urban, Clothing and Footwear Expenditure, YTD, LCU","CN, Urban, Clothing and Footwear Expenditure, YTD, LCU",None,line
 "Urban, Education, Culture & Recreation Expenditure, YTD, LCU, % YoY","CN, Urban, Education, Culture & Recreation Expenditure, YTD, LCU, % YoY",p,line
-"Urban, Education, Culture & Recreation Expenditure, YTD, LCU","CN, Urban, Education, Culture & Recreation Expenditure, YTD, LCU, bn",r,line
+"Urban, Education, Culture & Recreation Expenditure, YTD, LCU","CN, Urban, Education, Culture & Recreation Expenditure, YTD, LCU",None,line
 "Urban, Food?Tobacco & Liquor Expenditure, YTD, LCU, % YoY","CN, Urban, Food?Tobacco & Liquor Expenditure, YTD, LCU, % YoY",p,line
-"Urban, Food?Tobacco & Liquor Expenditure, YTD, LCU","CN, Urban, Food?Tobacco & Liquor Expenditure, YTD, LCU, bn",r,line
+"Urban, Food?Tobacco & Liquor Expenditure, YTD, LCU","CN, Urban, Food?Tobacco & Liquor Expenditure, YTD, LCU",None,line
 "Urban, Health Care and Medical Services, YTD, LCU, % YoY","CN, Urban, Health Care and Medical Services, YTD, LCU, % YoY",p,line
-"Urban, Health Care and Medical Services, YTD, LCU","CN, Urban, Health Care and Medical Services, YTD, LCU, bn",r,line
+"Urban, Health Care and Medical Services, YTD, LCU","CN, Urban, Health Care and Medical Services, YTD, LCU",None,line
 "Urban, Household Equipments, Furnishings and Services Expenditure, YTD, LCU, % YoY","CN, Urban, Household Equipments, Furnishings and Services Expenditure, YTD, LCU, % YoY",p,line
-"Urban, Household Equipments, Furnishings and Services Expenditure, YTD, LCU","CN, Urban, Household Equipments, Furnishings and Services Expenditure, YTD, LCU, bn",r,line
+"Urban, Household Equipments, Furnishings and Services Expenditure, YTD, LCU","CN, Urban, Household Equipments, Furnishings and Services Expenditure, YTD, LCU",None,line
 "Urban, Housing Expenditure, YTD, LCU, % YoY","CN, Urban, Housing Expenditure, YTD, LCU, % YoY",p,line
-"Urban, Housing Expenditure, YTD, LCU","CN, Urban, Housing Expenditure, YTD, LCU, bn",r,line
+"Urban, Housing Expenditure, YTD, LCU","CN, Urban, Housing Expenditure, YTD, LCU",None,line
 "Urban, Income from Wages and Salaries, YTD, LCU, % YoY","CN, Urban, Income from Wages and Salaries, YTD, LCU, % YoY",p,line
-"Urban, Income from Wages and Salaries, YTD, LCU","CN, Urban, Income from Wages and Salaries, YTD, LCU, bn",r,line
+"Urban, Income from Wages and Salaries, YTD, LCU","CN, Urban, Income from Wages and Salaries, YTD, LCU",None,line
 "Urban, National median of Per Capita Disposable Income, YTD, LCU, % YoY","CN, Urban, National median of Per Capita Disposable Income, YTD, LCU, % YoY",p,line
-"Urban, National median of Per Capita Disposable Income, YTD, LCU","CN, Urban, National median of Per Capita Disposable Income, YTD, LCU, bn",r,line
+"Urban, National median of Per Capita Disposable Income, YTD, LCU","CN, Urban, National median of Per Capita Disposable Income, YTD, LCU",None,line
 "Urban, Miscellaneous Goods and Services Expenditure, YTD, LCU, % YoY","CN, Urban, Miscellaneous Goods and Services Expenditure, YTD, LCU, % YoY",p,line
-"Urban, Miscellaneous Goods and Services Expenditure, YTD, LCU","CN, Urban, Miscellaneous Goods and Services Expenditure, YTD, LCU, bn",r,line
+"Urban, Miscellaneous Goods and Services Expenditure, YTD, LCU","CN, Urban, Miscellaneous Goods and Services Expenditure, YTD, LCU",None,line
 "Urban, Net Business Income, YTD, LCU, % YoY","CN, Urban, Net Business Income, YTD, LCU, % YoY",p,line
-"Urban, Net Business Income, YTD, LCU","CN, Urban, Net Business Income, YTD, LCU, bn",r,line
+"Urban, Net Business Income, YTD, LCU","CN, Urban, Net Business Income, YTD, LCU",None,line
 "Urban, Net Income from Property, YTD, LCU, % YoY","CN, Urban, Net Income from Property, YTD, LCU, % YoY",p,line
-"Urban, Net Income from Property, YTD, LCU","CN, Urban, Net Income from Property, YTD, LCU, bn",r,line
+"Urban, Net Income from Property, YTD, LCU","CN, Urban, Net Income from Property, YTD, LCU",None,line
 "Urban, Net Income from Transfer, YTD, LCU, % YoY","CN, Urban, Net Income from Transfer, YTD, LCU, % YoY",p,line
-"Urban, Net Income from Transfer, YTD, LCU","CN, Urban, Net Income from Transfer, YTD, LCU, bn",r,line
+"Urban, Net Income from Transfer, YTD, LCU","CN, Urban, Net Income from Transfer, YTD, LCU",None,line
 "Urban, Per Capita Consumption Expenditure, YTD, LCU, % YoY","CN, Urban, Per Capita Consumption Expenditure, YTD, LCU, % YoY",p,line
-"Urban, Per Capita Consumption Expenditure, YTD, LCU","CN, Urban, Per Capita Consumption Expenditure, YTD, LCU, bn",r,line
+"Urban, Per Capita Consumption Expenditure, YTD, LCU","CN, Urban, Per Capita Consumption Expenditure, YTD, LCU",None,line
 "Urban, Per Capita Disposable Income, YTD, LCU, % YoY","CN, Urban, Per Capita Disposable Income, YTD, LCU, % YoY",p,line
-"Urban, Per Capita Disposable Income, YTD, LCU","CN, Urban, Per Capita Disposable Income, YTD, LCU, bn",r,line
+"Urban, Per Capita Disposable Income, YTD, LCU","CN, Urban, Per Capita Disposable Income, YTD, LCU",None,line
 "Urban, Transport and Communication Expenditure, YTD, LCU, % YoY","CN, Urban, Transport and Communication Expenditure, YTD, LCU, % YoY",p,line
-"Urban, Transport and Communication Expenditure, YTD, LCU","CN, Urban, Transport and Communication Expenditure, YTD, LCU, bn",r,line
-"Migrant workers, average monthly income, LCU","CN, Migrant workers, average monthly income, LCU, bn",r,line
-"National median, Clothing and Footwear Expenditure, LCU","CN, National median, Clothing and Footwear Expenditure, LCU, bn",r,line
-"National median, Education, Culture & Recreation Expenditure, LCU","CN, National median, Education, Culture & Recreation Expenditure, LCU, bn",r,line
-"National median, Food?Tobacco & Liquor Expenditure, LCU","CN, National median, Food?Tobacco & Liquor Expenditure, LCU, bn",r,line
-"National median, Health Care and Medical Services, LCU","CN, National median, Health Care and Medical Services, LCU, bn",r,line
-"National median, Household Equipments, Furnishings and Services Expenditure, LCU","CN, National median, Household Equipments, Furnishings and Services Expenditure, LCU, bn",r,line
-"National median, Housing Expenditure, LCU","CN, National median, Housing Expenditure, LCU, bn",r,line
-"National median, Income from Wages and Salaries, LCU","CN, National median, Income from Wages and Salaries, LCU, bn",r,line
-"National median, National median of Per Capita Disposable Income, LCU","CN, National median, National median of Per Capita Disposable Income, LCU, bn",r,line
-"National median, Miscellaneous Goods and Services Expenditure, LCU","CN, National median, Miscellaneous Goods and Services Expenditure, LCU, bn",r,line
-"National median, Net Business Income, LCU","CN, National median, Net Business Income, LCU, bn",r,line
-"National median, Net Income from Property, LCU","CN, National median, Net Income from Property, LCU, bn",r,line
-"National median, Net Income from Transfer, LCU","CN, National median, Net Income from Transfer, LCU, bn",r,line
-"National median, Per Capita Consumption Expenditure, LCU","CN, National median, Per Capita Consumption Expenditure, LCU, bn",r,line
-"National median, Per Capita Disposable Income, LCU","CN, National median, Per Capita Disposable Income, LCU, bn",r,line
-"National median, Transport and Communication Expenditure, LCU","CN, National median, Transport and Communication Expenditure, LCU, bn",r,line
-"Rural, Clothing and Footwear Expenditure, LCU","CN, Rural, Clothing and Footwear Expenditure, LCU, bn",r,line
-"Rural, Education, Culture & Recreation Expenditure, LCU","CN, Rural, Education, Culture & Recreation Expenditure, LCU, bn",r,line
-"Rural, Food?Tobacco & Liquor Expenditure, LCU","CN, Rural, Food?Tobacco & Liquor Expenditure, LCU, bn",r,line
-"Rural, Health Care and Medical Services, LCU","CN, Rural, Health Care and Medical Services, LCU, bn",r,line
-"Rural, Household Equipments, Furnishings and Services Expenditure, LCU","CN, Rural, Household Equipments, Furnishings and Services Expenditure, LCU, bn",r,line
-"Rural, Housing Expenditure, LCU","CN, Rural, Housing Expenditure, LCU, bn",r,line
-"Rural, Income from Wages and Salaries, LCU","CN, Rural, Income from Wages and Salaries, LCU, bn",r,line
-"Rural, National median of Per Capita Disposable Income, LCU","CN, Rural, National median of Per Capita Disposable Income, LCU, bn",r,line
-"Rural, Miscellaneous Goods and Services Expenditure, LCU","CN, Rural, Miscellaneous Goods and Services Expenditure, LCU, bn",r,line
-"Rural, Net Business Income, LCU","CN, Rural, Net Business Income, LCU, bn",r,line
-"Rural, Net Income from Property, LCU","CN, Rural, Net Income from Property, LCU, bn",r,line
-"Rural, Net Income from Transfer, LCU","CN, Rural, Net Income from Transfer, LCU, bn",r,line
-"Rural, Per Capita Consumption Expenditure, LCU","CN, Rural, Per Capita Consumption Expenditure, LCU, bn",r,line
-"Rural, Per Capita Disposable Income, LCU","CN, Rural, Per Capita Disposable Income, LCU, bn",r,line
-"Rural, Transport and Communication Expenditure, LCU","CN, Rural, Transport and Communication Expenditure, LCU, bn",r,line
-"Migrant workers, m","CN, Migrant workers, m, bn",r,line
-"Urban, Clothing and Footwear Expenditure, LCU","CN, Urban, Clothing and Footwear Expenditure, LCU, bn",r,line
-"Urban, Education, Culture & Recreation Expenditure, LCU","CN, Urban, Education, Culture & Recreation Expenditure, LCU, bn",r,line
-"Urban, Food?Tobacco & Liquor Expenditure, LCU","CN, Urban, Food?Tobacco & Liquor Expenditure, LCU, bn",r,line
-"Urban, Health Care and Medical Services, LCU","CN, Urban, Health Care and Medical Services, LCU, bn",r,line
-"Urban, Household Equipments, Furnishings and Services Expenditure, LCU","CN, Urban, Household Equipments, Furnishings and Services Expenditure, LCU, bn",r,line
-"Urban, Housing Expenditure, LCU","CN, Urban, Housing Expenditure, LCU, bn",r,line
-"Urban, Income from Wages and Salaries, LCU","CN, Urban, Income from Wages and Salaries, LCU, bn",r,line
-"Urban, National median of Per Capita Disposable Income, LCU","CN, Urban, National median of Per Capita Disposable Income, LCU, bn",r,line
-"Urban, Miscellaneous Goods and Services Expenditure, LCU","CN, Urban, Miscellaneous Goods and Services Expenditure, LCU, bn",r,line
-"Urban, Net Business Income, LCU","CN, Urban, Net Business Income, LCU, bn",r,line
-"Urban, Net Income from Property, LCU","CN, Urban, Net Income from Property, LCU, bn",r,line
-"Urban, Net Income from Transfer, LCU","CN, Urban, Net Income from Transfer, LCU, bn",r,line
-"Urban, Per Capita Consumption Expenditure, LCU","CN, Urban, Per Capita Consumption Expenditure, LCU, bn",r,line
-"Urban, Per Capita Disposable Income, LCU","CN, Urban, Per Capita Disposable Income, LCU, bn",r,line
-"Urban, Transport and Communication Expenditure, LCU","CN, Urban, Transport and Communication Expenditure, LCU, bn",r,line
+"Urban, Transport and Communication Expenditure, YTD, LCU","CN, Urban, Transport and Communication Expenditure, YTD, LCU",None,line
+"Migrant workers, average monthly income, LCU","CN, Migrant workers, average monthly income, LCU",None,line
+"National median, Clothing and Footwear Expenditure, LCU","CN, National median, Clothing and Footwear Expenditure, LCU",None,line
+"National median, Education, Culture & Recreation Expenditure, LCU","CN, National median, Education, Culture & Recreation Expenditure, LCU",None,line
+"National median, Food?Tobacco & Liquor Expenditure, LCU","CN, National median, Food?Tobacco & Liquor Expenditure, LCU",None,line
+"National median, Health Care and Medical Services, LCU","CN, National median, Health Care and Medical Services, LCU",None,line
+"National median, Household Equipments, Furnishings and Services Expenditure, LCU","CN, National median, Household Equipments, Furnishings and Services Expenditure, LCU",None,line
+"National median, Housing Expenditure, LCU","CN, National median, Housing Expenditure, LCU",None,line
+"National median, Income from Wages and Salaries, LCU","CN, National median, Income from Wages and Salaries, LCU",None,line
+"National median, National median of Per Capita Disposable Income, LCU","CN, National median, National median of Per Capita Disposable Income, LCU",None,line
+"National median, Miscellaneous Goods and Services Expenditure, LCU","CN, National median, Miscellaneous Goods and Services Expenditure, LCU",None,line
+"National median, Net Business Income, LCU","CN, National median, Net Business Income, LCU",None,line
+"National median, Net Income from Property, LCU","CN, National median, Net Income from Property, LCU",None,line
+"National median, Net Income from Transfer, LCU","CN, National median, Net Income from Transfer, LCU",None,line
+"National median, Per Capita Consumption Expenditure, LCU","CN, National median, Per Capita Consumption Expenditure, LCU",None,line
+"National median, Per Capita Disposable Income, LCU","CN, National median, Per Capita Disposable Income, LCU",None,line
+"National median, Transport and Communication Expenditure, LCU","CN, National median, Transport and Communication Expenditure, LCU",None,line
+"Rural, Clothing and Footwear Expenditure, LCU","CN, Rural, Clothing and Footwear Expenditure, LCU",None,line
+"Rural, Education, Culture & Recreation Expenditure, LCU","CN, Rural, Education, Culture & Recreation Expenditure, LCU",None,line
+"Rural, Food?Tobacco & Liquor Expenditure, LCU","CN, Rural, Food?Tobacco & Liquor Expenditure, LCU",None,line
+"Rural, Health Care and Medical Services, LCU","CN, Rural, Health Care and Medical Services, LCU",None,line
+"Rural, Household Equipments, Furnishings and Services Expenditure, LCU","CN, Rural, Household Equipments, Furnishings and Services Expenditure, LCU",None,line
+"Rural, Housing Expenditure, LCU","CN, Rural, Housing Expenditure, LCU",None,line
+"Rural, Income from Wages and Salaries, LCU","CN, Rural, Income from Wages and Salaries, LCU",None,line
+"Rural, National median of Per Capita Disposable Income, LCU","CN, Rural, National median of Per Capita Disposable Income, LCU",None,line
+"Rural, Miscellaneous Goods and Services Expenditure, LCU","CN, Rural, Miscellaneous Goods and Services Expenditure, LCU",None,line
+"Rural, Net Business Income, LCU","CN, Rural, Net Business Income, LCU",None,line
+"Rural, Net Income from Property, LCU","CN, Rural, Net Income from Property, LCU",None,line
+"Rural, Net Income from Transfer, LCU","CN, Rural, Net Income from Transfer, LCU",None,line
+"Rural, Per Capita Consumption Expenditure, LCU","CN, Rural, Per Capita Consumption Expenditure, LCU",None,line
+"Rural, Per Capita Disposable Income, LCU","CN, Rural, Per Capita Disposable Income, LCU",None,line
+"Rural, Transport and Communication Expenditure, LCU","CN, Rural, Transport and Communication Expenditure, LCU",None,line
+"Migrant workers, m","CN, Migrant workers, m",None,line
+"Urban, Clothing and Footwear Expenditure, LCU","CN, Urban, Clothing and Footwear Expenditure, LCU",None,line
+"Urban, Education, Culture & Recreation Expenditure, LCU","CN, Urban, Education, Culture & Recreation Expenditure, LCU",None,line
+"Urban, Food?Tobacco & Liquor Expenditure, LCU","CN, Urban, Food?Tobacco & Liquor Expenditure, LCU",None,line
+"Urban, Health Care and Medical Services, LCU","CN, Urban, Health Care and Medical Services, LCU",None,line
+"Urban, Household Equipments, Furnishings and Services Expenditure, LCU","CN, Urban, Household Equipments, Furnishings and Services Expenditure, LCU",None,line
+"Urban, Housing Expenditure, LCU","CN, Urban, Housing Expenditure, LCU",None,line
+"Urban, Income from Wages and Salaries, LCU","CN, Urban, Income from Wages and Salaries, LCU",None,line
+"Urban, National median of Per Capita Disposable Income, LCU","CN, Urban, National median of Per Capita Disposable Income, LCU",None,line
+"Urban, Miscellaneous Goods and Services Expenditure, LCU","CN, Urban, Miscellaneous Goods and Services Expenditure, LCU",None,line
+"Urban, Net Business Income, LCU","CN, Urban, Net Business Income, LCU",None,line
+"Urban, Net Income from Property, LCU","CN, Urban, Net Income from Property, LCU",None,line
+"Urban, Net Income from Transfer, LCU","CN, Urban, Net Income from Transfer, LCU",None,line
+"Urban, Per Capita Consumption Expenditure, LCU","CN, Urban, Per Capita Consumption Expenditure, LCU",None,line
+"Urban, Per Capita Disposable Income, LCU","CN, Urban, Per Capita Disposable Income, LCU",None,line
+"Urban, Transport and Communication Expenditure, LCU","CN, Urban, Transport and Communication Expenditure, LCU",None,line
 "Migrant workers, average monthly income, LCU, % YoY","CN, Migrant workers, average monthly income, LCU, % YoY",p,line
 "National median, Clothing and Footwear Expenditure, LCU, % YoY","CN, National median, Clothing and Footwear Expenditure, LCU, % YoY",p,line
 "National median, Education, Culture & Recreation Expenditure, LCU, % YoY","CN, National median, Education, Culture & Recreation Expenditure, LCU, % YoY",p,line
@@ -295,7 +295,7 @@ name,display_name,data_type,chart_type
 "Rural, Per Capita Consumption Expenditure, LCU, % YoY","CN, Rural, Per Capita Consumption Expenditure, LCU, % YoY",p,line
 "Rural, Per Capita Disposable Income, LCU, % YoY","CN, Rural, Per Capita Disposable Income, LCU, % YoY",p,line
 "Rural, Transport and Communication Expenditure, LCU, % YoY","CN, Rural, Transport and Communication Expenditure, LCU, % YoY",p,line
-"Migrant workers, m.1","CN, Migrant workers, m.1, bn",r,line
+"Migrant workers, m.1","CN, Migrant workers, m.1",None,line
 "Urban, Clothing and Footwear Expenditure, LCU, % YoY","CN, Urban, Clothing and Footwear Expenditure, LCU, % YoY",p,line
 "Urban, Education, Culture & Recreation Expenditure, LCU, % YoY","CN, Urban, Education, Culture & Recreation Expenditure, LCU, % YoY",p,line
 "Urban, Food?Tobacco & Liquor Expenditure, LCU, % YoY","CN, Urban, Food?Tobacco & Liquor Expenditure, LCU, % YoY",p,line
@@ -311,21 +311,21 @@ name,display_name,data_type,chart_type
 "Urban, Per Capita Consumption Expenditure, LCU, % YoY","CN, Urban, Per Capita Consumption Expenditure, LCU, % YoY",p,line
 "Urban, Per Capita Disposable Income, LCU, % YoY","CN, Urban, Per Capita Disposable Income, LCU, % YoY",p,line
 "Urban, Transport and Communication Expenditure, LCU, % YoY","CN, Urban, Transport and Communication Expenditure, LCU, % YoY",p,line
-"Urban, Per Capita Consumption Expenditure, LCU, SA","CN, Urban, Per Capita Consumption Expenditure, LCU, SA, bn",r,line
-"Urban, Per Capita Disposable Income, LCU, SA","CN, Urban, Per Capita Disposable Income, LCU, SA, bn",r,line
-"Rural, Per Capita Disposable Income, LCU, SA","CN, Rural, Per Capita Disposable Income, LCU, SA, bn",r,line
-"Rural, Per Capita Consumption Expenditure, LCU, SA","CN, Rural, Per Capita Consumption Expenditure, LCU, SA, bn",r,line
-"National median, Per Capita Disposable Income, LCU, SA","CN, National median, Per Capita Disposable Income, LCU, SA, bn",r,line
-"National median, Per Capita Consumption Expenditure, LCU, SA","CN, National median, Per Capita Consumption Expenditure, LCU, SA, bn",r,line
-"National median, Income from Wages and Salaries, LCU, SA","CN, National median, Income from Wages and Salaries, LCU, SA, bn",r,line
-"National median, Net Business Income, LCU, SA","CN, National median, Net Business Income, LCU, SA, bn",r,line
-"National median, Net Income from Property, LCU, SA","CN, National median, Net Income from Property, LCU, SA, bn",r,line
-"National median, Net Income from Transfer, LCU, SA","CN, National median, Net Income from Transfer, LCU, SA, bn",r,line
-"NGDP, By Activity, Secondary, Construction, LCU, SA","CN, NGDP, By Activity, Secondary, Construction, LCU, SA, bn",r,line
-"NGDP, By Activity, Tertiary, Accommodation and food services, LCU, SA","CN, NGDP, By Activity, Tertiary, Accommodation and food services, LCU, SA, bn",r,line
-"Urban, Per Capita Savings Ratio","CN, Urban, Per Capita Savings Ratio, bn",r,line
-"Rural, Per Capita Savings Ratio","CN, Rural, Per Capita Savings Ratio, bn",r,line
-"National median, Per Capita Savings Ratio","CN, National median, Per Capita Savings Ratio, bn",r,line
+"Urban, Per Capita Consumption Expenditure, LCU, SA","CN, Urban, Per Capita Consumption Expenditure, LCU, SA",None,line
+"Urban, Per Capita Disposable Income, LCU, SA","CN, Urban, Per Capita Disposable Income, LCU, SA",None,line
+"Rural, Per Capita Disposable Income, LCU, SA","CN, Rural, Per Capita Disposable Income, LCU, SA",None,line
+"Rural, Per Capita Consumption Expenditure, LCU, SA","CN, Rural, Per Capita Consumption Expenditure, LCU, SA",None,line
+"National median, Per Capita Disposable Income, LCU, SA","CN, National median, Per Capita Disposable Income, LCU, SA",None,line
+"National median, Per Capita Consumption Expenditure, LCU, SA","CN, National median, Per Capita Consumption Expenditure, LCU, SA",None,line
+"National median, Income from Wages and Salaries, LCU, SA","CN, National median, Income from Wages and Salaries, LCU, SA",None,line
+"National median, Net Business Income, LCU, SA","CN, National median, Net Business Income, LCU, SA",None,line
+"National median, Net Income from Property, LCU, SA","CN, National median, Net Income from Property, LCU, SA",None,line
+"National median, Net Income from Transfer, LCU, SA","CN, National median, Net Income from Transfer, LCU, SA",None,line
+"NGDP, By Activity, Secondary, Construction, LCU, SA","CN, NGDP, By Activity, Secondary, Construction, LCU, SA",b,line
+"NGDP, By Activity, Tertiary, Accommodation and food services, LCU, SA","CN, NGDP, By Activity, Tertiary, Accommodation and food services, LCU, SA",b,line
+"Urban, Per Capita Savings Ratio","CN, Urban, Per Capita Savings Ratio",None,line
+"Rural, Per Capita Savings Ratio","CN, Rural, Per Capita Savings Ratio",None,line
+"National median, Per Capita Savings Ratio","CN, National median, Per Capita Savings Ratio",None,line
 "Urban, Per Capita Consumption Expenditure, LCU, % QoQ","CN, Urban, Per Capita Consumption Expenditure, LCU, % QoQ",p,line
 "Urban, Per Capita Disposable Income, LCU, % QoQ","CN, Urban, Per Capita Disposable Income, LCU, % QoQ",p,line
 "Rural, Per Capita Disposable Income, LCU, % QoQ","CN, Rural, Per Capita Disposable Income, LCU, % QoQ",p,line
@@ -338,8 +338,8 @@ name,display_name,data_type,chart_type
 "National median, Net Income from Transfer, LCU, % QoQ","CN, National median, Net Income from Transfer, LCU, % QoQ",p,line
 "NGDP, By Activity, Secondary, Construction, LCU, % QoQ","CN, NGDP, By Activity, Secondary, Construction, LCU, % QoQ",p,line
 "NGDP, By Activity, Tertiary, Accommodation and food services, LCU, % QoQ","CN, NGDP, By Activity, Tertiary, Accommodation and food services, LCU, % QoQ",p,line
-"Urban, Per Capita Savings Ratio, trend","CN, Urban, Per Capita Savings Ratio, trend, bn",r,line
-"Urban, Per Capita Disposable Income, LCU, SA, trend","CN, Urban, Per Capita Disposable Income, LCU, SA, trend, bn",r,line
-"Urban, Per Capita Consumption Expenditure, LCU, SA, trend","CN, Urban, Per Capita Consumption Expenditure, LCU, SA, trend, bn",r,line
-"Excess savings per capita, LCU","CN, Excess savings per capita, LCU, bn",r,line
-"Post-covid excess savings per capita, LCU","CN, Post-covid excess savings per capita, LCU, bn",r,line
+"Urban, Per Capita Savings Ratio, trend","CN, Urban, Per Capita Savings Ratio, trend",None,line
+"Urban, Per Capita Disposable Income, LCU, SA, trend","CN, Urban, Per Capita Disposable Income, LCU, SA, trend",None,line
+"Urban, Per Capita Consumption Expenditure, LCU, SA, trend","CN, Urban, Per Capita Consumption Expenditure, LCU, SA, trend",None,line
+"Excess savings per capita, LCU","CN, Excess savings per capita, LCU",None,line
+"Post-covid excess savings per capita, LCU","CN, Post-covid excess savings per capita, LCU",None,line
