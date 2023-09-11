@@ -6,6 +6,8 @@ from lib.cleaner.gdp_cleaner import GDP_cleaner
 from lib.generator.number_unit_generator import Number_Unit_Generator
 from lib.tools import Setting
 
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
+
 
 def run_cleaning_pipeline(category_list, country_list, freq_list, to_db=False):
     setting = Setting()

@@ -5,7 +5,7 @@ from lib.matcher.export_matcher import Export_matcher
 from lib.matcher.gdp_matcher import GDP_matcher
 from lib.tools import Setting
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
 
 
 def run_matching_pipeline(category_list, country_list, freq_list, to_db=False, to_output=False):
@@ -34,7 +34,7 @@ def run_matching_pipeline(category_list, country_list, freq_list, to_db=False, t
                 matching_num, data_num, mapping_length, matching_ratio = matcher.match(
                     country=country, freq=freq, to_db=to_db, to_output=to_output
                 )
-                logging.info(
+                print(
                     f"matching_num: {str(matching_num)}, data_num: {data_num}, "
                     f"mapping_length: {str(mapping_length)}, matching_ratio: {str(matching_ratio)}"
                 )
@@ -52,7 +52,7 @@ def main():
     category_list = args.category.split(",") if args.category is not None else None
     country_list = args.country.split(",") if args.country is not None else None
     freq_list = args.freq.split(",") if args.freq is not None else None
-    
+
     if args.to_db and args.to_output:
         run_matching_pipeline(category_list, country_list, freq_list, args.to_db, args.to_output)
     elif args.to_db:
@@ -61,7 +61,6 @@ def main():
         run_matching_pipeline(category_list, country_list, freq_list, args.to_output)
     else:
         run_matching_pipeline(category_list, country_list, freq_list)
-        
 
 
 if __name__ == "__main__":
