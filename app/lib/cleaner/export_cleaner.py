@@ -4,7 +4,7 @@ import sys
 
 import pandas as pd
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
 
 sys.path.append(f"""{pathlib.Path(__file__).resolve().parent}""")
 sys.path.append(f"""{str(pathlib.Path(__file__).resolve().parent.parent)}""")

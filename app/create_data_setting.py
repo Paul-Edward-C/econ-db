@@ -3,7 +3,7 @@ import logging
 
 from lib.generator.data_setting_generator import Data_Setting_Generator
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
 
 
 def run_create_data_setting_pipeline(category, country, freq, to_db=False):
