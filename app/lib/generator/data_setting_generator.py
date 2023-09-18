@@ -10,28 +10,31 @@ from lib.tools import Setting
 
 
 class Data_Setting_Generator:
+    def __init__(self):
+        self.setting = Setting()
+
     def create(self, category, country, freq, to_db):
 
-        setting = Setting()
+        category_full = self.setting.category_full_name_map[category]
+        freq_full = self.setting.freq_full_name_map[freq]
 
-        category_full = setting.category_full_name_map[category]
-        freq_full = setting.freq_full_name_map[freq]
-
-        raw_data_path = setting.structure[country][category_full][f"{freq_full}_data_path"]
+        raw_data_path = self.setting.structure[country][category_full][f"{freq_full}_data_path"]
+        temp_data_setting_path = self.setting.structure[country][category_full][f"{freq_full}_temp_setting_path"]
         data = pd.read_csv(raw_data_path, index_col=[0])
+        temp_setting = pd.read_csv(temp_data_setting_path, index_col=None).set_index("cleaned_name")
 
         columns = data.columns.tolist()
         data_setting = pd.DataFrame()
 
         data_setting = self.create_chart_type(columns, data_setting)
-        data_setting = self.create_data_type(columns, data_setting)
+        data_setting = self.create_data_type(columns, data_setting, temp_setting=temp_setting)
         data_setting = self.create_display_name(columns, data_setting, country)
 
         data_setting.index.name = "name"
         data_setting = data_setting[["display_name", "data_type", "chart_type"]]
 
         if to_db:
-            output_path = setting.structure[country][category_full][f"{freq_full}_setting_path"]
+            output_path = self.setting.structure[country][category_full][f"{freq_full}_setting_path"]
             data_setting.to_csv(output_path, index=True)
         return
 
@@ -47,14 +50,15 @@ class Data_Setting_Generator:
 
         return data_setting
 
-    def create_data_type(self, columns, data_setting):
+    def create_data_type(self, columns, data_setting, temp_setting):
         col_name = "data_type"
 
         for column in columns:
-            if "%" in column.lower():
-                data_setting.loc[column, col_name] = "p"
-            else:
-                data_setting.loc[column, col_name] = "r"
+            # len(temp_setting.loc[column] might not be 1)
+            try:
+                data_setting.loc[column, col_name] = temp_setting.loc[[column]]["data_type"].tolist()[0]
+            except KeyError as e:
+                data_setting.loc[column, col_name] = "None"
 
         return data_setting
 

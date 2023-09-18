@@ -1,79 +1,79 @@
 name,display_name,data_type,chart_type
-"NGDP, LCU","TW, NGDP, LCU, bn",r,line
+"NGDP, LCU","TW, NGDP, LCU",b,line
 "NGDP, LCU, % YoY","TW, NGDP, LCU, % YoY",p,line
-"NGDP, LCU, SA","TW, NGDP, LCU, SA, bn",r,line
+"NGDP, LCU, SA","TW, NGDP, LCU, SA",b,line
 "NGDP, % SAAR, LCU","TW, NGDP, % SAAR, LCU",p,line
 "NGDP, LCU, % QoQ, SA","TW, NGDP, LCU, % QoQ, SA",p,line
-"RGDP, LCU","TW, RGDP, LCU, bn",r,line
+"RGDP, LCU","TW, RGDP, LCU",b,line
 "RGDP, LCU, % YoY","TW, RGDP, LCU, % YoY",p,line
-"RGDP, LCU, SA","TW, RGDP, LCU, SA, bn",r,line
+"RGDP, LCU, SA","TW, RGDP, LCU, SA",b,line
 "RGDP, % SAAR, LCU","TW, RGDP, % SAAR, LCU",p,line
 "RGDP, LCU, % QoQ, SA","TW, RGDP, LCU, % QoQ, SA",p,line
-"NGDP, Domestic Demand, Private Consumption, LCU","TW, NGDP, Domestic Demand, Private Consumption, LCU, bn",r,line
-"NGDP, Domestic Demand, Government Consumption, LCU","TW, NGDP, Domestic Demand, Government Consumption, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Inventories, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Inventories, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, LCU, bn",r,line
+"NGDP, Domestic Demand, Private Consumption, LCU","TW, NGDP, Domestic Demand, Private Consumption, LCU",b,line
+"NGDP, Domestic Demand, Government Consumption, LCU","TW, NGDP, Domestic Demand, Government Consumption, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Inventories, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Inventories, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, LCU",b,line
 "NGDP, Domestic Demand, Private Consumption, LCU, % YoY","TW, NGDP, Domestic Demand, Private Consumption, LCU, % YoY",p,line
 "NGDP, Domestic Demand, Government Consumption, LCU, % YoY","TW, NGDP, Domestic Demand, Government Consumption, LCU, % YoY",p,line
 "NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, % YoY","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, % YoY",p,line
 "NGDP, Domestic Demand, Gross Capital Formation, Inventories, LCU, % YoY","TW, NGDP, Domestic Demand, Gross Capital Formation, Inventories, LCU, % YoY",p,line
 "NGDP, Domestic Demand, Gross Capital Formation, LCU, % YoY","TW, NGDP, Domestic Demand, Gross Capital Formation, LCU, % YoY",p,line
-"NGDP, Domestic Demand, Private Consumption, LCU, SA","TW, NGDP, Domestic Demand, Private Consumption, LCU, SA, bn",r,line
-"NGDP, Domestic Demand, Government Consumption, LCU, SA","TW, NGDP, Domestic Demand, Government Consumption, LCU, SA, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, LCU, SA","TW, NGDP, Domestic Demand, Gross Capital Formation, LCU, SA, bn",r,line
+"NGDP, Domestic Demand, Private Consumption, LCU, SA","TW, NGDP, Domestic Demand, Private Consumption, LCU, SA",b,line
+"NGDP, Domestic Demand, Government Consumption, LCU, SA","TW, NGDP, Domestic Demand, Government Consumption, LCU, SA",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, LCU, SA","TW, NGDP, Domestic Demand, Gross Capital Formation, LCU, SA",b,line
 "NGDP, Domestic Demand, Private Consumption, % SAAR, LCU","TW, NGDP, Domestic Demand, Private Consumption, % SAAR, LCU",p,line
 "NGDP, Domestic Demand, Government Consumption, % SAAR, LCU","TW, NGDP, Domestic Demand, Government Consumption, % SAAR, LCU",p,line
 "NGDP, Domestic Demand, Gross Capital Formation, % SAAR, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, % SAAR, LCU",p,line
 "NGDP, Domestic Demand, Private Consumption, LCU, % QoQ, SA","TW, NGDP, Domestic Demand, Private Consumption, LCU, % QoQ, SA",p,line
 "NGDP, Domestic Demand, Government Consumption, LCU, % QoQ, SA","TW, NGDP, Domestic Demand, Government Consumption, LCU, % QoQ, SA",p,line
 "NGDP, Domestic Demand, Gross Capital Formation, LCU, % QoQ, SA","TW, NGDP, Domestic Demand, Gross Capital Formation, LCU, % QoQ, SA",p,line
-"RGDP, Domestic Demand, Private Consumption, LCU","TW, RGDP, Domestic Demand, Private Consumption, LCU, bn",r,line
-"RGDP, Domestic Demand, Government Consumption, LCU","TW, RGDP, Domestic Demand, Government Consumption, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Inventories, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Inventories, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, LCU, bn",r,line
+"RGDP, Domestic Demand, Private Consumption, LCU","TW, RGDP, Domestic Demand, Private Consumption, LCU",b,line
+"RGDP, Domestic Demand, Government Consumption, LCU","TW, RGDP, Domestic Demand, Government Consumption, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Inventories, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Inventories, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, LCU",b,line
 "RGDP, Domestic Demand, Private Consumption, LCU, % YoY","TW, RGDP, Domestic Demand, Private Consumption, LCU, % YoY",p,line
 "RGDP, Domestic Demand, Government Consumption, LCU, % YoY","TW, RGDP, Domestic Demand, Government Consumption, LCU, % YoY",p,line
 "RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, % YoY","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, % YoY",p,line
 "RGDP, Domestic Demand, Gross Capital Formation, Inventories, LCU, % YoY","TW, RGDP, Domestic Demand, Gross Capital Formation, Inventories, LCU, % YoY",p,line
 "RGDP, Domestic Demand, Gross Capital Formation, LCU, % YoY","TW, RGDP, Domestic Demand, Gross Capital Formation, LCU, % YoY",p,line
-"RGDP, Domestic Demand, Private Consumption, LCU, SA","TW, RGDP, Domestic Demand, Private Consumption, LCU, SA, bn",r,line
-"RGDP, Domestic Demand, Government Consumption, LCU, SA","TW, RGDP, Domestic Demand, Government Consumption, LCU, SA, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, LCU, SA","TW, RGDP, Domestic Demand, Gross Capital Formation, LCU, SA, bn",r,line
+"RGDP, Domestic Demand, Private Consumption, LCU, SA","TW, RGDP, Domestic Demand, Private Consumption, LCU, SA",b,line
+"RGDP, Domestic Demand, Government Consumption, LCU, SA","TW, RGDP, Domestic Demand, Government Consumption, LCU, SA",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, LCU, SA","TW, RGDP, Domestic Demand, Gross Capital Formation, LCU, SA",b,line
 "RGDP, Domestic Demand, Private Consumption, % SAAR, LCU","TW, RGDP, Domestic Demand, Private Consumption, % SAAR, LCU",p,line
 "RGDP, Domestic Demand, Government Consumption, % SAAR, LCU","TW, RGDP, Domestic Demand, Government Consumption, % SAAR, LCU",p,line
 "RGDP, Domestic Demand, Gross Capital Formation, % SAAR, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, % SAAR, LCU",p,line
 "RGDP, Domestic Demand, Private Consumption, LCU, % QoQ, SA","TW, RGDP, Domestic Demand, Private Consumption, LCU, % QoQ, SA",p,line
 "RGDP, Domestic Demand, Government Consumption, LCU, % QoQ, SA","TW, RGDP, Domestic Demand, Government Consumption, LCU, % QoQ, SA",p,line
 "RGDP, Domestic Demand, Gross Capital Formation, LCU, % QoQ, SA","TW, RGDP, Domestic Demand, Gross Capital Formation, LCU, % QoQ, SA",p,line
-"RGDP, Domestic Demand, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, Domestic Demand, Private Consumption, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Private Consumption, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, Domestic Demand, Government Consumption, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Government Consumption, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, Domestic Demand, Gross Capital Formation, Inventories, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Inventories, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, Domestic Demand, Gross Capital Formation, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"NGDP, Domestic Demand, LCU","TW, NGDP, Domestic Demand, LCU, bn",r,line
+"RGDP, Domestic Demand, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, Domestic Demand, Private Consumption, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Private Consumption, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, Domestic Demand, Government Consumption, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Government Consumption, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, Domestic Demand, Gross Capital Formation, Inventories, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Inventories, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, Domestic Demand, Gross Capital Formation, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Contribution to YoY chg, ppts, LCU",p,bar
+"NGDP, Domestic Demand, LCU","TW, NGDP, Domestic Demand, LCU",b,line
 "NGDP, Domestic Demand, LCU, % YoY","TW, NGDP, Domestic Demand, LCU, % YoY",p,line
-"NGDP, Domestic Demand, LCU, SA","TW, NGDP, Domestic Demand, LCU, SA, bn",r,line
+"NGDP, Domestic Demand, LCU, SA","TW, NGDP, Domestic Demand, LCU, SA",b,line
 "NGDP, Domestic Demand, % SAAR, LCU","TW, NGDP, Domestic Demand, % SAAR, LCU",p,line
 "NGDP, Domestic Demand, LCU, % QoQ, SA","TW, NGDP, Domestic Demand, LCU, % QoQ, SA",p,line
-"RGDP, Domestic Demand, LCU","TW, RGDP, Domestic Demand, LCU, bn",r,line
+"RGDP, Domestic Demand, LCU","TW, RGDP, Domestic Demand, LCU",b,line
 "RGDP, Domestic Demand, LCU, % YoY","TW, RGDP, Domestic Demand, LCU, % YoY",p,line
-"RGDP, Domestic Demand, LCU, SA","TW, RGDP, Domestic Demand, LCU, SA, bn",r,line
+"RGDP, Domestic Demand, LCU, SA","TW, RGDP, Domestic Demand, LCU, SA",b,line
 "RGDP, Domestic Demand, % SAAR, LCU","TW, RGDP, Domestic Demand, % SAAR, LCU",p,line
 "RGDP, Domestic Demand, LCU, % QoQ, SA","TW, RGDP, Domestic Demand, LCU, % QoQ, SA",p,line
-"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, bn",r,line
-"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU, bn",r,line
-"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, bn",r,line
-"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU, bn",r,line
-"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, LCU","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, LCU, bn",r,line
-"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, bn",r,line
-"NGDP, Net Exports of Goods and Services, LCU","TW, NGDP, Net Exports of Goods and Services, LCU, bn",r,line
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU",b,line
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU",b,line
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU",b,line
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU",b,line
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, LCU","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, LCU",b,line
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU",b,line
+"NGDP, Net Exports of Goods and Services, LCU","TW, NGDP, Net Exports of Goods and Services, LCU",b,line
 "NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, % YoY","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, % YoY",p,line
 "NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU, % YoY","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU, % YoY",p,line
 "NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, % YoY","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, % YoY",p,line
@@ -81,22 +81,22 @@ name,display_name,data_type,chart_type
 "NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, LCU, % YoY","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, LCU, % YoY",p,line
 "NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, % YoY","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, % YoY",p,line
 "NGDP, Net Exports of Goods and Services, LCU, % YoY","TW, NGDP, Net Exports of Goods and Services, LCU, % YoY",p,line
-"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA, bn",r,line
-"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA, bn",r,line
-"NGDP, Net Exports of Goods and Services, LCU, SA","TW, NGDP, Net Exports of Goods and Services, LCU, SA, bn",r,line
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA",b,line
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA",b,line
+"NGDP, Net Exports of Goods and Services, LCU, SA","TW, NGDP, Net Exports of Goods and Services, LCU, SA",b,line
 "NGDP, Net Exports of Goods and Services, Exports of Goods and Services, % SAAR, LCU","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, % SAAR, LCU",p,line
 "NGDP, Net Exports of Goods and Services, Imports of Goods and Services, % SAAR, LCU","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, % SAAR, LCU",p,line
 "NGDP, Net Exports of Goods and Services, % SAAR, LCU","TW, NGDP, Net Exports of Goods and Services, % SAAR, LCU",p,line
 "NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, % QoQ, SA","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, % QoQ, SA",p,line
 "NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, % QoQ, SA","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, % QoQ, SA",p,line
 "NGDP, Net Exports of Goods and Services, LCU, % QoQ, SA","TW, NGDP, Net Exports of Goods and Services, LCU, % QoQ, SA",p,line
-"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, bn",r,line
-"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU, bn",r,line
-"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, bn",r,line
-"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU, bn",r,line
-"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, LCU","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, LCU, bn",r,line
-"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, bn",r,line
-"RGDP, Net Exports of Goods and Services, LCU","TW, RGDP, Net Exports of Goods and Services, LCU, bn",r,line
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU",b,line
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU",b,line
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU",b,line
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU",b,line
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, LCU","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, LCU",b,line
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU",b,line
+"RGDP, Net Exports of Goods and Services, LCU","TW, RGDP, Net Exports of Goods and Services, LCU",b,line
 "RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, % YoY","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, % YoY",p,line
 "RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU, % YoY","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU, % YoY",p,line
 "RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, % YoY","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, % YoY",p,line
@@ -104,136 +104,136 @@ name,display_name,data_type,chart_type
 "RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, LCU, % YoY","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Services, LCU, % YoY",p,line
 "RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, % YoY","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, % YoY",p,line
 "RGDP, Net Exports of Goods and Services, LCU, % YoY","TW, RGDP, Net Exports of Goods and Services, LCU, % YoY",p,line
-"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA, bn",r,line
-"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA, bn",r,line
-"RGDP, Net Exports of Goods and Services, LCU, SA","TW, RGDP, Net Exports of Goods and Services, LCU, SA, bn",r,line
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA",b,line
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA",b,line
+"RGDP, Net Exports of Goods and Services, LCU, SA","TW, RGDP, Net Exports of Goods and Services, LCU, SA",b,line
 "RGDP, Net Exports of Goods and Services, Exports of Goods and Services, % SAAR, LCU","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, % SAAR, LCU",p,line
 "RGDP, Net Exports of Goods and Services, Imports of Goods and Services, % SAAR, LCU","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, % SAAR, LCU",p,line
 "RGDP, Net Exports of Goods and Services, % SAAR, LCU","TW, RGDP, Net Exports of Goods and Services, % SAAR, LCU",p,line
 "RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, % QoQ, SA","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, % QoQ, SA",p,line
 "RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, % QoQ, SA","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, % QoQ, SA",p,line
 "RGDP, Net Exports of Goods and Services, LCU, % QoQ, SA","TW, RGDP, Net Exports of Goods and Services, LCU, % QoQ, SA",p,line
-"RGDP, Net Exports of Goods and Services, Contribution to YoY chg, ppts, LCU","TW, RGDP, Net Exports of Goods and Services, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Contribution to YoY chg, ppts, LCU","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Contribution to YoY chg, ppts, LCU","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"NGDP, Gain or Loss Resulting from Changes in the Terms of Trade, LCU","TW, NGDP, Gain or Loss Resulting from Changes in the Terms of Trade, LCU, bn",r,line
-"NGDP, GNI, LCU","TW, NGDP, GNI, LCU, bn",r,line
-"NGDP, Net Factor Income from Abroad, LCU","TW, NGDP, Net Factor Income from Abroad, LCU, bn",r,line
+"RGDP, Net Exports of Goods and Services, Contribution to YoY chg, ppts, LCU","TW, RGDP, Net Exports of Goods and Services, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Contribution to YoY chg, ppts, LCU","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Contribution to YoY chg, ppts, LCU","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Contribution to YoY chg, ppts, LCU",p,bar
+"NGDP, Gain or Loss Resulting from Changes in the Terms of Trade, LCU","TW, NGDP, Gain or Loss Resulting from Changes in the Terms of Trade, LCU",b,line
+"NGDP, GNI, LCU","TW, NGDP, GNI, LCU",b,line
+"NGDP, Net Factor Income from Abroad, LCU","TW, NGDP, Net Factor Income from Abroad, LCU",b,line
 "NGDP, Gain or Loss Resulting from Changes in the Terms of Trade, LCU, % YoY","TW, NGDP, Gain or Loss Resulting from Changes in the Terms of Trade, LCU, % YoY",p,line
 "NGDP, GNI, LCU, % YoY","TW, NGDP, GNI, LCU, % YoY",p,line
 "NGDP, Net Factor Income from Abroad, LCU, % YoY","TW, NGDP, Net Factor Income from Abroad, LCU, % YoY",p,line
-"RGDP, Gain or Loss Resulting from Changes in the Terms of Trade, LCU","TW, RGDP, Gain or Loss Resulting from Changes in the Terms of Trade, LCU, bn",r,line
-"RGDP, GNI, LCU","TW, RGDP, GNI, LCU, bn",r,line
-"RGDP, Net Factor Income from Abroad, LCU","TW, RGDP, Net Factor Income from Abroad, LCU, bn",r,line
+"RGDP, Gain or Loss Resulting from Changes in the Terms of Trade, LCU","TW, RGDP, Gain or Loss Resulting from Changes in the Terms of Trade, LCU",b,line
+"RGDP, GNI, LCU","TW, RGDP, GNI, LCU",b,line
+"RGDP, Net Factor Income from Abroad, LCU","TW, RGDP, Net Factor Income from Abroad, LCU",b,line
 "RGDP, Gain or Loss Resulting from Changes in the Terms of Trade, LCU, % YoY","TW, RGDP, Gain or Loss Resulting from Changes in the Terms of Trade, LCU, % YoY",p,line
 "RGDP, GNI, LCU, % YoY","TW, RGDP, GNI, LCU, % YoY",p,line
 "RGDP, Net Factor Income from Abroad, LCU, % YoY","TW, RGDP, Net Factor Income from Abroad, LCU, % YoY",p,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Construction, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Construction, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Transport Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Transport Equipment, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Intellectual Property Products, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Intellectual Property Products, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Construction, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Construction, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Transport Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Transport Equipment, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Intellectual Property Products, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Intellectual Property Products, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Construction, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Construction, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Transport Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Transport Equipment, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Other Machinery and Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Other Machinery and Equipment, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Intellectual Property Products, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Intellectual Property Products, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Construction, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Construction, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Transport Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Transport Equipment, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Other Machinery and Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Other Machinery and Equipment, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Intellectual Property Products, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Intellectual Property Products, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Construction, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Construction, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Transport Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Transport Equipment, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Other Machinery and Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Other Machinery and Equipment, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Intellectual Property Products, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Intellectual Property Products, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Construction, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Construction, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Transport Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Transport Equipment, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Other Machinery and Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Other Machinery and Equipment, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Intellectual Property Products, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Intellectual Property Products, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Construction, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Construction, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Transport Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Transport Equipment, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Intellectual Property Products, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Intellectual Property Products, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Construction, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Construction, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Transport Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Transport Equipment, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Intellectual Property Products, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Intellectual Property Products, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, LCU, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, LCU, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, LCU, bn",r,line
-"NGDP, By Activity, Primary, Agriculture, LCU","TW, NGDP, By Activity, Primary, Agriculture, LCU, bn",r,line
-"NGDP, By Activity, Primary, Mining, LCU","TW, NGDP, By Activity, Primary, Mining, LCU, bn",r,line
-"NGDP, By Activity, Secondary, Manufacturing, LCU","TW, NGDP, By Activity, Secondary, Manufacturing, LCU, bn",r,line
-"NGDP, By Activity, Secondary, Utilities, Electricity and gas, LCU","TW, NGDP, By Activity, Secondary, Utilities, Electricity and gas, LCU, bn",r,line
-"NGDP, By Activity, Secondary, Utilities, Water supply, LCU","TW, NGDP, By Activity, Secondary, Utilities, Water supply, LCU, bn",r,line
-"NGDP, By Activity, Secondary, Construction, LCU","TW, NGDP, By Activity, Secondary, Construction, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Wholesale and retail, LCU","TW, NGDP, By Activity, Tertiary, Wholesale and retail, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Transport and storage, LCU","TW, NGDP, By Activity, Tertiary, Transport and storage, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Accommodation and food services, LCU","TW, NGDP, By Activity, Tertiary, Accommodation and food services, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Information and communication, LCU","TW, NGDP, By Activity, Tertiary, Information and communication, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Financial and insurance, LCU","TW, NGDP, By Activity, Tertiary, Financial and insurance, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Real estate, LCU","TW, NGDP, By Activity, Tertiary, Real estate, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU","TW, NGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Support services, LCU","TW, NGDP, By Activity, Tertiary, Support services, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Public administration, defence and social security, LCU","TW, NGDP, By Activity, Tertiary, Public administration, defence and social security, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Education, LCU","TW, NGDP, By Activity, Tertiary, Education, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Human health and social work, LCU","TW, NGDP, By Activity, Tertiary, Human health and social work, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Arts, sports and recreation, LCU","TW, NGDP, By Activity, Tertiary, Arts, sports and recreation, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, Other services, LCU","TW, NGDP, By Activity, Tertiary, Other services, LCU, bn",r,line
-"NGDP, By Activity, Total excluding taxes and statistical discrepancy, LCU","TW, NGDP, By Activity, Total excluding taxes and statistical discrepancy, LCU, bn",r,line
-"NGDP, By Activity, Import Duties, LCU","TW, NGDP, By Activity, Import Duties, LCU, bn",r,line
-"NGDP, By Activity, Value-Added Tax, LCU","TW, NGDP, By Activity, Value-Added Tax, LCU, bn",r,line
-"NGDP, By Activity, Total excluding statistical disrepancy, LCU","TW, NGDP, By Activity, Total excluding statistical disrepancy, LCU, bn",r,line
-"NGDP, By Activity, GDP, LCU","TW, NGDP, By Activity, GDP, LCU, bn",r,line
-"NGDP, By Activity, Secondary, LCU","TW, NGDP, By Activity, Secondary, LCU, bn",r,line
-"NGDP, By Activity, Tertiary, LCU","TW, NGDP, By Activity, Tertiary, LCU, bn",r,line
-"NGDP, By Activity, Secondary, Utilities, LCU","TW, NGDP, By Activity, Secondary, Utilities, LCU, bn",r,line
-"NGDP, By Activity, Primary, LCU","TW, NGDP, By Activity, Primary, LCU, bn",r,line
-"RGDP, By Activity, Primary, Agriculture, LCU","TW, RGDP, By Activity, Primary, Agriculture, LCU, bn",r,line
-"RGDP, By Activity, Primary, Mining, LCU","TW, RGDP, By Activity, Primary, Mining, LCU, bn",r,line
-"RGDP, By Activity, Secondary, Manufacturing, LCU","TW, RGDP, By Activity, Secondary, Manufacturing, LCU, bn",r,line
-"RGDP, By Activity, Secondary, Utilities, Electricity and gas, LCU","TW, RGDP, By Activity, Secondary, Utilities, Electricity and gas, LCU, bn",r,line
-"RGDP, By Activity, Secondary, Utilities, Water supply, LCU","TW, RGDP, By Activity, Secondary, Utilities, Water supply, LCU, bn",r,line
-"RGDP, By Activity, Secondary, Construction, LCU","TW, RGDP, By Activity, Secondary, Construction, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Wholesale and retail, LCU","TW, RGDP, By Activity, Tertiary, Wholesale and retail, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Transport and storage, LCU","TW, RGDP, By Activity, Tertiary, Transport and storage, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Accommodation and food services, LCU","TW, RGDP, By Activity, Tertiary, Accommodation and food services, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Information and communication, LCU","TW, RGDP, By Activity, Tertiary, Information and communication, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Financial and insurance, LCU","TW, RGDP, By Activity, Tertiary, Financial and insurance, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Real estate, LCU","TW, RGDP, By Activity, Tertiary, Real estate, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU","TW, RGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Support services, LCU","TW, RGDP, By Activity, Tertiary, Support services, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Public administration, defence and social security, LCU","TW, RGDP, By Activity, Tertiary, Public administration, defence and social security, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Education, LCU","TW, RGDP, By Activity, Tertiary, Education, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Human health and social work, LCU","TW, RGDP, By Activity, Tertiary, Human health and social work, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Arts, sports and recreation, LCU","TW, RGDP, By Activity, Tertiary, Arts, sports and recreation, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Other services, LCU","TW, RGDP, By Activity, Tertiary, Other services, LCU, bn",r,line
-"RGDP, By Activity, Total excluding taxes and statistical discrepancy, LCU","TW, RGDP, By Activity, Total excluding taxes and statistical discrepancy, LCU, bn",r,line
-"RGDP, By Activity, Import Duties, LCU","TW, RGDP, By Activity, Import Duties, LCU, bn",r,line
-"RGDP, By Activity, Value-Added Tax, LCU","TW, RGDP, By Activity, Value-Added Tax, LCU, bn",r,line
-"RGDP, By Activity, Total excluding statistical disrepancy, LCU","TW, RGDP, By Activity, Total excluding statistical disrepancy, LCU, bn",r,line
-"RGDP, By Activity, GDP, LCU","TW, RGDP, By Activity, GDP, LCU, bn",r,line
-"RGDP, By Activity, Secondary, LCU","TW, RGDP, By Activity, Secondary, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, LCU","TW, RGDP, By Activity, Tertiary, LCU, bn",r,line
-"RGDP, By Activity, Secondary, Utilities, LCU","TW, RGDP, By Activity, Secondary, Utilities, LCU, bn",r,line
-"RGDP, By Activity, Primary, LCU","TW, RGDP, By Activity, Primary, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Business, LCU","TW, RGDP, By Activity, Tertiary, Business, LCU, bn",r,line
-"RGDP, By Activity, Tertiary, Consumer, LCU","TW, RGDP, By Activity, Tertiary, Consumer, LCU, bn",r,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Construction, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Construction, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Transport Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Transport Equipment, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Intellectual Property Products, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Intellectual Property Products, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Construction, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Construction, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Transport Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Transport Equipment, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Intellectual Property Products, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Intellectual Property Products, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Construction, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Construction, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Transport Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Transport Equipment, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Other Machinery and Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Other Machinery and Equipment, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Intellectual Property Products, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Intellectual Property Products, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Construction, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Construction, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Transport Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Transport Equipment, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Other Machinery and Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Other Machinery and Equipment, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Intellectual Property Products, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Intellectual Property Products, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Construction, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Construction, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Transport Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Transport Equipment, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Other Machinery and Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Other Machinery and Equipment, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Intellectual Property Products, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Intellectual Property Products, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Construction, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Construction, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Transport Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Transport Equipment, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Other Machinery and Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Other Machinery and Equipment, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Intellectual Property Products, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Intellectual Property Products, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Construction, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Construction, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Transport Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Transport Equipment, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Intellectual Property Products, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Intellectual Property Products, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Construction, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Construction, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Transport Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Transport Equipment, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Intellectual Property Products, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Intellectual Property Products, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, LCU",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, LCU",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, LCU",b,line
+"NGDP, By Activity, Primary, Agriculture, LCU","TW, NGDP, By Activity, Primary, Agriculture, LCU",b,line
+"NGDP, By Activity, Primary, Mining, LCU","TW, NGDP, By Activity, Primary, Mining, LCU",b,line
+"NGDP, By Activity, Secondary, Manufacturing, LCU","TW, NGDP, By Activity, Secondary, Manufacturing, LCU",b,line
+"NGDP, By Activity, Secondary, Utilities, Electricity and gas, LCU","TW, NGDP, By Activity, Secondary, Utilities, Electricity and gas, LCU",b,line
+"NGDP, By Activity, Secondary, Utilities, Water supply, LCU","TW, NGDP, By Activity, Secondary, Utilities, Water supply, LCU",b,line
+"NGDP, By Activity, Secondary, Construction, LCU","TW, NGDP, By Activity, Secondary, Construction, LCU",b,line
+"NGDP, By Activity, Tertiary, Wholesale and retail, LCU","TW, NGDP, By Activity, Tertiary, Wholesale and retail, LCU",b,line
+"NGDP, By Activity, Tertiary, Transport and storage, LCU","TW, NGDP, By Activity, Tertiary, Transport and storage, LCU",b,line
+"NGDP, By Activity, Tertiary, Accommodation and food services, LCU","TW, NGDP, By Activity, Tertiary, Accommodation and food services, LCU",b,line
+"NGDP, By Activity, Tertiary, Information and communication, LCU","TW, NGDP, By Activity, Tertiary, Information and communication, LCU",b,line
+"NGDP, By Activity, Tertiary, Financial and insurance, LCU","TW, NGDP, By Activity, Tertiary, Financial and insurance, LCU",b,line
+"NGDP, By Activity, Tertiary, Real estate, LCU","TW, NGDP, By Activity, Tertiary, Real estate, LCU",b,line
+"NGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU","TW, NGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU",b,line
+"NGDP, By Activity, Tertiary, Support services, LCU","TW, NGDP, By Activity, Tertiary, Support services, LCU",b,line
+"NGDP, By Activity, Tertiary, Public administration, defence and social security, LCU","TW, NGDP, By Activity, Tertiary, Public administration, defence and social security, LCU",b,line
+"NGDP, By Activity, Tertiary, Education, LCU","TW, NGDP, By Activity, Tertiary, Education, LCU",b,line
+"NGDP, By Activity, Tertiary, Human health and social work, LCU","TW, NGDP, By Activity, Tertiary, Human health and social work, LCU",b,line
+"NGDP, By Activity, Tertiary, Arts, sports and recreation, LCU","TW, NGDP, By Activity, Tertiary, Arts, sports and recreation, LCU",b,line
+"NGDP, By Activity, Tertiary, Other services, LCU","TW, NGDP, By Activity, Tertiary, Other services, LCU",b,line
+"NGDP, By Activity, Total excluding taxes and statistical discrepancy, LCU","TW, NGDP, By Activity, Total excluding taxes and statistical discrepancy, LCU",b,line
+"NGDP, By Activity, Import Duties, LCU","TW, NGDP, By Activity, Import Duties, LCU",b,line
+"NGDP, By Activity, Value-Added Tax, LCU","TW, NGDP, By Activity, Value-Added Tax, LCU",b,line
+"NGDP, By Activity, Total excluding statistical disrepancy, LCU","TW, NGDP, By Activity, Total excluding statistical disrepancy, LCU",b,line
+"NGDP, By Activity, GDP, LCU","TW, NGDP, By Activity, GDP, LCU",b,line
+"NGDP, By Activity, Secondary, LCU","TW, NGDP, By Activity, Secondary, LCU",b,line
+"NGDP, By Activity, Tertiary, LCU","TW, NGDP, By Activity, Tertiary, LCU",b,line
+"NGDP, By Activity, Secondary, Utilities, LCU","TW, NGDP, By Activity, Secondary, Utilities, LCU",b,line
+"NGDP, By Activity, Primary, LCU","TW, NGDP, By Activity, Primary, LCU",b,line
+"RGDP, By Activity, Primary, Agriculture, LCU","TW, RGDP, By Activity, Primary, Agriculture, LCU",b,line
+"RGDP, By Activity, Primary, Mining, LCU","TW, RGDP, By Activity, Primary, Mining, LCU",b,line
+"RGDP, By Activity, Secondary, Manufacturing, LCU","TW, RGDP, By Activity, Secondary, Manufacturing, LCU",b,line
+"RGDP, By Activity, Secondary, Utilities, Electricity and gas, LCU","TW, RGDP, By Activity, Secondary, Utilities, Electricity and gas, LCU",b,line
+"RGDP, By Activity, Secondary, Utilities, Water supply, LCU","TW, RGDP, By Activity, Secondary, Utilities, Water supply, LCU",b,line
+"RGDP, By Activity, Secondary, Construction, LCU","TW, RGDP, By Activity, Secondary, Construction, LCU",b,line
+"RGDP, By Activity, Tertiary, Wholesale and retail, LCU","TW, RGDP, By Activity, Tertiary, Wholesale and retail, LCU",b,line
+"RGDP, By Activity, Tertiary, Transport and storage, LCU","TW, RGDP, By Activity, Tertiary, Transport and storage, LCU",b,line
+"RGDP, By Activity, Tertiary, Accommodation and food services, LCU","TW, RGDP, By Activity, Tertiary, Accommodation and food services, LCU",b,line
+"RGDP, By Activity, Tertiary, Information and communication, LCU","TW, RGDP, By Activity, Tertiary, Information and communication, LCU",b,line
+"RGDP, By Activity, Tertiary, Financial and insurance, LCU","TW, RGDP, By Activity, Tertiary, Financial and insurance, LCU",b,line
+"RGDP, By Activity, Tertiary, Real estate, LCU","TW, RGDP, By Activity, Tertiary, Real estate, LCU",b,line
+"RGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU","TW, RGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU",b,line
+"RGDP, By Activity, Tertiary, Support services, LCU","TW, RGDP, By Activity, Tertiary, Support services, LCU",b,line
+"RGDP, By Activity, Tertiary, Public administration, defence and social security, LCU","TW, RGDP, By Activity, Tertiary, Public administration, defence and social security, LCU",b,line
+"RGDP, By Activity, Tertiary, Education, LCU","TW, RGDP, By Activity, Tertiary, Education, LCU",b,line
+"RGDP, By Activity, Tertiary, Human health and social work, LCU","TW, RGDP, By Activity, Tertiary, Human health and social work, LCU",b,line
+"RGDP, By Activity, Tertiary, Arts, sports and recreation, LCU","TW, RGDP, By Activity, Tertiary, Arts, sports and recreation, LCU",b,line
+"RGDP, By Activity, Tertiary, Other services, LCU","TW, RGDP, By Activity, Tertiary, Other services, LCU",b,line
+"RGDP, By Activity, Total excluding taxes and statistical discrepancy, LCU","TW, RGDP, By Activity, Total excluding taxes and statistical discrepancy, LCU",b,line
+"RGDP, By Activity, Import Duties, LCU","TW, RGDP, By Activity, Import Duties, LCU",b,line
+"RGDP, By Activity, Value-Added Tax, LCU","TW, RGDP, By Activity, Value-Added Tax, LCU",b,line
+"RGDP, By Activity, Total excluding statistical disrepancy, LCU","TW, RGDP, By Activity, Total excluding statistical disrepancy, LCU",b,line
+"RGDP, By Activity, GDP, LCU","TW, RGDP, By Activity, GDP, LCU",b,line
+"RGDP, By Activity, Secondary, LCU","TW, RGDP, By Activity, Secondary, LCU",b,line
+"RGDP, By Activity, Tertiary, LCU","TW, RGDP, By Activity, Tertiary, LCU",b,line
+"RGDP, By Activity, Secondary, Utilities, LCU","TW, RGDP, By Activity, Secondary, Utilities, LCU",b,line
+"RGDP, By Activity, Primary, LCU","TW, RGDP, By Activity, Primary, LCU",b,line
+"RGDP, By Activity, Tertiary, Business, LCU","TW, RGDP, By Activity, Tertiary, Business, LCU",b,line
+"RGDP, By Activity, Tertiary, Consumer, LCU","TW, RGDP, By Activity, Tertiary, Consumer, LCU",b,line
 "NGDP, By Activity, Primary, Agriculture, LCU, % YoY","TW, NGDP, By Activity, Primary, Agriculture, LCU, % YoY",p,line
 "NGDP, By Activity, Primary, Mining, LCU, % YoY","TW, NGDP, By Activity, Primary, Mining, LCU, % YoY",p,line
 "NGDP, By Activity, Secondary, Manufacturing, LCU, % YoY","TW, NGDP, By Activity, Secondary, Manufacturing, LCU, % YoY",p,line
@@ -292,45 +292,45 @@ name,display_name,data_type,chart_type
 "RGDP, By Activity, Primary, LCU, % YoY","TW, RGDP, By Activity, Primary, LCU, % YoY",p,line
 "RGDP, By Activity, Tertiary, Business, LCU, % YoY","TW, RGDP, By Activity, Tertiary, Business, LCU, % YoY",p,line
 "RGDP, By Activity, Tertiary, Consumer, LCU, % YoY","TW, RGDP, By Activity, Tertiary, Consumer, LCU, % YoY",p,line
-"RGDP, By Activity, Primary, Agriculture, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Primary, Agriculture, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Primary, Mining, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Primary, Mining, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Secondary, Manufacturing, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Secondary, Manufacturing, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Secondary, Utilities, Electricity and gas, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Secondary, Utilities, Electricity and gas, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Secondary, Utilities, Water supply, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Secondary, Utilities, Water supply, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Secondary, Construction, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Secondary, Construction, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Tertiary, Wholesale and retail, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Wholesale and retail, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Tertiary, Transport and storage, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Transport and storage, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Tertiary, Accommodation and food services, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Accommodation and food services, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Tertiary, Information and communication, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Information and communication, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Tertiary, Financial and insurance, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Financial and insurance, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Tertiary, Real estate, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Real estate, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Tertiary, Professional, scientific and technical services, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Professional, scientific and technical services, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Tertiary, Support services, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Support services, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Tertiary, Public administration, defence and social security, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Public administration, defence and social security, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Tertiary, Education, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Education, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Tertiary, Human health and social work, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Human health and social work, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Tertiary, Arts, sports and recreation, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Arts, sports and recreation, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Tertiary, Other services, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Other services, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Total excluding taxes and statistical discrepancy, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Total excluding taxes and statistical discrepancy, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Import Duties, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Import Duties, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Value-Added Tax, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Value-Added Tax, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, By Activity, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, By Activity, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, GDP, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, GDP, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Secondary, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Secondary, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Tertiary, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Secondary, Utilities, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Secondary, Utilities, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, By Activity, Primary, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Primary, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, Domestic Demand, Public, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Public, Contribution to YoY chg, ppts, LCU, bn",r,bar
-"RGDP, Domestic Demand, Private, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Private, Contribution to YoY chg, ppts, LCU, bn",r,bar
+"RGDP, By Activity, Primary, Agriculture, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Primary, Agriculture, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Primary, Mining, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Primary, Mining, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Secondary, Manufacturing, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Secondary, Manufacturing, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Secondary, Utilities, Electricity and gas, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Secondary, Utilities, Electricity and gas, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Secondary, Utilities, Water supply, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Secondary, Utilities, Water supply, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Secondary, Construction, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Secondary, Construction, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Tertiary, Wholesale and retail, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Wholesale and retail, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Tertiary, Transport and storage, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Transport and storage, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Tertiary, Accommodation and food services, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Accommodation and food services, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Tertiary, Information and communication, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Information and communication, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Tertiary, Financial and insurance, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Financial and insurance, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Tertiary, Real estate, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Real estate, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Tertiary, Professional, scientific and technical services, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Professional, scientific and technical services, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Tertiary, Support services, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Support services, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Tertiary, Public administration, defence and social security, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Public administration, defence and social security, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Tertiary, Education, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Education, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Tertiary, Human health and social work, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Human health and social work, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Tertiary, Arts, sports and recreation, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Arts, sports and recreation, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Tertiary, Other services, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Other services, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Total excluding taxes and statistical discrepancy, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Total excluding taxes and statistical discrepancy, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Import Duties, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Import Duties, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Value-Added Tax, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Value-Added Tax, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, By Activity, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, By Activity, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, GDP, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, GDP, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Secondary, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Secondary, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Tertiary, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Tertiary, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Secondary, Utilities, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Secondary, Utilities, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, By Activity, Primary, Contribution to YoY chg, ppts, LCU","TW, RGDP, By Activity, Primary, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, Domestic Demand, Public, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Public, Contribution to YoY chg, ppts, LCU",p,bar
+"RGDP, Domestic Demand, Private, Contribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Private, Contribution to YoY chg, ppts, LCU",p,bar
 "NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, % YoY.1, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, % YoY.1, LCU",p,line
 "NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, % YoY.2, LCU","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, % YoY.2, LCU",p,line
 "RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, % YoY.1, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, % YoY.1, LCU",p,line
 "RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, % YoY.2, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, % YoY.2, LCU",p,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Contribution to YoY chg, ppts.1, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Contribution to YoY chg, ppts.1, LCU, bn",r,bar
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Contribution to YoY chg, ppts.1, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Contribution to YoY chg, ppts.1, LCU, bn",r,bar
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Contribution to YoY chg, ppts.1, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Contribution to YoY chg, ppts.1, LCU, bn",r,bar
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Contribution to YoY chg, ppts.1, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Contribution to YoY chg, ppts.1, LCU, bn",r,bar
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Contribution to YoY chg, ppts.1, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Contribution to YoY chg, ppts.1, LCU, bn",r,bar
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Contribution to YoY chg, ppts.1, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Contribution to YoY chg, ppts.1, LCU",p,bar
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Contribution to YoY chg, ppts.1, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Contribution to YoY chg, ppts.1, LCU",p,bar
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Contribution to YoY chg, ppts.1, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public Enterprises, Contribution to YoY chg, ppts.1, LCU",p,bar
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Contribution to YoY chg, ppts.1, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Government, Contribution to YoY chg, ppts.1, LCU",p,bar
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Contribution to YoY chg, ppts.1, LCU","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Contribution to YoY chg, ppts.1, LCU",p,bar
 "NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Construction, LCU, % YoY","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Construction, LCU, % YoY",p,line
 "NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Transport Equipment, LCU, % YoY","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Transport Equipment, LCU, % YoY",p,line
 "NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU, % YoY","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU, % YoY",p,line
@@ -379,32 +379,32 @@ name,display_name,data_type,chart_type
 "RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, LCU, % YoY","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Transport Equipment, LCU, % YoY",p,line
 "RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, LCU, % YoY","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Other Machinery and Equipment, LCU, % YoY",p,line
 "RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, LCU, % YoY","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Intellectual Property Products, LCU, % YoY",p,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU, SA","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU, SA, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU, SA","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU, SA, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, SA","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, SA, bn",r,line
-"RGDP, By Activity, Secondary, Manufacturing, LCU, SA","TW, RGDP, By Activity, Secondary, Manufacturing, LCU, SA, bn",r,line
-"RGDP, By Activity, Secondary, Construction, LCU, SA","TW, RGDP, By Activity, Secondary, Construction, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Wholesale and retail, LCU, SA","TW, RGDP, By Activity, Tertiary, Wholesale and retail, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Transport and storage, LCU, SA","TW, RGDP, By Activity, Tertiary, Transport and storage, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Accommodation and food services, LCU, SA","TW, RGDP, By Activity, Tertiary, Accommodation and food services, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Information and communication, LCU, SA","TW, RGDP, By Activity, Tertiary, Information and communication, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Financial and insurance, LCU, SA","TW, RGDP, By Activity, Tertiary, Financial and insurance, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Real estate, LCU, SA","TW, RGDP, By Activity, Tertiary, Real estate, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU, SA","TW, RGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Support services, LCU, SA","TW, RGDP, By Activity, Tertiary, Support services, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Public administration, defence and social security, LCU, SA","TW, RGDP, By Activity, Tertiary, Public administration, defence and social security, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Education, LCU, SA","TW, RGDP, By Activity, Tertiary, Education, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Human health and social work, LCU, SA","TW, RGDP, By Activity, Tertiary, Human health and social work, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Arts, sports and recreation, LCU, SA","TW, RGDP, By Activity, Tertiary, Arts, sports and recreation, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Other services, LCU, SA","TW, RGDP, By Activity, Tertiary, Other services, LCU, SA, bn",r,line
-"RGDP, By Activity, Secondary, LCU, SA","TW, RGDP, By Activity, Secondary, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, LCU, SA","TW, RGDP, By Activity, Tertiary, LCU, SA, bn",r,line
-"RGDP, By Activity, Secondary, Utilities, LCU, SA","TW, RGDP, By Activity, Secondary, Utilities, LCU, SA, bn",r,line
-"RGDP, By Activity, Primary, LCU, SA","TW, RGDP, By Activity, Primary, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Business, LCU, SA","TW, RGDP, By Activity, Tertiary, Business, LCU, SA, bn",r,line
-"RGDP, By Activity, Tertiary, Consumer, LCU, SA","TW, RGDP, By Activity, Tertiary, Consumer, LCU, SA, bn",r,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU, SA","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU, SA",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU, SA","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU, SA",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, SA","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, SA",b,line
+"RGDP, By Activity, Secondary, Manufacturing, LCU, SA","TW, RGDP, By Activity, Secondary, Manufacturing, LCU, SA",b,line
+"RGDP, By Activity, Secondary, Construction, LCU, SA","TW, RGDP, By Activity, Secondary, Construction, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Wholesale and retail, LCU, SA","TW, RGDP, By Activity, Tertiary, Wholesale and retail, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Transport and storage, LCU, SA","TW, RGDP, By Activity, Tertiary, Transport and storage, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Accommodation and food services, LCU, SA","TW, RGDP, By Activity, Tertiary, Accommodation and food services, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Information and communication, LCU, SA","TW, RGDP, By Activity, Tertiary, Information and communication, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Financial and insurance, LCU, SA","TW, RGDP, By Activity, Tertiary, Financial and insurance, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Real estate, LCU, SA","TW, RGDP, By Activity, Tertiary, Real estate, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU, SA","TW, RGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Support services, LCU, SA","TW, RGDP, By Activity, Tertiary, Support services, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Public administration, defence and social security, LCU, SA","TW, RGDP, By Activity, Tertiary, Public administration, defence and social security, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Education, LCU, SA","TW, RGDP, By Activity, Tertiary, Education, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Human health and social work, LCU, SA","TW, RGDP, By Activity, Tertiary, Human health and social work, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Arts, sports and recreation, LCU, SA","TW, RGDP, By Activity, Tertiary, Arts, sports and recreation, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Other services, LCU, SA","TW, RGDP, By Activity, Tertiary, Other services, LCU, SA",b,line
+"RGDP, By Activity, Secondary, LCU, SA","TW, RGDP, By Activity, Secondary, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, LCU, SA","TW, RGDP, By Activity, Tertiary, LCU, SA",b,line
+"RGDP, By Activity, Secondary, Utilities, LCU, SA","TW, RGDP, By Activity, Secondary, Utilities, LCU, SA",b,line
+"RGDP, By Activity, Primary, LCU, SA","TW, RGDP, By Activity, Primary, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Business, LCU, SA","TW, RGDP, By Activity, Tertiary, Business, LCU, SA",b,line
+"RGDP, By Activity, Tertiary, Consumer, LCU, SA","TW, RGDP, By Activity, Tertiary, Consumer, LCU, SA",b,line
 "RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, % QoQ, SA","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, % QoQ, SA",p,line
 "NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, % QoQ, SA","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, % QoQ, SA",p,line
 "RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU, % QoQ, SA","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU, % QoQ, SA",p,line
@@ -432,59 +432,59 @@ name,display_name,data_type,chart_type
 "RGDP, By Activity, Tertiary, Business, LCU, % QoQ, SA","TW, RGDP, By Activity, Tertiary, Business, LCU, % QoQ, SA",p,line
 "RGDP, By Activity, Tertiary, Consumer, LCU, % QoQ, SA","TW, RGDP, By Activity, Tertiary, Consumer, LCU, % QoQ, SA",p,line
 "RGDP, Domestic Demand, % YoY.1, LCU","TW, RGDP, Domestic Demand, % YoY.1, LCU",p,line
-"RGDP, Domestic Demand, Contribution to YoY chg, ppts.1, LCU","TW, RGDP, Domestic Demand, Contribution to YoY chg, ppts.1, LCU, bn",r,bar
-"RGDP, Domestic Demand, Government Consumption, Ccontribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Government Consumption, Ccontribution to YoY chg, ppts, LCU, bn",r,bar
+"RGDP, Domestic Demand, Contribution to YoY chg, ppts.1, LCU","TW, RGDP, Domestic Demand, Contribution to YoY chg, ppts.1, LCU",p,bar
+"RGDP, Domestic Demand, Government Consumption, Ccontribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Government Consumption, Ccontribution to YoY chg, ppts, LCU",None,bar
 "Manufacturing, LCU, % of GDP","TW, Manufacturing, LCU, % of GDP",p,line
-"RGDP per hour worked, LCU","TW, RGDP per hour worked, LCU, bn",r,line
-"NGDP, USD, SA","TW, NGDP, USD, SA, bn",r,line
-"NGDP, USD","TW, NGDP, USD, bn",r,line
-"NGDP, LCU, 12M sum","TW, NGDP, LCU, 12M sum, bn",r,line
-"NGDP, USD, 12M sum","TW, NGDP, USD, 12M sum, bn",r,line
-"NGDP, LCU, SA, post-2012 trend","TW, NGDP, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, LCU, SA, post-2012 trend","TW, RGDP, LCU, SA, post-2012 trend, bn",r,line
-"NGDP, Domestic Demand, Private Consumption, LCU, SA, post-2012 trend","TW, NGDP, Domestic Demand, Private Consumption, LCU, SA, post-2012 trend, bn",r,line
-"NGDP, Domestic Demand, Government Consumption, LCU, SA, post-2012 trend","TW, NGDP, Domestic Demand, Government Consumption, LCU, SA, post-2012 trend, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, LCU, SA, post-2012 trend","TW, NGDP, Domestic Demand, Gross Capital Formation, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, Domestic Demand, Private Consumption, LCU, SA, post-2012 trend","TW, RGDP, Domestic Demand, Private Consumption, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, Domestic Demand, Government Consumption, LCU, SA, post-2012 trend","TW, RGDP, Domestic Demand, Government Consumption, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, LCU, SA, post-2012 trend","TW, RGDP, Domestic Demand, Gross Capital Formation, LCU, SA, post-2012 trend, bn",r,line
-"NGDP, Domestic Demand, LCU, SA, post-2012 trend","TW, NGDP, Domestic Demand, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, Domestic Demand, LCU, SA, post-2012 trend","TW, RGDP, Domestic Demand, LCU, SA, post-2012 trend, bn",r,line
-"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA, post-2012 trend","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA, post-2012 trend, bn",r,line
-"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA, post-2012 trend","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA, post-2012 trend, bn",r,line
-"NGDP, Net Exports of Goods and Services, LCU, SA, post-2012 trend","TW, NGDP, Net Exports of Goods and Services, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA, post-2012 trend","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA, post-2012 trend","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, Net Exports of Goods and Services, LCU, SA, post-2012 trend","TW, RGDP, Net Exports of Goods and Services, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA, post-2012 trend","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA, post-2012 trend, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA, post-2012 trend","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU, SA, post-2012 trend","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU, SA, post-2012 trend, bn",r,line
-"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU, SA, post-2012 trend","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, SA, post-2012 trend","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Secondary, Manufacturing, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Secondary, Manufacturing, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Secondary, Construction, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Secondary, Construction, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Wholesale and retail, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Wholesale and retail, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Transport and storage, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Transport and storage, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Accommodation and food services, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Accommodation and food services, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Information and communication, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Information and communication, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Financial and insurance, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Financial and insurance, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Real estate, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Real estate, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Support services, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Support services, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Public administration, defence and social security, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Public administration, defence and social security, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Education, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Education, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Human health and social work, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Human health and social work, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Arts, sports and recreation, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Arts, sports and recreation, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Other services, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Other services, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Secondary, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Secondary, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Secondary, Utilities, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Secondary, Utilities, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Primary, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Primary, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Business, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Business, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, By Activity, Tertiary, Consumer, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Consumer, LCU, SA, post-2012 trend, bn",r,line
-"RGDP, LCU, SA, trend based on 2012-2020","TW, RGDP, LCU, SA, trend based on 2012-2020, bn",r,line
-"RGDP, HP filter, cycle, LCU","TW, RGDP, HP filter, cycle, LCU, bn",r,line
-"RGDP, HP filter, trend, LCU","TW, RGDP, HP filter, trend, LCU, bn",r,line
-"RGDP, HP filter, output gap, LCU","TW, RGDP, HP filter, output gap, LCU, bn",r,line
-"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, SA","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, SA, bn",r,line
-"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU, SA","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU, SA, bn",r,line
+"RGDP per hour worked, LCU","TW, RGDP per hour worked, LCU",None,line
+"NGDP, USD, SA","TW, NGDP, USD, SA",b,line
+"NGDP, USD","TW, NGDP, USD",b,line
+"NGDP, LCU, 12M sum","TW, NGDP, LCU, 12M sum",b,line
+"NGDP, USD, 12M sum","TW, NGDP, USD, 12M sum",b,line
+"NGDP, LCU, SA, post-2012 trend","TW, NGDP, LCU, SA, post-2012 trend",b,line
+"RGDP, LCU, SA, post-2012 trend","TW, RGDP, LCU, SA, post-2012 trend",b,line
+"NGDP, Domestic Demand, Private Consumption, LCU, SA, post-2012 trend","TW, NGDP, Domestic Demand, Private Consumption, LCU, SA, post-2012 trend",b,line
+"NGDP, Domestic Demand, Government Consumption, LCU, SA, post-2012 trend","TW, NGDP, Domestic Demand, Government Consumption, LCU, SA, post-2012 trend",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, LCU, SA, post-2012 trend","TW, NGDP, Domestic Demand, Gross Capital Formation, LCU, SA, post-2012 trend",b,line
+"RGDP, Domestic Demand, Private Consumption, LCU, SA, post-2012 trend","TW, RGDP, Domestic Demand, Private Consumption, LCU, SA, post-2012 trend",b,line
+"RGDP, Domestic Demand, Government Consumption, LCU, SA, post-2012 trend","TW, RGDP, Domestic Demand, Government Consumption, LCU, SA, post-2012 trend",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, LCU, SA, post-2012 trend","TW, RGDP, Domestic Demand, Gross Capital Formation, LCU, SA, post-2012 trend",b,line
+"NGDP, Domestic Demand, LCU, SA, post-2012 trend","TW, NGDP, Domestic Demand, LCU, SA, post-2012 trend",b,line
+"RGDP, Domestic Demand, LCU, SA, post-2012 trend","TW, RGDP, Domestic Demand, LCU, SA, post-2012 trend",b,line
+"NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA, post-2012 trend","TW, NGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA, post-2012 trend",b,line
+"NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA, post-2012 trend","TW, NGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA, post-2012 trend",b,line
+"NGDP, Net Exports of Goods and Services, LCU, SA, post-2012 trend","TW, NGDP, Net Exports of Goods and Services, LCU, SA, post-2012 trend",b,line
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA, post-2012 trend","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, LCU, SA, post-2012 trend",b,line
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA, post-2012 trend","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, LCU, SA, post-2012 trend",b,line
+"RGDP, Net Exports of Goods and Services, LCU, SA, post-2012 trend","TW, RGDP, Net Exports of Goods and Services, LCU, SA, post-2012 trend",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA, post-2012 trend","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA, post-2012 trend",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA, post-2012 trend","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, LCU, SA, post-2012 trend",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU, SA, post-2012 trend","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, LCU, SA, post-2012 trend",b,line
+"NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU, SA, post-2012 trend","TW, NGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, LCU, SA, post-2012 trend",b,line
+"RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, SA, post-2012 trend","TW, RGDP, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Secondary, Manufacturing, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Secondary, Manufacturing, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Secondary, Construction, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Secondary, Construction, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Wholesale and retail, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Wholesale and retail, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Transport and storage, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Transport and storage, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Accommodation and food services, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Accommodation and food services, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Information and communication, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Information and communication, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Financial and insurance, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Financial and insurance, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Real estate, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Real estate, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Professional, scientific and technical services, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Support services, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Support services, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Public administration, defence and social security, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Public administration, defence and social security, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Education, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Education, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Human health and social work, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Human health and social work, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Arts, sports and recreation, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Arts, sports and recreation, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Other services, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Other services, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Secondary, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Secondary, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Secondary, Utilities, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Secondary, Utilities, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Primary, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Primary, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Business, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Business, LCU, SA, post-2012 trend",b,line
+"RGDP, By Activity, Tertiary, Consumer, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Consumer, LCU, SA, post-2012 trend",b,line
+"RGDP, LCU, SA, trend based on 2012-2020","TW, RGDP, LCU, SA, trend based on 2012-2020",b,line
+"RGDP, HP filter, cycle, LCU","TW, RGDP, HP filter, cycle, LCU",None,line
+"RGDP, HP filter, trend, LCU","TW, RGDP, HP filter, trend, LCU",None,line
+"RGDP, HP filter, output gap, LCU","TW, RGDP, HP filter, output gap, LCU",None,line
+"RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, SA","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, SA",b,line
+"RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU, SA","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU, SA",b,line

@@ -45,7 +45,7 @@ class GDP_matcher:
         score = fuzz.token_sort_ratio(str1, str2)
         return score
 
-    def run_matching_pipeline(self, country, freq, to_db, to_output):  # one country, one freq per matching.
+    def match(self, country, freq, to_db, to_output):  # one country, one freq per matching.
         freq_full = self.setting.freq_full_name_map[freq]
         data_path = self.setting.structure[country][self.category_full][f"{freq_full}_data_path"]
         data = pd.read_csv(data_path, index_col=[0])
