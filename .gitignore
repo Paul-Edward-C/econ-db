@@ -9,3 +9,5 @@ __pycache__/
 venv
 *output.xlsx
 ~$*template.xlsx
+test.py
+test.ipynb
