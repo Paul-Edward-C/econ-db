@@ -1,8 +1,8 @@
 import argparse
 import logging
 
-from lib.cleaner.export_cleaner import EXPORT_cleaner
-from lib.cleaner.gdp_cleaner import GDP_cleaner
+from lib.cleaner.exportcleaner import ExportCleaner
+from lib.cleaner.gdpcleaner import GdpCleaner
 from lib.generator.number_unit_generator import Number_Unit_Generator
 from lib.tools import Setting
 
@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 
 def run_cleaning_pipeline(category_list, country_list, freq_list, to_db=False):
     setting = Setting()
-    cleaner_map = {"gdp": GDP_cleaner(), "export": EXPORT_cleaner()}
+    cleaner_map = {"gdp": GdpCleaner(), "export": ExportCleaner()}
     category_list = cleaner_map.keys() if category_list is None else category_list
 
     for category in category_list:
