@@ -12,7 +12,7 @@ sys.path.append(f"""{str(pathlib.Path(__file__).resolve().parent.parent.parent)}
 from lib.tools import Setting, Tool
 
 
-class ExportCleaner:
+class EXPORT_cleaner:
     def __init__(self):
         self.setting = Setting()
         self.tool = Tool()

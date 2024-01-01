@@ -13,24 +13,20 @@ sys.path.append(f"""{str(pathlib.Path(__file__).resolve().parent.parent.parent)}
 from lib.tools import Setting, Tool
 
 
-class GdpCleaner:
-    CATEGORY_NAME_FULL = 'National Accounts'
-    
+class GDP_cleaner:
     def __init__(self):
         self.setting = Setting()
         self.tool = Tool()
-        
-        self.name_full = self.CATEGORY_NAME_FULL
-        mapping_template_path = self.setting.category_structure[self.name_full]["input_path"]
+        mapping_template_path = self.setting.category_structure["National Accounts"]["input_path"]
         self.mapping_template = pd.read_excel(mapping_template_path, index_col=None)
 
     def clean(self, country, freq, to_db):
         logging.info(f"Running cleaning pipeline for GDP-{country}-{freq}")
 
         freq_full = self.setting.freq_full_name_map[freq]
-        raw_data_path = self.setting.structure[country][self.name_full][f"{freq_full}_raw_data_path"]
-        temp_data_setting_path = self.setting.structure[country][self.name_full][f"{freq_full}_temp_setting_path"]
-        data_path = self.setting.structure[country][self.name_full][f"{freq_full}_data_path"]
+        raw_data_path = self.setting.structure[country]["National Accounts"][f"{freq_full}_raw_data_path"]
+        temp_data_setting_path = self.setting.structure[country]["National Accounts"][f"{freq_full}_temp_setting_path"]
+        data_path = self.setting.structure[country]["National Accounts"][f"{freq_full}_data_path"]
         data = pd.read_csv(raw_data_path, index_col=[0])
         temp_data_setting = pd.read_csv(temp_data_setting_path, index_col=[0])
 
