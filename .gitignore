@@ -9,4 +9,9 @@ __pycache__/
 venv
 *output.xlsx
 ~$*template.xlsx
+<<<<<<< HEAD
+test.py
+test.ipynb
+=======
 app/test.py
+>>>>>>> main
