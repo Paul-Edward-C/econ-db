@@ -585,6 +585,8 @@ def new_chart(old, new):
                     field=new, title=data_setting_object["display_name"], formatter=NumberFormatter(format="0,0.0")
                 )
             )
+        else:
+            raise ValueError(f"Data type not found `{data_setting_object['data_type']}`")
     datatable.columns = new_columns
     datatable.source.data = source_dict
 
