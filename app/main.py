@@ -5,12 +5,23 @@
 #
 # ====================================================================================
 
+# ====================================================================================
+# Debug Imports
+import ctypes
+from bokeh.models import Panel, Tabs, Button, Paragraph
+from tornado.ioloop import IOLoop
+from bokeh.server.server import Server
+from bokeh.application import Application
+from bokeh.application.handlers.function import FunctionHandler
+# ====================================================================================
+
 import os
 import time
 from datetime import datetime as dt
 from datetime import timedelta as td
 from math import floor
 
+import logging
 import numpy as np
 import pandas as pd
 from bokeh.core.properties import value
@@ -57,6 +68,8 @@ setting = Setting()
 tool = Tool()
 x_range_start_index = -30
 x_range_end_index = -1
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
 
 # =========DEFINE FUNCTION=========
 
@@ -458,6 +471,7 @@ def multichoice_callback(attr, old, new):
 
 
 def new_chart(old, new):
+    print("Entering new_chart function")
     global source, main_p, index_date_input, index_toggle
     new = list(set(new) - set(old))[0]
     if new in tool.source_backup.columns.tolist():
@@ -471,7 +485,9 @@ def new_chart(old, new):
     )
     source_dict = dict(pd.DataFrame(source.data).set_index("Date").dropna(how="all", axis=0).reset_index())
     index_date_input.value = index_ref_date
-
+    print("data_setting_object info: ")
+    print(data_setting_object)
+    print(data_setting_object["data_type"])
     # Condition 1 : new value
     if status:
         print(f"New : {new}")
@@ -479,11 +495,18 @@ def new_chart(old, new):
     else:
         print(f"Existing : {new}")
 
+    print(setting.colors)
+    color_set_check = False
     for obj in setting.colors:
+        print("color: " )
+        print(obj["label"])
         if not obj["used"]:
             color = obj["color"]
             obj["used"] = True
+            color_set_check = True
             break
+    if (not color_set_check):
+        ctypes.windll.user32.MessageBoxW(0, "Maximum charts reached, please remove a chart before adding a new one.", "ALERT", 1)
 
     # plot new object
     if data_setting_object["chart_type"] == "line":
@@ -878,3 +901,31 @@ update_selects_format()
 curdoc().theme = Theme(filename=setting.theme_file_path)
 curdoc().add_root(layout)
 curdoc().title = setting.curdoc_name
+
+# ==================================================================================
+# Debug Code
+def modify_doc(doc):
+
+    def create_new_tab():
+        paragraph = Paragraph(text="Hello!")
+        tab = Panel(child=paragraph, title="tab")
+        tab.closable = True
+        return tab
+
+    def append_new_tab():
+        new_tab = create_new_tab()
+        doc.select_one({'name': 'tabs'}).tabs.append(new_tab)
+
+    button = Button(label='append new tab')
+    button.on_click(append_new_tab)
+
+    tab1 = Panel(child=button, title='button tab')
+    tabs = Tabs(tabs = [tab1], name='tabs')
+    doc.add_root(tabs)
+
+io_loop = IOLoop.current()
+server = Server(applications = {'/app': Application(FunctionHandler(modify_doc))}, io_loop = io_loop, port = 5006)
+server.start()
+server.show('/app')
+io_loop.start() 
+# ========================================================================================
