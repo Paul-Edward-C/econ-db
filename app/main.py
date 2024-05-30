@@ -472,7 +472,11 @@ def multichoice_callback(attr, old, new):
 
 def new_chart(old, new):
     print("Entering new_chart function")
+    print("Options :")
+    print(multichoice.options)
+    print(len(multichoice.options))
     global source, main_p, index_date_input, index_toggle
+    print(list(set(new) - set(old))[0])
     new = list(set(new) - set(old))[0]
     if new in tool.source_backup.columns.tolist():
         status = False
@@ -507,6 +511,10 @@ def new_chart(old, new):
             break
     if (not color_set_check):
         ctypes.windll.user32.MessageBoxW(0, "Maximum charts reached, please remove a chart before adding a new one.", "ALERT", 1)
+        print("Most recent option: ")
+        print(multichoice.options[len(multichoice.options) - 1])
+        del multichoice.options[-1]
+        print(multichoice.options)
 
     # plot new object
     if data_setting_object["chart_type"] == "line":
@@ -609,6 +617,8 @@ def new_chart(old, new):
                 )
             )
         else:
+            print(multichoice.options)
+            del multichoice.options[-1]
             raise ValueError(f"Data type not found `{data_setting_object['data_type']}`")
     datatable.columns = new_columns
     datatable.source.data = source_dict
@@ -754,8 +764,12 @@ def link_callback():
 
     main_p.x_range.on_change("start", update_axis_position)
     main_p.extra_y_ranges["bi"].on_change("start", update_axis_position)
+    
     multichoice.on_change("value", multichoice_callback)
+    
     add_button.on_click(handler=add_button_callback)
+    print("Options at link:")
+    print(multichoice.options)
     index_toggle.on_click(handler=index_toggle_callback)
 
 
