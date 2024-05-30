@@ -510,7 +510,7 @@ def new_chart(old, new):
             color_set_check = True
             break
     if (not color_set_check):
-        ctypes.windll.user32.MessageBoxW(0, "Maximum charts reached, please remove a chart before adding a new one.", "ALERT", 1)
+        ctypes.windll.user32.MessageBoxW(0, "Maximum charts reached, please remove a chart before adding a new one.", "ALERT", 48, 0x00001000)
         print("Most recent option: ")
         print(multichoice.options[len(multichoice.options) - 1])
         del multichoice.options[-1]
