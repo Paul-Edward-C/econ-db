@@ -48,6 +48,7 @@ from bokeh.models import (
     TextInput,
     Toggle,
     WheelZoomTool,
+    CustomJS
 )
 from bokeh.plotting import figure
 from bokeh.themes import Theme
@@ -70,6 +71,8 @@ x_range_start_index = -30
 x_range_end_index = -1
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
+first_add = True      # remove once index button is fixed
+
 
 # =========DEFINE FUNCTION=========
 
@@ -343,6 +346,7 @@ def update_main_axis_range(attrname=None, old=None, new=None, expand_perc=1.2):
 
 
 def add_button_callback():
+
     col_name = f"{tool.get_column_by_selects(country_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select, category_len=setting.category_structure[category_select.value]['length'])}_{country_select.value}"
 
     data_setting_object = tool.create_data_setting_object(data_setting, col_name)
@@ -357,7 +361,9 @@ def add_button_callback():
         multichoice.value = old_multichoice_values + [new_value[0]]
 
     else:
+        ctypes.windll.user32.MessageBoxW(0, "Duplicated add, please use the dropdown next to \"Dowload\" to select the desired preset", "ALERT", 48, 0x00001000)
         print("Duplicated Add")
+
 
 
 def download_button_callback():
@@ -595,7 +601,7 @@ def new_chart(old, new):
                 renderer.visible = not bool(index_toggle.active)
 
     new_columns = datatable.columns
-    if index_toggle.active:
+    if True:      #change to "if index_toggle.active:" for index button
         new_columns.append(
             TableColumn(
                 field=f"{new}_index",
@@ -904,7 +910,7 @@ layout = column(
         column(type_select, cat1_select, cat2_select),
         column(cat3_select, cat4_select, cat5_select),
     ),
-    row(column(row(add_button, download_button), row(index_toggle, index_date_input)), multichoice),
+    row(column(row(add_button, download_button, button), row(index_toggle, index_date_input)), multichoice), # NOTE: place the following text ", row(index_toggle, index_date_input)" after row paren to bring back index button
     row(column(main_p, sub_p), column(datatable)),
 )
 
@@ -915,6 +921,9 @@ update_selects_format()
 curdoc().theme = Theme(filename=setting.theme_file_path)
 curdoc().add_root(layout)
 curdoc().title = setting.curdoc_name
+print("toggle call")
+
+index_toggle_callback(True)
 
 # ==================================================================================
 # Debug Code
