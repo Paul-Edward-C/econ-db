@@ -5,12 +5,23 @@
 #
 # ====================================================================================
 
+# ====================================================================================
+# Debug Imports
+import ctypes
+from bokeh.models import TabPanel, Tabs, Button, Paragraph
+from tornado.ioloop import IOLoop
+from bokeh.server.server import Server
+from bokeh.application import Application
+from bokeh.application.handlers.function import FunctionHandler
+# ====================================================================================
+
 import os
 import time
 from datetime import datetime as dt
 from datetime import timedelta as td
 from math import floor
 
+import logging
 import numpy as np
 import pandas as pd
 from bokeh.core.properties import value
@@ -57,6 +68,10 @@ setting = Setting()
 tool = Tool()
 x_range_start_index = -30
 x_range_end_index = -1
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
+first_add = True      # remove once index button is fixed
+
 
 # =========DEFINE FUNCTION=========
 
@@ -330,6 +345,7 @@ def update_main_axis_range(attrname=None, old=None, new=None, expand_perc=1.2):
 
 
 def add_button_callback():
+
     col_name = f"{tool.get_column_by_selects(country_select, freq_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select, category_len=setting.category_structure[category_select.value]['length'])}_{country_select.value}"
 
     data_setting_object = tool.create_data_setting_object(data_setting, col_name)
@@ -344,7 +360,9 @@ def add_button_callback():
         multichoice.value = old_multichoice_values + [new_value[0]]
 
     else:
+        ctypes.windll.user32.MessageBoxW(0, "Duplicated add, please use the dropdown next to \"Dowload\" to select the desired preset", "ALERT", 48, 0x00001000)
         print("Duplicated Add")
+
 
 
 def download_button_callback():
@@ -458,7 +476,12 @@ def multichoice_callback(attr, old, new):
 
 
 def new_chart(old, new):
+    print("Entering new_chart function")
+    print("Options :")
+    print(multichoice.options)
+    print(len(multichoice.options))
     global source, main_p, index_date_input, index_toggle
+    print(list(set(new) - set(old))[0])
     new = list(set(new) - set(old))[0]
     if new in tool.source_backup.columns.tolist():
         status = False
@@ -471,7 +494,9 @@ def new_chart(old, new):
     )
     source_dict = dict(pd.DataFrame(source.data).set_index("Date").dropna(how="all", axis=0).reset_index())
     index_date_input.value = index_ref_date
-
+    print("data_setting_object info: ")
+    print(data_setting_object)
+    print(data_setting_object["data_type"])
     # Condition 1 : new value
     if status:
         print(f"New : {new}")
@@ -479,11 +504,22 @@ def new_chart(old, new):
     else:
         print(f"Existing : {new}")
 
+    print(setting.colors)
+    color_set_check = False
     for obj in setting.colors:
+        print("color: " )
+        print(obj["label"])
         if not obj["used"]:
             color = obj["color"]
             obj["used"] = True
+            color_set_check = True
             break
+    if (not color_set_check):
+        ctypes.windll.user32.MessageBoxW(0, "Maximum charts reached, please remove a chart before adding a new one.", "ALERT", 48, 0x00001000)
+        print("Most recent option: ")
+        print(multichoice.options[len(multichoice.options) - 1])
+        del multichoice.options[-1]
+        print(multichoice.options)
 
     # plot new object
     if data_setting_object["chart_type"] == "line":
@@ -564,7 +600,7 @@ def new_chart(old, new):
                 renderer.visible = not bool(index_toggle.active)
 
     new_columns = datatable.columns
-    if index_toggle.active:
+    if True:      #change to "if index_toggle.active:" for index button
         new_columns.append(
             TableColumn(
                 field=f"{new}_index",
@@ -586,6 +622,8 @@ def new_chart(old, new):
                 )
             )
         else:
+            print(multichoice.options)
+            del multichoice.options[-1]
             raise ValueError(f"Data type not found `{data_setting_object['data_type']}`")
     datatable.columns = new_columns
     datatable.source.data = source_dict
@@ -731,8 +769,12 @@ def link_callback():
 
     main_p.x_range.on_change("start", update_axis_position)
     main_p.extra_y_ranges["bi"].on_change("start", update_axis_position)
+    
     multichoice.on_change("value", multichoice_callback)
+    
     add_button.on_click(handler=add_button_callback)
+    print("Options at link:")
+    print(multichoice.options)
     index_toggle.on_click(handler=index_toggle_callback)
 
 
@@ -878,3 +920,34 @@ update_selects_format()
 curdoc().theme = Theme(filename=setting.theme_file_path)
 curdoc().add_root(layout)
 curdoc().title = setting.curdoc_name
+print("toggle call")
+
+index_toggle_callback(True)
+
+# ==================================================================================
+# Debug Code
+def modify_doc(doc):
+
+    def create_new_tab():
+        paragraph = Paragraph(text="Hello!")
+        tab = TabPanel(child=paragraph, title="tab")
+        tab.closable = True
+        return tab
+
+    def append_new_tab():
+        new_tab = create_new_tab()
+        doc.select_one({'name': 'tabs'}).tabs.append(new_tab)
+
+    button = Button(label='append new tab')
+    button.on_click(append_new_tab)
+
+    tab1 = TabPanel(child=button, title='button tab')
+    tabs = Tabs(tabs = [tab1], name='tabs')
+    doc.add_root(tabs)
+
+io_loop = IOLoop.current()
+server = Server(applications = {'/app': Application(FunctionHandler(modify_doc))}, io_loop = io_loop, port = 5006)
+server.start()
+server.show('/app')
+io_loop.start() 
+# ========================================================================================

@@ -252,9 +252,13 @@ class Tool:
         return self.data, self.data_setting
 
     def create_data_setting_object(self, data_setting, col_name):
+        print("tool self: " + str(self))
+        print("tool data_setting: " + str(data_setting))
+        print("tool col_name: " + str(col_name))
         data_setting_backup_cols = ["display_name", "data_type", "chart_type"]
         data_col_name = "_".join(col_name.split("_")[:-1])
         try:
+            print("data_setting_backup_loc: " + str(self.data_setting_backup.loc))
             self.data_setting_backup.loc[col_name, data_setting_backup_cols] = data_setting.loc[data_col_name].tolist()
         except Exception as e:
             pass
@@ -395,6 +399,10 @@ class Setting:
             {"id": 1, "color": "#006400", "used": False, "label": "darkgreen"},
             {"id": 2, "color": "#8b0000", "used": False, "label": "darkred"},
             {"id": 3, "color": "#4b0082", "used": False, "label": "indigo"},
+            {"id": 4, "color": "#ff8c00", "used": False, "label": "darkorange"},
+            {"id": 5, "color": "#000000", "used": False, "label": "black"},
+            {"id": 6, "color": "#dc143c", "used": False, "label": "crimson"},
+            {"id": 7, "color": "#87cefa", "used": False, "label": "lightskyblue"},
         ]
 
         self.freq_data_mapping_map = {"Q": {"NGDP Q": "NGDP", "RGDP Q": "RGDP"}, "M": {"Monthly": "Monthly"}}
