@@ -8,7 +8,7 @@
 # ====================================================================================
 # Debug Imports
 import ctypes
-from bokeh.models import Panel, Tabs, Button, Paragraph
+from bokeh.models import TabPanel, Tabs, Button, Paragraph
 from tornado.ioloop import IOLoop
 from bokeh.server.server import Server
 from bokeh.application import Application
@@ -48,7 +48,6 @@ from bokeh.models import (
     TextInput,
     Toggle,
     WheelZoomTool,
-    CustomJS
 )
 from bokeh.plotting import figure
 from bokeh.themes import Theme
@@ -910,7 +909,7 @@ layout = column(
         column(type_select, cat1_select, cat2_select),
         column(cat3_select, cat4_select, cat5_select),
     ),
-    row(column(row(add_button, download_button, button), row(index_toggle, index_date_input)), multichoice), # NOTE: place the following text ", row(index_toggle, index_date_input)" after row paren to bring back index button
+    row(column(row(add_button, download_button), row(index_toggle, index_date_input)), multichoice),
     row(column(main_p, sub_p), column(datatable)),
 )
 
@@ -931,7 +930,7 @@ def modify_doc(doc):
 
     def create_new_tab():
         paragraph = Paragraph(text="Hello!")
-        tab = Panel(child=paragraph, title="tab")
+        tab = TabPanel(child=paragraph, title="tab")
         tab.closable = True
         return tab
 
@@ -942,7 +941,7 @@ def modify_doc(doc):
     button = Button(label='append new tab')
     button.on_click(append_new_tab)
 
-    tab1 = Panel(child=button, title='button tab')
+    tab1 = TabPanel(child=button, title='button tab')
     tabs = Tabs(tabs = [tab1], name='tabs')
     doc.add_root(tabs)
 
