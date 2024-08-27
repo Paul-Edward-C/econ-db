@@ -371,7 +371,8 @@ def download_button_callback():
 
 def index_toggle_callback(active):
     # renew starting date
-    global source, main_p, sub_p, datatable
+    global source, main_p, sub_p, datatable, main_p
+    main_p.yaxis.axis_label = "Index for " + index_date_input.value
     if pd.DataFrame(source.data).empty:
         return
     source, index_ref_date = tool.update_index_source(source=source, index_date_input_value=index_date_input.value)
@@ -440,6 +441,7 @@ def index_toggle_callback(active):
                 tooltips_str = "@{" + col_name + "_index" + "}{0.0}"
                 new_tooltip = (display_name, tooltips_str)
                 main_p.yaxis.formatter = NumeralTickFormatter(format="0,0.0")
+
 
                 new_tooltips.append(new_tooltip)
 
@@ -600,7 +602,7 @@ def new_chart(old, new):
                 renderer.visible = not bool(index_toggle.active)
 
     new_columns = datatable.columns
-    if True:      #change to "if index_toggle.active:" for index button
+    if index_toggle.active:      #change to "if index_toggle.active:" for index button
         new_columns.append(
             TableColumn(
                 field=f"{new}_index",
@@ -608,23 +610,35 @@ def new_chart(old, new):
                 formatter=NumberFormatter(format="0,0.0"),
             )
         )
+        main_p.yaxis.axis_label = "Index"
     else:
         if data_setting_object["data_type"] == "p":
             new_columns.append(
                 TableColumn(
-                    field=new, title=data_setting_object["display_name"], formatter=NumberFormatter(format="0.0")
+                    field=new, 
+                    title=data_setting_object["display_name"], 
+                    formatter=NumberFormatter(format="0.0")
                 )
             )
+            main_p.yaxis.axis_label = "Value in Billions"
+        elif data_setting_object["data_type"] == "b":
+            new_columns.append(
+                TableColumn(
+                    field=new, 
+                    title=data_setting_object["display_name"] + " (in billions)", 
+                    formatter=NumberFormatter(format="0,0.0")
+                )
+            )
+            main_p.yaxis.axis_label = "Value in Billions"
         elif data_setting_object["data_type"] == "r":
             new_columns.append(
                 TableColumn(
-                    field=new, title=data_setting_object["display_name"], formatter=NumberFormatter(format="0,0.0")
+                    field=new, 
+                    title=data_setting_object["display_name"] + " (in billions)", 
+                    formatter=NumberFormatter(format="0,0.0")
                 )
             )
-        else:
-            print(multichoice.options)
-            del multichoice.options[-1]
-            raise ValueError(f"Data type not found `{data_setting_object['data_type']}`")
+            main_p.yaxis.axis_label = "Value in Billions"
     datatable.columns = new_columns
     datatable.source.data = source_dict
 
@@ -822,6 +836,8 @@ main_p = figure(
     x_range=(data.index[x_range_start_index], data.index[x_range_end_index]),
     y_range=Range1d(),
 )
+main_p.xaxis.axis_label = "Date"
+main_p.yaxis.formatter.use_scientific = False
 
 backgroun_image, xdim, ydim, dim = tool.create_rgba_from_file(path=setting.background_image_path)
 
