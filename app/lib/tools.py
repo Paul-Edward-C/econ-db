@@ -53,7 +53,8 @@ class Tool:
         return result
 
     def create_matched_columns_and_general_mapping(self, df, country, length):
-
+        print('DF:')
+        print(df)
         self.matched_columns = df[country].tolist()
         self.general_mapping = pd.concat([df[df.columns[:length]], df[[country]]], axis=1)
 
@@ -82,6 +83,8 @@ class Tool:
         )
         # print(f"Category select : {category_select.value}")
 
+        print('MAPPING PATH:')
+        print(category_structure[category_select.value]["path"])
         mapping = pd.read_csv(category_structure[category_select.value]["path"])
         mapping = mapping[~mapping[country_select.value].isna()].replace(np.nan, "")
         mapping_dict = self.create_mapping_dict(
@@ -247,7 +250,14 @@ class Tool:
         data.index = pd.to_datetime(data.index)
         data = data.resample("M").last()
 
-        self.data = data[matched_columns] if matched_columns is not None else data
+        print("DATAPATH:")
+        print(data_path)
+        print("MATCHED COLUMNS:")
+        print(data.columns.values.tolist())
+        data_cols = data.columns.values.tolist()
+        print(matched_columns[1])
+        print(data[matched_columns[30]])
+        self.data = data[matched_columns] if matched_columns is not None and matched_columns in data_cols else data
         self.data.index = pd.to_datetime(self.data.index)
         return self.data, self.data_setting
 
