@@ -433,9 +433,9 @@ name,display_name,data_type,chart_type
 "RGDP, By Activity, Tertiary, Consumer, LCU, % QoQ, SA","TW, RGDP, By Activity, Tertiary, Consumer, LCU, % QoQ, SA",p,line
 "RGDP, Domestic Demand, % YoY.1, LCU","TW, RGDP, Domestic Demand, % YoY.1, LCU",p,line
 "RGDP, Domestic Demand, Contribution to YoY chg, ppts.1, LCU","TW, RGDP, Domestic Demand, Contribution to YoY chg, ppts.1, LCU",p,bar
-"RGDP, Domestic Demand, Government Consumption, Ccontribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Government Consumption, Ccontribution to YoY chg, ppts, LCU",None,bar
+"RGDP, Domestic Demand, Government Consumption, Ccontribution to YoY chg, ppts, LCU","TW, RGDP, Domestic Demand, Government Consumption, Ccontribution to YoY chg, ppts, LCU",,bar
 "Manufacturing, LCU, % of GDP","TW, Manufacturing, LCU, % of GDP",p,line
-"RGDP per hour worked, LCU","TW, RGDP per hour worked, LCU",None,line
+"RGDP per hour worked, LCU","TW, RGDP per hour worked, LCU",,line
 "NGDP, USD, SA","TW, NGDP, USD, SA",b,line
 "NGDP, USD","TW, NGDP, USD",b,line
 "NGDP, LCU, 12M sum","TW, NGDP, LCU, 12M sum",b,line
@@ -483,8 +483,8 @@ name,display_name,data_type,chart_type
 "RGDP, By Activity, Tertiary, Business, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Business, LCU, SA, post-2012 trend",b,line
 "RGDP, By Activity, Tertiary, Consumer, LCU, SA, post-2012 trend","TW, RGDP, By Activity, Tertiary, Consumer, LCU, SA, post-2012 trend",b,line
 "RGDP, LCU, SA, trend based on 2012-2020","TW, RGDP, LCU, SA, trend based on 2012-2020",b,line
-"RGDP, HP filter, cycle, LCU","TW, RGDP, HP filter, cycle, LCU",None,line
-"RGDP, HP filter, trend, LCU","TW, RGDP, HP filter, trend, LCU",None,line
-"RGDP, HP filter, output gap, LCU","TW, RGDP, HP filter, output gap, LCU",None,line
+"RGDP, HP filter, cycle, LCU","TW, RGDP, HP filter, cycle, LCU",,line
+"RGDP, HP filter, trend, LCU","TW, RGDP, HP filter, trend, LCU",,line
+"RGDP, HP filter, output gap, LCU","TW, RGDP, HP filter, output gap, LCU",,line
 "RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, SA","TW, RGDP, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, SA",b,line
 "RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU, SA","TW, RGDP, Net Exports of Goods and Services, Imports of Goods and Services, Goods, LCU, SA",b,line

@@ -811,7 +811,6 @@ matched_columns = tool.matched_columns
 
 for i in setting.freq_data_mapping_map.keys():
     if freq_select.value in setting.freq_data_mapping_map[i]:
-        print(matched_columns)
         data, data_setting = tool.read_data(
             data_path=setting.structure[country_select.value][category_select.value][
                 f"{setting.freq_full_name_map[i]}_data_path"
