@@ -53,7 +53,6 @@ class Tool:
         return result
 
     def create_matched_columns_and_general_mapping(self, df, country, length):
-
         self.matched_columns = df[country].tolist()
         self.general_mapping = pd.concat([df[df.columns[:length]], df[[country]]], axis=1)
 
@@ -61,7 +60,6 @@ class Tool:
 
         structure = self.setting.structure
         category_structure = self.setting.category_structure
-
         country_select_options = list(structure.keys())
         country_select = Select(
             value=country_select_options[0],
@@ -70,7 +68,7 @@ class Tool:
             title="Country",
             stylesheets=[self.setting.select_stylesheet],
         )
-        # print(f"Country select : {country_select.value}")
+        print(f"Country select : {country_select.value}")
 
         category_select_options = list(structure[country_select.value].keys())
         category_select = Select(
@@ -80,7 +78,8 @@ class Tool:
             title="Category",
             stylesheets=[self.setting.select_stylesheet],
         )
-        # print(f"Category select : {category_select.value}")
+        print(f"Category select : {category_select.value}")
+
 
         mapping = pd.read_csv(category_structure[category_select.value]["path"])
         mapping = mapping[~mapping[country_select.value].isna()].replace(np.nan, "")
@@ -102,7 +101,7 @@ class Tool:
             title="Frequency",
             stylesheets=[self.setting.select_stylesheet],
         )
-        # print(f"freq select : {freq_select.value}")
+        print(f"freq select : {freq_select.value}")
 
         unit_select_options = sorted(mapping_dict[freq_select.value])
         unit_select = Select(
@@ -112,7 +111,7 @@ class Tool:
             title="Unit",
             stylesheets=[self.setting.select_stylesheet],
         )
-        # print(f"Unit select : {unit_select.value}")
+        print(f"Unit select : {unit_select.value}")
 
         type_select_options = sorted(mapping_dict[freq_select.value + unit_select.value])
         type_select = Select(
@@ -125,13 +124,18 @@ class Tool:
 
         cat1_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value])
         cat1_select = Select(
-            value="GDP",
+            value="Domestic Demand",
             options=cat1_select_options,
             width=self.setting.select_width,
             title="Data category 1",
             stylesheets=[self.setting.select_stylesheet],
         )
 
+
+        print('MAPPING DICT:')
+        print(mapping_dict)
+        print('MAPPING DICT KEY:')
+        print(freq_select.value + unit_select.value + type_select.value + cat1_select.value)
         cat2_select_options = sorted(
             mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value]
         )
@@ -247,7 +251,8 @@ class Tool:
         data.index = pd.to_datetime(data.index)
         data = data.resample("M").last()
 
-        self.data = data[matched_columns] if matched_columns is not None else data
+        data_cols = data.columns.values.tolist()
+        self.data = data[matched_columns] if matched_columns is not None and matched_columns in data_cols else data
         self.data.index = pd.to_datetime(self.data.index)
         return self.data, self.data_setting
 
@@ -405,7 +410,7 @@ class Setting:
             {"id": 7, "color": "#87cefa", "used": False, "label": "lightskyblue"},
         ]
 
-        self.freq_data_mapping_map = {"Q": {"NGDP Q": "NGDP", "RGDP Q": "RGDP"}, "M": {"Monthly": "Monthly"}}
+        self.freq_data_mapping_map = {"Q": {"NGDP Q": "NGDP", "RGDP Q": "RGDP", "GDP deflator" : "GDP deflator"}, "M": {"Monthly": "Monthly"}}
 
         self.country_currency_map = {
             "KR": {"KRW": "LCU", "USD": "USD"},
