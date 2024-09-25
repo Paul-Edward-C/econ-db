@@ -71,6 +71,13 @@ class Mapping_Generator:
 
         values1 = df1.values
         values2 = df2.values
+        for i in values2:
+            for index, val in enumerate(i):
+                if type(val) is bytes:
+                    print('yes')
+                    i[index] = float("nan")
+        
+        print(values2)
 
         combinations = list(itertools.product(values1, values2))
 
