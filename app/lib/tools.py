@@ -121,7 +121,7 @@ class Tool:
             if option[0] == 'R':
                 if 'Real' not in sector_select_options:
                     sector_select_options.append("Real")
-            if option[0] == 'G':
+            if option[0] == 'D':
                 if 'Deflator' not in sector_select_options:
                     sector_select_options.append("Deflator")
         print(sector_select_options)
@@ -135,7 +135,7 @@ class Tool:
 
         freq_sect_str = ''
         if sector_select.value == 'Deflator':
-            freq_sect_str += 'GDP deflator '
+            freq_sect_str += 'Deflator '
         elif sector_select.value == 'Nominal':
             freq_sect_str += 'NGDP '
         elif sector_select.value == 'Real':
@@ -167,7 +167,7 @@ class Tool:
         # cat1_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value])
         cat1_select_options = sorted(mapping_dict[freq_sect_str + unit_select.value + type_select.value])
         cat1_select = Select(
-            value="Domestic Demand",
+            value=cat1_select_options[0],
             options=cat1_select_options,
             width=self.setting.select_width,
             title="Data category 1",
@@ -186,7 +186,7 @@ class Tool:
             mapping_dict[freq_sect_str + unit_select.value + type_select.value + cat1_select.value]
         )
         cat2_select = Select(
-            value="",
+            value=cat2_select_options[0],
             options=cat2_select_options,
             width=self.setting.select_width,
             title="Data category 2",
@@ -279,7 +279,7 @@ class Tool:
     ):
         freq_sect_str = ''
         if sector_select.value == 'Deflator':
-            freq_sect_str += 'GDP deflator '
+            freq_sect_str += 'Deflator '
         elif sector_select.value == 'Nominal':
             freq_sect_str += 'NGDP '
         elif sector_select.value == 'Real':
@@ -476,7 +476,7 @@ class Setting:
             {"id": 7, "color": "#87cefa", "used": False, "label": "lightskyblue"},
         ]
 
-        self.freq_data_mapping_map = {"Q": {"NGDP Q": "NGDP", "RGDP Q": "RGDP", "GDP deflator Q" : "GDP deflator"}, "M": {"Monthly": "Monthly"}}
+        self.freq_data_mapping_map = {"Q": {"NGDP Q": "NGDP", "RGDP Q": "RGDP", "Deflator Q" : "Deflator"}, "M": {"Monthly": "Monthly"}}
 
         self.country_currency_map = {
             "KR": {"KRW": "LCU", "USD": "USD"},

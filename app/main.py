@@ -91,6 +91,9 @@ def update_selects_format():
         cat5_select,
     ]
     new_len = next((i for i, select in enumerate(selects_list) if select.value == ""), len(selects_list))
+    print(new_len)
+    for sel in selects_list:
+        print(sel.value)
 
     if new_len == 7:
         new_layout = row(
@@ -128,7 +131,7 @@ def update_selects_format():
 def make_freq_sect_str(freq_val, sect_val):
     freq_sect_str = ''
     if sector_select.value == 'Deflator':
-        freq_sect_str += 'GDP deflator '
+        freq_sect_str += 'Deflator '
     elif sector_select.value == 'Nominal':
         freq_sect_str += 'NGDP '
     elif sector_select.value == 'Real':
@@ -175,10 +178,35 @@ def update_category_select(attrname, old, new):
     matched_columns = tool.matched_columns
 
     # Create options for next select
-    freq_select_options = mapping_raw[mapping_raw.columns[0]].unique().tolist()
+    first_term_options = sorted(mapping[mapping.columns[0]].unique().tolist())
+    print(first_term_options)
+    freq_select_options = []
+    for option in first_term_options:
+        print(option[-1])
+        if option[-1] not in freq_select_options:
+            freq_select_options.append(option[-1])
+
+    print(freq_select_options)
+
+    sector_select_options = []
+    for option in first_term_options:
+        print(option[0])
+        if option[0] == 'N':
+            if 'Nominal' not in sector_select_options:
+                sector_select_options.append("Nominal")
+        if option[0] == 'R':
+            if 'Real' not in sector_select_options:
+                sector_select_options.append("Real")
+        if option[0] == 'D':
+            if 'Deflator' not in sector_select_options:
+                sector_select_options.append("Deflator")
+    print(sector_select_options)
     freq_select.options = freq_select_options
+    sector_select.options = sector_select_options
     if freq_select.value not in freq_select_options:
         freq_select.value = freq_select_options[0]
+    if sector_select.value not in sector_select_options:
+        sector_select.value = sector_select_options[0]
 
     # print(freq_select.value)
 
@@ -213,7 +241,10 @@ def update_freq_select(attrname, old, new):
 def update_sector_select(attrname, old, new):
     # Change data source and data setting
     global data, data_setting
-
+    print('FREQ SELECT')
+    print(freq_select.value)
+    print('SECTOR SELECT')
+    print(sector_select.value)
     freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
 
     for i in setting.freq_data_mapping_map.keys():
@@ -395,7 +426,7 @@ def update_main_axis_range(attrname=None, old=None, new=None, expand_perc=1.2):
 def add_button_callback():
     freq_sect_str = ''
     if sector_select.value == 'Deflator':
-        freq_sect_str += 'GDP deflator '
+        freq_sect_str += 'Deflator '
     elif sector_select.value == 'Nominal':
         freq_sect_str += 'NGDP '
     elif sector_select.value == 'Real':
@@ -879,7 +910,7 @@ mapping = tool.general_mapping
 matched_columns = tool.matched_columns
 freq_sect_str = ''
 if sector_select.value == 'Deflator':
-    freq_sect_str += 'GDP deflator '
+    freq_sect_str += 'Deflator '
 elif sector_select.value == 'Nominal':
     freq_sect_str += 'NGDP '
 elif sector_select.value == 'Real':
