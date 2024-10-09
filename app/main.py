@@ -727,7 +727,17 @@ def new_chart(old, new):
                 )
             )
             main_p.yaxis.axis_label = "Value in Billions"
+        else:
+            new_columns.append(
+                TableColumn(
+                    field=new, 
+                    title=data_setting_object["display_name"], 
+                    formatter=NumberFormatter(format="0,0.0")
+                )
+            )
     datatable.columns = new_columns
+    print(data_setting_object["data_type"])
+    print(source_dict)
     datatable.source.data = source_dict
 
     # add new tooltips
@@ -946,7 +956,6 @@ main_p = figure(
     x_range=(data.index[x_range_start_index], data.index[x_range_end_index]),
     y_range=Range1d(),
 )
-main_p.xaxis.axis_label = "Date"
 main_p.yaxis.formatter.use_scientific = False
 
 backgroun_image, xdim, ydim, dim = tool.create_rgba_from_file(path=setting.background_image_path)

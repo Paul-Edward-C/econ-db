@@ -157,7 +157,7 @@ class Tool:
         # type_select_options = sorted(mapping_dict[freq_select.value + unit_select.value])
         type_select_options = sorted(mapping_dict[freq_sect_str + unit_select.value])
         type_select = Select(
-            value="By expenditure",
+            value="Expenditure",
             options=type_select_options,
             width=self.setting.select_width,
             title="Type",
