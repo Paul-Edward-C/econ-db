@@ -182,9 +182,13 @@ def update_category_select(attrname, old, new):
     print(first_term_options)
     freq_select_options = []
     for option in first_term_options:
-        print(option[-1])
-        if option[-1] not in freq_select_options:
-            freq_select_options.append(option[-1])
+        if option == "Monthly":
+            if "M" not in freq_select_options:
+                freq_select_options.append(option[-1])
+        else:
+            print(option[-1])
+            if option[-1] not in freq_select_options:
+                freq_select_options.append(option[-1])
 
     print(freq_select_options)
 
