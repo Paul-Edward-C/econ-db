@@ -157,7 +157,7 @@ class Tool:
         # type_select_options = sorted(mapping_dict[freq_select.value + unit_select.value])
         type_select_options = sorted(mapping_dict[freq_sect_str + unit_select.value])
         type_select = Select(
-            value="By expenditure",
+            value="Expenditure",
             options=type_select_options,
             width=self.setting.select_width,
             title="Type",
@@ -277,6 +277,7 @@ class Tool:
         cat5_select,
         category_len,
     ):
+        
         freq_sect_str = ''
         if sector_select.value == 'Deflator':
             freq_sect_str += 'Deflator '
@@ -286,20 +287,37 @@ class Tool:
             freq_sect_str += 'RGDP '
         freq_sect_str += freq_select.value
         print(freq_sect_str)
-
-        select_value_list = [
-            i.value
-            for i in [
-                unit_select,
-                type_select,
-                cat1_select,
-                cat2_select,
-                cat3_select,
-                cat4_select,
-                cat5_select,
+        
+        if freq_sect_str == "M":
+            select_value_list = [
+                i.value
+                for i in [
+                    sector_select,
+                    type_select,
+                    unit_select,
+                    cat1_select,
+                    cat2_select,
+                    cat3_select,
+                    cat4_select,
+                    cat5_select,
+                ]
             ]
-        ]
-        select_value_list.insert(0, freq_sect_str)
+            select_value_list.insert(0, "Monthly")
+            select_value_list.pop
+        else:
+            select_value_list = [
+                i.value
+                for i in [
+                    unit_select,
+                    type_select,
+                    cat1_select,
+                    cat2_select,
+                    cat3_select,
+                    cat4_select,
+                    cat5_select,
+                ]
+            ]
+            select_value_list.insert(0, freq_sect_str)
         
         print(select_value_list)
 
