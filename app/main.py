@@ -146,10 +146,6 @@ def make_freq_sect_str(freq_val, sect_val):
     elif sector_select.value == 'Real':
         freq_sect_str += 'RGDP '
     freq_sect_str += freq_select.value
-    print('CURR FREQ SELECT')
-    print(freq_select.value)
-    print('CURR FREQ_SECT')
-    print(freq_sect_str)
     return freq_sect_str
 
 def update_country_select(attrname, old, new):
@@ -188,18 +184,15 @@ def update_category_select(attrname, old, new):
 
     # Create options for next select
     first_term_options = sorted(mapping[mapping.columns[0]].unique().tolist())
-    print(first_term_options)
     freq_select_options = []
     for option in first_term_options:
         if option == "Monthly":
             if "M" not in freq_select_options:
                 freq_select_options.append(option[0])
         else:
-            print(option[-1])
             if option[-1] not in freq_select_options:
                 freq_select_options.append(option[-1])
 
-    print(freq_select_options)
 
     sector_select_options = []
     for option in first_term_options:
@@ -213,12 +206,9 @@ def update_category_select(attrname, old, new):
         if option[0] == 'D':
             if 'Deflator' not in sector_select_options:
                 sector_select_options.append("Deflator")
-    print(sector_select_options)
     freq_select.options = freq_select_options
     sector_select.options = sector_select_options
-    print(category_select.value)
     if freq_select.value not in freq_select_options:
-        print("hello?")
         freq_select.value = freq_select_options[0]
     
     # print(freq_select.value)
@@ -247,17 +237,12 @@ def update_freq_select(attrname, old, new):
     if category_select.value == "Foreign Trade":
         sector_select_options = mapping_dict["Monthly"]
         sector_select.options = sector_select_options
-        print("hi")
-        print(sector_select_options)
         if sector_select.value not in sector_select_options:
             sector_select.value = sector_select_options[0]
-            print(sector_select.value)
     else:
-        print("wrong way")
         sector_select_options = []
         first_term_options = sorted(mapping[mapping.columns[0]].unique().tolist())
         for option in first_term_options:
-            print(option[0])
             if option[0] == 'N':
                 if 'Nominal' not in sector_select_options:
                     sector_select_options.append("Nominal")
@@ -269,16 +254,16 @@ def update_freq_select(attrname, old, new):
                     sector_select_options.append("Deflator")
         if sector_select.value not in sector_select_options:
             sector_select.value = sector_select_options[0]
+        
+        unit_select_options = mapping_dict[freq_sect_str]
+        unit_select.options = unit_select_options
+        if unit_select.value not in unit_select_options:
+            unit_select.value = unit_select_options[0]
 
 def update_sector_select(attrname, old, new):
     # Change data source and data setting
-    print("WHERE AM I")
     if category_select.value == "National Accounts":
         global data, data_setting
-        print('FREQ SELECT')
-        print(freq_select.value)
-        print('SECTOR SELECT')
-        print(sector_select.value)
         freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
 
         for i in setting.freq_data_mapping_map.keys():
@@ -296,16 +281,12 @@ def update_sector_select(attrname, old, new):
 
         unit_select_options = mapping_dict[freq_sect_str]
         unit_select.options = unit_select_options
-        print("nonono")
 
         if unit_select.value not in unit_select_options:
             unit_select.value = unit_select_options[0]
     
     elif category_select.value == "Foreign Trade":
-        print("oh yeah")
         type_select_options = mapping_dict["Monthly" + sector_select.value]
-        print("TYPE OPTIONS")
-        print(type_select_options)
         type_select.options = type_select_options
 
         if type_select.value not in type_select_options:
@@ -324,10 +305,7 @@ def update_unit_select(attrname, old, new):
 
     elif category_select.value == "Foreign Trade":
         try:
-            print("oh yeah")
             type_select_options = mapping_dict["Monthly" + sector_select.value]
-            print("TYPE OPTIONS")
-            print(type_select_options)
             type_select.options = type_select_options
 
             if type_select.value not in type_select_options:

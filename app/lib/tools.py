@@ -351,6 +351,8 @@ class Tool:
             self.data_setting_backup.loc[col_name, data_setting_backup_cols] = data_setting.loc[data_col_name].tolist()
         except Exception as e:
             pass
+        print("NAME OF COL")
+        print(col_name)
         data_setting_object = self.data_setting_backup.loc[[col_name]].reset_index().loc[0].to_dict()
 
         return data_setting_object
