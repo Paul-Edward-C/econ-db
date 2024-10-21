@@ -1,88 +1,88 @@
 0,1,2,3,4,5,KR,TW,CN,JP
 Monthly,Exports,Value,USD,Total,,"Exports, All, Value, USD","Exports, All, Value, USD","Exports, All, Value, USD","Exports, All, Value, USD"
-Monthly,Exports,Value,USD,By Product,Semiconductors,"Exports, Semiconductors, Value, USD","Exports, Semiconductors HS 776, Value, USD",,"Exports, Semiconductors, Value, USD"
+Monthly,Exports,Value,USD,By Product,Semiconductors,"Exports, Semiconductors, Value, USD","Exports, Semiconductors HS 776, Value, USD",,"Japan, Exports, Semiconductors, Value, USD"
 Monthly,Exports,Value,USD,By Product,Passenger cars,,,,
 Monthly,Exports,Value,USD,By Product,Energy,,,,
-Monthly,Exports,Value,USD,By Product,Others,,,,
-Monthly,Exports,Value,USD,By Country,China,"Exports, China, Value, USD","Exports, China and Hong Kong, Value, USD",,"Exports, China and HK, Value, USD"
-Monthly,Exports,Value,USD,By Country,Japan,"Exports, Japan, Value, USD","Exports, DM excl Japan, Value, USD","Auto exports, Japan, Value, USD",
+Monthly,Exports,Value,USD,By Product,Others,,,,"Japan, Exports, Group, Others, Value, USD"
+Monthly,Exports,Value,USD,By Country,China,"Exports, China, Value, USD","Exports, China and Hong Kong, Value, USD",,"Japan, Exports, China, Value, USD"
+Monthly,Exports,Value,USD,By Country,Japan,"Exports, Japan, Value, USD","Exports, DM excl Japan, Value, USD","Auto exports, Japan, Value, USD","Japan, Exports, All, Value, USD"
 Monthly,Exports,Value,USD,By Country,Korea,,"Exports, Non-tech exports, total, Value, USD","Auto exports, Korea,Rep., Value, USD","Exports, Korea, Value, USD"
-Monthly,Exports,Value,USD,By Country,Taiwan,"Exports, Taiwan, Value, USD",,"Auto exports, Taiwan, Value, USD","Exports, Taiwan, Value, USD"
+Monthly,Exports,Value,USD,By Country,Taiwan,"Exports, Taiwan, Value, USD",,"Auto exports, Taiwan, Value, USD","Japan, Exports, Taiwan, Value, USD"
 Monthly,Exports,Value,USD,By Country,EU,"Exports, EU, Value, USD","Exports, EU, Value, USD","Exports, EU, Value, USD","Exports, EU, Value, USD"
 Monthly,Exports,Value,USD,By Country,US,"Exports, US, Value, USD","Exports, US, Value, USD","Exports, US, Value, USD","Exports, US, Value, USD"
 Monthly,Exports,Value,LCU,Total,,"Exports, All, Value, LCU","Exports, All, Value, LCU","Exports, All, Value, LCU","Exports, All, Value, LCU"
-Monthly,Exports,Value,LCU,By Product,Semiconductors,,"Exports, Semiconductors HS 776, Value, LCU",,"Exports, Semiconductors, Value, LCU"
+Monthly,Exports,Value,LCU,By Product,Semiconductors,,"Exports, Semiconductors HS 776, Value, LCU",,"Japan, Exports, Semiconductors, Value, LCU"
 Monthly,Exports,Value,LCU,By Product,Passenger cars,,,,
 Monthly,Exports,Value,LCU,By Product,Energy,,,,
-Monthly,Exports,Value,LCU,By Product,Others,,"Exports, Non-tech exports, total, Value, LCU",,
-Monthly,Exports,Value,LCU,By Country,China,,"Exports, China and Hong Kong, Value, LCU",,"Exports, China and HK, Value, LCU"
-Monthly,Exports,Value,LCU,By Country,Japan,,"Exports, DM excl Japan, Value, LCU",,
+Monthly,Exports,Value,LCU,By Product,Others,,"Exports, Non-tech exports, total, Value, LCU",,"Japan, Exports, Group, Others, Value, LCU"
+Monthly,Exports,Value,LCU,By Country,China,,"Exports, China and Hong Kong, Value, LCU",,"Japan, Exports, China, Value, LCU"
+Monthly,Exports,Value,LCU,By Country,Japan,,"Exports, DM excl Japan, Value, LCU",,"Japan, Exports, All, Value, LCU"
 Monthly,Exports,Value,LCU,By Country,Korea,,,,"Exports, Korea, Value, LCU"
-Monthly,Exports,Value,LCU,By Country,Taiwan,,,,"Exports, Taiwan, Value, LCU"
+Monthly,Exports,Value,LCU,By Country,Taiwan,,,,"Japan, Exports, Taiwan, Value, LCU"
 Monthly,Exports,Value,LCU,By Country,EU,,"Exports, EU, Value, LCU",,"Exports, EU, Value, LCU"
 Monthly,Exports,Value,LCU,By Country,US,,"Exports, US, Value, LCU",,"Exports, US, Value, LCU"
 Monthly,Exports,Value,index,Total,,,,,"Exports, UK, Total, Value, index"
 Monthly,Exports,Value,index,By Product,Semiconductors,,,,
 Monthly,Exports,Value,index,By Product,Passenger cars,,,,"Exports, World, Passenger Motor Car, Value, index"
 Monthly,Exports,Value,index,By Product,Energy,,,,
-Monthly,Exports,Value,index,By Product,Others,,,,"Exports, World, Office machines (others), Value, index"
-Monthly,Exports,Value,index,By Country,China,,,,"Exports, China, Total, Value, index"
-Monthly,Exports,Value,index,By Country,Japan,,,,
+Monthly,Exports,Value,index,By Product,Others,,,,"Japan, Exports, World, Office machines (others), Value, index"
+Monthly,Exports,Value,index,By Country,China,,,,"Japan, Exports, China, Total, Value, index"
+Monthly,Exports,Value,index,By Country,Japan,,,,"Japan, Exports, EU, Total, Value, index"
 Monthly,Exports,Value,index,By Country,Korea,,,,
 Monthly,Exports,Value,index,By Country,Taiwan,,,,
 Monthly,Exports,Value,index,By Country,EU,,,,"Exports, EU, Total, Value, index"
 Monthly,Exports,Value,index,By Country,US,,,,"Exports, US, Total, Value, index"
 Monthly,Exports,Value,"USD, % YoY",Total,,"Exports, All, Value, USD, % YoY","Exports, All, Value, USD, % YoY","Exports, All, Value, USD, % YoY","Exports, All, Value, USD, % YoY"
-Monthly,Exports,Value,"USD, % YoY",By Product,Semiconductors,"Exports, Semiconductors, Value, USD, % YoY","Exports, Semiconductors HS 776, Value, USD, % YoY",,"Exports, Semiconductors, Value, USD, % YoY"
+Monthly,Exports,Value,"USD, % YoY",By Product,Semiconductors,"Exports, Semiconductors, Value, USD, % YoY","Exports, Semiconductors HS 776, Value, USD, % YoY",,"Japan, Exports, Semiconductors, Value, USD, % YoY"
 Monthly,Exports,Value,"USD, % YoY",By Product,Passenger cars,,,,
 Monthly,Exports,Value,"USD, % YoY",By Product,Energy,,,,
-Monthly,Exports,Value,"USD, % YoY",By Product,Others,,,,
-Monthly,Exports,Value,"USD, % YoY",By Country,China,"Exports, China, Value, USD, % YoY","Exports, China and Hong Kong, Value, USD, % YoY",,"Exports, China and HK, Value, USD, % YoY"
-Monthly,Exports,Value,"USD, % YoY",By Country,Japan,"Exports, Japan, Value, USD, % YoY","Exports, DM excl Japan, Value, USD, % YoY","Exports, DM excl Japan, Value, USD, % YoY",
+Monthly,Exports,Value,"USD, % YoY",By Product,Others,,,,"Japan, Exports, Group, Others, Value, USD, % YoY"
+Monthly,Exports,Value,"USD, % YoY",By Country,China,"Exports, China, Value, USD, % YoY","Exports, China and Hong Kong, Value, USD, % YoY",,"Japan, China, Exports, (IC), Value, USD, % YoY"
+Monthly,Exports,Value,"USD, % YoY",By Country,Japan,"Exports, Japan, Value, USD, % YoY","Exports, DM excl Japan, Value, USD, % YoY","Exports, DM excl Japan, Value, USD, % YoY","Japan, Exports, All, Value, USD, % YoY"
 Monthly,Exports,Value,"USD, % YoY",By Country,Korea,,,,"Exports, Korea, Value, USD, % YoY"
-Monthly,Exports,Value,"USD, % YoY",By Country,Taiwan,"Exports, Taiwan, Value, USD, % YoY",,,"Exports, Taiwan, Value, USD, % YoY"
+Monthly,Exports,Value,"USD, % YoY",By Country,Taiwan,"Exports, Taiwan, Value, USD, % YoY",,,"Japan, Exports, Taiwan, Value, USD, % YoY"
 Monthly,Exports,Value,"USD, % YoY",By Country,EU,"Exports, EU, Value, USD, % YoY","Exports, EU, Value, USD, % YoY","Exports, EU, Value, USD, % YoY","Exports, EU, Value, USD, % YoY"
 Monthly,Exports,Value,"USD, % YoY",By Country,US,"Exports, US, Value, USD, % YoY","Exports, US, Value, USD, % YoY","Exports, US, Value, USD, % YoY","Exports, US, Value, USD, % YoY"
 Monthly,Exports,Value,"LCU, % YoY",Total,,"Exports, All, Value, LCU, % YoY","Exports, All, Value, LCU, % YoY","Exports, All, Value, LCU, % YoY","Exports, All, Value, LCU, % YoY"
-Monthly,Exports,Value,"LCU, % YoY",By Product,Semiconductors,,"Exports, Semiconductors HS 776, Value, LCU, % YoY",,"Exports, Semiconductors, Value, LCU, % YoY"
+Monthly,Exports,Value,"LCU, % YoY",By Product,Semiconductors,,"Exports, Semiconductors HS 776, Value, LCU, % YoY",,"Japan, Exports, Semiconductors, Value, LCU, % YoY"
 Monthly,Exports,Value,"LCU, % YoY",By Product,Passenger cars,,,,
 Monthly,Exports,Value,"LCU, % YoY",By Product,Energy,,,,
-Monthly,Exports,Value,"LCU, % YoY",By Product,Others,,,,
-Monthly,Exports,Value,"LCU, % YoY",By Country,China,,"Exports, China and Hong Kong, Value, LCU, % YoY",,"Exports, China and HK, Value, LCU, % YoY"
-Monthly,Exports,Value,"LCU, % YoY",By Country,Japan,,"Exports, DM excl Japan, Value, LCU, % YoY",,
+Monthly,Exports,Value,"LCU, % YoY",By Product,Others,,,,"Japan, Exports, Group, Others, Value, LCU, % YoY"
+Monthly,Exports,Value,"LCU, % YoY",By Country,China,,"Exports, China and Hong Kong, Value, LCU, % YoY",,"Japan, China, Exports, (IC), Value, LCU, % YoY"
+Monthly,Exports,Value,"LCU, % YoY",By Country,Japan,,"Exports, DM excl Japan, Value, LCU, % YoY",,"Japan, Exports, All, Value, LCU, % YoY"
 Monthly,Exports,Value,"LCU, % YoY",By Country,Korea,,,,"Exports, Korea, Value, LCU, % YoY"
-Monthly,Exports,Value,"LCU, % YoY",By Country,Taiwan,,,,"Exports, Taiwan, Value, LCU, % YoY"
+Monthly,Exports,Value,"LCU, % YoY",By Country,Taiwan,,,,"Japan, Exports, Taiwan, Value, LCU, % YoY"
 Monthly,Exports,Value,"LCU, % YoY",By Country,EU,,"Exports, EU, Value, LCU, % YoY",,"Exports, EU, Value, LCU, % YoY"
 Monthly,Exports,Value,"LCU, % YoY",By Country,US,,"Exports, US, Value, LCU, % YoY",,"Exports, US, Value, LCU, % YoY"
 Monthly,Exports,Value,"index, % YoY",Total,,,,,"Exports, UK, Total, Value, index, % YoY"
 Monthly,Exports,Value,"index, % YoY",By Product,Semiconductors,,,,"Exports, World, Medical Products, Value, index, % YoY"
-Monthly,Exports,Value,"index, % YoY",By Product,Passenger cars,,,,"Exports, World, Passenger Motor Car, Value, index, % YoY"
+Monthly,Exports,Value,"index, % YoY",By Product,Passenger cars,,,,"Japan, Exports, World, Passenger Motor Car, Value, index, % YoY"
 Monthly,Exports,Value,"index, % YoY",By Product,Energy,,,,
-Monthly,Exports,Value,"index, % YoY",By Product,Others,,,,"Exports, World, Office machines (others), Value, index, % YoY"
-Monthly,Exports,Value,"index, % YoY",By Country,China,,,,"Exports, China, Total, Value, index, % YoY"
-Monthly,Exports,Value,"index, % YoY",By Country,Japan,,,,
+Monthly,Exports,Value,"index, % YoY",By Product,Others,,,,"Japan, Exports, World, Office machines (others), Value, index, % YoY"
+Monthly,Exports,Value,"index, % YoY",By Country,China,,,,"Japan, Exports, China, Total, Value, index, % YoY"
+Monthly,Exports,Value,"index, % YoY",By Country,Japan,,,,"Japan, Exports, EU, Total, Value, index, % YoY"
 Monthly,Exports,Value,"index, % YoY",By Country,Korea,,,,
 Monthly,Exports,Value,"index, % YoY",By Country,Taiwan,,,,
 Monthly,Exports,Value,"index, % YoY",By Country,EU,,,,"Exports, EU, Total, Value, index, % YoY"
 Monthly,Exports,Value,"index, % YoY",By Country,US,,,,"Exports, US, Total, Value, index, % YoY"
 Monthly,Exports,Value,"USD, SA",Total,,"Exports, All, Value, USD, SA","Exports, All, Value, USD, SA","Exports, All, Value, USD, SA","Exports, All, Value, USD, SA"
-Monthly,Exports,Value,"USD, SA",By Product,Semiconductors,"Exports, Semiconductors, Value, USD, SA","Exports, Semiconductors HS 776, Value, USD, SA",,"Exports, Semiconductors, Value, USD, SA"
+Monthly,Exports,Value,"USD, SA",By Product,Semiconductors,"Exports, Semiconductors, Value, USD, SA","Exports, Semiconductors HS 776, Value, USD, SA",,"Japan, Exports, Semiconductors, Value, USD, SA"
 Monthly,Exports,Value,"USD, SA",By Product,Passenger cars,,,,
 Monthly,Exports,Value,"USD, SA",By Product,Energy,,,,
 Monthly,Exports,Value,"USD, SA",By Product,Others,,,,
-Monthly,Exports,Value,"USD, SA",By Country,China,"Exports, China and Hong Kong, Value, USD, SA","Exports, China and Hong Kong, Value, USD, SA",,"Exports, China and HK, Value, USD, SA"
-Monthly,Exports,Value,"USD, SA",By Country,Japan,,"Exports, DM excl Japan, Value, USD, SA","Exports, DM excl Japan, Value, USD, SA",
+Monthly,Exports,Value,"USD, SA",By Country,China,"Exports, China and Hong Kong, Value, USD, SA","Exports, China and Hong Kong, Value, USD, SA",,"Japan, Exports, China and Hong Kong, Value, USD, SA"
+Monthly,Exports,Value,"USD, SA",By Country,Japan,,"Exports, DM excl Japan, Value, USD, SA","Exports, DM excl Japan, Value, USD, SA","Japan, Exports, All, Value, USD, SA"
 Monthly,Exports,Value,"USD, SA",By Country,Korea,,,,"Exports, Korea, Value, USD, SA"
 Monthly,Exports,Value,"USD, SA",By Country,Taiwan,,,,"Exports, Taiwan, Value, USD, SA"
 Monthly,Exports,Value,"USD, SA",By Country,EU,"Exports, EU, Value, USD, SA","Exports, EU, Value, USD, SA","Exports, EU, Value, USD, SA","Exports, EU, Value, USD, SA"
 Monthly,Exports,Value,"USD, SA",By Country,US,"Exports, US, Value, USD, SA","Exports, US, Value, USD, SA","Exports, US, Value, USD, SA","Exports, US, Value, USD, SA"
 Monthly,Exports,Value,"LCU, SA",Total,,"Exports, All, Value, LCU, SA","Exports, All, Value, LCU, SA","Exports, All, Value, LCU, SA","Exports, All, Value, LCU, SA"
-Monthly,Exports,Value,"LCU, SA",By Product,Semiconductors,,"Exports, Semiconductors HS 776, Value, LCU, SA",,"Exports, Semiconductors, Value, LCU, SA"
+Monthly,Exports,Value,"LCU, SA",By Product,Semiconductors,,"Exports, Semiconductors HS 776, Value, LCU, SA",,"Japan, Exports, Semiconductors, Value, LCU, SA"
 Monthly,Exports,Value,"LCU, SA",By Product,Passenger cars,,,,
 Monthly,Exports,Value,"LCU, SA",By Product,Energy,,,,
 Monthly,Exports,Value,"LCU, SA",By Product,Others,,,,
-Monthly,Exports,Value,"LCU, SA",By Country,China,,"Exports, China and Hong Kong, Value, LCU, SA",,"Exports, China and HK, Value, LCU, SA"
-Monthly,Exports,Value,"LCU, SA",By Country,Japan,,"Exports, DM excl Japan, Value, LCU, SA",,
+Monthly,Exports,Value,"LCU, SA",By Country,China,,"Exports, China and Hong Kong, Value, LCU, SA",,"Japan, Exports, China and Hong Kong, Value, LCU, SA"
+Monthly,Exports,Value,"LCU, SA",By Country,Japan,,"Exports, DM excl Japan, Value, LCU, SA",,"Japan, Exports, All, Value, LCU, SA"
 Monthly,Exports,Value,"LCU, SA",By Country,Korea,,,,"Exports, Korea, Value, LCU, SA"
 Monthly,Exports,Value,"LCU, SA",By Country,Taiwan,,,,"Exports, Taiwan, Value, LCU, SA"
 Monthly,Exports,Value,"LCU, SA",By Country,EU,,"Exports, EU, Value, LCU, SA",,"Exports, EU, Value, LCU, SA"
@@ -132,23 +132,23 @@ Monthly,Exports,Value,"index, % MoM",By Country,Taiwan,,,,
 Monthly,Exports,Value,"index, % MoM",By Country,EU,,,,
 Monthly,Exports,Value,"index, % MoM",By Country,US,,,,
 Monthly,Exports,Value,"USD, % YoY, SA",Total,,,,,"Exports, All, Value, USD, % YoY, SA"
-Monthly,Exports,Value,"USD, % YoY, SA",By Product,Semiconductors,,,,"Exports, Semiconductors, Value, USD, % YoY, SA"
+Monthly,Exports,Value,"USD, % YoY, SA",By Product,Semiconductors,,,,"Japan, Exports, Semiconductors, Value, USD, % YoY, SA"
 Monthly,Exports,Value,"USD, % YoY, SA",By Product,Passenger cars,,,,
 Monthly,Exports,Value,"USD, % YoY, SA",By Product,Energy,,,,
 Monthly,Exports,Value,"USD, % YoY, SA",By Product,Others,,,,
-Monthly,Exports,Value,"USD, % YoY, SA",By Country,China,,,,"Exports, China and HK, Value, USD, % YoY, SA"
-Monthly,Exports,Value,"USD, % YoY, SA",By Country,Japan,,,,
+Monthly,Exports,Value,"USD, % YoY, SA",By Country,China,,,,"Japan, Exports, China, Value, USD, % YoY, SA"
+Monthly,Exports,Value,"USD, % YoY, SA",By Country,Japan,,,,"Japan, Exports, All, Value, USD, % YoY, SA"
 Monthly,Exports,Value,"USD, % YoY, SA",By Country,Korea,,,,"Exports, Korea, Value, USD, % YoY, SA"
 Monthly,Exports,Value,"USD, % YoY, SA",By Country,Taiwan,,,,"Exports, Taiwan, Value, USD, % YoY, SA"
 Monthly,Exports,Value,"USD, % YoY, SA",By Country,EU,,,,"Exports, EU, Value, USD, % YoY, SA"
 Monthly,Exports,Value,"USD, % YoY, SA",By Country,US,,,,"Exports, US, Value, USD, % YoY, SA"
 Monthly,Exports,Value,"LCU, % YoY, SA",Total,,,,,"Exports, All, Value, LCU, % YoY, SA"
-Monthly,Exports,Value,"LCU, % YoY, SA",By Product,Semiconductors,,,,"Exports, Semiconductors, Value, LCU, % YoY, SA"
+Monthly,Exports,Value,"LCU, % YoY, SA",By Product,Semiconductors,,,,"Japan, Exports, Semiconductors, Value, LCU, % YoY, SA"
 Monthly,Exports,Value,"LCU, % YoY, SA",By Product,Passenger cars,,,,
 Monthly,Exports,Value,"LCU, % YoY, SA",By Product,Energy,,,,
 Monthly,Exports,Value,"LCU, % YoY, SA",By Product,Others,,,,
-Monthly,Exports,Value,"LCU, % YoY, SA",By Country,China,,,,"Exports, China and HK, Value, LCU, % YoY, SA"
-Monthly,Exports,Value,"LCU, % YoY, SA",By Country,Japan,,,,
+Monthly,Exports,Value,"LCU, % YoY, SA",By Country,China,,,,"Japan, Exports, China, Value, LCU, % YoY, SA"
+Monthly,Exports,Value,"LCU, % YoY, SA",By Country,Japan,,,,"Japan, Exports, All, Value, LCU, % YoY, SA"
 Monthly,Exports,Value,"LCU, % YoY, SA",By Country,Korea,,,,"Exports, Korea, Value, LCU, % YoY, SA"
 Monthly,Exports,Value,"LCU, % YoY, SA",By Country,Taiwan,,,,"Exports, Taiwan, Value, LCU, % YoY, SA"
 Monthly,Exports,Value,"LCU, % YoY, SA",By Country,EU,,,,"Exports, EU, Value, LCU, % YoY, SA"
@@ -165,23 +165,23 @@ Monthly,Exports,Value,"index, % YoY, SA",By Country,Taiwan,,,,
 Monthly,Exports,Value,"index, % YoY, SA",By Country,EU,,,,
 Monthly,Exports,Value,"index, % YoY, SA",By Country,US,,,,
 Monthly,Exports,Value,"USD, % MoM, SA",Total,,"Exports, All, Value, USD, % MoM, SA","Exports, All, Value, USD, % MoM, SA","Exports, All, Value, USD, % MoM, SA","Exports, All, Value, USD, % MoM, SA"
-Monthly,Exports,Value,"USD, % MoM, SA",By Product,Semiconductors,"Exports, Semiconductors, Value, USD, % MoM, SA","Exports, Semiconductors HS 776, Value, USD, % MoM, SA",,"Exports, Semiconductors, Value, USD, % MoM, SA"
+Monthly,Exports,Value,"USD, % MoM, SA",By Product,Semiconductors,"Exports, Semiconductors, Value, USD, % MoM, SA","Exports, Semiconductors HS 776, Value, USD, % MoM, SA",,"Japan, Exports, Semiconductors, Value, USD, % MoM, SA"
 Monthly,Exports,Value,"USD, % MoM, SA",By Product,Passenger cars,,,,
 Monthly,Exports,Value,"USD, % MoM, SA",By Product,Energy,,,,
 Monthly,Exports,Value,"USD, % MoM, SA",By Product,Others,,,,
-Monthly,Exports,Value,"USD, % MoM, SA",By Country,China,"Exports, China and Hong Kong, Value, USD, % MoM, SA","Exports, China and Hong Kong, Value, USD, % MoM, SA",,"Exports, China and HK, Value, USD, % MoM, SA"
-Monthly,Exports,Value,"USD, % MoM, SA",By Country,Japan,,"Exports, DM excl Japan, Value, USD, % MoM, SA","Exports, DM excl Japan, Value, USD, % MoM, SA",
+Monthly,Exports,Value,"USD, % MoM, SA",By Country,China,"Exports, China and Hong Kong, Value, USD, % MoM, SA","Exports, China and Hong Kong, Value, USD, % MoM, SA",,"Japan, Exports, China, Value, USD, % MoM, SA"
+Monthly,Exports,Value,"USD, % MoM, SA",By Country,Japan,,"Exports, DM excl Japan, Value, USD, % MoM, SA","Exports, DM excl Japan, Value, USD, % MoM, SA","Japan, Exports, All, Value, USD, % MoM, SA"
 Monthly,Exports,Value,"USD, % MoM, SA",By Country,Korea,,,,"Exports, Korea, Value, USD, % MoM, SA"
 Monthly,Exports,Value,"USD, % MoM, SA",By Country,Taiwan,,,,"Exports, Taiwan, Value, USD, % MoM, SA"
 Monthly,Exports,Value,"USD, % MoM, SA",By Country,EU,"Exports, EU, Value, USD, % MoM, SA","Exports, EU, Value, USD, % MoM, SA","Exports, EU, Value, USD, % MoM, SA","Exports, EU, Value, USD, % MoM, SA"
 Monthly,Exports,Value,"USD, % MoM, SA",By Country,US,"Exports, US, Value, USD, % MoM, SA","Exports, US, Value, USD, % MoM, SA","Exports, US, Value, USD, % MoM, SA","Exports, US, Value, USD, % MoM, SA"
 Monthly,Exports,Value,"LCU, % MoM, SA",Total,,"Exports, All, Value, LCU, % MoM, SA","Exports, All, Value, LCU, % MoM, SA","Exports, All, Value, LCU, % MoM, SA","Exports, All, Value, LCU, % MoM, SA"
-Monthly,Exports,Value,"LCU, % MoM, SA",By Product,Semiconductors,,"Exports, Semiconductors HS 776, Value, LCU, % MoM, SA",,"Exports, Semiconductors, Value, LCU, % MoM, SA"
+Monthly,Exports,Value,"LCU, % MoM, SA",By Product,Semiconductors,,"Exports, Semiconductors HS 776, Value, LCU, % MoM, SA",,"Japan, Exports, Semiconductors, Value, LCU, % MoM, SA"
 Monthly,Exports,Value,"LCU, % MoM, SA",By Product,Passenger cars,,,,
 Monthly,Exports,Value,"LCU, % MoM, SA",By Product,Energy,,,,
 Monthly,Exports,Value,"LCU, % MoM, SA",By Product,Others,,,,
-Monthly,Exports,Value,"LCU, % MoM, SA",By Country,China,,"Exports, China and Hong Kong, Value, LCU, % MoM, SA",,"Exports, China and HK, Value, LCU, % MoM, SA"
-Monthly,Exports,Value,"LCU, % MoM, SA",By Country,Japan,,"Exports, DM excl Japan, Value, LCU, % MoM, SA",,
+Monthly,Exports,Value,"LCU, % MoM, SA",By Country,China,,"Exports, China and Hong Kong, Value, LCU, % MoM, SA",,"Japan, Exports, China, Value, LCU, % MoM, SA"
+Monthly,Exports,Value,"LCU, % MoM, SA",By Country,Japan,,"Exports, DM excl Japan, Value, LCU, % MoM, SA",,"Japan, Exports, All, Value, LCU, % MoM, SA"
 Monthly,Exports,Value,"LCU, % MoM, SA",By Country,Korea,,,,"Exports, Korea, Value, LCU, % MoM, SA"
 Monthly,Exports,Value,"LCU, % MoM, SA",By Country,Taiwan,,,,"Exports, Taiwan, Value, LCU, % MoM, SA"
 Monthly,Exports,Value,"LCU, % MoM, SA",By Country,EU,,"Exports, EU, Value, LCU, % MoM, SA",,"Exports, EU, Value, LCU, % MoM, SA"
@@ -198,14 +198,14 @@ Monthly,Exports,Value,"index, % MoM, SA",By Country,Taiwan,,,,
 Monthly,Exports,Value,"index, % MoM, SA",By Country,EU,,,,
 Monthly,Exports,Value,"index, % MoM, SA",By Country,US,,,,
 Monthly,Exports,Value,% of total,Total,,,,"Auto exports, Europe, Value, % of total","Exports, Asia tech chain, Value, % of total"
-Monthly,Exports,Value,% of total,By Product,Semiconductors,,,,
+Monthly,Exports,Value,% of total,By Product,Semiconductors,,,,"Japan, Exports, Semiconductors, Value, % of total"
 Monthly,Exports,Value,% of total,By Product,Passenger cars,,,,
 Monthly,Exports,Value,% of total,By Product,Energy,,,,
-Monthly,Exports,Value,% of total,By Product,Others,,,,
-Monthly,Exports,Value,% of total,By Country,China,,,,"Exports, China and HK, Value, % of total"
-Monthly,Exports,Value,% of total,By Country,Japan,,,,
+Monthly,Exports,Value,% of total,By Product,Others,,,,"Japan, Exports, Group, Others, Value, % of total"
+Monthly,Exports,Value,% of total,By Country,China,,,,"Japan, China, Exports, Total, Value, % of total"
+Monthly,Exports,Value,% of total,By Country,Japan,,,,"Japan, Exports, All, Value, % of total"
 Monthly,Exports,Value,% of total,By Country,Korea,,,,
-Monthly,Exports,Value,% of total,By Country,Taiwan,,,,
+Monthly,Exports,Value,% of total,By Country,Taiwan,,,,"Japan, Exports, Taiwan, Value, % of total"
 Monthly,Exports,Value,% of total,By Country,EU,,,,"Exports, EU, Value, % of total"
 Monthly,Exports,Value,% of total,By Country,US,,,,"Exports, US, Value, % of total"
 Monthly,Exports,Value,"% of total, SA",Total,,"Exports, DM, Value, % of total, SA","Exports, EM, Value, % of total, SA","Exports, EM, Value, % of total, SA",
@@ -213,30 +213,30 @@ Monthly,Exports,Value,"% of total, SA",By Product,Semiconductors,"Exports, Semic
 Monthly,Exports,Value,"% of total, SA",By Product,Passenger cars,,,,
 Monthly,Exports,Value,"% of total, SA",By Product,Energy,,,,
 Monthly,Exports,Value,"% of total, SA",By Product,Others,,,,
-Monthly,Exports,Value,"% of total, SA",By Country,China,"Exports, China and Hong Kong, Value, % of total, SA","Exports, China and Hong Kong, Value, % of total, SA",,
-Monthly,Exports,Value,"% of total, SA",By Country,Japan,,"Exports, DM excl Japan, Value, % of total, SA","Exports, DM excl Japan, Value, % of total, SA",
+Monthly,Exports,Value,"% of total, SA",By Country,China,"Exports, China and Hong Kong, Value, % of total, SA","Exports, China and Hong Kong, Value, % of total, SA",,"Japan, Exports, China, Value, % of total, SA"
+Monthly,Exports,Value,"% of total, SA",By Country,Japan,,"Exports, DM excl Japan, Value, % of total, SA","Exports, DM excl Japan, Value, % of total, SA","Japan, Exports, US, Value, % of total, SA"
 Monthly,Exports,Value,"% of total, SA",By Country,Korea,,,,
 Monthly,Exports,Value,"% of total, SA",By Country,Taiwan,,,,
 Monthly,Exports,Value,"% of total, SA",By Country,EU,"Exports, EU, Value, % of total, SA","Exports, EU, Value, % of total, SA","Exports, EU, Value, % of total, SA",
 Monthly,Exports,Value,"% of total, SA",By Country,US,"Exports, US, Value, % of total, SA","Exports, US, Value, % of total, SA","Exports, US, Value, % of total, SA",
 Monthly,Exports,Value,% of GDP,Total,,,,"Exports, Value, % of GDP","Exports, Value, % of GDP"
-Monthly,Exports,Value,% of GDP,By Product,Semiconductors,,,,
+Monthly,Exports,Value,% of GDP,By Product,Semiconductors,,,,"Japan, Exports, Semiconductors, Value, % of GDP"
 Monthly,Exports,Value,% of GDP,By Product,Passenger cars,,,,
 Monthly,Exports,Value,% of GDP,By Product,Energy,,,,
-Monthly,Exports,Value,% of GDP,By Product,Others,,,,
-Monthly,Exports,Value,% of GDP,By Country,China,,,,
-Monthly,Exports,Value,% of GDP,By Country,Japan,,,,
+Monthly,Exports,Value,% of GDP,By Product,Others,,,,"Japan, Exports, Group, Others, Value, % of GDP"
+Monthly,Exports,Value,% of GDP,By Country,China,,,,"Japan, China, Exports, (IC), Value, % of GDP"
+Monthly,Exports,Value,% of GDP,By Country,Japan,,,,"Japan, Exports, All, Value, % of GDP"
 Monthly,Exports,Value,% of GDP,By Country,Korea,,,,
-Monthly,Exports,Value,% of GDP,By Country,Taiwan,,,,
+Monthly,Exports,Value,% of GDP,By Country,Taiwan,,,,"Japan, Exports, Taiwan, Value, % of GDP"
 Monthly,Exports,Value,% of GDP,By Country,EU,,,,
 Monthly,Exports,Value,% of GDP,By Country,US,,,,
 Monthly,Exports,Value,"% of GDP, SA",Total,,"Exports, All, Value, % of GDP, SA","Exports, All, Value, % of GDP, SA",,
-Monthly,Exports,Value,"% of GDP, SA",By Product,Semiconductors,"Exports, Semiconductors, Value, % of GDP, SA","Exports, Semiconductors HS 776, Value, % of GDP, SA",,
+Monthly,Exports,Value,"% of GDP, SA",By Product,Semiconductors,"Exports, Semiconductors, Value, % of GDP, SA","Exports, Semiconductors HS 776, Value, % of GDP, SA",,"Japan, Exports, Semiconductors, Value, % of GDP, SA"
 Monthly,Exports,Value,"% of GDP, SA",By Product,Passenger cars,,,,
 Monthly,Exports,Value,"% of GDP, SA",By Product,Energy,,,,
 Monthly,Exports,Value,"% of GDP, SA",By Product,Others,,,,
-Monthly,Exports,Value,"% of GDP, SA",By Country,China,,,,
-Monthly,Exports,Value,"% of GDP, SA",By Country,Japan,,,,
+Monthly,Exports,Value,"% of GDP, SA",By Country,China,,,,"Japan, Exports, China, Value, % of GDP, SA"
+Monthly,Exports,Value,"% of GDP, SA",By Country,Japan,,,,"Japan, Exports, All, Value, % of GDP, SA"
 Monthly,Exports,Value,"% of GDP, SA",By Country,Korea,,,,
 Monthly,Exports,Value,"% of GDP, SA",By Country,Taiwan,,,,
 Monthly,Exports,Value,"% of GDP, SA",By Country,EU,,,,
@@ -334,8 +334,8 @@ Monthly,Exports,Volume,"index, SA",By Product,Semiconductors,,,,
 Monthly,Exports,Volume,"index, SA",By Product,Passenger cars,,,,
 Monthly,Exports,Volume,"index, SA",By Product,Energy,,,,
 Monthly,Exports,Volume,"index, SA",By Product,Others,,,,
-Monthly,Exports,Volume,"index, SA",By Country,China,,,,"BOJ, Exports, China, Volume, index, SA"
-Monthly,Exports,Volume,"index, SA",By Country,Japan,,,,
+Monthly,Exports,Volume,"index, SA",By Country,China,,,,"Japan, BOJ, Exports, China, Volume, index, SA"
+Monthly,Exports,Volume,"index, SA",By Country,Japan,,,,"Japan, BOJ, Exports, Volume, index, SA"
 Monthly,Exports,Volume,"index, SA",By Country,Korea,,,,
 Monthly,Exports,Volume,"index, SA",By Country,Taiwan,,,,
 Monthly,Exports,Volume,"index, SA",By Country,EU,,,,"BOJ, Exports, EU, Volume, index, SA"
@@ -400,8 +400,8 @@ Monthly,Exports,Volume,"index, % YoY, SA",By Product,Semiconductors,,,,
 Monthly,Exports,Volume,"index, % YoY, SA",By Product,Passenger cars,,,,
 Monthly,Exports,Volume,"index, % YoY, SA",By Product,Energy,,,,
 Monthly,Exports,Volume,"index, % YoY, SA",By Product,Others,,,,
-Monthly,Exports,Volume,"index, % YoY, SA",By Country,China,,,,"BOJ, Exports, China, Volume, index, % YoY, SA"
-Monthly,Exports,Volume,"index, % YoY, SA",By Country,Japan,,,,
+Monthly,Exports,Volume,"index, % YoY, SA",By Country,China,,,,"Japan, BOJ, Exports, China, Volume, index, % YoY, SA"
+Monthly,Exports,Volume,"index, % YoY, SA",By Country,Japan,,,,"Japan, BOJ, Exports, EU, Volume, index, % YoY, SA"
 Monthly,Exports,Volume,"index, % YoY, SA",By Country,Korea,,,,
 Monthly,Exports,Volume,"index, % YoY, SA",By Country,Taiwan,,,,
 Monthly,Exports,Volume,"index, % YoY, SA",By Country,EU,,,,"BOJ, Exports, EU, Volume, index, % YoY, SA"
@@ -726,67 +726,67 @@ Monthly,Exports,Price,"% of GDP, SA",By Country,Taiwan,,,,
 Monthly,Exports,Price,"% of GDP, SA",By Country,EU,,,,
 Monthly,Exports,Price,"% of GDP, SA",By Country,US,,,,
 Monthly,Imports,Value,USD,Total,,"Imports, All, Value, USD","Imports, All, Value, USD","Imports, Value, USD","Imports, All, Value, USD"
-Monthly,Imports,Value,USD,By Product,Semiconductors,"Imports, Semiconductors, Value, USD",,,
+Monthly,Imports,Value,USD,By Product,Semiconductors,"Imports, Semiconductors, Value, USD",,,"Japan, Imports, Semiconductors, Value, USD"
 Monthly,Imports,Value,USD,By Product,Passenger cars,,,,
 Monthly,Imports,Value,USD,By Product,Energy,"Imports, Energy, Value, USD",,,
-Monthly,Imports,Value,USD,By Product,Others,,,,
-Monthly,Imports,Value,USD,By Country,China,"Imports, China, Value, USD",,,
-Monthly,Imports,Value,USD,By Country,Japan,"Imports, Japan, Value, USD",,,
+Monthly,Imports,Value,USD,By Product,Others,,,,"Japan, Imports, Group, Others, Value, USD"
+Monthly,Imports,Value,USD,By Country,China,"Imports, China, Value, USD",,,"Japan, Imports, China, Value, USD"
+Monthly,Imports,Value,USD,By Country,Japan,"Imports, Japan, Value, USD",,,"Japan, Imports, All, Value, USD"
 Monthly,Imports,Value,USD,By Country,Korea,,,,
-Monthly,Imports,Value,USD,By Country,Taiwan,"Imports, Taiwan, Value, USD",,,
+Monthly,Imports,Value,USD,By Country,Taiwan,"Imports, Taiwan, Value, USD",,,"Japan, Imports, Taiwan, Value, USD"
 Monthly,Imports,Value,USD,By Country,EU,"Imports, EU, Value, USD",,,
 Monthly,Imports,Value,USD,By Country,US,"Imports, US, Value, USD",,,
 Monthly,Imports,Value,LCU,Total,,"Imports, All, Value, LCU","Imports, All, Value, LCU","Imports, Value, LCU","Imports, All, Value, LCU"
-Monthly,Imports,Value,LCU,By Product,Semiconductors,,,,
+Monthly,Imports,Value,LCU,By Product,Semiconductors,,,,"Japan, Imports, Semiconductors, Value, LCU"
 Monthly,Imports,Value,LCU,By Product,Passenger cars,,,,
 Monthly,Imports,Value,LCU,By Product,Energy,,,,
-Monthly,Imports,Value,LCU,By Product,Others,,,,
-Monthly,Imports,Value,LCU,By Country,China,,,,
-Monthly,Imports,Value,LCU,By Country,Japan,,,,
+Monthly,Imports,Value,LCU,By Product,Others,,,,"Japan, Imports, Group, Others, Value, LCU"
+Monthly,Imports,Value,LCU,By Country,China,,,,"Japan, Imports, China, Value, LCU"
+Monthly,Imports,Value,LCU,By Country,Japan,,,,"Japan, Imports, All, Value, LCU"
 Monthly,Imports,Value,LCU,By Country,Korea,,,,
-Monthly,Imports,Value,LCU,By Country,Taiwan,,,,
+Monthly,Imports,Value,LCU,By Country,Taiwan,,,,"Japan, Imports, Taiwan, Value, LCU"
 Monthly,Imports,Value,LCU,By Country,EU,,,,
 Monthly,Imports,Value,LCU,By Country,US,,,,
 Monthly,Imports,Value,index,Total,,,,,"Imports, World, L.N.G., Value, index"
-Monthly,Imports,Value,index,By Product,Semiconductors,,,,"Imports, World, Semiconductors, Value, index"
-Monthly,Imports,Value,index,By Product,Passenger cars,,,,"Imports, World, Passenger Motor Cars, Value, index"
+Monthly,Imports,Value,index,By Product,Semiconductors,,,,"Japan, Imports, World, Semiconductors, Value, index"
+Monthly,Imports,Value,index,By Product,Passenger cars,,,,"Japan, Imports, World, Passenger Motor Cars, Value, index"
 Monthly,Imports,Value,index,By Product,Energy,,,,
-Monthly,Imports,Value,index,By Product,Others,,,,"Imports, World, Raw Materials (others), Value, index"
-Monthly,Imports,Value,index,By Country,China,,,,"Imports, China, Total, Value, index"
-Monthly,Imports,Value,index,By Country,Japan,,,,
+Monthly,Imports,Value,index,By Product,Others,,,,"Japan, Imports, World, Raw Materials (others), Value, index"
+Monthly,Imports,Value,index,By Country,China,,,,"Japan, Imports, China, Total, Value, index"
+Monthly,Imports,Value,index,By Country,Japan,,,,"Japan, Imports, World, L.N.G., Value, index"
 Monthly,Imports,Value,index,By Country,Korea,,,,
 Monthly,Imports,Value,index,By Country,Taiwan,,,,
 Monthly,Imports,Value,index,By Country,EU,,,,"Imports, EU, Total, Value, index"
 Monthly,Imports,Value,index,By Country,US,,,,"Imports, US, Total, Value, index"
 Monthly,Imports,Value,"USD, % YoY",Total,,"Imports, All, Value, USD, % YoY","Imports, All, Value, USD, % YoY","Imports, Value, USD, % YoY","Imports, All, Value, USD, % YoY"
-Monthly,Imports,Value,"USD, % YoY",By Product,Semiconductors,"Imports, Semiconductors, Value, USD, % YoY",,,
+Monthly,Imports,Value,"USD, % YoY",By Product,Semiconductors,"Imports, Semiconductors, Value, USD, % YoY",,,"Japan, Imports, Semiconductors, Value, USD, % YoY"
 Monthly,Imports,Value,"USD, % YoY",By Product,Passenger cars,,,,
 Monthly,Imports,Value,"USD, % YoY",By Product,Energy,"Imports, Energy, Value, USD, % YoY",,"Imports, Energy, Value, USD, % YoY",
-Monthly,Imports,Value,"USD, % YoY",By Product,Others,,,,
-Monthly,Imports,Value,"USD, % YoY",By Country,China,"Imports, China, Value, USD, % YoY",,,
-Monthly,Imports,Value,"USD, % YoY",By Country,Japan,"Imports, Japan, Value, USD, % YoY",,,
+Monthly,Imports,Value,"USD, % YoY",By Product,Others,,,,"Japan, Imports, Group, Others, Value, USD, % YoY"
+Monthly,Imports,Value,"USD, % YoY",By Country,China,"Imports, China, Value, USD, % YoY",,,"Japan, China, Imports, (IC), Value, USD, % YoY"
+Monthly,Imports,Value,"USD, % YoY",By Country,Japan,"Imports, Japan, Value, USD, % YoY",,,"Japan, Imports, All, Value, USD, % YoY"
 Monthly,Imports,Value,"USD, % YoY",By Country,Korea,,,,
-Monthly,Imports,Value,"USD, % YoY",By Country,Taiwan,"Imports, Taiwan, Value, USD, % YoY",,,
+Monthly,Imports,Value,"USD, % YoY",By Country,Taiwan,"Imports, Taiwan, Value, USD, % YoY",,,"Japan, Imports, Taiwan, Value, USD, % YoY"
 Monthly,Imports,Value,"USD, % YoY",By Country,EU,"Imports, EU, Value, USD, % YoY",,,
 Monthly,Imports,Value,"USD, % YoY",By Country,US,"Imports, US, Value, USD, % YoY",,,
 Monthly,Imports,Value,"LCU, % YoY",Total,,"Imports, All, Value, LCU, % YoY","Imports, All, Value, LCU, % YoY","Imports, Value, LCU, % YoY","Imports, All, Value, LCU, % YoY"
-Monthly,Imports,Value,"LCU, % YoY",By Product,Semiconductors,,,,
+Monthly,Imports,Value,"LCU, % YoY",By Product,Semiconductors,,,,"Japan, Imports, Semiconductors, Value, LCU, % YoY"
 Monthly,Imports,Value,"LCU, % YoY",By Product,Passenger cars,,,,
 Monthly,Imports,Value,"LCU, % YoY",By Product,Energy,,,,
-Monthly,Imports,Value,"LCU, % YoY",By Product,Others,,,,
-Monthly,Imports,Value,"LCU, % YoY",By Country,China,,,,
-Monthly,Imports,Value,"LCU, % YoY",By Country,Japan,,,,
+Monthly,Imports,Value,"LCU, % YoY",By Product,Others,,,,"Japan, Imports, Group, Others, Value, LCU, % YoY"
+Monthly,Imports,Value,"LCU, % YoY",By Country,China,,,,"Japan, China, Imports, (IC), Value, LCU, % YoY"
+Monthly,Imports,Value,"LCU, % YoY",By Country,Japan,,,,"Japan, Imports, All, Value, LCU, % YoY"
 Monthly,Imports,Value,"LCU, % YoY",By Country,Korea,,,,
-Monthly,Imports,Value,"LCU, % YoY",By Country,Taiwan,,,,
+Monthly,Imports,Value,"LCU, % YoY",By Country,Taiwan,,,,"Japan, Imports, Taiwan, Value, LCU, % YoY"
 Monthly,Imports,Value,"LCU, % YoY",By Country,EU,,,,
 Monthly,Imports,Value,"LCU, % YoY",By Country,US,,,,
 Monthly,Imports,Value,"index, % YoY",Total,,,,,"Imports, World, L.N.G., Value, index, % YoY"
-Monthly,Imports,Value,"index, % YoY",By Product,Semiconductors,,,,"Imports, World, Semiconductors, Value, index, % YoY"
-Monthly,Imports,Value,"index, % YoY",By Product,Passenger cars,,,,"Imports, World, Passenger Motor Cars, Value, index, % YoY"
+Monthly,Imports,Value,"index, % YoY",By Product,Semiconductors,,,,"Japan, Imports, World, Semiconductors, Value, index, % YoY"
+Monthly,Imports,Value,"index, % YoY",By Product,Passenger cars,,,,"Japan, Imports, World, Passenger Motor Cars, Value, index, % YoY"
 Monthly,Imports,Value,"index, % YoY",By Product,Energy,,,,
-Monthly,Imports,Value,"index, % YoY",By Product,Others,,,,"Imports, World, Raw Materials (others), Value, index, % YoY"
-Monthly,Imports,Value,"index, % YoY",By Country,China,,,,"Imports, China, Total, Value, index, % YoY"
-Monthly,Imports,Value,"index, % YoY",By Country,Japan,,,,
+Monthly,Imports,Value,"index, % YoY",By Product,Others,,,,"Japan, Imports, World, Raw Materials (others), Value, index, % YoY"
+Monthly,Imports,Value,"index, % YoY",By Country,China,,,,"Japan, Imports, China, Total, Value, index, % YoY"
+Monthly,Imports,Value,"index, % YoY",By Country,Japan,,,,"Japan, Imports, World, L.N.G., Value, index, % YoY"
 Monthly,Imports,Value,"index, % YoY",By Country,Korea,,,,
 Monthly,Imports,Value,"index, % YoY",By Country,Taiwan,,,,
 Monthly,Imports,Value,"index, % YoY",By Country,EU,,,,"Imports, EU, Total, Value, index, % YoY"
@@ -796,8 +796,8 @@ Monthly,Imports,Value,"USD, SA",By Product,Semiconductors,"Imports, Semiconducto
 Monthly,Imports,Value,"USD, SA",By Product,Passenger cars,,,,
 Monthly,Imports,Value,"USD, SA",By Product,Energy,"Imports, Energy, Value, USD, SA",,"Imports, Energy, Value, USD, SA",
 Monthly,Imports,Value,"USD, SA",By Product,Others,,,,
-Monthly,Imports,Value,"USD, SA",By Country,China,,,,
-Monthly,Imports,Value,"USD, SA",By Country,Japan,,,,
+Monthly,Imports,Value,"USD, SA",By Country,China,,,,"Japan, Imports, China and Hong Kong, Value, USD, SA"
+Monthly,Imports,Value,"USD, SA",By Country,Japan,,,,"Japan, Imports, All, Value, USD, SA"
 Monthly,Imports,Value,"USD, SA",By Country,Korea,,,,
 Monthly,Imports,Value,"USD, SA",By Country,Taiwan,,,,
 Monthly,Imports,Value,"USD, SA",By Country,EU,,,,
@@ -807,8 +807,8 @@ Monthly,Imports,Value,"LCU, SA",By Product,Semiconductors,,,,
 Monthly,Imports,Value,"LCU, SA",By Product,Passenger cars,,,,
 Monthly,Imports,Value,"LCU, SA",By Product,Energy,,,,
 Monthly,Imports,Value,"LCU, SA",By Product,Others,,,,
-Monthly,Imports,Value,"LCU, SA",By Country,China,,,,
-Monthly,Imports,Value,"LCU, SA",By Country,Japan,,,,
+Monthly,Imports,Value,"LCU, SA",By Country,China,,,,"Japan, Imports, China and Hong Kong, Value, LCU, SA"
+Monthly,Imports,Value,"LCU, SA",By Country,Japan,,,,"Japan, Imports, All, Value, LCU, SA"
 Monthly,Imports,Value,"LCU, SA",By Country,Korea,,,,
 Monthly,Imports,Value,"LCU, SA",By Country,Taiwan,,,,
 Monthly,Imports,Value,"LCU, SA",By Country,EU,,,,
@@ -862,8 +862,8 @@ Monthly,Imports,Value,"USD, % YoY, SA",By Product,Semiconductors,,,,
 Monthly,Imports,Value,"USD, % YoY, SA",By Product,Passenger cars,,,,
 Monthly,Imports,Value,"USD, % YoY, SA",By Product,Energy,,,,
 Monthly,Imports,Value,"USD, % YoY, SA",By Product,Others,,,,
-Monthly,Imports,Value,"USD, % YoY, SA",By Country,China,,,,
-Monthly,Imports,Value,"USD, % YoY, SA",By Country,Japan,,,,
+Monthly,Imports,Value,"USD, % YoY, SA",By Country,China,,,,"Japan, Imports, China, Value, USD, % YoY, SA"
+Monthly,Imports,Value,"USD, % YoY, SA",By Country,Japan,,,,"Japan, Imports, All, Value, USD, % YoY, SA"
 Monthly,Imports,Value,"USD, % YoY, SA",By Country,Korea,,,,
 Monthly,Imports,Value,"USD, % YoY, SA",By Country,Taiwan,,,,
 Monthly,Imports,Value,"USD, % YoY, SA",By Country,EU,,,,
@@ -873,8 +873,8 @@ Monthly,Imports,Value,"LCU, % YoY, SA",By Product,Semiconductors,,,,
 Monthly,Imports,Value,"LCU, % YoY, SA",By Product,Passenger cars,,,,
 Monthly,Imports,Value,"LCU, % YoY, SA",By Product,Energy,,,,
 Monthly,Imports,Value,"LCU, % YoY, SA",By Product,Others,,,,
-Monthly,Imports,Value,"LCU, % YoY, SA",By Country,China,,,,
-Monthly,Imports,Value,"LCU, % YoY, SA",By Country,Japan,,,,
+Monthly,Imports,Value,"LCU, % YoY, SA",By Country,China,,,,"Japan, Imports, China, Value, LCU, % YoY, SA"
+Monthly,Imports,Value,"LCU, % YoY, SA",By Country,Japan,,,,"Japan, Imports, All, Value, LCU, % YoY, SA"
 Monthly,Imports,Value,"LCU, % YoY, SA",By Country,Korea,,,,
 Monthly,Imports,Value,"LCU, % YoY, SA",By Country,Taiwan,,,,
 Monthly,Imports,Value,"LCU, % YoY, SA",By Country,EU,,,,
@@ -895,8 +895,8 @@ Monthly,Imports,Value,"USD, % MoM, SA",By Product,Semiconductors,"Imports, Semic
 Monthly,Imports,Value,"USD, % MoM, SA",By Product,Passenger cars,,,,
 Monthly,Imports,Value,"USD, % MoM, SA",By Product,Energy,"Imports, Energy, Value, USD, % MoM, SA",,"Imports, Energy, Value, USD, % MoM, SA",
 Monthly,Imports,Value,"USD, % MoM, SA",By Product,Others,,,,
-Monthly,Imports,Value,"USD, % MoM, SA",By Country,China,,,,
-Monthly,Imports,Value,"USD, % MoM, SA",By Country,Japan,,,,
+Monthly,Imports,Value,"USD, % MoM, SA",By Country,China,,,,"Japan, Imports, China, Value, USD, % MoM, SA"
+Monthly,Imports,Value,"USD, % MoM, SA",By Country,Japan,,,,"Japan, Imports, All, Value, USD, % MoM, SA"
 Monthly,Imports,Value,"USD, % MoM, SA",By Country,Korea,,,,
 Monthly,Imports,Value,"USD, % MoM, SA",By Country,Taiwan,,,,
 Monthly,Imports,Value,"USD, % MoM, SA",By Country,EU,,,,
@@ -906,8 +906,8 @@ Monthly,Imports,Value,"LCU, % MoM, SA",By Product,Semiconductors,,,,
 Monthly,Imports,Value,"LCU, % MoM, SA",By Product,Passenger cars,,,,
 Monthly,Imports,Value,"LCU, % MoM, SA",By Product,Energy,,,,
 Monthly,Imports,Value,"LCU, % MoM, SA",By Product,Others,,,,
-Monthly,Imports,Value,"LCU, % MoM, SA",By Country,China,,,,
-Monthly,Imports,Value,"LCU, % MoM, SA",By Country,Japan,,,,
+Monthly,Imports,Value,"LCU, % MoM, SA",By Country,China,,,,"Japan, Imports, China, Value, LCU, % MoM, SA"
+Monthly,Imports,Value,"LCU, % MoM, SA",By Country,Japan,,,,"Japan, Imports, All, Value, LCU, % MoM, SA"
 Monthly,Imports,Value,"LCU, % MoM, SA",By Country,Korea,,,,
 Monthly,Imports,Value,"LCU, % MoM, SA",By Country,Taiwan,,,,
 Monthly,Imports,Value,"LCU, % MoM, SA",By Country,EU,,,,
@@ -939,21 +939,21 @@ Monthly,Imports,Value,"% of total, SA",By Product,Semiconductors,,,,
 Monthly,Imports,Value,"% of total, SA",By Product,Passenger cars,,,,
 Monthly,Imports,Value,"% of total, SA",By Product,Energy,,,,
 Monthly,Imports,Value,"% of total, SA",By Product,Others,,,,
-Monthly,Imports,Value,"% of total, SA",By Country,China,,,,
-Monthly,Imports,Value,"% of total, SA",By Country,Japan,,,,
+Monthly,Imports,Value,"% of total, SA",By Country,China,,,,"Japan, Imports, China, Value, % of total, SA"
+Monthly,Imports,Value,"% of total, SA",By Country,Japan,,,,"Japan, Imports, US, Value, % of total, SA"
 Monthly,Imports,Value,"% of total, SA",By Country,Korea,,,,
 Monthly,Imports,Value,"% of total, SA",By Country,Taiwan,,,,
 Monthly,Imports,Value,"% of total, SA",By Country,EU,,,,
 Monthly,Imports,Value,"% of total, SA",By Country,US,,,,
 Monthly,Imports,Value,% of GDP,Total,,,,,
-Monthly,Imports,Value,% of GDP,By Product,Semiconductors,,,,
+Monthly,Imports,Value,% of GDP,By Product,Semiconductors,,,,"Japan, Imports, Semiconductors, Value, % of GDP"
 Monthly,Imports,Value,% of GDP,By Product,Passenger cars,,,,
 Monthly,Imports,Value,% of GDP,By Product,Energy,,,,
-Monthly,Imports,Value,% of GDP,By Product,Others,,,,
-Monthly,Imports,Value,% of GDP,By Country,China,,,,
-Monthly,Imports,Value,% of GDP,By Country,Japan,,,,
+Monthly,Imports,Value,% of GDP,By Product,Others,,,,"Japan, Imports, Group, Others, Value, % of GDP"
+Monthly,Imports,Value,% of GDP,By Country,China,,,,"Japan, China, Imports, (IC), Value, % of GDP"
+Monthly,Imports,Value,% of GDP,By Country,Japan,,,,"Japan, Imports, All, Value, % of GDP"
 Monthly,Imports,Value,% of GDP,By Country,Korea,,,,
-Monthly,Imports,Value,% of GDP,By Country,Taiwan,,,,
+Monthly,Imports,Value,% of GDP,By Country,Taiwan,,,,"Japan, Imports, Taiwan, Value, % of GDP"
 Monthly,Imports,Value,% of GDP,By Country,EU,,,,
 Monthly,Imports,Value,% of GDP,By Country,US,,,,
 Monthly,Imports,Value,"% of GDP, SA",Total,,,,,
@@ -961,8 +961,8 @@ Monthly,Imports,Value,"% of GDP, SA",By Product,Semiconductors,,,,
 Monthly,Imports,Value,"% of GDP, SA",By Product,Passenger cars,,,,
 Monthly,Imports,Value,"% of GDP, SA",By Product,Energy,,,,
 Monthly,Imports,Value,"% of GDP, SA",By Product,Others,,,,
-Monthly,Imports,Value,"% of GDP, SA",By Country,China,,,,
-Monthly,Imports,Value,"% of GDP, SA",By Country,Japan,,,,
+Monthly,Imports,Value,"% of GDP, SA",By Country,China,,,,"Japan, Imports, China, Value, % of GDP, SA"
+Monthly,Imports,Value,"% of GDP, SA",By Country,Japan,,,,"Japan, Imports, All, Value, % of GDP, SA"
 Monthly,Imports,Value,"% of GDP, SA",By Country,Korea,,,,
 Monthly,Imports,Value,"% of GDP, SA",By Country,Taiwan,,,,
 Monthly,Imports,Value,"% of GDP, SA",By Country,EU,,,,
@@ -1061,7 +1061,7 @@ Monthly,Imports,Volume,"index, SA",By Product,Passenger cars,,,,
 Monthly,Imports,Volume,"index, SA",By Product,Energy,,,,
 Monthly,Imports,Volume,"index, SA",By Product,Others,,,,
 Monthly,Imports,Volume,"index, SA",By Country,China,,,,
-Monthly,Imports,Volume,"index, SA",By Country,Japan,,,,
+Monthly,Imports,Volume,"index, SA",By Country,Japan,,,,"Japan, BOJ, Imports, Volume, index, SA"
 Monthly,Imports,Volume,"index, SA",By Country,Korea,,,,
 Monthly,Imports,Volume,"index, SA",By Country,Taiwan,,,,
 Monthly,Imports,Volume,"index, SA",By Country,EU,,,,
@@ -1456,10 +1456,10 @@ Monthly,Trade balance,Value,USD,By Product,Semiconductors,,,,
 Monthly,Trade balance,Value,USD,By Product,Passenger cars,,,,
 Monthly,Trade balance,Value,USD,By Product,Energy,,,"Trade balance, Excl energy imports, Value, USD",
 Monthly,Trade balance,Value,USD,By Product,Others,,,,
-Monthly,Trade balance,Value,USD,By Country,China,,,,
-Monthly,Trade balance,Value,USD,By Country,Japan,,,,
+Monthly,Trade balance,Value,USD,By Country,China,,,,"Japan, Trade balance, China and Hong Kong, Value, USD"
+Monthly,Trade balance,Value,USD,By Country,Japan,,,,"Japan, Trade balance, All, Value, USD"
 Monthly,Trade balance,Value,USD,By Country,Korea,,,,
-Monthly,Trade balance,Value,USD,By Country,Taiwan,,,,
+Monthly,Trade balance,Value,USD,By Country,Taiwan,,,,"Japan, Trade balance, Taiwan, Value, USD"
 Monthly,Trade balance,Value,USD,By Country,EU,,,,
 Monthly,Trade balance,Value,USD,By Country,US,,,,
 Monthly,Trade balance,Value,LCU,Total,,,"Trade balance, Value, LCU","Trade balance, Value, LCU","Trade balance, Value, LCU"
@@ -1467,10 +1467,10 @@ Monthly,Trade balance,Value,LCU,By Product,Semiconductors,,,,
 Monthly,Trade balance,Value,LCU,By Product,Passenger cars,,,,
 Monthly,Trade balance,Value,LCU,By Product,Energy,,,,
 Monthly,Trade balance,Value,LCU,By Product,Others,,,,
-Monthly,Trade balance,Value,LCU,By Country,China,,,,
-Monthly,Trade balance,Value,LCU,By Country,Japan,,,,
+Monthly,Trade balance,Value,LCU,By Country,China,,,,"Japan, Trade balance, China and Hong Kong, Value, LCU"
+Monthly,Trade balance,Value,LCU,By Country,Japan,,,,"Japan, Trade balance, All, Value, LCU"
 Monthly,Trade balance,Value,LCU,By Country,Korea,,,,
-Monthly,Trade balance,Value,LCU,By Country,Taiwan,,,,
+Monthly,Trade balance,Value,LCU,By Country,Taiwan,,,,"Japan, Trade balance, Taiwan, Value, LCU"
 Monthly,Trade balance,Value,LCU,By Country,EU,,,,
 Monthly,Trade balance,Value,LCU,By Country,US,,,,
 Monthly,Trade balance,Value,index,Total,,,,,
@@ -1522,8 +1522,8 @@ Monthly,Trade balance,Value,"USD, SA",By Product,Semiconductors,,,,
 Monthly,Trade balance,Value,"USD, SA",By Product,Passenger cars,,,,
 Monthly,Trade balance,Value,"USD, SA",By Product,Energy,,,"Trade balance, Excl energy imports, Value, USD, SA",
 Monthly,Trade balance,Value,"USD, SA",By Product,Others,,,,
-Monthly,Trade balance,Value,"USD, SA",By Country,China,,,,
-Monthly,Trade balance,Value,"USD, SA",By Country,Japan,,,,
+Monthly,Trade balance,Value,"USD, SA",By Country,China,,,,"Japan, Trade balance, China, Value, USD, SA"
+Monthly,Trade balance,Value,"USD, SA",By Country,Japan,,,,"Japan, Trade balance, All, Value, USD, SA"
 Monthly,Trade balance,Value,"USD, SA",By Country,Korea,,,,
 Monthly,Trade balance,Value,"USD, SA",By Country,Taiwan,,,,
 Monthly,Trade balance,Value,"USD, SA",By Country,EU,,,,
@@ -1533,8 +1533,8 @@ Monthly,Trade balance,Value,"LCU, SA",By Product,Semiconductors,,,,
 Monthly,Trade balance,Value,"LCU, SA",By Product,Passenger cars,,,,
 Monthly,Trade balance,Value,"LCU, SA",By Product,Energy,,,,
 Monthly,Trade balance,Value,"LCU, SA",By Product,Others,,,,
-Monthly,Trade balance,Value,"LCU, SA",By Country,China,,,,
-Monthly,Trade balance,Value,"LCU, SA",By Country,Japan,,,,
+Monthly,Trade balance,Value,"LCU, SA",By Country,China,,,,"Japan, Trade balance, China, Value, LCU, SA"
+Monthly,Trade balance,Value,"LCU, SA",By Country,Japan,,,,"Japan, Trade balance, All, Value, LCU, SA"
 Monthly,Trade balance,Value,"LCU, SA",By Country,Korea,,,,
 Monthly,Trade balance,Value,"LCU, SA",By Country,Taiwan,,,,
 Monthly,Trade balance,Value,"LCU, SA",By Country,EU,,,,
@@ -1665,8 +1665,8 @@ Monthly,Trade balance,Value,"% of total, SA",By Product,Semiconductors,,,,
 Monthly,Trade balance,Value,"% of total, SA",By Product,Passenger cars,,,,
 Monthly,Trade balance,Value,"% of total, SA",By Product,Energy,,,,
 Monthly,Trade balance,Value,"% of total, SA",By Product,Others,,,,
-Monthly,Trade balance,Value,"% of total, SA",By Country,China,,,,
-Monthly,Trade balance,Value,"% of total, SA",By Country,Japan,,,,
+Monthly,Trade balance,Value,"% of total, SA",By Country,China,,,,"Japan, Trade balance, China, Value, % of total, SA"
+Monthly,Trade balance,Value,"% of total, SA",By Country,Japan,,,,"Japan, Trade balance, US, Value, % of total, SA"
 Monthly,Trade balance,Value,"% of total, SA",By Country,Korea,,,,
 Monthly,Trade balance,Value,"% of total, SA",By Country,Taiwan,,,,
 Monthly,Trade balance,Value,"% of total, SA",By Country,EU,,,,
@@ -1676,10 +1676,10 @@ Monthly,Trade balance,Value,% of GDP,By Product,Semiconductors,,,,
 Monthly,Trade balance,Value,% of GDP,By Product,Passenger cars,,,,
 Monthly,Trade balance,Value,% of GDP,By Product,Energy,,,"Trade balance, Excl energy imports, Value, % of GDP",
 Monthly,Trade balance,Value,% of GDP,By Product,Others,,,,
-Monthly,Trade balance,Value,% of GDP,By Country,China,,,,
-Monthly,Trade balance,Value,% of GDP,By Country,Japan,,,,
+Monthly,Trade balance,Value,% of GDP,By Country,China,,,,"Japan, Trade balance, China, Value, % of GDP"
+Monthly,Trade balance,Value,% of GDP,By Country,Japan,,,,"Japan, Trade balance, All, Value, % of GDP"
 Monthly,Trade balance,Value,% of GDP,By Country,Korea,,,,
-Monthly,Trade balance,Value,% of GDP,By Country,Taiwan,,,,
+Monthly,Trade balance,Value,% of GDP,By Country,Taiwan,,,,"Japan, Trade balance, Taiwan, Value, % of GDP"
 Monthly,Trade balance,Value,% of GDP,By Country,EU,,,,
 Monthly,Trade balance,Value,% of GDP,By Country,US,,,,
 Monthly,Trade balance,Value,"% of GDP, SA",Total,,,,,
@@ -1687,8 +1687,8 @@ Monthly,Trade balance,Value,"% of GDP, SA",By Product,Semiconductors,,,,
 Monthly,Trade balance,Value,"% of GDP, SA",By Product,Passenger cars,,,,
 Monthly,Trade balance,Value,"% of GDP, SA",By Product,Energy,,,,
 Monthly,Trade balance,Value,"% of GDP, SA",By Product,Others,,,,
-Monthly,Trade balance,Value,"% of GDP, SA",By Country,China,,,,
-Monthly,Trade balance,Value,"% of GDP, SA",By Country,Japan,,,,
+Monthly,Trade balance,Value,"% of GDP, SA",By Country,China,,,,"Japan, Trade balance, China, Value, % of GDP, SA"
+Monthly,Trade balance,Value,"% of GDP, SA",By Country,Japan,,,,"Japan, Trade balance, All, Value, % of GDP, SA"
 Monthly,Trade balance,Value,"% of GDP, SA",By Country,Korea,,,,
 Monthly,Trade balance,Value,"% of GDP, SA",By Country,Taiwan,,,,
 Monthly,Trade balance,Value,"% of GDP, SA",By Country,EU,,,,
