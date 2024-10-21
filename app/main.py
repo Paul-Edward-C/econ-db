@@ -255,6 +255,8 @@ def update_freq_select(attrname, old, new):
         if sector_select.value not in sector_select_options:
             sector_select.value = sector_select_options[0]
         
+        freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
+        
         unit_select_options = mapping_dict[freq_sect_str]
         unit_select.options = unit_select_options
         if unit_select.value not in unit_select_options:
@@ -574,7 +576,9 @@ def add_button_callback():
     print(freq_sect_str)
 
     col_name = f"{tool.get_column_by_selects(country_select, freq_select, sector_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select, category_len=setting.category_structure[category_select.value]['length'])}_{country_select.value}"
-
+    print("country select: " + country_select.value)
+    print("col name: " + col_name)
+    print("2")
     data_setting_object = tool.create_data_setting_object(data_setting, col_name)
     old_multichoice_values = multichoice.value
 
@@ -716,7 +720,7 @@ def new_chart(old, new):
         status = False
     else:
         status = True
-
+    print("1")
     data_setting_object = tool.create_data_setting_object(data_setting=data_setting, col_name=new)
     source, index_ref_date = tool.add_source_column(
         source=source, col_name=new, index_date_input_value=index_date_input.value
