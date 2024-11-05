@@ -579,6 +579,15 @@ def add_button_callback():
     print("country select: " + country_select.value)
     print("col name: " + col_name)
     print("2")
+    if country_select.value == "TW" and "Taiwan" not in col_name:
+        col_name = "Taiwan, " + col_name
+    if country_select.value == "CN" and "China" not in col_name:
+        col_name = "China, " + col_name
+    if country_select.value == "KR" and "Korea" not in col_name:
+        col_name = "Korea, " + col_name
+    if country_select.value == "JP" and "Japan" not in col_name:
+        col_name = "Japan, " + col_name
+    print("col name: " + col_name)
     data_setting_object = tool.create_data_setting_object(data_setting, col_name)
     old_multichoice_values = multichoice.value
 

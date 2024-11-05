@@ -57,7 +57,7 @@ class Export_matcher:
         data_path = self.setting.structure[country][self.category_full][f"{freq_full}_data_path"]
         data = pd.read_csv(data_path, index_col=[0])
 
-        keep_list = [1, 5, 2, 3]
+        keep_list = [0, 1, 5, 2, 3]
 
         for index, row in tqdm(
             self.mapping.iterrows(), desc=f"{country}-{freq} matching mapping", unit="mapping object"
@@ -80,7 +80,7 @@ class Export_matcher:
                 logging.warning(f"{country}-{freq} mapping row {index} is empty")
                 continue
 
-            mapping_list.remove("Total") if "Total" in mapping_list else None
+            #mapping_list.remove("Total") if "Total" in mapping_list else None
 
             comb = comb_string
             main_category = row[1]
