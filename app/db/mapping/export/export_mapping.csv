@@ -206,7 +206,7 @@ Monthly,Exports,Value,% of total,By Product,Others,,,,"Japan, Exports, Group, Ot
 Monthly,Exports,Value,% of total,By Country,China,,,"China, Auto exports, Europe, Value, % of total","Japan, Exports, China, Value, % of total"
 Monthly,Exports,Value,% of total,By Country,Japan,,,,"Japan, Exports, All, Value, % of total"
 Monthly,Exports,Value,% of total,By Country,Korea,"Korea, Exports, Autos, Value, % of total",,,
-Monthly,Exports,Value,% of total,By Country,Taiwan,,,,"Japan, Exports, Taiwan, Value, % of total"
+Monthly,Exports,Value,% of total,By Country,Taiwan,,"Taiwan, Exports, US, Value, % of total",,"Japan, Exports, Taiwan, Value, % of total"
 Monthly,Exports,Value,% of total,By Country,EU,,,,"Exports, EU, Value, % of total"
 Monthly,Exports,Value,% of total,By Country,US,,,,"Exports, US, Value, % of total"
 Monthly,Exports,Value,"% of total, SA",Total,,"Exports, DM, Value, % of total, SA","Exports, EM, Value, % of total, SA","Exports, EM, Value, % of total, SA",
