@@ -68,7 +68,6 @@ class Tool:
             title="Country",
             stylesheets=[self.setting.select_stylesheet],
         )
-        print(f"Country select : {country_select.value}")
 
         category_select_options = list(structure[country_select.value].keys())
         category_select = Select(
@@ -78,8 +77,6 @@ class Tool:
             title="Category",
             stylesheets=[self.setting.select_stylesheet],
         )
-        print(f"Category select : {category_select.value}")
-
 
         mapping = pd.read_csv(category_structure[category_select.value]["path"])
         mapping = mapping[~mapping[country_select.value].isna()].replace(np.nan, "")
@@ -88,20 +85,16 @@ class Tool:
             keys=mapping.columns[: category_structure[category_select.value]["length"] - 1],
             values=mapping.columns[category_structure[category_select.value]["length"] - 1],
         )
-        # print(mapping_dict["NGDP QLCUBy expenditure"])
         self.create_matched_columns_and_general_mapping(
             df=mapping, country=country_select.value, length=category_structure[category_select.value]["length"]
         )
 
         first_term_options = sorted(mapping[mapping.columns[0]].unique().tolist())
-        print(first_term_options)
         freq_select_options = []
         for option in first_term_options:
-            print(option[-1])
             if option[-1] not in freq_select_options:
                 freq_select_options.append(option[-1])
 
-        print(freq_select_options)
         freq_select = Select(
             value=freq_select_options[0],
             options=freq_select_options,
@@ -109,12 +102,9 @@ class Tool:
             title="Frequency",
             stylesheets=[self.setting.select_stylesheet],
         )
-        print(f"freq select : {freq_select.value}")
 
         sector_select_options = []
-        print(first_term_options)
         for option in first_term_options:
-            print(option[0])
             if option[0] == 'N':
                 if 'Nominal' not in sector_select_options:
                     sector_select_options.append("Nominal")
@@ -124,7 +114,6 @@ class Tool:
             if option[0] == 'D':
                 if 'Deflator' not in sector_select_options:
                     sector_select_options.append("Deflator")
-        print(sector_select_options)
         sector_select = Select(
             value=sector_select_options[0],
             options=sector_select_options,
@@ -141,7 +130,6 @@ class Tool:
         elif sector_select.value == 'Real':
             freq_sect_str += 'RGDP '
         freq_sect_str += freq_select.value
-        print(freq_sect_str)
 
         # unit_select_options = sorted(mapping_dict[freq_select.value])\
         unit_select_options = sorted(mapping_dict[freq_sect_str])
@@ -152,7 +140,6 @@ class Tool:
             title="Unit",
             stylesheets=[self.setting.select_stylesheet],
         )
-        print(f"Unit select : {unit_select.value}")
 
         # type_select_options = sorted(mapping_dict[freq_select.value + unit_select.value])
         type_select_options = sorted(mapping_dict[freq_sect_str + unit_select.value])
@@ -175,10 +162,7 @@ class Tool:
         )
 
 
-        print('MAPPING DICT:')
-        print(mapping_dict)
-        print('MAPPING DICT KEY:')
-        print(freq_sect_str + unit_select.value + type_select.value + cat1_select.value)
+
         # cat2_select_options = sorted(
         #     mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value]
         # )
@@ -286,7 +270,6 @@ class Tool:
         elif sector_select.value == 'Real':
             freq_sect_str += 'RGDP '
         freq_sect_str += freq_select.value
-        print(freq_sect_str)
         
         if freq_sect_str == "M":
             select_value_list = [
@@ -319,8 +302,6 @@ class Tool:
             ]
             select_value_list.insert(0, freq_sect_str)
         
-        print(select_value_list)
-
         dummy = (
             self.general_mapping.loc[:, [str(i) for i in range(category_len)]] == select_value_list[:category_len]
         ).all(axis=1)
@@ -341,18 +322,12 @@ class Tool:
         return self.data, self.data_setting
 
     def create_data_setting_object(self, data_setting, col_name):
-        print("tool self: " + str(self))
-        print("tool data_setting: " + str(data_setting))
-        print("tool col_name: " + str(col_name))
         data_setting_backup_cols = ["display_name", "data_type", "chart_type"]
         data_col_name = "_".join(col_name.split("_")[:-1])
         try:
-            print("data_setting_backup_loc: " + str(self.data_setting_backup.loc))
             self.data_setting_backup.loc[col_name, data_setting_backup_cols] = data_setting.loc[data_col_name].tolist()
         except Exception as e:
             pass
-        print("NAME OF COL")
-        print(col_name)
         data_setting_object = self.data_setting_backup.loc[[col_name]].reset_index().loc[0].to_dict()
 
         return data_setting_object

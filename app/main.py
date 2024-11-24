@@ -91,9 +91,7 @@ def update_selects_format():
         cat5_select,
     ]
     new_len = next((i for i, select in enumerate(selects_list) if select.value == ""), len(selects_list))
-    print(new_len)
     for sel in selects_list:
-        print(sel.value)
         
     if new_len == 6:
         new_layout = row(
@@ -132,7 +130,6 @@ def update_selects_format():
             column(unit_select, type_select, cat1_select, cat2_select),
             column(cat3_select, cat4_select, cat5_select),
         )
-    # print(new_len)
     layout.children[0] = new_layout
 
 def make_freq_sect_str(freq_val, sect_val):
@@ -154,15 +151,12 @@ def update_country_select(attrname, old, new):
     if category_select.value not in category_select_options:
         category_select.value = category_select_options[0]
 
-    # print(category_select.value)
-
 
 def update_category_select(attrname, old, new):
     # Change to new columns
     os.chdir(dir_path)
     mapping_raw = pd.read_csv(setting.category_structure[category_select.value]["path"])
     mapping_raw = mapping_raw[~mapping_raw[country_select.value].isna()].replace(np.nan, "")
-    # print(f"Mapping_raw : {mapping_raw}")
 
     category_len = setting.category_structure[category_select.value]["length"]
 
@@ -196,7 +190,6 @@ def update_category_select(attrname, old, new):
 
     sector_select_options = []
     for option in first_term_options:
-        print(option[0])
         if option[0] == 'N':
             if 'Nominal' not in sector_select_options:
                 sector_select_options.append("Nominal")
@@ -211,8 +204,6 @@ def update_category_select(attrname, old, new):
     if freq_select.value not in freq_select_options:
         freq_select.value = freq_select_options[0]
     
-    # print(freq_select.value)
-
 
 def update_freq_select(attrname, old, new):
     # Change data source and data setting
@@ -303,7 +294,6 @@ def update_unit_select(attrname, old, new):
 
         if type_select.value not in type_select_options:
             type_select.value = type_select_options[0]
-        # print(type_select.value)
 
     elif category_select.value == "Foreign Trade":
         try:
@@ -324,7 +314,6 @@ def update_unit_select(attrname, old, new):
         except Exception as e:
             cat1_select.options = [""]
             cat1_select.value = cat1_select.options[0]
-        # print(cat2_select.value)
 
 
 def update_type_select(attrname, old, new):
@@ -335,7 +324,6 @@ def update_type_select(attrname, old, new):
 
         if cat1_select.value not in cat1_select_options:
             cat1_select.value = cat1_select_options[0]
-        # print(cat1_select.value)
 
     elif category_select.value == "Foreign Trade":
         unit_select_options = mapping_dict["Monthly" + sector_select.value + type_select.value]
@@ -367,7 +355,6 @@ def update_cat1_select(attrname, old, new):
         except Exception as e:
             cat2_select.options = [""]
             cat2_select.value = cat2_select.options[0]
-        # print(cat2_select.value)
 
     if category_select.value == "Foreign Trade":
         try:
@@ -382,7 +369,6 @@ def update_cat1_select(attrname, old, new):
         except Exception as e:
             cat2_select.options = [""]
             cat2_select.value = cat2_select.options[0]
-        # print(cat2_select.value)
 
 
 def update_cat2_select(attrname, old, new):
@@ -401,7 +387,6 @@ def update_cat2_select(attrname, old, new):
             cat3_select.options = [""]
             cat3_select.value = cat3_select.options[0]
 
-        # print(cat3_select.value)
     
     if category_select.value == "Foreign Trade":
         try:
@@ -417,7 +402,6 @@ def update_cat2_select(attrname, old, new):
             cat3_select.options = [""]
             cat3_select.value = cat3_select.options[0]
 
-        # print(cat3_select.value)
 
 
 def update_cat3_select(attrname, old, new):
@@ -439,7 +423,6 @@ def update_cat3_select(attrname, old, new):
         except Exception as e:
             cat4_select.options = [""]
             cat4_select.value = cat4_select.options[0]
-        # print(cat4_select.value)
 
     if category_select.value == "Foreign Trade":
         try:
@@ -459,7 +442,6 @@ def update_cat3_select(attrname, old, new):
         except Exception as e:
             cat4_select.options = [""]
             cat4_select.value = cat4_select.options[0]
-        # print(cat4_select.value)
 
 
 def update_cat4_select(attrname, old, new):
@@ -484,7 +466,6 @@ def update_cat4_select(attrname, old, new):
             cat5_select.value = cat5_select.options[0]
 
         update_selects_format()
-        # print(cat5_select.value)
 
     if category_select.value == "Foreign Trade":
         try:
@@ -506,7 +487,6 @@ def update_cat4_select(attrname, old, new):
             cat5_select.value = cat5_select.options[0]
 
         update_selects_format()
-        # print(cat5_select.value)
 
 def update_axis_position(attrname, old, new):  # Use to adjust background image position
     global main_p
@@ -517,7 +497,6 @@ def update_axis_position(attrname, old, new):  # Use to adjust background image 
     y_start = main_p.extra_y_ranges["bi"].start
     y_end = main_p.extra_y_ranges["bi"].end
 
-    # print(x_start, x_end, y_start, y_end)
 
     for i in main_p.renderers:
         if i.name == "bi":
@@ -573,12 +552,8 @@ def add_button_callback():
     elif sector_select.value == 'Real':
         freq_sect_str += 'RGDP '
     freq_sect_str += freq_select.value
-    print(freq_sect_str)
 
     col_name = f"{tool.get_column_by_selects(country_select, freq_select, sector_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select, category_len=setting.category_structure[category_select.value]['length'])}_{country_select.value}"
-    print("country select: " + country_select.value)
-    print("col name: " + col_name)
-    print("2")
     if country_select.value == "TW" and "Taiwan" not in col_name:
         col_name = "Taiwan, " + col_name
     if country_select.value == "CN" and "China" not in col_name:
@@ -587,7 +562,6 @@ def add_button_callback():
         col_name = "Korea, " + col_name
     if country_select.value == "JP" and "Japan" not in col_name:
         col_name = "Japan, " + col_name
-    print("col name: " + col_name)
     data_setting_object = tool.create_data_setting_object(data_setting, col_name)
     old_multichoice_values = multichoice.value
 
@@ -718,39 +692,21 @@ def multichoice_callback(attr, old, new):
 
 
 def new_chart(old, new):
-    print("Entering new_chart function")
-    print("Options :")
-    print(multichoice.options)
-    print(len(multichoice.options))
     global source, main_p, index_date_input, index_toggle
-    print(list(set(new) - set(old))[0])
     new = list(set(new) - set(old))[0]
     if new in tool.source_backup.columns.tolist():
         status = False
     else:
         status = True
-    print("1")
     data_setting_object = tool.create_data_setting_object(data_setting=data_setting, col_name=new)
     source, index_ref_date = tool.add_source_column(
         source=source, col_name=new, index_date_input_value=index_date_input.value
     )
     source_dict = dict(pd.DataFrame(source.data).set_index("Date").dropna(how="all", axis=0).reset_index())
     index_date_input.value = index_ref_date
-    print("data_setting_object info: ")
-    print(data_setting_object)
-    print(data_setting_object["data_type"])
     # Condition 1 : new value
-    if status:
-        print(f"New : {new}")
-
-    else:
-        print(f"Existing : {new}")
-
-    print(setting.colors)
     color_set_check = False
     for obj in setting.colors:
-        print("color: " )
-        print(obj["label"])
         if not obj["used"]:
             color = obj["color"]
             obj["used"] = True
@@ -758,10 +714,7 @@ def new_chart(old, new):
             break
     if (not color_set_check):
         ctypes.windll.user32.MessageBoxW(0, "Maximum charts reached, please remove a chart before adding a new one.", "ALERT", 48, 0x00001000)
-        print("Most recent option: ")
-        print(multichoice.options[len(multichoice.options) - 1])
         del multichoice.options[-1]
-        print(multichoice.options)
 
     # plot new object
     if data_setting_object["chart_type"] == "line":
@@ -888,8 +841,6 @@ def new_chart(old, new):
                 )
             )
     datatable.columns = new_columns
-    print(data_setting_object["data_type"])
-    print(source_dict)
     datatable.source.data = source_dict
 
     # add new tooltips
@@ -910,18 +861,16 @@ def new_chart(old, new):
             main_p.yaxis.formatter = NumeralTickFormatter(format="0,0")
     main_p.hover.tooltips = new_tooltips_list
 
-    for i in main_p.renderers:  # in order to prevent
+    for i in main_p.renderers: 
         if i.name == "bi":
             continue
         i.data_source.data = source_dict
     update_main_axis_range()
-    # print(pd.DataFrame(source.data))
 
 
 def drop_chart(old, new):
     global main_p, sub_p, source, datatable
     drop = list(set(old) - set(new))[0]
-    print("Remove: ", drop)
 
     for p in [main_p, sub_p]:
         new_renderers_list = []
@@ -1048,8 +997,6 @@ def link_callback():
     multichoice.on_change("value", multichoice_callback)
     
     add_button.on_click(handler=add_button_callback)
-    print("Options at link:")
-    print(multichoice.options)
     index_toggle.on_click(handler=index_toggle_callback)
 
 
@@ -1078,8 +1025,6 @@ elif sector_select.value == 'Nominal':
 elif sector_select.value == 'Real':
     freq_sect_str += 'RGDP '
 freq_sect_str += freq_select.value
-print(freq_sect_str)
-print('HELLOOOOO')
 
 for i in setting.freq_data_mapping_map.keys():
     if freq_sect_str in setting.freq_data_mapping_map[i]:
@@ -1207,6 +1152,5 @@ update_selects_format()
 curdoc().theme = Theme(filename=setting.theme_file_path)
 curdoc().add_root(layout)
 curdoc().title = setting.curdoc_name
-print("toggle call")
 
 index_toggle_callback(True)
