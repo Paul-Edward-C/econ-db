@@ -91,7 +91,6 @@ def update_selects_format():
         cat5_select,
     ]
     new_len = next((i for i, select in enumerate(selects_list) if select.value == ""), len(selects_list))
-    for sel in selects_list:
         
     if new_len == 6:
         new_layout = row(
