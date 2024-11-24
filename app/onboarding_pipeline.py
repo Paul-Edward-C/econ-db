@@ -15,7 +15,7 @@ def main():
     # clean raw data
     if args.to_db:
         command = (
-            f"python3 clean_raw_data.py "
+            f"python clean_raw_data.py "
             f"--category {args.category} "
             f"--country {args.country} "
             f"--freq {args.freq} "
@@ -23,7 +23,7 @@ def main():
         )
     else:
         command = (
-            f"python3 clean_raw_data.py "
+            f"python clean_raw_data.py "
             f"--category {args.category} "
             f"--country {args.country} "
             f"--freq {args.freq}"
@@ -33,7 +33,7 @@ def main():
     # create data settings
     if args.to_db:
         command = (
-            f"python3 create_data_setting.py "
+            f"python create_data_setting.py "
             f"--category {args.category} "
             f"--country {args.country} "
             f"--freq {args.freq} "
@@ -41,7 +41,7 @@ def main():
         )
     else:
         command = (
-            f"python3 create_data_setting.py "
+            f"python create_data_setting.py "
             f"--category {args.category} "
             f"--country {args.country} "
             f"--freq {args.freq}"
@@ -52,7 +52,7 @@ def main():
     if args.to_db:
         if args.to_output:
             command = (
-                f"python3 match_mapping.py "
+                f"python match_mapping.py "
                 f"--category {args.category} "
                 f"--country {args.country} "
                 f"--freq {args.freq}"
@@ -61,7 +61,7 @@ def main():
             )
         else:
             command = (
-                f"python3 match_mapping.py "
+                f"python match_mapping.py "
                 f"--category {args.category} "
                 f"--country {args.country} "
                 f"--freq {args.freq}"
@@ -70,7 +70,7 @@ def main():
     else:
         if args.to_output:
             command = (
-                f"python3 match_mapping.py "
+                f"python match_mapping.py "
                 f"--category {args.category} "
                 f"--country {args.country} "
                 f"--freq {args.freq}"
@@ -78,7 +78,7 @@ def main():
             )
         else:
             command = (
-                f"python3 match_mapping.py "
+                f"python match_mapping.py "
                 f"--category {args.category} "
                 f"--country {args.country} "
                 f"--freq {args.freq}"

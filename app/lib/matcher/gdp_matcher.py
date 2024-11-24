@@ -50,7 +50,7 @@ class GDP_matcher:
         data_path = self.setting.structure[country][self.category_full][f"{freq_full}_data_path"]
         data = pd.read_csv(data_path, index_col=[0])
 
-        keep_list = [0, 3, 4, 5, 6, 7, 8, 1]
+        keep_list = ['0', '3', '4', '5', '6', '7', '8', '1']
 
         matching_result = pd.DataFrame()
         matching_result_columns = ["mapping_name", "data_name", "valid_number", "score", "mapping_index"]
@@ -69,6 +69,8 @@ class GDP_matcher:
 
             # Get current mapping list in order
             row = row[~row.isna()]
+            # print('ROW:')
+            # print(row.index.to_list)
             mapping_list = [row[i] for i in keep_list if str(i) in row.index.to_list()]
 
             if len(mapping_list) == 0:

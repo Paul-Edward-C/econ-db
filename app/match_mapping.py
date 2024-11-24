@@ -24,7 +24,9 @@ def run_matching_pipeline(category_list, country_list, freq_list, to_db=False, t
         matcher = matcher_map[category]
 
         freq_list = freq_country_map.keys() if freq_list is None else freq_list
+        print(freq_list)
         for freq in freq_list:
+            print(freq)
             current_country_list = (
                 freq_country_map[freq]
                 if country_list is None
@@ -45,13 +47,20 @@ def main():
     parser.add_argument("--category")
     parser.add_argument("--country")
     parser.add_argument("--freq")
-    parser.add_argument("--to_db", action="store_true")
     parser.add_argument("--to_output", action="store_true")
+    parser.add_argument("--to_db", action="store_true")
+    
     args = parser.parse_args()
+    print(str(args))
 
     category_list = args.category.split(",") if args.category is not None else None
     country_list = args.country.split(",") if args.country is not None else None
-    freq_list = args.freq.split(",") if args.freq is not None else None
+    args.to_output = True if len(args.freq) == 12 or len(args.freq) == 19 else False
+    args.to_db = True if len(args.freq) == 8 or len(args.freq) == 19 else False
+    args.freq = args.freq[0]
+    freq_list = args.freq if args.freq is not None and len(args.freq) > 1 else None
+    print(str(freq_list))
+    print(str(args))
 
     if args.to_db and args.to_output:
         run_matching_pipeline(category_list, country_list, freq_list, args.to_db, args.to_output)
