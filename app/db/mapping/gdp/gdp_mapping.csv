@@ -1,7 +1,7 @@
 0,1,2,3,4,5,6,7,8,JP,TW,CN,KR
-NGDP Q,LCU,Expenditure,Per capita,,,,,,"Japan, NGDP, Expenditure, Per capita, LCU","Taiwan, NGDP, Activity, LCU","China, NGDP, Activity, Other, LCU",
-NGDP Q,LCU,Expenditure,GDP,,,,,,,,,"Korea, NGDP, Expenditure, LCU"
-NGDP Q,LCU,Expenditure,Domestic Demand,Per capita,,,,,,,"China, NGDP, Activity, Storage and Post, LCU",
+NGDP Q,LCU,Expenditure,Per capita,,,,,,"Japan, NGDP, Expenditure, Per capita, LCU","Taiwan, NGDP, NI, Per capita, LCU m","China, NGDP, Activity, Other, LCU",
+NGDP Q,LCU,Expenditure,GDP,,,,,,,"Taiwan, NGDP, GNI, LCU",,"Korea, NGDP, Expenditure, LCU"
+NGDP Q,LCU,Expenditure,Domestic Demand,Per capita,,,,,,"Taiwan, NGDP, Expenditure, Per capita, LCU","China, NGDP, Activity, Storage and Post, LCU",
 NGDP Q,LCU,Expenditure,Domestic Demand,Total,,,,,"Japan, NGDP, Expenditure, Domestic Demand, LCU","Taiwan, NGDP, Expenditure, Domestic Demand, LCU",,
 NGDP Q,LCU,Expenditure,Domestic Demand,Private,,,,,"Japan, NGDP, Expenditure, Domestic Demand, Private Demand, LCU",,,
 NGDP Q,LCU,Expenditure,Domestic Demand,Public,,,,,"Japan, NGDP, Expenditure, Domestic Demand, Public Demand, LCU",,,
@@ -12,8 +12,8 @@ NGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Per capita,,,,"Japan,
 NGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Total,,,,,"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, LCU",,"Korea, NGDP, Expenditure, Domestic Demand, Private Consumption, LCU"
 NGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Excluding Imputed Rent,,,,"Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, LCU tn",,,
 NGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Per capita,,,,,,
-NGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Total,,,"Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, LCU",,,"Korea, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, LCU"
-NGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Direct Purchases Abroad by Resident Households,,,"Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, LCU",,,
+NGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Total,,,"Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, LCU","Taiwan, NGDP, Expenditure, Domestic demand, Private consumption, Household consumption, LCU",,"Korea, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, LCU"
+NGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Direct Purchases Abroad by Resident Households,,,"Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, LCU","Taiwan, NGDP, Expenditure, Domestic demand, Private consumption, Final consumption expenditure of resident households abroad, LCU",,
 NGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Direct Purchases in the Domestic Market by Non-Resident Households,,,"Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, LCU tn",,,
 NGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Excluding Imputed Rent,,,"Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, LCU",,,
 NGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Domestic Final Consumption,Total,,"Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, LCU",,,
@@ -70,7 +70,7 @@ NGDP Q,LCU,Activity,Total,,,,,,,,,
 NGDP Q,LCU,Activity,output gap,,,,,,"Japan, NGDP, Activity, Sub-total, LCU",,,
 NGDP Q,LCU,Activity,HP filter trend,,,,,,"Japan, NGDP, Activity, LCU tn","Taiwan, NGDP, Income, GNI, LCU","China, NGDP, Activity, LCU, YTD",
 NGDP Q,LCU,Activity,Revisions,,,,,,"Japan, NGDP, Excess savings, LCU",,,
-NGDP Q,LCU,Activity,Agriculture,forestry and fishing,,,,,,,,
+NGDP Q,LCU,Activity,Agriculture,forestry and fishing,,,,,,"Taiwan, NGDP, Activity, LCU",,
 NGDP Q,LCU,Activity,Business activities,,,,,,"Japan, NGDP, Activity, LCU","Taiwan, NGDP, Activity, Tertiary, Business, LCU","China, NGDP, Activity, LCU","Korea, NGDP, Activity, LCU"
 NGDP Q,LCU,Activity,Construction,,,,,,,,,
 NGDP Q,LCU,Activity,Cultural and other services,,,,,,,,,"Korea, NGDP, Activity, Tertiary, Cultural and other services, LCU"
@@ -132,9 +132,9 @@ NGDP Q,LCU,Activity,Tertiary,Education,,,,,"Japan, NGDP, Activity, Tertiary, Edu
 NGDP Q,LCU,Activity,Tertiary,Human health and social work,,,,,"Japan, NGDP, Activity, Tertiary, Human health and social work, LCU","Taiwan, NGDP, Activity, Tertiary, Human health and social work, LCU",,"Korea, NGDP, Activity, Tertiary, Human health and social work, LCU"
 NGDP Q,LCU,Activity,Tertiary,Support services,,,,,,"Taiwan, NGDP, Activity, Tertiary, Support services, LCU",,
 NGDP Q,LCU,Activity,Tertiary,Other service,,,,,"Japan, NGDP, Activity, Tertiary, Other service, LCU","Taiwan, NGDP, Activity, Tertiary, Other services, LCU","China, NGDP, Activity, Tertiary, Others, LCU","Korea, NGDP, Activity, Tertiary, Other services, LCU"
-NGDP Q,USD,Expenditure,Per capita,,,,,,,,,
-NGDP Q,USD,Expenditure,GDP,,,,,,,,,"Korea, NGDP, Expenditure, USD"
-NGDP Q,USD,Expenditure,Domestic Demand,Per capita,,,,,,,,
+NGDP Q,USD,Expenditure,Per capita,,,,,,,"Taiwan, NGDP, NI,Per capita, USD m",,
+NGDP Q,USD,Expenditure,GDP,,,,,,,"Taiwan, NGDP, GNI, USD",,"Korea, NGDP, Expenditure, USD"
+NGDP Q,USD,Expenditure,Domestic Demand,Per capita,,,,,,"Taiwan, NGDP, Expenditure, Per capita, USD",,
 NGDP Q,USD,Expenditure,Domestic Demand,Total,,,,,,,,
 NGDP Q,USD,Expenditure,Domestic Demand,Private,,,,,,,,
 NGDP Q,USD,Expenditure,Domestic Demand,Public,,,,,,,,
@@ -208,7 +208,7 @@ NGDP Q,USD,Activity,Business activities,,,,,,,,"China, NGDP, Activity, USD","Kor
 NGDP Q,USD,Activity,Construction,,,,,,,,,
 NGDP Q,USD,Activity,Cultural and other services,,,,,,,,,"Korea, NGDP, Activity, Tertiary, Cultural and other services, USD"
 NGDP Q,USD,Activity,Education,,,,,,,,,
-NGDP Q,USD,Activity,Electricity,gas and water supply,,,,,,,"China, NGDP, Activity, USD, 12M sum",
+NGDP Q,USD,Activity,Electricity,gas and water supply,,,,,,"Taiwan, NGDP, Expenditure, USD, 12M sum","China, NGDP, Activity, USD, 12M sum",
 NGDP Q,USD,Activity,Finance and insurance,,,,,,,,,
 NGDP Q,USD,Activity,Gross domestic product at market prices,,,,,,,,,"Korea, NGDP, Activity, GDP at market prices, USD"
 NGDP Q,USD,Activity,Gross value added at market prices,,,,,,,,,"Korea, NGDP, Activity, Gross value added at basic prices, USD"
@@ -250,7 +250,7 @@ NGDP Q,USD,Activity,Tertiary,Total,,,,,,,,"Korea, NGDP, Activity, Tertiary, USD"
 NGDP Q,USD,Activity,Tertiary,Total excluding statistical discrepancy,,,,,,,,"Korea, NGDP, Expenditure, Statistical discrepancy, USD"
 NGDP Q,USD,Activity,Tertiary,Total excluding taxes and statistical discrepancy,,,,,,,,
 NGDP Q,USD,Activity,Tertiary,Valued-Added Tax,,,,,,,,
-NGDP Q,USD,Activity,Tertiary,Arts,sports and recreation,,,,,,,"Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, USD"
+NGDP Q,USD,Activity,Tertiary,Arts,sports and recreation,,,,,"Taiwan, NGDP, NI,Per capita, USD m.1",,"Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, USD"
 NGDP Q,USD,Activity,Tertiary,Wholesale and retail trade,,,,,,,,"Korea, NGDP, Activity, Tertiary, Wholesale and retail trade, USD"
 NGDP Q,USD,Activity,Tertiary,Transport and postal services,,,,,,,,
 NGDP Q,USD,Activity,Tertiary,Transport and storage,,,,,,,,"Korea, NGDP, Activity, Tertiary, Transportation and storage, USD"
@@ -261,7 +261,7 @@ NGDP Q,USD,Activity,Tertiary,Real estate,,,,,,,,"Korea, NGDP, Activity, Tertiary
 NGDP Q,USD,Activity,Tertiary,Professional,scientific and technical,,,,,,,"Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, USD"
 NGDP Q,USD,Activity,Tertiary,Public administration,Total,,,,,"Taiwan, NGDP, Expenditure, USD, 12M sum",,
 NGDP Q,USD,Activity,Tertiary,Public administration,defence and social security,,,,,,,"Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, USD"
-NGDP Q,USD,Activity,Tertiary,Education,,,,,,,,"Korea, NGDP, Activity, Tertiary, Education, USD"
+NGDP Q,USD,Activity,Tertiary,Education,,,,,,"Taiwan, NGDP, GNI,Per capita, USD m",,"Korea, NGDP, Activity, Tertiary, Education, USD"
 NGDP Q,USD,Activity,Tertiary,Human health and social work,,,,,,,,"Korea, NGDP, Activity, Tertiary, Human health and social work, USD"
 NGDP Q,USD,Activity,Tertiary,Support services,,,,,,,,
 NGDP Q,USD,Activity,Tertiary,Other service,,,,,,,,"Korea, NGDP, Activity, Tertiary, Other services, USD"
@@ -1338,10 +1338,10 @@ NGDP Q,"LCU, SA",Expenditure,Domestic Demand,Public,,,,,"Japan, NGDP, Expenditur
 NGDP Q,"LCU, SA",Expenditure,Domestic Demand,Government Consumption,,,,,"Japan, NGDP, Expenditure, Domestic Demand, Government Consumption, LCU, SA","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, LCU, SA","China, NGDP, Activity, LCU, SA, 12M average","Korea, NGDP, Expenditure, Domestic Demand, Government Consumption, LCU, SA"
 NGDP Q,"LCU, SA",Expenditure,Domestic Demand,Employee compensation per hour,,,,,,,,
 NGDP Q,"LCU, SA",Expenditure,Domestic Demand,Employee compensation per worker,,,,,,,,
-NGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Per capita,,,,,,,
+NGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Per capita,,,,,"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, LCU, SA",,"Korea, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, LCU, SA m"
 NGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Total,,,,,"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, LCU, SA",,
 NGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Excluding Imputed Rent,,,,,,,
-NGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Household Consumption,Per capita,,,,,,
+NGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Household Consumption,Per capita,,,,,,"Korea, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Per capita, LCU, SA m"
 NGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Household Consumption,Total,,,"Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, LCU, SA",,,"Korea, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, LCU, SA"
 NGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Household Consumption,Direct Purchases Abroad by Resident Households,,,"Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, LCU, SA",,,"Korea, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, LCU, SA"
 NGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Household Consumption,Direct Purchases in the Domestic Market by Non-Resident Households,,,"Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, LCU, SA tn",,,"Korea, NGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases in the Domestic Market by Non-Resident Households, LCU, SA"
@@ -1398,7 +1398,7 @@ NGDP Q,"LCU, SA",Activity,Import Duties,,,,,,,,,
 NGDP Q,"LCU, SA",Activity,GDP,,,,,,,,,
 NGDP Q,"LCU, SA",Activity,Total,,,,,,,,,
 NGDP Q,"LCU, SA",Activity,output gap,,,,,,,,,
-NGDP Q,"LCU, SA",Activity,HP filter trend,,,,,,"Japan, NGDP, Activity, LCU, SA tn","Taiwan, NGDP, Expenditure, LCU, SA",,"Korea, NGDP, Expenditure, LCU, SA, post-2012 trend"
+NGDP Q,"LCU, SA",Activity,HP filter trend,,,,,,"Japan, NGDP, Activity, LCU, SA tn","Taiwan, NGDP, Expenditure, LCU, SA",,"Korea, NGDP, Expenditure, LCU, SA, 2013-19 trend"
 NGDP Q,"LCU, SA",Activity,Revisions,,,,,,,,,
 NGDP Q,"LCU, SA",Activity,Agriculture,forestry and fishing,,,,,,,,
 NGDP Q,"LCU, SA",Activity,Business activities,,,,,,"Japan, NGDP, Activity, LCU, SA",,"China, NGDP, Activity, LCU, SA","Korea, NGDP, Activity, LCU, SA"
@@ -1430,19 +1430,19 @@ NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Food products and beverages,,,
 NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Textile products,,,,"Japan, NGDP, Activity, Secondary, Manufacturing, Textile products, LCU, SA",,,"Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, LCU, SA"
 NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Pulp,paper and paper products,,,"Japan, NGDP, Activity, Secondary, Manufacturing, Pulp, paper and paper products, LCU, SA",,,
 NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Chemicals,,,,"Japan, NGDP, Activity, Secondary, Manufacturing, Chemicals, LCU, SA",,"China, NGDP, Activity, Secondary, Industry, Manufacturing, LCU, SA",
-NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Petroleum and coal products,,,,"Japan, NGDP, Activity, Secondary, Manufacturing, Petroleum and coal products, LCU, SA",,,"Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, LCU, SA"
-NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Non-metallic mineral products,,,,"Japan, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, LCU, SA","Taiwan, NGDP, Expenditure, Domestic Demand, LCU, SA, post-2012 trend",,"Korea, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, LCU, SA"
+NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Petroleum and coal products,,,,"Japan, NGDP, Activity, Secondary, Manufacturing, Petroleum and coal products, LCU, SA","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, LCU, SA, Poly 2013-19 trend",,"Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, LCU, SA"
+NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Non-metallic mineral products,,,,"Japan, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, LCU, SA","Taiwan, NGDP, Expenditure, Domestic Demand, LCU, SA, % of Poly 2013-19 trend",,"Korea, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, LCU, SA"
 NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Fabricated metal products,,,,,,,
 NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,General-purpose,production and business oriented machinery,,,"Japan, NGDP, Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, LCU, SA",,,"Korea, NGDP, Activity, Secondary, Manufacturing, Machinery and equipment, LCU, SA"
 NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Electrical machinery,equipment and supplies,,,"Japan, NGDP, Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, LCU, SA",,,
 NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Information and communication electronics equipment,,,,"Japan, NGDP, Activity, Secondary, Manufacturing, Information and communication electronics equipment, LCU, SA",,,"Korea, NGDP, Activity, Secondary, Manufacturing, Electrical equipment, LCU, SA"
 NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Transport equipment,,,,"Japan, NGDP, Activity, Secondary, Manufacturing, Transport equipment, LCU, SA",,,"Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, LCU, SA"
-NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Other manufacturing,,,,"Japan, NGDP, Activity, Secondary, Manufacturing, Other manufacturing, LCU, SA","Taiwan, NGDP, Expenditure, LCU, SA, post-2012 trend",,
+NGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Other manufacturing,,,,"Japan, NGDP, Activity, Secondary, Manufacturing, Other manufacturing, LCU, SA","Taiwan, NGDP, Expenditure, LCU, SA, % of 2013-19 trend",,
 NGDP Q,"LCU, SA",Activity,Secondary,Electricity,gas and water supply,waste management service,,,"Japan, NGDP, Activity, Secondary, Electricity, gas and water supply, waste management service, LCU, SA",,,"Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, LCU, SA"
 NGDP Q,"LCU, SA",Activity,Secondary,Construction,,,,,"Japan, NGDP, Activity, Secondary, Construction, LCU, SA",,"China, NGDP, Activity, Secondary, Construction, LCU, SA","Korea, NGDP, Activity, Secondary, Construction, LCU, SA"
 NGDP Q,"LCU, SA",Activity,Secondary,Utilities,Total,,,,,,,"Korea, NGDP, Activity, Secondary, Utilities, LCU, SA"
 NGDP Q,"LCU, SA",Activity,Secondary,Utilities,Electricity and gas,,,,"Japan, NGDP, Activity, Secondary, LCU, SA tn",,,"Korea, NGDP, Activity, Secondary, Utilities, Electricity, LCU, SA"
-NGDP Q,"LCU, SA",Activity,Secondary,Utilities,Water supply,,,,,,,
+NGDP Q,"LCU, SA",Activity,Secondary,Utilities,Water supply,,,,,"Taiwan, NGDP, Expenditure, LCU, SA, % of Poly 2013-19 trend",,
 NGDP Q,"LCU, SA",Activity,Tertiary,Total,,,,,"Japan, NGDP, Activity, Tertiary, LCU, SA",,,"Korea, NGDP, Activity, Tertiary, LCU, SA"
 NGDP Q,"LCU, SA",Activity,Tertiary,Total excluding statistical discrepancy,,,,,"Japan, NGDP, Activity, Statistical discrepancy, LCU, SA tn",,,"Korea, NGDP, Expenditure, Statistical discrepancy, LCU, SA"
 NGDP Q,"LCU, SA",Activity,Tertiary,Total excluding taxes and statistical discrepancy,,,,,,,,
@@ -1455,7 +1455,7 @@ NGDP Q,"LCU, SA",Activity,Tertiary,Accommodation and food services,,,,,"Japan, N
 NGDP Q,"LCU, SA",Activity,Tertiary,Information and communications,,,,,"Japan, NGDP, Activity, Tertiary, Information and communications, LCU, SA",,,"Korea, NGDP, Activity, Tertiary, Information and communication, LCU, SA"
 NGDP Q,"LCU, SA",Activity,Tertiary,Finance and insurance,,,,,"Japan, NGDP, Activity, Tertiary, Finance and insurance, LCU, SA",,,"Korea, NGDP, Activity, Tertiary, Finance and insurance, LCU, SA"
 NGDP Q,"LCU, SA",Activity,Tertiary,Real estate,,,,,"Japan, NGDP, Activity, Tertiary, Real estate, LCU, SA",,,"Korea, NGDP, Activity, Tertiary, Real estate, LCU, SA"
-NGDP Q,"LCU, SA",Activity,Tertiary,Professional,scientific and technical,,,,"Japan, NGDP, Activity, Tertiary, Professional, scientific and technical, LCU, SA",,,"Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, LCU, SA"
+NGDP Q,"LCU, SA",Activity,Tertiary,Professional,scientific and technical,,,,"Japan, NGDP, Activity, Tertiary, Professional, scientific and technical, LCU, SA","Taiwan, NGDP, Expenditure, LCU, SA, Poly 2013-19 trend",,"Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, LCU, SA"
 NGDP Q,"LCU, SA",Activity,Tertiary,Public administration,Total,,,,"Japan, NGDP, Activity, Tertiary, Public administration, LCU, SA",,,
 NGDP Q,"LCU, SA",Activity,Tertiary,Public administration,defence and social security,,,,,,,"Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, LCU, SA"
 NGDP Q,"LCU, SA",Activity,Tertiary,Education,,,,,"Japan, NGDP, Activity, Tertiary, Education, LCU, SA",,"China, NGDP, Activity, Tertiary, LCU, SA","Korea, NGDP, Activity, Tertiary, Education, LCU, SA"
@@ -1595,14 +1595,14 @@ NGDP Q,"USD, SA",Activity,Tertiary,Education,,,,,,,,"Korea, NGDP, Activity, Tert
 NGDP Q,"USD, SA",Activity,Tertiary,Human health and social work,,,,,,,,"Korea, NGDP, Activity, Tertiary, Human health and social work, USD, SA"
 NGDP Q,"USD, SA",Activity,Tertiary,Support services,,,,,,,,
 NGDP Q,"USD, SA",Activity,Tertiary,Other service,,,,,,,,"Korea, NGDP, Activity, Tertiary, Other services, USD, SA"
-NGDP Q,"LCU, % YoY, SA",Expenditure,Per capita,,,,,,,,,
+NGDP Q,"LCU, % YoY, SA",Expenditure,Per capita,,,,,,"Japan, NGDP, Income, Households, NGDI, LCU, % YoY, SA",,,
 NGDP Q,"LCU, % YoY, SA",Expenditure,GDP,,,,,,"Japan, NGDP, Households, NGDI, LCU, % YoY, SA",,,"Korea, NGDP, Expenditure, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Per capita,,,,,,,,
 NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Total,,,,,,,,"Korea, NGDP, Expenditure, Domestic Demand, LCU, % YoY, SA"
-NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Private,,,,,"Japan, NGDP, Households, Property income, net, LCU, % YoY, SA",,,
-NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Public,,,,,,,,
-NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Government Consumption,,,,,,,,"Korea, NGDP, Expenditure, Domestic Demand, Government Consumption, LCU, % YoY, SA"
-NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Employee compensation per hour,,,,,"Japan, NGDP, Households, Compensation of employees, receivable, LCU, % YoY, SA",,,
+NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Private,,,,,"Japan, NGDP, Income, Households, Property income, net, LCU, % YoY, SA",,,
+NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Public,,,,,"Japan, NGDP, Income, Households, Saving, LCU, % YoY, SA",,,
+NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Government Consumption,,,,,"Japan, NGDP, Income, Households, Consumption of households, LCU, % YoY, SA",,,"Korea, NGDP, Expenditure, Domestic Demand, Government Consumption, LCU, % YoY, SA"
+NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Employee compensation per hour,,,,,"Japan, NGDP, Income, Households, Compensation of employees, receivable, LCU, % YoY, SA",,,
 NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Employee compensation per worker,,,,,,,,
 NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Private Consumption,Per capita,,,,,,,
 NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Private Consumption,Total,,,,,,,
@@ -1652,8 +1652,8 @@ NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Gross Capital Formation,Gros
 NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Gross Capital Formation,Inventories,Total,,,,,,"Korea, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Inventories, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Gross Capital Formation,Inventories,Private,,,,,,
 NGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Gross Capital Formation,Inventories,Public,,,,,,
-NGDP Q,"LCU, % YoY, SA",Expenditure,Net Exports of Goods and Services Contribution,,,,,,"Japan, NGDP, Households, Net social contributions, payable, LCU, % YoY, SA",,,
-NGDP Q,"LCU, % YoY, SA",Expenditure,Net Exports of Goods and Services,Total,,,,,"Japan, NGDP, Households, Other current transfers, net, LCU, % YoY, SA",,,
+NGDP Q,"LCU, % YoY, SA",Expenditure,Net Exports of Goods and Services Contribution,,,,,,"Japan, NGDP, Income, Households, Net social contributions, payable, LCU, % YoY, SA",,,
+NGDP Q,"LCU, % YoY, SA",Expenditure,Net Exports of Goods and Services,Total,,,,,"Japan, NGDP, Income, Households, Other current transfers, net, LCU, % YoY, SA",,,
 NGDP Q,"LCU, % YoY, SA",Expenditure,Net Exports of Goods and Services,Exports of Goods and Services,Total,,,,,,,"Korea, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Expenditure,Net Exports of Goods and Services,Exports of Goods and Services,Goods,,,,,,,"Korea, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Expenditure,Net Exports of Goods and Services,Exports of Goods and Services,Services,,,,,,,"Korea, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, LCU, % YoY, SA"
@@ -1713,17 +1713,17 @@ NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Total,,,,,,,,"Korea, NGDP, Activity, T
 NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Total excluding statistical discrepancy,,,,,,,,"Korea, NGDP, Expenditure, Statistical discrepancy, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Total excluding taxes and statistical discrepancy,,,,,,,,
 NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Valued-Added Tax,,,,,,,,
-NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Arts,sports and recreation,,,,,,,"Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, LCU, % YoY, SA"
+NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Arts,sports and recreation,,,,"Japan, NGDP, Income, Households, Operating surplus and mixed income, LCU, % YoY, SA",,,"Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Wholesale and retail trade,,,,,,,,"Korea, NGDP, Activity, Tertiary, Wholesale and retail trade, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Transport and postal services,,,,,,,,
 NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Transport and storage,,,,,,,,"Korea, NGDP, Activity, Tertiary, Transportation and storage, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Accommodation and food services,,,,,,,,"Korea, NGDP, Activity, Tertiary, Accommodation and food services, LCU, % YoY, SA"
-NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Information and communications,,,,,,,,"Korea, NGDP, Activity, Tertiary, Information and communication, LCU, % YoY, SA"
+NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Information and communications,,,,,"Japan, NGDP, Income, Households, Net taxes and social security, LCU, % YoY, SA",,,"Korea, NGDP, Activity, Tertiary, Information and communication, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Finance and insurance,,,,,,,,"Korea, NGDP, Activity, Tertiary, Finance and insurance, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Real estate,,,,,,,,"Korea, NGDP, Activity, Tertiary, Real estate, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Professional,scientific and technical,,,,,,,"Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Public administration,Total,,,,,,,
-NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Public administration,defence and social security,,,,"Japan, NGDP, Households, Taxes and social security, payable, LCU, % YoY, SA",,,"Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, LCU, % YoY, SA"
+NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Public administration,defence and social security,,,,"Japan, NGDP, Income, Households, Taxes and social security, payable, LCU, % YoY, SA",,,"Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Education,,,,,,,,"Korea, NGDP, Activity, Tertiary, Education, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Human health and social work,,,,,,,,"Korea, NGDP, Activity, Tertiary, Human health and social work, LCU, % YoY, SA"
 NGDP Q,"LCU, % YoY, SA",Activity,Tertiary,Support services,,,,,,,,
@@ -4268,8 +4268,8 @@ RGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Per capita,,,,"Japan,
 RGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Total,,,,,"Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, LCU",,"Korea, RGDP, Expenditure, Domestic Demand, Private Consumption, LCU"
 RGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Excluding Imputed Rent,,,,,,,
 RGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Per capita,,,"Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Per capita, LCU",,,
-RGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Total,,,"Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, LCU",,,"Korea, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, LCU"
-RGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Direct Purchases Abroad by Resident Households,,,"Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, LCU",,,
+RGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Total,,,"Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, LCU","Taiwan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, LCU",,"Korea, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, LCU"
+RGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Direct Purchases Abroad by Resident Households,,,"Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, LCU","Taiwan, RGDP, Expenditure, Domestic demand, Private consumption, Final consumption expenditure of resident households abroad, LCU",,
 RGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Direct Purchases in the Domestic Market by Non-Resident Households,,,"Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, LCU tn",,,
 RGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Excluding Imputed Rent,,,"Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, LCU",,,
 RGDP Q,LCU,Expenditure,Domestic Demand,Private Consumption,Household Consumption,Domestic Final Consumption,Total,,"Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, LCU",,,
@@ -5594,11 +5594,11 @@ RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Public,,,,,"Japan, RGDP, Expenditur
 RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Government Consumption,,,,,"Japan, RGDP, Expenditure, Domestic Demand, Government Consumption, LCU, SA","Taiwan, RGDP, Expenditure, Domestic Demand, Government Consumption, LCU, SA","China, RGDP, Activity, LCU, SA, 12M average","Korea, RGDP, Expenditure, Domestic Demand, Government Consumption, LCU, SA"
 RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Employee compensation per hour,,,,,,,,
 RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Employee compensation per worker,,,,,,,,
-RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Per capita,,,,,,,
+RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Per capita,,,,,"Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, LCU, SA",,"Korea, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, LCU, SA m"
 RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Total,,,,,"Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, LCU, SA",,
 RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Excluding Imputed Rent,,,,,,,
-RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Household Consumption,Per capita,,,,,,
-RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Household Consumption,Total,,,"Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, LCU, SA",,,"Korea, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, LCU, SA"
+RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Household Consumption,Per capita,,,,"Taiwan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Per capita, LCU, SA",,"Korea, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Per capita, LCU, SA m"
+RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Household Consumption,Total,,,"Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, LCU, SA","Taiwan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, LCU, SA",,"Korea, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, LCU, SA"
 RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Household Consumption,Direct Purchases Abroad by Resident Households,,,"Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, LCU, SA",,,"Korea, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases Abroad by Resident Households, LCU, SA"
 RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Household Consumption,Direct Purchases in the Domestic Market by Non-Resident Households,,,"Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases inthe Domestic Market by Non-Resident Households, LCU, SA tn",,,"Korea, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Direct Purchases in the Domestic Market by Non-Resident Households, LCU, SA"
 RGDP Q,"LCU, SA",Expenditure,Domestic Demand,Private Consumption,Household Consumption,Excluding Imputed Rent,,,"Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Excluding Imputed Rent, LCU, SA",,,
@@ -5654,7 +5654,7 @@ RGDP Q,"LCU, SA",Activity,Import Duties,,,,,,,,,
 RGDP Q,"LCU, SA",Activity,GDP,,,,,,,,,
 RGDP Q,"LCU, SA",Activity,Total,,,,,,,,,
 RGDP Q,"LCU, SA",Activity,output gap,,,,,,,,,
-RGDP Q,"LCU, SA",Activity,HP filter trend,,,,,,"Japan, RGDP, Activity, LCU, SA tn","Taiwan, RGDP, Expenditure, LCU, SA",,"Korea, RGDP, Expenditure, LCU, SA, post-2012 trend"
+RGDP Q,"LCU, SA",Activity,HP filter trend,,,,,,"Japan, RGDP, Activity, LCU, SA tn","Taiwan, RGDP, Expenditure, LCU, SA",,"Korea, RGDP, Expenditure, LCU, SA, 2013-19 trend"
 RGDP Q,"LCU, SA",Activity,Revisions,,,,,,"Japan, RGDP, Households, RGDI, LCU, SA",,,"Korea, RGDP, Activity, nan, LCU, SA"
 RGDP Q,"LCU, SA",Activity,Agriculture,forestry and fishing,,,,,,,,
 RGDP Q,"LCU, SA",Activity,Business activities,,,,,,"Japan, RGDP, Activity, LCU, SA","Taiwan, RGDP, Activity, Tertiary, Business, LCU, SA","China, RGDP, Activity, LCU, SA","Korea, RGDP, Activity, LCU, SA"
@@ -5689,7 +5689,7 @@ RGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Chemicals,,,,"Japan, RGDP, Act
 RGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Petroleum and coal products,,,,"Japan, RGDP, Activity, Secondary, Manufacturing, Petroleum and coal products, LCU, SA",,,"Korea, RGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, LCU, SA"
 RGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Non-metallic mineral products,,,,"Japan, RGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, LCU, SA",,,"Korea, RGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, LCU, SA"
 RGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Fabricated metal products,,,,,,,
-RGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,General-purpose,production and business oriented machinery,,,"Japan, RGDP, Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, LCU, SA",,,"Korea, RGDP, Activity, Secondary, Manufacturing, Machinery and equipment, LCU, SA"
+RGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,General-purpose,production and business oriented machinery,,,"Japan, RGDP, Activity, Secondary, Manufacturing, General-purpose, production and business oriented machinery, LCU, SA","Taiwan, RGDP, Activity, Secondary, Manufacturing, LCU, SA, % of Poly 2013-19 trend",,"Korea, RGDP, Activity, Secondary, Manufacturing, Machinery and equipment, LCU, SA"
 RGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Electrical machinery,equipment and supplies,,,"Japan, RGDP, Activity, Secondary, Manufacturing, Electrical machinery, equipment and supplies, LCU, SA",,,
 RGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Information and communication electronics equipment,,,,"Japan, RGDP, Activity, Secondary, Manufacturing, Information and communication electronics equipment, LCU, SA",,,"Korea, RGDP, Activity, Secondary, Manufacturing, Electrical equipment, LCU, SA"
 RGDP Q,"LCU, SA",Activity,Secondary,Manufacturing,Transport equipment,,,,"Japan, RGDP, Activity, Secondary, Manufacturing, Transport equipment, LCU, SA",,,"Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, LCU, SA"
@@ -5851,8 +5851,8 @@ RGDP Q,"USD, SA",Activity,Tertiary,Education,,,,,,,,
 RGDP Q,"USD, SA",Activity,Tertiary,Human health and social work,,,,,,,,
 RGDP Q,"USD, SA",Activity,Tertiary,Support services,,,,,,,,
 RGDP Q,"USD, SA",Activity,Tertiary,Other service,,,,,,,,
-RGDP Q,"LCU, % YoY, SA",Expenditure,Per capita,,,,,,"Japan, RGDP, Households, RGDI, LCU, % YoY, SA",,,
-RGDP Q,"LCU, % YoY, SA",Expenditure,GDP,,,,,,,,,"Korea, RGDP, Activity, GDI, LCU, % YoY, SA"
+RGDP Q,"LCU, % YoY, SA",Expenditure,Per capita,,,,,,"Japan, RGDP, Income, Households, RGDI, LCU, % YoY, SA",,,
+RGDP Q,"LCU, % YoY, SA",Expenditure,GDP,,,,,,"Japan, RGDP, Households, NGDI, LCU, % YoY, SA",,,"Korea, RGDP, Activity, GDI, LCU, % YoY, SA"
 RGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Per capita,,,,,,,,
 RGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Total,,,,,,,,"Korea, RGDP, Expenditure, Domestic Demand, LCU, % YoY, SA"
 RGDP Q,"LCU, % YoY, SA",Expenditure,Domestic Demand,Private,,,,,,,,
@@ -8512,7 +8512,7 @@ RGDP A,"USD, % QoQ, SA",Activity,Tertiary,Human health and social work,,,,,,,,
 RGDP A,"USD, % QoQ, SA",Activity,Tertiary,Support services,,,,,,,,
 RGDP A,"USD, % QoQ, SA",Activity,Tertiary,Other service,,,,,,,,
 Deflator Q,LCU,Expenditure,Per capita,,,,,,,,,
-Deflator Q,LCU,Expenditure,GDP,,,,,,,"Taiwan, Deflator, Activity, GDP, Index, LCU",,
+Deflator Q,LCU,Expenditure,GDP,,,,,,,"Taiwan, Deflator, Activity, GDP, Index, LCU",,"Korea, Deflator, Expenditure on GDP, Index, LCU"
 Deflator Q,LCU,Expenditure,Domestic Demand,Per capita,,,,,,,,
 Deflator Q,LCU,Expenditure,Domestic Demand,Total,,,,,"Japan, Deflator, Expenditure, Domestic Demand, Index, LCU",,,
 Deflator Q,LCU,Expenditure,Domestic Demand,Private,,,,,"Japan, Deflator, Expenditure, Domestic Demand, Private Demand, Index, LCU",,,
