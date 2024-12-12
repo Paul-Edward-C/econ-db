@@ -91,7 +91,7 @@ def update_selects_format():
         cat5_select,
     ]
     new_len = next((i for i, select in enumerate(selects_list) if select.value == ""), len(selects_list))
-        
+    print(new_len)
     if new_len == 6:
         new_layout = row(
             column(country_select, category_select, freq_select, sector_select),
@@ -476,6 +476,7 @@ def update_cat4_select(attrname, old, new):
                 + cat1_select.value
                 + cat2_select.value
                 + cat3_select.value
+                + cat4_select.value
             ]
             cat5_select.options = cat5_select_options
 

@@ -135,9 +135,9 @@ class ExportCleaner:
                 if len(check_list) == 1:
                     column = column.replace(check_list[0], cond_dict[unit_num][check_list[0]])
                     unit_replace_num += 1
-                else:
-                    if not any(i in column for i in ignore_list):
-                        logging.warning(f"Wrong unit order : {column}  {unit_num}")
+                # else:
+                    # if not any(i in column for i in ignore_list):
+                        # logging.warning(f"Wrong unit order : {column}  {unit_num}")
             new_columns.append(column)
 
         columns = new_columns
