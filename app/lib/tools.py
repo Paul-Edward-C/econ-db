@@ -35,6 +35,7 @@ class Tool:
         self.data_setting_backup.index.name = "name"
 
     def create_mapping_dict(self, df, keys, values, result=None, prefix=""):
+        print("keys: ", keys)
         if result is None:
             result = {}
 
@@ -45,8 +46,10 @@ class Tool:
             key = keys[0]
             for val in df[key].unique():
                 new_prefix = str(prefix) + str(val)
+                print("new_pref: ", new_prefix)
                 sub_df = df[df[key] == val]
                 result[new_prefix] = sub_df[keys[1]].unique().tolist()
+                print("res: ", result[new_prefix])
                 self.create_mapping_dict(df=sub_df, keys=keys[1:], values=values, result=result, prefix=new_prefix)
 
         self.mapping_dict = result
@@ -80,6 +83,7 @@ class Tool:
 
         mapping = pd.read_csv(category_structure[category_select.value]["path"])
         mapping = mapping[~mapping[country_select.value].isna()].replace(np.nan, "")
+        print(mapping)
         mapping_dict = self.create_mapping_dict(
             df=mapping,
             keys=mapping.columns[: category_structure[category_select.value]["length"] - 1],
@@ -565,7 +569,7 @@ class Setting:
             "Foreign Trade": {
                 "input_path": "db/mapping/export/export_mapping_template.xlsx",
                 "path": "db/mapping/export/export_mapping.csv",
-                "length": 6,
+                "length": 7,
                 "display_name": "",
             },
         }
