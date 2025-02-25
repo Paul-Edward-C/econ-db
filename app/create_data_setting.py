@@ -18,7 +18,9 @@ def main():
     parser.add_argument("--freq")
     parser.add_argument("--to_db", action="store_true")
     args = parser.parse_args()
-
+    print(args.category)
+    print(args.country)
+    print(args.freq)
     category_list = args.category.split(",") if args.category is not None else None
     country_list = args.country.split(",") if args.country is not None else None
     freq_list = args.freq.split(",") if args.freq is not None else None

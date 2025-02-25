@@ -6,6 +6,7 @@
 # ====================================================================================
 
 import os
+import pickle
 import warnings
 from datetime import datetime as dt
 from datetime import timedelta as td
@@ -35,7 +36,6 @@ class Tool:
         self.data_setting_backup.index.name = "name"
 
     def create_mapping_dict(self, df, keys, values, result=None, prefix=""):
-        print("keys: ", keys)
         if result is None:
             result = {}
 
@@ -46,10 +46,8 @@ class Tool:
             key = keys[0]
             for val in df[key].unique():
                 new_prefix = str(prefix) + str(val)
-                print("new_pref: ", new_prefix)
                 sub_df = df[df[key] == val]
                 result[new_prefix] = sub_df[keys[1]].unique().tolist()
-                print("res: ", result[new_prefix])
                 self.create_mapping_dict(df=sub_df, keys=keys[1:], values=values, result=result, prefix=new_prefix)
 
         self.mapping_dict = result
@@ -60,11 +58,17 @@ class Tool:
         self.general_mapping = pd.concat([df[df.columns[:length]], df[[country]]], axis=1)
 
     def create_selects(self):
+        
+        with open('.\jp_export_test.pkl', 'rb') as f:
+            data_dict = pickle.load(f)
 
-        structure = self.setting.structure
-        category_structure = self.setting.category_structure
-        country_select_options = list(structure.keys())
-        country_select = Select(
+        print("PICKLE:")
+        print(data_dict)
+
+        select_dict = {}
+
+        country_select_options = ["Japan", "Korea", "China", "Taiwan"]
+        select_dict["country_select"] = Select(
             value=country_select_options[0],
             options=country_select_options,
             width=self.setting.select_width,
@@ -72,8 +76,12 @@ class Tool:
             stylesheets=[self.setting.select_stylesheet],
         )
 
-        category_select_options = list(structure[country_select.value].keys())
-        category_select = Select(
+        print(data_dict[select_dict["country_select"].value + ", "])
+        print(data_dict[select_dict["country_select"].value + ", "][0])
+        curr_key = select_dict["country_select"].value + ", "
+        
+        category_select_options = data_dict[curr_key]
+        select_dict["category_select"] = Select(
             value=category_select_options[0],
             options=category_select_options,
             width=self.setting.select_width,
@@ -81,25 +89,12 @@ class Tool:
             stylesheets=[self.setting.select_stylesheet],
         )
 
-        mapping = pd.read_csv(category_structure[category_select.value]["path"])
-        mapping = mapping[~mapping[country_select.value].isna()].replace(np.nan, "")
-        print(mapping)
-        mapping_dict = self.create_mapping_dict(
-            df=mapping,
-            keys=mapping.columns[: category_structure[category_select.value]["length"] - 1],
-            values=mapping.columns[category_structure[category_select.value]["length"] - 1],
-        )
-        self.create_matched_columns_and_general_mapping(
-            df=mapping, country=country_select.value, length=category_structure[category_select.value]["length"]
-        )
+        print("CAT OPTIONS: ")
+        print(select_dict["category_select"].value)
 
-        first_term_options = sorted(mapping[mapping.columns[0]].unique().tolist())
-        freq_select_options = []
-        for option in first_term_options:
-            if option[-1] not in freq_select_options:
-                freq_select_options.append(option[-1])
-
-        freq_select = Select(
+        curr_key += select_dict["category_select"].value + ", "
+        freq_select_options = ["M"]
+        select_dict["freq_select"] = Select(
             value=freq_select_options[0],
             options=freq_select_options,
             width=self.setting.select_width,
@@ -107,150 +102,63 @@ class Tool:
             stylesheets=[self.setting.select_stylesheet],
         )
 
-        sector_select_options = []
-        for option in first_term_options:
-            if option[0] == 'N':
-                if 'Nominal' not in sector_select_options:
-                    sector_select_options.append("Nominal")
-            if option[0] == 'R':
-                if 'Real' not in sector_select_options:
-                    sector_select_options.append("Real")
-            if option[0] == 'D':
-                if 'Deflator' not in sector_select_options:
-                    sector_select_options.append("Deflator")
-        sector_select = Select(
-            value=sector_select_options[0],
-            options=sector_select_options,
-            width=self.setting.select_width,
-            title="Sector",
-            stylesheets=[self.setting.select_stylesheet],
-        )
+        print("FREQ OPTIONS:")
+        print(select_dict["freq_select"].options)
 
-        freq_sect_str = ''
-        if sector_select.value == 'Deflator':
-            freq_sect_str += 'Deflator '
-        elif sector_select.value == 'Nominal':
-            freq_sect_str += 'NGDP '
-        elif sector_select.value == 'Real':
-            freq_sect_str += 'RGDP '
-        freq_sect_str += freq_select.value
 
-        # unit_select_options = sorted(mapping_dict[freq_select.value])\
-        unit_select_options = sorted(mapping_dict[freq_sect_str])
-        unit_select = Select(
-            value="LCU",
-            options=unit_select_options,
-            width=self.setting.select_width,
-            title="Unit",
-            stylesheets=[self.setting.select_stylesheet],
-        )
-
-        # type_select_options = sorted(mapping_dict[freq_select.value + unit_select.value])
-        type_select_options = sorted(mapping_dict[freq_sect_str + unit_select.value])
-        type_select = Select(
-            value="Expenditure",
+        
+        type_select_options = data_dict[curr_key]
+        select_dict["type_select"] = Select(
+            value=type_select_options[0],
             options=type_select_options,
             width=self.setting.select_width,
             title="Type",
             stylesheets=[self.setting.select_stylesheet],
         )
 
-        # cat1_select_options = sorted(mapping_dict[freq_select.value + unit_select.value + type_select.value])
-        cat1_select_options = sorted(mapping_dict[freq_sect_str + unit_select.value + type_select.value])
-        cat1_select = Select(
-            value=cat1_select_options[0],
-            options=cat1_select_options,
-            width=self.setting.select_width,
-            title="Data category 1",
-            stylesheets=[self.setting.select_stylesheet],
-        )
+        print("type OPTIONS:")
+        print(select_dict["type_select"].options)
+        curr_cat = 1
+        curr_key += select_dict["type_select"].value + ", "
+        print(curr_key)
 
+        while(True):
+            if curr_key not in data_dict:
+                print("huh?")
+                break
+            
+            this_cat = "cat" + str(curr_cat)
+            select_dict[this_cat + "_select"] = Select(
+                value = data_dict[curr_key][0],
+                options = data_dict[curr_key],
+                width=self.setting.select_width,
+                title="Data category " + str(curr_cat),
+                stylesheets=[self.setting.select_stylesheet],
+            )
+            print(this_cat)
+            print(select_dict[this_cat + "_select"].options)
+            curr_key += select_dict[this_cat + "_select"].value + ", "
+            curr_cat += 1
 
+        print(len(select_dict))
 
-        # cat2_select_options = sorted(
-        #     mapping_dict[freq_select.value + unit_select.value + type_select.value + cat1_select.value]
-        # )
-        cat2_select_options = sorted(
-            mapping_dict[freq_sect_str + unit_select.value + type_select.value + cat1_select.value]
-        )
-        cat2_select = Select(
-            value=cat2_select_options[0],
-            options=cat2_select_options,
-            width=self.setting.select_width,
-            title="Data category 2",
-            stylesheets=[self.setting.select_stylesheet],
-        )
+        while(curr_cat is not 7):
+            this_cat = "cat" + str(curr_cat)
+            select_dict[this_cat + "_select"] = Select(
+                value = "",
+                options = [],
+                width=self.setting.select_width,
+                title="Data category " + str(curr_cat),
+                stylesheets=[self.setting.select_stylesheet],
+            )
+            print(this_cat)
+            print(select_dict[this_cat + "_select"].options)
+            curr_key = select_dict[this_cat + "_select"].value + ", "
+            curr_cat += 1
 
-        #cat3_select_options = sorted(
-        #    mapping_dict[
-        #        freq_select.value + unit_select.value + type_select.value + cat1_select.value + cat2_select.value
-        #    ]
-        #)
-        cat3_select_options = sorted(
-            mapping_dict[
-                freq_sect_str + unit_select.value + type_select.value + cat1_select.value + cat2_select.value
-            ]
-        )
-        cat3_select = Select(
-            value=cat3_select_options[0],
-            options=cat3_select_options,
-            width=self.setting.select_width,
-            title="Data category 3",
-            stylesheets=[self.setting.select_stylesheet],
-        )
-
-        cat4_select_options = sorted(
-            mapping_dict[
-                # freq_select.value
-                freq_sect_str
-                + unit_select.value
-                + type_select.value
-                + cat1_select.value
-                + cat2_select.value
-                + cat3_select.value
-            ]
-        )
-        cat4_select = Select(
-            value=cat4_select_options[0],
-            options=cat4_select_options,
-            width=self.setting.select_width,
-            title="Data category 4",
-            stylesheets=[self.setting.select_stylesheet],
-        )
-        cat5_select_options = sorted(
-            mapping_dict[
-                # freq_select.value
-                freq_sect_str
-                + unit_select.value
-                + type_select.value
-                + cat1_select.value
-                + cat2_select.value
-                + cat3_select.value
-                + cat4_select.value
-            ]
-        )
-        cat5_select = Select(
-            value=cat5_select_options[0],
-            options=cat4_select_options,
-            width=self.setting.select_width,
-            title="Data category 5",
-            stylesheets=[self.setting.select_stylesheet],
-        )
         
-        return (
-            country_select,
-            category_select,
-            freq_select,
-            sector_select,
-            unit_select,
-            type_select,
-            cat1_select,
-            cat2_select,
-            cat3_select,
-            cat4_select,
-            cat5_select,
-        )
-
+        return select_dict
+    
     def get_column_by_selects(
         self,
         country_select,
@@ -484,8 +392,10 @@ class Setting:
             "CN": {"CNY": "LCU", "USD": "USD"},
         }
         self.category_full_name_map = {
-            "export": "Foreign Trade",
-            "gdp": "National Accounts",
+            "Exports": "Foreign Trade",
+            "NGDP": "Nominal National Accounts",
+            "RGDP": "Real National Accounts",
+            "Deflator": "Deflator",
             "inflation": "Inflation"
         }
 
@@ -493,23 +403,30 @@ class Setting:
 
         # first three selects setting
         self.structure = {
-            "JP": {
-                "National Accounts": {
+            "Japan": {
+                "Imports": {
                     "Q": True,
                     "Quarterly_data_path": "db/jp/gdp/q/jp_gdp_q.csv",
                     "Quarterly_raw_data_path": "db/jp/gdp/q/jp_gdp_q_raw.csv",
                     "Quarterly_setting_path": "db/jp/gdp/q/jp_gdp_q_setting.csv",
                     "Quarterly_temp_setting_path": "db/jp/gdp/q/jp_gdp_q_setting_temp.csv",
                 },
-                "Foreign Trade": {
+                "Exports": {
                     "M": True,
                     "Monthly_data_path": "db/jp/export/m/jp_export_m.csv",
                     "Monthly_raw_data_path": "db/jp/export/m/jp_export_m_raw.csv",
                     "Monthly_setting_path": "db/jp/export/m/jp_export_m_setting.csv",
                     "Monthly_temp_setting_path": "db/jp/export/m/jp_export_m_setting_temp.csv",
                 },
+                "Trade Balance": {
+                    "M": True,
+                    "Monthly_data_path": "db/jp/export/m/jp_export_m.csv",
+                    "Monthly_raw_data_path": "db/jp/export/m/jp_export_m_raw.csv",
+                    "Monthly_setting_path": "db/jp/export/m/jp_export_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/jp/export/m/jp_export_m_setting_temp.csv",
+                }
             },
-            "TW": {
+            "Taiwan": {
                 "National Accounts": {
                     "Q": True,
                     "Quarterly_data_path": "db/tw/gdp/q/tw_gdp_q.csv",
@@ -525,7 +442,7 @@ class Setting:
                     "Monthly_temp_setting_path": "db/tw/export//m/tw_export_m_setting_temp.csv",
                 },
             },
-            "KR": {
+            "Korea": {
                 "National Accounts": {
                     "Q": True,
                     "Quarterly_data_path": "db/kr/gdp/q/kr_gdp_q.csv",
@@ -541,7 +458,7 @@ class Setting:
                     "Monthly_temp_setting_path": "db/kr/export/m/kr_export_m_setting_temp.csv",
                 },
             },
-            "CN": {
+            "China": {
                 "National Accounts": {
                     "Q": True,
                     "Quarterly_data_path": "db/cn/gdp/q/cn_gdp_q.csv",

@@ -488,6 +488,96 @@ def update_cat4_select(attrname, old, new):
 
         update_selects_format()
 
+def update_cat5_select(attrname, old, new):
+    freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
+    if category_select.value == "National Accounts":
+        try:
+            cat5_select_options = mapping_dict[
+                freq_sect_str
+                + unit_select.value
+                + type_select.value
+                + cat1_select.value
+                + cat2_select.value
+                + cat3_select.value
+                + cat4_select.value
+            ]
+            cat5_select.options = cat5_select_options
+
+            if cat5_select.value not in cat5_select_options:
+                cat5_select.value = cat5_select_options[0]
+        except Exception as e:
+            cat5_select.options = [""]
+            cat5_select.value = cat5_select.options[0]
+
+        update_selects_format()
+
+    if category_select.value == "Foreign Trade":
+        try:
+            cat5_select_options = mapping_dict[
+                "Monthly"
+                + sector_select.value
+                + type_select.value
+                + unit_select.value
+                + cat1_select.value
+                + cat2_select.value
+                + cat3_select.value
+                + cat4_select.value
+            ]
+            cat5_select.options = cat5_select_options
+
+            if cat5_select.value not in cat5_select_options:
+                cat5_select.value = cat5_select_options[0]
+        except Exception as e:
+            cat5_select.options = [""]
+            cat5_select.value = cat5_select.options[0]
+
+        update_selects_format()
+
+def update_cat6_select(attrname, old, new):
+    freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
+    if category_select.value == "National Accounts":
+        try:
+            cat5_select_options = mapping_dict[
+                freq_sect_str
+                + unit_select.value
+                + type_select.value
+                + cat1_select.value
+                + cat2_select.value
+                + cat3_select.value
+                + cat4_select.value
+            ]
+            cat5_select.options = cat5_select_options
+
+            if cat5_select.value not in cat5_select_options:
+                cat5_select.value = cat5_select_options[0]
+        except Exception as e:
+            cat5_select.options = [""]
+            cat5_select.value = cat5_select.options[0]
+
+        update_selects_format()
+
+    if category_select.value == "Foreign Trade":
+        try:
+            cat5_select_options = mapping_dict[
+                "Monthly"
+                + sector_select.value
+                + type_select.value
+                + unit_select.value
+                + cat1_select.value
+                + cat2_select.value
+                + cat3_select.value
+                + cat4_select.value
+            ]
+            cat5_select.options = cat5_select_options
+
+            if cat5_select.value not in cat5_select_options:
+                cat5_select.value = cat5_select_options[0]
+        except Exception as e:
+            cat5_select.options = [""]
+            cat5_select.value = cat5_select.options[0]
+
+        update_selects_format()
+
 def update_axis_position(attrname, old, new):  # Use to adjust background image position
     global main_p
 
@@ -930,66 +1020,46 @@ def drop_chart(old, new):
 
 
 def link_callback():
-    country_select.on_change(
+    select_dict["country_select"].on_change(
         "value",
         update_country_select,
         update_category_select,
         update_freq_select,
-        update_unit_select,
-        update_type_select,
         update_cat1_select,
         update_cat2_select,
         update_cat3_select,
         update_cat4_select,
+        update_cat5_select,
+        update_cat6_select,
     )
-    category_select.on_change(
+    select_dict["category_select"].on_change(
         "value",
         update_category_select,
         update_freq_select,
-        update_unit_select,
-        update_type_select,
         update_cat1_select,
         update_cat2_select,
         update_cat3_select,
         update_cat4_select,
+        update_cat5_select,
+        update_cat6_select,
     )
-    freq_select.on_change(
+    select_dict["freq_select"].on_change(
         "value",
         update_freq_select,
-        update_sector_select,
-        update_unit_select,
         update_type_select,
         update_cat1_select,
         update_cat2_select,
         update_cat3_select,
         update_cat4_select,
+        update_cat5_select,
+        update_cat6_select,
     )
-    sector_select.on_change(
-        "value",
-        update_freq_select,
-        update_unit_select,
-        update_type_select,
-        update_cat1_select,
-        update_cat2_select,
-        update_cat3_select,
-        update_cat4_select,
-    )
-    unit_select.on_change(
-        "value",
-        update_unit_select,
-        update_type_select,
-        update_cat1_select,
-        update_cat2_select,
-        update_cat3_select,
-        update_cat4_select,
-    )
-    type_select.on_change(
-        "value", update_type_select, update_cat1_select, update_cat2_select, update_cat3_select, update_cat4_select
-    )
-    cat1_select.on_change("value", update_cat1_select, update_cat2_select, update_cat3_select, update_cat4_select)
-    cat2_select.on_change("value", update_cat2_select, update_cat3_select, update_cat4_select)
-    cat3_select.on_change("value", update_cat3_select, update_cat4_select)
-    cat4_select.on_change("value", update_cat4_select)
+    select_dict["cat1_select"].on_change("value", update_cat1_select, update_cat2_select, update_cat3_select, update_cat4_select, update_cat5_select, update_cat6_select)
+    select_dict["cat2_select"].on_change("value", update_cat2_select, update_cat3_select, update_cat4_select, update_cat5_select, update_cat6_select)
+    select_dict["cat3_select"].on_change("value", update_cat3_select, update_cat4_select, update_cat5_select, update_cat6_select)
+    select_dict["cat4_select"].on_change("value", update_cat4_select, update_cat5_select, update_cat6_select)
+    select_dict["cat5_select"].on_change("value", update_cat5_select, update_cat6_select)
+    select_dict["cat6_select"].on_change("value", update_cat6_select)
 
     main_p.x_range.on_change("start", update_axis_position)
     main_p.extra_y_ranges["bi"].on_change("start", update_axis_position)
@@ -1001,43 +1071,25 @@ def link_callback():
 
 
 # =========CREATE SELECTS=========
-(
-    country_select,
-    category_select,
-    freq_select,
-    sector_select,
-    unit_select,
-    type_select,
-    cat1_select,
-    cat2_select,
-    cat3_select,
-    cat4_select,
-    cat5_select,
-) = tool.create_selects()
-mapping_dict = tool.mapping_dict
-mapping = tool.general_mapping
-matched_columns = tool.matched_columns
-freq_sect_str = ''
-if sector_select.value == 'Deflator':
-    freq_sect_str += 'Deflator '
-elif sector_select.value == 'Nominal':
-    freq_sect_str += 'NGDP '
-elif sector_select.value == 'Real':
-    freq_sect_str += 'RGDP '
-freq_sect_str += freq_select.value
+select_dict = tool.create_selects()
+freq = select_dict["freq_select"].value
 
-for i in setting.freq_data_mapping_map.keys():
-    if freq_sect_str in setting.freq_data_mapping_map[i]:
-        data, data_setting = tool.read_data(
-            data_path=setting.structure[country_select.value][category_select.value][
-                f"{setting.freq_full_name_map[i]}_data_path"
-            ],
-            setting_path=setting.structure[country_select.value][category_select.value][
-                f"{setting.freq_full_name_map[i]}_setting_path"
-            ],
-            matched_columns=matched_columns,
-        )
-        break
+print(freq)
+print(setting.freq_full_name_map[freq])
+data_path = setting.structure[select_dict["country_select"].value][select_dict["category_select"].value][
+            f"{setting.freq_full_name_map[freq]}_data_path"
+        ]
+setting_path = setting.structure[select_dict["country_select"].value][select_dict["category_select"].value][
+            f"{setting.freq_full_name_map[freq]}_setting_path"]
+matched_columns = tool.matched_columns
+
+for freq in setting.freq_data_mapping_map.keys():
+    data, data_setting = tool.read_data(
+        data_path=data_path,
+        setting_path=setting_path,
+        matched_columns=matched_columns,
+    )
+    break
 
 # =========CREATE GLOBAL OBJECTS=========
 
@@ -1137,9 +1189,9 @@ index_date_input = TextInput()
 # =========CONSTRUCT LAYOUT=========
 layout = column(
     row(
-        column(country_select, category_select, freq_select, sector_select),
-        column(unit_select, type_select, cat1_select, cat2_select),
-        column(cat3_select, cat4_select, cat5_select),
+        column(select_dict["country_select"], select_dict["category_select"], select_dict["freq_select"]),
+        column(select_dict["cat1_select"], select_dict["cat2_select"], select_dict["cat3_select"]),
+        column(select_dict["cat4_select"], select_dict["cat5_select"], select_dict["cat6_select"])
     ),
     row(column(row(add_button, download_button), row(index_toggle, index_date_input)), multichoice),
     row(column(main_p, sub_p), column(datatable)),

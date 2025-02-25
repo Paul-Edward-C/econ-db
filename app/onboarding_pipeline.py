@@ -48,6 +48,7 @@ def main():
         )
     os.system(command=command)
 
+"""
     # match mapping
     if args.to_db:
         if args.to_output:
@@ -85,6 +86,7 @@ def main():
             )
 
     os.system(command=command)
+    """
 
 
 if __name__ == "__main__":
