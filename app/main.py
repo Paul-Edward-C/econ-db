@@ -8,6 +8,7 @@
 # ====================================================================================
 # Debug Imports
 import ctypes
+import pickle
 from bokeh.models import TabPanel, Tabs, Button, Paragraph
 from tornado.ioloop import IOLoop
 from bokeh.server.server import Server
@@ -78,505 +79,289 @@ first_add = True      # remove once index button is fixed
 
 def update_selects_format():
     selects_list = [
-        country_select,
-        category_select,
-        freq_select,
-        sector_select,
-        unit_select,
-        type_select,
-        cat1_select,
-        cat2_select,
-        cat3_select,
-        cat4_select,
-        cat5_select,
+        select_dict["country_select"],
+        select_dict["category_select"],
+        select_dict["freq_select"],
+        select_dict["cat1_select"],
+        select_dict["cat2_select"],
+        select_dict["cat3_select"],
+        select_dict["cat4_select"],
+        select_dict["cat5_select"],
+        select_dict["cat6_select"],
+        select_dict["cat7_select"],
+        select_dict["cat8_select"],
     ]
     new_len = next((i for i, select in enumerate(selects_list) if select.value == ""), len(selects_list))
+    new_len += 1
     print(new_len)
+    if new_len == 5:
+        new_layout = row(
+            column(select_dict["country_select"], select_dict["category_select"], select_dict["freq_select"], select_dict["type_select"]),
+            column(select_dict["cat1_select"]),
+            column(),
+        )
     if new_len == 6:
         new_layout = row(
-            column(country_select, category_select, freq_select, sector_select),
-            column(unit_select, type_select),
+            column(select_dict["country_select"], select_dict["category_select"], select_dict["freq_select"], select_dict["type_select"]),
+            column(select_dict["cat1_select"], select_dict["cat2_select"]),
             column(),
         )
 
     if new_len == 7:
         new_layout = row(
-            column(country_select, category_select, freq_select, sector_select),
-            column(unit_select, type_select, cat1_select),
+            column(select_dict["country_select"], select_dict["category_select"], select_dict["freq_select"], select_dict["type_select"]),
+            column(select_dict["cat1_select"], select_dict["cat2_select"], select_dict["cat3_select"]),
             column(),
         )
     elif new_len == 8:
         new_layout = row(
-            column(country_select, category_select, freq_select, sector_select),
-            column(unit_select, type_select, cat1_select),
-            column(cat2_select),
+            column(select_dict["country_select"], select_dict["category_select"], select_dict["freq_select"], select_dict["type_select"]),
+            column(select_dict["cat1_select"], select_dict["cat2_select"], select_dict["cat3_select"]),
+            column(select_dict["cat4_select"]),
         )
     elif new_len == 9:
         new_layout = row(
-            column(country_select, category_select, freq_select, sector_select),
-            column(unit_select, type_select, cat1_select),
-            column(cat2_select, cat3_select),
+            column(select_dict["country_select"], select_dict["category_select"], select_dict["freq_select"], select_dict["type_select"]),
+            column(select_dict["cat1_select"], select_dict["cat2_select"], select_dict["cat3_select"]),
+            column(select_dict["cat4_select"], select_dict["cat5_select"]),
         )
     elif new_len == 10:
         new_layout = row(
-            column(country_select, category_select, freq_select, sector_select),
-            column(unit_select, type_select, cat1_select),
-            column(cat2_select, cat3_select, cat4_select),
+            column(select_dict["country_select"], select_dict["category_select"], select_dict["freq_select"], select_dict["type_select"]),
+            column(select_dict["cat1_select"], select_dict["cat2_select"], select_dict["cat3_select"]),
+            column(select_dict["cat4_select"], select_dict["cat5_select"], select_dict["cat6_select"]),
         )
     elif new_len == 11:
         new_layout = row(
-            column(country_select, category_select, freq_select, sector_select),
-            column(unit_select, type_select, cat1_select, cat2_select),
-            column(cat3_select, cat4_select, cat5_select),
+            column(select_dict["country_select"], select_dict["category_select"], select_dict["freq_select"], select_dict["type_select"]),
+            column(select_dict["cat1_select"], select_dict["cat2_select"], select_dict["cat3_select"], select_dict["cat4_select"]),
+            column(select_dict["cat5_select"], select_dict["cat6_select"], select_dict["cat7_select"]),
         )
     layout.children[0] = new_layout
 
-def make_freq_sect_str(freq_val, sect_val):
-    if freq_select.value == "M":
-        return "Monthly"
-    freq_sect_str = ''
-    if sector_select.value == 'Deflator':
-        freq_sect_str += 'Deflator '
-    elif sector_select.value == 'Nominal':
-        freq_sect_str += 'NGDP '
-    elif sector_select.value == 'Real':
-        freq_sect_str += 'RGDP '
-    freq_sect_str += freq_select.value
-    return freq_sect_str
 
 def update_country_select(attrname, old, new):
-    category_select_options = list(setting.structure[country_select.value].keys())
-    category_select.options = category_select_options
-    if category_select.value not in category_select_options:
-        category_select.value = category_select_options[0]
+    category_select_options = list(setting.structure[select_dict["country_select"].value].keys())
+    select_dict["country_select"].options = category_select_options
+    if select_dict["country_select"].value not in category_select_options:
+        select_dict["country_select"].value = category_select_options[0]
 
 
 def update_category_select(attrname, old, new):
-    # Change to new columns
-    os.chdir(dir_path)
-    mapping_raw = pd.read_csv(setting.category_structure[category_select.value]["path"])
-    mapping_raw = mapping_raw[~mapping_raw[country_select.value].isna()].replace(np.nan, "")
 
-    category_len = setting.category_structure[category_select.value]["length"]
+    with open('.\jp_export_test.pkl', 'rb') as f:
+        data_dict = pickle.load(f)
 
-    global mapping_dict
-    mapping_dict = tool.create_mapping_dict(
-        df=mapping_raw, keys=mapping_raw.columns[: category_len - 1], values=mapping_raw.columns[category_len - 1]
-    )
+    print("PICKLE:")
+    print(data_dict)
 
-    # Create new general mapping and matched columns
-    tool.create_matched_columns_and_general_mapping(
-        df=mapping_raw, country=country_select.value, length=setting.category_structure[category_select.value]["length"]
-    )
+    curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", "
 
-    global mapping
-    mapping = tool.general_mapping
+    print(curr_key)
 
-    global matched_columns
-    matched_columns = tool.matched_columns
+    print(data_dict[curr_key])
 
-    # Create options for next select
-    first_term_options = sorted(mapping[mapping.columns[0]].unique().tolist())
-    freq_select_options = []
-    for option in first_term_options:
-        if option == "Monthly":
-            if "M" not in freq_select_options:
-                freq_select_options.append(option[0])
-        else:
-            if option[-1] not in freq_select_options:
-                freq_select_options.append(option[-1])
-
-
-    sector_select_options = []
-    for option in first_term_options:
-        if option[0] == 'N':
-            if 'Nominal' not in sector_select_options:
-                sector_select_options.append("Nominal")
-        if option[0] == 'R':
-            if 'Real' not in sector_select_options:
-                sector_select_options.append("Real")
-        if option[0] == 'D':
-            if 'Deflator' not in sector_select_options:
-                sector_select_options.append("Deflator")
-    freq_select.options = freq_select_options
-    sector_select.options = sector_select_options
-    if freq_select.value not in freq_select_options:
-        freq_select.value = freq_select_options[0]
+    select_dict["type_select"].options = data_dict[curr_key]
+    if select_dict["type_select"].value not in select_dict["type_select"].options:
+        select_dict["type_select"].value = select_dict["type_select"].options[0]
     
-
+# IGNORE UNTIL OTHER FREQS IMPLEMENTED
 def update_freq_select(attrname, old, new):
     # Change data source and data setting
     global data, data_setting
 
-    freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
-
     for i in setting.freq_data_mapping_map.keys():
         if freq_sect_str in setting.freq_data_mapping_map[i]:
             data, data_setting = tool.read_data(
-                data_path=setting.structure[country_select.value][category_select.value][
+                data_path=setting.structure[select_dict["country_select"].value][select_dict["category_select"].value][
                     f"{setting.freq_full_name_map[i]}_data_path"
                 ],
-                setting_path=setting.structure[country_select.value][category_select.value][
+                setting_path=setting.structure[select_dict["country_select"].value][select_dict["category_select"].value][
                     f"{setting.freq_full_name_map[i]}_setting_path"
                 ],
                 matched_columns=matched_columns,
             )
             break
 
-    
-    if category_select.value == "Foreign Trade":
-        sector_select_options = mapping_dict["Monthly"]
-        sector_select.options = sector_select_options
-        if sector_select.value not in sector_select_options:
-            sector_select.value = sector_select_options[0]
     else:
         sector_select_options = []
         first_term_options = sorted(mapping[mapping.columns[0]].unique().tolist())
-        for option in first_term_options:
-            if option[0] == 'N':
-                if 'Nominal' not in sector_select_options:
-                    sector_select_options.append("Nominal")
-            if option[0] == 'R':
-                if 'Real' not in sector_select_options:
-                    sector_select_options.append("Real")
-            if option[0] == 'D':
-                if 'Deflator' not in sector_select_options:
-                    sector_select_options.append("Deflator")
-        if sector_select.value not in sector_select_options:
-            sector_select.value = sector_select_options[0]
-        
-        freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
         
         unit_select_options = mapping_dict[freq_sect_str]
         unit_select.options = unit_select_options
         if unit_select.value not in unit_select_options:
             unit_select.value = unit_select_options[0]
-
-def update_sector_select(attrname, old, new):
-    # Change data source and data setting
-    if category_select.value == "National Accounts":
-        global data, data_setting
-        freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
-
-        for i in setting.freq_data_mapping_map.keys():
-            if freq_sect_str in setting.freq_data_mapping_map[i]:
-                data, data_setting = tool.read_data(
-                    data_path=setting.structure[country_select.value][category_select.value][
-                        f"{setting.freq_full_name_map[i]}_data_path"
-                    ],
-                    setting_path=setting.structure[country_select.value][category_select.value][
-                        f"{setting.freq_full_name_map[i]}_setting_path"
-                    ],
-                    matched_columns=matched_columns,
-                )
-                break
-
-        unit_select_options = mapping_dict[freq_sect_str]
-        unit_select.options = unit_select_options
-
-        if unit_select.value not in unit_select_options:
-            unit_select.value = unit_select_options[0]
-    
-    elif category_select.value == "Foreign Trade":
-        type_select_options = mapping_dict["Monthly" + sector_select.value]
-        type_select.options = type_select_options
-
-        if type_select.value not in type_select_options:
-            type_select.value = type_select_options[0]
-
-
-def update_unit_select(attrname, old, new):
-    if category_select.value == "National Accounts":
-        freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
-        type_select_options = mapping_dict[freq_sect_str + unit_select.value]
-        type_select.options = type_select_options
-
-        if type_select.value not in type_select_options:
-            type_select.value = type_select_options[0]
-
-    elif category_select.value == "Foreign Trade":
-        try:
-            type_select_options = mapping_dict["Monthly" + sector_select.value]
-            type_select.options = type_select_options
-
-            if type_select.value not in type_select_options:
-                type_select.value = type_select_options[0]
-
-            cat1_select_options = mapping_dict[
-                "Monthly" + unit_select.value + type_select.value + unit_select.value
-            ]
-            cat1_select.options = cat1_select_options
-
-            if cat1_select.value not in cat1_select_options:
-                cat1_select.value = cat1_select_options[0]
-
-        except Exception as e:
-            cat1_select.options = [""]
-            cat1_select.value = cat1_select.options[0]
 
 
 def update_type_select(attrname, old, new):
-    if category_select.value == "National Accounts":
-        freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
-        cat1_select_options = mapping_dict[freq_sect_str + unit_select.value + type_select.value]
-        cat1_select.options = cat1_select_options
+    with open('.\jp_export_test.pkl', 'rb') as f:
+        data_dict = pickle.load(f)
 
-        if cat1_select.value not in cat1_select_options:
-            cat1_select.value = cat1_select_options[0]
+    print("PICKLE:")
+    print(data_dict)
 
-    elif category_select.value == "Foreign Trade":
-        unit_select_options = mapping_dict["Monthly" + sector_select.value + type_select.value]
-        unit_select.options = unit_select_options
+    curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", "
 
-        if unit_select.value not in unit_select_options:
-            unit_select.value = unit_select_options[0]
+    print(curr_key)
 
-        cat1_select_options = mapping_dict[
-            "Monthly" + sector_select.value + type_select.value + unit_select.value
-        ]
-        cat1_select.options = cat1_select_options
-        if cat1_select.value not in cat1_select_options:
-            cat1_select.value = cat1_select_options[0]
+    if curr_key in data_dict:
+        print(data_dict[curr_key])
+        select_dict["cat1_select"].options = data_dict[curr_key]
+        if select_dict["cat1_select"].value not in select_dict["cat1_select"].options:
+            select_dict["cat1_select"].value = select_dict["cat1_select"].options[0]
+        
+    else:
+        select_dict["cat1_select"].options = []
+        select_dict["cat1_select"].value = ""
+
+    update_selects_format()
 
 
 def update_cat1_select(attrname, old, new):
-    freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
-    if category_select.value == "National Accounts":
-        try:
-            cat2_select_options = mapping_dict[
-                freq_sect_str + unit_select.value + type_select.value + cat1_select.value
-            ]
-            cat2_select.options = cat2_select_options
+    with open('.\jp_export_test.pkl', 'rb') as f:
+        data_dict = pickle.load(f)
 
-            if cat2_select.value not in cat2_select_options:
-                cat2_select.value = cat2_select_options[0]
+    print("PICKLE:")
+    print(data_dict)
 
-        except Exception as e:
-            cat2_select.options = [""]
-            cat2_select.value = cat2_select.options[0]
+    curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", "
 
-    if category_select.value == "Foreign Trade":
-        try:
-            cat2_select_options = mapping_dict[
-                "Monthly" + sector_select.value + type_select.value + unit_select.value + cat1_select.value
-            ]
-            cat2_select.options = cat2_select_options
+    print(curr_key)
 
-            if cat2_select.value not in cat2_select_options:
-                cat2_select.value = cat2_select_options[0]
+    if curr_key in data_dict:
+        print(data_dict[curr_key])
+        select_dict["cat2_select"].options = data_dict[curr_key]
+        if select_dict["cat2_select"].value not in select_dict["cat2_select"].options:
+            select_dict["cat2_select"].value = select_dict["cat2_select"].options[0]
 
-        except Exception as e:
-            cat2_select.options = [""]
-            cat2_select.value = cat2_select.options[0]
+    else:
+        select_dict["cat2_select"].options = []
+        select_dict["cat2_select"].value = ""
+
+    update_selects_format()
 
 
 def update_cat2_select(attrname, old, new):
-    freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
-    if category_select.value == "National Accounts":
-        try:
-            cat3_select_options = mapping_dict[
-                freq_sect_str + unit_select.value + type_select.value + cat1_select.value + cat2_select.value
-            ]
-            cat3_select.options = cat3_select_options
+    with open('.\jp_export_test.pkl', 'rb') as f:
+        data_dict = pickle.load(f)
 
-            if cat3_select.value not in cat3_select_options:
-                cat3_select.value = cat3_select_options[0]
+    print("PICKLE:")
+    print(data_dict)
 
-        except Exception as e:
-            cat3_select.options = [""]
-            cat3_select.value = cat3_select.options[0]
+    curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", "
 
-    
-    if category_select.value == "Foreign Trade":
-        try:
-            cat3_select_options = mapping_dict[
-                "Monthly" + sector_select.value + type_select.value + unit_select.value + cat1_select.value + cat2_select.value
-            ]
-            cat3_select.options = cat3_select_options
+    print(curr_key)
 
-            if cat3_select.value not in cat3_select_options:
-                cat3_select.value = cat3_select_options[0]
+    if curr_key in data_dict:
+        print(data_dict[curr_key])
+        select_dict["cat3_select"].options = data_dict[curr_key]
+        if select_dict["cat3_select"].value not in select_dict["cat3_select"].options:
+            select_dict["cat3_select"].value = select_dict["cat3_select"].options[0]
 
-        except Exception as e:
-            cat3_select.options = [""]
-            cat3_select.value = cat3_select.options[0]
+    else:
+        select_dict["cat3_select"].options = []
+        select_dict["cat3_select"].value = ""
 
+    update_selects_format()
 
 
 def update_cat3_select(attrname, old, new):
-    freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
-    if category_select.value == "National Accounts":
-        try:
-            cat4_select_options = mapping_dict[
-                freq_sect_str
-                + unit_select.value
-                + type_select.value
-                + cat1_select.value
-                + cat2_select.value
-                + cat3_select.value
-            ]
-            cat4_select.options = cat4_select_options
+    with open('.\jp_export_test.pkl', 'rb') as f:
+        data_dict = pickle.load(f)
 
-            if cat4_select.value not in cat4_select_options:
-                cat4_select.value = cat4_select_options[0]
-        except Exception as e:
-            cat4_select.options = [""]
-            cat4_select.value = cat4_select.options[0]
+    print("PICKLE:")
+    print(data_dict)
 
-    if category_select.value == "Foreign Trade":
-        try:
-            cat4_select_options = mapping_dict[
-                "Monthly"
-                + sector_select.value
-                + type_select.value
-                + unit_select.value
-                + cat1_select.value
-                + cat2_select.value
-                + cat3_select.value
-            ]
-            cat4_select.options = cat4_select_options
+    curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", "
 
-            if cat4_select.value not in cat4_select_options:
-                cat4_select.value = cat4_select_options[0]
-        except Exception as e:
-            cat4_select.options = [""]
-            cat4_select.value = cat4_select.options[0]
+
+    print(curr_key)
+
+    if curr_key in data_dict:
+        print(data_dict[curr_key])
+        select_dict["cat4_select"].options = data_dict[curr_key]
+        if select_dict["cat4_select"].value not in select_dict["cat4_select"].options:
+            select_dict["cat4_select"].value = select_dict["cat4_select"].options[0]
+
+    else:
+        select_dict["cat4_select"].options = []
+        select_dict["cat4_select"].value = ""
+
+    update_selects_format()
 
 
 def update_cat4_select(attrname, old, new):
-    freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
-    if category_select.value == "National Accounts":
-        try:
-            cat5_select_options = mapping_dict[
-                freq_sect_str
-                + unit_select.value
-                + type_select.value
-                + cat1_select.value
-                + cat2_select.value
-                + cat3_select.value
-                + cat4_select.value
-            ]
-            cat5_select.options = cat5_select_options
+    with open('.\jp_export_test.pkl', 'rb') as f:
+        data_dict = pickle.load(f)
 
-            if cat5_select.value not in cat5_select_options:
-                cat5_select.value = cat5_select_options[0]
-        except Exception as e:
-            cat5_select.options = [""]
-            cat5_select.value = cat5_select.options[0]
+    print("PICKLE:")
+    print(data_dict)
 
-        update_selects_format()
+    curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", "
 
-    if category_select.value == "Foreign Trade":
-        try:
-            cat5_select_options = mapping_dict[
-                "Monthly"
-                + sector_select.value
-                + type_select.value
-                + unit_select.value
-                + cat1_select.value
-                + cat2_select.value
-                + cat3_select.value
-                + cat4_select.value
-            ]
-            cat5_select.options = cat5_select_options
 
-            if cat5_select.value not in cat5_select_options:
-                cat5_select.value = cat5_select_options[0]
-        except Exception as e:
-            cat5_select.options = [""]
-            cat5_select.value = cat5_select.options[0]
+    print(curr_key)
 
-        update_selects_format()
+    if curr_key in data_dict:
+        print(data_dict[curr_key])
+        select_dict["cat5_select"].options = data_dict[curr_key]
+        if select_dict["cat5_select"].value not in select_dict["cat5_select"].options:
+            select_dict["cat5_select"].value = select_dict["cat5_select"].options[0]
+
+    else:
+        select_dict["cat5_select"].options = []
+        select_dict["cat5_select"].value = ""
+
+    update_selects_format()
 
 def update_cat5_select(attrname, old, new):
-    freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
-    if category_select.value == "National Accounts":
-        try:
-            cat5_select_options = mapping_dict[
-                freq_sect_str
-                + unit_select.value
-                + type_select.value
-                + cat1_select.value
-                + cat2_select.value
-                + cat3_select.value
-                + cat4_select.value
-            ]
-            cat5_select.options = cat5_select_options
+    with open('.\jp_export_test.pkl', 'rb') as f:
+        data_dict = pickle.load(f)
 
-            if cat5_select.value not in cat5_select_options:
-                cat5_select.value = cat5_select_options[0]
-        except Exception as e:
-            cat5_select.options = [""]
-            cat5_select.value = cat5_select.options[0]
+    print("PICKLE:")
+    print(data_dict)
 
-        update_selects_format()
+    curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", " + select_dict["cat5_select"].value + ", "
 
-    if category_select.value == "Foreign Trade":
-        try:
-            cat5_select_options = mapping_dict[
-                "Monthly"
-                + sector_select.value
-                + type_select.value
-                + unit_select.value
-                + cat1_select.value
-                + cat2_select.value
-                + cat3_select.value
-                + cat4_select.value
-            ]
-            cat5_select.options = cat5_select_options
 
-            if cat5_select.value not in cat5_select_options:
-                cat5_select.value = cat5_select_options[0]
-        except Exception as e:
-            cat5_select.options = [""]
-            cat5_select.value = cat5_select.options[0]
+    print(curr_key)
 
-        update_selects_format()
+    if curr_key in data_dict:
+        print(data_dict[curr_key])
+        select_dict["cat6_select"].options = data_dict[curr_key]
+        if select_dict["cat6_select"].value not in select_dict["cat6_select"].options:
+            select_dict["cat6_select"].value = select_dict["cat6_select"].options[0]
+
+    else:
+        select_dict["cat6_select"].options = []
+        select_dict["cat6_select"].value = ""
+
+    update_selects_format()
+
 
 def update_cat6_select(attrname, old, new):
-    freq_sect_str = make_freq_sect_str(freq_select.value, sector_select.value)
-    if category_select.value == "National Accounts":
-        try:
-            cat5_select_options = mapping_dict[
-                freq_sect_str
-                + unit_select.value
-                + type_select.value
-                + cat1_select.value
-                + cat2_select.value
-                + cat3_select.value
-                + cat4_select.value
-            ]
-            cat5_select.options = cat5_select_options
+    with open('.\jp_export_test.pkl', 'rb') as f:
+        data_dict = pickle.load(f)
 
-            if cat5_select.value not in cat5_select_options:
-                cat5_select.value = cat5_select_options[0]
-        except Exception as e:
-            cat5_select.options = [""]
-            cat5_select.value = cat5_select.options[0]
+    print("PICKLE:")
+    print(data_dict)
 
-        update_selects_format()
+    curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", " + select_dict["cat5_select"].value + ", " + select_dict["cat6_select"].value + ", "
 
-    if category_select.value == "Foreign Trade":
-        try:
-            cat5_select_options = mapping_dict[
-                "Monthly"
-                + sector_select.value
-                + type_select.value
-                + unit_select.value
-                + cat1_select.value
-                + cat2_select.value
-                + cat3_select.value
-                + cat4_select.value
-            ]
-            cat5_select.options = cat5_select_options
 
-            if cat5_select.value not in cat5_select_options:
-                cat5_select.value = cat5_select_options[0]
-        except Exception as e:
-            cat5_select.options = [""]
-            cat5_select.value = cat5_select.options[0]
+    print(curr_key)
 
-        update_selects_format()
+    if curr_key in data_dict:
+        print(data_dict[curr_key])
+        select_dict["cat7_select"].options = data_dict[curr_key]
+        if select_dict["cat7_select"].value not in select_dict["cat7_select"].options:
+            select_dict["cat7_select"].value = select_dict["cat7_select"].options[0]
+
+    else:
+        select_dict["cat7_select"].options = []
+        select_dict["cat7_select"].value = ""
+
+    update_selects_format()
 
 def update_axis_position(attrname, old, new):  # Use to adjust background image position
     global main_p
@@ -635,23 +420,17 @@ def update_main_axis_range(attrname=None, old=None, new=None, expand_perc=1.2):
 
 def add_button_callback():
     freq_sect_str = ''
-    if sector_select.value == 'Deflator':
-        freq_sect_str += 'Deflator '
-    elif sector_select.value == 'Nominal':
-        freq_sect_str += 'NGDP '
-    elif sector_select.value == 'Real':
-        freq_sect_str += 'RGDP '
-    freq_sect_str += freq_select.value
+    freq_sect_str += select_dict["freq_select"].value
 
-    col_name = f"{tool.get_column_by_selects(country_select, freq_select, sector_select, unit_select, type_select, cat1_select, cat2_select, cat3_select, cat4_select, cat5_select, category_len=setting.category_structure[category_select.value]['length'])}_{country_select.value}"
-    if country_select.value == "TW" and "Taiwan" not in col_name:
-        col_name = "Taiwan, " + col_name
-    if country_select.value == "CN" and "China" not in col_name:
-        col_name = "China, " + col_name
-    if country_select.value == "KR" and "Korea" not in col_name:
-        col_name = "Korea, " + col_name
-    if country_select.value == "JP" and "Japan" not in col_name:
-        col_name = "Japan, " + col_name
+    col_name = ""
+
+    for sel in select_dict:
+        if select_dict[sel].value is not "":
+            col_name += select_dict[sel].value + ", "
+
+    col_name = col_name[:-2]
+
+    print(col_name)
     data_setting_object = tool.create_data_setting_object(data_setting, col_name)
     old_multichoice_values = multichoice.value
 
@@ -1025,6 +804,7 @@ def link_callback():
         update_country_select,
         update_category_select,
         update_freq_select,
+        update_type_select,
         update_cat1_select,
         update_cat2_select,
         update_cat3_select,
@@ -1046,6 +826,16 @@ def link_callback():
     select_dict["freq_select"].on_change(
         "value",
         update_freq_select,
+        update_type_select,
+        update_cat1_select,
+        update_cat2_select,
+        update_cat3_select,
+        update_cat4_select,
+        update_cat5_select,
+        update_cat6_select,
+    )
+    select_dict["type_select"].on_change(
+        "value",
         update_type_select,
         update_cat1_select,
         update_cat2_select,
@@ -1189,7 +979,7 @@ index_date_input = TextInput()
 # =========CONSTRUCT LAYOUT=========
 layout = column(
     row(
-        column(select_dict["country_select"], select_dict["category_select"], select_dict["freq_select"]),
+        column(select_dict["country_select"], select_dict["category_select"], select_dict["freq_select"], select_dict["type_select"]),
         column(select_dict["cat1_select"], select_dict["cat2_select"], select_dict["cat3_select"]),
         column(select_dict["cat4_select"], select_dict["cat5_select"], select_dict["cat6_select"])
     ),

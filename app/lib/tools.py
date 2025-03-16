@@ -142,7 +142,7 @@ class Tool:
 
         print(len(select_dict))
 
-        while(curr_cat is not 7):
+        while(curr_cat is not 9):
             this_cat = "cat" + str(curr_cat)
             select_dict[this_cat + "_select"] = Select(
                 value = "",
@@ -236,6 +236,7 @@ class Tool:
     def create_data_setting_object(self, data_setting, col_name):
         data_setting_backup_cols = ["display_name", "data_type", "chart_type"]
         data_col_name = "_".join(col_name.split("_")[:-1])
+        print(data_col_name)
         try:
             self.data_setting_backup.loc[col_name, data_setting_backup_cols] = data_setting.loc[data_col_name].tolist()
         except Exception as e:
