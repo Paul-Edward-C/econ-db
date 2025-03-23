@@ -419,6 +419,20 @@ def update_main_axis_range(attrname=None, old=None, new=None, expand_perc=1.2):
 
 
 def add_button_callback():
+
+    global data, data_setting
+
+    if select_dict["freq_select"].value is "M":
+        data, data_setting = tool.read_data(
+            data_path=setting.structure[select_dict["country_select"].value][select_dict["category_select"].value][
+                "Monthly_data_path"
+            ],
+            setting_path=setting.structure[select_dict["country_select"].value][select_dict["category_select"].value][
+                "Monthly_setting_path"
+            ],
+            matched_columns=matched_columns,
+        )
+
     freq_sect_str = ''
     freq_sect_str += select_dict["freq_select"].value
 
