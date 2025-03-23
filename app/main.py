@@ -432,6 +432,8 @@ def add_button_callback():
             ],
             matched_columns=matched_columns,
         )
+    print("DATA SETTING")
+    print(data_setting)
 
     freq_sect_str = ''
     freq_sect_str += select_dict["freq_select"].value
@@ -443,6 +445,8 @@ def add_button_callback():
             col_name += select_dict[sel].value + ", "
 
     col_name = col_name[:-2]
+    col_name = col_name.replace("M, ", "")
+    col_name = col_name.replace("Q, ", "")
 
     print(col_name)
     data_setting_object = tool.create_data_setting_object(data_setting, col_name)

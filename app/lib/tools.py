@@ -54,7 +54,8 @@ class Tool:
         return result
 
     def create_matched_columns_and_general_mapping(self, df, country, length):
-        self.matched_columns = df[country].tolist()
+        df = pd.read_csv("db/jp/export/m/jp_export_m.csv")
+        self.matched_columns = df.columns.tolist()
         self.general_mapping = pd.concat([df[df.columns[:length]], df[[country]]], axis=1)
 
     def create_selects(self):
