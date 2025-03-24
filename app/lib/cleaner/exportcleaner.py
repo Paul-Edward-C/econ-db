@@ -38,7 +38,7 @@ class ExportCleaner:
         unit_component = list(set(item for sublist in comb_list for item in sublist))
 
         columns = data.columns.tolist()
-
+        print(columns)
         # turn {currency} into LCU
         currencies = self.setting.country_currency_map[country]
         currency_replace_num = 0

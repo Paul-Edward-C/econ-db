@@ -17,6 +17,11 @@ class Data_Setting_Generator:
         print("how")
         freq_full = self.setting.freq_full_name_map[freq]
         print(freq_full)
+        if country == "JP":
+            country = "Japan"
+        if category == "export":
+            category = "Exports"
+        print(country)
 
         raw_data_path = self.setting.structure[country][category][f"{freq_full}_data_path"]
         print(raw_data_path)
@@ -25,14 +30,15 @@ class Data_Setting_Generator:
         data = pd.read_csv(raw_data_path, index_col=[0])
         print(data)
         temp_setting = pd.read_csv(temp_data_setting_path, index_col=None).set_index("cleaned_name")
-        print(temp_setting)
 
-        columns = data.columns.tolist()
+        columns = data.columns.to_list()
+        temp_columns = temp_setting["raw_data_name"].to_list()
+        print(temp_columns)
         data_setting = pd.DataFrame()
 
-        data_setting = self.create_chart_type(columns, data_setting)
-        data_setting = self.create_data_type(columns, data_setting, temp_setting=temp_setting)
-        data_setting = self.create_display_name(columns, data_setting, country)
+        data_setting = self.create_chart_type(temp_columns, data_setting)
+        data_setting = self.create_data_type(temp_columns, data_setting, temp_setting=temp_setting)
+        data_setting = self.create_display_name(temp_columns, data_setting, country)
 
         data_setting.index.name = "name"
         data_setting = data_setting[["display_name", "data_type", "chart_type"]]
@@ -75,6 +81,6 @@ class Data_Setting_Generator:
                 ] = f"{country}, {column}, bn"  # bn is temporary, after add more data will need a
                 # function top determine value display_name
             else:
-                data_setting.loc[column, col_name] = f"{country}, {column}"
+                data_setting.loc[column, col_name] = f"{column}"
 
         return data_setting

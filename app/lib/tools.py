@@ -238,10 +238,8 @@ class Tool:
         data_setting_backup_cols = ["display_name", "data_type", "chart_type"]
         data_col_name = "_".join(col_name.split("_")[:-1])
         print(data_col_name)
-        try:
-            self.data_setting_backup.loc[col_name, data_setting_backup_cols] = data_setting.loc[data_col_name].tolist()
-        except Exception as e:
-            pass
+        print(data_setting.loc[col_name])
+        self.data_setting_backup.loc[col_name, data_setting_backup_cols] = data_setting.loc[col_name].tolist()
         data_setting_object = self.data_setting_backup.loc[[col_name]].reset_index().loc[0].to_dict()
 
         return data_setting_object
@@ -253,7 +251,7 @@ class Tool:
         sub_name = "_".join(col_name.split("_")[:-1])
 
         if self.source_backup.empty:
-            new_source_df = self.data[[sub_name]]
+            new_source_df = self.data[[col_name]]
             new_source_df.columns = [col_name]
             self.source_backup = new_source_df
 

@@ -31,6 +31,8 @@ def main():
         for country in country_list:
             for freq in freq_list:
                 try:
+                    if category == "Exports":
+                        category = "export"
                     run_create_data_setting_pipeline(category, country, freq, to_db=args.to_db)
                     logging.info(
                         f"Successfully create data setting pipeline for category: {category}, country: {country}, freq"
