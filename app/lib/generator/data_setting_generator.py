@@ -7,6 +7,7 @@ sys.path.append(f"""{pathlib.Path(__file__).resolve().parent}""")
 sys.path.append(f"""{str(pathlib.Path(__file__).resolve().parent.parent)}""")
 sys.path.append(f"""{str(pathlib.Path(__file__).resolve().parent.parent.parent)}""")
 from lib.tools import Setting
+import build_export_cat as pickle_gen
 
 
 class Data_Setting_Generator:
@@ -19,6 +20,12 @@ class Data_Setting_Generator:
         print(freq_full)
         if country == "JP":
             country = "Japan"
+        if country == "CN":
+            country = "China"
+        if country == "TW":
+            country = "Taiwan"
+        if country == "KR":
+            country = "Korea"
         if category == "export":
             category = "Exports"
         print(country)
@@ -27,6 +34,9 @@ class Data_Setting_Generator:
         print(raw_data_path)
         temp_data_setting_path = self.setting.structure[country][category][f"{freq_full}_temp_setting_path"]
         print(temp_data_setting_path)
+        pickle_path = self.setting.structure[country][category]["Pickle_path"]
+        print(pickle_path)
+        pickle_gen.build(raw_data_path=raw_data_path, pkl_path=pickle_path)
         data = pd.read_csv(raw_data_path, index_col=[0])
         print(data)
         temp_setting = pd.read_csv(temp_data_setting_path, index_col=None).set_index("cleaned_name")

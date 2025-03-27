@@ -1,34 +1,34 @@
 name,display_name,data_type,chart_type
-"China, Exports, All, Value, USD, SA","CN, China, Exports, All, Value, USD, SA",b,line
-"China, Exports, All, Value, USD","CN, China, Exports, All, Value, USD",b,line
-"China, Exports, All, Value, USD, % YoY","CN, China, Exports, All, Value, USD, % YoY",p,line
-"China, Exports, All, Value, LCU","CN, China, Exports, All, Value, LCU",b,line
-"China, Exports, All, Value, LCU, % YoY","CN, China, Exports, All, Value, LCU, % YoY",p,line
-"China, Exports, By Country, China, Total, Value, USD","CN, China, Exports, By Country, China, Total, Value, USD",b,line
-"China, Exports, By Country, China, Total, Value, USD, % YoY","CN, China, Exports, By Country, China, Total, Value, USD, % YoY",p,line
-"China, Exports, By Country, ASEAN, Total, Value, USD, SA","CN, China, Exports, By Country, ASEAN, Total, Value, USD, SA",b,line
-"China, Exports, By Country, ASEAN, Total, Value, USD","CN, China, Exports, By Country, ASEAN, Total, Value, USD",b,line
-"China, Exports, By Country, ASEAN, Total, Value, USD, % YoY","CN, China, Exports, By Country, ASEAN, Total, Value, USD, % YoY",p,line
-"China, Exports, By Country, United States, Total, Value, USD, SA","CN, China, Exports, By Country, United States, Total, Value, USD, SA",b,line
-"China, Exports, By Country, United States, Total, Value, USD","CN, China, Exports, By Country, United States, Total, Value, USD",b,line
-"China, Exports, By Country, United States, Total, Value, USD, % YoY","CN, China, Exports, By Country, United States, Total, Value, USD, % YoY",p,line
-"China, Imports, All, Value, USD, SA","CN, China, Imports, All, Value, USD, SA",b,line
-"China, Imports, All, Value, USD","CN, China, Imports, All, Value, USD",b,line
-"China, Imports, All, Value, USD, % YoY","CN, China, Imports, All, Value, USD, % YoY",p,line
-"China, Imports, All, Value, LCU","CN, China, Imports, All, Value, LCU",b,line
-"China, Imports, All, Value, LCU, % YoY","CN, China, Imports, All, Value, LCU, % YoY",p,line
-"China, Imports, By Country, China, Total, Value, USD","CN, China, Imports, By Country, China, Total, Value, USD",b,line
-"China, Imports, By Country, China, Total, Value, USD, % YoY","CN, China, Imports, By Country, China, Total, Value, USD, % YoY",p,line
-"China, Imports, By Country, ASEAN, Total, Value, USD, SA","CN, China, Imports, By Country, ASEAN, Total, Value, USD, SA",b,line
-"China, Imports, By Country, ASEAN, Total, Value, USD","CN, China, Imports, By Country, ASEAN, Total, Value, USD",b,line
-"China, Imports, By Country, ASEAN, Total, Value, USD, % YoY","CN, China, Imports, By Country, ASEAN, Total, Value, USD, % YoY",p,line
-"China, Imports, By Country, United States, Total, Value, USD, SA","CN, China, Imports, By Country, United States, Total, Value, USD, SA",b,line
-"China, Imports, By Country, United States, Total, Value, USD","CN, China, Imports, By Country, United States, Total, Value, USD",b,line
-"China, Imports, By Country, United States, Total, Value, USD, % YoY","CN, China, Imports, By Country, United States, Total, Value, USD, % YoY",p,line
-"China, Trade balance, All, Value, USD, SA","CN, China, Trade balance, All, Value, USD, SA",b,line
-"China, Trade balance, All, Value, USD","CN, China, Trade balance, All, Value, USD",b,line
-"China, Trade balance, All, Value, USD, % YoY","CN, China, Trade balance, All, Value, USD, % YoY",p,line
-"China, Trade balance, All, Value, LCU","CN, China, Trade balance, All, Value, LCU",b,line
-"China, Trade balance, All, Value, LCU, % YoY","CN, China, Trade balance, All, Value, LCU, % YoY",p,line
-"China, Trade balance, By Country, ASEAN, Total, Value, USD, SA","CN, China, Trade balance, By Country, ASEAN, Total, Value, USD, SA",b,line
-"China, Trade balance, By Country, United States, Total, Value, USD, SA","CN, China, Trade balance, By Country, United States, Total, Value, USD, SA",b,line
+"China, Exports, All, SA, USD bn","China, Exports, All, SA, USD bn",None,line
+"China, Exports, All, USD bn","China, Exports, All, USD bn",None,line
+"China, Exports, All, USD bn, % YoY","China, Exports, All, USD bn, % YoY",None,line
+"China, Exports, All, CNY bn","China, Exports, All, CNY bn",None,line
+"China, Exports, All, CNY bn, % YoY","China, Exports, All, CNY bn, % YoY",None,line
+"China, Exports, By Country, China, Total, USD bn","China, Exports, By Country, China, Total, USD bn",None,line
+"China, Exports, By Country, China, Total, USD bn, % YoY","China, Exports, By Country, China, Total, USD bn, % YoY",None,line
+"China, Exports, By Country, ASEAN, Total, SA, USD bn","China, Exports, By Country, ASEAN, Total, SA, USD bn",None,line
+"China, Exports, By Country, ASEAN, Total, USD bn","China, Exports, By Country, ASEAN, Total, USD bn",None,line
+"China, Exports, By Country, ASEAN, Total, USD bn, % YoY","China, Exports, By Country, ASEAN, Total, USD bn, % YoY",None,line
+"China, Exports, By Country, United States, Total, SA, USD bn","China, Exports, By Country, United States, Total, SA, USD bn",None,line
+"China, Exports, By Country, United States, Total, USD bn","China, Exports, By Country, United States, Total, USD bn",None,line
+"China, Exports, By Country, United States, Total, USD bn, % YoY","China, Exports, By Country, United States, Total, USD bn, % YoY",None,line
+"China, Imports, All, SA, USD bn","China, Imports, All, SA, USD bn",None,line
+"China, Imports, All, USD bn","China, Imports, All, USD bn",None,line
+"China, Imports, All, USD bn, % YoY","China, Imports, All, USD bn, % YoY",None,line
+"China, Imports, All, CNY bn","China, Imports, All, CNY bn",None,line
+"China, Imports, All, CNY bn, % YoY","China, Imports, All, CNY bn, % YoY",None,line
+"China, Imports, By Country, China, Total, USD bn","China, Imports, By Country, China, Total, USD bn",None,line
+"China, Imports, By Country, China, Total, USD bn, % YoY","China, Imports, By Country, China, Total, USD bn, % YoY",None,line
+"China, Imports, By Country, ASEAN, Total, SA, USD bn","China, Imports, By Country, ASEAN, Total, SA, USD bn",None,line
+"China, Imports, By Country, ASEAN, Total, USD bn","China, Imports, By Country, ASEAN, Total, USD bn",None,line
+"China, Imports, By Country, ASEAN, Total, USD bn, % YoY","China, Imports, By Country, ASEAN, Total, USD bn, % YoY",None,line
+"China, Imports, By Country, United States, Total, SA, USD bn","China, Imports, By Country, United States, Total, SA, USD bn",None,line
+"China, Imports, By Country, United States, Total, USD bn","China, Imports, By Country, United States, Total, USD bn",None,line
+"China, Imports, By Country, United States, Total, USD bn, % YoY","China, Imports, By Country, United States, Total, USD bn, % YoY",None,line
+"China, Trade balance, All, SA, USD bn","China, Trade balance, All, SA, USD bn",None,line
+"China, Trade balance, All, USD bn","China, Trade balance, All, USD bn",None,line
+"China, Trade balance, All, USD bn, % YoY","China, Trade balance, All, USD bn, % YoY",None,line
+"China, Trade balance, All, CNY bn","China, Trade balance, All, CNY bn",None,line
+"China, Trade balance, All, CNY bn, % YoY","China, Trade balance, All, CNY bn, % YoY",None,line
+"China, Trade balance, By Country, ASEAN, Total, SA, USD bn","China, Trade balance, By Country, ASEAN, Total, SA, USD bn",None,line
+"China, Trade balance, By Country, United States, Total, SA, USD bn","China, Trade balance, By Country, United States, Total, SA, USD bn",None,line

@@ -1,13 +1,15 @@
 import pickle as pkl
+import sys
 import pandas as pd
 import os
 
-def main():
-    df = pd.read_csv("db\jp\export\m\jp_export_m_raw.csv")
+def build(raw_data_path, pkl_path):
+    sys.stdin.reconfigure(encoding='windows-1252')
+    sys.stdout.reconfigure(encoding='windows-1252')
+    df = pd.read_csv(raw_data_path)
     cat_dict = {}
 
     for column in df.columns:
-
         if column == "Date":
             continue
         cat_lst = column.split(", ")
@@ -29,17 +31,10 @@ def main():
             curr_index += 1
 
 
-    file_path = "jp_export_test.pkl"
 
-    if os.path.exists(file_path):
-        os.remove(file_path)
-        print(f"File '{file_path}' deleted successfully.")
-    else:
-        print(f"File '{file_path}' not found.")
+    if os.path.exists(pkl_path):
+        os.remove(pkl_path)
+        print(f"File '{pkl_path}' deleted successfully.")
 
-    with open('jp_export_test.pkl', 'wb') as f:
+    with open(pkl_path, 'wb') as f:
         pkl.dump(cat_dict, f)
-
-
-if __name__ == "__main__":
-    main()
