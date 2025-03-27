@@ -224,12 +224,18 @@ class Tool:
 
     def read_data(self, setting_path, data_path, matched_columns=None):  # Still need to unify the date when reading
         self.data_setting = pd.read_csv(setting_path, index_col=[0])
+        print(self.data_setting)
+        print(data_path)
 
         data = pd.read_csv(data_path, index_col=[0]).dropna(how="all", axis=0)
         data.index = pd.to_datetime(data.index)
         data = data.resample("M").last()
 
         data_cols = data.columns.values.tolist()
+        print('data_cols')
+        print(data_cols)
+        print('MATCHED DATA!!')
+        print(matched_columns)
         self.data = data[matched_columns] if matched_columns is not None and matched_columns in data_cols else data
         self.data.index = pd.to_datetime(self.data.index)
         return self.data, self.data_setting
@@ -247,20 +253,30 @@ class Tool:
     def add_source_column(self, source, col_name, index_date_input_value):  # new refer to a new data in source_backup
 
         source_df = pd.DataFrame(source.data)
-
-        sub_name = "_".join(col_name.split("_")[:-1])
+        print('source df!!')
+        print(source_df)
 
         if self.source_backup.empty:
+            print(source)
+            print(col_name)
+            print(index_date_input_value)
+            print(self.data)
             new_source_df = self.data[[col_name]]
             new_source_df.columns = [col_name]
             self.source_backup = new_source_df
+            print('sopurce backup 11111')
+            print(self.source_backup[[col_name]])
 
         else:
             source_df = source_df.set_index("Date")
             try:
+                print('MOMENTS BEFORE DIS')
+                print(self.source_backup)
                 new_source_df = pd.concat([source_df, self.source_backup[[col_name]]], axis=1)
             except Exception as e:
-                new_col_df = self.data[[sub_name]]
+                print('SUBATHON')
+                print(col_name)
+                new_col_df = self.data[[col_name]]
                 new_col_df.columns = [col_name]
                 new_source_df = pd.concat([source_df, new_col_df], axis=1)
                 self.source_backup = pd.concat([self.source_backup, new_col_df], axis=1)
@@ -413,7 +429,7 @@ class Setting:
                 },
                 "Exports": {
                     "M": True,
-                    "Monthly_data_path": "db/jp/export/m/jp_export_m.csv",
+                    "Monthly_data_path": "db/jp/export/m/jp_export_m_raw.csv",
                     "Monthly_raw_data_path": "db/jp/export/m/jp_export_m_raw.csv",
                     "Monthly_setting_path": "db/jp/export/m/jp_export_m_setting.csv",
                     "Monthly_temp_setting_path": "db/jp/export/m/jp_export_m_setting_temp.csv",

@@ -451,6 +451,10 @@ def add_button_callback():
     print(col_name)
     data_setting_object = tool.create_data_setting_object(data_setting, col_name)
     old_multichoice_values = multichoice.value
+    print('name!!')
+    print(data_setting_object['name'])
+    print('diisp name!!')
+    print(data_setting_object['display_name'])
 
     new_value = (f"{data_setting_object['name']}", data_setting_object["display_name"])
     if new_value not in multichoice.options:
@@ -511,6 +515,7 @@ def index_toggle_callback(active):
     else:
         for i in current_datatable_columns:
             col_name = "_".join(i.field.split("_")[:-1])
+            print(col_name)
 
             if "_index" in i.field:
                 data_type = tool.data_setting_backup.loc[col_name, "data_type"]
@@ -522,6 +527,10 @@ def index_toggle_callback(active):
                 elif data_type == "r":
                     new_column = TableColumn(
                         field=col_name, title=display_name, formatter=NumberFormatter(format="0,0.0")
+                    )
+                else:
+                    new_column = TableColumn(
+                        field=col_name, title=display_name, formatter=NumberFormatter(format="0.0")
                     )
                 new_datatable_columns.append(new_column)
             else:
