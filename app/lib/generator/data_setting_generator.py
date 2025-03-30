@@ -43,12 +43,12 @@ class Data_Setting_Generator:
 
         columns = data.columns.to_list()
         temp_columns = temp_setting["raw_data_name"].to_list()
-        print(temp_columns)
+        print(columns)
         data_setting = pd.DataFrame()
 
-        data_setting = self.create_chart_type(temp_columns, data_setting)
-        data_setting = self.create_data_type(temp_columns, data_setting, temp_setting=temp_setting)
-        data_setting = self.create_display_name(temp_columns, data_setting, country)
+        data_setting = self.create_chart_type(columns, data_setting)
+        data_setting = self.create_data_type(columns, data_setting, temp_setting=temp_setting)
+        data_setting = self.create_display_name(columns, data_setting, country)
 
         data_setting.index.name = "name"
         data_setting = data_setting[["display_name", "data_type", "chart_type"]]

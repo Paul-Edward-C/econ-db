@@ -97,6 +97,18 @@ def update_selects_format():
     ]
     new_len = next((i for i, select in enumerate(selects_list) if select.value == ""), len(selects_list))
     print(new_len)
+    if new_len == 3:
+        new_layout = row(
+            column(select_dict["country_select"], select_dict["db_select"], select_dict["category_select"], select_dict["freq_select"]),
+            column(),
+            column(),
+        )
+    if new_len == 4:
+        new_layout = row(
+            column(select_dict["country_select"], select_dict["db_select"], select_dict["category_select"], select_dict["freq_select"]),
+            column(select_dict["type_select"]),
+            column(),
+        )
     if new_len == 5:
         new_layout = row(
             column(select_dict["country_select"], select_dict["db_select"], select_dict["category_select"], select_dict["freq_select"]),
@@ -179,10 +191,8 @@ def update_country_select(attrname, old, new):
 
     curr_key = select_dict["country_select"].value + ", "
 
-    print(curr_key)
 
     if curr_key in data_dict:
-        print(data_dict[curr_key])
         select_dict["category_select"].options = data_dict[curr_key]
         if select_dict["category_select"].value not in select_dict["category_select"].options:
             select_dict["category_select"].value = select_dict["category_select"].options[0]
@@ -201,10 +211,21 @@ def update_db_select(attrname, old, new):
 
     curr_key = select_dict["country_select"].value + ", "
 
-    print(curr_key)
+    print("now u see me")
+    print(select_dict["db_select"].value)
+
+    if select_dict["db_select"].value == "GDP":
+        print('good place')
+        freq_select_options = ["Quarterly"]
+
+    else:
+        print('bad place')
+        freq_select_options = ["Monthly"]
+
+    select_dict["freq_select"].options = freq_select_options
+    select_dict["freq_select"].value = freq_select_options[0]
 
     if curr_key in data_dict:
-        print(data_dict[curr_key])
         select_dict["category_select"].options = data_dict[curr_key]
         if select_dict["category_select"].value not in select_dict["category_select"].options:
             select_dict["category_select"].value = select_dict["category_select"].options[0]
@@ -223,21 +244,8 @@ def update_category_select(attrname, old, new):
 
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", "
 
-    print(curr_key)
 
-    print("PICKLE:")
-    print(data_dict)
-
-    print(data_dict[curr_key])
-
-    if select_dict["category_select"].value is "Imports":
-        freq_select_options = ["Quarterly"]
-
-    else:
-        freq_select_options = ["Monthly"]
-
-    select_dict["freq_select"].options = freq_select_options
-    select_dict["freq_select"].value = freq_select_options[0]
+    
 
     select_dict["type_select"].options = data_dict[curr_key]
     if select_dict["type_select"].value not in select_dict["type_select"].options:
@@ -248,10 +256,12 @@ def update_freq_select(attrname, old, new):
     # Change data source and data setting
     global data, data_setting
 
-    if select_dict["category_select"].value is "Imports":
+    if select_dict["db_select"].value == "GDP":
+        print('goood place')
         freq_select_options = ["Quarterly"]
 
     else:
+        print('bad place')
         freq_select_options = ["Monthly"]
 
     select_dict["freq_select"].options = freq_select_options
@@ -264,15 +274,11 @@ def update_type_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-    print("PICKLE:")
-    print(data_dict)
 
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", "
 
-    print(curr_key)
 
     if curr_key in data_dict:
-        print(data_dict[curr_key])
         select_dict["cat1_select"].options = data_dict[curr_key]
         if select_dict["cat1_select"].value not in select_dict["cat1_select"].options:
             select_dict["cat1_select"].value = select_dict["cat1_select"].options[0]
@@ -290,15 +296,11 @@ def update_cat1_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-    print("PICKLE:")
-    print(data_dict)
 
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", "
 
-    print(curr_key)
 
     if curr_key in data_dict:
-        print(data_dict[curr_key])
         select_dict["cat2_select"].options = data_dict[curr_key]
         if select_dict["cat2_select"].value not in select_dict["cat2_select"].options:
             select_dict["cat2_select"].value = select_dict["cat2_select"].options[0]
@@ -316,15 +318,11 @@ def update_cat2_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-    print("PICKLE:")
-    print(data_dict)
 
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", "
 
-    print(curr_key)
 
     if curr_key in data_dict:
-        print(data_dict[curr_key])
         select_dict["cat3_select"].options = data_dict[curr_key]
         if select_dict["cat3_select"].value not in select_dict["cat3_select"].options:
             select_dict["cat3_select"].value = select_dict["cat3_select"].options[0]
@@ -342,16 +340,13 @@ def update_cat3_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-    print("PICKLE:")
-    print(data_dict)
+
 
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", "
 
 
-    print(curr_key)
 
     if curr_key in data_dict:
-        print(data_dict[curr_key])
         select_dict["cat4_select"].options = data_dict[curr_key]
         if select_dict["cat4_select"].value not in select_dict["cat4_select"].options:
             select_dict["cat4_select"].value = select_dict["cat4_select"].options[0]
@@ -369,16 +364,13 @@ def update_cat4_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-    print("PICKLE:")
-    print(data_dict)
+
 
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", "
 
 
-    print(curr_key)
 
     if curr_key in data_dict:
-        print(data_dict[curr_key])
         select_dict["cat5_select"].options = data_dict[curr_key]
         if select_dict["cat5_select"].value not in select_dict["cat5_select"].options:
             select_dict["cat5_select"].value = select_dict["cat5_select"].options[0]
@@ -395,16 +387,13 @@ def update_cat5_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-    print("PICKLE:")
-    print(data_dict)
+
 
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", " + select_dict["cat5_select"].value + ", "
 
 
-    print(curr_key)
 
     if curr_key in data_dict:
-        print(data_dict[curr_key])
         select_dict["cat6_select"].options = data_dict[curr_key]
         if select_dict["cat6_select"].value not in select_dict["cat6_select"].options:
             select_dict["cat6_select"].value = select_dict["cat6_select"].options[0]
@@ -422,16 +411,13 @@ def update_cat6_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-    print("PICKLE:")
-    print(data_dict)
+
 
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", " + select_dict["cat5_select"].value + ", " + select_dict["cat6_select"].value + ", "
 
 
-    print(curr_key)
 
     if curr_key in data_dict:
-        print(data_dict[curr_key])
         select_dict["cat7_select"].options = data_dict[curr_key]
         if select_dict["cat7_select"].value not in select_dict["cat7_select"].options:
             select_dict["cat7_select"].value = select_dict["cat7_select"].options[0]
@@ -449,16 +435,13 @@ def update_cat7_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-    print("PICKLE:")
-    print(data_dict)
+
 
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", " + select_dict["cat5_select"].value + ", " + select_dict["cat6_select"].value + ", " + select_dict["cat7_select"].value + ", "
 
 
-    print(curr_key)
 
     if curr_key in data_dict:
-        print(data_dict[curr_key])
         select_dict["cat8_select"].options = data_dict[curr_key]
         if select_dict["cat8_select"].value not in select_dict["cat8_select"].options:
             select_dict["cat8_select"].value = select_dict["cat8_select"].options[0]
@@ -476,16 +459,13 @@ def update_cat8_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-    print("PICKLE:")
-    print(data_dict)
+
 
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", " + select_dict["cat5_select"].value + ", " + select_dict["cat6_select"].value + ", " + select_dict["cat7_select"].value + ", " + select_dict["cat8_select"].value + ", "
 
 
-    print(curr_key)
 
     if curr_key in data_dict:
-        print(data_dict[curr_key])
         select_dict["cat9_select"].options = data_dict[curr_key]
         if select_dict["cat9_select"].value not in select_dict["cat9_select"].options:
             select_dict["cat9_select"].value = select_dict["cat9_select"].options[0]
@@ -503,16 +483,12 @@ def update_cat9_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-    print("PICKLE:")
-    print(data_dict)
 
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", " + select_dict["cat5_select"].value + ", " + select_dict["cat6_select"].value + ", " + select_dict["cat7_select"].value + ", " + select_dict["cat8_select"].value + ", " + select_dict["cat9_select"].value + ", "
 
 
-    print(curr_key)
 
     if curr_key in data_dict:
-        print(data_dict[curr_key])
         select_dict["cat10_select"].options = data_dict[curr_key]
         if select_dict["cat10_select"].value not in select_dict["cat10_select"].options:
             select_dict["cat10_select"].value = select_dict["cat10_select"].options[0]
@@ -530,16 +506,13 @@ def update_cat10_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-    print("PICKLE:")
-    print(data_dict)
+
 
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", " + select_dict["cat5_select"].value + ", " + select_dict["cat6_select"].value + ", " + select_dict["cat7_select"].value + ", " + select_dict["cat8_select"].value + ", " + select_dict["cat9_select"].value + ", " + select_dict["cat10_select"].value + ", "
 
 
-    print(curr_key)
 
     if curr_key in data_dict:
-        print(data_dict[curr_key])
         select_dict["cat11_select"].options = data_dict[curr_key]
         if select_dict["cat11_select"].value not in select_dict["cat11_select"].options:
             select_dict["cat11_select"].value = select_dict["cat11_select"].options[0]
@@ -609,10 +582,8 @@ def add_button_callback():
 
     global data, data_setting
 
-    print(select_dict["db_select"].value)
 
     if select_dict["db_select"].value == "GDP":
-        print("hello?")
         data, data_setting = tool.read_data(
             data_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
                 "Quarterly_data_path"
@@ -623,8 +594,6 @@ def add_button_callback():
             matched_columns=matched_columns,
         )
     elif select_dict["db_select"].value == "Trade":
-        print(setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
-                "Monthly_setting_path"])
         data, data_setting = tool.read_data(
             data_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
                 "Monthly_data_path"
@@ -634,9 +603,6 @@ def add_button_callback():
             ],
             matched_columns=matched_columns,
         )
-    print("DATA SETTING")
-    print(data_setting)
-
     freq_sect_str = ''
     freq_sect_str += select_dict["freq_select"].value
 
@@ -644,21 +610,16 @@ def add_button_callback():
 
     for sel in select_dict:
         if select_dict[sel].value is not "":
-            col_name += select_dict[sel].value + ", "
+            if sel is not "db_select":
+                col_name += select_dict[sel].value + ", "
 
     col_name = col_name[:-2]
     col_name = col_name.replace("Monthly, ", "")
     col_name = col_name.replace("Quarterly, ", "")
-    col_name = col_name.replace("Trade, ", "")
-    col_name = col_name.replace(" GDP,", "")
 
-    print(col_name)
     data_setting_object = tool.create_data_setting_object(data_setting, col_name)
     old_multichoice_values = multichoice.value
-    print('name!!')
-    print(data_setting_object['name'])
-    print('diisp name!!')
-    print(data_setting_object['display_name'])
+
 
     new_value = (f"{data_setting_object['name']}", data_setting_object["display_name"])
     if new_value not in multichoice.options:
@@ -719,7 +680,6 @@ def index_toggle_callback(active):
     else:
         for i in current_datatable_columns:
             col_name = "_".join(i.field.split("_")[:-1])
-            print(col_name)
 
             if "_index" in i.field:
                 data_type = tool.data_setting_backup.loc[col_name, "data_type"]

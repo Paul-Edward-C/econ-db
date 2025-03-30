@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 
 def run_cleaning_pipeline(category_list, country_list, freq_list, to_db=False):
     setting = Setting()
-    cleaner_map = {"GDP": GdpCleaner(), "Exports": ExportCleaner()}
+    cleaner_map = {"GDP": GdpCleaner(), "Trade": ExportCleaner()}
     category_list = cleaner_map.keys() if category_list is None else category_list
 
     for category in category_list:

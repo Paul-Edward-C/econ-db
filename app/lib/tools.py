@@ -103,7 +103,7 @@ class Tool:
         print(select_dict["category_select"].value)
 
         curr_key += select_dict["category_select"].value + ", "
-        if select_dict["category_select"].value is 'Imports':
+        if select_dict["db_select"].value is 'GDP':
             freq_select_options = ['Quarterly']
         else:
             freq_select_options = ['Monthly']
@@ -421,7 +421,7 @@ class Setting:
             "CN": {"CNY": "LCU", "USD": "USD"},
         }
         self.category_full_name_map = {
-            "Exports": "Foreign Trade",
+            "Trade": "Foreign Trade",
             "NGDP": "Nominal National Accounts",
             "RGDP": "Real National Accounts",
             "Deflator": "Deflator",
@@ -451,35 +451,39 @@ class Setting:
                 },
             },
             "Taiwan": {
-                "National Accounts": {
+                "GDP": {
                     "Q": True,
                     "Quarterly_data_path": "db/tw/gdp/q/tw_gdp_q_raw.csv",
                     "Quarterly_raw_data_path": "db/tw/gdp/q/tw_gdp_q_raw.csv",
                     "Quarterly_setting_path": "db/tw/gdp/q/tw_gdp_q_setting.csv",
                     "Quarterly_temp_setting_path": "db/tw/gdp/q/tw_gdp_q_setting_temp.csv",
+                    "Pickle_path" : "db/tw/gdp/q/tw_gdp_pickle_path.pkl"
                 },
-                "Exports": {
+                "Trade": {
                     "M": True,
                     "Monthly_data_path": "db/tw/export/m/tw_export_m_raw.csv",
                     "Monthly_raw_data_path": "db/tw/export/m/tw_export_m_raw.csv",
                     "Monthly_setting_path": "db/tw/export//m/tw_export_m_setting.csv",
                     "Monthly_temp_setting_path": "db/tw/export//m/tw_export_m_setting_temp.csv",
+                    "Pickle_path" : "db/tw/export/m/tw_export_pickle_path.pkl"
                 },
             },
             "Korea": {
-                "National Accounts": {
+                "GDP": {
                     "Q": True,
                     "Quarterly_data_path": "db/kr/gdp/q/kr_gdp_q_raw.csv",
                     "Quarterly_raw_data_path": "db/kr/gdp/q/kr_gdp_q_raw.csv",
                     "Quarterly_setting_path": "db/kr/gdp/q/kr_gdp_q_setting.csv",
                     "Quarterly_temp_setting_path": "db/kr/gdp/q/kr_gdp_q_setting_temp.csv",
+                    "Pickle_path" : "db/kr/gdp/q/kr_gdp_pickle_path.pkl"
                 },
-                "Exports": {
+                "Trade": {
                     "M": True,
                     "Monthly_data_path": "db/kr/export/m/kr_export_m_raw.csv",
                     "Monthly_raw_data_path": "db/kr/export/m/kr_export_m_raw.csv",
                     "Monthly_setting_path": "db/kr/export/m/kr_export_m_setting.csv",
                     "Monthly_temp_setting_path": "db/kr/export/m/kr_export_m_setting_temp.csv",
+                    "Pickle_path" : "db/kr/export/m/kr_export_pickle_path.pkl"
                 },
             },
             "China": {

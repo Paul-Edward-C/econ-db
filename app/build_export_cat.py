@@ -4,8 +4,6 @@ import pandas as pd
 import os
 
 def build(raw_data_path, pkl_path):
-    sys.stdin.reconfigure(encoding='windows-1252')
-    sys.stdout.reconfigure(encoding='windows-1252')
     df = pd.read_csv(raw_data_path)
     cat_dict = {}
 
