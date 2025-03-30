@@ -9,6 +9,6 @@
   python3 onboarding_pipeline.py --category gdp --country TW --freq Q --to_db --to_output
   ```
 - ### Variable definitions
-  1. `--category`<br> `export`, `gdp` for now
+  1. `--category`<br> `Trade`, `GDP` for now
   2. `--country`<br> `TW`, `CN`, `JP`, `KR` for now
   3. `--freq`<br> `M`, `Q` for now
