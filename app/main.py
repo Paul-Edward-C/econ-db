@@ -211,15 +211,10 @@ def update_db_select(attrname, old, new):
 
     curr_key = select_dict["country_select"].value + ", "
 
-    print("now u see me")
-    print(select_dict["db_select"].value)
-
     if select_dict["db_select"].value == "GDP":
-        print('good place')
         freq_select_options = ["Quarterly"]
 
     else:
-        print('bad place')
         freq_select_options = ["Monthly"]
 
     select_dict["freq_select"].options = freq_select_options
@@ -581,9 +576,13 @@ def update_main_axis_range(attrname=None, old=None, new=None, expand_perc=1.2):
 def add_button_callback():
 
     global data, data_setting
-
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
 
     if select_dict["db_select"].value == "GDP":
+        print(os.getcwd())
         data, data_setting = tool.read_data(
             data_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
                 "Quarterly_data_path"
@@ -1116,9 +1115,6 @@ def link_callback():
 # =========CREATE SELECTS=========
 select_dict = tool.create_selects()
 freq = select_dict["freq_select"].value
-
-print(freq)
-print(freq)
 
 pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
