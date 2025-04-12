@@ -96,7 +96,6 @@ def update_selects_format():
         select_dict["cat11_select"],
     ]
     new_len = next((i for i, select in enumerate(selects_list) if select.value == ""), len(selects_list))
-    print(new_len)
     if new_len == 3:
         new_layout = row(
             column(select_dict["country_select"], select_dict["db_select"], select_dict["category_select"], select_dict["freq_select"]),
@@ -252,11 +251,9 @@ def update_freq_select(attrname, old, new):
     global data, data_setting
 
     if select_dict["db_select"].value == "GDP":
-        print('goood place')
         freq_select_options = ["Quarterly"]
 
     else:
-        print('bad place')
         freq_select_options = ["Monthly"]
 
     select_dict["freq_select"].options = freq_select_options

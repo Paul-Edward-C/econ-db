@@ -88,6 +88,7 @@ class Tool:
 
         curr_key = select_dict["country_select"].value + ", "
         
+        
         category_select_options = data_dict[curr_key]
         select_dict["category_select"] = Select(
             value=category_select_options[0],
@@ -125,7 +126,6 @@ class Tool:
 
         while(True):
             if curr_key not in data_dict:
-                print("huh?")
                 break
             
             this_cat = "cat" + str(curr_cat)
