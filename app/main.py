@@ -183,6 +183,10 @@ def update_selects_format():
 
 
 def update_country_select(attrname, old, new):
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
@@ -204,12 +208,12 @@ def update_country_select(attrname, old, new):
 
 def update_db_select(attrname, old, new):
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
-
+    print(pickle_path)
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
     curr_key = select_dict["country_select"].value + ", "
-
+    print(curr_key)
     if select_dict["db_select"].value == "GDP":
         freq_select_options = ["Quarterly"]
 
@@ -218,7 +222,7 @@ def update_db_select(attrname, old, new):
 
     select_dict["freq_select"].options = freq_select_options
     select_dict["freq_select"].value = freq_select_options[0]
-
+    print(data_dict)
     if curr_key in data_dict:
         select_dict["category_select"].options = data_dict[curr_key]
         if select_dict["category_select"].value not in select_dict["category_select"].options:
@@ -232,12 +236,15 @@ def update_db_select(attrname, old, new):
 def update_category_select(attrname, old, new):
 
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
-
+    print(pickle_path)
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
+    print(data_dict)
+    print(select_dict["category_select"].options)
+    print(select_dict["category_select"].value)
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", "
-
+    print(curr_key)
 
     
 
@@ -590,6 +597,16 @@ def add_button_callback():
             matched_columns=matched_columns,
         )
     elif select_dict["db_select"].value == "Trade":
+        data, data_setting = tool.read_data(
+            data_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
+                "Monthly_data_path"
+            ],
+            setting_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
+                "Monthly_setting_path"
+            ],
+            matched_columns=matched_columns,
+        )
+    elif select_dict["db_select"].value == "Inflation":
         data, data_setting = tool.read_data(
             data_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
                 "Monthly_data_path"

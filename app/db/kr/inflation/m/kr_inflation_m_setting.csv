@@ -1,0 +1,75 @@
+name,display_name,data_type,chart_type
+"Korea, CPI, All items","Korea, CPI, All items",None,line
+"Korea, CPI, Excluding Food & Energy","Korea, CPI, Excluding Food & Energy",None,line
+"Korea, CPI, Goods","Korea, CPI, Goods",None,line
+"Korea, CPI, Goods, Durable goods","Korea, CPI, Goods, Durable goods",None,line
+"Korea, CPI, Services","Korea, CPI, Services",None,line
+"Korea, CPI, Services, Rents","Korea, CPI, Services, Rents",None,line
+"Korea, CPI, Services, Public services","Korea, CPI, Services, Public services",None,line
+"Korea, CPI, Services, Personal services","Korea, CPI, Services, Personal services",None,line
+"Korea, CPI, All items, % YoY","Korea, CPI, All items, % YoY",None,line
+"Korea, CPI, Excluding Food & Energy, % YoY","Korea, CPI, Excluding Food & Energy, % YoY",None,line
+"Korea, CPI, Goods, % YoY","Korea, CPI, Goods, % YoY",None,line
+"Korea, CPI, Goods, Durable goods, % YoY","Korea, CPI, Goods, Durable goods, % YoY",None,line
+"Korea, CPI, Services, % YoY","Korea, CPI, Services, % YoY",None,line
+"Korea, CPI, Services, Rents, % YoY","Korea, CPI, Services, Rents, % YoY",None,line
+"Korea, CPI, Services, Public services, % YoY","Korea, CPI, Services, Public services, % YoY",None,line
+"Korea, CPI, Services, Personal services, % YoY","Korea, CPI, Services, Personal services, % YoY",None,line
+"Korea, CPI, All items, % YoY, 3mma","Korea, CPI, All items, % YoY, 3mma",None,line
+"Korea, CPI, Excluding Food & Energy, % YoY, 3mma","Korea, CPI, Excluding Food & Energy, % YoY, 3mma",None,line
+"Korea, CPI, Goods, % YoY, 3mma","Korea, CPI, Goods, % YoY, 3mma",None,line
+"Korea, CPI, Goods, Durable goods, % YoY, 3mma","Korea, CPI, Goods, Durable goods, % YoY, 3mma",None,line
+"Korea, CPI, Services, % YoY, 3mma","Korea, CPI, Services, % YoY, 3mma",None,line
+"Korea, CPI, Services, Rents, % YoY, 3mma","Korea, CPI, Services, Rents, % YoY, 3mma",None,line
+"Korea, CPI, Services, Public services, % YoY, 3mma","Korea, CPI, Services, Public services, % YoY, 3mma",None,line
+"Korea, CPI, Services, Personal services, % YoY, 3mma","Korea, CPI, Services, Personal services, % YoY, 3mma",None,line
+"Korea, CPI, All items, SA","Korea, CPI, All items, SA",None,line
+"Korea, CPI, Excluding Food & Energy, SA","Korea, CPI, Excluding Food & Energy, SA",None,line
+"Korea, CPI, Goods, SA","Korea, CPI, Goods, SA",None,line
+"Korea, CPI, Goods, Durable goods, SA","Korea, CPI, Goods, Durable goods, SA",None,line
+"Korea, CPI, Services, SA","Korea, CPI, Services, SA",None,line
+"Korea, CPI, Services, Public services, SA","Korea, CPI, Services, Public services, SA",None,line
+"Korea, CPI, Services, Personal services, SA","Korea, CPI, Services, Personal services, SA",None,line
+"Korea, CPI, Services, Rents, SA","Korea, CPI, Services, Rents, SA",None,line
+"Korea, CPI, All items, SA, % MoM annualised","Korea, CPI, All items, SA, % MoM annualised",None,line
+"Korea, CPI, Excluding Food & Energy, SA, % MoM annualised","Korea, CPI, Excluding Food & Energy, SA, % MoM annualised",None,line
+"Korea, CPI, Goods, SA, % MoM annualised","Korea, CPI, Goods, SA, % MoM annualised",None,line
+"Korea, CPI, Goods, Durable goods, SA, % MoM annualised","Korea, CPI, Goods, Durable goods, SA, % MoM annualised",None,line
+"Korea, CPI, Services, SA, % MoM annualised","Korea, CPI, Services, SA, % MoM annualised",None,line
+"Korea, CPI, Services, Public services, SA, % MoM annualised","Korea, CPI, Services, Public services, SA, % MoM annualised",None,line
+"Korea, CPI, Services, Personal services, SA, % MoM annualised","Korea, CPI, Services, Personal services, SA, % MoM annualised",None,line
+"Korea, CPI, Services, Rents, SA, % MoM annualised","Korea, CPI, Services, Rents, SA, % MoM annualised",None,line
+"Korea, CPI, All items, SA, % MoM annualised, 3mma","Korea, CPI, All items, SA, % MoM annualised, 3mma",None,line
+"Korea, CPI, Excluding Food & Energy, SA, % MoM annualised, 3mma","Korea, CPI, Excluding Food & Energy, SA, % MoM annualised, 3mma",None,line
+"Korea, CPI, Goods, SA, % MoM annualised, 3mma","Korea, CPI, Goods, SA, % MoM annualised, 3mma",None,line
+"Korea, CPI, Goods, Durable goods, SA, % MoM annualised, 3mma","Korea, CPI, Goods, Durable goods, SA, % MoM annualised, 3mma",None,line
+"Korea, CPI, Services, SA, % MoM annualised, 3mma","Korea, CPI, Services, SA, % MoM annualised, 3mma",None,line
+"Korea, CPI, Services, Public services, SA, % MoM annualised, 3mma","Korea, CPI, Services, Public services, SA, % MoM annualised, 3mma",None,line
+"Korea, CPI, Services, Personal services, SA, % MoM annualised, 3mma","Korea, CPI, Services, Personal services, SA, % MoM annualised, 3mma",None,line
+"Korea, CPI, Services, Rents, SA, % MoM annualised, 3mma","Korea, CPI, Services, Rents, SA, % MoM annualised, 3mma",None,line
+"Korea, CPI, All items, 10pc Trimmed mean, % YoY","Korea, CPI, All items, 10pc Trimmed mean, % YoY",None,line
+"Korea, CPI, All items, 20pc Trimmed mean, % YoY","Korea, CPI, All items, 20pc Trimmed mean, % YoY",None,line
+"Korea, CPI, Food and non-alcoholic beverages, % YoY","Korea, CPI, Food and non-alcoholic beverages, % YoY",None,line
+"Korea, CPI, Alcoholic beverages and tobacco, % YoY","Korea, CPI, Alcoholic beverages and tobacco, % YoY",None,line
+"Korea, CPI, Clothing and footwear, % YoY","Korea, CPI, Clothing and footwear, % YoY",None,line
+"Korea, CPI, Housing, water, electricity and other fuels, % YoY","Korea, CPI, Housing, water, electricity and other fuels, % YoY",None,line
+"Korea, CPI, Furnishings, household equipment and routine household maintenance, % YoY","Korea, CPI, Furnishings, household equipment and routine household maintenance, % YoY",None,line
+"Korea, CPI, Health, % YoY","Korea, CPI, Health, % YoY",None,line
+"Korea, CPI, Transport, % YoY","Korea, CPI, Transport, % YoY",None,line
+"Korea, CPI, Communication, % YoY","Korea, CPI, Communication, % YoY",None,line
+"Korea, CPI, Recreation and culture, % YoY","Korea, CPI, Recreation and culture, % YoY",None,line
+"Korea, CPI, Education, % YoY","Korea, CPI, Education, % YoY",None,line
+"Korea, CPI, Restaurants and hotels, % YoY","Korea, CPI, Restaurants and hotels, % YoY",None,line
+"Korea, CPI, Miscellaneous goods and services, % YoY","Korea, CPI, Miscellaneous goods and services, % YoY",None,line
+"Korea, CPI, Food and non-alcoholic beverages, % YoY, 3mma","Korea, CPI, Food and non-alcoholic beverages, % YoY, 3mma",None,line
+"Korea, CPI, Alcoholic beverages and tobacco, % YoY, 3mma","Korea, CPI, Alcoholic beverages and tobacco, % YoY, 3mma",None,line
+"Korea, CPI, Clothing and footwear, % YoY, 3mma","Korea, CPI, Clothing and footwear, % YoY, 3mma",None,line
+"Korea, CPI, Housing, water, electricity and other fuels, % YoY, 3mma","Korea, CPI, Housing, water, electricity and other fuels, % YoY, 3mma",None,line
+"Korea, CPI, Furnishings, household equipment and routine household maintenance, % YoY, 3mma","Korea, CPI, Furnishings, household equipment and routine household maintenance, % YoY, 3mma",None,line
+"Korea, CPI, Health, % YoY, 3mma","Korea, CPI, Health, % YoY, 3mma",None,line
+"Korea, CPI, Transport, % YoY, 3mma","Korea, CPI, Transport, % YoY, 3mma",None,line
+"Korea, CPI, Communication, % YoY, 3mma","Korea, CPI, Communication, % YoY, 3mma",None,line
+"Korea, CPI, Recreation and culture, % YoY, 3mma","Korea, CPI, Recreation and culture, % YoY, 3mma",None,line
+"Korea, CPI, Education, % YoY, 3mma","Korea, CPI, Education, % YoY, 3mma",None,line
+"Korea, CPI, Restaurants and hotels, % YoY, 3mma","Korea, CPI, Restaurants and hotels, % YoY, 3mma",None,line
+"Korea, CPI, Miscellaneous goods and services, % YoY, 3mma","Korea, CPI, Miscellaneous goods and services, % YoY, 3mma",None,line
