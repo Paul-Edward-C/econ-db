@@ -88,7 +88,6 @@ class Tool:
             data_dict = pickle.load(f)
         print(data_dict)
         curr_key = select_dict["country_select"].value + ", "
-        print(curr_key)
         category_select_options = data_dict[curr_key]
         select_dict["category_select"] = Select(
             value=category_select_options[0],
@@ -97,6 +96,7 @@ class Tool:
             title="Category",
             stylesheets=[self.setting.select_stylesheet],
         )
+
 
         curr_key += select_dict["category_select"].value + ", "
         if select_dict["db_select"].value is 'GDP':
@@ -148,6 +148,7 @@ class Tool:
                 title="Data category " + str(curr_cat),
                 stylesheets=[self.setting.select_stylesheet],
             )
+
             curr_key = select_dict[this_cat + "_select"].value + ", "
             curr_cat += 1
 
@@ -399,9 +400,9 @@ class Setting:
                 "GDP": {
                     "Q": True,
                     "Quarterly_data_path": "db/jp/gdp/q/jp_gdp_q_raw.csv",
-                    "Quarterly_raw_data_path": "db/jp/gdp/q/jp_gdp_q_raw.csv",
+                    "Quarterly_raw_data_path": "app/db/jp/gdp/q/jp_gdp_q_raw.csv",
                     "Quarterly_setting_path": "db/jp/gdp/q/jp_gdp_q_setting.csv",
-                    "Quarterly_temp_setting_path": "db/jp/gdp/q/jp_gdp_q_setting_temp.csv",
+                    "Quarterly_temp_setting_path": "app/db/jp/gdp/q/jp_gdp_q_setting_temp.csv",
                     "Pickle_path" : "db/jp/gdp/q/jp_gdp_pickle_path.pkl"
                 },
                 "Trade": {

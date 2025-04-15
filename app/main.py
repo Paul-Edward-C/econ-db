@@ -631,13 +631,13 @@ def update_main_axis_range(attrname=None, old=None, new=None, expand_perc=1.2):
 def add_button_callback():
 
     global data, data_setting
-
     dir_path = os.path.dirname(os.path.abspath(__file__))
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
 
     if select_dict["db_select"].value == "GDP":
+        print(os.getcwd())
         data, data_setting = tool.read_data(
             data_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
                 "Quarterly_data_path"
