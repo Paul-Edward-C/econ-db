@@ -401,7 +401,7 @@ class Setting:
                     "Quarterly_data_path": "db/jp/gdp/q/jp_gdp_q_raw.csv",
                     "Quarterly_raw_data_path": "app/db/jp/gdp/q/jp_gdp_q_raw.csv",
                     "Quarterly_setting_path": "db/jp/gdp/q/jp_gdp_q_setting.csv",
-                    "Quarterly_temp_setting_path": "app/db/jp/gdp/q/jp_gdp_q_setting_temp.csv",
+                    "Quarterly_temp_setting_path": "db/jp/gdp/q/jp_gdp_q_setting_temp.csv",
                     "Pickle_path" : "db/jp/gdp/q/jp_gdp_pickle_path.pkl"
                 },
                 "Trade": {
