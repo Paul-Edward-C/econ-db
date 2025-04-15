@@ -71,7 +71,7 @@ class Tool:
             stylesheets=[self.setting.select_stylesheet],
         )
 
-        db_select_options = ["GDP", "Trade"]
+        db_select_options = ["GDP", "Trade", "Inflation"]
         select_dict["db_select"] = Select(
             value=db_select_options[0],
             options=db_select_options,
@@ -82,13 +82,12 @@ class Tool:
 
 
         pickle_path = self.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
+        print(pickle_path)
 
         with open(pickle_path, 'rb') as f:
             data_dict = pickle.load(f)
-
+        print(data_dict)
         curr_key = select_dict["country_select"].value + ", "
-        
-        
         category_select_options = data_dict[curr_key]
         select_dict["category_select"] = Select(
             value=category_select_options[0],
@@ -231,8 +230,10 @@ class Tool:
         return self.data, self.data_setting
 
     def create_data_setting_object(self, data_setting, col_name):
+        print(data_setting)
+        print(col_name)
         data_setting_backup_cols = ["display_name", "data_type", "chart_type"]
-        data_col_name = "_".join(col_name.split("_")[:-1])
+        #data_col_name = "_".join(col_name.split("_")[:-1])
         self.data_setting_backup.loc[col_name, data_setting_backup_cols] = data_setting.loc[col_name].tolist()
         data_setting_object = self.data_setting_backup.loc[[col_name]].reset_index().loc[0].to_dict()
 
@@ -388,7 +389,7 @@ class Setting:
             "NGDP": "Nominal National Accounts",
             "RGDP": "Real National Accounts",
             "Deflator": "Deflator",
-            "inflation": "Inflation"
+            "Inflation": "Inflation"
         }
 
         self.freq_full_name_map = {"Q": "Quarterly", "M": "Monthly", "A": "Annual"}
@@ -412,6 +413,14 @@ class Setting:
                     "Monthly_temp_setting_path": "db/jp/export/m/jp_export_m_setting_temp.csv",
                     "Pickle_path" : "db/jp/export/m/jp_export_pickle_path.pkl"
                 },
+                "Inflation": {
+                    "M": True,
+                    "Monthly_data_path": "db/jp/inflation/m/jp_inflation_m_raw.csv",
+                    "Monthly_raw_data_path": "db/jp/inflation/m/jp_inflation_m_raw.csv",
+                    "Monthly_setting_path": "db/jp/inflation/m/jp_inflation_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/jp/inflation/m/jp_inflation_m_setting_temp.csv",
+                    "Pickle_path" : "db/jp/inflation/m/jp_inflation_pickle_path.pkl"
+                },
             },
             "Taiwan": {
                 "GDP": {
@@ -429,6 +438,14 @@ class Setting:
                     "Monthly_setting_path": "db/tw/export//m/tw_export_m_setting.csv",
                     "Monthly_temp_setting_path": "db/tw/export//m/tw_export_m_setting_temp.csv",
                     "Pickle_path" : "db/tw/export/m/tw_export_pickle_path.pkl"
+                },
+                "Inflation": {
+                    "M": True,
+                    "Monthly_data_path": "db/tw/inflation/m/tw_inflation_m_raw.csv",
+                    "Monthly_raw_data_path": "db/tw/inflation/m/tw_inflation_m_raw.csv",
+                    "Monthly_setting_path": "db/tw/inflation/m/tw_inflation_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/tw/inflation/m/tw_inflation_m_setting_temp.csv",
+                    "Pickle_path" : "db/tw/inflation/m/tw_inflation_pickle_path.pkl"
                 },
             },
             "Korea": {
@@ -448,6 +465,14 @@ class Setting:
                     "Monthly_temp_setting_path": "db/kr/export/m/kr_export_m_setting_temp.csv",
                     "Pickle_path" : "db/kr/export/m/kr_export_pickle_path.pkl"
                 },
+                "Inflation": {
+                    "M": True,
+                    "Monthly_data_path": "db/kr/inflation/m/kr_inflation_m_raw.csv",
+                    "Monthly_raw_data_path": "db/kr/inflation/m/kr_inflation_m_raw.csv",
+                    "Monthly_setting_path": "db/kr/inflation/m/kr_inflation_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/kr/inflation/m/kr_inflation_m_setting_temp.csv",
+                    "Pickle_path" : "db/kr/inflation/m/kr_inflation_pickle_path.pkl"
+                },
             },
             "China": {
                 "GDP": {
@@ -465,6 +490,14 @@ class Setting:
                     "Monthly_setting_path": "db/cn/export/m/cn_export_m_setting.csv",
                     "Monthly_temp_setting_path": "db/cn/export/m/cn_export_m_setting_temp.csv",
                     "Pickle_path" : "db/cn/export/m/cn_export_pickle_path.pkl"
+                },
+                "Inflation": {
+                    "M": True,
+                    "Monthly_data_path": "db/cn/inflation/m/cn_inflation_m_raw.csv",
+                    "Monthly_raw_data_path": "db/cn/inflation/m/cn_inflation_m_raw.csv",
+                    "Monthly_setting_path": "db/cn/inflation/m/cn_inflation_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/cn/inflation/m/cn_inflation_m_setting_temp.csv",
+                    "Pickle_path" : "db/cn/inflation/m/cn_inflation_pickle_path.pkl"
                 },
             },
         }
