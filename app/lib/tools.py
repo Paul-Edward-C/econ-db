@@ -412,6 +412,14 @@ class Setting:
                     "Monthly_temp_setting_path": "db/jp/export/m/jp_export_m_setting_temp.csv",
                     "Pickle_path" : "db/jp/export/m/jp_export_pickle_path.pkl"
                 },
+                "Inflation": {
+                    "M": True,
+                    "Monthly_data_path": "db/jp/inflation/m/jp_inflation_m_raw.csv",
+                    "Monthly_raw_data_path": "db/jp/inflation/m/jp_inflation_m_raw.csv",
+                    "Monthly_setting_path": "db/jp/inflation/m/jp_inflation_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/jp/inflation/m/jp_inflation_m_setting_temp.csv",
+                    "Pickle_path" : "db/jp/inflation/m/jp_inflation_pickle_path.pkl"
+                },
             },
             "Taiwan": {
                 "GDP": {
@@ -429,6 +437,14 @@ class Setting:
                     "Monthly_setting_path": "db/tw/export//m/tw_export_m_setting.csv",
                     "Monthly_temp_setting_path": "db/tw/export//m/tw_export_m_setting_temp.csv",
                     "Pickle_path" : "db/tw/export/m/tw_export_pickle_path.pkl"
+                },
+                "Inflation": {
+                    "M": True,
+                    "Monthly_data_path": "db/tw/inflation/m/tw_inflation_m_raw.csv",
+                    "Monthly_raw_data_path": "db/tw/inflation/m/tw_inflation_m_raw.csv",
+                    "Monthly_setting_path": "db/tw/inflation/m/tw_inflation_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/tw/inflation/m/tw_inflation_m_setting_temp.csv",
+                    "Pickle_path" : "db/tw/inflation/m/tw_inflation_pickle_path.pkl"
                 },
             },
             "Korea": {
@@ -473,6 +489,14 @@ class Setting:
                     "Monthly_setting_path": "db/cn/export/m/cn_export_m_setting.csv",
                     "Monthly_temp_setting_path": "db/cn/export/m/cn_export_m_setting_temp.csv",
                     "Pickle_path" : "db/cn/export/m/cn_export_pickle_path.pkl"
+                },
+                "Inflation": {
+                    "M": True,
+                    "Monthly_data_path": "db/cn/inflation/m/cn_inflation_m_raw.csv",
+                    "Monthly_raw_data_path": "db/cn/inflation/m/cn_inflation_m_raw.csv",
+                    "Monthly_setting_path": "db/cn/inflation/m/cn_inflation_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/cn/inflation/m/cn_inflation_m_setting_temp.csv",
+                    "Pickle_path" : "db/cn/inflation/m/cn_inflation_pickle_path.pkl"
                 },
             },
         }

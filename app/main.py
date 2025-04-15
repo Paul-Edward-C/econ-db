@@ -234,7 +234,10 @@ def update_db_select(attrname, old, new):
 
 
 def update_category_select(attrname, old, new):
-
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
     print(pickle_path)
     with open(pickle_path, 'rb') as f:
@@ -254,6 +257,10 @@ def update_category_select(attrname, old, new):
     
 # IGNORE UNTIL OTHER FREQS IMPLEMENTED
 def update_freq_select(attrname, old, new):
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     # Change data source and data setting
     global data, data_setting
 
@@ -268,6 +275,10 @@ def update_freq_select(attrname, old, new):
 
 
 def update_type_select(attrname, old, new):
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
@@ -290,6 +301,10 @@ def update_type_select(attrname, old, new):
 
 
 def update_cat1_select(attrname, old, new):
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
@@ -312,6 +327,10 @@ def update_cat1_select(attrname, old, new):
 
 
 def update_cat2_select(attrname, old, new):
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
@@ -334,6 +353,10 @@ def update_cat2_select(attrname, old, new):
 
 
 def update_cat3_select(attrname, old, new):
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
@@ -358,6 +381,10 @@ def update_cat3_select(attrname, old, new):
 
 
 def update_cat4_select(attrname, old, new):
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
@@ -381,6 +408,10 @@ def update_cat4_select(attrname, old, new):
     update_selects_format()
 
 def update_cat5_select(attrname, old, new):
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
@@ -405,6 +436,10 @@ def update_cat5_select(attrname, old, new):
 
 
 def update_cat6_select(attrname, old, new):
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
@@ -429,6 +464,10 @@ def update_cat6_select(attrname, old, new):
 
 
 def update_cat7_select(attrname, old, new):
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
@@ -453,6 +492,10 @@ def update_cat7_select(attrname, old, new):
 
 
 def update_cat8_select(attrname, old, new):
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
@@ -477,6 +520,10 @@ def update_cat8_select(attrname, old, new):
 
 
 def update_cat9_select(attrname, old, new):
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
@@ -500,6 +547,10 @@ def update_cat9_select(attrname, old, new):
 
 
 def update_cat10_select(attrname, old, new):
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
