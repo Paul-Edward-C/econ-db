@@ -3,19 +3,34 @@ name,display_name,data_type,chart_type
 "Korea, Exports, ASEAN, USD bn","Korea, Exports, ASEAN, USD bn",None,line
 "Korea, Exports, Africa, USD bn","Korea, Exports, Africa, USD bn",None,line
 "Korea, Exports, Asia, USD bn","Korea, Exports, Asia, USD bn",None,line
+"Korea, Exports, Australia, USD bn","Korea, Exports, Australia, USD bn",None,line
+"Korea, Exports, Brazil, USD bn","Korea, Exports, Brazil, USD bn",None,line
+"Korea, Exports, Canada, USD bn","Korea, Exports, Canada, USD bn",None,line
 "Korea, Exports, China, USD bn","Korea, Exports, China, USD bn",None,line
 "Korea, Exports, EU, USD bn","Korea, Exports, EU, USD bn",None,line
 "Korea, Exports, Europe, USD bn","Korea, Exports, Europe, USD bn",None,line
+"Korea, Exports, France, USD bn","Korea, Exports, France, USD bn",None,line
+"Korea, Exports, Germany, USD bn","Korea, Exports, Germany, USD bn",None,line
 "Korea, Exports, Hong Kong, USD bn","Korea, Exports, Hong Kong, USD bn",None,line
 "Korea, Exports, India, USD bn","Korea, Exports, India, USD bn",None,line
+"Korea, Exports, Indonesia, USD bn","Korea, Exports, Indonesia, USD bn",None,line
+"Korea, Exports, Italy, USD bn","Korea, Exports, Italy, USD bn",None,line
 "Korea, Exports, Japan, USD bn","Korea, Exports, Japan, USD bn",None,line
 "Korea, Exports, Latin America, USD bn","Korea, Exports, Latin America, USD bn",None,line
 "Korea, Exports, Malaysia, USD bn","Korea, Exports, Malaysia, USD bn",None,line
 "Korea, Exports, Middle East, USD bn","Korea, Exports, Middle East, USD bn",None,line
+"Korea, Exports, Netherlands, USD bn","Korea, Exports, Netherlands, USD bn",None,line
 "Korea, Exports, North America, USD bn","Korea, Exports, North America, USD bn",None,line
 "Korea, Exports, Oceania, USD bn","Korea, Exports, Oceania, USD bn",None,line
+"Korea, Exports, Panama, USD bn","Korea, Exports, Panama, USD bn",None,line
+"Korea, Exports, Philippines, USD bn","Korea, Exports, Philippines, USD bn",None,line
+"Korea, Exports, Russia, USD bn","Korea, Exports, Russia, USD bn",None,line
+"Korea, Exports, Saudi Arabia, USD bn","Korea, Exports, Saudi Arabia, USD bn",None,line
 "Korea, Exports, Singapore, USD bn","Korea, Exports, Singapore, USD bn",None,line
+"Korea, Exports, Switzerland, USD bn","Korea, Exports, Switzerland, USD bn",None,line
 "Korea, Exports, Taiwan, USD bn","Korea, Exports, Taiwan, USD bn",None,line
+"Korea, Exports, Thailand, USD bn","Korea, Exports, Thailand, USD bn",None,line
+"Korea, Exports, U.A.B, USD bn","Korea, Exports, U.A.B, USD bn",None,line
 "Korea, Exports, UK, USD bn","Korea, Exports, UK, USD bn",None,line
 "Korea, Exports, US, USD bn","Korea, Exports, US, USD bn",None,line
 "Korea, Exports, Vietnam, USD bn","Korea, Exports, Vietnam, USD bn",None,line
@@ -37,21 +52,33 @@ name,display_name,data_type,chart_type
 "Korea, Imports, Africa, USD bn","Korea, Imports, Africa, USD bn",None,line
 "Korea, Imports, Asia, USD bn","Korea, Imports, Asia, USD bn",None,line
 "Korea, Imports, Australia, USD bn","Korea, Imports, Australia, USD bn",None,line
+"Korea, Imports, Brazil, USD bn","Korea, Imports, Brazil, USD bn",None,line
+"Korea, Imports, Canada, USD bn","Korea, Imports, Canada, USD bn",None,line
 "Korea, Imports, China, USD bn","Korea, Imports, China, USD bn",None,line
 "Korea, Imports, EU, USD bn","Korea, Imports, EU, USD bn",None,line
 "Korea, Imports, Europe, USD bn","Korea, Imports, Europe, USD bn",None,line
+"Korea, Imports, France, USD bn","Korea, Imports, France, USD bn",None,line
+"Korea, Imports, Germany, USD bn","Korea, Imports, Germany, USD bn",None,line
 "Korea, Imports, Hong Kong, USD bn","Korea, Imports, Hong Kong, USD bn",None,line
 "Korea, Imports, India, USD bn","Korea, Imports, India, USD bn",None,line
+"Korea, Imports, Indonesia, USD bn","Korea, Imports, Indonesia, USD bn",None,line
+"Korea, Imports, Italy, USD bn","Korea, Imports, Italy, USD bn",None,line
 "Korea, Imports, Japan, USD bn","Korea, Imports, Japan, USD bn",None,line
 "Korea, Imports, Latin America, USD bn","Korea, Imports, Latin America, USD bn",None,line
 "Korea, Imports, Malaysia, USD bn","Korea, Imports, Malaysia, USD bn",None,line
 "Korea, Imports, Middle East, USD bn","Korea, Imports, Middle East, USD bn",None,line
+"Korea, Imports, Netherlands, USD bn","Korea, Imports, Netherlands, USD bn",None,line
 "Korea, Imports, North America, USD bn","Korea, Imports, North America, USD bn",None,line
 "Korea, Imports, Oceania, USD bn","Korea, Imports, Oceania, USD bn",None,line
+"Korea, Imports, Panama, USD bn","Korea, Imports, Panama, USD bn",None,line
+"Korea, Imports, Philippines, USD bn","Korea, Imports, Philippines, USD bn",None,line
 "Korea, Imports, Russia, USD bn","Korea, Imports, Russia, USD bn",None,line
 "Korea, Imports, Saudi Arabia, USD bn","Korea, Imports, Saudi Arabia, USD bn",None,line
 "Korea, Imports, Singapore, USD bn","Korea, Imports, Singapore, USD bn",None,line
+"Korea, Imports, Switzerland, USD bn","Korea, Imports, Switzerland, USD bn",None,line
 "Korea, Imports, Taiwan, USD bn","Korea, Imports, Taiwan, USD bn",None,line
+"Korea, Imports, Thailand, USD bn","Korea, Imports, Thailand, USD bn",None,line
+"Korea, Imports, U.A.B, USD bn","Korea, Imports, U.A.B, USD bn",None,line
 "Korea, Imports, UK, USD bn","Korea, Imports, UK, USD bn",None,line
 "Korea, Imports, US, USD bn","Korea, Imports, US, USD bn",None,line
 "Korea, Imports, Vietnam, USD bn","Korea, Imports, Vietnam, USD bn",None,line
@@ -94,19 +121,34 @@ name,display_name,data_type,chart_type
 "Korea, Exports, ASEAN, Work day adjusted, USD bn","Korea, Exports, ASEAN, Work day adjusted, USD bn",None,line
 "Korea, Exports, Africa, Work day adjusted, USD bn","Korea, Exports, Africa, Work day adjusted, USD bn",None,line
 "Korea, Exports, Asia, Work day adjusted, USD bn","Korea, Exports, Asia, Work day adjusted, USD bn",None,line
+"Korea, Exports, Australia, Work day adjusted, USD bn","Korea, Exports, Australia, Work day adjusted, USD bn",None,line
+"Korea, Exports, Brazil, Work day adjusted, USD bn","Korea, Exports, Brazil, Work day adjusted, USD bn",None,line
+"Korea, Exports, Canada, Work day adjusted, USD bn","Korea, Exports, Canada, Work day adjusted, USD bn",None,line
 "Korea, Exports, China, Work day adjusted, USD bn","Korea, Exports, China, Work day adjusted, USD bn",None,line
 "Korea, Exports, EU, Work day adjusted, USD bn","Korea, Exports, EU, Work day adjusted, USD bn",None,line
 "Korea, Exports, Europe, Work day adjusted, USD bn","Korea, Exports, Europe, Work day adjusted, USD bn",None,line
+"Korea, Exports, France, Work day adjusted, USD bn","Korea, Exports, France, Work day adjusted, USD bn",None,line
+"Korea, Exports, Germany, Work day adjusted, USD bn","Korea, Exports, Germany, Work day adjusted, USD bn",None,line
 "Korea, Exports, Hong Kong, Work day adjusted, USD bn","Korea, Exports, Hong Kong, Work day adjusted, USD bn",None,line
 "Korea, Exports, India, Work day adjusted, USD bn","Korea, Exports, India, Work day adjusted, USD bn",None,line
+"Korea, Exports, Indonesia, Work day adjusted, USD bn","Korea, Exports, Indonesia, Work day adjusted, USD bn",None,line
+"Korea, Exports, Italy, Work day adjusted, USD bn","Korea, Exports, Italy, Work day adjusted, USD bn",None,line
 "Korea, Exports, Japan, Work day adjusted, USD bn","Korea, Exports, Japan, Work day adjusted, USD bn",None,line
 "Korea, Exports, Latin America, Work day adjusted, USD bn","Korea, Exports, Latin America, Work day adjusted, USD bn",None,line
 "Korea, Exports, Malaysia, Work day adjusted, USD bn","Korea, Exports, Malaysia, Work day adjusted, USD bn",None,line
 "Korea, Exports, Middle East, Work day adjusted, USD bn","Korea, Exports, Middle East, Work day adjusted, USD bn",None,line
+"Korea, Exports, Netherlands, Work day adjusted, USD bn","Korea, Exports, Netherlands, Work day adjusted, USD bn",None,line
 "Korea, Exports, North America, Work day adjusted, USD bn","Korea, Exports, North America, Work day adjusted, USD bn",None,line
 "Korea, Exports, Oceania, Work day adjusted, USD bn","Korea, Exports, Oceania, Work day adjusted, USD bn",None,line
+"Korea, Exports, Panama, Work day adjusted, USD bn","Korea, Exports, Panama, Work day adjusted, USD bn",None,line
+"Korea, Exports, Philippines, Work day adjusted, USD bn","Korea, Exports, Philippines, Work day adjusted, USD bn",None,line
+"Korea, Exports, Russia, Work day adjusted, USD bn","Korea, Exports, Russia, Work day adjusted, USD bn",None,line
+"Korea, Exports, Saudi Arabia, Work day adjusted, USD bn","Korea, Exports, Saudi Arabia, Work day adjusted, USD bn",None,line
 "Korea, Exports, Singapore, Work day adjusted, USD bn","Korea, Exports, Singapore, Work day adjusted, USD bn",None,line
+"Korea, Exports, Switzerland, Work day adjusted, USD bn","Korea, Exports, Switzerland, Work day adjusted, USD bn",None,line
 "Korea, Exports, Taiwan, Work day adjusted, USD bn","Korea, Exports, Taiwan, Work day adjusted, USD bn",None,line
+"Korea, Exports, Thailand, Work day adjusted, USD bn","Korea, Exports, Thailand, Work day adjusted, USD bn",None,line
+"Korea, Exports, U.A.B, Work day adjusted, USD bn","Korea, Exports, U.A.B, Work day adjusted, USD bn",None,line
 "Korea, Exports, UK, Work day adjusted, USD bn","Korea, Exports, UK, Work day adjusted, USD bn",None,line
 "Korea, Exports, US, Work day adjusted, USD bn","Korea, Exports, US, Work day adjusted, USD bn",None,line
 "Korea, Exports, Vietnam, Work day adjusted, USD bn","Korea, Exports, Vietnam, Work day adjusted, USD bn",None,line
@@ -128,21 +170,33 @@ name,display_name,data_type,chart_type
 "Korea, Imports, Africa, Work day adjusted, USD bn","Korea, Imports, Africa, Work day adjusted, USD bn",None,line
 "Korea, Imports, Asia, Work day adjusted, USD bn","Korea, Imports, Asia, Work day adjusted, USD bn",None,line
 "Korea, Imports, Australia, Work day adjusted, USD bn","Korea, Imports, Australia, Work day adjusted, USD bn",None,line
+"Korea, Imports, Brazil, Work day adjusted, USD bn","Korea, Imports, Brazil, Work day adjusted, USD bn",None,line
+"Korea, Imports, Canada, Work day adjusted, USD bn","Korea, Imports, Canada, Work day adjusted, USD bn",None,line
 "Korea, Imports, China, Work day adjusted, USD bn","Korea, Imports, China, Work day adjusted, USD bn",None,line
 "Korea, Imports, EU, Work day adjusted, USD bn","Korea, Imports, EU, Work day adjusted, USD bn",None,line
 "Korea, Imports, Europe, Work day adjusted, USD bn","Korea, Imports, Europe, Work day adjusted, USD bn",None,line
+"Korea, Imports, France, Work day adjusted, USD bn","Korea, Imports, France, Work day adjusted, USD bn",None,line
+"Korea, Imports, Germany, Work day adjusted, USD bn","Korea, Imports, Germany, Work day adjusted, USD bn",None,line
 "Korea, Imports, Hong Kong, Work day adjusted, USD bn","Korea, Imports, Hong Kong, Work day adjusted, USD bn",None,line
 "Korea, Imports, India, Work day adjusted, USD bn","Korea, Imports, India, Work day adjusted, USD bn",None,line
+"Korea, Imports, Indonesia, Work day adjusted, USD bn","Korea, Imports, Indonesia, Work day adjusted, USD bn",None,line
+"Korea, Imports, Italy, Work day adjusted, USD bn","Korea, Imports, Italy, Work day adjusted, USD bn",None,line
 "Korea, Imports, Japan, Work day adjusted, USD bn","Korea, Imports, Japan, Work day adjusted, USD bn",None,line
 "Korea, Imports, Latin America, Work day adjusted, USD bn","Korea, Imports, Latin America, Work day adjusted, USD bn",None,line
 "Korea, Imports, Malaysia, Work day adjusted, USD bn","Korea, Imports, Malaysia, Work day adjusted, USD bn",None,line
 "Korea, Imports, Middle East, Work day adjusted, USD bn","Korea, Imports, Middle East, Work day adjusted, USD bn",None,line
+"Korea, Imports, Netherlands, Work day adjusted, USD bn","Korea, Imports, Netherlands, Work day adjusted, USD bn",None,line
 "Korea, Imports, North America, Work day adjusted, USD bn","Korea, Imports, North America, Work day adjusted, USD bn",None,line
 "Korea, Imports, Oceania, Work day adjusted, USD bn","Korea, Imports, Oceania, Work day adjusted, USD bn",None,line
+"Korea, Imports, Panama, Work day adjusted, USD bn","Korea, Imports, Panama, Work day adjusted, USD bn",None,line
+"Korea, Imports, Philippines, Work day adjusted, USD bn","Korea, Imports, Philippines, Work day adjusted, USD bn",None,line
 "Korea, Imports, Russia, Work day adjusted, USD bn","Korea, Imports, Russia, Work day adjusted, USD bn",None,line
 "Korea, Imports, Saudi Arabia, Work day adjusted, USD bn","Korea, Imports, Saudi Arabia, Work day adjusted, USD bn",None,line
 "Korea, Imports, Singapore, Work day adjusted, USD bn","Korea, Imports, Singapore, Work day adjusted, USD bn",None,line
+"Korea, Imports, Switzerland, Work day adjusted, USD bn","Korea, Imports, Switzerland, Work day adjusted, USD bn",None,line
 "Korea, Imports, Taiwan, Work day adjusted, USD bn","Korea, Imports, Taiwan, Work day adjusted, USD bn",None,line
+"Korea, Imports, Thailand, Work day adjusted, USD bn","Korea, Imports, Thailand, Work day adjusted, USD bn",None,line
+"Korea, Imports, U.A.B, Work day adjusted, USD bn","Korea, Imports, U.A.B, Work day adjusted, USD bn",None,line
 "Korea, Imports, UK, Work day adjusted, USD bn","Korea, Imports, UK, Work day adjusted, USD bn",None,line
 "Korea, Imports, US, Work day adjusted, USD bn","Korea, Imports, US, Work day adjusted, USD bn",None,line
 "Korea, Imports, Vietnam, Work day adjusted, USD bn","Korea, Imports, Vietnam, Work day adjusted, USD bn",None,line
@@ -227,15 +281,10 @@ name,display_name,data_type,chart_type
 "Korea, Imports, All, SA, KRW bn","Korea, Imports, All, SA, KRW bn",None,line
 "Korea, Exports, All, SA, KRW bn","Korea, Exports, All, SA, KRW bn",None,line
 "Korea, Exports, All, Work day adjusted, SA, USD bn","Korea, Exports, All, Work day adjusted, SA, USD bn",None,line
+"Korea, Imports, All, Work day adjusted, SA, USD bn","Korea, Imports, All, Work day adjusted, SA, USD bn",None,line
 "Korea, Exports, ASEAN, Work day adjusted, SA, USD bn","Korea, Exports, ASEAN, Work day adjusted, SA, USD bn",None,line
 "Korea, Exports, China, Work day adjusted, SA, USD bn","Korea, Exports, China, Work day adjusted, SA, USD bn",None,line
-"Korea, Exports, EU, Work day adjusted, SA, USD bn","Korea, Exports, EU, Work day adjusted, SA, USD bn",None,line
 "Korea, Exports, US, Work day adjusted, SA, USD bn","Korea, Exports, US, Work day adjusted, SA, USD bn",None,line
-"Korea, Imports, All, Work day adjusted, SA, USD bn","Korea, Imports, All, Work day adjusted, SA, USD bn",None,line
-"Korea, Imports, ASEAN, Work day adjusted, SA, USD bn","Korea, Imports, ASEAN, Work day adjusted, SA, USD bn",None,line
-"Korea, Imports, China, Work day adjusted, SA, USD bn","Korea, Imports, China, Work day adjusted, SA, USD bn",None,line
-"Korea, Imports, EU, Work day adjusted, SA, USD bn","Korea, Imports, EU, Work day adjusted, SA, USD bn",None,line
-"Korea, Imports, US, Work day adjusted, SA, USD bn","Korea, Imports, US, Work day adjusted, SA, USD bn",None,line
 "Korea, Exports, All ex ships, Work day adjusted, SA, USD bn","Korea, Exports, All ex ships, Work day adjusted, SA, USD bn",None,line
 "Korea, Exports, North Asia, Work day adjusted, SA, USD bn","Korea, Exports, North Asia, Work day adjusted, SA, USD bn",None,line
 "Korea, Exports, China and Hong Kong, Work day adjusted, SA, USD bn","Korea, Exports, China and Hong Kong, Work day adjusted, SA, USD bn",None,line
@@ -243,12 +292,6 @@ name,display_name,data_type,chart_type
 "Korea, Exports, DM excl Japan, Work day adjusted, SA, USD bn","Korea, Exports, DM excl Japan, Work day adjusted, SA, USD bn",None,line
 "Korea, Exports, Rest of world, Work day adjusted, SA, USD bn","Korea, Exports, Rest of world, Work day adjusted, SA, USD bn",None,line
 "Korea, Exports, ASEAN Three and India, Work day adjusted, SA, USD bn","Korea, Exports, ASEAN Three and India, Work day adjusted, SA, USD bn",None,line
-"Korea, Imports, North Asia, Work day adjusted, SA, USD bn","Korea, Imports, North Asia, Work day adjusted, SA, USD bn",None,line
-"Korea, Imports, China and Hong Kong, Work day adjusted, SA, USD bn","Korea, Imports, China and Hong Kong, Work day adjusted, SA, USD bn",None,line
-"Korea, Imports, Developed Europe, Work day adjusted, SA, USD bn","Korea, Imports, Developed Europe, Work day adjusted, SA, USD bn",None,line
-"Korea, Imports, DM excl Japan, Work day adjusted, SA, USD bn","Korea, Imports, DM excl Japan, Work day adjusted, SA, USD bn",None,line
-"Korea, Imports, Rest of world, Work day adjusted, SA, USD bn","Korea, Imports, Rest of world, Work day adjusted, SA, USD bn",None,line
-"Korea, Imports, ASEAN Three and India, Work day adjusted, SA, USD bn","Korea, Imports, ASEAN Three and India, Work day adjusted, SA, USD bn",None,line
 "Korea, Trade balance, China, USD bn","Korea, Trade balance, China, USD bn",None,line
 "Korea, Trade balance, US, USD bn","Korea, Trade balance, US, USD bn",None,line
 "Korea, Trade balance, EU, USD bn","Korea, Trade balance, EU, USD bn",None,line
@@ -267,7 +310,6 @@ name,display_name,data_type,chart_type
 "Korea, Trade balance, ASEAN, SA, USD bn","Korea, Trade balance, ASEAN, SA, USD bn",None,line
 "Korea, Trade balance, China and Hong Kong, SA, USD bn","Korea, Trade balance, China and Hong Kong, SA, USD bn",None,line
 "Korea, Trade balance, North Asia, SA, USD bn","Korea, Trade balance, North Asia, SA, USD bn",None,line
-"Korea, Trade balance, Developed Europe, SA, USD bn","Korea, Trade balance, Developed Europe, SA, USD bn",None,line
 "Korea, Trade balance, US, SA, USD bn","Korea, Trade balance, US, SA, USD bn",None,line
 "Korea, Trade balance, DM excl Japan, SA, USD bn","Korea, Trade balance, DM excl Japan, SA, USD bn",None,line
 "Korea, Trade balance, Rest of world, SA, USD bn","Korea, Trade balance, Rest of world, SA, USD bn",None,line
@@ -277,19 +319,34 @@ name,display_name,data_type,chart_type
 "Korea, Exports, ASEAN, USD bn, % YoY","Korea, Exports, ASEAN, USD bn, % YoY",None,line
 "Korea, Exports, Africa, USD bn, % YoY","Korea, Exports, Africa, USD bn, % YoY",None,line
 "Korea, Exports, Asia, USD bn, % YoY","Korea, Exports, Asia, USD bn, % YoY",None,line
+"Korea, Exports, Australia, USD bn, % YoY","Korea, Exports, Australia, USD bn, % YoY",None,line
+"Korea, Exports, Brazil, USD bn, % YoY","Korea, Exports, Brazil, USD bn, % YoY",None,line
+"Korea, Exports, Canada, USD bn, % YoY","Korea, Exports, Canada, USD bn, % YoY",None,line
 "Korea, Exports, China, USD bn, % YoY","Korea, Exports, China, USD bn, % YoY",None,line
 "Korea, Exports, EU, USD bn, % YoY","Korea, Exports, EU, USD bn, % YoY",None,line
 "Korea, Exports, Europe, USD bn, % YoY","Korea, Exports, Europe, USD bn, % YoY",None,line
+"Korea, Exports, France, USD bn, % YoY","Korea, Exports, France, USD bn, % YoY",None,line
+"Korea, Exports, Germany, USD bn, % YoY","Korea, Exports, Germany, USD bn, % YoY",None,line
 "Korea, Exports, Hong Kong, USD bn, % YoY","Korea, Exports, Hong Kong, USD bn, % YoY",None,line
 "Korea, Exports, India, USD bn, % YoY","Korea, Exports, India, USD bn, % YoY",None,line
+"Korea, Exports, Indonesia, USD bn, % YoY","Korea, Exports, Indonesia, USD bn, % YoY",None,line
+"Korea, Exports, Italy, USD bn, % YoY","Korea, Exports, Italy, USD bn, % YoY",None,line
 "Korea, Exports, Japan, USD bn, % YoY","Korea, Exports, Japan, USD bn, % YoY",None,line
 "Korea, Exports, Latin America, USD bn, % YoY","Korea, Exports, Latin America, USD bn, % YoY",None,line
 "Korea, Exports, Malaysia, USD bn, % YoY","Korea, Exports, Malaysia, USD bn, % YoY",None,line
 "Korea, Exports, Middle East, USD bn, % YoY","Korea, Exports, Middle East, USD bn, % YoY",None,line
+"Korea, Exports, Netherlands, USD bn, % YoY","Korea, Exports, Netherlands, USD bn, % YoY",None,line
 "Korea, Exports, North America, USD bn, % YoY","Korea, Exports, North America, USD bn, % YoY",None,line
 "Korea, Exports, Oceania, USD bn, % YoY","Korea, Exports, Oceania, USD bn, % YoY",None,line
+"Korea, Exports, Panama, USD bn, % YoY","Korea, Exports, Panama, USD bn, % YoY",None,line
+"Korea, Exports, Philippines, USD bn, % YoY","Korea, Exports, Philippines, USD bn, % YoY",None,line
+"Korea, Exports, Russia, USD bn, % YoY","Korea, Exports, Russia, USD bn, % YoY",None,line
+"Korea, Exports, Saudi Arabia, USD bn, % YoY","Korea, Exports, Saudi Arabia, USD bn, % YoY",None,line
 "Korea, Exports, Singapore, USD bn, % YoY","Korea, Exports, Singapore, USD bn, % YoY",None,line
+"Korea, Exports, Switzerland, USD bn, % YoY","Korea, Exports, Switzerland, USD bn, % YoY",None,line
 "Korea, Exports, Taiwan, USD bn, % YoY","Korea, Exports, Taiwan, USD bn, % YoY",None,line
+"Korea, Exports, Thailand, USD bn, % YoY","Korea, Exports, Thailand, USD bn, % YoY",None,line
+"Korea, Exports, U.A.B, USD bn, % YoY","Korea, Exports, U.A.B, USD bn, % YoY",None,line
 "Korea, Exports, UK, USD bn, % YoY","Korea, Exports, UK, USD bn, % YoY",None,line
 "Korea, Exports, US, USD bn, % YoY","Korea, Exports, US, USD bn, % YoY",None,line
 "Korea, Exports, Vietnam, USD bn, % YoY","Korea, Exports, Vietnam, USD bn, % YoY",None,line
@@ -311,21 +368,33 @@ name,display_name,data_type,chart_type
 "Korea, Imports, Africa, USD bn, % YoY","Korea, Imports, Africa, USD bn, % YoY",None,line
 "Korea, Imports, Asia, USD bn, % YoY","Korea, Imports, Asia, USD bn, % YoY",None,line
 "Korea, Imports, Australia, USD bn, % YoY","Korea, Imports, Australia, USD bn, % YoY",None,line
+"Korea, Imports, Brazil, USD bn, % YoY","Korea, Imports, Brazil, USD bn, % YoY",None,line
+"Korea, Imports, Canada, USD bn, % YoY","Korea, Imports, Canada, USD bn, % YoY",None,line
 "Korea, Imports, China, USD bn, % YoY","Korea, Imports, China, USD bn, % YoY",None,line
 "Korea, Imports, EU, USD bn, % YoY","Korea, Imports, EU, USD bn, % YoY",None,line
 "Korea, Imports, Europe, USD bn, % YoY","Korea, Imports, Europe, USD bn, % YoY",None,line
+"Korea, Imports, France, USD bn, % YoY","Korea, Imports, France, USD bn, % YoY",None,line
+"Korea, Imports, Germany, USD bn, % YoY","Korea, Imports, Germany, USD bn, % YoY",None,line
 "Korea, Imports, Hong Kong, USD bn, % YoY","Korea, Imports, Hong Kong, USD bn, % YoY",None,line
 "Korea, Imports, India, USD bn, % YoY","Korea, Imports, India, USD bn, % YoY",None,line
+"Korea, Imports, Indonesia, USD bn, % YoY","Korea, Imports, Indonesia, USD bn, % YoY",None,line
+"Korea, Imports, Italy, USD bn, % YoY","Korea, Imports, Italy, USD bn, % YoY",None,line
 "Korea, Imports, Japan, USD bn, % YoY","Korea, Imports, Japan, USD bn, % YoY",None,line
 "Korea, Imports, Latin America, USD bn, % YoY","Korea, Imports, Latin America, USD bn, % YoY",None,line
 "Korea, Imports, Malaysia, USD bn, % YoY","Korea, Imports, Malaysia, USD bn, % YoY",None,line
 "Korea, Imports, Middle East, USD bn, % YoY","Korea, Imports, Middle East, USD bn, % YoY",None,line
+"Korea, Imports, Netherlands, USD bn, % YoY","Korea, Imports, Netherlands, USD bn, % YoY",None,line
 "Korea, Imports, North America, USD bn, % YoY","Korea, Imports, North America, USD bn, % YoY",None,line
 "Korea, Imports, Oceania, USD bn, % YoY","Korea, Imports, Oceania, USD bn, % YoY",None,line
+"Korea, Imports, Panama, USD bn, % YoY","Korea, Imports, Panama, USD bn, % YoY",None,line
+"Korea, Imports, Philippines, USD bn, % YoY","Korea, Imports, Philippines, USD bn, % YoY",None,line
 "Korea, Imports, Russia, USD bn, % YoY","Korea, Imports, Russia, USD bn, % YoY",None,line
 "Korea, Imports, Saudi Arabia, USD bn, % YoY","Korea, Imports, Saudi Arabia, USD bn, % YoY",None,line
 "Korea, Imports, Singapore, USD bn, % YoY","Korea, Imports, Singapore, USD bn, % YoY",None,line
+"Korea, Imports, Switzerland, USD bn, % YoY","Korea, Imports, Switzerland, USD bn, % YoY",None,line
 "Korea, Imports, Taiwan, USD bn, % YoY","Korea, Imports, Taiwan, USD bn, % YoY",None,line
+"Korea, Imports, Thailand, USD bn, % YoY","Korea, Imports, Thailand, USD bn, % YoY",None,line
+"Korea, Imports, U.A.B, USD bn, % YoY","Korea, Imports, U.A.B, USD bn, % YoY",None,line
 "Korea, Imports, UK, USD bn, % YoY","Korea, Imports, UK, USD bn, % YoY",None,line
 "Korea, Imports, US, USD bn, % YoY","Korea, Imports, US, USD bn, % YoY",None,line
 "Korea, Imports, Vietnam, USD bn, % YoY","Korea, Imports, Vietnam, USD bn, % YoY",None,line
@@ -368,19 +437,34 @@ name,display_name,data_type,chart_type
 "Korea, Exports, ASEAN, Work day adjusted, USD bn, % YoY","Korea, Exports, ASEAN, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, Africa, Work day adjusted, USD bn, % YoY","Korea, Exports, Africa, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, Asia, Work day adjusted, USD bn, % YoY","Korea, Exports, Asia, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, Australia, Work day adjusted, USD bn, % YoY","Korea, Exports, Australia, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, Brazil, Work day adjusted, USD bn, % YoY","Korea, Exports, Brazil, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, Canada, Work day adjusted, USD bn, % YoY","Korea, Exports, Canada, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, China, Work day adjusted, USD bn, % YoY","Korea, Exports, China, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, EU, Work day adjusted, USD bn, % YoY","Korea, Exports, EU, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, Europe, Work day adjusted, USD bn, % YoY","Korea, Exports, Europe, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, France, Work day adjusted, USD bn, % YoY","Korea, Exports, France, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, Germany, Work day adjusted, USD bn, % YoY","Korea, Exports, Germany, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, Hong Kong, Work day adjusted, USD bn, % YoY","Korea, Exports, Hong Kong, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, India, Work day adjusted, USD bn, % YoY","Korea, Exports, India, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, Indonesia, Work day adjusted, USD bn, % YoY","Korea, Exports, Indonesia, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, Italy, Work day adjusted, USD bn, % YoY","Korea, Exports, Italy, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, Japan, Work day adjusted, USD bn, % YoY","Korea, Exports, Japan, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, Latin America, Work day adjusted, USD bn, % YoY","Korea, Exports, Latin America, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, Malaysia, Work day adjusted, USD bn, % YoY","Korea, Exports, Malaysia, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, Middle East, Work day adjusted, USD bn, % YoY","Korea, Exports, Middle East, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, Netherlands, Work day adjusted, USD bn, % YoY","Korea, Exports, Netherlands, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, North America, Work day adjusted, USD bn, % YoY","Korea, Exports, North America, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, Oceania, Work day adjusted, USD bn, % YoY","Korea, Exports, Oceania, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, Panama, Work day adjusted, USD bn, % YoY","Korea, Exports, Panama, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, Philippines, Work day adjusted, USD bn, % YoY","Korea, Exports, Philippines, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, Russia, Work day adjusted, USD bn, % YoY","Korea, Exports, Russia, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, Saudi Arabia, Work day adjusted, USD bn, % YoY","Korea, Exports, Saudi Arabia, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, Singapore, Work day adjusted, USD bn, % YoY","Korea, Exports, Singapore, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, Switzerland, Work day adjusted, USD bn, % YoY","Korea, Exports, Switzerland, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, Taiwan, Work day adjusted, USD bn, % YoY","Korea, Exports, Taiwan, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, Thailand, Work day adjusted, USD bn, % YoY","Korea, Exports, Thailand, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Exports, U.A.B, Work day adjusted, USD bn, % YoY","Korea, Exports, U.A.B, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, UK, Work day adjusted, USD bn, % YoY","Korea, Exports, UK, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, US, Work day adjusted, USD bn, % YoY","Korea, Exports, US, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Exports, Vietnam, Work day adjusted, USD bn, % YoY","Korea, Exports, Vietnam, Work day adjusted, USD bn, % YoY",None,line
@@ -402,21 +486,33 @@ name,display_name,data_type,chart_type
 "Korea, Imports, Africa, Work day adjusted, USD bn, % YoY","Korea, Imports, Africa, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, Asia, Work day adjusted, USD bn, % YoY","Korea, Imports, Asia, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, Australia, Work day adjusted, USD bn, % YoY","Korea, Imports, Australia, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Imports, Brazil, Work day adjusted, USD bn, % YoY","Korea, Imports, Brazil, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Imports, Canada, Work day adjusted, USD bn, % YoY","Korea, Imports, Canada, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, China, Work day adjusted, USD bn, % YoY","Korea, Imports, China, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, EU, Work day adjusted, USD bn, % YoY","Korea, Imports, EU, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, Europe, Work day adjusted, USD bn, % YoY","Korea, Imports, Europe, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Imports, France, Work day adjusted, USD bn, % YoY","Korea, Imports, France, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Imports, Germany, Work day adjusted, USD bn, % YoY","Korea, Imports, Germany, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, Hong Kong, Work day adjusted, USD bn, % YoY","Korea, Imports, Hong Kong, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, India, Work day adjusted, USD bn, % YoY","Korea, Imports, India, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Imports, Indonesia, Work day adjusted, USD bn, % YoY","Korea, Imports, Indonesia, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Imports, Italy, Work day adjusted, USD bn, % YoY","Korea, Imports, Italy, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, Japan, Work day adjusted, USD bn, % YoY","Korea, Imports, Japan, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, Latin America, Work day adjusted, USD bn, % YoY","Korea, Imports, Latin America, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, Malaysia, Work day adjusted, USD bn, % YoY","Korea, Imports, Malaysia, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, Middle East, Work day adjusted, USD bn, % YoY","Korea, Imports, Middle East, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Imports, Netherlands, Work day adjusted, USD bn, % YoY","Korea, Imports, Netherlands, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, North America, Work day adjusted, USD bn, % YoY","Korea, Imports, North America, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, Oceania, Work day adjusted, USD bn, % YoY","Korea, Imports, Oceania, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Imports, Panama, Work day adjusted, USD bn, % YoY","Korea, Imports, Panama, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Imports, Philippines, Work day adjusted, USD bn, % YoY","Korea, Imports, Philippines, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, Russia, Work day adjusted, USD bn, % YoY","Korea, Imports, Russia, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, Saudi Arabia, Work day adjusted, USD bn, % YoY","Korea, Imports, Saudi Arabia, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, Singapore, Work day adjusted, USD bn, % YoY","Korea, Imports, Singapore, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Imports, Switzerland, Work day adjusted, USD bn, % YoY","Korea, Imports, Switzerland, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, Taiwan, Work day adjusted, USD bn, % YoY","Korea, Imports, Taiwan, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Imports, Thailand, Work day adjusted, USD bn, % YoY","Korea, Imports, Thailand, Work day adjusted, USD bn, % YoY",None,line
+"Korea, Imports, U.A.B, Work day adjusted, USD bn, % YoY","Korea, Imports, U.A.B, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, UK, Work day adjusted, USD bn, % YoY","Korea, Imports, UK, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, US, Work day adjusted, USD bn, % YoY","Korea, Imports, US, Work day adjusted, USD bn, % YoY",None,line
 "Korea, Imports, Vietnam, Work day adjusted, USD bn, % YoY","Korea, Imports, Vietnam, Work day adjusted, USD bn, % YoY",None,line
@@ -457,19 +553,34 @@ name,display_name,data_type,chart_type
 "Korea, Exports, ASEAN, Contribution to YoY chg, ppts","Korea, Exports, ASEAN, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Africa, Contribution to YoY chg, ppts","Korea, Exports, Africa, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Asia, Contribution to YoY chg, ppts","Korea, Exports, Asia, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Australia, Contribution to YoY chg, ppts","Korea, Exports, Australia, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Brazil, Contribution to YoY chg, ppts","Korea, Exports, Brazil, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Canada, Contribution to YoY chg, ppts","Korea, Exports, Canada, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, China, Contribution to YoY chg, ppts","Korea, Exports, China, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, EU, Contribution to YoY chg, ppts","Korea, Exports, EU, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Europe, Contribution to YoY chg, ppts","Korea, Exports, Europe, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, France, Contribution to YoY chg, ppts","Korea, Exports, France, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Germany, Contribution to YoY chg, ppts","Korea, Exports, Germany, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Hong Kong, Contribution to YoY chg, ppts","Korea, Exports, Hong Kong, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, India, Contribution to YoY chg, ppts","Korea, Exports, India, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Indonesia, Contribution to YoY chg, ppts","Korea, Exports, Indonesia, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Italy, Contribution to YoY chg, ppts","Korea, Exports, Italy, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Japan, Contribution to YoY chg, ppts","Korea, Exports, Japan, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Latin America, Contribution to YoY chg, ppts","Korea, Exports, Latin America, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Malaysia, Contribution to YoY chg, ppts","Korea, Exports, Malaysia, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Middle East, Contribution to YoY chg, ppts","Korea, Exports, Middle East, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Netherlands, Contribution to YoY chg, ppts","Korea, Exports, Netherlands, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, North America, Contribution to YoY chg, ppts","Korea, Exports, North America, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Oceania, Contribution to YoY chg, ppts","Korea, Exports, Oceania, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Panama, Contribution to YoY chg, ppts","Korea, Exports, Panama, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Philippines, Contribution to YoY chg, ppts","Korea, Exports, Philippines, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Russia, Contribution to YoY chg, ppts","Korea, Exports, Russia, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Saudi Arabia, Contribution to YoY chg, ppts","Korea, Exports, Saudi Arabia, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Singapore, Contribution to YoY chg, ppts","Korea, Exports, Singapore, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Switzerland, Contribution to YoY chg, ppts","Korea, Exports, Switzerland, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Taiwan, Contribution to YoY chg, ppts","Korea, Exports, Taiwan, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Thailand, Contribution to YoY chg, ppts","Korea, Exports, Thailand, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, U.A.B, Contribution to YoY chg, ppts","Korea, Exports, U.A.B, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, UK, Contribution to YoY chg, ppts","Korea, Exports, UK, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, US, Contribution to YoY chg, ppts","Korea, Exports, US, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Vietnam, Contribution to YoY chg, ppts","Korea, Exports, Vietnam, Contribution to YoY chg, ppts",None,bar
@@ -503,21 +614,33 @@ name,display_name,data_type,chart_type
 "Korea, Imports, Africa, Contribution to YoY chg, ppts","Korea, Imports, Africa, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Asia, Contribution to YoY chg, ppts","Korea, Imports, Asia, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Australia, Contribution to YoY chg, ppts","Korea, Imports, Australia, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Brazil, Contribution to YoY chg, ppts","Korea, Imports, Brazil, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Canada, Contribution to YoY chg, ppts","Korea, Imports, Canada, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, China, Contribution to YoY chg, ppts","Korea, Imports, China, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, EU, Contribution to YoY chg, ppts","Korea, Imports, EU, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Europe, Contribution to YoY chg, ppts","Korea, Imports, Europe, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, France, Contribution to YoY chg, ppts","Korea, Imports, France, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Germany, Contribution to YoY chg, ppts","Korea, Imports, Germany, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Hong Kong, Contribution to YoY chg, ppts","Korea, Imports, Hong Kong, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, India, Contribution to YoY chg, ppts","Korea, Imports, India, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Indonesia, Contribution to YoY chg, ppts","Korea, Imports, Indonesia, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Italy, Contribution to YoY chg, ppts","Korea, Imports, Italy, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Japan, Contribution to YoY chg, ppts","Korea, Imports, Japan, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Latin America, Contribution to YoY chg, ppts","Korea, Imports, Latin America, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Malaysia, Contribution to YoY chg, ppts","Korea, Imports, Malaysia, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Middle East, Contribution to YoY chg, ppts","Korea, Imports, Middle East, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Netherlands, Contribution to YoY chg, ppts","Korea, Imports, Netherlands, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, North America, Contribution to YoY chg, ppts","Korea, Imports, North America, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Oceania, Contribution to YoY chg, ppts","Korea, Imports, Oceania, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Panama, Contribution to YoY chg, ppts","Korea, Imports, Panama, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Philippines, Contribution to YoY chg, ppts","Korea, Imports, Philippines, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Russia, Contribution to YoY chg, ppts","Korea, Imports, Russia, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Saudi Arabia, Contribution to YoY chg, ppts","Korea, Imports, Saudi Arabia, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Singapore, Contribution to YoY chg, ppts","Korea, Imports, Singapore, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Switzerland, Contribution to YoY chg, ppts","Korea, Imports, Switzerland, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Taiwan, Contribution to YoY chg, ppts","Korea, Imports, Taiwan, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Thailand, Contribution to YoY chg, ppts","Korea, Imports, Thailand, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, U.A.B, Contribution to YoY chg, ppts","Korea, Imports, U.A.B, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, UK, Contribution to YoY chg, ppts","Korea, Imports, UK, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, US, Contribution to YoY chg, ppts","Korea, Imports, US, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Vietnam, Contribution to YoY chg, ppts","Korea, Imports, Vietnam, Contribution to YoY chg, ppts",None,bar
@@ -546,19 +669,34 @@ name,display_name,data_type,chart_type
 "Korea, Exports, ASEAN, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, ASEAN, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Africa, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Africa, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Asia, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Asia, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Australia, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Australia, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Brazil, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Brazil, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Canada, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Canada, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, China, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, China, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, EU, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, EU, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Europe, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Europe, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, France, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, France, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Germany, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Germany, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Hong Kong, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Hong Kong, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, India, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, India, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Indonesia, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Indonesia, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Italy, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Italy, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Japan, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Japan, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Latin America, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Latin America, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Malaysia, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Malaysia, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Middle East, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Middle East, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Netherlands, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Netherlands, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, North America, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, North America, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Oceania, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Oceania, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Panama, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Panama, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Philippines, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Philippines, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Russia, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Russia, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Saudi Arabia, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Saudi Arabia, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Singapore, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Singapore, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Switzerland, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Switzerland, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Taiwan, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Taiwan, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, Thailand, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Thailand, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Exports, U.A.B, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, U.A.B, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, UK, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, UK, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, US, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, US, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Exports, Vietnam, Work day adjusted, Contribution to YoY chg, ppts","Korea, Exports, Vietnam, Work day adjusted, Contribution to YoY chg, ppts",None,bar
@@ -592,21 +730,33 @@ name,display_name,data_type,chart_type
 "Korea, Imports, Africa, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Africa, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Asia, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Asia, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Australia, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Australia, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Brazil, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Brazil, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Canada, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Canada, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, China, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, China, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, EU, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, EU, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Europe, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Europe, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, France, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, France, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Germany, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Germany, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Hong Kong, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Hong Kong, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, India, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, India, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Indonesia, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Indonesia, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Italy, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Italy, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Japan, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Japan, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Latin America, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Latin America, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Malaysia, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Malaysia, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Middle East, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Middle East, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Netherlands, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Netherlands, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, North America, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, North America, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Oceania, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Oceania, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Panama, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Panama, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Philippines, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Philippines, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Russia, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Russia, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Saudi Arabia, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Saudi Arabia, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Singapore, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Singapore, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Switzerland, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Switzerland, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Taiwan, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Taiwan, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, Thailand, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Thailand, Work day adjusted, Contribution to YoY chg, ppts",None,bar
+"Korea, Imports, U.A.B, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, U.A.B, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, UK, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, UK, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, US, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, US, Work day adjusted, Contribution to YoY chg, ppts",None,bar
 "Korea, Imports, Vietnam, Work day adjusted, Contribution to YoY chg, ppts","Korea, Imports, Vietnam, Work day adjusted, Contribution to YoY chg, ppts",None,bar
@@ -679,15 +829,10 @@ name,display_name,data_type,chart_type
 "Korea, Imports, All, SA, KRW bn, % MoM","Korea, Imports, All, SA, KRW bn, % MoM",None,line
 "Korea, Exports, All, SA, KRW bn, % MoM","Korea, Exports, All, SA, KRW bn, % MoM",None,line
 "Korea, Exports, All, Work day adjusted, SA, USD bn, % MoM","Korea, Exports, All, Work day adjusted, SA, USD bn, % MoM",None,line
+"Korea, Imports, All, Work day adjusted, SA, USD bn, % MoM","Korea, Imports, All, Work day adjusted, SA, USD bn, % MoM",None,line
 "Korea, Exports, ASEAN, Work day adjusted, SA, USD bn, % MoM","Korea, Exports, ASEAN, Work day adjusted, SA, USD bn, % MoM",None,line
 "Korea, Exports, China, Work day adjusted, SA, USD bn, % MoM","Korea, Exports, China, Work day adjusted, SA, USD bn, % MoM",None,line
-"Korea, Exports, EU, Work day adjusted, SA, USD bn, % MoM","Korea, Exports, EU, Work day adjusted, SA, USD bn, % MoM",None,line
 "Korea, Exports, US, Work day adjusted, SA, USD bn, % MoM","Korea, Exports, US, Work day adjusted, SA, USD bn, % MoM",None,line
-"Korea, Imports, All, Work day adjusted, SA, USD bn, % MoM","Korea, Imports, All, Work day adjusted, SA, USD bn, % MoM",None,line
-"Korea, Imports, ASEAN, Work day adjusted, SA, USD bn, % MoM","Korea, Imports, ASEAN, Work day adjusted, SA, USD bn, % MoM",None,line
-"Korea, Imports, China, Work day adjusted, SA, USD bn, % MoM","Korea, Imports, China, Work day adjusted, SA, USD bn, % MoM",None,line
-"Korea, Imports, EU, Work day adjusted, SA, USD bn, % MoM","Korea, Imports, EU, Work day adjusted, SA, USD bn, % MoM",None,line
-"Korea, Imports, US, Work day adjusted, SA, USD bn, % MoM","Korea, Imports, US, Work day adjusted, SA, USD bn, % MoM",None,line
 "Korea, Exports, All ex ships, Work day adjusted, SA, USD bn, % MoM","Korea, Exports, All ex ships, Work day adjusted, SA, USD bn, % MoM",None,line
 "Korea, Exports, North Asia, Work day adjusted, SA, USD bn, % MoM","Korea, Exports, North Asia, Work day adjusted, SA, USD bn, % MoM",None,line
 "Korea, Exports, China and Hong Kong, Work day adjusted, SA, USD bn, % MoM","Korea, Exports, China and Hong Kong, Work day adjusted, SA, USD bn, % MoM",None,line
@@ -695,12 +840,6 @@ name,display_name,data_type,chart_type
 "Korea, Exports, DM excl Japan, Work day adjusted, SA, USD bn, % MoM","Korea, Exports, DM excl Japan, Work day adjusted, SA, USD bn, % MoM",None,line
 "Korea, Exports, Rest of world, Work day adjusted, SA, USD bn, % MoM","Korea, Exports, Rest of world, Work day adjusted, SA, USD bn, % MoM",None,line
 "Korea, Exports, ASEAN Three and India, Work day adjusted, SA, USD bn, % MoM","Korea, Exports, ASEAN Three and India, Work day adjusted, SA, USD bn, % MoM",None,line
-"Korea, Imports, North Asia, Work day adjusted, SA, USD bn, % MoM","Korea, Imports, North Asia, Work day adjusted, SA, USD bn, % MoM",None,line
-"Korea, Imports, China and Hong Kong, Work day adjusted, SA, USD bn, % MoM","Korea, Imports, China and Hong Kong, Work day adjusted, SA, USD bn, % MoM",None,line
-"Korea, Imports, Developed Europe, Work day adjusted, SA, USD bn, % MoM","Korea, Imports, Developed Europe, Work day adjusted, SA, USD bn, % MoM",None,line
-"Korea, Imports, DM excl Japan, Work day adjusted, SA, USD bn, % MoM","Korea, Imports, DM excl Japan, Work day adjusted, SA, USD bn, % MoM",None,line
-"Korea, Imports, Rest of world, Work day adjusted, SA, USD bn, % MoM","Korea, Imports, Rest of world, Work day adjusted, SA, USD bn, % MoM",None,line
-"Korea, Imports, ASEAN Three and India, Work day adjusted, SA, USD bn, % MoM","Korea, Imports, ASEAN Three and India, Work day adjusted, SA, USD bn, % MoM",None,line
 "Korea, Exports, Autos, Contribution to MoM chg, ppts","Korea, Exports, Autos, Contribution to MoM chg, ppts",None,bar
 "Korea, Exports, Petroleum products, Contribution to MoM chg, ppts","Korea, Exports, Petroleum products, Contribution to MoM chg, ppts",None,bar
 "Korea, Exports, Semiconductors, Contribution to MoM chg, ppts","Korea, Exports, Semiconductors, Contribution to MoM chg, ppts",None,bar
@@ -749,7 +888,6 @@ name,display_name,data_type,chart_type
 "Korea, Exports, All, Work day adjusted, Contribution to MoM chg, ppts","Korea, Exports, All, Work day adjusted, Contribution to MoM chg, ppts",None,bar
 "Korea, Exports, ASEAN, Work day adjusted, Contribution to MoM chg, ppts","Korea, Exports, ASEAN, Work day adjusted, Contribution to MoM chg, ppts",None,bar
 "Korea, Exports, China, Work day adjusted, Contribution to MoM chg, ppts","Korea, Exports, China, Work day adjusted, Contribution to MoM chg, ppts",None,bar
-"Korea, Exports, EU, Work day adjusted, Contribution to MoM chg, ppts","Korea, Exports, EU, Work day adjusted, Contribution to MoM chg, ppts",None,bar
 "Korea, Exports, US, Work day adjusted, Contribution to MoM chg, ppts","Korea, Exports, US, Work day adjusted, Contribution to MoM chg, ppts",None,bar
 "Korea, Exports, All ex ships, Work day adjusted, Contribution to MoM chg, ppts","Korea, Exports, All ex ships, Work day adjusted, Contribution to MoM chg, ppts",None,bar
 "Korea, Exports, North Asia, Work day adjusted, Contribution to MoM chg, ppts","Korea, Exports, North Asia, Work day adjusted, Contribution to MoM chg, ppts",None,bar
@@ -761,33 +899,38 @@ name,display_name,data_type,chart_type
 "Korea, Imports, Semiconductor mfg equipment, Work day adjusted, Contribution to MoM chg, ppts","Korea, Imports, Semiconductor mfg equipment, Work day adjusted, Contribution to MoM chg, ppts",None,bar
 "Korea, Imports, Energy, Work day adjusted, Contribution to MoM chg, ppts","Korea, Imports, Energy, Work day adjusted, Contribution to MoM chg, ppts",None,bar
 "Korea, Imports, All, Work day adjusted, Contribution to MoM chg, ppts","Korea, Imports, All, Work day adjusted, Contribution to MoM chg, ppts",None,bar
-"Korea, Imports, ASEAN, Work day adjusted, Contribution to MoM chg, ppts","Korea, Imports, ASEAN, Work day adjusted, Contribution to MoM chg, ppts",None,bar
-"Korea, Imports, China, Work day adjusted, Contribution to MoM chg, ppts","Korea, Imports, China, Work day adjusted, Contribution to MoM chg, ppts",None,bar
-"Korea, Imports, EU, Work day adjusted, Contribution to MoM chg, ppts","Korea, Imports, EU, Work day adjusted, Contribution to MoM chg, ppts",None,bar
-"Korea, Imports, US, Work day adjusted, Contribution to MoM chg, ppts","Korea, Imports, US, Work day adjusted, Contribution to MoM chg, ppts",None,bar
-"Korea, Imports, North Asia, Work day adjusted, Contribution to MoM chg, ppts","Korea, Imports, North Asia, Work day adjusted, Contribution to MoM chg, ppts",None,bar
-"Korea, Imports, China and Hong Kong, Work day adjusted, Contribution to MoM chg, ppts","Korea, Imports, China and Hong Kong, Work day adjusted, Contribution to MoM chg, ppts",None,bar
-"Korea, Imports, Developed Europe, Work day adjusted, Contribution to MoM chg, ppts","Korea, Imports, Developed Europe, Work day adjusted, Contribution to MoM chg, ppts",None,bar
-"Korea, Imports, DM excl Japan, Work day adjusted, Contribution to MoM chg, ppts","Korea, Imports, DM excl Japan, Work day adjusted, Contribution to MoM chg, ppts",None,bar
-"Korea, Imports, Rest of world, Work day adjusted, Contribution to MoM chg, ppts","Korea, Imports, Rest of world, Work day adjusted, Contribution to MoM chg, ppts",None,bar
-"Korea, Imports, ASEAN Three and India, Work day adjusted, Contribution to MoM chg, ppts","Korea, Imports, ASEAN Three and India, Work day adjusted, Contribution to MoM chg, ppts",None,bar
 "Korea, Exports, All, % of GDP","Korea, Exports, All, % of GDP",None,line
 "Korea, Exports, ASEAN, % of GDP","Korea, Exports, ASEAN, % of GDP",None,line
 "Korea, Exports, Africa, % of GDP","Korea, Exports, Africa, % of GDP",None,line
 "Korea, Exports, Asia, % of GDP","Korea, Exports, Asia, % of GDP",None,line
+"Korea, Exports, Australia, % of GDP","Korea, Exports, Australia, % of GDP",None,line
+"Korea, Exports, Brazil, % of GDP","Korea, Exports, Brazil, % of GDP",None,line
+"Korea, Exports, Canada, % of GDP","Korea, Exports, Canada, % of GDP",None,line
 "Korea, Exports, China, % of GDP","Korea, Exports, China, % of GDP",None,line
 "Korea, Exports, EU, % of GDP","Korea, Exports, EU, % of GDP",None,line
 "Korea, Exports, Europe, % of GDP","Korea, Exports, Europe, % of GDP",None,line
+"Korea, Exports, France, % of GDP","Korea, Exports, France, % of GDP",None,line
+"Korea, Exports, Germany, % of GDP","Korea, Exports, Germany, % of GDP",None,line
 "Korea, Exports, Hong Kong, % of GDP","Korea, Exports, Hong Kong, % of GDP",None,line
 "Korea, Exports, India, % of GDP","Korea, Exports, India, % of GDP",None,line
+"Korea, Exports, Indonesia, % of GDP","Korea, Exports, Indonesia, % of GDP",None,line
+"Korea, Exports, Italy, % of GDP","Korea, Exports, Italy, % of GDP",None,line
 "Korea, Exports, Japan, % of GDP","Korea, Exports, Japan, % of GDP",None,line
 "Korea, Exports, Latin America, % of GDP","Korea, Exports, Latin America, % of GDP",None,line
 "Korea, Exports, Malaysia, % of GDP","Korea, Exports, Malaysia, % of GDP",None,line
 "Korea, Exports, Middle East, % of GDP","Korea, Exports, Middle East, % of GDP",None,line
+"Korea, Exports, Netherlands, % of GDP","Korea, Exports, Netherlands, % of GDP",None,line
 "Korea, Exports, North America, % of GDP","Korea, Exports, North America, % of GDP",None,line
 "Korea, Exports, Oceania, % of GDP","Korea, Exports, Oceania, % of GDP",None,line
+"Korea, Exports, Panama, % of GDP","Korea, Exports, Panama, % of GDP",None,line
+"Korea, Exports, Philippines, % of GDP","Korea, Exports, Philippines, % of GDP",None,line
+"Korea, Exports, Russia, % of GDP","Korea, Exports, Russia, % of GDP",None,line
+"Korea, Exports, Saudi Arabia, % of GDP","Korea, Exports, Saudi Arabia, % of GDP",None,line
 "Korea, Exports, Singapore, % of GDP","Korea, Exports, Singapore, % of GDP",None,line
+"Korea, Exports, Switzerland, % of GDP","Korea, Exports, Switzerland, % of GDP",None,line
 "Korea, Exports, Taiwan, % of GDP","Korea, Exports, Taiwan, % of GDP",None,line
+"Korea, Exports, Thailand, % of GDP","Korea, Exports, Thailand, % of GDP",None,line
+"Korea, Exports, U.A.B, % of GDP","Korea, Exports, U.A.B, % of GDP",None,line
 "Korea, Exports, UK, % of GDP","Korea, Exports, UK, % of GDP",None,line
 "Korea, Exports, US, % of GDP","Korea, Exports, US, % of GDP",None,line
 "Korea, Exports, Vietnam, % of GDP","Korea, Exports, Vietnam, % of GDP",None,line
@@ -809,21 +952,33 @@ name,display_name,data_type,chart_type
 "Korea, Imports, Africa, % of GDP","Korea, Imports, Africa, % of GDP",None,line
 "Korea, Imports, Asia, % of GDP","Korea, Imports, Asia, % of GDP",None,line
 "Korea, Imports, Australia, % of GDP","Korea, Imports, Australia, % of GDP",None,line
+"Korea, Imports, Brazil, % of GDP","Korea, Imports, Brazil, % of GDP",None,line
+"Korea, Imports, Canada, % of GDP","Korea, Imports, Canada, % of GDP",None,line
 "Korea, Imports, China, % of GDP","Korea, Imports, China, % of GDP",None,line
 "Korea, Imports, EU, % of GDP","Korea, Imports, EU, % of GDP",None,line
 "Korea, Imports, Europe, % of GDP","Korea, Imports, Europe, % of GDP",None,line
+"Korea, Imports, France, % of GDP","Korea, Imports, France, % of GDP",None,line
+"Korea, Imports, Germany, % of GDP","Korea, Imports, Germany, % of GDP",None,line
 "Korea, Imports, Hong Kong, % of GDP","Korea, Imports, Hong Kong, % of GDP",None,line
 "Korea, Imports, India, % of GDP","Korea, Imports, India, % of GDP",None,line
+"Korea, Imports, Indonesia, % of GDP","Korea, Imports, Indonesia, % of GDP",None,line
+"Korea, Imports, Italy, % of GDP","Korea, Imports, Italy, % of GDP",None,line
 "Korea, Imports, Japan, % of GDP","Korea, Imports, Japan, % of GDP",None,line
 "Korea, Imports, Latin America, % of GDP","Korea, Imports, Latin America, % of GDP",None,line
 "Korea, Imports, Malaysia, % of GDP","Korea, Imports, Malaysia, % of GDP",None,line
 "Korea, Imports, Middle East, % of GDP","Korea, Imports, Middle East, % of GDP",None,line
+"Korea, Imports, Netherlands, % of GDP","Korea, Imports, Netherlands, % of GDP",None,line
 "Korea, Imports, North America, % of GDP","Korea, Imports, North America, % of GDP",None,line
 "Korea, Imports, Oceania, % of GDP","Korea, Imports, Oceania, % of GDP",None,line
+"Korea, Imports, Panama, % of GDP","Korea, Imports, Panama, % of GDP",None,line
+"Korea, Imports, Philippines, % of GDP","Korea, Imports, Philippines, % of GDP",None,line
 "Korea, Imports, Russia, % of GDP","Korea, Imports, Russia, % of GDP",None,line
 "Korea, Imports, Saudi Arabia, % of GDP","Korea, Imports, Saudi Arabia, % of GDP",None,line
 "Korea, Imports, Singapore, % of GDP","Korea, Imports, Singapore, % of GDP",None,line
+"Korea, Imports, Switzerland, % of GDP","Korea, Imports, Switzerland, % of GDP",None,line
 "Korea, Imports, Taiwan, % of GDP","Korea, Imports, Taiwan, % of GDP",None,line
+"Korea, Imports, Thailand, % of GDP","Korea, Imports, Thailand, % of GDP",None,line
+"Korea, Imports, U.A.B, % of GDP","Korea, Imports, U.A.B, % of GDP",None,line
 "Korea, Imports, UK, % of GDP","Korea, Imports, UK, % of GDP",None,line
 "Korea, Imports, US, % of GDP","Korea, Imports, US, % of GDP",None,line
 "Korea, Imports, Vietnam, % of GDP","Korea, Imports, Vietnam, % of GDP",None,line
@@ -866,19 +1021,34 @@ name,display_name,data_type,chart_type
 "Korea, Exports, ASEAN, Work day adjusted, % of GDP","Korea, Exports, ASEAN, Work day adjusted, % of GDP",None,line
 "Korea, Exports, Africa, Work day adjusted, % of GDP","Korea, Exports, Africa, Work day adjusted, % of GDP",None,line
 "Korea, Exports, Asia, Work day adjusted, % of GDP","Korea, Exports, Asia, Work day adjusted, % of GDP",None,line
+"Korea, Exports, Australia, Work day adjusted, % of GDP","Korea, Exports, Australia, Work day adjusted, % of GDP",None,line
+"Korea, Exports, Brazil, Work day adjusted, % of GDP","Korea, Exports, Brazil, Work day adjusted, % of GDP",None,line
+"Korea, Exports, Canada, Work day adjusted, % of GDP","Korea, Exports, Canada, Work day adjusted, % of GDP",None,line
 "Korea, Exports, China, Work day adjusted, % of GDP","Korea, Exports, China, Work day adjusted, % of GDP",None,line
 "Korea, Exports, EU, Work day adjusted, % of GDP","Korea, Exports, EU, Work day adjusted, % of GDP",None,line
 "Korea, Exports, Europe, Work day adjusted, % of GDP","Korea, Exports, Europe, Work day adjusted, % of GDP",None,line
+"Korea, Exports, France, Work day adjusted, % of GDP","Korea, Exports, France, Work day adjusted, % of GDP",None,line
+"Korea, Exports, Germany, Work day adjusted, % of GDP","Korea, Exports, Germany, Work day adjusted, % of GDP",None,line
 "Korea, Exports, Hong Kong, Work day adjusted, % of GDP","Korea, Exports, Hong Kong, Work day adjusted, % of GDP",None,line
 "Korea, Exports, India, Work day adjusted, % of GDP","Korea, Exports, India, Work day adjusted, % of GDP",None,line
+"Korea, Exports, Indonesia, Work day adjusted, % of GDP","Korea, Exports, Indonesia, Work day adjusted, % of GDP",None,line
+"Korea, Exports, Italy, Work day adjusted, % of GDP","Korea, Exports, Italy, Work day adjusted, % of GDP",None,line
 "Korea, Exports, Japan, Work day adjusted, % of GDP","Korea, Exports, Japan, Work day adjusted, % of GDP",None,line
 "Korea, Exports, Latin America, Work day adjusted, % of GDP","Korea, Exports, Latin America, Work day adjusted, % of GDP",None,line
 "Korea, Exports, Malaysia, Work day adjusted, % of GDP","Korea, Exports, Malaysia, Work day adjusted, % of GDP",None,line
 "Korea, Exports, Middle East, Work day adjusted, % of GDP","Korea, Exports, Middle East, Work day adjusted, % of GDP",None,line
+"Korea, Exports, Netherlands, Work day adjusted, % of GDP","Korea, Exports, Netherlands, Work day adjusted, % of GDP",None,line
 "Korea, Exports, North America, Work day adjusted, % of GDP","Korea, Exports, North America, Work day adjusted, % of GDP",None,line
 "Korea, Exports, Oceania, Work day adjusted, % of GDP","Korea, Exports, Oceania, Work day adjusted, % of GDP",None,line
+"Korea, Exports, Panama, Work day adjusted, % of GDP","Korea, Exports, Panama, Work day adjusted, % of GDP",None,line
+"Korea, Exports, Philippines, Work day adjusted, % of GDP","Korea, Exports, Philippines, Work day adjusted, % of GDP",None,line
+"Korea, Exports, Russia, Work day adjusted, % of GDP","Korea, Exports, Russia, Work day adjusted, % of GDP",None,line
+"Korea, Exports, Saudi Arabia, Work day adjusted, % of GDP","Korea, Exports, Saudi Arabia, Work day adjusted, % of GDP",None,line
 "Korea, Exports, Singapore, Work day adjusted, % of GDP","Korea, Exports, Singapore, Work day adjusted, % of GDP",None,line
+"Korea, Exports, Switzerland, Work day adjusted, % of GDP","Korea, Exports, Switzerland, Work day adjusted, % of GDP",None,line
 "Korea, Exports, Taiwan, Work day adjusted, % of GDP","Korea, Exports, Taiwan, Work day adjusted, % of GDP",None,line
+"Korea, Exports, Thailand, Work day adjusted, % of GDP","Korea, Exports, Thailand, Work day adjusted, % of GDP",None,line
+"Korea, Exports, U.A.B, Work day adjusted, % of GDP","Korea, Exports, U.A.B, Work day adjusted, % of GDP",None,line
 "Korea, Exports, UK, Work day adjusted, % of GDP","Korea, Exports, UK, Work day adjusted, % of GDP",None,line
 "Korea, Exports, US, Work day adjusted, % of GDP","Korea, Exports, US, Work day adjusted, % of GDP",None,line
 "Korea, Exports, Vietnam, Work day adjusted, % of GDP","Korea, Exports, Vietnam, Work day adjusted, % of GDP",None,line
@@ -900,21 +1070,33 @@ name,display_name,data_type,chart_type
 "Korea, Imports, Africa, Work day adjusted, % of GDP","Korea, Imports, Africa, Work day adjusted, % of GDP",None,line
 "Korea, Imports, Asia, Work day adjusted, % of GDP","Korea, Imports, Asia, Work day adjusted, % of GDP",None,line
 "Korea, Imports, Australia, Work day adjusted, % of GDP","Korea, Imports, Australia, Work day adjusted, % of GDP",None,line
+"Korea, Imports, Brazil, Work day adjusted, % of GDP","Korea, Imports, Brazil, Work day adjusted, % of GDP",None,line
+"Korea, Imports, Canada, Work day adjusted, % of GDP","Korea, Imports, Canada, Work day adjusted, % of GDP",None,line
 "Korea, Imports, China, Work day adjusted, % of GDP","Korea, Imports, China, Work day adjusted, % of GDP",None,line
 "Korea, Imports, EU, Work day adjusted, % of GDP","Korea, Imports, EU, Work day adjusted, % of GDP",None,line
 "Korea, Imports, Europe, Work day adjusted, % of GDP","Korea, Imports, Europe, Work day adjusted, % of GDP",None,line
+"Korea, Imports, France, Work day adjusted, % of GDP","Korea, Imports, France, Work day adjusted, % of GDP",None,line
+"Korea, Imports, Germany, Work day adjusted, % of GDP","Korea, Imports, Germany, Work day adjusted, % of GDP",None,line
 "Korea, Imports, Hong Kong, Work day adjusted, % of GDP","Korea, Imports, Hong Kong, Work day adjusted, % of GDP",None,line
 "Korea, Imports, India, Work day adjusted, % of GDP","Korea, Imports, India, Work day adjusted, % of GDP",None,line
+"Korea, Imports, Indonesia, Work day adjusted, % of GDP","Korea, Imports, Indonesia, Work day adjusted, % of GDP",None,line
+"Korea, Imports, Italy, Work day adjusted, % of GDP","Korea, Imports, Italy, Work day adjusted, % of GDP",None,line
 "Korea, Imports, Japan, Work day adjusted, % of GDP","Korea, Imports, Japan, Work day adjusted, % of GDP",None,line
 "Korea, Imports, Latin America, Work day adjusted, % of GDP","Korea, Imports, Latin America, Work day adjusted, % of GDP",None,line
 "Korea, Imports, Malaysia, Work day adjusted, % of GDP","Korea, Imports, Malaysia, Work day adjusted, % of GDP",None,line
 "Korea, Imports, Middle East, Work day adjusted, % of GDP","Korea, Imports, Middle East, Work day adjusted, % of GDP",None,line
+"Korea, Imports, Netherlands, Work day adjusted, % of GDP","Korea, Imports, Netherlands, Work day adjusted, % of GDP",None,line
 "Korea, Imports, North America, Work day adjusted, % of GDP","Korea, Imports, North America, Work day adjusted, % of GDP",None,line
 "Korea, Imports, Oceania, Work day adjusted, % of GDP","Korea, Imports, Oceania, Work day adjusted, % of GDP",None,line
+"Korea, Imports, Panama, Work day adjusted, % of GDP","Korea, Imports, Panama, Work day adjusted, % of GDP",None,line
+"Korea, Imports, Philippines, Work day adjusted, % of GDP","Korea, Imports, Philippines, Work day adjusted, % of GDP",None,line
 "Korea, Imports, Russia, Work day adjusted, % of GDP","Korea, Imports, Russia, Work day adjusted, % of GDP",None,line
 "Korea, Imports, Saudi Arabia, Work day adjusted, % of GDP","Korea, Imports, Saudi Arabia, Work day adjusted, % of GDP",None,line
 "Korea, Imports, Singapore, Work day adjusted, % of GDP","Korea, Imports, Singapore, Work day adjusted, % of GDP",None,line
+"Korea, Imports, Switzerland, Work day adjusted, % of GDP","Korea, Imports, Switzerland, Work day adjusted, % of GDP",None,line
 "Korea, Imports, Taiwan, Work day adjusted, % of GDP","Korea, Imports, Taiwan, Work day adjusted, % of GDP",None,line
+"Korea, Imports, Thailand, Work day adjusted, % of GDP","Korea, Imports, Thailand, Work day adjusted, % of GDP",None,line
+"Korea, Imports, U.A.B, Work day adjusted, % of GDP","Korea, Imports, U.A.B, Work day adjusted, % of GDP",None,line
 "Korea, Imports, UK, Work day adjusted, % of GDP","Korea, Imports, UK, Work day adjusted, % of GDP",None,line
 "Korea, Imports, US, Work day adjusted, % of GDP","Korea, Imports, US, Work day adjusted, % of GDP",None,line
 "Korea, Imports, Vietnam, Work day adjusted, % of GDP","Korea, Imports, Vietnam, Work day adjusted, % of GDP",None,line
@@ -999,15 +1181,10 @@ name,display_name,data_type,chart_type
 "Korea, Imports, All, SA, KRW bn.1","Korea, Imports, All, SA, KRW bn.1",None,line
 "Korea, Exports, All, SA, KRW bn.1","Korea, Exports, All, SA, KRW bn.1",None,line
 "Korea, Exports, All, Work day adjusted, SA, % of GDP","Korea, Exports, All, Work day adjusted, SA, % of GDP",None,line
+"Korea, Imports, All, Work day adjusted, SA, % of GDP","Korea, Imports, All, Work day adjusted, SA, % of GDP",None,line
 "Korea, Exports, ASEAN, Work day adjusted, SA, % of GDP","Korea, Exports, ASEAN, Work day adjusted, SA, % of GDP",None,line
 "Korea, Exports, China, Work day adjusted, SA, % of GDP","Korea, Exports, China, Work day adjusted, SA, % of GDP",None,line
-"Korea, Exports, EU, Work day adjusted, SA, % of GDP","Korea, Exports, EU, Work day adjusted, SA, % of GDP",None,line
 "Korea, Exports, US, Work day adjusted, SA, % of GDP","Korea, Exports, US, Work day adjusted, SA, % of GDP",None,line
-"Korea, Imports, All, Work day adjusted, SA, % of GDP","Korea, Imports, All, Work day adjusted, SA, % of GDP",None,line
-"Korea, Imports, ASEAN, Work day adjusted, SA, % of GDP","Korea, Imports, ASEAN, Work day adjusted, SA, % of GDP",None,line
-"Korea, Imports, China, Work day adjusted, SA, % of GDP","Korea, Imports, China, Work day adjusted, SA, % of GDP",None,line
-"Korea, Imports, EU, Work day adjusted, SA, % of GDP","Korea, Imports, EU, Work day adjusted, SA, % of GDP",None,line
-"Korea, Imports, US, Work day adjusted, SA, % of GDP","Korea, Imports, US, Work day adjusted, SA, % of GDP",None,line
 "Korea, Exports, All ex ships, Work day adjusted, SA, % of GDP","Korea, Exports, All ex ships, Work day adjusted, SA, % of GDP",None,line
 "Korea, Exports, North Asia, Work day adjusted, SA, % of GDP","Korea, Exports, North Asia, Work day adjusted, SA, % of GDP",None,line
 "Korea, Exports, China and Hong Kong, Work day adjusted, SA, % of GDP","Korea, Exports, China and Hong Kong, Work day adjusted, SA, % of GDP",None,line
@@ -1015,12 +1192,6 @@ name,display_name,data_type,chart_type
 "Korea, Exports, DM excl Japan, Work day adjusted, SA, % of GDP","Korea, Exports, DM excl Japan, Work day adjusted, SA, % of GDP",None,line
 "Korea, Exports, Rest of world, Work day adjusted, SA, % of GDP","Korea, Exports, Rest of world, Work day adjusted, SA, % of GDP",None,line
 "Korea, Exports, ASEAN Three and India, Work day adjusted, SA, % of GDP","Korea, Exports, ASEAN Three and India, Work day adjusted, SA, % of GDP",None,line
-"Korea, Imports, North Asia, Work day adjusted, SA, % of GDP","Korea, Imports, North Asia, Work day adjusted, SA, % of GDP",None,line
-"Korea, Imports, China and Hong Kong, Work day adjusted, SA, % of GDP","Korea, Imports, China and Hong Kong, Work day adjusted, SA, % of GDP",None,line
-"Korea, Imports, Developed Europe, Work day adjusted, SA, % of GDP","Korea, Imports, Developed Europe, Work day adjusted, SA, % of GDP",None,line
-"Korea, Imports, DM excl Japan, Work day adjusted, SA, % of GDP","Korea, Imports, DM excl Japan, Work day adjusted, SA, % of GDP",None,line
-"Korea, Imports, Rest of world, Work day adjusted, SA, % of GDP","Korea, Imports, Rest of world, Work day adjusted, SA, % of GDP",None,line
-"Korea, Imports, ASEAN Three and India, Work day adjusted, SA, % of GDP","Korea, Imports, ASEAN Three and India, Work day adjusted, SA, % of GDP",None,line
 "Korea, Trade balance, China, % of GDP","Korea, Trade balance, China, % of GDP",None,line
 "Korea, Trade balance, US, % of GDP","Korea, Trade balance, US, % of GDP",None,line
 "Korea, Trade balance, EU, % of GDP","Korea, Trade balance, EU, % of GDP",None,line
@@ -1039,7 +1210,6 @@ name,display_name,data_type,chart_type
 "Korea, Trade balance, ASEAN, SA, % of GDP","Korea, Trade balance, ASEAN, SA, % of GDP",None,line
 "Korea, Trade balance, China and Hong Kong, SA, % of GDP","Korea, Trade balance, China and Hong Kong, SA, % of GDP",None,line
 "Korea, Trade balance, North Asia, SA, % of GDP","Korea, Trade balance, North Asia, SA, % of GDP",None,line
-"Korea, Trade balance, Developed Europe, SA, % of GDP","Korea, Trade balance, Developed Europe, SA, % of GDP",None,line
 "Korea, Trade balance, US, SA, % of GDP","Korea, Trade balance, US, SA, % of GDP",None,line
 "Korea, Trade balance, DM excl Japan, SA, % of GDP","Korea, Trade balance, DM excl Japan, SA, % of GDP",None,line
 "Korea, Trade balance, Rest of world, SA, % of GDP","Korea, Trade balance, Rest of world, SA, % of GDP",None,line
@@ -1048,7 +1218,6 @@ name,display_name,data_type,chart_type
 "Korea, Imports, ASEAN, SA, % of total","Korea, Imports, ASEAN, SA, % of total",None,line
 "Korea, Imports, China and Hong Kong, SA, % of total","Korea, Imports, China and Hong Kong, SA, % of total",None,line
 "Korea, Imports, North Asia, SA, % of total","Korea, Imports, North Asia, SA, % of total",None,line
-"Korea, Imports, Developed Europe, SA, % of total","Korea, Imports, Developed Europe, SA, % of total",None,line
 "Korea, Imports, US, SA, % of total","Korea, Imports, US, SA, % of total",None,line
 "Korea, Imports, DM excl Japan, SA, % of total","Korea, Imports, DM excl Japan, SA, % of total",None,line
 "Korea, Imports, Rest of world, SA, % of total","Korea, Imports, Rest of world, SA, % of total",None,line
@@ -1056,7 +1225,6 @@ name,display_name,data_type,chart_type
 "Korea, Exports, ASEAN, SA, % of total","Korea, Exports, ASEAN, SA, % of total",None,line
 "Korea, Exports, China and Hong Kong, SA, % of total","Korea, Exports, China and Hong Kong, SA, % of total",None,line
 "Korea, Exports, North Asia, SA, % of total","Korea, Exports, North Asia, SA, % of total",None,line
-"Korea, Exports, Developed Europe, SA, % of total","Korea, Exports, Developed Europe, SA, % of total",None,line
 "Korea, Exports, US, SA, % of total","Korea, Exports, US, SA, % of total",None,line
 "Korea, Exports, DM excl Japan, SA, % of total","Korea, Exports, DM excl Japan, SA, % of total",None,line
 "Korea, Exports, Rest of world, SA, % of total","Korea, Exports, Rest of world, SA, % of total",None,line
@@ -1064,7 +1232,6 @@ name,display_name,data_type,chart_type
 "Korea, Trade balance, ASEAN, SA, % of total","Korea, Trade balance, ASEAN, SA, % of total",None,line
 "Korea, Trade balance, China and Hong Kong, SA, % of total","Korea, Trade balance, China and Hong Kong, SA, % of total",None,line
 "Korea, Trade balance, North Asia, SA, % of total","Korea, Trade balance, North Asia, SA, % of total",None,line
-"Korea, Trade balance, Developed Europe, SA, % of total","Korea, Trade balance, Developed Europe, SA, % of total",None,line
 "Korea, Trade balance, US, SA, % of total","Korea, Trade balance, US, SA, % of total",None,line
 "Korea, Trade balance, DM excl Japan, SA, % of total","Korea, Trade balance, DM excl Japan, SA, % of total",None,line
 "Korea, Trade balance, Rest of world, SA, % of total","Korea, Trade balance, Rest of world, SA, % of total",None,line
