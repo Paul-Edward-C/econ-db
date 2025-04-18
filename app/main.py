@@ -207,6 +207,10 @@ def update_country_select(attrname, old, new):
 
 
 def update_db_select(attrname, old, new):
+    dir_path = os.path.dirname(os.path.abspath(__file__))
+    # Change the working directory to the script directory
+    os.chdir(dir_path)
+    print(os.getcwd())
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
     print(pickle_path)
     with open(pickle_path, 'rb') as f:
@@ -680,6 +684,7 @@ def add_button_callback():
     col_name = col_name[:-2]
     col_name = col_name.replace("Monthly, ", "")
     col_name = col_name.replace("Quarterly, ", "")
+    col_name = col_name.replace(", No Option", "")
 
     data_setting_object = tool.create_data_setting_object(data_setting, col_name)
     old_multichoice_values = multichoice.value
