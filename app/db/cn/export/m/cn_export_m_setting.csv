@@ -1,4 +1,13 @@
 name,display_name,data_type,chart_type
+"China, Exports, Passenger cars, Volume, th","CN, China, Exports, Passenger cars, Volume, th",None,line
+"China, Exports, ICE, Volume, th","CN, China, Exports, ICE, Volume, th",None,line
+"China, Exports, Hybrid, Volume, th","CN, China, Exports, Hybrid, Volume, th",None,line
+"China, Exports, Non-plug-in hybrid electric passenger cars, Volume, th","CN, China, Exports, Non-plug-in hybrid electric passenger cars, Volume, th",None,line
+"China, Exports, Plug-in hybrid electric passenger cars, Volume, th","CN, China, Exports, Plug-in hybrid electric passenger cars, Volume, th",None,line
+"China, Exports, Battery electric passenger cars, Volume, th","CN, China, Exports, Battery electric passenger cars, Volume, th",None,line
+"China, Exports, Lithium-ion batteries, Volume, th","CN, China, Exports, Lithium-ion batteries, Volume, th",None,line
+"China, Exports, Solar cells, Volume, th","CN, China, Exports, Solar cells, Volume, th",None,line
+"China, Exports, Motor vehicles including chassis fitted with engines, Volume, th","CN, China, Exports, Motor vehicles including chassis fitted with engines, Volume, th",None,line
 "China, Balance, Value, LCU","CN, China, Balance, Value, LCU",b,line
 "China, Balance, Value, USD","CN, China, Balance, Value, USD",b,line
 "China, Exports, All, Value, LCU","CN, China, Exports, All, Value, LCU",b,line
@@ -119,11 +128,14 @@ name,display_name,data_type,chart_type
 "China, Exports, Flue-cured tobacco, Value, USD","CN, China, Exports, Flue-cured tobacco, Value, USD",b,line
 "China, Exports, Coke and semi-coke, Value, USD","CN, China, Exports, Coke and semi-coke, Value, USD",b,line
 "China, Exports, Coal and lignite, Value, USD","CN, China, Exports, Coal and lignite, Value, USD",b,line
+"China, Unnamed: 107, Value","CN, China, Unnamed: 107, Value",None,line
 "China, Exports, Glasses and articles thereof, Value, USD","CN, China, Exports, Glasses and articles thereof, Value, USD",b,line
 "China, Exports, Pearls, precious and semi-precious stones, Value, USD","CN, China, Exports, Pearls, precious and semi-precious stones, Value, USD",b,line
 "China, Exports, Life science and technology, Value, USD","CN, China, Exports, Life science and technology, Value, USD",b,line
 "China, Exports, Biotechnology, Value, USD","CN, China, Exports, Biotechnology, Value, USD",b,line
 "China, Exports, Motorcycles with electric motor and cycles, Value, USD","CN, China, Exports, Motorcycles with electric motor and cycles, Value, USD",b,line
+"China, Unnamed: 114, Value","CN, China, Unnamed: 114, Value",None,line
+"China, Unnamed: 115, Value","CN, China, Unnamed: 115, Value",None,line
 "China, Exports, Electronic components, Value, USD","CN, China, Exports, Electronic components, Value, USD",b,line
 "China, Exports, Electronic technology, Value, USD","CN, China, Exports, Electronic technology, Value, USD",b,line
 "China, Exports, Electrical equipments, Value, USD","CN, China, Exports, Electrical equipments, Value, USD",b,line
@@ -137,12 +149,13 @@ name,display_name,data_type,chart_type
 "China, Exports, Leather, fur and articles thereof, Value, USD","CN, China, Exports, Leather, fur and articles thereof, Value, USD",b,line
 "China, Exports, Leather suit-cases and similar containers, Value, USD","CN, China, Exports, Leather suit-cases and similar containers, Value, USD",b,line
 "China, Exports, Spectacles and parts thereof, Value, USD","CN, China, Exports, Spectacles and parts thereof, Value, USD",b,line
-"China, Unnamed: 125, Value","CN, China, Unnamed: 125, Value",None,line
+"China, Unnamed: 128, Value","CN, China, Unnamed: 128, Value",None,line
 "China, Exports, Ammonium sulphate, Value, USD","CN, China, Exports, Ammonium sulphate, Value, USD",b,line
 "China, Exports, Monoammonium phosphate, Value, USD","CN, China, Exports, Monoammonium phosphate, Value, USD",b,line
 "China, Exports, Diammonium phosphate, Value, USD","CN, China, Exports, Diammonium phosphate, Value, USD",b,line
 "China, Exports, Rare-earth ore, metals, compounds and articles thereof, Value, USD","CN, China, Exports, Rare-earth ore, metals, compounds and articles thereof, Value, USD",b,line
 "China, Exports, Rice, Value, USD","CN, China, Exports, Rice, Value, USD",b,line
+"China, Unnamed: 135, Value","CN, China, Unnamed: 135, Value",None,line
 "China, Exports, Air conditioners, Value, USD","CN, China, Exports, Air conditioners, Value, USD",b,line
 "China, Exports, Pens and parts thereof, Value, USD","CN, China, Exports, Pens and parts thereof, Value, USD",b,line
 "China, Exports, Laptops, Value, USD","CN, China, Exports, Laptops, Value, USD",b,line
@@ -195,7 +208,7 @@ name,display_name,data_type,chart_type
 "China, Exports, Non-plug-in hybrid electric passenger cars, Value, USD","CN, China, Exports, Non-plug-in hybrid electric passenger cars, Value, USD",b,line
 "China, Exports, Audio or video devices and parts thereof, Value, USD","CN, China, Exports, Audio or video devices and parts thereof, Value, USD",b,line
 "China, Exports, Parts of audio or video devices, Value, USD","CN, China, Exports, Parts of audio or video devices, Value, USD",b,line
-"China, Unnamed: 194, Value","CN, China, Unnamed: 194, Value",None,line
+"China, Unnamed: 198, Value","CN, China, Unnamed: 198, Value",None,line
 "China, Exports, Food, Value, USD","CN, China, Exports, Food, Value, USD",b,line
 "China, Exports, Food processing machines, Value, USD","CN, China, Exports, Food processing machines, Value, USD",b,line
 "China, Exports, Edible aquatic products, Value, USD","CN, China, Exports, Edible aquatic products, Value, USD",b,line
@@ -246,8 +259,9 @@ name,display_name,data_type,chart_type
 "China, Imports, Storage units, Value, USD","CN, China, Imports, Storage units, Value, USD",b,line
 "China, Imports, Electric appliances of household type, Value, USD","CN, China, Imports, Electric appliances of household type, Value, USD",b,line
 "China, Imports, Wheat, Value, USD","CN, China, Imports, Wheat, Value, USD",b,line
+"China, Unnamed: 250, Value","CN, China, Unnamed: 250, Value",None,line
 "China, Imports, Fresh or dried fruit and nuts, Value, USD","CN, China, Imports, Fresh or dried fruit and nuts, Value, USD",b,line
-"China, Unnamed: 247, Value","CN, China, Unnamed: 247, Value",None,line
+"China, Unnamed: 252, Value","CN, China, Unnamed: 252, Value",None,line
 "China, Imports, Refined petroleum products, Value, USD","CN, China, Imports, Refined petroleum products, Value, USD",b,line
 "China, Imports, Biotechnology, Value, USD","CN, China, Imports, Biotechnology, Value, USD",b,line
 "China, Imports, Printers and duplicators, including multifunctional printers, Value, USD","CN, China, Imports, Printers and duplicators, including multifunctional printers, Value, USD",b,line
@@ -255,15 +269,16 @@ name,display_name,data_type,chart_type
 "China, Imports, Rare-earth ore, metals, compounds, Value, USD","CN, China, Imports, Rare-earth ore, metals, compounds, Value, USD",b,line
 "China, Imports, Harvesting machinery, Value, USD","CN, China, Imports, Harvesting machinery, Value, USD",b,line
 "China, Imports, Cultureproducts*, Value, USD","CN, China, Imports, Cultureproducts*, Value, USD",b,line
-"China, Unnamed: 255, Value","CN, China, Unnamed: 255, Value",None,line
+"China, Unnamed: 260, Value","CN, China, Unnamed: 260, Value",None,line
 "China, Imports, Garments and clothing accessories, Value, USD","CN, China, Imports, Garments and clothing accessories, Value, USD",b,line
 "China, Imports, Wood and articles thereof, Value, USD","CN, China, Imports, Wood and articles thereof, Value, USD",b,line
+"China, Unnamed: 263, Value","CN, China, Unnamed: 263, Value",None,line
 "China, Imports, Unwrought copper and copper products, Value, USD","CN, China, Imports, Unwrought copper and copper products, Value, USD",b,line
 "China, Imports, Unwrought aluminium and aluminium products, Value, USD","CN, China, Imports, Unwrought aluminium and aluminium products, Value, USD",b,line
 "China, Imports, Machine-tools, Value, USD","CN, China, Imports, Machine-tools, Value, USD",b,line
 "China, Imports, Basic components of machinery, Value, USD","CN, China, Imports, Basic components of machinery, Value, USD",b,line
 "China, Imports, Opto-electronics technology, Value, USD","CN, China, Imports, Opto-electronics technology, Value, USD",b,line
-"China, Unnamed: 263, Value","CN, China, Unnamed: 263, Value",None,line
+"China, Unnamed: 269, Value","CN, China, Unnamed: 269, Value",None,line
 "China, Imports, Mechanical and electrical products, Value, USD","CN, China, Imports, Mechanical and electrical products, Value, USD",b,line
 "China, Imports, Hybrid Electric buses with ten seats or more, Value, USD","CN, China, Imports, Hybrid Electric buses with ten seats or more, Value, USD",b,line
 "China, Imports, Cotton yarn, Value, USD","CN, China, Imports, Cotton yarn, Value, USD",b,line
@@ -286,18 +301,22 @@ name,display_name,data_type,chart_type
 , Value, USD",b,line
 "China, Imports, Battery electric passenger cars, Value, USD","CN, China, Imports, Battery electric passenger cars, Value, USD",b,line
 "China, Imports, Coal and lignite, Value, USD","CN, China, Imports, Coal and lignite, Value, USD",b,line
+"China, Unnamed: 290, Value","CN, China, Unnamed: 290, Value",None,line
 "China, Imports, Bovine or equine leather, Value, USD","CN, China, Imports, Bovine or equine leather, Value, USD",b,line
 "China, Imports, Meat of bovine animals, Value, USD","CN, China, Imports, Meat of bovine animals, Value, USD",b,line
 "China, Imports, Meat and offal of bovine animals, Value, USD","CN, China, Imports, Meat and offal of bovine animals, Value, USD",b,line
 "China, Imports, Meat of swine, Value, USD","CN, China, Imports, Meat of swine, Value, USD",b,line
 "China, Imports, Meat and offal of swine, Value, USD","CN, China, Imports, Meat and offal of swine, Value, USD",b,line
 "China, Imports, Maize, Value, USD","CN, China, Imports, Maize, Value, USD",b,line
+"China, Unnamed: 297, Value","CN, China, Unnamed: 297, Value",None,line
 "China, Imports, Glasses and articles thereof, Value, USD","CN, China, Imports, Glasses and articles thereof, Value, USD",b,line
 "China, Imports, Glass fibres and articles thereof, Value, USD","CN, China, Imports, Glass fibres and articles thereof, Value, USD",b,line
 "China, Imports, Pearls, precious and semi-precious stones, Value, USD","CN, China, Imports, Pearls, precious and semi-precious stones, Value, USD",b,line
 "China, Imports, Computer integrated manufacturing technology, Value, USD","CN, China, Imports, Computer integrated manufacturing technology, Value, USD",b,line
 "China, Imports, Electronic technology, Value, USD","CN, China, Imports, Electronic technology, Value, USD",b,line
 "China, Imports, Life science and technology, Value, USD","CN, China, Imports, Life science and technology, Value, USD",b,line
+"China, Unnamed: 304, Value","CN, China, Unnamed: 304, Value",None,line
+"China, Unnamed: 305, Value","CN, China, Unnamed: 305, Value",None,line
 "China, Imports, Plug-in hybrid electric passenger cars, Value, USD","CN, China, Imports, Plug-in hybrid electric passenger cars, Value, USD",b,line
 "China, Imports, Electronic components, Value, USD","CN, China, Imports, Electronic components, Value, USD",b,line
 "China, Imports, Other technologies, Value, USD","CN, China, Imports, Other technologies, Value, USD",b,line
@@ -311,9 +330,10 @@ name,display_name,data_type,chart_type
 , Value, USD",b,line
 "China, Imports, Leather, fur and articles thereof, Value, USD","CN, China, Imports, Leather, fur and articles thereof, Value, USD",b,line
 "China, Imports, Naphtha, Value, USD","CN, China, Imports, Naphtha, Value, USD",b,line
-"China, Unnamed: 307, Value","CN, China, Unnamed: 307, Value",None,line
+"China, Unnamed: 317, Value","CN, China, Unnamed: 317, Value",None,line
 "China, Imports, Meat of poultry, Value, USD","CN, China, Imports, Meat of poultry, Value, USD",b,line
 "China, Imports, Rare-earthore,metals,compounds, Value, USD","CN, China, Imports, Rare-earthore,metals,compounds, Value, USD",b,line
+"China, Unnamed: 320, Value","CN, China, Unnamed: 320, Value",None,line
 "China, Imports, Rice, Value, USD","CN, China, Imports, Rice, Value, USD",b,line
 "China, Imports, Ships, Value, USD","CN, China, Imports, Ships, Value, USD",b,line
 "China, Imports, Grain food, Value, USD","CN, China, Imports, Grain food, Value, USD",b,line
@@ -378,7 +398,6 @@ name,display_name,data_type,chart_type
 "China, Exports, Central processing units, 10000N, Value","CN, China, Exports, Central processing units, 10000N, Value",None,line
 "China, Exports, Medicaments of chinese type, T, Value","CN, China, Exports, Medicaments of chinese type, T, Value",None,line
 "China, Exports, Crude medicinal materials of Chinese type, T, Value","CN, China, Exports, Crude medicinal materials of Chinese type, T, Value",None,line
-"China, Exports, Passenger cars, N, Value","CN, China, Exports, Passenger cars, N, Value",None,line
 "China, Exports, Diodes and similar semiconductors, 10000T, Value","CN, China, Exports, Diodes and similar semiconductors, 10000T, Value",None,line
 "China, Exports, Diodes and similar semiconductors, 100MN, Value","CN, China, Exports, Diodes and similar semiconductors, 100MN, Value",None,line
 "China, Exports, Vaccines for human medicine, KG, Value","CN, China, Exports, Vaccines for human medicine, KG, Value",None,line
@@ -412,7 +431,6 @@ name,display_name,data_type,chart_type
 "China, Exports, Beers, 10000L, Value","CN, China, Exports, Beers, 10000L, Value",None,line
 "China, Exports, Basic organic chemicals, -, Value","CN, China, Exports, Basic organic chemicals, -, Value",None,line
 "China, Exports, Plastic articles, -, Value","CN, China, Exports, Plastic articles, -, Value",None,line
-"China, Exports, Solar cells, 10000N, Value","CN, China, Exports, Solar cells, 10000N, Value",None,line
 "China, Exports, Solar cells, 10000T, Value","CN, China, Exports, Solar cells, 10000T, Value",None,line
 "China, Exports, Baby carriages and parts thereof, T, Value","CN, China, Exports, Baby carriages and parts thereof, T, Value",None,line
 "China, Exports, Storage units, 10000N, Value","CN, China, Exports, Storage units, 10000N, Value",None,line
@@ -435,7 +453,6 @@ name,display_name,data_type,chart_type
 "China, Exports, Printers and duplicators, including multifunctional printers, N, Value","CN, China, Exports, Printers and duplicators, including multifunctional printers, N, Value",None,line
 "China, Exports, Antibiotics(excluding preparations), T, Value","CN, China, Exports, Antibiotics(excluding preparations), T, Value",None,line
 "China, Exports, Tractors, N, Value","CN, China, Exports, Tractors, N, Value",None,line
-"China, Exports, Plug-in hybrid electric passenger cars, N, Value","CN, China, Exports, Plug-in hybrid electric passenger cars, N, Value",None,line
 "China, Exports, Motorcycles, 10000N, Value","CN, China, Exports, Motorcycles, 10000N, Value",None,line
 "China, Exports, Parts and accessories of motorcycles or bicycles, -, Value","CN, China, Exports, Parts and accessories of motorcycles or bicycles, -, Value",None,line
 "China, Exports, Motor bulk carriers, N, Value","CN, China, Exports, Motor bulk carriers, N, Value",None,line
@@ -468,7 +485,6 @@ name,display_name,data_type,chart_type
 "China, Exports, Gasoline, 10000T, Value","CN, China, Exports, Gasoline, 10000T, Value",None,line
 "China, Exports, Vehicle tyres, T, Value","CN, China, Exports, Vehicle tyres, T, Value",None,line
 "China, Exports, Parts and accessories of vehicle, -, Value","CN, China, Exports, Parts and accessories of vehicle, -, Value",None,line
-"China, Exports, Motor vehicles including chassis fitted with engines, 10000N, Value","CN, China, Exports, Motor vehicles including chassis fitted with engines, 10000N, Value",None,line
 "China, Exports, Pumps, 10000N, Value","CN, China, Exports, Pumps, 10000N, Value",None,line
 "China, Exports, Washing machines, 10000N, Value","CN, China, Exports, Washing machines, 10000N, Value",None,line
 "China, LCD module, 10000N, Value","CN, China, LCD module, 10000N, Value",None,line
@@ -519,7 +535,6 @@ name,display_name,data_type,chart_type
 "China, Exports, Suit-cases, hand bags and similar containers, 10000T, Value","CN, China, Exports, Suit-cases, hand bags and similar containers, 10000T, Value",None,line
 "China, Exports, Grain food, 10000T, Value","CN, China, Exports, Grain food, 10000T, Value",None,line
 "China, Exports, Fasteners, T, Value","CN, China, Exports, Fasteners, T, Value",None,line
-"China, Exports, Battery electric passenger cars, N, Value","CN, China, Exports, Battery electric passenger cars, N, Value",None,line
 "China, Exports, Battery electric buses with ten seats or more, N, Value","CN, China, Exports, Battery electric buses with ten seats or more, N, Value",None,line
 "China, Exports, Paper pulp, paper and articles thereof, 10000T, Value","CN, China, Exports, Paper pulp, paper and articles thereof, 10000T, Value",None,line
 "China, Exports, Textile products, -, Value","CN, China, Exports, Textile products, -, Value",None,line
@@ -566,14 +581,12 @@ name,display_name,data_type,chart_type
 "China, Exports, Wire of steel or iron, 10000T, Value","CN, China, Exports, Wire of steel or iron, 10000T, Value",None,line
 "China, Exports, Tungsten ores and articles, T, Value","CN, China, Exports, Tungsten ores and articles, T, Value",None,line
 "China, Exports, Ferro-alloys, 10000T, Value","CN, China, Exports, Ferro-alloys, 10000T, Value",None,line
-"China, Exports, Lithium-ion batteries, 10000N, Value","CN, China, Exports, Lithium-ion batteries, 10000N, Value",None,line
 "China, Exports, Valves and similar appliances, 10000N, Value","CN, China, Exports, Valves and similar appliances, 10000N, Value",None,line
 "China, Exports, Ceramic products, 10000T, Value","CN, China, Exports, Ceramic products, 10000T, Value",None,line
 "China, Exports, Electronic integrated circuits, 10000T, Value","CN, China, Exports, Electronic integrated circuits, 10000T, Value",None,line
 "China, Exports, Electronic integrated circuits, 100MN, Value","CN, China, Exports, Electronic integrated circuits, 100MN, Value",None,line
 "China, Exports, Containers, 10000N, Value","CN, China, Exports, Containers, 10000N, Value",None,line
 "China, Exports, Motor container vessels, N, Value","CN, China, Exports, Motor container vessels, N, Value",None,line
-"China, Exports, Non-plug-in hybrid electric passenger cars, N, Value","CN, China, Exports, Non-plug-in hybrid electric passenger cars, N, Value",None,line
 "China, Exports, Footwear, 10000PR, Value","CN, China, Exports, Footwear, 10000PR, Value",None,line
 "China, Exports, Audio or video devices and parts thereof, -, Value","CN, China, Exports, Audio or video devices and parts thereof, -, Value",None,line
 "China, Exports, Parts of audio or video devices, -, Value","CN, China, Exports, Parts of audio or video devices, -, Value",None,line
@@ -796,9 +809,7 @@ name,display_name,data_type,chart_type
 "China, Exports, Hybrid, Value, USD","CN, China, Exports, Hybrid, Value, USD",b,line
 "China, Exports, NEV, Value, USD","CN, China, Exports, NEV, Value, USD",b,line
 "China, Exports, ICE, Value, USD","CN, China, Exports, ICE, Value, USD",b,line
-"China, Exports, Hybrid, N, Value","CN, China, Exports, Hybrid, N, Value",None,line
 "China, Exports, NEV, N, Value","CN, China, Exports, NEV, N, Value",None,line
-"China, Exports, ICE, N, Value","CN, China, Exports, ICE, N, Value",None,line
 "China, Exports, APEC, Value, USD","CN, China, Exports, APEC, Value, USD",b,line
 "China, Exports, ASEAN, Value, USD","CN, China, Exports, ASEAN, Value, USD",b,line
 "China, Exports, Afghanistan, Value, USD","CN, China, Exports, Afghanistan, Value, USD",b,line
@@ -815,6 +826,7 @@ name,display_name,data_type,chart_type
 "China, Exports, Australia, Value, USD","CN, China, Exports, Australia, Value, USD",b,line
 "China, Exports, Austria, Value, USD","CN, China, Exports, Austria, Value, USD",b,line
 "China, Exports, Azerbaijan, Value, USD","CN, China, Exports, Azerbaijan, Value, USD",b,line
+"China, Exports, BRI, Value, USD","CN, China, Exports, BRI, Value, USD",b,line
 "China, Exports, Bahamas, Value, USD","CN, China, Exports, Bahamas, Value, USD",b,line
 "China, Exports, Bahrain, Value, USD","CN, China, Exports, Bahrain, Value, USD",b,line
 "China, Exports, Bangladesh, Value, USD","CN, China, Exports, Bangladesh, Value, USD",b,line
@@ -981,6 +993,7 @@ name,display_name,data_type,chart_type
 "China, Exports, Portugal, Value, USD","CN, China, Exports, Portugal, Value, USD",b,line
 "China, Exports, Puerto Rico, Value, USD","CN, China, Exports, Puerto Rico, Value, USD",b,line
 "China, Exports, Qatar, Value, USD","CN, China, Exports, Qatar, Value, USD",b,line
+"China, Exports, RCEP, Value, USD","CN, China, Exports, RCEP, Value, USD",b,line
 "China, Exports, Republic of North Macedonia, Value, USD","CN, China, Exports, Republic of North Macedonia, Value, USD",b,line
 "China, Exports, Republic of South Sudan, Value, USD","CN, China, Exports, Republic of South Sudan, Value, USD",b,line
 "China, Exports, Reunion, Value, USD","CN, China, Exports, Reunion, Value, USD",b,line
@@ -1067,6 +1080,7 @@ name,display_name,data_type,chart_type
 "China, Imports, Australia, Value, USD","CN, China, Imports, Australia, Value, USD",b,line
 "China, Imports, Austria, Value, USD","CN, China, Imports, Austria, Value, USD",b,line
 "China, Imports, Azerbaijan, Value, USD","CN, China, Imports, Azerbaijan, Value, USD",b,line
+"China, Imports, BRI, Value, USD","CN, China, Imports, BRI, Value, USD",b,line
 "China, Imports, Bahamas, Value, USD","CN, China, Imports, Bahamas, Value, USD",b,line
 "China, Imports, Bahrain, Value, USD","CN, China, Imports, Bahrain, Value, USD",b,line
 "China, Imports, Bangladesh, Value, USD","CN, China, Imports, Bangladesh, Value, USD",b,line
@@ -1233,6 +1247,7 @@ name,display_name,data_type,chart_type
 "China, Imports, Portugal, Value, USD","CN, China, Imports, Portugal, Value, USD",b,line
 "China, Imports, Puerto Rico, Value, USD","CN, China, Imports, Puerto Rico, Value, USD",b,line
 "China, Imports, Qatar, Value, USD","CN, China, Imports, Qatar, Value, USD",b,line
+"China, Imports, RCEP, Value, USD","CN, China, Imports, RCEP, Value, USD",b,line
 "China, Imports, Republic of North Macedonia, Value, USD","CN, China, Imports, Republic of North Macedonia, Value, USD",b,line
 "China, Imports, Republic of South Sudan, Value, USD","CN, China, Imports, Republic of South Sudan, Value, USD",b,line
 "China, Imports, Reunion, Value, USD","CN, China, Imports, Reunion, Value, USD",b,line
@@ -2048,12 +2063,18 @@ name,display_name,data_type,chart_type
 "China, HS, Imports, 8486, World, Value, USD","CN, China, HS, Imports, 8486, World, Value, USD",b,line
 "China, HS, Imports, 84 and 85, World, Value, USD","CN, China, HS, Imports, 84 and 85, World, Value, USD",b,line
 "China, HS, Exports, 84 and 85, World, Value, USD","CN, China, HS, Exports, 84 and 85, World, Value, USD",b,line
+"China, HS, Imports, 84 through 89, Taiwan, Value, USD","CN, China, HS, Imports, 84 through 89, Taiwan, Value, USD",b,line
 "China, HS, Imports, 8541 and 8542, Taiwan, Value, USD","CN, China, HS, Imports, 8541 and 8542, Taiwan, Value, USD",b,line
+"China, HS, Imports, 84 through 89, Korea, Value, USD","CN, China, HS, Imports, 84 through 89, Korea, Value, USD",b,line
 "China, HS, Imports, 8541 and 8542, Korea, Value, USD","CN, China, HS, Imports, 8541 and 8542, Korea, Value, USD",b,line
+"China, HS, Imports, 84 through 89, Japan, Value, USD","CN, China, HS, Imports, 84 through 89, Japan, Value, USD",b,line
 "China, HS, Imports, 84 through 89, World, Value, USD","CN, China, HS, Imports, 84 through 89, World, Value, USD",b,line
 "China, HS, Imports, 8541 and 8542, World, Value, USD","CN, China, HS, Imports, 8541 and 8542, World, Value, USD",b,line
+"China, HS, Exports, 84 through 89, Taiwan, Value, USD","CN, China, HS, Exports, 84 through 89, Taiwan, Value, USD",b,line
 "China, HS, Exports, 8541 and 8542, Taiwan, Value, USD","CN, China, HS, Exports, 8541 and 8542, Taiwan, Value, USD",b,line
+"China, HS, Exports, 84 through 89, Korea, Value, USD","CN, China, HS, Exports, 84 through 89, Korea, Value, USD",b,line
 "China, HS, Exports, 8541 and 8542, Korea, Value, USD","CN, China, HS, Exports, 8541 and 8542, Korea, Value, USD",b,line
+"China, HS, Exports, 84 through 89, Japan, Value, USD","CN, China, HS, Exports, 84 through 89, Japan, Value, USD",b,line
 "China, HS, Exports, 84 through 89, World, Value, USD","CN, China, HS, Exports, 84 through 89, World, Value, USD",b,line
 "China, HS, Exports, 8541 and 8542, World, Value, USD","CN, China, HS, Exports, 8541 and 8542, World, Value, USD",b,line
 "China, HS, Imports, 84 and 85 excl 8541 and 8542, US, Value, USD","CN, China, HS, Imports, 84 and 85 excl 8541 and 8542, US, Value, USD",b,line
@@ -2286,35 +2307,41 @@ name,display_name,data_type,chart_type
 "China, Exports, North Asia, Value, USD","CN, China, Exports, North Asia, Value, USD",b,line
 "China, Exports, Developed Europe, Value, USD","CN, China, Exports, Developed Europe, Value, USD",b,line
 "China, Exports, DM excl Japan, Value, USD","CN, China, Exports, DM excl Japan, Value, USD",b,line
-"China, Exports, EM, Value, USD","CN, China, Exports, EM, Value, USD",b,line
+"China, Exports, Developed Oceania, Value, USD","CN, China, Exports, Developed Oceania, Value, USD",b,line
 "China, Exports, DM incl North Asia, Value, USD","CN, China, Exports, DM incl North Asia, Value, USD",b,line
 "China, Exports, Other Europe, Value, USD","CN, China, Exports, Other Europe, Value, USD",b,line
 "China, Exports, Middle East, Value, USD","CN, China, Exports, Middle East, Value, USD",b,line
 "China, Exports, Other Asia incl Middle East, Value, USD","CN, China, Exports, Other Asia incl Middle East, Value, USD",b,line
 "China, Exports, Other Asia excl Middle East, Value, USD","CN, China, Exports, Other Asia excl Middle East, Value, USD",b,line
-"China, Exports, Developed Oceania, Value, USD","CN, China, Exports, Developed Oceania, Value, USD",b,line
 "China, Exports, Other Oceania, Value, USD","CN, China, Exports, Other Oceania, Value, USD",b,line
 "China, Exports, Developed North America, Value, USD","CN, China, Exports, Developed North America, Value, USD",b,line
 "China, Exports, Other North America, Value, USD","CN, China, Exports, Other North America, Value, USD",b,line
 "China, Exports, ROW incl Middle East, Value, USD","CN, China, Exports, ROW incl Middle East, Value, USD",b,line
 "China, Exports, ROW excl Middle East, Value, USD","CN, China, Exports, ROW excl Middle East, Value, USD",b,line
 "China, Exports, ROW, Value, USD","CN, China, Exports, ROW, Value, USD",b,line
+"China, Exports, Latin America and Africa, Value, USD","CN, China, Exports, Latin America and Africa, Value, USD",b,line
+"China, Exports, DM, Value, USD","CN, China, Exports, DM, Value, USD",b,line
+"China, Exports, DM excluding US, Value, USD","CN, China, Exports, DM excluding US, Value, USD",b,line
+"China, Exports, EM, Value, USD","CN, China, Exports, EM, Value, USD",b,line
 "China, Imports, North Asia, Value, USD","CN, China, Imports, North Asia, Value, USD",b,line
 "China, Imports, Developed Europe, Value, USD","CN, China, Imports, Developed Europe, Value, USD",b,line
 "China, Imports, DM excl Japan, Value, USD","CN, China, Imports, DM excl Japan, Value, USD",b,line
-"China, Imports, EM, Value, USD","CN, China, Imports, EM, Value, USD",b,line
+"China, Imports, Developed Oceania, Value, USD","CN, China, Imports, Developed Oceania, Value, USD",b,line
 "China, Imports, DM incl North Asia, Value, USD","CN, China, Imports, DM incl North Asia, Value, USD",b,line
 "China, Imports, Other Europe, Value, USD","CN, China, Imports, Other Europe, Value, USD",b,line
 "China, Imports, Middle East, Value, USD","CN, China, Imports, Middle East, Value, USD",b,line
 "China, Imports, Other Asia incl Middle East, Value, USD","CN, China, Imports, Other Asia incl Middle East, Value, USD",b,line
 "China, Imports, Other Asia excl Middle East, Value, USD","CN, China, Imports, Other Asia excl Middle East, Value, USD",b,line
-"China, Imports, Developed Oceania, Value, USD","CN, China, Imports, Developed Oceania, Value, USD",b,line
 "China, Imports, Other Oceania, Value, USD","CN, China, Imports, Other Oceania, Value, USD",b,line
 "China, Imports, Developed North America, Value, USD","CN, China, Imports, Developed North America, Value, USD",b,line
 "China, Imports, Other North America, Value, USD","CN, China, Imports, Other North America, Value, USD",b,line
 "China, Imports, ROW incl Middle East, Value, USD","CN, China, Imports, ROW incl Middle East, Value, USD",b,line
 "China, Imports, ROW excl Middle East, Value, USD","CN, China, Imports, ROW excl Middle East, Value, USD",b,line
 "China, Imports, ROW, Value, USD","CN, China, Imports, ROW, Value, USD",b,line
+"China, Imports, Latin America and Africa, Value, USD","CN, China, Imports, Latin America and Africa, Value, USD",b,line
+"China, Imports, DM, Value, USD","CN, China, Imports, DM, Value, USD",b,line
+"China, Imports, DM excluding US, Value, USD","CN, China, Imports, DM excluding US, Value, USD",b,line
+"China, Imports, EM, Value, USD","CN, China, Imports, EM, Value, USD",b,line
 "China, Exports, Main product, Garments and clothing accessories, Value, USD, SA","CN, China, Exports, Main product, Garments and clothing accessories, Value, USD, SA",b,line
 "China, Exports, Main product, Mechanical and electrical products, Value, USD, SA","CN, China, Exports, Main product, Mechanical and electrical products, Value, USD, SA",b,line
 "China, Exports, Main product, Motor vehicles including chassis fitted with engines, Value, USD, SA","CN, China, Exports, Main product, Motor vehicles including chassis fitted with engines, Value, USD, SA",b,line
@@ -2325,6 +2352,7 @@ name,display_name,data_type,chart_type
 "China, Exports, Main product, Commodities, Value, USD, SA","CN, China, Exports, Main product, Commodities, Value, USD, SA",b,line
 "China, Imports, Energy, Value, USD, SA","CN, China, Imports, Energy, Value, USD, SA",b,line
 "China, Imports, Electronic Integrated Circuit, Value, USD, SA","CN, China, Imports, Electronic Integrated Circuit, Value, USD, SA",b,line
+"China, Exports, Passenger cars, Value, USD, SA","CN, China, Exports, Passenger cars, Value, USD, SA",b,line
 "China, Exports, Main product, Mobile phones, Value, USD, SA","CN, China, Exports, Main product, Mobile phones, Value, USD, SA",b,line
 "China, Exports, EU, Value, USD, SA","CN, China, Exports, EU, Value, USD, SA",b,line
 "China, Exports, Developed Europe, Value, USD, SA","CN, China, Exports, Developed Europe, Value, USD, SA",b,line
@@ -2349,6 +2377,9 @@ name,display_name,data_type,chart_type
 "China, Exports, Hong Kong, Value, USD, SA","CN, China, Exports, Hong Kong, Value, USD, SA",b,line
 "China, Exports, ROW, Value, USD, SA","CN, China, Exports, ROW, Value, USD, SA",b,line
 "China, Exports, Mexico, Value, USD, SA","CN, China, Exports, Mexico, Value, USD, SA",b,line
+"China, Exports, Latin America and Africa, Value, USD, SA","CN, China, Exports, Latin America and Africa, Value, USD, SA",b,line
+"China, Exports, DM, Value, USD, SA","CN, China, Exports, DM, Value, USD, SA",b,line
+"China, Exports, DM excluding US, Value, USD, SA","CN, China, Exports, DM excluding US, Value, USD, SA",b,line
 "China, Imports, EU, Value, USD, SA","CN, China, Imports, EU, Value, USD, SA",b,line
 "China, Imports, Developed Europe, Value, USD, SA","CN, China, Imports, Developed Europe, Value, USD, SA",b,line
 "China, Imports, US, Value, USD, SA","CN, China, Imports, US, Value, USD, SA",b,line
@@ -2372,6 +2403,9 @@ name,display_name,data_type,chart_type
 "China, Imports, Hong Kong, Value, USD, SA","CN, China, Imports, Hong Kong, Value, USD, SA",b,line
 "China, Imports, ROW, Value, USD, SA","CN, China, Imports, ROW, Value, USD, SA",b,line
 "China, Imports, Mexico, Value, USD, SA","CN, China, Imports, Mexico, Value, USD, SA",b,line
+"China, Imports, Latin America and Africa, Value, USD, SA","CN, China, Imports, Latin America and Africa, Value, USD, SA",b,line
+"China, Imports, DM, Value, USD, SA","CN, China, Imports, DM, Value, USD, SA",b,line
+"China, Imports, DM excluding US, Value, USD, SA","CN, China, Imports, DM excluding US, Value, USD, SA",b,line
 "China, Imports, Processing, Value, USD, SA","CN, China, Imports, Processing, Value, USD, SA",b,line
 "China, Imports, Retained, Value, USD, SA","CN, China, Imports, Retained, Value, USD, SA",b,line
 "China, Exports, State firms, Value, USD, SA","CN, China, Exports, State firms, Value, USD, SA",b,line
@@ -2424,85 +2458,6 @@ name,display_name,data_type,chart_type
 "China, HS, Imports, 8486, Japan, Value, USD, SA","CN, China, HS, Imports, 8486, Japan, Value, USD, SA",b,line
 "China, HS, Imports, 8486, EU, Value, USD, SA","CN, China, HS, Imports, 8486, EU, Value, USD, SA",b,line
 "China, HS, Imports, 8486, US, Value, USD, SA","CN, China, HS, Imports, 8486, US, Value, USD, SA",b,line
-"China, Exports, Latin America and Africa, Value, USD, SA","CN, China, Exports, Latin America and Africa, Value, USD, SA",b,line
-"China, Exports, DM, Value, USD, SA","CN, China, Exports, DM, Value, USD, SA",b,line
-"China, Imports, Latin America and Africa, Value, USD, SA","CN, China, Imports, Latin America and Africa, Value, USD, SA",b,line
-"China, Imports, DM, Value, USD, SA","CN, China, Imports, DM, Value, USD, SA",b,line
-"China, Trade balance, EU, Value, USD, SA","CN, China, Trade balance, EU, Value, USD, SA",b,line
-"China, Trade balance, Developed Europe, Value, USD, SA","CN, China, Trade balance, Developed Europe, Value, USD, SA",b,line
-"China, Trade balance, US, Value, USD, SA","CN, China, Trade balance, US, Value, USD, SA",b,line
-"China, Trade balance, Japan, Value, USD, SA","CN, China, Trade balance, Japan, Value, USD, SA",b,line
-"China, Trade balance, Korea, Value, USD, SA","CN, China, Trade balance, Korea, Value, USD, SA",b,line
-"China, Trade balance, Taiwan, Value, USD, SA","CN, China, Trade balance, Taiwan, Value, USD, SA",b,line
-"China, Trade balance, ASEAN, Value, USD, SA","CN, China, Trade balance, ASEAN, Value, USD, SA",b,line
-"China, Trade balance, Middle East, Value, USD, SA","CN, China, Trade balance, Middle East, Value, USD, SA",b,line
-"China, Trade balance, Africa, Value, USD, SA","CN, China, Trade balance, Africa, Value, USD, SA",b,line
-"China, Trade balance, Latin America, Value, USD, SA","CN, China, Trade balance, Latin America, Value, USD, SA",b,line
-"China, Trade balance, ROW incl Middle East, Value, USD, SA","CN, China, Trade balance, ROW incl Middle East, Value, USD, SA",b,line
-"China, Trade balance, ROW excl Middle East, Value, USD, SA","CN, China, Trade balance, ROW excl Middle East, Value, USD, SA",b,line
-"China, Trade balance, Russia, Value, USD, SA","CN, China, Trade balance, Russia, Value, USD, SA",b,line
-"China, Trade balance, India, Value, USD, SA","CN, China, Trade balance, India, Value, USD, SA",b,line
-"China, Trade balance, North Asia, Value, USD, SA","CN, China, Trade balance, North Asia, Value, USD, SA",b,line
-"China, Trade balance, Brazil, Value, USD, SA","CN, China, Trade balance, Brazil, Value, USD, SA",b,line
-"China, Trade balance, South Africa, Value, USD, SA","CN, China, Trade balance, South Africa, Value, USD, SA",b,line
-"China, Trade balance, DM excl Japan, Value, USD, SA","CN, China, Trade balance, DM excl Japan, Value, USD, SA",b,line
-"China, Trade balance, EM, Value, USD, SA","CN, China, Trade balance, EM, Value, USD, SA",b,line
-"China, Trade balance, DM incl North Asia, Value, USD, SA","CN, China, Trade balance, DM incl North Asia, Value, USD, SA",b,line
-"China, Trade balance, Hong Kong, Value, USD, SA","CN, China, Trade balance, Hong Kong, Value, USD, SA",b,line
-"China, Trade balance, ROW, Value, USD, SA","CN, China, Trade balance, ROW, Value, USD, SA",b,line
-"China, Trade balance, Mexico, Value, USD, SA","CN, China, Trade balance, Mexico, Value, USD, SA",b,line
-"China, Trade balance, Latin America and Africa, Value, USD, SA","CN, China, Trade balance, Latin America and Africa, Value, USD, SA",b,line
-"China, Trade balance, DM, Value, USD, SA","CN, China, Trade balance, DM, Value, USD, SA",b,line
-"China, Exports, EU, Value, % of total, SA","CN, China, Exports, EU, Value, % of total, SA",p,line
-"China, Exports, Developed Europe, Value, % of total, SA","CN, China, Exports, Developed Europe, Value, % of total, SA",p,line
-"China, Exports, US, Value, % of total, SA","CN, China, Exports, US, Value, % of total, SA",p,line
-"China, Exports, Japan, Value, % of total, SA","CN, China, Exports, Japan, Value, % of total, SA",p,line
-"China, Exports, Korea, Value, % of total, SA","CN, China, Exports, Korea, Value, % of total, SA",p,line
-"China, Exports, Taiwan, Value, % of total, SA","CN, China, Exports, Taiwan, Value, % of total, SA",p,line
-"China, Exports, ASEAN, Value, % of total, SA","CN, China, Exports, ASEAN, Value, % of total, SA",p,line
-"China, Exports, Middle East, Value, % of total, SA","CN, China, Exports, Middle East, Value, % of total, SA",p,line
-"China, Exports, Africa, Value, % of total, SA","CN, China, Exports, Africa, Value, % of total, SA",p,line
-"China, Exports, Latin America, Value, % of total, SA","CN, China, Exports, Latin America, Value, % of total, SA",p,line
-"China, Exports, ROW incl Middle East, Value, % of total, SA","CN, China, Exports, ROW incl Middle East, Value, % of total, SA",p,line
-"China, Exports, ROW excl Middle East, Value, % of total, SA","CN, China, Exports, ROW excl Middle East, Value, % of total, SA",p,line
-"China, Exports, Russia, Value, % of total, SA","CN, China, Exports, Russia, Value, % of total, SA",p,line
-"China, Exports, India, Value, % of total, SA","CN, China, Exports, India, Value, % of total, SA",p,line
-"China, Exports, North Asia, Value, % of total, SA","CN, China, Exports, North Asia, Value, % of total, SA",p,line
-"China, Exports, Brazil, Value, % of total, SA","CN, China, Exports, Brazil, Value, % of total, SA",p,line
-"China, Exports, South Africa, Value, % of total, SA","CN, China, Exports, South Africa, Value, % of total, SA",p,line
-"China, Exports, DM excl Japan, Value, % of total, SA","CN, China, Exports, DM excl Japan, Value, % of total, SA",p,line
-"China, Exports, EM, Value, % of total, SA","CN, China, Exports, EM, Value, % of total, SA",p,line
-"China, Exports, DM incl North Asia, Value, % of total, SA","CN, China, Exports, DM incl North Asia, Value, % of total, SA",p,line
-"China, Exports, Hong Kong, Value, % of total, SA","CN, China, Exports, Hong Kong, Value, % of total, SA",p,line
-"China, Exports, ROW, Value, % of total, SA","CN, China, Exports, ROW, Value, % of total, SA",p,line
-"China, Exports, Mexico, Value, % of total, SA","CN, China, Exports, Mexico, Value, % of total, SA",p,line
-"China, Exports, Latin America and Africa, Value, % of total, SA","CN, China, Exports, Latin America and Africa, Value, % of total, SA",p,line
-"China, Exports, DM, Value, % of total, SA","CN, China, Exports, DM, Value, % of total, SA",p,line
-"China, Imports, EU, Value, % of total, SA","CN, China, Imports, EU, Value, % of total, SA",p,line
-"China, Imports, Developed Europe, Value, % of total, SA","CN, China, Imports, Developed Europe, Value, % of total, SA",p,line
-"China, Imports, US, Value, % of total, SA","CN, China, Imports, US, Value, % of total, SA",p,line
-"China, Imports, Japan, Value, % of total, SA","CN, China, Imports, Japan, Value, % of total, SA",p,line
-"China, Imports, Korea, Value, % of total, SA","CN, China, Imports, Korea, Value, % of total, SA",p,line
-"China, Imports, Taiwan, Value, % of total, SA","CN, China, Imports, Taiwan, Value, % of total, SA",p,line
-"China, Imports, ASEAN, Value, % of total, SA","CN, China, Imports, ASEAN, Value, % of total, SA",p,line
-"China, Imports, Middle East, Value, % of total, SA","CN, China, Imports, Middle East, Value, % of total, SA",p,line
-"China, Imports, Africa, Value, % of total, SA","CN, China, Imports, Africa, Value, % of total, SA",p,line
-"China, Imports, Latin America, Value, % of total, SA","CN, China, Imports, Latin America, Value, % of total, SA",p,line
-"China, Imports, ROW incl Middle East, Value, % of total, SA","CN, China, Imports, ROW incl Middle East, Value, % of total, SA",p,line
-"China, Imports, ROW excl Middle East, Value, % of total, SA","CN, China, Imports, ROW excl Middle East, Value, % of total, SA",p,line
-"China, Imports, Russia, Value, % of total, SA","CN, China, Imports, Russia, Value, % of total, SA",p,line
-"China, Imports, India, Value, % of total, SA","CN, China, Imports, India, Value, % of total, SA",p,line
-"China, Imports, North Asia, Value, % of total, SA","CN, China, Imports, North Asia, Value, % of total, SA",p,line
-"China, Imports, Brazil, Value, % of total, SA","CN, China, Imports, Brazil, Value, % of total, SA",p,line
-"China, Imports, South Africa, Value, % of total, SA","CN, China, Imports, South Africa, Value, % of total, SA",p,line
-"China, Imports, DM excl Japan, Value, % of total, SA","CN, China, Imports, DM excl Japan, Value, % of total, SA",p,line
-"China, Imports, EM, Value, % of total, SA","CN, China, Imports, EM, Value, % of total, SA",p,line
-"China, Imports, DM incl North Asia, Value, % of total, SA","CN, China, Imports, DM incl North Asia, Value, % of total, SA",p,line
-"China, Imports, Hong Kong, Value, % of total, SA","CN, China, Imports, Hong Kong, Value, % of total, SA",p,line
-"China, Imports, ROW, Value, % of total, SA","CN, China, Imports, ROW, Value, % of total, SA",p,line
-"China, Imports, Mexico, Value, % of total, SA","CN, China, Imports, Mexico, Value, % of total, SA",p,line
-"China, Imports, Latin America and Africa, Value, % of total, SA","CN, China, Imports, Latin America and Africa, Value, % of total, SA",p,line
-"China, Imports, DM, Value, % of total, SA","CN, China, Imports, DM, Value, % of total, SA",p,line
 "China, SITC, Trade balance, 1-4, Primary products, Value, USD, SA","CN, China, SITC, Trade balance, 1-4, Primary products, Value, USD, SA",b,line
 "China, SITC, Trade balance, 5 Chemicals and related products, Value, USD, SA","CN, China, SITC, Trade balance, 5 Chemicals and related products, Value, USD, SA",b,line
 "China, SITC, Trade balance, 5-9, Manufactures, Value, USD, SA","CN, China, SITC, Trade balance, 5-9, Manufactures, Value, USD, SA",b,line
@@ -2546,8 +2501,114 @@ name,display_name,data_type,chart_type
 "China, Exports, Foreign firms, Value, % of total, SA","CN, China, Exports, Foreign firms, Value, % of total, SA",p,line
 "China, Exports, Private firms, Value, % of total, SA","CN, China, Exports, Private firms, Value, % of total, SA",p,line
 "China, Exports, Other firms, Value, % of total, SA","CN, China, Exports, Other firms, Value, % of total, SA",p,line
+"China, Trade balance, EU, Value, USD, SA","CN, China, Trade balance, EU, Value, USD, SA",b,line
+"China, Trade balance, EU, Value, USD","CN, China, Trade balance, EU, Value, USD",b,line
+"China, Trade balance, Developed Europe, Value, USD, SA","CN, China, Trade balance, Developed Europe, Value, USD, SA",b,line
+"China, Trade balance, Developed Europe, Value, USD","CN, China, Trade balance, Developed Europe, Value, USD",b,line
+"China, Trade balance, US, Value, USD, SA","CN, China, Trade balance, US, Value, USD, SA",b,line
+"China, Trade balance, US, Value, USD","CN, China, Trade balance, US, Value, USD",b,line
+"China, Trade balance, Japan, Value, USD, SA","CN, China, Trade balance, Japan, Value, USD, SA",b,line
+"China, Trade balance, Japan, Value, USD","CN, China, Trade balance, Japan, Value, USD",b,line
+"China, Trade balance, Korea, Value, USD, SA","CN, China, Trade balance, Korea, Value, USD, SA",b,line
+"China, Trade balance, Korea, Value, USD","CN, China, Trade balance, Korea, Value, USD",b,line
+"China, Trade balance, Taiwan, Value, USD, SA","CN, China, Trade balance, Taiwan, Value, USD, SA",b,line
+"China, Trade balance, Taiwan, Value, USD","CN, China, Trade balance, Taiwan, Value, USD",b,line
+"China, Trade balance, ASEAN, Value, USD, SA","CN, China, Trade balance, ASEAN, Value, USD, SA",b,line
+"China, Trade balance, ASEAN, Value, USD","CN, China, Trade balance, ASEAN, Value, USD",b,line
+"China, Trade balance, Middle East, Value, USD, SA","CN, China, Trade balance, Middle East, Value, USD, SA",b,line
+"China, Trade balance, Middle East, Value, USD","CN, China, Trade balance, Middle East, Value, USD",b,line
+"China, Trade balance, Africa, Value, USD, SA","CN, China, Trade balance, Africa, Value, USD, SA",b,line
+"China, Trade balance, Africa, Value, USD","CN, China, Trade balance, Africa, Value, USD",b,line
+"China, Trade balance, Latin America, Value, USD, SA","CN, China, Trade balance, Latin America, Value, USD, SA",b,line
+"China, Trade balance, Latin America, Value, USD","CN, China, Trade balance, Latin America, Value, USD",b,line
+"China, Trade balance, ROW incl Middle East, Value, USD, SA","CN, China, Trade balance, ROW incl Middle East, Value, USD, SA",b,line
+"China, Trade balance, ROW incl Middle East, Value, USD","CN, China, Trade balance, ROW incl Middle East, Value, USD",b,line
+"China, Trade balance, ROW excl Middle East, Value, USD, SA","CN, China, Trade balance, ROW excl Middle East, Value, USD, SA",b,line
+"China, Trade balance, ROW excl Middle East, Value, USD","CN, China, Trade balance, ROW excl Middle East, Value, USD",b,line
+"China, Trade balance, Russia, Value, USD, SA","CN, China, Trade balance, Russia, Value, USD, SA",b,line
+"China, Trade balance, Russia, Value, USD","CN, China, Trade balance, Russia, Value, USD",b,line
+"China, Trade balance, India, Value, USD, SA","CN, China, Trade balance, India, Value, USD, SA",b,line
+"China, Trade balance, India, Value, USD","CN, China, Trade balance, India, Value, USD",b,line
+"China, Trade balance, North Asia, Value, USD, SA","CN, China, Trade balance, North Asia, Value, USD, SA",b,line
+"China, Trade balance, North Asia, Value, USD","CN, China, Trade balance, North Asia, Value, USD",b,line
+"China, Trade balance, Brazil, Value, USD, SA","CN, China, Trade balance, Brazil, Value, USD, SA",b,line
+"China, Trade balance, Brazil, Value, USD","CN, China, Trade balance, Brazil, Value, USD",b,line
+"China, Trade balance, South Africa, Value, USD, SA","CN, China, Trade balance, South Africa, Value, USD, SA",b,line
+"China, Trade balance, South Africa, Value, USD","CN, China, Trade balance, South Africa, Value, USD",b,line
+"China, Trade balance, DM excl Japan, Value, USD, SA","CN, China, Trade balance, DM excl Japan, Value, USD, SA",b,line
+"China, Trade balance, DM excl Japan, Value, USD","CN, China, Trade balance, DM excl Japan, Value, USD",b,line
+"China, Trade balance, EM, Value, USD, SA","CN, China, Trade balance, EM, Value, USD, SA",b,line
+"China, Trade balance, EM, Value, USD","CN, China, Trade balance, EM, Value, USD",b,line
+"China, Trade balance, DM incl North Asia, Value, USD, SA","CN, China, Trade balance, DM incl North Asia, Value, USD, SA",b,line
+"China, Trade balance, DM incl North Asia, Value, USD","CN, China, Trade balance, DM incl North Asia, Value, USD",b,line
+"China, Trade balance, Hong Kong, Value, USD, SA","CN, China, Trade balance, Hong Kong, Value, USD, SA",b,line
+"China, Trade balance, Hong Kong, Value, USD","CN, China, Trade balance, Hong Kong, Value, USD",b,line
+"China, Trade balance, ROW, Value, USD, SA","CN, China, Trade balance, ROW, Value, USD, SA",b,line
+"China, Trade balance, ROW, Value, USD","CN, China, Trade balance, ROW, Value, USD",b,line
+"China, Trade balance, Mexico, Value, USD, SA","CN, China, Trade balance, Mexico, Value, USD, SA",b,line
+"China, Trade balance, Mexico, Value, USD","CN, China, Trade balance, Mexico, Value, USD",b,line
+"China, Trade balance, Latin America and Africa, Value, USD, SA","CN, China, Trade balance, Latin America and Africa, Value, USD, SA",b,line
+"China, Trade balance, Latin America and Africa, Value, USD","CN, China, Trade balance, Latin America and Africa, Value, USD",b,line
+"China, Trade balance, DM, Value, USD, SA","CN, China, Trade balance, DM, Value, USD, SA",b,line
+"China, Trade balance, DM, Value, USD","CN, China, Trade balance, DM, Value, USD",b,line
+"China, Trade balance, DM excluding US, Value, USD, SA","CN, China, Trade balance, DM excluding US, Value, USD, SA",b,line
+"China, Trade balance, DM excluding US, Value, USD","CN, China, Trade balance, DM excluding US, Value, USD",b,line
+"China, Exports, EU, Value, % of total, SA","CN, China, Exports, EU, Value, % of total, SA",p,line
+"China, Exports, Developed Europe, Value, % of total, SA","CN, China, Exports, Developed Europe, Value, % of total, SA",p,line
+"China, Exports, US, Value, % of total, SA","CN, China, Exports, US, Value, % of total, SA",p,line
+"China, Exports, Japan, Value, % of total, SA","CN, China, Exports, Japan, Value, % of total, SA",p,line
+"China, Exports, Korea, Value, % of total, SA","CN, China, Exports, Korea, Value, % of total, SA",p,line
+"China, Exports, Taiwan, Value, % of total, SA","CN, China, Exports, Taiwan, Value, % of total, SA",p,line
+"China, Exports, ASEAN, Value, % of total, SA","CN, China, Exports, ASEAN, Value, % of total, SA",p,line
+"China, Exports, Middle East, Value, % of total, SA","CN, China, Exports, Middle East, Value, % of total, SA",p,line
+"China, Exports, Africa, Value, % of total, SA","CN, China, Exports, Africa, Value, % of total, SA",p,line
+"China, Exports, Latin America, Value, % of total, SA","CN, China, Exports, Latin America, Value, % of total, SA",p,line
+"China, Exports, ROW incl Middle East, Value, % of total, SA","CN, China, Exports, ROW incl Middle East, Value, % of total, SA",p,line
+"China, Exports, ROW excl Middle East, Value, % of total, SA","CN, China, Exports, ROW excl Middle East, Value, % of total, SA",p,line
+"China, Exports, Russia, Value, % of total, SA","CN, China, Exports, Russia, Value, % of total, SA",p,line
+"China, Exports, India, Value, % of total, SA","CN, China, Exports, India, Value, % of total, SA",p,line
+"China, Exports, North Asia, Value, % of total, SA","CN, China, Exports, North Asia, Value, % of total, SA",p,line
+"China, Exports, Brazil, Value, % of total, SA","CN, China, Exports, Brazil, Value, % of total, SA",p,line
+"China, Exports, South Africa, Value, % of total, SA","CN, China, Exports, South Africa, Value, % of total, SA",p,line
+"China, Exports, DM excl Japan, Value, % of total, SA","CN, China, Exports, DM excl Japan, Value, % of total, SA",p,line
+"China, Exports, EM, Value, % of total, SA","CN, China, Exports, EM, Value, % of total, SA",p,line
+"China, Exports, DM incl North Asia, Value, % of total, SA","CN, China, Exports, DM incl North Asia, Value, % of total, SA",p,line
+"China, Exports, Hong Kong, Value, % of total, SA","CN, China, Exports, Hong Kong, Value, % of total, SA",p,line
+"China, Exports, ROW, Value, % of total, SA","CN, China, Exports, ROW, Value, % of total, SA",p,line
+"China, Exports, Mexico, Value, % of total, SA","CN, China, Exports, Mexico, Value, % of total, SA",p,line
+"China, Exports, Latin America and Africa, Value, % of total, SA","CN, China, Exports, Latin America and Africa, Value, % of total, SA",p,line
+"China, Exports, DM, Value, % of total, SA","CN, China, Exports, DM, Value, % of total, SA",p,line
+"China, Exports, DM excluding US, Value, % of total, SA","CN, China, Exports, DM excluding US, Value, % of total, SA",p,line
+"China, Imports, EU, Value, % of total, SA","CN, China, Imports, EU, Value, % of total, SA",p,line
+"China, Imports, Developed Europe, Value, % of total, SA","CN, China, Imports, Developed Europe, Value, % of total, SA",p,line
+"China, Imports, US, Value, % of total, SA","CN, China, Imports, US, Value, % of total, SA",p,line
+"China, Imports, Japan, Value, % of total, SA","CN, China, Imports, Japan, Value, % of total, SA",p,line
+"China, Imports, Korea, Value, % of total, SA","CN, China, Imports, Korea, Value, % of total, SA",p,line
+"China, Imports, Taiwan, Value, % of total, SA","CN, China, Imports, Taiwan, Value, % of total, SA",p,line
+"China, Imports, ASEAN, Value, % of total, SA","CN, China, Imports, ASEAN, Value, % of total, SA",p,line
+"China, Imports, Middle East, Value, % of total, SA","CN, China, Imports, Middle East, Value, % of total, SA",p,line
+"China, Imports, Africa, Value, % of total, SA","CN, China, Imports, Africa, Value, % of total, SA",p,line
+"China, Imports, Latin America, Value, % of total, SA","CN, China, Imports, Latin America, Value, % of total, SA",p,line
+"China, Imports, ROW incl Middle East, Value, % of total, SA","CN, China, Imports, ROW incl Middle East, Value, % of total, SA",p,line
+"China, Imports, ROW excl Middle East, Value, % of total, SA","CN, China, Imports, ROW excl Middle East, Value, % of total, SA",p,line
+"China, Imports, Russia, Value, % of total, SA","CN, China, Imports, Russia, Value, % of total, SA",p,line
+"China, Imports, India, Value, % of total, SA","CN, China, Imports, India, Value, % of total, SA",p,line
+"China, Imports, North Asia, Value, % of total, SA","CN, China, Imports, North Asia, Value, % of total, SA",p,line
+"China, Imports, Brazil, Value, % of total, SA","CN, China, Imports, Brazil, Value, % of total, SA",p,line
+"China, Imports, South Africa, Value, % of total, SA","CN, China, Imports, South Africa, Value, % of total, SA",p,line
+"China, Imports, DM excl Japan, Value, % of total, SA","CN, China, Imports, DM excl Japan, Value, % of total, SA",p,line
+"China, Imports, EM, Value, % of total, SA","CN, China, Imports, EM, Value, % of total, SA",p,line
+"China, Imports, DM incl North Asia, Value, % of total, SA","CN, China, Imports, DM incl North Asia, Value, % of total, SA",p,line
+"China, Imports, Hong Kong, Value, % of total, SA","CN, China, Imports, Hong Kong, Value, % of total, SA",p,line
+"China, Imports, ROW, Value, % of total, SA","CN, China, Imports, ROW, Value, % of total, SA",p,line
+"China, Imports, Mexico, Value, % of total, SA","CN, China, Imports, Mexico, Value, % of total, SA",p,line
+"China, Imports, Latin America and Africa, Value, % of total, SA","CN, China, Imports, Latin America and Africa, Value, % of total, SA",p,line
+"China, Imports, DM, Value, % of total, SA","CN, China, Imports, DM, Value, % of total, SA",p,line
+"China, Imports, DM excluding US, Value, % of total, SA","CN, China, Imports, DM excluding US, Value, % of total, SA",p,line
 "China, China, Exports, % of world, CCA, Value","CN, China, China, Exports, % of world, CCA, Value",p,line
 "China, Exports, Other firms, % of world, CCA, Value","CN, China, Exports, Other firms, % of world, CCA, Value",p,line
+"China, HS, Imports, 8541 and 8542, Korea, Share of total, %, Value","CN, China, HS, Imports, 8541 and 8542, Korea, Share of total, %, Value",None,line
+"China, HS, Imports, 8541 and 8542, Taiwan, Share of total, %, Value","CN, China, HS, Imports, 8541 and 8542, Taiwan, Share of total, %, Value",None,line
 "China, Balance, Value, % of GDP","CN, China, Balance, Value, % of GDP",p,line
 "China, Exports, All, Value, % of GDP","CN, China, Exports, All, Value, % of GDP",p,line
 "China, Imports, All, Value, % of GDP","CN, China, Imports, All, Value, % of GDP",p,line
@@ -2959,6 +3020,7 @@ name,display_name,data_type,chart_type
 "China, Exports, Australia, Value, % of GDP","CN, China, Exports, Australia, Value, % of GDP",p,line
 "China, Exports, Austria, Value, % of GDP","CN, China, Exports, Austria, Value, % of GDP",p,line
 "China, Exports, Azerbaijan, Value, % of GDP","CN, China, Exports, Azerbaijan, Value, % of GDP",p,line
+"China, Exports, BRI, Value, % of GDP","CN, China, Exports, BRI, Value, % of GDP",p,line
 "China, Exports, Bahamas, Value, % of GDP","CN, China, Exports, Bahamas, Value, % of GDP",p,line
 "China, Exports, Bahrain, Value, % of GDP","CN, China, Exports, Bahrain, Value, % of GDP",p,line
 "China, Exports, Bangladesh, Value, % of GDP","CN, China, Exports, Bangladesh, Value, % of GDP",p,line
@@ -3125,6 +3187,7 @@ name,display_name,data_type,chart_type
 "China, Exports, Portugal, Value, % of GDP","CN, China, Exports, Portugal, Value, % of GDP",p,line
 "China, Exports, Puerto Rico, Value, % of GDP","CN, China, Exports, Puerto Rico, Value, % of GDP",p,line
 "China, Exports, Qatar, Value, % of GDP","CN, China, Exports, Qatar, Value, % of GDP",p,line
+"China, Exports, RCEP, Value, % of GDP","CN, China, Exports, RCEP, Value, % of GDP",p,line
 "China, Exports, Republic of North Macedonia, Value, % of GDP","CN, China, Exports, Republic of North Macedonia, Value, % of GDP",p,line
 "China, Exports, Republic of South Sudan, Value, % of GDP","CN, China, Exports, Republic of South Sudan, Value, % of GDP",p,line
 "China, Exports, Reunion, Value, % of GDP","CN, China, Exports, Reunion, Value, % of GDP",p,line
@@ -3210,6 +3273,7 @@ name,display_name,data_type,chart_type
 "China, Imports, Australia, Value, % of GDP","CN, China, Imports, Australia, Value, % of GDP",p,line
 "China, Imports, Austria, Value, % of GDP","CN, China, Imports, Austria, Value, % of GDP",p,line
 "China, Imports, Azerbaijan, Value, % of GDP","CN, China, Imports, Azerbaijan, Value, % of GDP",p,line
+"China, Imports, BRI, Value, % of GDP","CN, China, Imports, BRI, Value, % of GDP",p,line
 "China, Imports, Bahamas, Value, % of GDP","CN, China, Imports, Bahamas, Value, % of GDP",p,line
 "China, Imports, Bahrain, Value, % of GDP","CN, China, Imports, Bahrain, Value, % of GDP",p,line
 "China, Imports, Bangladesh, Value, % of GDP","CN, China, Imports, Bangladesh, Value, % of GDP",p,line
@@ -3376,6 +3440,7 @@ name,display_name,data_type,chart_type
 "China, Imports, Portugal, Value, % of GDP","CN, China, Imports, Portugal, Value, % of GDP",p,line
 "China, Imports, Puerto Rico, Value, % of GDP","CN, China, Imports, Puerto Rico, Value, % of GDP",p,line
 "China, Imports, Qatar, Value, % of GDP","CN, China, Imports, Qatar, Value, % of GDP",p,line
+"China, Imports, RCEP, Value, % of GDP","CN, China, Imports, RCEP, Value, % of GDP",p,line
 "China, Imports, Republic of North Macedonia, Value, % of GDP","CN, China, Imports, Republic of North Macedonia, Value, % of GDP",p,line
 "China, Imports, Republic of South Sudan, Value, % of GDP","CN, China, Imports, Republic of South Sudan, Value, % of GDP",p,line
 "China, Imports, Reunion, Value, % of GDP","CN, China, Imports, Reunion, Value, % of GDP",p,line
@@ -3698,12 +3763,18 @@ name,display_name,data_type,chart_type
 "China, HS, Imports, 8486, World, Value, % of GDP","CN, China, HS, Imports, 8486, World, Value, % of GDP",p,line
 "China, HS, Imports, 84 and 85, World, Value, % of GDP","CN, China, HS, Imports, 84 and 85, World, Value, % of GDP",p,line
 "China, HS, Exports, 84 and 85, World, Value, % of GDP","CN, China, HS, Exports, 84 and 85, World, Value, % of GDP",p,line
+"China, HS, Imports, 84 through 89, Taiwan, Value, % of GDP","CN, China, HS, Imports, 84 through 89, Taiwan, Value, % of GDP",p,line
 "China, HS, Imports, 8541 and 8542, Taiwan, Value, % of GDP","CN, China, HS, Imports, 8541 and 8542, Taiwan, Value, % of GDP",p,line
+"China, HS, Imports, 84 through 89, Korea, Value, % of GDP","CN, China, HS, Imports, 84 through 89, Korea, Value, % of GDP",p,line
 "China, HS, Imports, 8541 and 8542, Korea, Value, % of GDP","CN, China, HS, Imports, 8541 and 8542, Korea, Value, % of GDP",p,line
+"China, HS, Imports, 84 through 89, Japan, Value, % of GDP","CN, China, HS, Imports, 84 through 89, Japan, Value, % of GDP",p,line
 "China, HS, Imports, 84 through 89, World, Value, % of GDP","CN, China, HS, Imports, 84 through 89, World, Value, % of GDP",p,line
 "China, HS, Imports, 8541 and 8542, World, Value, % of GDP","CN, China, HS, Imports, 8541 and 8542, World, Value, % of GDP",p,line
+"China, HS, Exports, 84 through 89, Taiwan, Value, % of GDP","CN, China, HS, Exports, 84 through 89, Taiwan, Value, % of GDP",p,line
 "China, HS, Exports, 8541 and 8542, Taiwan, Value, % of GDP","CN, China, HS, Exports, 8541 and 8542, Taiwan, Value, % of GDP",p,line
+"China, HS, Exports, 84 through 89, Korea, Value, % of GDP","CN, China, HS, Exports, 84 through 89, Korea, Value, % of GDP",p,line
 "China, HS, Exports, 8541 and 8542, Korea, Value, % of GDP","CN, China, HS, Exports, 8541 and 8542, Korea, Value, % of GDP",p,line
+"China, HS, Exports, 84 through 89, Japan, Value, % of GDP","CN, China, HS, Exports, 84 through 89, Japan, Value, % of GDP",p,line
 "China, HS, Exports, 84 through 89, World, Value, % of GDP","CN, China, HS, Exports, 84 through 89, World, Value, % of GDP",p,line
 "China, HS, Exports, 8541 and 8542, World, Value, % of GDP","CN, China, HS, Exports, 8541 and 8542, World, Value, % of GDP",p,line
 "China, HS, Imports, 84 and 85 excl 8541 and 8542, US, Value, % of GDP","CN, China, HS, Imports, 84 and 85 excl 8541 and 8542, US, Value, % of GDP",p,line
@@ -3936,35 +4007,41 @@ name,display_name,data_type,chart_type
 "China, Exports, North Asia, Value, % of GDP","CN, China, Exports, North Asia, Value, % of GDP",p,line
 "China, Exports, Developed Europe, Value, % of GDP","CN, China, Exports, Developed Europe, Value, % of GDP",p,line
 "China, Exports, DM excl Japan, Value, % of GDP","CN, China, Exports, DM excl Japan, Value, % of GDP",p,line
-"China, Exports, EM, Value, % of GDP","CN, China, Exports, EM, Value, % of GDP",p,line
+"China, Exports, Developed Oceania, Value, % of GDP","CN, China, Exports, Developed Oceania, Value, % of GDP",p,line
 "China, Exports, DM incl North Asia, Value, % of GDP","CN, China, Exports, DM incl North Asia, Value, % of GDP",p,line
 "China, Exports, Other Europe, Value, % of GDP","CN, China, Exports, Other Europe, Value, % of GDP",p,line
 "China, Exports, Middle East, Value, % of GDP","CN, China, Exports, Middle East, Value, % of GDP",p,line
 "China, Exports, Other Asia incl Middle East, Value, % of GDP","CN, China, Exports, Other Asia incl Middle East, Value, % of GDP",p,line
 "China, Exports, Other Asia excl Middle East, Value, % of GDP","CN, China, Exports, Other Asia excl Middle East, Value, % of GDP",p,line
-"China, Exports, Developed Oceania, Value, % of GDP","CN, China, Exports, Developed Oceania, Value, % of GDP",p,line
 "China, Exports, Other Oceania, Value, % of GDP","CN, China, Exports, Other Oceania, Value, % of GDP",p,line
 "China, Exports, Developed North America, Value, % of GDP","CN, China, Exports, Developed North America, Value, % of GDP",p,line
 "China, Exports, Other North America, Value, % of GDP","CN, China, Exports, Other North America, Value, % of GDP",p,line
 "China, Exports, ROW incl Middle East, Value, % of GDP","CN, China, Exports, ROW incl Middle East, Value, % of GDP",p,line
 "China, Exports, ROW excl Middle East, Value, % of GDP","CN, China, Exports, ROW excl Middle East, Value, % of GDP",p,line
 "China, Exports, ROW, Value, % of GDP","CN, China, Exports, ROW, Value, % of GDP",p,line
+"China, Exports, Latin America and Africa, Value, % of GDP","CN, China, Exports, Latin America and Africa, Value, % of GDP",p,line
+"China, Exports, DM, Value, % of GDP","CN, China, Exports, DM, Value, % of GDP",p,line
+"China, Exports, DM excluding US, Value, % of GDP","CN, China, Exports, DM excluding US, Value, % of GDP",p,line
+"China, Exports, EM, Value, % of GDP","CN, China, Exports, EM, Value, % of GDP",p,line
 "China, Imports, North Asia, Value, % of GDP","CN, China, Imports, North Asia, Value, % of GDP",p,line
 "China, Imports, Developed Europe, Value, % of GDP","CN, China, Imports, Developed Europe, Value, % of GDP",p,line
 "China, Imports, DM excl Japan, Value, % of GDP","CN, China, Imports, DM excl Japan, Value, % of GDP",p,line
-"China, Imports, EM, Value, % of GDP","CN, China, Imports, EM, Value, % of GDP",p,line
+"China, Imports, Developed Oceania, Value, % of GDP","CN, China, Imports, Developed Oceania, Value, % of GDP",p,line
 "China, Imports, DM incl North Asia, Value, % of GDP","CN, China, Imports, DM incl North Asia, Value, % of GDP",p,line
 "China, Imports, Other Europe, Value, % of GDP","CN, China, Imports, Other Europe, Value, % of GDP",p,line
 "China, Imports, Middle East, Value, % of GDP","CN, China, Imports, Middle East, Value, % of GDP",p,line
 "China, Imports, Other Asia incl Middle East, Value, % of GDP","CN, China, Imports, Other Asia incl Middle East, Value, % of GDP",p,line
 "China, Imports, Other Asia excl Middle East, Value, % of GDP","CN, China, Imports, Other Asia excl Middle East, Value, % of GDP",p,line
-"China, Imports, Developed Oceania, Value, % of GDP","CN, China, Imports, Developed Oceania, Value, % of GDP",p,line
 "China, Imports, Other Oceania, Value, % of GDP","CN, China, Imports, Other Oceania, Value, % of GDP",p,line
 "China, Imports, Developed North America, Value, % of GDP","CN, China, Imports, Developed North America, Value, % of GDP",p,line
 "China, Imports, Other North America, Value, % of GDP","CN, China, Imports, Other North America, Value, % of GDP",p,line
 "China, Imports, ROW incl Middle East, Value, % of GDP","CN, China, Imports, ROW incl Middle East, Value, % of GDP",p,line
 "China, Imports, ROW excl Middle East, Value, % of GDP","CN, China, Imports, ROW excl Middle East, Value, % of GDP",p,line
 "China, Imports, ROW, Value, % of GDP","CN, China, Imports, ROW, Value, % of GDP",p,line
+"China, Imports, Latin America and Africa, Value, % of GDP","CN, China, Imports, Latin America and Africa, Value, % of GDP",p,line
+"China, Imports, DM, Value, % of GDP","CN, China, Imports, DM, Value, % of GDP",p,line
+"China, Imports, DM excluding US, Value, % of GDP","CN, China, Imports, DM excluding US, Value, % of GDP",p,line
+"China, Imports, EM, Value, % of GDP","CN, China, Imports, EM, Value, % of GDP",p,line
 "China, Exports, Main product, Garments and clothing accessories, Value, % of GDP, SA","CN, China, Exports, Main product, Garments and clothing accessories, Value, % of GDP, SA",p,line
 "China, Exports, Main product, Mechanical and electrical products, Value, % of GDP, SA","CN, China, Exports, Main product, Mechanical and electrical products, Value, % of GDP, SA",p,line
 "China, Exports, Main product, Motor vehicles including chassis fitted with engines, Value, % of GDP, SA","CN, China, Exports, Main product, Motor vehicles including chassis fitted with engines, Value, % of GDP, SA",p,line
@@ -3975,6 +4052,7 @@ name,display_name,data_type,chart_type
 "China, Exports, Main product, Commodities, Value, % of GDP, SA","CN, China, Exports, Main product, Commodities, Value, % of GDP, SA",p,line
 "China, Imports, Energy, Value, % of GDP, SA","CN, China, Imports, Energy, Value, % of GDP, SA",p,line
 "China, Imports, Electronic Integrated Circuit, Value, % of GDP, SA","CN, China, Imports, Electronic Integrated Circuit, Value, % of GDP, SA",p,line
+"China, Exports, Passenger cars, Value, % of GDP, SA","CN, China, Exports, Passenger cars, Value, % of GDP, SA",p,line
 "China, Exports, Main product, Mobile phones, Value, % of GDP, SA","CN, China, Exports, Main product, Mobile phones, Value, % of GDP, SA",p,line
 "China, Exports, EU, Value, % of GDP, SA","CN, China, Exports, EU, Value, % of GDP, SA",p,line
 "China, Exports, Developed Europe, Value, % of GDP, SA","CN, China, Exports, Developed Europe, Value, % of GDP, SA",p,line
@@ -3999,6 +4077,9 @@ name,display_name,data_type,chart_type
 "China, Exports, Hong Kong, Value, % of GDP, SA","CN, China, Exports, Hong Kong, Value, % of GDP, SA",p,line
 "China, Exports, ROW, Value, % of GDP, SA","CN, China, Exports, ROW, Value, % of GDP, SA",p,line
 "China, Exports, Mexico, Value, % of GDP, SA","CN, China, Exports, Mexico, Value, % of GDP, SA",p,line
+"China, Exports, Latin America and Africa, Value, % of GDP, SA","CN, China, Exports, Latin America and Africa, Value, % of GDP, SA",p,line
+"China, Exports, DM, Value, % of GDP, SA","CN, China, Exports, DM, Value, % of GDP, SA",p,line
+"China, Exports, DM excluding US, Value, % of GDP, SA","CN, China, Exports, DM excluding US, Value, % of GDP, SA",p,line
 "China, Imports, EU, Value, % of GDP, SA","CN, China, Imports, EU, Value, % of GDP, SA",p,line
 "China, Imports, Developed Europe, Value, % of GDP, SA","CN, China, Imports, Developed Europe, Value, % of GDP, SA",p,line
 "China, Imports, US, Value, % of GDP, SA","CN, China, Imports, US, Value, % of GDP, SA",p,line
@@ -4022,6 +4103,9 @@ name,display_name,data_type,chart_type
 "China, Imports, Hong Kong, Value, % of GDP, SA","CN, China, Imports, Hong Kong, Value, % of GDP, SA",p,line
 "China, Imports, ROW, Value, % of GDP, SA","CN, China, Imports, ROW, Value, % of GDP, SA",p,line
 "China, Imports, Mexico, Value, % of GDP, SA","CN, China, Imports, Mexico, Value, % of GDP, SA",p,line
+"China, Imports, Latin America and Africa, Value, % of GDP, SA","CN, China, Imports, Latin America and Africa, Value, % of GDP, SA",p,line
+"China, Imports, DM, Value, % of GDP, SA","CN, China, Imports, DM, Value, % of GDP, SA",p,line
+"China, Imports, DM excluding US, Value, % of GDP, SA","CN, China, Imports, DM excluding US, Value, % of GDP, SA",p,line
 "China, Imports, Processing, Value, % of GDP, SA","CN, China, Imports, Processing, Value, % of GDP, SA",p,line
 "China, Imports, Retained, Value, % of GDP, SA","CN, China, Imports, Retained, Value, % of GDP, SA",p,line
 "China, Exports, State firms, Value, % of GDP, SA","CN, China, Exports, State firms, Value, % of GDP, SA",p,line
@@ -4071,35 +4155,6 @@ name,display_name,data_type,chart_type
 "China, HS, Imports, 8486, Japan, Value, % of GDP, SA","CN, China, HS, Imports, 8486, Japan, Value, % of GDP, SA",p,line
 "China, HS, Imports, 8486, EU, Value, % of GDP, SA","CN, China, HS, Imports, 8486, EU, Value, % of GDP, SA",p,line
 "China, HS, Imports, 8486, US, Value, % of GDP, SA","CN, China, HS, Imports, 8486, US, Value, % of GDP, SA",p,line
-"China, Exports, Latin America and Africa, Value, % of GDP, SA","CN, China, Exports, Latin America and Africa, Value, % of GDP, SA",p,line
-"China, Exports, DM, Value, % of GDP, SA","CN, China, Exports, DM, Value, % of GDP, SA",p,line
-"China, Imports, Latin America and Africa, Value, % of GDP, SA","CN, China, Imports, Latin America and Africa, Value, % of GDP, SA",p,line
-"China, Imports, DM, Value, % of GDP, SA","CN, China, Imports, DM, Value, % of GDP, SA",p,line
-"China, Trade balance, EU, Value, % of GDP, SA","CN, China, Trade balance, EU, Value, % of GDP, SA",p,line
-"China, Trade balance, Developed Europe, Value, % of GDP, SA","CN, China, Trade balance, Developed Europe, Value, % of GDP, SA",p,line
-"China, Trade balance, US, Value, % of GDP, SA","CN, China, Trade balance, US, Value, % of GDP, SA",p,line
-"China, Trade balance, Japan, Value, % of GDP, SA","CN, China, Trade balance, Japan, Value, % of GDP, SA",p,line
-"China, Trade balance, Korea, Value, % of GDP, SA","CN, China, Trade balance, Korea, Value, % of GDP, SA",p,line
-"China, Trade balance, Taiwan, Value, % of GDP, SA","CN, China, Trade balance, Taiwan, Value, % of GDP, SA",p,line
-"China, Trade balance, ASEAN, Value, % of GDP, SA","CN, China, Trade balance, ASEAN, Value, % of GDP, SA",p,line
-"China, Trade balance, Middle East, Value, % of GDP, SA","CN, China, Trade balance, Middle East, Value, % of GDP, SA",p,line
-"China, Trade balance, Africa, Value, % of GDP, SA","CN, China, Trade balance, Africa, Value, % of GDP, SA",p,line
-"China, Trade balance, Latin America, Value, % of GDP, SA","CN, China, Trade balance, Latin America, Value, % of GDP, SA",p,line
-"China, Trade balance, ROW incl Middle East, Value, % of GDP, SA","CN, China, Trade balance, ROW incl Middle East, Value, % of GDP, SA",p,line
-"China, Trade balance, ROW excl Middle East, Value, % of GDP, SA","CN, China, Trade balance, ROW excl Middle East, Value, % of GDP, SA",p,line
-"China, Trade balance, Russia, Value, % of GDP, SA","CN, China, Trade balance, Russia, Value, % of GDP, SA",p,line
-"China, Trade balance, India, Value, % of GDP, SA","CN, China, Trade balance, India, Value, % of GDP, SA",p,line
-"China, Trade balance, North Asia, Value, % of GDP, SA","CN, China, Trade balance, North Asia, Value, % of GDP, SA",p,line
-"China, Trade balance, Brazil, Value, % of GDP, SA","CN, China, Trade balance, Brazil, Value, % of GDP, SA",p,line
-"China, Trade balance, South Africa, Value, % of GDP, SA","CN, China, Trade balance, South Africa, Value, % of GDP, SA",p,line
-"China, Trade balance, DM excl Japan, Value, % of GDP, SA","CN, China, Trade balance, DM excl Japan, Value, % of GDP, SA",p,line
-"China, Trade balance, EM, Value, % of GDP, SA","CN, China, Trade balance, EM, Value, % of GDP, SA",p,line
-"China, Trade balance, DM incl North Asia, Value, % of GDP, SA","CN, China, Trade balance, DM incl North Asia, Value, % of GDP, SA",p,line
-"China, Trade balance, Hong Kong, Value, % of GDP, SA","CN, China, Trade balance, Hong Kong, Value, % of GDP, SA",p,line
-"China, Trade balance, ROW, Value, % of GDP, SA","CN, China, Trade balance, ROW, Value, % of GDP, SA",p,line
-"China, Trade balance, Mexico, Value, % of GDP, SA","CN, China, Trade balance, Mexico, Value, % of GDP, SA",p,line
-"China, Trade balance, Latin America and Africa, Value, % of GDP, SA","CN, China, Trade balance, Latin America and Africa, Value, % of GDP, SA",p,line
-"China, Trade balance, DM, Value, % of GDP, SA","CN, China, Trade balance, DM, Value, % of GDP, SA",p,line
 "China, SITC, Trade balance, 1-4, Primary products, Value, % of GDP, SA","CN, China, SITC, Trade balance, 1-4, Primary products, Value, % of GDP, SA",p,line
 "China, SITC, Trade balance, 5 Chemicals and related products, Value, % of GDP, SA","CN, China, SITC, Trade balance, 5 Chemicals and related products, Value, % of GDP, SA",p,line
 "China, SITC, Trade balance, 5-9, Manufactures, Value, % of GDP, SA","CN, China, SITC, Trade balance, 5-9, Manufactures, Value, % of GDP, SA",p,line
@@ -4113,6 +4168,58 @@ name,display_name,data_type,chart_type
 "China, SITC, Trade balance, Intermediates, Value, % of GDP, SA","CN, China, SITC, Trade balance, Intermediates, Value, % of GDP, SA",p,line
 "China, SITC, Trade balance, Other, Value, % of GDP, SA","CN, China, SITC, Trade balance, Other, Value, % of GDP, SA",p,line
 "China, SITC, Trade balance, Machinery, Value, % of GDP, SA","CN, China, SITC, Trade balance, Machinery, Value, % of GDP, SA",p,line
+"China, Trade balance, EU, Value, % of GDP, SA","CN, China, Trade balance, EU, Value, % of GDP, SA",p,line
+"China, Trade balance, EU, Value, % of GDP","CN, China, Trade balance, EU, Value, % of GDP",p,line
+"China, Trade balance, Developed Europe, Value, % of GDP, SA","CN, China, Trade balance, Developed Europe, Value, % of GDP, SA",p,line
+"China, Trade balance, Developed Europe, Value, % of GDP","CN, China, Trade balance, Developed Europe, Value, % of GDP",p,line
+"China, Trade balance, US, Value, % of GDP, SA","CN, China, Trade balance, US, Value, % of GDP, SA",p,line
+"China, Trade balance, US, Value, % of GDP","CN, China, Trade balance, US, Value, % of GDP",p,line
+"China, Trade balance, Japan, Value, % of GDP, SA","CN, China, Trade balance, Japan, Value, % of GDP, SA",p,line
+"China, Trade balance, Japan, Value, % of GDP","CN, China, Trade balance, Japan, Value, % of GDP",p,line
+"China, Trade balance, Korea, Value, % of GDP, SA","CN, China, Trade balance, Korea, Value, % of GDP, SA",p,line
+"China, Trade balance, Korea, Value, % of GDP","CN, China, Trade balance, Korea, Value, % of GDP",p,line
+"China, Trade balance, Taiwan, Value, % of GDP, SA","CN, China, Trade balance, Taiwan, Value, % of GDP, SA",p,line
+"China, Trade balance, Taiwan, Value, % of GDP","CN, China, Trade balance, Taiwan, Value, % of GDP",p,line
+"China, Trade balance, ASEAN, Value, % of GDP, SA","CN, China, Trade balance, ASEAN, Value, % of GDP, SA",p,line
+"China, Trade balance, ASEAN, Value, % of GDP","CN, China, Trade balance, ASEAN, Value, % of GDP",p,line
+"China, Trade balance, Middle East, Value, % of GDP, SA","CN, China, Trade balance, Middle East, Value, % of GDP, SA",p,line
+"China, Trade balance, Middle East, Value, % of GDP","CN, China, Trade balance, Middle East, Value, % of GDP",p,line
+"China, Trade balance, Africa, Value, % of GDP, SA","CN, China, Trade balance, Africa, Value, % of GDP, SA",p,line
+"China, Trade balance, Africa, Value, % of GDP","CN, China, Trade balance, Africa, Value, % of GDP",p,line
+"China, Trade balance, Latin America, Value, % of GDP, SA","CN, China, Trade balance, Latin America, Value, % of GDP, SA",p,line
+"China, Trade balance, Latin America, Value, % of GDP","CN, China, Trade balance, Latin America, Value, % of GDP",p,line
+"China, Trade balance, ROW incl Middle East, Value, % of GDP, SA","CN, China, Trade balance, ROW incl Middle East, Value, % of GDP, SA",p,line
+"China, Trade balance, ROW incl Middle East, Value, % of GDP","CN, China, Trade balance, ROW incl Middle East, Value, % of GDP",p,line
+"China, Trade balance, ROW excl Middle East, Value, % of GDP, SA","CN, China, Trade balance, ROW excl Middle East, Value, % of GDP, SA",p,line
+"China, Trade balance, ROW excl Middle East, Value, % of GDP","CN, China, Trade balance, ROW excl Middle East, Value, % of GDP",p,line
+"China, Trade balance, Russia, Value, % of GDP, SA","CN, China, Trade balance, Russia, Value, % of GDP, SA",p,line
+"China, Trade balance, Russia, Value, % of GDP","CN, China, Trade balance, Russia, Value, % of GDP",p,line
+"China, Trade balance, India, Value, % of GDP, SA","CN, China, Trade balance, India, Value, % of GDP, SA",p,line
+"China, Trade balance, India, Value, % of GDP","CN, China, Trade balance, India, Value, % of GDP",p,line
+"China, Trade balance, North Asia, Value, % of GDP, SA","CN, China, Trade balance, North Asia, Value, % of GDP, SA",p,line
+"China, Trade balance, North Asia, Value, % of GDP","CN, China, Trade balance, North Asia, Value, % of GDP",p,line
+"China, Trade balance, Brazil, Value, % of GDP, SA","CN, China, Trade balance, Brazil, Value, % of GDP, SA",p,line
+"China, Trade balance, Brazil, Value, % of GDP","CN, China, Trade balance, Brazil, Value, % of GDP",p,line
+"China, Trade balance, South Africa, Value, % of GDP, SA","CN, China, Trade balance, South Africa, Value, % of GDP, SA",p,line
+"China, Trade balance, South Africa, Value, % of GDP","CN, China, Trade balance, South Africa, Value, % of GDP",p,line
+"China, Trade balance, DM excl Japan, Value, % of GDP, SA","CN, China, Trade balance, DM excl Japan, Value, % of GDP, SA",p,line
+"China, Trade balance, DM excl Japan, Value, % of GDP","CN, China, Trade balance, DM excl Japan, Value, % of GDP",p,line
+"China, Trade balance, EM, Value, % of GDP, SA","CN, China, Trade balance, EM, Value, % of GDP, SA",p,line
+"China, Trade balance, EM, Value, % of GDP","CN, China, Trade balance, EM, Value, % of GDP",p,line
+"China, Trade balance, DM incl North Asia, Value, % of GDP, SA","CN, China, Trade balance, DM incl North Asia, Value, % of GDP, SA",p,line
+"China, Trade balance, DM incl North Asia, Value, % of GDP","CN, China, Trade balance, DM incl North Asia, Value, % of GDP",p,line
+"China, Trade balance, Hong Kong, Value, % of GDP, SA","CN, China, Trade balance, Hong Kong, Value, % of GDP, SA",p,line
+"China, Trade balance, Hong Kong, Value, % of GDP","CN, China, Trade balance, Hong Kong, Value, % of GDP",p,line
+"China, Trade balance, ROW, Value, % of GDP, SA","CN, China, Trade balance, ROW, Value, % of GDP, SA",p,line
+"China, Trade balance, ROW, Value, % of GDP","CN, China, Trade balance, ROW, Value, % of GDP",p,line
+"China, Trade balance, Mexico, Value, % of GDP, SA","CN, China, Trade balance, Mexico, Value, % of GDP, SA",p,line
+"China, Trade balance, Mexico, Value, % of GDP","CN, China, Trade balance, Mexico, Value, % of GDP",p,line
+"China, Trade balance, Latin America and Africa, Value, % of GDP, SA","CN, China, Trade balance, Latin America and Africa, Value, % of GDP, SA",p,line
+"China, Trade balance, Latin America and Africa, Value, % of GDP","CN, China, Trade balance, Latin America and Africa, Value, % of GDP",p,line
+"China, Trade balance, DM, Value, % of GDP, SA","CN, China, Trade balance, DM, Value, % of GDP, SA",p,line
+"China, Trade balance, DM, Value, % of GDP","CN, China, Trade balance, DM, Value, % of GDP",p,line
+"China, Trade balance, DM excluding US, Value, % of GDP, SA","CN, China, Trade balance, DM excluding US, Value, % of GDP, SA",p,line
+"China, Trade balance, DM excluding US, Value, % of GDP","CN, China, Trade balance, DM excluding US, Value, % of GDP",p,line
 "China, Imports, Excluding semi mfg machinery, Value, USD, SA","CN, China, Imports, Excluding semi mfg machinery, Value, USD, SA",b,line
 "China, Imports, Excluding semi and semi mfg machinery, Value, USD, SA","CN, China, Imports, Excluding semi and semi mfg machinery, Value, USD, SA",b,line
 "China, Balance, Value, LCU, % YoY","CN, China, Balance, Value, LCU, % YoY",p,line
@@ -4235,11 +4342,14 @@ name,display_name,data_type,chart_type
 "China, Exports, Flue-cured tobacco, Value, USD, % YoY","CN, China, Exports, Flue-cured tobacco, Value, USD, % YoY",p,line
 "China, Exports, Coke and semi-coke, Value, USD, % YoY","CN, China, Exports, Coke and semi-coke, Value, USD, % YoY",p,line
 "China, Exports, Coal and lignite, Value, USD, % YoY","CN, China, Exports, Coal and lignite, Value, USD, % YoY",p,line
+"China, Unnamed: 107, % YoY, Value","CN, China, Unnamed: 107, % YoY, Value",p,line
 "China, Exports, Glasses and articles thereof, Value, USD, % YoY","CN, China, Exports, Glasses and articles thereof, Value, USD, % YoY",p,line
 "China, Exports, Pearls, precious and semi-precious stones, Value, USD, % YoY","CN, China, Exports, Pearls, precious and semi-precious stones, Value, USD, % YoY",p,line
 "China, Exports, Life science and technology, Value, USD, % YoY","CN, China, Exports, Life science and technology, Value, USD, % YoY",p,line
 "China, Exports, Biotechnology, Value, USD, % YoY","CN, China, Exports, Biotechnology, Value, USD, % YoY",p,line
 "China, Exports, Motorcycles with electric motor and cycles, Value, USD, % YoY","CN, China, Exports, Motorcycles with electric motor and cycles, Value, USD, % YoY",p,line
+"China, Unnamed: 114, % YoY, Value","CN, China, Unnamed: 114, % YoY, Value",p,line
+"China, Unnamed: 115, % YoY, Value","CN, China, Unnamed: 115, % YoY, Value",p,line
 "China, Exports, Electronic components, Value, USD, % YoY","CN, China, Exports, Electronic components, Value, USD, % YoY",p,line
 "China, Exports, Electronic technology, Value, USD, % YoY","CN, China, Exports, Electronic technology, Value, USD, % YoY",p,line
 "China, Exports, Electrical equipments, Value, USD, % YoY","CN, China, Exports, Electrical equipments, Value, USD, % YoY",p,line
@@ -4253,12 +4363,13 @@ name,display_name,data_type,chart_type
 "China, Exports, Leather, fur and articles thereof, Value, USD, % YoY","CN, China, Exports, Leather, fur and articles thereof, Value, USD, % YoY",p,line
 "China, Exports, Leather suit-cases and similar containers, Value, USD, % YoY","CN, China, Exports, Leather suit-cases and similar containers, Value, USD, % YoY",p,line
 "China, Exports, Spectacles and parts thereof, Value, USD, % YoY","CN, China, Exports, Spectacles and parts thereof, Value, USD, % YoY",p,line
-"China, Unnamed: 125, % YoY, Value","CN, China, Unnamed: 125, % YoY, Value",p,line
+"China, Unnamed: 128, % YoY, Value","CN, China, Unnamed: 128, % YoY, Value",p,line
 "China, Exports, Ammonium sulphate, Value, USD, % YoY","CN, China, Exports, Ammonium sulphate, Value, USD, % YoY",p,line
 "China, Exports, Monoammonium phosphate, Value, USD, % YoY","CN, China, Exports, Monoammonium phosphate, Value, USD, % YoY",p,line
 "China, Exports, Diammonium phosphate, Value, USD, % YoY","CN, China, Exports, Diammonium phosphate, Value, USD, % YoY",p,line
 "China, Exports, Rare-earth ore, metals, compounds and articles thereof, Value, USD, % YoY","CN, China, Exports, Rare-earth ore, metals, compounds and articles thereof, Value, USD, % YoY",p,line
 "China, Exports, Rice, Value, USD, % YoY","CN, China, Exports, Rice, Value, USD, % YoY",p,line
+"China, Unnamed: 135, % YoY, Value","CN, China, Unnamed: 135, % YoY, Value",p,line
 "China, Exports, Air conditioners, Value, USD, % YoY","CN, China, Exports, Air conditioners, Value, USD, % YoY",p,line
 "China, Exports, Pens and parts thereof, Value, USD, % YoY","CN, China, Exports, Pens and parts thereof, Value, USD, % YoY",p,line
 "China, Exports, Laptops, Value, USD, % YoY","CN, China, Exports, Laptops, Value, USD, % YoY",p,line
@@ -4311,7 +4422,7 @@ name,display_name,data_type,chart_type
 "China, Exports, Non-plug-in hybrid electric passenger cars, Value, USD, % YoY","CN, China, Exports, Non-plug-in hybrid electric passenger cars, Value, USD, % YoY",p,line
 "China, Exports, Audio or video devices and parts thereof, Value, USD, % YoY","CN, China, Exports, Audio or video devices and parts thereof, Value, USD, % YoY",p,line
 "China, Exports, Parts of audio or video devices, Value, USD, % YoY","CN, China, Exports, Parts of audio or video devices, Value, USD, % YoY",p,line
-"China, Unnamed: 194, % YoY, Value","CN, China, Unnamed: 194, % YoY, Value",p,line
+"China, Unnamed: 198, % YoY, Value","CN, China, Unnamed: 198, % YoY, Value",p,line
 "China, Exports, Food, Value, USD, % YoY","CN, China, Exports, Food, Value, USD, % YoY",p,line
 "China, Exports, Food processing machines, Value, USD, % YoY","CN, China, Exports, Food processing machines, Value, USD, % YoY",p,line
 "China, Exports, Edible aquatic products, Value, USD, % YoY","CN, China, Exports, Edible aquatic products, Value, USD, % YoY",p,line
@@ -4362,8 +4473,9 @@ name,display_name,data_type,chart_type
 "China, Imports, Storage units, Value, USD, % YoY","CN, China, Imports, Storage units, Value, USD, % YoY",p,line
 "China, Imports, Electric appliances of household type, Value, USD, % YoY","CN, China, Imports, Electric appliances of household type, Value, USD, % YoY",p,line
 "China, Imports, Wheat, Value, USD, % YoY","CN, China, Imports, Wheat, Value, USD, % YoY",p,line
+"China, Unnamed: 250, % YoY, Value","CN, China, Unnamed: 250, % YoY, Value",p,line
 "China, Imports, Fresh or dried fruit and nuts, Value, USD, % YoY","CN, China, Imports, Fresh or dried fruit and nuts, Value, USD, % YoY",p,line
-"China, Unnamed: 247, % YoY, Value","CN, China, Unnamed: 247, % YoY, Value",p,line
+"China, Unnamed: 252, % YoY, Value","CN, China, Unnamed: 252, % YoY, Value",p,line
 "China, Imports, Refined petroleum products, Value, USD, % YoY","CN, China, Imports, Refined petroleum products, Value, USD, % YoY",p,line
 "China, Imports, Biotechnology, Value, USD, % YoY","CN, China, Imports, Biotechnology, Value, USD, % YoY",p,line
 "China, Imports, Printers and duplicators, including multifunctional printers, Value, USD, % YoY","CN, China, Imports, Printers and duplicators, including multifunctional printers, Value, USD, % YoY",p,line
@@ -4371,15 +4483,16 @@ name,display_name,data_type,chart_type
 "China, Imports, Rare-earth ore, metals, compounds, Value, USD, % YoY","CN, China, Imports, Rare-earth ore, metals, compounds, Value, USD, % YoY",p,line
 "China, Imports, Harvesting machinery, Value, USD, % YoY","CN, China, Imports, Harvesting machinery, Value, USD, % YoY",p,line
 "China, Imports, Cultureproducts*, Value, USD, % YoY","CN, China, Imports, Cultureproducts*, Value, USD, % YoY",p,line
-"China, Unnamed: 255, % YoY, Value","CN, China, Unnamed: 255, % YoY, Value",p,line
+"China, Unnamed: 260, % YoY, Value","CN, China, Unnamed: 260, % YoY, Value",p,line
 "China, Imports, Garments and clothing accessories, Value, USD, % YoY","CN, China, Imports, Garments and clothing accessories, Value, USD, % YoY",p,line
 "China, Imports, Wood and articles thereof, Value, USD, % YoY","CN, China, Imports, Wood and articles thereof, Value, USD, % YoY",p,line
+"China, Unnamed: 263, % YoY, Value","CN, China, Unnamed: 263, % YoY, Value",p,line
 "China, Imports, Unwrought copper and copper products, Value, USD, % YoY","CN, China, Imports, Unwrought copper and copper products, Value, USD, % YoY",p,line
 "China, Imports, Unwrought aluminium and aluminium products, Value, USD, % YoY","CN, China, Imports, Unwrought aluminium and aluminium products, Value, USD, % YoY",p,line
 "China, Imports, Machine-tools, Value, USD, % YoY","CN, China, Imports, Machine-tools, Value, USD, % YoY",p,line
 "China, Imports, Basic components of machinery, Value, USD, % YoY","CN, China, Imports, Basic components of machinery, Value, USD, % YoY",p,line
 "China, Imports, Opto-electronics technology, Value, USD, % YoY","CN, China, Imports, Opto-electronics technology, Value, USD, % YoY",p,line
-"China, Unnamed: 263, % YoY, Value","CN, China, Unnamed: 263, % YoY, Value",p,line
+"China, Unnamed: 269, % YoY, Value","CN, China, Unnamed: 269, % YoY, Value",p,line
 "China, Imports, Mechanical and electrical products, Value, USD, % YoY","CN, China, Imports, Mechanical and electrical products, Value, USD, % YoY",p,line
 "China, Imports, Hybrid Electric buses with ten seats or more, Value, USD, % YoY","CN, China, Imports, Hybrid Electric buses with ten seats or more, Value, USD, % YoY",p,line
 "China, Imports, Cotton yarn, Value, USD, % YoY","CN, China, Imports, Cotton yarn, Value, USD, % YoY",p,line
@@ -4402,18 +4515,22 @@ name,display_name,data_type,chart_type
 , Value, USD, % YoY",p,line
 "China, Imports, Battery electric passenger cars, Value, USD, % YoY","CN, China, Imports, Battery electric passenger cars, Value, USD, % YoY",p,line
 "China, Imports, Coal and lignite, Value, USD, % YoY","CN, China, Imports, Coal and lignite, Value, USD, % YoY",p,line
+"China, Unnamed: 290, % YoY, Value","CN, China, Unnamed: 290, % YoY, Value",p,line
 "China, Imports, Bovine or equine leather, Value, USD, % YoY","CN, China, Imports, Bovine or equine leather, Value, USD, % YoY",p,line
 "China, Imports, Meat of bovine animals, Value, USD, % YoY","CN, China, Imports, Meat of bovine animals, Value, USD, % YoY",p,line
 "China, Imports, Meat and offal of bovine animals, Value, USD, % YoY","CN, China, Imports, Meat and offal of bovine animals, Value, USD, % YoY",p,line
 "China, Imports, Meat of swine, Value, USD, % YoY","CN, China, Imports, Meat of swine, Value, USD, % YoY",p,line
 "China, Imports, Meat and offal of swine, Value, USD, % YoY","CN, China, Imports, Meat and offal of swine, Value, USD, % YoY",p,line
 "China, Imports, Maize, Value, USD, % YoY","CN, China, Imports, Maize, Value, USD, % YoY",p,line
+"China, Unnamed: 297, % YoY, Value","CN, China, Unnamed: 297, % YoY, Value",p,line
 "China, Imports, Glasses and articles thereof, Value, USD, % YoY","CN, China, Imports, Glasses and articles thereof, Value, USD, % YoY",p,line
 "China, Imports, Glass fibres and articles thereof, Value, USD, % YoY","CN, China, Imports, Glass fibres and articles thereof, Value, USD, % YoY",p,line
 "China, Imports, Pearls, precious and semi-precious stones, Value, USD, % YoY","CN, China, Imports, Pearls, precious and semi-precious stones, Value, USD, % YoY",p,line
 "China, Imports, Computer integrated manufacturing technology, Value, USD, % YoY","CN, China, Imports, Computer integrated manufacturing technology, Value, USD, % YoY",p,line
 "China, Imports, Electronic technology, Value, USD, % YoY","CN, China, Imports, Electronic technology, Value, USD, % YoY",p,line
 "China, Imports, Life science and technology, Value, USD, % YoY","CN, China, Imports, Life science and technology, Value, USD, % YoY",p,line
+"China, Unnamed: 304, % YoY, Value","CN, China, Unnamed: 304, % YoY, Value",p,line
+"China, Unnamed: 305, % YoY, Value","CN, China, Unnamed: 305, % YoY, Value",p,line
 "China, Imports, Plug-in hybrid electric passenger cars, Value, USD, % YoY","CN, China, Imports, Plug-in hybrid electric passenger cars, Value, USD, % YoY",p,line
 "China, Imports, Electronic components, Value, USD, % YoY","CN, China, Imports, Electronic components, Value, USD, % YoY",p,line
 "China, Imports, Other technologies, Value, USD, % YoY","CN, China, Imports, Other technologies, Value, USD, % YoY",p,line
@@ -4427,9 +4544,10 @@ name,display_name,data_type,chart_type
 , Value, USD, % YoY",p,line
 "China, Imports, Leather, fur and articles thereof, Value, USD, % YoY","CN, China, Imports, Leather, fur and articles thereof, Value, USD, % YoY",p,line
 "China, Imports, Naphtha, Value, USD, % YoY","CN, China, Imports, Naphtha, Value, USD, % YoY",p,line
-"China, Unnamed: 307, % YoY, Value","CN, China, Unnamed: 307, % YoY, Value",p,line
+"China, Unnamed: 317, % YoY, Value","CN, China, Unnamed: 317, % YoY, Value",p,line
 "China, Imports, Meat of poultry, Value, USD, % YoY","CN, China, Imports, Meat of poultry, Value, USD, % YoY",p,line
 "China, Imports, Rare-earthore,metals,compounds, Value, USD, % YoY","CN, China, Imports, Rare-earthore,metals,compounds, Value, USD, % YoY",p,line
+"China, Unnamed: 320, % YoY, Value","CN, China, Unnamed: 320, % YoY, Value",p,line
 "China, Imports, Rice, Value, USD, % YoY","CN, China, Imports, Rice, Value, USD, % YoY",p,line
 "China, Imports, Ships, Value, USD, % YoY","CN, China, Imports, Ships, Value, USD, % YoY",p,line
 "China, Imports, Grain food, Value, USD, % YoY","CN, China, Imports, Grain food, Value, USD, % YoY",p,line
@@ -4931,6 +5049,7 @@ name,display_name,data_type,chart_type
 "China, Exports, Australia, Value, USD, % YoY","CN, China, Exports, Australia, Value, USD, % YoY",p,line
 "China, Exports, Austria, Value, USD, % YoY","CN, China, Exports, Austria, Value, USD, % YoY",p,line
 "China, Exports, Azerbaijan, Value, USD, % YoY","CN, China, Exports, Azerbaijan, Value, USD, % YoY",p,line
+"China, Exports, BRI, Value, USD, % YoY","CN, China, Exports, BRI, Value, USD, % YoY",p,line
 "China, Exports, Bahamas, Value, USD, % YoY","CN, China, Exports, Bahamas, Value, USD, % YoY",p,line
 "China, Exports, Bahrain, Value, USD, % YoY","CN, China, Exports, Bahrain, Value, USD, % YoY",p,line
 "China, Exports, Bangladesh, Value, USD, % YoY","CN, China, Exports, Bangladesh, Value, USD, % YoY",p,line
@@ -5097,6 +5216,7 @@ name,display_name,data_type,chart_type
 "China, Exports, Portugal, Value, USD, % YoY","CN, China, Exports, Portugal, Value, USD, % YoY",p,line
 "China, Exports, Puerto Rico, Value, USD, % YoY","CN, China, Exports, Puerto Rico, Value, USD, % YoY",p,line
 "China, Exports, Qatar, Value, USD, % YoY","CN, China, Exports, Qatar, Value, USD, % YoY",p,line
+"China, Exports, RCEP, Value, USD, % YoY","CN, China, Exports, RCEP, Value, USD, % YoY",p,line
 "China, Exports, Republic of North Macedonia, Value, USD, % YoY","CN, China, Exports, Republic of North Macedonia, Value, USD, % YoY",p,line
 "China, Exports, Republic of South Sudan, Value, USD, % YoY","CN, China, Exports, Republic of South Sudan, Value, USD, % YoY",p,line
 "China, Exports, Reunion, Value, USD, % YoY","CN, China, Exports, Reunion, Value, USD, % YoY",p,line
@@ -5183,6 +5303,7 @@ name,display_name,data_type,chart_type
 "China, Imports, Australia, Value, USD, % YoY","CN, China, Imports, Australia, Value, USD, % YoY",p,line
 "China, Imports, Austria, Value, USD, % YoY","CN, China, Imports, Austria, Value, USD, % YoY",p,line
 "China, Imports, Azerbaijan, Value, USD, % YoY","CN, China, Imports, Azerbaijan, Value, USD, % YoY",p,line
+"China, Imports, BRI, Value, USD, % YoY","CN, China, Imports, BRI, Value, USD, % YoY",p,line
 "China, Imports, Bahamas, Value, USD, % YoY","CN, China, Imports, Bahamas, Value, USD, % YoY",p,line
 "China, Imports, Bahrain, Value, USD, % YoY","CN, China, Imports, Bahrain, Value, USD, % YoY",p,line
 "China, Imports, Bangladesh, Value, USD, % YoY","CN, China, Imports, Bangladesh, Value, USD, % YoY",p,line
@@ -5349,6 +5470,7 @@ name,display_name,data_type,chart_type
 "China, Imports, Portugal, Value, USD, % YoY","CN, China, Imports, Portugal, Value, USD, % YoY",p,line
 "China, Imports, Puerto Rico, Value, USD, % YoY","CN, China, Imports, Puerto Rico, Value, USD, % YoY",p,line
 "China, Imports, Qatar, Value, USD, % YoY","CN, China, Imports, Qatar, Value, USD, % YoY",p,line
+"China, Imports, RCEP, Value, USD, % YoY","CN, China, Imports, RCEP, Value, USD, % YoY",p,line
 "China, Imports, Republic of North Macedonia, Value, USD, % YoY","CN, China, Imports, Republic of North Macedonia, Value, USD, % YoY",p,line
 "China, Imports, Republic of South Sudan, Value, USD, % YoY","CN, China, Imports, Republic of South Sudan, Value, USD, % YoY",p,line
 "China, Imports, Reunion, Value, USD, % YoY","CN, China, Imports, Reunion, Value, USD, % YoY",p,line
@@ -5672,12 +5794,18 @@ name,display_name,data_type,chart_type
 "China, HS, Imports, 8486, World, Value, USD, % YoY","CN, China, HS, Imports, 8486, World, Value, USD, % YoY",p,line
 "China, HS, Imports, 84 and 85, World, Value, USD, % YoY","CN, China, HS, Imports, 84 and 85, World, Value, USD, % YoY",p,line
 "China, HS, Exports, 84 and 85, World, Value, USD, % YoY","CN, China, HS, Exports, 84 and 85, World, Value, USD, % YoY",p,line
+"China, HS, Imports, 84 through 89, Taiwan, Value, USD, % YoY","CN, China, HS, Imports, 84 through 89, Taiwan, Value, USD, % YoY",p,line
 "China, HS, Imports, 8541 and 8542, Taiwan, Value, USD, % YoY","CN, China, HS, Imports, 8541 and 8542, Taiwan, Value, USD, % YoY",p,line
+"China, HS, Imports, 84 through 89, Korea, Value, USD, % YoY","CN, China, HS, Imports, 84 through 89, Korea, Value, USD, % YoY",p,line
 "China, HS, Imports, 8541 and 8542, Korea, Value, USD, % YoY","CN, China, HS, Imports, 8541 and 8542, Korea, Value, USD, % YoY",p,line
+"China, HS, Imports, 84 through 89, Japan, Value, USD, % YoY","CN, China, HS, Imports, 84 through 89, Japan, Value, USD, % YoY",p,line
 "China, HS, Imports, 84 through 89, World, Value, USD, % YoY","CN, China, HS, Imports, 84 through 89, World, Value, USD, % YoY",p,line
 "China, HS, Imports, 8541 and 8542, World, Value, USD, % YoY","CN, China, HS, Imports, 8541 and 8542, World, Value, USD, % YoY",p,line
+"China, HS, Exports, 84 through 89, Taiwan, Value, USD, % YoY","CN, China, HS, Exports, 84 through 89, Taiwan, Value, USD, % YoY",p,line
 "China, HS, Exports, 8541 and 8542, Taiwan, Value, USD, % YoY","CN, China, HS, Exports, 8541 and 8542, Taiwan, Value, USD, % YoY",p,line
+"China, HS, Exports, 84 through 89, Korea, Value, USD, % YoY","CN, China, HS, Exports, 84 through 89, Korea, Value, USD, % YoY",p,line
 "China, HS, Exports, 8541 and 8542, Korea, Value, USD, % YoY","CN, China, HS, Exports, 8541 and 8542, Korea, Value, USD, % YoY",p,line
+"China, HS, Exports, 84 through 89, Japan, Value, USD, % YoY","CN, China, HS, Exports, 84 through 89, Japan, Value, USD, % YoY",p,line
 "China, HS, Exports, 84 through 89, World, Value, USD, % YoY","CN, China, HS, Exports, 84 through 89, World, Value, USD, % YoY",p,line
 "China, HS, Exports, 8541 and 8542, World, Value, USD, % YoY","CN, China, HS, Exports, 8541 and 8542, World, Value, USD, % YoY",p,line
 "China, HS, Imports, 84 and 85 excl 8541 and 8542, US, Value, USD, % YoY","CN, China, HS, Imports, 84 and 85 excl 8541 and 8542, US, Value, USD, % YoY",p,line
@@ -5917,6 +6045,7 @@ name,display_name,data_type,chart_type
 "China, Exports, Main product, Commodities, Value, USD, % MoM, SA","CN, China, Exports, Main product, Commodities, Value, USD, % MoM, SA",b,line
 "China, Imports, Energy, Value, USD, % MoM, SA","CN, China, Imports, Energy, Value, USD, % MoM, SA",b,line
 "China, Imports, Electronic Integrated Circuit, Value, USD, % MoM, SA","CN, China, Imports, Electronic Integrated Circuit, Value, USD, % MoM, SA",b,line
+"China, Exports, Passenger cars, Value, USD, % MoM, SA","CN, China, Exports, Passenger cars, Value, USD, % MoM, SA",b,line
 "China, Exports, Main product, Mobile phones, Value, USD, % MoM, SA","CN, China, Exports, Main product, Mobile phones, Value, USD, % MoM, SA",b,line
 "China, Exports, EU, Value, USD, % MoM, SA","CN, China, Exports, EU, Value, USD, % MoM, SA",b,line
 "China, Exports, Developed Europe, Value, USD, % MoM, SA","CN, China, Exports, Developed Europe, Value, USD, % MoM, SA",b,line
@@ -5941,6 +6070,9 @@ name,display_name,data_type,chart_type
 "China, Exports, Hong Kong, Value, USD, % MoM, SA","CN, China, Exports, Hong Kong, Value, USD, % MoM, SA",b,line
 "China, Exports, ROW, Value, USD, % MoM, SA","CN, China, Exports, ROW, Value, USD, % MoM, SA",b,line
 "China, Exports, Mexico, Value, USD, % MoM, SA","CN, China, Exports, Mexico, Value, USD, % MoM, SA",b,line
+"China, Exports, Latin America and Africa, Value, USD, % MoM, SA","CN, China, Exports, Latin America and Africa, Value, USD, % MoM, SA",b,line
+"China, Exports, DM, Value, USD, % MoM, SA","CN, China, Exports, DM, Value, USD, % MoM, SA",b,line
+"China, Exports, DM excluding US, Value, USD, % MoM, SA","CN, China, Exports, DM excluding US, Value, USD, % MoM, SA",b,line
 "China, Imports, EU, Value, USD, % MoM, SA","CN, China, Imports, EU, Value, USD, % MoM, SA",b,line
 "China, Imports, Developed Europe, Value, USD, % MoM, SA","CN, China, Imports, Developed Europe, Value, USD, % MoM, SA",b,line
 "China, Imports, US, Value, USD, % MoM, SA","CN, China, Imports, US, Value, USD, % MoM, SA",b,line
@@ -5964,6 +6096,9 @@ name,display_name,data_type,chart_type
 "China, Imports, Hong Kong, Value, USD, % MoM, SA","CN, China, Imports, Hong Kong, Value, USD, % MoM, SA",b,line
 "China, Imports, ROW, Value, USD, % MoM, SA","CN, China, Imports, ROW, Value, USD, % MoM, SA",b,line
 "China, Imports, Mexico, Value, USD, % MoM, SA","CN, China, Imports, Mexico, Value, USD, % MoM, SA",b,line
+"China, Imports, Latin America and Africa, Value, USD, % MoM, SA","CN, China, Imports, Latin America and Africa, Value, USD, % MoM, SA",b,line
+"China, Imports, DM, Value, USD, % MoM, SA","CN, China, Imports, DM, Value, USD, % MoM, SA",b,line
+"China, Imports, DM excluding US, Value, USD, % MoM, SA","CN, China, Imports, DM excluding US, Value, USD, % MoM, SA",b,line
 "China, Imports, Processing, Value, USD, % MoM, SA","CN, China, Imports, Processing, Value, USD, % MoM, SA",b,line
 "China, Imports, Retained, Value, USD, % MoM, SA","CN, China, Imports, Retained, Value, USD, % MoM, SA",b,line
 "China, Exports, State firms, Value, USD, % MoM, SA","CN, China, Exports, State firms, Value, USD, % MoM, SA",b,line
@@ -6026,6 +6161,7 @@ name,display_name,data_type,chart_type
 "China, Exports, Main product, Commodities, SA, USD, MoM chg, Value","CN, China, Exports, Main product, Commodities, SA, USD, MoM chg, Value",b,line
 "China, Imports, Energy, SA, USD, MoM chg, Value","CN, China, Imports, Energy, SA, USD, MoM chg, Value",b,line
 "China, Imports, Electronic Integrated Circuit, SA, USD, MoM chg, Value","CN, China, Imports, Electronic Integrated Circuit, SA, USD, MoM chg, Value",b,line
+"China, Exports, Passenger cars, SA, USD, MoM chg, Value","CN, China, Exports, Passenger cars, SA, USD, MoM chg, Value",b,line
 "China, Exports, Main product, Mobile phones, SA, USD, MoM chg, Value","CN, China, Exports, Main product, Mobile phones, SA, USD, MoM chg, Value",b,line
 "China, Exports, EU, SA, USD, MoM chg, Value","CN, China, Exports, EU, SA, USD, MoM chg, Value",b,line
 "China, Exports, Developed Europe, SA, USD, MoM chg, Value","CN, China, Exports, Developed Europe, SA, USD, MoM chg, Value",b,line
@@ -6050,6 +6186,9 @@ name,display_name,data_type,chart_type
 "China, Exports, Hong Kong, SA, USD, MoM chg, Value","CN, China, Exports, Hong Kong, SA, USD, MoM chg, Value",b,line
 "China, Exports, ROW, SA, USD, MoM chg, Value","CN, China, Exports, ROW, SA, USD, MoM chg, Value",b,line
 "China, Exports, Mexico, SA, USD, MoM chg, Value","CN, China, Exports, Mexico, SA, USD, MoM chg, Value",b,line
+"China, Exports, Latin America and Africa, SA, USD, MoM chg, Value","CN, China, Exports, Latin America and Africa, SA, USD, MoM chg, Value",b,line
+"China, Exports, DM, SA, USD, MoM chg, Value","CN, China, Exports, DM, SA, USD, MoM chg, Value",b,line
+"China, Exports, DM excluding US, SA, USD, MoM chg, Value","CN, China, Exports, DM excluding US, SA, USD, MoM chg, Value",b,line
 "China, Imports, EU, SA, USD, MoM chg, Value","CN, China, Imports, EU, SA, USD, MoM chg, Value",b,line
 "China, Imports, Developed Europe, SA, USD, MoM chg, Value","CN, China, Imports, Developed Europe, SA, USD, MoM chg, Value",b,line
 "China, Imports, US, SA, USD, MoM chg, Value","CN, China, Imports, US, SA, USD, MoM chg, Value",b,line
@@ -6073,6 +6212,9 @@ name,display_name,data_type,chart_type
 "China, Imports, Hong Kong, SA, USD, MoM chg, Value","CN, China, Imports, Hong Kong, SA, USD, MoM chg, Value",b,line
 "China, Imports, ROW, SA, USD, MoM chg, Value","CN, China, Imports, ROW, SA, USD, MoM chg, Value",b,line
 "China, Imports, Mexico, SA, USD, MoM chg, Value","CN, China, Imports, Mexico, SA, USD, MoM chg, Value",b,line
+"China, Imports, Latin America and Africa, SA, USD, MoM chg, Value","CN, China, Imports, Latin America and Africa, SA, USD, MoM chg, Value",b,line
+"China, Imports, DM, SA, USD, MoM chg, Value","CN, China, Imports, DM, SA, USD, MoM chg, Value",b,line
+"China, Imports, DM excluding US, SA, USD, MoM chg, Value","CN, China, Imports, DM excluding US, SA, USD, MoM chg, Value",b,line
 "China, Imports, Processing, SA, USD, MoM chg, Value","CN, China, Imports, Processing, SA, USD, MoM chg, Value",b,line
 "China, Imports, Retained, SA, USD, MoM chg, Value","CN, China, Imports, Retained, SA, USD, MoM chg, Value",b,line
 "China, Exports, State firms, SA, USD, MoM chg, Value","CN, China, Exports, State firms, SA, USD, MoM chg, Value",b,line
@@ -6125,85 +6267,6 @@ name,display_name,data_type,chart_type
 "China, HS, Imports, 8486, Japan, SA, USD, MoM chg, Value","CN, China, HS, Imports, 8486, Japan, SA, USD, MoM chg, Value",b,line
 "China, HS, Imports, 8486, EU, SA, USD, MoM chg, Value","CN, China, HS, Imports, 8486, EU, SA, USD, MoM chg, Value",b,line
 "China, HS, Imports, 8486, US, SA, USD, MoM chg, Value","CN, China, HS, Imports, 8486, US, SA, USD, MoM chg, Value",b,line
-"China, Exports, Latin America and Africa, SA, USD, MoM chg, Value","CN, China, Exports, Latin America and Africa, SA, USD, MoM chg, Value",b,line
-"China, Exports, DM, SA, USD, MoM chg, Value","CN, China, Exports, DM, SA, USD, MoM chg, Value",b,line
-"China, Imports, Latin America and Africa, SA, USD, MoM chg, Value","CN, China, Imports, Latin America and Africa, SA, USD, MoM chg, Value",b,line
-"China, Imports, DM, SA, USD, MoM chg, Value","CN, China, Imports, DM, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, EU, SA, USD, MoM chg, Value","CN, China, Trade balance, EU, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, Developed Europe, SA, USD, MoM chg, Value","CN, China, Trade balance, Developed Europe, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, US, SA, USD, MoM chg, Value","CN, China, Trade balance, US, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, Japan, SA, USD, MoM chg, Value","CN, China, Trade balance, Japan, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, Korea, SA, USD, MoM chg, Value","CN, China, Trade balance, Korea, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, Taiwan, SA, USD, MoM chg, Value","CN, China, Trade balance, Taiwan, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, ASEAN, SA, USD, MoM chg, Value","CN, China, Trade balance, ASEAN, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, Middle East, SA, USD, MoM chg, Value","CN, China, Trade balance, Middle East, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, Africa, SA, USD, MoM chg, Value","CN, China, Trade balance, Africa, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, Latin America, SA, USD, MoM chg, Value","CN, China, Trade balance, Latin America, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, ROW incl Middle East, SA, USD, MoM chg, Value","CN, China, Trade balance, ROW incl Middle East, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, ROW excl Middle East, SA, USD, MoM chg, Value","CN, China, Trade balance, ROW excl Middle East, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, Russia, SA, USD, MoM chg, Value","CN, China, Trade balance, Russia, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, India, SA, USD, MoM chg, Value","CN, China, Trade balance, India, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, North Asia, SA, USD, MoM chg, Value","CN, China, Trade balance, North Asia, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, Brazil, SA, USD, MoM chg, Value","CN, China, Trade balance, Brazil, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, South Africa, SA, USD, MoM chg, Value","CN, China, Trade balance, South Africa, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, DM excl Japan, SA, USD, MoM chg, Value","CN, China, Trade balance, DM excl Japan, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, EM, SA, USD, MoM chg, Value","CN, China, Trade balance, EM, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, DM incl North Asia, SA, USD, MoM chg, Value","CN, China, Trade balance, DM incl North Asia, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, Hong Kong, SA, USD, MoM chg, Value","CN, China, Trade balance, Hong Kong, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, ROW, SA, USD, MoM chg, Value","CN, China, Trade balance, ROW, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, Mexico, SA, USD, MoM chg, Value","CN, China, Trade balance, Mexico, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, Latin America and Africa, SA, USD, MoM chg, Value","CN, China, Trade balance, Latin America and Africa, SA, USD, MoM chg, Value",b,line
-"China, Trade balance, DM, SA, USD, MoM chg, Value","CN, China, Trade balance, DM, SA, USD, MoM chg, Value",b,line
-"China, Exports, EU, SA, % of total, MoM chg, Value","CN, China, Exports, EU, SA, % of total, MoM chg, Value",p,line
-"China, Exports, Developed Europe, SA, % of total, MoM chg, Value","CN, China, Exports, Developed Europe, SA, % of total, MoM chg, Value",p,line
-"China, Exports, US, SA, % of total, MoM chg, Value","CN, China, Exports, US, SA, % of total, MoM chg, Value",p,line
-"China, Exports, Japan, SA, % of total, MoM chg, Value","CN, China, Exports, Japan, SA, % of total, MoM chg, Value",p,line
-"China, Exports, Korea, SA, % of total, MoM chg, Value","CN, China, Exports, Korea, SA, % of total, MoM chg, Value",p,line
-"China, Exports, Taiwan, SA, % of total, MoM chg, Value","CN, China, Exports, Taiwan, SA, % of total, MoM chg, Value",p,line
-"China, Exports, ASEAN, SA, % of total, MoM chg, Value","CN, China, Exports, ASEAN, SA, % of total, MoM chg, Value",p,line
-"China, Exports, Middle East, SA, % of total, MoM chg, Value","CN, China, Exports, Middle East, SA, % of total, MoM chg, Value",p,line
-"China, Exports, Africa, SA, % of total, MoM chg, Value","CN, China, Exports, Africa, SA, % of total, MoM chg, Value",p,line
-"China, Exports, Latin America, SA, % of total, MoM chg, Value","CN, China, Exports, Latin America, SA, % of total, MoM chg, Value",p,line
-"China, Exports, ROW incl Middle East, SA, % of total, MoM chg, Value","CN, China, Exports, ROW incl Middle East, SA, % of total, MoM chg, Value",p,line
-"China, Exports, ROW excl Middle East, SA, % of total, MoM chg, Value","CN, China, Exports, ROW excl Middle East, SA, % of total, MoM chg, Value",p,line
-"China, Exports, Russia, SA, % of total, MoM chg, Value","CN, China, Exports, Russia, SA, % of total, MoM chg, Value",p,line
-"China, Exports, India, SA, % of total, MoM chg, Value","CN, China, Exports, India, SA, % of total, MoM chg, Value",p,line
-"China, Exports, North Asia, SA, % of total, MoM chg, Value","CN, China, Exports, North Asia, SA, % of total, MoM chg, Value",p,line
-"China, Exports, Brazil, SA, % of total, MoM chg, Value","CN, China, Exports, Brazil, SA, % of total, MoM chg, Value",p,line
-"China, Exports, South Africa, SA, % of total, MoM chg, Value","CN, China, Exports, South Africa, SA, % of total, MoM chg, Value",p,line
-"China, Exports, DM excl Japan, SA, % of total, MoM chg, Value","CN, China, Exports, DM excl Japan, SA, % of total, MoM chg, Value",p,line
-"China, Exports, EM, SA, % of total, MoM chg, Value","CN, China, Exports, EM, SA, % of total, MoM chg, Value",p,line
-"China, Exports, DM incl North Asia, SA, % of total, MoM chg, Value","CN, China, Exports, DM incl North Asia, SA, % of total, MoM chg, Value",p,line
-"China, Exports, Hong Kong, SA, % of total, MoM chg, Value","CN, China, Exports, Hong Kong, SA, % of total, MoM chg, Value",p,line
-"China, Exports, ROW, SA, % of total, MoM chg, Value","CN, China, Exports, ROW, SA, % of total, MoM chg, Value",p,line
-"China, Exports, Mexico, SA, % of total, MoM chg, Value","CN, China, Exports, Mexico, SA, % of total, MoM chg, Value",p,line
-"China, Exports, Latin America and Africa, SA, % of total, MoM chg, Value","CN, China, Exports, Latin America and Africa, SA, % of total, MoM chg, Value",p,line
-"China, Exports, DM, SA, % of total, MoM chg, Value","CN, China, Exports, DM, SA, % of total, MoM chg, Value",p,line
-"China, Imports, EU, SA, % of total, MoM chg, Value","CN, China, Imports, EU, SA, % of total, MoM chg, Value",p,line
-"China, Imports, Developed Europe, SA, % of total, MoM chg, Value","CN, China, Imports, Developed Europe, SA, % of total, MoM chg, Value",p,line
-"China, Imports, US, SA, % of total, MoM chg, Value","CN, China, Imports, US, SA, % of total, MoM chg, Value",p,line
-"China, Imports, Japan, SA, % of total, MoM chg, Value","CN, China, Imports, Japan, SA, % of total, MoM chg, Value",p,line
-"China, Imports, Korea, SA, % of total, MoM chg, Value","CN, China, Imports, Korea, SA, % of total, MoM chg, Value",p,line
-"China, Imports, Taiwan, SA, % of total, MoM chg, Value","CN, China, Imports, Taiwan, SA, % of total, MoM chg, Value",p,line
-"China, Imports, ASEAN, SA, % of total, MoM chg, Value","CN, China, Imports, ASEAN, SA, % of total, MoM chg, Value",p,line
-"China, Imports, Middle East, SA, % of total, MoM chg, Value","CN, China, Imports, Middle East, SA, % of total, MoM chg, Value",p,line
-"China, Imports, Africa, SA, % of total, MoM chg, Value","CN, China, Imports, Africa, SA, % of total, MoM chg, Value",p,line
-"China, Imports, Latin America, SA, % of total, MoM chg, Value","CN, China, Imports, Latin America, SA, % of total, MoM chg, Value",p,line
-"China, Imports, ROW incl Middle East, SA, % of total, MoM chg, Value","CN, China, Imports, ROW incl Middle East, SA, % of total, MoM chg, Value",p,line
-"China, Imports, ROW excl Middle East, SA, % of total, MoM chg, Value","CN, China, Imports, ROW excl Middle East, SA, % of total, MoM chg, Value",p,line
-"China, Imports, Russia, SA, % of total, MoM chg, Value","CN, China, Imports, Russia, SA, % of total, MoM chg, Value",p,line
-"China, Imports, India, SA, % of total, MoM chg, Value","CN, China, Imports, India, SA, % of total, MoM chg, Value",p,line
-"China, Imports, North Asia, SA, % of total, MoM chg, Value","CN, China, Imports, North Asia, SA, % of total, MoM chg, Value",p,line
-"China, Imports, Brazil, SA, % of total, MoM chg, Value","CN, China, Imports, Brazil, SA, % of total, MoM chg, Value",p,line
-"China, Imports, South Africa, SA, % of total, MoM chg, Value","CN, China, Imports, South Africa, SA, % of total, MoM chg, Value",p,line
-"China, Imports, DM excl Japan, SA, % of total, MoM chg, Value","CN, China, Imports, DM excl Japan, SA, % of total, MoM chg, Value",p,line
-"China, Imports, EM, SA, % of total, MoM chg, Value","CN, China, Imports, EM, SA, % of total, MoM chg, Value",p,line
-"China, Imports, DM incl North Asia, SA, % of total, MoM chg, Value","CN, China, Imports, DM incl North Asia, SA, % of total, MoM chg, Value",p,line
-"China, Imports, Hong Kong, SA, % of total, MoM chg, Value","CN, China, Imports, Hong Kong, SA, % of total, MoM chg, Value",p,line
-"China, Imports, ROW, SA, % of total, MoM chg, Value","CN, China, Imports, ROW, SA, % of total, MoM chg, Value",p,line
-"China, Imports, Mexico, SA, % of total, MoM chg, Value","CN, China, Imports, Mexico, SA, % of total, MoM chg, Value",p,line
-"China, Imports, Latin America and Africa, SA, % of total, MoM chg, Value","CN, China, Imports, Latin America and Africa, SA, % of total, MoM chg, Value",p,line
-"China, Imports, DM, SA, % of total, MoM chg, Value","CN, China, Imports, DM, SA, % of total, MoM chg, Value",p,line
 "China, SITC, Trade balance, 1-4, Primary products, SA, USD, MoM chg, Value","CN, China, SITC, Trade balance, 1-4, Primary products, SA, USD, MoM chg, Value",b,line
 "China, SITC, Trade balance, 5 Chemicals and related products, SA, USD, MoM chg, Value","CN, China, SITC, Trade balance, 5 Chemicals and related products, SA, USD, MoM chg, Value",b,line
 "China, SITC, Trade balance, 5-9, Manufactures, SA, USD, MoM chg, Value","CN, China, SITC, Trade balance, 5-9, Manufactures, SA, USD, MoM chg, Value",b,line
@@ -6305,11 +6368,21 @@ name,display_name,data_type,chart_type
 "China, Auto exports, North America, Value, % of total","CN, China, Auto exports, North America, Value, % of total",p,line
 "China, Auto exports, Australia and NZ, Value, % of total","CN, China, Auto exports, Australia and NZ, Value, % of total",p,line
 "China, Auto exports, India and Middle East, Value, % of total","CN, China, Auto exports, India and Middle East, Value, % of total",p,line
-"China, Exports, Passenger cars, Unit price, Value, USD","CN, China, Exports, Passenger cars, Unit price, Value, USD",None,line
-"China, Exports, ICE, Unit price, Value, USD","CN, China, Exports, ICE, Unit price, Value, USD",None,line
-"China, Exports, Hybrid, Unit price, Value, USD","CN, China, Exports, Hybrid, Unit price, Value, USD",None,line
-"China, Exports, Non-plug-in hybrid electric passenger cars, Unit price, Value, USD","CN, China, Exports, Non-plug-in hybrid electric passenger cars, Unit price, Value, USD",None,line
-"China, Exports, Plug-in hybrid electric passenger cars, Unit price, Value, USD","CN, China, Exports, Plug-in hybrid electric passenger cars, Unit price, Value, USD",None,line
 "China, Exports, Battery electric passenger cars, Unit price, Value, USD","CN, China, Exports, Battery electric passenger cars, Unit price, Value, USD",None,line
+"China, Exports, Hybrid, Unit price, Value, USD","CN, China, Exports, Hybrid, Unit price, Value, USD",None,line
+"China, Exports, ICE, Unit price, Value, USD","CN, China, Exports, ICE, Unit price, Value, USD",None,line
 "China, Exports, Lithium-ion batteries, Unit price, Value, USD","CN, China, Exports, Lithium-ion batteries, Unit price, Value, USD",None,line
+"China, Exports, Motor vehicles including chassis fitted with engines, Unit price, Value, USD","CN, China, Exports, Motor vehicles including chassis fitted with engines, Unit price, Value, USD",None,line
+"China, Exports, Non-plug-in hybrid electric passenger cars, Unit price, Value, USD","CN, China, Exports, Non-plug-in hybrid electric passenger cars, Unit price, Value, USD",None,line
+"China, Exports, Passenger cars, Unit price, Value, USD","CN, China, Exports, Passenger cars, Unit price, Value, USD",None,line
+"China, Exports, Plug-in hybrid electric passenger cars, Unit price, Value, USD","CN, China, Exports, Plug-in hybrid electric passenger cars, Unit price, Value, USD",None,line
 "China, Exports, Solar cells, Unit price, Value, USD","CN, China, Exports, Solar cells, Unit price, Value, USD",None,line
+"China, Exports, Passenger cars, Volume, th, SA","CN, China, Exports, Passenger cars, Volume, th, SA",None,line
+"China, Exports, ICE, Volume, th, SA","CN, China, Exports, ICE, Volume, th, SA",None,line
+"China, Exports, Hybrid, Volume, th, SA","CN, China, Exports, Hybrid, Volume, th, SA",None,line
+"China, Exports, Non-plug-in hybrid electric passenger cars, Volume, th, SA","CN, China, Exports, Non-plug-in hybrid electric passenger cars, Volume, th, SA",None,line
+"China, Exports, Plug-in hybrid electric passenger cars, Volume, th, SA","CN, China, Exports, Plug-in hybrid electric passenger cars, Volume, th, SA",None,line
+"China, Exports, Battery electric passenger cars, Volume, th, SA","CN, China, Exports, Battery electric passenger cars, Volume, th, SA",None,line
+"China, Exports, Lithium-ion batteries, Volume, th, SA","CN, China, Exports, Lithium-ion batteries, Volume, th, SA",None,line
+"China, Exports, Solar cells, Volume, th, SA","CN, China, Exports, Solar cells, Volume, th, SA",None,line
+"China, Exports, Motor vehicles including chassis fitted with engines, Volume, th, SA","CN, China, Exports, Motor vehicles including chassis fitted with engines, Volume, th, SA",None,line
