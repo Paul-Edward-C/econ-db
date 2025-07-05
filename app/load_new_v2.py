@@ -1,15 +1,20 @@
 import os
+import shutil
 
 def main():
-    # list all paths to check
     db_paths = [
         "db/jp/gdp/q", "db/jp/export/m", "db/jp/inflation/m",
         "db/cn/gdp/q", "db/cn/export/m", "db/cn/inflation/m",
         "db/kr/gdp/q", "db/kr/export/m", "db/kr/inflation/m",
         "db/tw/gdp/q", "db/tw/export/m", "db/tw/inflation/m"
     ]
+    category_map = {
+        "gdp": "GDP",
+        "export": "Trade",
+        "trade": "Trade",
+        "inflation": "Inflation"
+    }
 
-    # check for each path
     for path in db_paths:
         if not os.path.exists(path):
             continue
@@ -17,34 +22,22 @@ def main():
         country = split[1]
         cat = split[2]
         freq = split[3]
-        # list all files in path
         all_files = os.listdir(path)
         for filename in all_files:
-            # check for files named as new
-            if filename.endswith("_new.csv"):
+            # Accept either _raw.csv or _trade_m_raw.csv etc
+            if filename.endswith("_raw.csv"):
                 print(filename)
-                new_name = filename[:-8] + ".csv"
+                new_name = filename.replace("_raw.csv", ".csv")
                 print(new_name)
-
-                # remove old raw file if exists
-                old_raw_path = os.path.join(path, new_name)
-                if os.path.exists(old_raw_path):
-                    os.remove(old_raw_path)
-
-                # rename new file to raw
-                new_raw_path_src = os.path.join(path, filename)
-                new_raw_path_dest = os.path.join(path, new_name)
-                os.rename(new_raw_path_src, new_raw_path_dest)
-
-                # run onboarding with new file
-                if cat == "gdp":
-                    cat_arg = "GDP"
-                elif cat == "export":
-                    cat_arg = "Trade"
-                elif cat == "inflation":
-                    cat_arg = "Inflation"
-                else:
-                    cat_arg = cat
+                raw_path = os.path.join(path, filename)
+                csv_path = os.path.join(path, new_name)
+                # Remove old .csv if exists
+                if os.path.exists(csv_path):
+                    os.remove(csv_path)
+                # Map code-based category to full name expected by downstream scripts
+                cat_key = cat.lower()
+                cat_arg = category_map.get(cat_key, cat)
+                # Run onboarding pipeline before renaming (so _raw.csv exists)
                 command = (
                     f"python onboarding_pipeline.py "
                     f"--category {cat_arg} "
@@ -55,6 +48,8 @@ def main():
                 )
                 print("Running:", command)
                 os.system(command)
+                # Now rename raw to .csv
+                shutil.move(raw_path, csv_path)
 
 if __name__ == "__main__":
     main()
