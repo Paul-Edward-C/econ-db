@@ -348,7 +348,7 @@ class Setting:
         self.theme_file_path = "lib/theme/theme.yml"
         self.curdoc_name = "ECON DB"
 
-        self.line_width = 2
+        self.line_width = 3
         self.bar_width = td(days=60)
         self.figure_width = 1000
         self.figure_height = 500
@@ -366,15 +366,22 @@ class Setting:
         # color setting
         self.bar_border_color = "#000000"
         self.colors = [
-            {"id": 0, "color": "#191970", "used": False, "label": "midnightblue"},
-            {"id": 1, "color": "#006400", "used": False, "label": "darkgreen"},
-            {"id": 2, "color": "#8b0000", "used": False, "label": "darkred"},
-            {"id": 3, "color": "#4b0082", "used": False, "label": "indigo"},
-            {"id": 4, "color": "#ff8c00", "used": False, "label": "darkorange"},
-            {"id": 5, "color": "#000000", "used": False, "label": "black"},
-            {"id": 6, "color": "#dc143c", "used": False, "label": "crimson"},
-            {"id": 7, "color": "#87cefa", "used": False, "label": "lightskyblue"},
-        ]
+        #    {"id": 0, "color": "#191970", "used": False, "label": "midnightblue"},
+        #    {"id": 1, "color": "#006400", "used": False, "label": "darkgreen"},
+        #    {"id": 2, "color": "#8b0000", "used": False, "label": "darkred"},
+        #    {"id": 3, "color": "#4b0082", "used": False, "label": "indigo"},
+        #    {"id": 4, "color": "#ff8c00", "used": False, "label": "darkorange"},
+        #    {"id": 5, "color": "#000000", "used": False, "label": "black"},
+        #    {"id": 6, "color": "#dc143c", "used": False, "label": "crimson"},
+        #    {"id": 7, "color": "#87cefa", "used": False, "label": "lightskyblue"},
+            {"id": 0, "color": "#556B2F", "used": False, "label": "midnightblue"},
+            {"id": 1, "color": "#B7410E", "used": False, "label": "darkgreen"},
+            {"id": 2, "color": "#4682B4", "used": False, "label": "darkred"},
+            {"id": 3, "color": "#FF7F50", "used": False, "label": "indigo"},
+            {"id": 4, "color": "#228B22", "used": False, "label": "darkorange"},
+            {"id": 5, "color": "#FFBF00", "used": False, "label": "black"},
+            {"id": 6, "color": "#87CEEB", "used": False, "label": "crimson"},
+            {"id": 7, "color": "#FFDB58", "used": False, "label": "lightskyblue"},]
 
         self.freq_data_mapping_map = {"Quarterly": {"NGDP Q": "NGDP", "RGDP Q": "RGDP", "Deflator Q" : "Deflator"}, "Monthly": {"Monthly": "Monthly"}}
 
