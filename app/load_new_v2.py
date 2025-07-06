@@ -2,6 +2,7 @@ import os
 import shutil
 
 def main():
+    print("Starting load_new_v2.py...")
     db_paths = [
         "db/jp/gdp/q", "db/jp/export/m", "db/jp/inflation/m",
         "db/cn/gdp/q", "db/cn/export/m", "db/cn/inflation/m",
@@ -16,28 +17,29 @@ def main():
     }
 
     for path in db_paths:
+        abs_path = os.path.abspath(path)
+        print(f"Checking path: {abs_path}")
         if not os.path.exists(path):
+            print(f"Path does not exist: {abs_path}")
             continue
         split = path.split("/")
         country = split[1]
         cat = split[2]
         freq = split[3]
         all_files = os.listdir(path)
+        print(f"Files in {abs_path}: {all_files}")
         for filename in all_files:
-            # Accept either _raw.csv or _trade_m_raw.csv etc
             if filename.endswith("_raw.csv"):
-                print(filename)
+                print(f"Found file to process: {filename}")
                 new_name = filename.replace("_raw.csv", ".csv")
-                print(new_name)
+                print(f"Target .csv name: {new_name}")
                 raw_path = os.path.join(path, filename)
                 csv_path = os.path.join(path, new_name)
-                # Remove old .csv if exists
                 if os.path.exists(csv_path):
+                    print(f"Removing existing file: {csv_path}")
                     os.remove(csv_path)
-                # Map code-based category to full name expected by downstream scripts
                 cat_key = cat.lower()
                 cat_arg = category_map.get(cat_key, cat)
-                # Run onboarding pipeline before renaming (so _raw.csv exists)
                 command = (
                     f"python onboarding_pipeline.py "
                     f"--category {cat_arg} "
@@ -48,8 +50,8 @@ def main():
                 )
                 print("Running:", command)
                 os.system(command)
-                # Now rename raw to .csv
-                shutil.move(raw_path, csv_path)
+                print(f"Copying {raw_path} to {csv_path}")
+                shutil.copy(raw_path, csv_path)
 
 if __name__ == "__main__":
     main()

@@ -55,6 +55,7 @@ name,display_name,data_type,chart_type
 "Taiwan, Deflator, Activity, Total excluding taxes and statistical discrepancy, Index","Taiwan, Deflator, Activity, Total excluding taxes and statistical discrepancy, Index",None,line
 "Taiwan, Deflator, Activity, Value-Added Tax, % YoY","Taiwan, Deflator, Activity, Value-Added Tax, % YoY",None,line
 "Taiwan, Deflator, Activity, Value-Added Tax, Index","Taiwan, Deflator, Activity, Value-Added Tax, Index",None,line
+"Taiwan, Deflator, Consumption of fixed capital, Index","Taiwan, Deflator, Consumption of fixed capital, Index",None,line
 "Taiwan, Deflator, Expenditure, Domestic Demand, Government Consumption, Index","Taiwan, Deflator, Expenditure, Domestic Demand, Government Consumption, Index",None,line
 "Taiwan, Deflator, Expenditure, Domestic Demand, Government Consumption, SA, Index","Taiwan, Deflator, Expenditure, Domestic Demand, Government Consumption, SA, Index",None,line
 "Taiwan, Deflator, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Index","Taiwan, Deflator, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Index",None,line
@@ -70,6 +71,15 @@ name,display_name,data_type,chart_type
 "Taiwan, Deflator, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, Index","Taiwan, Deflator, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, Index",None,line
 "Taiwan, Deflator, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Services, Index","Taiwan, Deflator, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Services, Index",None,line
 "Taiwan, Deflator, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Services, SA, Index","Taiwan, Deflator, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Services, SA, Index",None,line
+"Taiwan, Deflator, GDP, Domestic Demand, Index","Taiwan, Deflator, GDP, Domestic Demand, Index",None,line
+"Taiwan, Deflator, GNI, Index","Taiwan, Deflator, GNI, Index",None,line
+"Taiwan, Deflator, Gross domestic investment, Index","Taiwan, Deflator, Gross domestic investment, Index",None,line
+"Taiwan, Deflator, Gross national savings, Index","Taiwan, Deflator, Gross national savings, Index",None,line
+"Taiwan, Deflator, NDI, Index","Taiwan, Deflator, NDI, Index",None,line
+"Taiwan, Deflator, NI at factor cost, Index","Taiwan, Deflator, NI at factor cost, Index",None,line
+"Taiwan, Deflator, NI at market prices, Index","Taiwan, Deflator, NI at market prices, Index",None,line
+"Taiwan, Deflator, National consumption expenditure, Index","Taiwan, Deflator, National consumption expenditure, Index",None,line
+"Taiwan, Deflator, Net national savings, Index","Taiwan, Deflator, Net national savings, Index",None,line
 "Taiwan, NGDP, Activity, % YoY","Taiwan, NGDP, Activity, % YoY",None,line
 "Taiwan, NGDP, Activity, Import Duties, % YoY","Taiwan, NGDP, Activity, Import Duties, % YoY",None,line
 "Taiwan, NGDP, Activity, Import Duties, TWD bn","Taiwan, NGDP, Activity, Import Duties, TWD bn",None,line
@@ -132,6 +142,9 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Activity, Value-Added Tax, TWD bn","Taiwan, NGDP, Activity, Value-Added Tax, TWD bn",None,line
 "Taiwan, NGDP, Expenditure, % SAAR","Taiwan, NGDP, Expenditure, % SAAR",None,line
 "Taiwan, NGDP, Expenditure, % YoY","Taiwan, NGDP, Expenditure, % YoY",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Consumption of fixed capital, TWD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Consumption of fixed capital, TWD bn",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Difference between savings and investment, Share of GDP, Domestic Demand, %","Taiwan, NGDP, Expenditure, Domestic Demand, Difference between savings and investment, Share of GDP, Domestic Demand, %",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Difference between savings and investment, TWD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Difference between savings and investment, TWD bn",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, % SAAR","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, % SAAR",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, % YoY","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, % YoY",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, % QoQ","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, % QoQ",None,line
@@ -200,11 +213,17 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % QoQ","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % QoQ",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, TWD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, TWD bn",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, TWD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, TWD bn",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Gross domestic investment, TWD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Gross domestic investment, TWD bn",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Gross national savings, TWD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Gross national savings, TWD bn",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Investment, Share of GDP, Domestic Demand, %","Taiwan, NGDP, Expenditure, Domestic Demand, Investment, Share of GDP, Domestic Demand, %",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, National consumption expenditure, TWD bn","Taiwan, NGDP, Expenditure, Domestic Demand, National consumption expenditure, TWD bn",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Net national savings, TWD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Net national savings, TWD bn",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, % SAAR","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, % SAAR",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, % YoY","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, % YoY",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, % QoQ","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, % QoQ",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, TWD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, TWD bn",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, TWD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, TWD bn",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Savings, Share of GDP, Domestic Demand, %","Taiwan, NGDP, Expenditure, Domestic Demand, Savings, Share of GDP, Domestic Demand, %",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, % SAAR","Taiwan, NGDP, Expenditure, Domestic Demand, % SAAR",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, % YoY","Taiwan, NGDP, Expenditure, Domestic Demand, % YoY",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, SA, % QoQ","Taiwan, NGDP, Expenditure, Domestic Demand, SA, % QoQ",None,line
@@ -255,15 +274,28 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, GNI, TWD bn","Taiwan, NGDP, GNI, TWD bn",None,line
 "Taiwan, NGDP, GNI, USD bn","Taiwan, NGDP, GNI, USD bn",None,line
 "Taiwan, NGDP, GNI,Per capita, USD m","Taiwan, NGDP, GNI,Per capita, USD m",,line
+"Taiwan, NGDP, Income, GDP, % SAAR","Taiwan, NGDP, Income, GDP, % SAAR",None,line
+"Taiwan, NGDP, Income, GDP, % YoY","Taiwan, NGDP, Income, GDP, % YoY",None,line
+"Taiwan, NGDP, Income, GDP, SA, % QoQ","Taiwan, NGDP, Income, GDP, SA, % QoQ",None,line
+"Taiwan, NGDP, Income, GDP, SA, TWD bn","Taiwan, NGDP, Income, GDP, SA, TWD bn",None,line
+"Taiwan, NGDP, Income, GDP, TWD bn","Taiwan, NGDP, Income, GDP, TWD bn",None,line
 "Taiwan, NGDP, Income, GNI, % YoY","Taiwan, NGDP, Income, GNI, % YoY",None,line
 "Taiwan, NGDP, Income, GNI, TWD bn","Taiwan, NGDP, Income, GNI, TWD bn",None,line
+"Taiwan, NGDP, Income, NDI, TWD bn","Taiwan, NGDP, Income, NDI, TWD bn",None,line
+"Taiwan, NGDP, Income, NI at factor cost, TWD bn","Taiwan, NGDP, Income, NI at factor cost, TWD bn",None,line
+"Taiwan, NGDP, Income, NI at market prices, TWD bn","Taiwan, NGDP, Income, NI at market prices, TWD bn",None,line
 "Taiwan, NGDP, Income, Net Factor Income from Abroad, % YoY","Taiwan, NGDP, Income, Net Factor Income from Abroad, % YoY",None,line
 "Taiwan, NGDP, Income, Net Factor Income from Abroad, TWD bn","Taiwan, NGDP, Income, Net Factor Income from Abroad, TWD bn",None,line
+"Taiwan, NGDP, Income, Net factor income from ROW, TWD bn","Taiwan, NGDP, Income, Net factor income from ROW, TWD bn",None,line
+"Taiwan, NGDP, Income, Net transfers from ROW, TWD bn","Taiwan, NGDP, Income, Net transfers from ROW, TWD bn",None,line
+"Taiwan, NGDP, Income, Staistical discepancy, TWD bn","Taiwan, NGDP, Income, Staistical discepancy, TWD bn",None,line
+"Taiwan, NGDP, Income, Taxes less subsidies, TWD bn","Taiwan, NGDP, Income, Taxes less subsidies, TWD bn",None,line
 "Taiwan, NGDP, NI, Per capita, TWD","Taiwan, NGDP, NI, Per capita, TWD",None,line
 "Taiwan, NGDP, NI, Per capita, TWD m","Taiwan, NGDP, NI, Per capita, TWD m",None,line
 "Taiwan, NGDP, NI,Per capita, USD","Taiwan, NGDP, NI,Per capita, USD",None,line
 "Taiwan, NGDP, NI,Per capita, USD m","Taiwan, NGDP, NI,Per capita, USD m",,line
 "Taiwan, Population, m","Taiwan, Population, m",None,line
+"Taiwan, RGDP per hour worked","Taiwan, RGDP per hour worked",None,line
 "Taiwan, RGDP, Activity, % YoY","Taiwan, RGDP, Activity, % YoY",None,line
 "Taiwan, RGDP, Activity, Activity, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Activity, Contribution to YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Import Duties, % YoY","Taiwan, RGDP, Activity, Import Duties, % YoY",None,line
@@ -396,6 +428,9 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDP, ActivityContribution to YoY chg, ppts","Taiwan, RGDP, ActivityContribution to YoY chg, ppts",None,bar
 "Taiwan, RGDP, Expenditure, % SAAR","Taiwan, RGDP, Expenditure, % SAAR",None,line
 "Taiwan, RGDP, Expenditure, % YoY","Taiwan, RGDP, Expenditure, % YoY",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, Consumption of fixed capital, TWD bn","Taiwan, RGDP, Expenditure, Domestic Demand, Consumption of fixed capital, TWD bn",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, Difference between savings and investment, Share of GDP, Domestic Demand, %","Taiwan, RGDP, Expenditure, Domestic Demand, Difference between savings and investment, Share of GDP, Domestic Demand, %",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, Difference between savings and investment, TWD bn","Taiwan, RGDP, Expenditure, Domestic Demand, Difference between savings and investment, TWD bn",None,line
 "Taiwan, RGDP, Expenditure, Domestic Demand, Government Consumption, % SAAR","Taiwan, RGDP, Expenditure, Domestic Demand, Government Consumption, % SAAR",None,line
 "Taiwan, RGDP, Expenditure, Domestic Demand, Government Consumption, % YoY","Taiwan, RGDP, Expenditure, Domestic Demand, Government Consumption, % YoY",None,line
 "Taiwan, RGDP, Expenditure, Domestic Demand, Government Consumption, Ccontribution to YoY chg, ppts","Taiwan, RGDP, Expenditure, Domestic Demand, Government Consumption, Ccontribution to YoY chg, ppts",None,bar
@@ -480,6 +515,11 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % QoQ","Taiwan, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % QoQ",None,line
 "Taiwan, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, TWD bn","Taiwan, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, TWD bn",None,line
 "Taiwan, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, TWD bn","Taiwan, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, TWD bn",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, Gross domestic investment, TWD bn","Taiwan, RGDP, Expenditure, Domestic Demand, Gross domestic investment, TWD bn",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, Gross national savings, TWD bn","Taiwan, RGDP, Expenditure, Domestic Demand, Gross national savings, TWD bn",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, Investment, Share of GDP, Domestic Demand, %","Taiwan, RGDP, Expenditure, Domestic Demand, Investment, Share of GDP, Domestic Demand, %",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, National consumption expenditure, TWD bn","Taiwan, RGDP, Expenditure, Domestic Demand, National consumption expenditure, TWD bn",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, Net national savings, TWD bn","Taiwan, RGDP, Expenditure, Domestic Demand, Net national savings, TWD bn",None,line
 "Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, % SAAR","Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, % SAAR",None,line
 "Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, % YoY","Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, % YoY",None,line
 "Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, Contribution to YoY chg, ppts","Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, Contribution to YoY chg, ppts",None,bar
@@ -488,6 +528,7 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, TWD bn","Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, TWD bn",None,line
 "Taiwan, RGDP, Expenditure, Domestic Demand, Private, Contribution to YoY chg, ppts","Taiwan, RGDP, Expenditure, Domestic Demand, Private, Contribution to YoY chg, ppts",None,bar
 "Taiwan, RGDP, Expenditure, Domestic Demand, Public, Contribution to YoY chg, ppts","Taiwan, RGDP, Expenditure, Domestic Demand, Public, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Expenditure, Domestic Demand, Savings, Share of GDP, Domestic Demand, %","Taiwan, RGDP, Expenditure, Domestic Demand, Savings, Share of GDP, Domestic Demand, %",None,line
 "Taiwan, RGDP, Expenditure, Domestic Demand, % SAAR","Taiwan, RGDP, Expenditure, Domestic Demand, % SAAR",None,line
 "Taiwan, RGDP, Expenditure, Domestic Demand, % YoY","Taiwan, RGDP, Expenditure, Domestic Demand, % YoY",None,line
 "Taiwan, RGDP, Expenditure, Domestic Demand, Contribution to YoY chg, ppts","Taiwan, RGDP, Expenditure, Domestic Demand, Contribution to YoY chg, ppts",None,bar
@@ -536,12 +577,26 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDP, Expenditure, SA, % QoQ","Taiwan, RGDP, Expenditure, SA, % QoQ",None,line
 "Taiwan, RGDP, Expenditure, SA, TWD bn","Taiwan, RGDP, Expenditure, SA, TWD bn",None,line
 "Taiwan, RGDP, Expenditure, TWD bn","Taiwan, RGDP, Expenditure, TWD bn",None,line
+"Taiwan, RGDP, GDI, TWD bn","Taiwan, RGDP, GDI, TWD bn",None,line
+"Taiwan, RGDP, Income, GDP, % SAAR","Taiwan, RGDP, Income, GDP, % SAAR",None,line
+"Taiwan, RGDP, Income, GDP, % YoY","Taiwan, RGDP, Income, GDP, % YoY",None,line
+"Taiwan, RGDP, Income, GDP, SA, % QoQ","Taiwan, RGDP, Income, GDP, SA, % QoQ",None,line
+"Taiwan, RGDP, Income, GDP, SA, TWD bn","Taiwan, RGDP, Income, GDP, SA, TWD bn",None,line
+"Taiwan, RGDP, Income, GDP, TWD bn","Taiwan, RGDP, Income, GDP, TWD bn",None,line
 "Taiwan, RGDP, Income, GNI, % YoY","Taiwan, RGDP, Income, GNI, % YoY",None,line
 "Taiwan, RGDP, Income, GNI, TWD bn","Taiwan, RGDP, Income, GNI, TWD bn",None,line
-"Taiwan, RGDP, Income, Gain or Loss Resulting from Changes in the Terms of Trade, % YoY","Taiwan, RGDP, Income, Gain or Loss Resulting from Changes in the Terms of Trade, % YoY",None,line
-"Taiwan, RGDP, Income, Gain or Loss Resulting from Changes in the Terms of Trade, TWD bn","Taiwan, RGDP, Income, Gain or Loss Resulting from Changes in the Terms of Trade, TWD bn",None,line
+"Taiwan, RGDP, Income, NDI, TWD bn","Taiwan, RGDP, Income, NDI, TWD bn",None,line
+"Taiwan, RGDP, Income, NI at factor cost, TWD bn","Taiwan, RGDP, Income, NI at factor cost, TWD bn",None,line
+"Taiwan, RGDP, Income, NI at market prices, TWD bn","Taiwan, RGDP, Income, NI at market prices, TWD bn",None,line
 "Taiwan, RGDP, Income, Net Factor Income from Abroad, % YoY","Taiwan, RGDP, Income, Net Factor Income from Abroad, % YoY",None,line
 "Taiwan, RGDP, Income, Net Factor Income from Abroad, TWD bn","Taiwan, RGDP, Income, Net Factor Income from Abroad, TWD bn",None,line
+"Taiwan, RGDP, Income, Net factor income from ROW, TWD bn","Taiwan, RGDP, Income, Net factor income from ROW, TWD bn",None,line
+"Taiwan, RGDP, Income, Net transfers from ROW, TWD bn","Taiwan, RGDP, Income, Net transfers from ROW, TWD bn",None,line
+"Taiwan, RGDP, Income, Staistical discepancy, TWD bn","Taiwan, RGDP, Income, Staistical discepancy, TWD bn",None,line
+"Taiwan, RGDP, Income, Taxes less subsidies, TWD bn","Taiwan, RGDP, Income, Taxes less subsidies, TWD bn",None,line
+"Taiwan, RGDP, Income, Trading gains or losses, Share of GDI, %","Taiwan, RGDP, Income, Trading gains or losses, Share of GDI, %",None,line
+"Taiwan, RGDP, Income, Trading gains or losses, Share of GDP, %","Taiwan, RGDP, Income, Trading gains or losses, Share of GDP, %",None,line
+"Taiwan, RGDP, Income, Trading gains or losses, TWD bn","Taiwan, RGDP, Income, Trading gains or losses, TWD bn",None,line
 "Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, TWD bn","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, TWD bn",None,line
 "Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, TWD bn","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, TWD bn",None,line
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, TWD bn","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, TWD bn",None,line
@@ -552,6 +607,57 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD",None,line
 "Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD","Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD",None,line
 "Taiwan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Per capita, SA, TWD","Taiwan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Per capita, SA, TWD",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, % QoQ annualised","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, % QoQ annualised",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, % QoQ annualised","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, % QoQ annualised",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, % QoQ annualised","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, % QoQ annualised",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % QoQ annualised","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % QoQ annualised",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, % QoQ annualised","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, % QoQ annualised",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, SA, % QoQ annualised","Taiwan, NGDP, Expenditure, Domestic Demand, SA, % QoQ annualised",None,line
+"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, % QoQ annualised","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, % QoQ annualised",None,line
+"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, % QoQ annualised","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, % QoQ annualised",None,line
+"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, % QoQ annualised","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, % QoQ annualised",None,line
+"Taiwan, NGDP, Expenditure, SA, % QoQ annualised","Taiwan, NGDP, Expenditure, SA, % QoQ annualised",None,line
+"Taiwan, NGDP, Income, GDP, SA, % QoQ annualised","Taiwan, NGDP, Income, GDP, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Primary, SA, % QoQ annualised","Taiwan, RGDP, Activity, Primary, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Secondary, Construction, SA, % QoQ annualised","Taiwan, RGDP, Activity, Secondary, Construction, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Secondary, Manufacturing, SA, % QoQ annualised","Taiwan, RGDP, Activity, Secondary, Manufacturing, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Secondary, SA, % QoQ annualised","Taiwan, RGDP, Activity, Secondary, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Secondary, Utilities, SA, % QoQ annualised","Taiwan, RGDP, Activity, Secondary, Utilities, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Business, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Business, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Consumer, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Consumer, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Education, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Education, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Financial and insurance, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Financial and insurance, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Human health and social work, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Human health and social work, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Information and communication, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Information and communication, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Other services, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Other services, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Real estate, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Real estate, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Support services, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Support services, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Transport and storage, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Transport and storage, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, SA, % QoQ annualised","Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, Government Consumption, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, Domestic Demand, Government Consumption, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, Other Machinery and Equipment, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, Domestic Demand, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, Domestic Demand, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Income, GDP, SA, % QoQ annualised","Taiwan, RGDP, Income, GDP, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % QoQ annualised",None,line
+"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % QoQ annualised","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % QoQ annualised",None,line
+"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % QoQ annualised","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % QoQ annualised",None,line
+"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % QoQ annualised","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, SA, % QoQ annualised",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, TWD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, TWD bn, 2013-19 trend",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, TWD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, TWD bn, 2013-19 trend",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, TWD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, TWD bn, 2013-19 trend",None,line
@@ -562,6 +668,7 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, TWD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, TWD bn, 2013-19 trend",None,line
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, TWD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, TWD bn, 2013-19 trend",None,line
 "Taiwan, NGDP, Expenditure, SA, TWD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, SA, TWD bn, 2013-19 trend",None,line
+"Taiwan, NGDP, Income, GDP, SA, TWD bn, 2013-19 trend","Taiwan, NGDP, Income, GDP, SA, TWD bn, 2013-19 trend",None,line
 "Taiwan, RGDP, Activity, Primary, SA, TWD bn, 2013-19 trend","Taiwan, RGDP, Activity, Primary, SA, TWD bn, 2013-19 trend",None,line
 "Taiwan, RGDP, Activity, Secondary, Construction, SA, TWD bn, 2013-19 trend","Taiwan, RGDP, Activity, Secondary, Construction, SA, TWD bn, 2013-19 trend",None,line
 "Taiwan, RGDP, Activity, Secondary, Manufacturing, SA, TWD bn, 2013-19 trend","Taiwan, RGDP, Activity, Secondary, Manufacturing, SA, TWD bn, 2013-19 trend",None,line
@@ -594,6 +701,7 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, TWD bn, 2013-19 trend","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, TWD bn, 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, SA, TWD bn, 2013-19 trend","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, SA, TWD bn, 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, SA, TWD bn, 2013-19 trend","Taiwan, RGDP, Expenditure, SA, TWD bn, 2013-19 trend",None,line
+"Taiwan, RGDP, Income, GDP, SA, TWD bn, 2013-19 trend","Taiwan, RGDP, Income, GDP, SA, TWD bn, 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, TWD bn, 2013-19 trend","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, TWD bn, 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, TWD bn, 2013-19 trend","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, TWD bn, 2013-19 trend",None,line
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, TWD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, TWD bn, 2013-19 trend",None,line
@@ -614,6 +722,7 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, TWD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, TWD bn, Poly 2013-19 trend",None,line
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, TWD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, TWD bn, Poly 2013-19 trend",None,line
 "Taiwan, NGDP, Expenditure, SA, TWD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, SA, TWD bn, Poly 2013-19 trend",None,line
+"Taiwan, NGDP, Income, GDP, SA, TWD bn, Poly 2013-19 trend","Taiwan, NGDP, Income, GDP, SA, TWD bn, Poly 2013-19 trend",None,line
 "Taiwan, RGDP, Activity, Primary, SA, TWD bn, Poly 2013-19 trend","Taiwan, RGDP, Activity, Primary, SA, TWD bn, Poly 2013-19 trend",None,line
 "Taiwan, RGDP, Activity, Secondary, Construction, SA, TWD bn, Poly 2013-19 trend","Taiwan, RGDP, Activity, Secondary, Construction, SA, TWD bn, Poly 2013-19 trend",None,line
 "Taiwan, RGDP, Activity, Secondary, Manufacturing, SA, TWD bn, Poly 2013-19 trend","Taiwan, RGDP, Activity, Secondary, Manufacturing, SA, TWD bn, Poly 2013-19 trend",None,line
@@ -646,6 +755,7 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, TWD bn, Poly 2013-19 trend","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, TWD bn, Poly 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, SA, TWD bn, Poly 2013-19 trend","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, SA, TWD bn, Poly 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, SA, TWD bn, Poly 2013-19 trend","Taiwan, RGDP, Expenditure, SA, TWD bn, Poly 2013-19 trend",None,line
+"Taiwan, RGDP, Income, GDP, SA, TWD bn, Poly 2013-19 trend","Taiwan, RGDP, Income, GDP, SA, TWD bn, Poly 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, TWD bn, Poly 2013-19 trend","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, TWD bn, Poly 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, TWD bn, Poly 2013-19 trend","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, TWD bn, Poly 2013-19 trend",None,line
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, TWD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, TWD bn, Poly 2013-19 trend",None,line
@@ -676,6 +786,8 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, TWD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, TWD bn, % of Poly 2013-19 trend",None,line
 "Taiwan, NGDP, Expenditure, SA, TWD bn, % of 2013-19 trend","Taiwan, NGDP, Expenditure, SA, TWD bn, % of 2013-19 trend",None,line
 "Taiwan, NGDP, Expenditure, SA, TWD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, SA, TWD bn, % of Poly 2013-19 trend",None,line
+"Taiwan, NGDP, Income, GDP, SA, TWD bn, % of 2013-19 trend","Taiwan, NGDP, Income, GDP, SA, TWD bn, % of 2013-19 trend",None,line
+"Taiwan, NGDP, Income, GDP, SA, TWD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Income, GDP, SA, TWD bn, % of Poly 2013-19 trend",None,line
 "Taiwan, RGDP, Activity, Primary, SA, TWD bn, % of 2013-19 trend","Taiwan, RGDP, Activity, Primary, SA, TWD bn, % of 2013-19 trend",None,line
 "Taiwan, RGDP, Activity, Primary, SA, TWD bn, % of Poly 2013-19 trend","Taiwan, RGDP, Activity, Primary, SA, TWD bn, % of Poly 2013-19 trend",None,line
 "Taiwan, RGDP, Activity, Secondary, Construction, SA, TWD bn, % of 2013-19 trend","Taiwan, RGDP, Activity, Secondary, Construction, SA, TWD bn, % of 2013-19 trend",None,line
@@ -740,6 +852,8 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, SA, TWD bn, % of Poly 2013-19 trend","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, SA, TWD bn, % of Poly 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, SA, TWD bn, % of 2013-19 trend","Taiwan, RGDP, Expenditure, SA, TWD bn, % of 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, SA, TWD bn, % of Poly 2013-19 trend","Taiwan, RGDP, Expenditure, SA, TWD bn, % of Poly 2013-19 trend",None,line
+"Taiwan, RGDP, Income, GDP, SA, TWD bn, % of 2013-19 trend","Taiwan, RGDP, Income, GDP, SA, TWD bn, % of 2013-19 trend",None,line
+"Taiwan, RGDP, Income, GDP, SA, TWD bn, % of Poly 2013-19 trend","Taiwan, RGDP, Income, GDP, SA, TWD bn, % of Poly 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, TWD bn, % of 2013-19 trend","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, TWD bn, % of 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, TWD bn, % of Poly 2013-19 trend","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, TWD bn, % of Poly 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, TWD bn, % of 2013-19 trend","Taiwan, RGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, TWD bn, % of 2013-19 trend",None,line
@@ -760,7 +874,6 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD, % of Poly 2013-19 trend","Taiwan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD, % of Poly 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Per capita, SA, TWD, % of 2013-19 trend","Taiwan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Per capita, SA, TWD, % of 2013-19 trend",None,line
 "Taiwan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Per capita, SA, TWD, % of Poly 2013-19 trend","Taiwan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Per capita, SA, TWD, % of Poly 2013-19 trend",None,line
-"Taiwan, RGDP per hour worked","Taiwan, RGDP per hour worked",None,line
 "Taiwan, NGDP, Activity, Import Duties, USD bn","Taiwan, NGDP, Activity, Import Duties, USD bn",None,line
 "Taiwan, NGDP, Activity, Primary, Agriculture, USD bn","Taiwan, NGDP, Activity, Primary, Agriculture, USD bn",None,line
 "Taiwan, NGDP, Activity, Primary, Mining, USD bn","Taiwan, NGDP, Activity, Primary, Mining, USD bn",None,line
@@ -791,6 +904,8 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Activity, Total excluding statistical disrepancy, USD bn","Taiwan, NGDP, Activity, Total excluding statistical disrepancy, USD bn",None,line
 "Taiwan, NGDP, Activity, Total excluding taxes and statistical discrepancy, USD bn","Taiwan, NGDP, Activity, Total excluding taxes and statistical discrepancy, USD bn",None,line
 "Taiwan, NGDP, Activity, Value-Added Tax, USD bn","Taiwan, NGDP, Activity, Value-Added Tax, USD bn",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Consumption of fixed capital, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Consumption of fixed capital, USD bn",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Difference between savings and investment, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Difference between savings and investment, USD bn",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, USD bn",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, USD bn",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Construction, USD bn",None,line
@@ -823,6 +938,10 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Inventories, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Inventories, USD bn",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, USD bn",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, USD bn",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Gross domestic investment, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Gross domestic investment, USD bn",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Gross national savings, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Gross national savings, USD bn",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, National consumption expenditure, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, National consumption expenditure, USD bn",None,line
+"Taiwan, NGDP, Expenditure, Domestic Demand, Net national savings, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Net national savings, USD bn",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD bn",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, USD bn",None,line
 "Taiwan, NGDP, Expenditure, Domestic Demand, SA, USD bn","Taiwan, NGDP, Expenditure, Domestic Demand, SA, USD bn",None,line
@@ -852,75 +971,21 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, USD bn","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, USD bn",None,line
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, USD bn","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, USD bn",None,line
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, USD bn","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, USD bn",None,line
-"Taiwan, NGDP, Expenditure, Per capita, TWD.1","Taiwan, NGDP, Expenditure, Per capita, TWD.1",None,line
 "Taiwan, NGDP, Expenditure, SA, USD bn","Taiwan, NGDP, Expenditure, SA, USD bn",None,line
 "Taiwan, NGDP, Expenditure, USD bn","Taiwan, NGDP, Expenditure, USD bn",None,line
-"Taiwan, NGDP, GNI, Per capita, TWD m.1","Taiwan, NGDP, GNI, Per capita, TWD m.1",None,line
-"Taiwan, NGDP, GNI, USD bn.1","Taiwan, NGDP, GNI, USD bn.1",None,line
-"Taiwan, NGDP, Income, GNI, USD bn","Taiwan, NGDP, Income, GNI, USD bn",None,line
+"Taiwan, NGDP, Income, GDP, SA, USD bn","Taiwan, NGDP, Income, GDP, SA, USD bn",None,line
+"Taiwan, NGDP, Income, GDP, USD bn","Taiwan, NGDP, Income, GDP, USD bn",None,line
+"Taiwan, NGDP, Income, NDI, USD bn","Taiwan, NGDP, Income, NDI, USD bn",None,line
+"Taiwan, NGDP, Income, NI at factor cost, USD bn","Taiwan, NGDP, Income, NI at factor cost, USD bn",None,line
+"Taiwan, NGDP, Income, NI at market prices, USD bn","Taiwan, NGDP, Income, NI at market prices, USD bn",None,line
 "Taiwan, NGDP, Income, Net Factor Income from Abroad, USD bn","Taiwan, NGDP, Income, Net Factor Income from Abroad, USD bn",None,line
-"Taiwan, NGDP, NI, Per capita, TWD.1","Taiwan, NGDP, NI, Per capita, TWD.1",None,line
-"Taiwan, NGDP, NI, Per capita, TWD m.1","Taiwan, NGDP, NI, Per capita, TWD m.1",None,line
+"Taiwan, NGDP, Income, Net factor income from ROW, USD bn","Taiwan, NGDP, Income, Net factor income from ROW, USD bn",None,line
+"Taiwan, NGDP, Income, Net transfers from ROW, USD bn","Taiwan, NGDP, Income, Net transfers from ROW, USD bn",None,line
+"Taiwan, NGDP, Income, Staistical discepancy, USD bn","Taiwan, NGDP, Income, Staistical discepancy, USD bn",None,line
+"Taiwan, NGDP, Income, Taxes less subsidies, USD bn","Taiwan, NGDP, Income, Taxes less subsidies, USD bn",None,line
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, USD bn","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, USD bn",None,line
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, USD bn","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, USD bn",None,line
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, USD bn","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, USD bn",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD.1","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD.1",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, USD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, USD bn, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, USD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, USD bn, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, USD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, USD bn, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, USD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, USD bn, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD bn, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, SA, USD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, SA, USD bn, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, USD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, USD bn, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, USD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, USD bn, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, USD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, USD bn, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, SA, USD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, SA, USD bn, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, USD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, USD bn, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, USD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, USD bn, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, USD bn, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, USD bn, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD, 2013-19 trend.1","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD, 2013-19 trend.1",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, USD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, USD bn, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, USD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, USD bn, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, USD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, USD bn, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, USD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, USD bn, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD bn, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, SA, USD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, SA, USD bn, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, USD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, USD bn, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, USD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, USD bn, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, USD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, USD bn, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, SA, USD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, SA, USD bn, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, USD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, USD bn, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, USD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, USD bn, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, USD bn, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, USD bn, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD, Poly 2013-19 trend.1","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD, Poly 2013-19 trend.1",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, USD bn, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, USD bn, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, USD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, USD bn, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, USD bn, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, USD bn, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, USD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, USD bn, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, USD bn, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, USD bn, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, USD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, USD bn, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, USD bn, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, USD bn, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, USD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, USD bn, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD bn, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD bn, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD bn, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, SA, USD bn, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, SA, USD bn, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, SA, USD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, SA, USD bn, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, USD bn, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, USD bn, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, USD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, USD bn, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, USD bn, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, USD bn, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, USD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, USD bn, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, USD bn, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, USD bn, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, USD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, USD bn, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, SA, USD bn, % of 2013-19 trend","Taiwan, NGDP, Expenditure, SA, USD bn, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, SA, USD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, SA, USD bn, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, USD bn, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, USD bn, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, USD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, USD bn, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, USD bn, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, USD bn, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, USD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, USD bn, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, USD bn, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, USD bn, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, USD bn, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, USD bn, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD, % of 2013-19 trend.1","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD, % of 2013-19 trend.1",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD, % of Poly 2013-19 trend.1","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, SA, TWD, % of Poly 2013-19 trend.1",None,line
 "Taiwan, NGDP, Expenditure, TWD bn, 12M sum","Taiwan, NGDP, Expenditure, TWD bn, 12M sum",None,line
 "Taiwan, NGDP, Expenditure, USD bn, 12M sum","Taiwan, NGDP, Expenditure, USD bn, 12M sum",None,line
 "Taiwan, RGDP, Expenditure, HP filter, cycle","Taiwan, RGDP, Expenditure, HP filter, cycle",None,line
@@ -939,55 +1004,19 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % of GDP","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % of GDP",None,line
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % of GDP","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % of GDP",None,line
 "Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % of GDP","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % of GDP",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, % of GDP, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, % of GDP, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, % of GDP, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, % of GDP, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, % of GDP, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, % of GDP, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % of GDP, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % of GDP, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, % of GDP, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, % of GDP, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, SA, % of GDP, 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, SA, % of GDP, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, % of GDP, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, % of GDP, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, % of GDP, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, % of GDP, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, % of GDP, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, % of GDP, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, SA, % of GDP, 2013-19 trend","Taiwan, NGDP, Expenditure, SA, % of GDP, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % of GDP, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % of GDP, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % of GDP, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % of GDP, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % of GDP, 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % of GDP, 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, % of GDP, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, % of GDP, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, % of GDP, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, % of GDP, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, % of GDP, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, % of GDP, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % of GDP, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % of GDP, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, % of GDP, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, % of GDP, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, SA, % of GDP, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, SA, % of GDP, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, % of GDP, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, % of GDP, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, % of GDP, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, % of GDP, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, % of GDP, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, % of GDP, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, SA, % of GDP, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, SA, % of GDP, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % of GDP, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % of GDP, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % of GDP, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % of GDP, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % of GDP, Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % of GDP, Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, % of GDP, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, % of GDP, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, % of GDP, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Government Consumption, SA, % of GDP, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, % of GDP, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, % of GDP, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, % of GDP, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Private, SA, % of GDP, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, % of GDP, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, % of GDP, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, % of GDP, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, Gross Fixed Capital Formation, Public, Other Machinery and Equipment, SA, % of GDP, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % of GDP, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % of GDP, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % of GDP, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Gross Capital Formation, SA, % of GDP, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, % of GDP, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, % of GDP, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, % of GDP, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, Private Consumption, SA, % of GDP, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, SA, % of GDP, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, SA, % of GDP, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Domestic Demand, SA, % of GDP, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Domestic Demand, SA, % of GDP, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, % of GDP, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, % of GDP, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, % of GDP, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, SA, % of GDP, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, % of GDP, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, % of GDP, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, % of GDP, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, SA, % of GDP, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, % of GDP, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, % of GDP, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, % of GDP, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, SA, % of GDP, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, SA, % of GDP, % of 2013-19 trend","Taiwan, NGDP, Expenditure, SA, % of GDP, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, SA, % of GDP, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, SA, % of GDP, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % of GDP, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % of GDP, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % of GDP, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Imports of Goods and Services, Goods, SA, % of GDP, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % of GDP, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % of GDP, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % of GDP, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Goods, SA, % of GDP, % of Poly 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % of GDP, % of 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % of GDP, % of 2013-19 trend",None,line
-"Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % of GDP, % of Poly 2013-19 trend","Taiwan, NGDP, Expenditure, Net Exports of Goods and Services, Exports of Goods and Services, Services, SA, % of GDP, % of Poly 2013-19 trend",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, SA, TWD bn","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, SA, TWD bn",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, SA, TWD bn","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, SA, TWD bn",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, Private Final Consumption, SA, TWD bn","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, Private Final Consumption, SA, TWD bn",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, Government Final Consumption, SA, TWD bn","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, Government Final Consumption, SA, TWD bn",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, Gross Capital Formation, SA, TWD bn","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, Gross Capital Formation, SA, TWD bn",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Net exports of goods and services, SA, TWD bn","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Net exports of goods and services, SA, TWD bn",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Net exports of goods and services, Exports of Goods and Services, SA, TWD bn","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Net exports of goods and services, Exports of Goods and Services, SA, TWD bn",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Net exports of goods and services, Imports of Goods and Services, SA, TWD bn","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Net exports of goods and services, Imports of Goods and Services, SA, TWD bn",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, Private Final Consumption, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, Private Final Consumption, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, Government Final Consumption, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, Government Final Consumption, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, Gross Capital Formation, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Domestic Demand, Gross Capital Formation, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Net exports of goods and services, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Net exports of goods and services, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Net exports of goods and services, Exports of Goods and Services, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Net exports of goods and services, Exports of Goods and Services, SA, % QoQ annualised",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Net exports of goods and services, Imports of Goods and Services, SA, % QoQ annualised","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q1, Net exports of goods and services, Imports of Goods and Services, SA, % QoQ annualised",None,line

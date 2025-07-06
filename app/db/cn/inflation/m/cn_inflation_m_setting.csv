@@ -121,8 +121,6 @@ name,display_name,data_type,chart_type
 "China, CPI, Traditional Chinese Medicine, % YoY","China, CPI, Traditional Chinese Medicine, % YoY",None,line
 "China, CPI, Transport Facility, % MoM","China, CPI, Transport Facility, % MoM",None,line
 "China, CPI, Transport Facility, % YoY","China, CPI, Transport Facility, % YoY",None,line
-"China, CPI, Transport fuels, % MoM","China, CPI, Transport fuels, % MoM",None,line
-"China, CPI, Transport fuels, % YoY","China, CPI, Transport fuels, % YoY",None,line
 "China, CPI, Transport goods, % MoM","China, CPI, Transport goods, % MoM",None,line
 "China, CPI, Transport goods, % YoY","China, CPI, Transport goods, % YoY",None,line
 "China, CPI, Transport use and maintenance, % MoM","China, CPI, Transport use and maintenance, % MoM",None,line
@@ -222,7 +220,6 @@ name,display_name,data_type,chart_type
 "China, CPI, Touring, Index","China, CPI, Touring, Index",None,line
 "China, CPI, Traditional Chinese Medicine, Index","China, CPI, Traditional Chinese Medicine, Index",None,line
 "China, CPI, Transport Facility, Index","China, CPI, Transport Facility, Index",None,line
-"China, CPI, Transport fuels, Index","China, CPI, Transport fuels, Index",None,line
 "China, CPI, Transport goods, Index","China, CPI, Transport goods, Index",None,line
 "China, CPI, Transport use and maintenance, Index","China, CPI, Transport use and maintenance, Index",None,line
 "China, CPI, Transportation and Communication, Index","China, CPI, Transportation and Communication, Index",None,line
@@ -356,8 +353,6 @@ name,display_name,data_type,chart_type
 "China, CPI, Traditional Chinese Medicine, % YoY, 3mma","China, CPI, Traditional Chinese Medicine, % YoY, 3mma",None,line
 "China, CPI, Transport Facility, % MoM, 3mma","China, CPI, Transport Facility, % MoM, 3mma",None,line
 "China, CPI, Transport Facility, % YoY, 3mma","China, CPI, Transport Facility, % YoY, 3mma",None,line
-"China, CPI, Transport fuels, % MoM, 3mma","China, CPI, Transport fuels, % MoM, 3mma",None,line
-"China, CPI, Transport fuels, % YoY, 3mma","China, CPI, Transport fuels, % YoY, 3mma",None,line
 "China, CPI, Transport goods, % MoM, 3mma","China, CPI, Transport goods, % MoM, 3mma",None,line
 "China, CPI, Transport goods, % YoY, 3mma","China, CPI, Transport goods, % YoY, 3mma",None,line
 "China, CPI, Transport use and maintenance, % MoM, 3mma","China, CPI, Transport use and maintenance, % MoM, 3mma",None,line
@@ -457,7 +452,6 @@ name,display_name,data_type,chart_type
 "China, CPI, Touring, Index, 3mma","China, CPI, Touring, Index, 3mma",None,line
 "China, CPI, Traditional Chinese Medicine, Index, 3mma","China, CPI, Traditional Chinese Medicine, Index, 3mma",None,line
 "China, CPI, Transport Facility, Index, 3mma","China, CPI, Transport Facility, Index, 3mma",None,line
-"China, CPI, Transport fuels, Index, 3mma","China, CPI, Transport fuels, Index, 3mma",None,line
 "China, CPI, Transport goods, Index, 3mma","China, CPI, Transport goods, Index, 3mma",None,line
 "China, CPI, Transport use and maintenance, Index, 3mma","China, CPI, Transport use and maintenance, Index, 3mma",None,line
 "China, CPI, Transportation and Communication, Index, 3mma","China, CPI, Transportation and Communication, Index, 3mma",None,line
