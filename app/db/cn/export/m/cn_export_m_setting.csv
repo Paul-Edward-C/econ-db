@@ -74,6 +74,7 @@ name,display_name,data_type,chart_type
 "China, Area, , Exports, Country, Chad, USD bn","China, Area, , Exports, Country, Chad, USD bn",None,line
 "China, Area, , Exports, Country, Chile, USD bn","China, Area, , Exports, Country, Chile, USD bn",None,line
 "China, Area, , Exports, Country, Christmas Island, USD bn","China, Area, , Exports, Country, Christmas Island, USD bn",None,line
+"China, Area, , Exports, Country, Cocos (Keeling) Islands, USD bn","China, Area, , Exports, Country, Cocos (Keeling) Islands, USD bn",None,line
 "China, Area, , Exports, Country, Colombia, USD bn","China, Area, , Exports, Country, Colombia, USD bn",None,line
 "China, Area, , Exports, Country, Comoros, USD bn","China, Area, , Exports, Country, Comoros, USD bn",None,line
 "China, Area, , Exports, Country, Congo, USD bn","China, Area, , Exports, Country, Congo, USD bn",None,line
@@ -497,6 +498,7 @@ name,display_name,data_type,chart_type
 "China, Area, , Imports, Country, Saint Bartholomew, USD bn","China, Area, , Imports, Country, Saint Bartholomew, USD bn",None,line
 "China, Area, , Imports, Country, Saint Kitts and Nevis, USD bn","China, Area, , Imports, Country, Saint Kitts and Nevis, USD bn",None,line
 "China, Area, , Imports, Country, Saint Lucia, USD bn","China, Area, , Imports, Country, Saint Lucia, USD bn",None,line
+"China, Area, , Imports, Country, Saint Martin, USD bn","China, Area, , Imports, Country, Saint Martin, USD bn",None,line
 "China, Area, , Imports, Country, Saint Vincent and the Grenadines, USD bn","China, Area, , Imports, Country, Saint Vincent and the Grenadines, USD bn",None,line
 "China, Area, , Imports, Country, Samoa, USD bn","China, Area, , Imports, Country, Samoa, USD bn",None,line
 "China, Area, , Imports, Country, San Marino, USD bn","China, Area, , Imports, Country, San Marino, USD bn",None,line
@@ -925,6 +927,7 @@ name,display_name,data_type,chart_type
 "China, Area, , Trade balance, Country, Saint Bartholomew, USD bn","China, Area, , Trade balance, Country, Saint Bartholomew, USD bn",None,line
 "China, Area, , Trade balance, Country, Saint Kitts and Nevis, USD bn","China, Area, , Trade balance, Country, Saint Kitts and Nevis, USD bn",None,line
 "China, Area, , Trade balance, Country, Saint Lucia, USD bn","China, Area, , Trade balance, Country, Saint Lucia, USD bn",None,line
+"China, Area, , Trade balance, Country, Saint Martin, USD bn","China, Area, , Trade balance, Country, Saint Martin, USD bn",None,line
 "China, Area, , Trade balance, Country, Saint Vincent and the Grenadines, USD bn","China, Area, , Trade balance, Country, Saint Vincent and the Grenadines, USD bn",None,line
 "China, Area, , Trade balance, Country, Samoa, USD bn","China, Area, , Trade balance, Country, Samoa, USD bn",None,line
 "China, Area, , Trade balance, Country, San Marino, USD bn","China, Area, , Trade balance, Country, San Marino, USD bn",None,line
@@ -1075,6 +1078,7 @@ name,display_name,data_type,chart_type
 "China, Area, , Exports, Country, Chad, % of GDP","China, Area, , Exports, Country, Chad, % of GDP",None,line
 "China, Area, , Exports, Country, Chile, % of GDP","China, Area, , Exports, Country, Chile, % of GDP",None,line
 "China, Area, , Exports, Country, Christmas Island, % of GDP","China, Area, , Exports, Country, Christmas Island, % of GDP",None,line
+"China, Area, , Exports, Country, Cocos (Keeling) Islands, % of GDP","China, Area, , Exports, Country, Cocos (Keeling) Islands, % of GDP",None,line
 "China, Area, , Exports, Country, Colombia, % of GDP","China, Area, , Exports, Country, Colombia, % of GDP",None,line
 "China, Area, , Exports, Country, Comoros, % of GDP","China, Area, , Exports, Country, Comoros, % of GDP",None,line
 "China, Area, , Exports, Country, Congo, % of GDP","China, Area, , Exports, Country, Congo, % of GDP",None,line
@@ -1498,6 +1502,7 @@ name,display_name,data_type,chart_type
 "China, Area, , Imports, Country, Saint Bartholomew, % of GDP","China, Area, , Imports, Country, Saint Bartholomew, % of GDP",None,line
 "China, Area, , Imports, Country, Saint Kitts and Nevis, % of GDP","China, Area, , Imports, Country, Saint Kitts and Nevis, % of GDP",None,line
 "China, Area, , Imports, Country, Saint Lucia, % of GDP","China, Area, , Imports, Country, Saint Lucia, % of GDP",None,line
+"China, Area, , Imports, Country, Saint Martin, % of GDP","China, Area, , Imports, Country, Saint Martin, % of GDP",None,line
 "China, Area, , Imports, Country, Saint Vincent and the Grenadines, % of GDP","China, Area, , Imports, Country, Saint Vincent and the Grenadines, % of GDP",None,line
 "China, Area, , Imports, Country, Samoa, % of GDP","China, Area, , Imports, Country, Samoa, % of GDP",None,line
 "China, Area, , Imports, Country, San Marino, % of GDP","China, Area, , Imports, Country, San Marino, % of GDP",None,line
@@ -1874,6 +1879,7 @@ name,display_name,data_type,chart_type
 "China, Area, , Trade balance, Country, Saint Bartholomew, % of GDP","China, Area, , Trade balance, Country, Saint Bartholomew, % of GDP",None,line
 "China, Area, , Trade balance, Country, Saint Kitts and Nevis, % of GDP","China, Area, , Trade balance, Country, Saint Kitts and Nevis, % of GDP",None,line
 "China, Area, , Trade balance, Country, Saint Lucia, % of GDP","China, Area, , Trade balance, Country, Saint Lucia, % of GDP",None,line
+"China, Area, , Trade balance, Country, Saint Martin, % of GDP","China, Area, , Trade balance, Country, Saint Martin, % of GDP",None,line
 "China, Area, , Trade balance, Country, Saint Vincent and the Grenadines, % of GDP","China, Area, , Trade balance, Country, Saint Vincent and the Grenadines, % of GDP",None,line
 "China, Area, , Trade balance, Country, Samoa, % of GDP","China, Area, , Trade balance, Country, Samoa, % of GDP",None,line
 "China, Area, , Trade balance, Country, San Marino, % of GDP","China, Area, , Trade balance, Country, San Marino, % of GDP",None,line
