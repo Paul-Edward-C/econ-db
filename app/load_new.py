@@ -6,7 +6,10 @@ import os
 
 def main():
     # initialize all paths to check
-    db_paths = ["db\jp\gdp\q", "db\jp\export\m", "db\jp\inflation\m", "db\cn\gdp\q", "db\cn\export\m", "db\cn\inflation\m", "db\kr\gdp\q", "db\kr\export\m", "db\kr\inflation\m", "db\\tw\gdp\q", "db\\tw\export\m", "db\\tw\inflation\m"]
+    db_paths = ["db\jp\gdp\q", "db\jp\export\m", "db\jp\inflation\m", "db\jp\mxpi\m", "db\jp\ppi\m",
+                "db\cn\gdp\q", "db\cn\export\m", "db\cn\inflation\m", 
+                "db\kr\gdp\q", "db\kr\export\m", "db\kr\inflation\m", 
+                "db\\tw\gdp\q", "db\\tw\export\m", "db\\tw\inflation\m"]
 
     # check for each path
     for path in db_paths:

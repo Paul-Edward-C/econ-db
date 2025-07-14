@@ -71,7 +71,7 @@ class Tool:
             stylesheets=[self.setting.select_stylesheet],
         )
 
-        db_select_options = ["GDP", "Trade", "Inflation"]
+        db_select_options = ["GDP", "Trade", "Inflation", "MXPI", "PPI"]
         select_dict["db_select"] = Select(
             value=db_select_options[0],
             options=db_select_options,
@@ -396,7 +396,9 @@ class Setting:
             "NGDP": "Nominal National Accounts",
             "RGDP": "Real National Accounts",
             "Deflator": "Deflator",
-            "Inflation": "Inflation"
+            "Inflation": "Inflation",
+            "PPI": "ppi",
+            "MXPI": "mxpi",
         }
 
         self.freq_full_name_map = {"Q": "Quarterly", "M": "Monthly", "A": "Annual"}
@@ -427,6 +429,22 @@ class Setting:
                     "Monthly_setting_path": "db/jp/inflation/m/jp_inflation_m_setting.csv",
                     "Monthly_temp_setting_path": "db/jp/inflation/m/jp_inflation_m_setting_temp.csv",
                     "Pickle_path" : "db/jp/inflation/m/jp_inflation_pickle_path.pkl"
+                },
+                "MXPI": {
+                    "M": True,
+                    "Monthly_data_path": "db/jp/mxpi/m/jp_mxpi_m_raw.csv",
+                    "Monthly_raw_data_path": "db/jp/mxpi/m/jp_mxpi_m_raw.csv",
+                    "Monthly_setting_path": "db/jp/mxpi/m/jp_mxpi_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/jp/mxpi/m/jp_mxpi_m_setting_temp.csv",
+                    "Pickle_path" : "db/jp/mxpi/m/jp_mxpi_pickle_path.pkl"
+                },
+                "PPI": {
+                    "M": True,
+                    "Monthly_data_path": "db/jp/ppi/m/jp_ppi_m_raw.csv",
+                    "Monthly_raw_data_path": "db/jp/ppi/m/jp_ppi_m_raw.csv",
+                    "Monthly_setting_path": "db/jp/ppi/m/jp_ppi_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/jp/ppi/m/jp_ppi_m_setting_temp.csv",
+                    "Pickle_path" : "db/jp/ppi/m/jp_ppi_pickle_path.pkl"
                 },
             },
             "Taiwan": {
