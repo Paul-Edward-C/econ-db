@@ -44,6 +44,7 @@ from bokeh.models import (
     Range1d,
     RangeTool,
     ResetTool,
+    SaveTool,
     TableColumn,
     TablerIcon,
     TextInput,
@@ -1218,7 +1219,7 @@ main_p = figure(
     width=setting.figure_width,
     height=setting.figure_height,
     x_axis_type="datetime",
-    tools=[PanTool(), hover, ResetTool(), BoxZoomTool(), WheelZoomTool()],
+    tools=[PanTool(), hover, ResetTool(), BoxZoomTool(), WheelZoomTool(), SaveTool()],
     x_range=(data.index[x_range_start_index], data.index[x_range_end_index]),
     y_range=Range1d(),
 )

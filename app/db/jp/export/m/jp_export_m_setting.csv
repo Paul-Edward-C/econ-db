@@ -1209,6 +1209,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Middle South America, USD bn","Japan, Exports, Middle South America, USD bn",None,line
 "Japan, Exports, North America, USD bn","Japan, Exports, North America, USD bn",None,line
 "Japan, Exports, Taiwan, USD bn","Japan, Exports, Taiwan, USD bn",None,line
+"Japan, Exports, Total, USD bn","Japan, Exports, Total, USD bn",None,line
 "Japan, Exports, US, USD bn","Japan, Exports, US, USD bn",None,line
 "Japan, Exports, Vietnam, USD bn","Japan, Exports, Vietnam, USD bn",None,line
 "Japan, Exports, World, USD bn","Japan, Exports, World, USD bn",None,line
@@ -1225,6 +1226,7 @@ name,display_name,data_type,chart_type
 "Japan, Imports, Middle South America, USD bn","Japan, Imports, Middle South America, USD bn",None,line
 "Japan, Imports, North America, USD bn","Japan, Imports, North America, USD bn",None,line
 "Japan, Imports, Taiwan, USD bn","Japan, Imports, Taiwan, USD bn",None,line
+"Japan, Imports, Total, USD bn","Japan, Imports, Total, USD bn",None,line
 "Japan, Imports, US, USD bn","Japan, Imports, US, USD bn",None,line
 "Japan, Imports, Vietnam, USD bn","Japan, Imports, Vietnam, USD bn",None,line
 "Japan, Imports, World, USD bn","Japan, Imports, World, USD bn",None,line
@@ -1376,6 +1378,7 @@ name,display_name,data_type,chart_type
 "Japan, Trade balance, Middle South America, USD bn","Japan, Trade balance, Middle South America, USD bn",None,line
 "Japan, Trade balance, North America, USD bn","Japan, Trade balance, North America, USD bn",None,line
 "Japan, Trade balance, Taiwan, USD bn","Japan, Trade balance, Taiwan, USD bn",None,line
+"Japan, Trade balance, Total, USD bn","Japan, Trade balance, Total, USD bn",None,line
 "Japan, Trade balance, US, USD bn","Japan, Trade balance, US, USD bn",None,line
 "Japan, Trade balance, Vietnam, USD bn","Japan, Trade balance, Vietnam, USD bn",None,line
 "Japan, Trade balance, World, USD bn","Japan, Trade balance, World, USD bn",None,line
