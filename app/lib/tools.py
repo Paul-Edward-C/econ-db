@@ -71,7 +71,7 @@ class Tool:
             stylesheets=[self.setting.select_stylesheet],
         )
 
-        db_select_options = ["GDP", "Trade", "Inflation"]
+        db_select_options = ["GDP", "Trade", "Inflation", "MXPI", "PPI"]
         select_dict["db_select"] = Select(
             value=db_select_options[0],
             options=db_select_options,
@@ -234,6 +234,10 @@ class Tool:
         print(col_name)
         data_setting_backup_cols = ["display_name", "data_type", "chart_type"]
         #data_col_name = "_".join(col_name.split("_")[:-1])
+        print("COL NAME")
+        print(col_name)
+        print("DATA SETTING")
+        print(data_setting)
         self.data_setting_backup.loc[col_name, data_setting_backup_cols] = data_setting.loc[col_name].tolist()
         data_setting_object = self.data_setting_backup.loc[[col_name]].reset_index().loc[0].to_dict()
 
@@ -396,7 +400,10 @@ class Setting:
             "NGDP": "Nominal National Accounts",
             "RGDP": "Real National Accounts",
             "Deflator": "Deflator",
-            "Inflation": "Inflation"
+            "Inflation": "Inflation",
+            "ppi": "PPI",
+            "mxpi": "MXPI",
+            "cpi_wpi": "CPI WPI"
         }
 
         self.freq_full_name_map = {"Q": "Quarterly", "M": "Monthly", "A": "Annual"}
@@ -428,6 +435,22 @@ class Setting:
                     "Monthly_temp_setting_path": "db/jp/inflation/m/jp_inflation_m_setting_temp.csv",
                     "Pickle_path" : "db/jp/inflation/m/jp_inflation_pickle_path.pkl"
                 },
+                "MXPI": {
+                    "M": True,
+                    "Monthly_data_path": "db/jp/mxpi/m/jp_mxpi_m_raw.csv",
+                    "Monthly_raw_data_path": "db/jp/mxpi/m/jp_mxpi_m_raw.csv",
+                    "Monthly_setting_path": "db/jp/mxpi/m/jp_mxpi_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/jp/mxpi/m/jp_mxpi_m_setting_temp.csv",
+                    "Pickle_path" : "db/jp/mxpi/m/jp_mxpi_pickle_path.pkl"
+                },
+                "PPI": {
+                    "M": True,
+                    "Monthly_data_path": "db/jp/ppi/m/jp_ppi_m_raw.csv",
+                    "Monthly_raw_data_path": "db/jp/ppi/m/jp_ppi_m_raw.csv",
+                    "Monthly_setting_path": "db/jp/ppi/m/jp_ppi_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/jp/ppi/m/jp_ppi_m_setting_temp.csv",
+                    "Pickle_path" : "db/jp/ppi/m/jp_ppi_pickle_path.pkl"
+                },
             },
             "Taiwan": {
                 "GDP": {
@@ -453,6 +476,30 @@ class Setting:
                     "Monthly_setting_path": "db/tw/inflation/m/tw_inflation_m_setting.csv",
                     "Monthly_temp_setting_path": "db/tw/inflation/m/tw_inflation_m_setting_temp.csv",
                     "Pickle_path" : "db/tw/inflation/m/tw_inflation_pickle_path.pkl"
+                },
+                "MXPI": {
+                    "M": True,
+                    "Monthly_data_path": "db/tw/mxpi/m/tw_mxpi_m_raw.csv",
+                    "Monthly_raw_data_path": "db/tw/mxpi/m/tw_mxpi_m_raw.csv",
+                    "Monthly_setting_path": "db/tw/mxpi/m/tw_mxpi_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/tw/mxpi/m/tw_mxpi_m_setting_temp.csv",
+                    "Pickle_path" : "db/tw/mxpi/m/tw_mxpi_pickle_path.pkl"
+                },
+                "PPI": {
+                    "M": True,
+                    "Monthly_data_path": "db/tw/ppi/m/tw_ppi_m_raw.csv",
+                    "Monthly_raw_data_path": "db/tw/ppi/m/tw_ppi_m_raw.csv",
+                    "Monthly_setting_path": "db/tw/ppi/m/tw_ppi_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/tw/ppi/m/tw_ppi_m_setting_temp.csv",
+                    "Pickle_path" : "db/tw/ppi/m/tw_ppi_pickle_path.pkl"
+                },
+                "CPI WPI": {
+                    "M": True,
+                    "Monthly_data_path": "db/tw/cpi_wpi/m/tw_cpi_m_raw.csv",
+                    "Monthly_raw_data_path": "db/tw/cpi_wpi/m/tw_cpi_m_raw.csv",
+                    "Monthly_setting_path": "db/tw/cpi_wpi/m/tw_cpi_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/tw/cpi_wpi/m/tw_cpi_m_setting_temp.csv",
+                    "Pickle_path" : "db/tw/cpi_wpi/m/tw_cpi_pickle_path.pkl"
                 },
             },
             "Korea": {
@@ -480,6 +527,22 @@ class Setting:
                     "Monthly_temp_setting_path": "db/kr/inflation/m/kr_inflation_m_setting_temp.csv",
                     "Pickle_path" : "db/kr/inflation/m/kr_inflation_pickle_path.pkl"
                 },
+                "MXPI": {
+                    "M": True,
+                    "Monthly_data_path": "db/kr/mxpi/m/kr_mxpi_m_raw.csv",
+                    "Monthly_raw_data_path": "db/kr/mxpi/m/kr_mxpi_m_raw.csv",
+                    "Monthly_setting_path": "db/kr/mxpi/m/kr_mxpi_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/kr/mxpi/m/kr_mxpi_m_setting_temp.csv",
+                    "Pickle_path" : "db/kr/mxpi/m/kr_mxpi_pickle_path.pkl"
+                },
+                "PPI": {
+                    "M": True,
+                    "Monthly_data_path": "db/kr/ppi/m/kr_ppi_m_raw.csv",
+                    "Monthly_raw_data_path": "db/kr/ppi/m/kr_ppi_m_raw.csv",
+                    "Monthly_setting_path": "db/kr/ppi/m/kr_ppi_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/kr/ppi/m/kr_ppi_m_setting_temp.csv",
+                    "Pickle_path" : "db/kr/ppi/m/kr_ppi_pickle_path.pkl"
+                },
             },
             "China": {
                 "GDP": {
@@ -505,6 +568,14 @@ class Setting:
                     "Monthly_setting_path": "db/cn/inflation/m/cn_inflation_m_setting.csv",
                     "Monthly_temp_setting_path": "db/cn/inflation/m/cn_inflation_m_setting_temp.csv",
                     "Pickle_path" : "db/cn/inflation/m/cn_inflation_pickle_path.pkl"
+                },
+                "PPI": {
+                    "M": True,
+                    "Monthly_data_path": "db/cn/ppi/m/cn_ppi_m_raw.csv",
+                    "Monthly_raw_data_path": "db/cn/ppi/m/cn_ppi_m_raw.csv",
+                    "Monthly_setting_path": "db/cn/ppi/m/cn_ppi_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/cn/ppi/m/cn_ppi_m_setting_temp.csv",
+                    "Pickle_path" : "db/cn/ppi/m/cn_ppi_pickle_path.pkl"
                 },
             },
         }

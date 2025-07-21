@@ -6,7 +6,10 @@ import os
 
 def main():
     # initialize all paths to check
-    db_paths = ["db\jp\gdp\q", "db\jp\export\m", "db\jp\inflation\m", "db\cn\gdp\q", "db\cn\export\m", "db\cn\inflation\m", "db\kr\gdp\q", "db\kr\export\m", "db\kr\inflation\m", "db\\tw\gdp\q", "db\\tw\export\m", "db\\tw\inflation\m"]
+    db_paths = ["db\jp\gdp\q", "db\jp\export\m", "db\jp\inflation\m", "db\jp\mxpi\m", "db\jp\ppi\m",
+                "db\cn\gdp\q", "db\cn\export\m", "db\cn\inflation\m", "db\cn\ppi\m",
+                "db\kr\gdp\q", "db\kr\export\m", "db\kr\inflation\m", "db\kr\mxpi\m", "db\kr\ppi\m",
+                "db\\tw\gdp\q", "db\\tw\export\m", "db\\tw\inflation\m", "db\\tw\mxpi\m", "db\\tw\ppi\m", "db\\tw\cpi_wpi\m"]
 
     # check for each path
     for path in db_paths:
@@ -26,7 +29,8 @@ def main():
 
                 # remove old raw file
                 old_raw_path = path + "\\" + new_name
-                os.remove(old_raw_path)
+                if os.path.isfile(old_raw_path):
+                    os.remove(old_raw_path)
 
                 # rename new file to raw
                 new_raw_path_src = path + "\\" + filename
@@ -40,6 +44,7 @@ def main():
                     cat = "Trade"
                 elif cat == "inflation":
                     cat = "Inflation"
+                    
                 command = (
                     f"python onboarding_pipeline.py "
                     f"--category {cat} "
