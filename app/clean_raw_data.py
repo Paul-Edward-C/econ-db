@@ -6,6 +6,7 @@ from lib.cleaner.gdpcleaner import GdpCleaner
 from lib.cleaner.inflation_cleaner import InflationCleaner
 from lib.cleaner.mxpi_cleaner import MXPICleaner
 from lib.cleaner.ppi_cleaner import PPICleaner
+from lib.cleaner.cpi_cleaner import CPICleaner
 
 from lib.generator.number_unit_generator import Number_Unit_Generator
 from lib.tools import Setting
@@ -15,7 +16,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 
 def run_cleaning_pipeline(category_list, country_list, freq_list, to_db=False):
     setting = Setting()
-    cleaner_map = {"GDP": GdpCleaner(), "Trade": ExportCleaner(), "Inflation": InflationCleaner(), "mxpi": MXPICleaner(), "ppi": PPICleaner()}
+    cleaner_map = {"GDP": GdpCleaner(), "Trade": ExportCleaner(), "Inflation": InflationCleaner(), "mxpi": MXPICleaner(), "ppi": PPICleaner(), "cpi_wpi": CPICleaner()}
     category_list = cleaner_map.keys() if category_list is None else category_list
 
     for category in category_list:

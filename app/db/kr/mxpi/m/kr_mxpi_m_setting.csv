@@ -1,0 +1,301 @@
+name,display_name,data_type,chart_type
+"Korea, EPI, Contractual Currency basis, DRAM, Index","Korea, EPI, Contractual Currency basis, DRAM, Index",None,line
+"Korea, EPI, Contractual Currency basis, Beverages & tobacco, Index","Korea, EPI, Contractual Currency basis, Beverages & tobacco, Index",None,line
+"Korea, EPI, Contractual Currency basis, Chemicals & related products, n.e.c., Index","Korea, EPI, Contractual Currency basis, Chemicals & related products, n.e.c., Index",None,line
+"Korea, EPI, Contractual Currency basis, Commodities & transactions not classified, Index","Korea, EPI, Contractual Currency basis, Commodities & transactions not classified, Index",None,line
+"Korea, EPI, Contractual Currency basis, Energy, Index","Korea, EPI, Contractual Currency basis, Energy, Index",None,line
+"Korea, EPI, Contractual Currency basis, Excluding IT, Index","Korea, EPI, Contractual Currency basis, Excluding IT, Index",None,line
+"Korea, EPI, Contractual Currency basis, Excluding energy, Index","Korea, EPI, Contractual Currency basis, Excluding energy, Index",None,line
+"Korea, EPI, Contractual Currency basis, Excluding foods & energy, Index","Korea, EPI, Contractual Currency basis, Excluding foods & energy, Index",None,line
+"Korea, EPI, Contractual Currency basis, Excluding foods, Index","Korea, EPI, Contractual Currency basis, Excluding foods, Index",None,line
+"Korea, EPI, Contractual Currency basis, Food & live animals, Index","Korea, EPI, Contractual Currency basis, Food & live animals, Index",None,line
+"Korea, EPI, Contractual Currency basis, Foods & energy, Index","Korea, EPI, Contractual Currency basis, Foods & energy, Index",None,line
+"Korea, EPI, Contractual Currency basis, Foods, Index","Korea, EPI, Contractual Currency basis, Foods, Index",None,line
+"Korea, EPI, Contractual Currency basis, Inedible raw materials excluding fuels, Index","Korea, EPI, Contractual Currency basis, Inedible raw materials excluding fuels, Index",None,line
+"Korea, EPI, Contractual Currency basis, Informational technology, Index","Korea, EPI, Contractual Currency basis, Informational technology, Index",None,line
+"Korea, EPI, Contractual Currency basis, Life related-type, Index","Korea, EPI, Contractual Currency basis, Life related-type, Index",None,line
+"Korea, EPI, Contractual Currency basis, Machinery & transport equipment, Index","Korea, EPI, Contractual Currency basis, Machinery & transport equipment, Index",None,line
+"Korea, EPI, Contractual Currency basis, Manufactured goods classified by materials, Index","Korea, EPI, Contractual Currency basis, Manufactured goods classified by materials, Index",None,line
+"Korea, EPI, Contractual Currency basis, Mineral fuels, lubricants & related materials, Index","Korea, EPI, Contractual Currency basis, Mineral fuels, lubricants & related materials, Index",None,line
+"Korea, EPI, Contractual Currency basis, Miscellaneous manufactured articles, Index","Korea, EPI, Contractual Currency basis, Miscellaneous manufactured articles, Index",None,line
+"Korea, EPI, Contractual Currency basis, Primary materials-type, Index","Korea, EPI, Contractual Currency basis, Primary materials-type, Index",None,line
+"Korea, EPI, Contractual Currency basis, Processing assembly-type, Index","Korea, EPI, Contractual Currency basis, Processing assembly-type, Index",None,line
+"Korea, EPI, USD basis, DRAM, Index","Korea, EPI, USD basis, DRAM, Index",None,line
+"Korea, EPI, USD basis, Beverages & tobacco, Index","Korea, EPI, USD basis, Beverages & tobacco, Index",None,line
+"Korea, EPI, USD basis, Chemicals & related products, n.e.c., Index","Korea, EPI, USD basis, Chemicals & related products, n.e.c., Index",None,line
+"Korea, EPI, USD basis, Commodities & transactions not classified, Index","Korea, EPI, USD basis, Commodities & transactions not classified, Index",None,line
+"Korea, EPI, USD basis, Energy, Index","Korea, EPI, USD basis, Energy, Index",None,line
+"Korea, EPI, USD basis, Excluding IT, Index","Korea, EPI, USD basis, Excluding IT, Index",None,line
+"Korea, EPI, USD basis, Excluding energy, Index","Korea, EPI, USD basis, Excluding energy, Index",None,line
+"Korea, EPI, USD basis, Excluding foods & energy, Index","Korea, EPI, USD basis, Excluding foods & energy, Index",None,line
+"Korea, EPI, USD basis, Excluding foods, Index","Korea, EPI, USD basis, Excluding foods, Index",None,line
+"Korea, EPI, USD basis, Food & live animals, Index","Korea, EPI, USD basis, Food & live animals, Index",None,line
+"Korea, EPI, USD basis, Foods & energy, Index","Korea, EPI, USD basis, Foods & energy, Index",None,line
+"Korea, EPI, USD basis, Foods, Index","Korea, EPI, USD basis, Foods, Index",None,line
+"Korea, EPI, USD basis, Inedible raw materials excluding fuels, Index","Korea, EPI, USD basis, Inedible raw materials excluding fuels, Index",None,line
+"Korea, EPI, USD basis, Informational technology, Index","Korea, EPI, USD basis, Informational technology, Index",None,line
+"Korea, EPI, USD basis, Life related-type, Index","Korea, EPI, USD basis, Life related-type, Index",None,line
+"Korea, EPI, USD basis, Machinery & transport equipment, Index","Korea, EPI, USD basis, Machinery & transport equipment, Index",None,line
+"Korea, EPI, USD basis, Manufactured goods classified by materials, Index","Korea, EPI, USD basis, Manufactured goods classified by materials, Index",None,line
+"Korea, EPI, USD basis, Mineral fuels, lubricants & related materials, Index","Korea, EPI, USD basis, Mineral fuels, lubricants & related materials, Index",None,line
+"Korea, EPI, USD basis, Miscellaneous manufactured articles, Index","Korea, EPI, USD basis, Miscellaneous manufactured articles, Index",None,line
+"Korea, EPI, USD basis, Primary materials-type, Index","Korea, EPI, USD basis, Primary materials-type, Index",None,line
+"Korea, EPI, USD basis, Processing assembly-type, Index","Korea, EPI, USD basis, Processing assembly-type, Index",None,line
+"Korea, EPI, KRW basis, DRAM, Index","Korea, EPI, KRW basis, DRAM, Index",None,line
+"Korea, EPI, KRW basis, Beverages & tobacco, Index","Korea, EPI, KRW basis, Beverages & tobacco, Index",None,line
+"Korea, EPI, KRW basis, Chemicals & related products, n.e.c., Index","Korea, EPI, KRW basis, Chemicals & related products, n.e.c., Index",None,line
+"Korea, EPI, KRW basis, Commodities & transactions not classified, Index","Korea, EPI, KRW basis, Commodities & transactions not classified, Index",None,line
+"Korea, EPI, KRW basis, Energy, Index","Korea, EPI, KRW basis, Energy, Index",None,line
+"Korea, EPI, KRW basis, Excluding IT, Index","Korea, EPI, KRW basis, Excluding IT, Index",None,line
+"Korea, EPI, KRW basis, Excluding energy, Index","Korea, EPI, KRW basis, Excluding energy, Index",None,line
+"Korea, EPI, KRW basis, Excluding foods & energy, Index","Korea, EPI, KRW basis, Excluding foods & energy, Index",None,line
+"Korea, EPI, KRW basis, Excluding foods, Index","Korea, EPI, KRW basis, Excluding foods, Index",None,line
+"Korea, EPI, KRW basis, Food & live animals, Index","Korea, EPI, KRW basis, Food & live animals, Index",None,line
+"Korea, EPI, KRW basis, Foods & energy, Index","Korea, EPI, KRW basis, Foods & energy, Index",None,line
+"Korea, EPI, KRW basis, Foods, Index","Korea, EPI, KRW basis, Foods, Index",None,line
+"Korea, EPI, KRW basis, Inedible raw materials excluding fuels, Index","Korea, EPI, KRW basis, Inedible raw materials excluding fuels, Index",None,line
+"Korea, EPI, KRW basis, Informational technology, Index","Korea, EPI, KRW basis, Informational technology, Index",None,line
+"Korea, EPI, KRW basis, Life related-type, Index","Korea, EPI, KRW basis, Life related-type, Index",None,line
+"Korea, EPI, KRW basis, Machinery & transport equipment, Index","Korea, EPI, KRW basis, Machinery & transport equipment, Index",None,line
+"Korea, EPI, KRW basis, Manufactured goods classified by materials, Index","Korea, EPI, KRW basis, Manufactured goods classified by materials, Index",None,line
+"Korea, EPI, KRW basis, Mineral fuels, lubricants & related materials, Index","Korea, EPI, KRW basis, Mineral fuels, lubricants & related materials, Index",None,line
+"Korea, EPI, KRW basis, Miscellaneous manufactured articles, Index","Korea, EPI, KRW basis, Miscellaneous manufactured articles, Index",None,line
+"Korea, EPI, KRW basis, Primary materials-type, Index","Korea, EPI, KRW basis, Primary materials-type, Index",None,line
+"Korea, EPI, KRW basis, Processing assembly-type, Index","Korea, EPI, KRW basis, Processing assembly-type, Index",None,line
+"Korea, MPI, Contractual Currency basis, Index","Korea, MPI, Contractual Currency basis, Index",None,line
+"Korea, MPI, USD basis, Index","Korea, MPI, USD basis, Index",None,line
+"Korea, MPI, KRW basis, Index","Korea, MPI, KRW basis, Index",None,line
+"Korea, EPI, Contractual Currency basis, Index","Korea, EPI, Contractual Currency basis, Index",None,line
+"Korea, EPI, USD basis, Index","Korea, EPI, USD basis, Index",None,line
+"Korea, EPI, KRW basis, Index","Korea, EPI, KRW basis, Index",None,line
+"Korea, EPI, Contractual Currency basis, DRAM, % YoY","Korea, EPI, Contractual Currency basis, DRAM, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Beverages & tobacco, % YoY","Korea, EPI, Contractual Currency basis, Beverages & tobacco, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Chemicals & related products, n.e.c., % YoY","Korea, EPI, Contractual Currency basis, Chemicals & related products, n.e.c., % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Commodities & transactions not classified, % YoY","Korea, EPI, Contractual Currency basis, Commodities & transactions not classified, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Energy, % YoY","Korea, EPI, Contractual Currency basis, Energy, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Excluding IT, % YoY","Korea, EPI, Contractual Currency basis, Excluding IT, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Excluding energy, % YoY","Korea, EPI, Contractual Currency basis, Excluding energy, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Excluding foods & energy, % YoY","Korea, EPI, Contractual Currency basis, Excluding foods & energy, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Excluding foods, % YoY","Korea, EPI, Contractual Currency basis, Excluding foods, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Food & live animals, % YoY","Korea, EPI, Contractual Currency basis, Food & live animals, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Foods & energy, % YoY","Korea, EPI, Contractual Currency basis, Foods & energy, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Foods, % YoY","Korea, EPI, Contractual Currency basis, Foods, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Inedible raw materials excluding fuels, % YoY","Korea, EPI, Contractual Currency basis, Inedible raw materials excluding fuels, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Informational technology, % YoY","Korea, EPI, Contractual Currency basis, Informational technology, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Life related-type, % YoY","Korea, EPI, Contractual Currency basis, Life related-type, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Machinery & transport equipment, % YoY","Korea, EPI, Contractual Currency basis, Machinery & transport equipment, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Manufactured goods classified by materials, % YoY","Korea, EPI, Contractual Currency basis, Manufactured goods classified by materials, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Mineral fuels, lubricants & related materials, % YoY","Korea, EPI, Contractual Currency basis, Mineral fuels, lubricants & related materials, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Miscellaneous manufactured articles, % YoY","Korea, EPI, Contractual Currency basis, Miscellaneous manufactured articles, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Primary materials-type, % YoY","Korea, EPI, Contractual Currency basis, Primary materials-type, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, Processing assembly-type, % YoY","Korea, EPI, Contractual Currency basis, Processing assembly-type, % YoY",None,line
+"Korea, EPI, USD basis, DRAM, % YoY","Korea, EPI, USD basis, DRAM, % YoY",None,line
+"Korea, EPI, USD basis, Beverages & tobacco, % YoY","Korea, EPI, USD basis, Beverages & tobacco, % YoY",None,line
+"Korea, EPI, USD basis, Chemicals & related products, n.e.c., % YoY","Korea, EPI, USD basis, Chemicals & related products, n.e.c., % YoY",None,line
+"Korea, EPI, USD basis, Commodities & transactions not classified, % YoY","Korea, EPI, USD basis, Commodities & transactions not classified, % YoY",None,line
+"Korea, EPI, USD basis, Energy, % YoY","Korea, EPI, USD basis, Energy, % YoY",None,line
+"Korea, EPI, USD basis, Excluding IT, % YoY","Korea, EPI, USD basis, Excluding IT, % YoY",None,line
+"Korea, EPI, USD basis, Excluding energy, % YoY","Korea, EPI, USD basis, Excluding energy, % YoY",None,line
+"Korea, EPI, USD basis, Excluding foods & energy, % YoY","Korea, EPI, USD basis, Excluding foods & energy, % YoY",None,line
+"Korea, EPI, USD basis, Excluding foods, % YoY","Korea, EPI, USD basis, Excluding foods, % YoY",None,line
+"Korea, EPI, USD basis, Food & live animals, % YoY","Korea, EPI, USD basis, Food & live animals, % YoY",None,line
+"Korea, EPI, USD basis, Foods & energy, % YoY","Korea, EPI, USD basis, Foods & energy, % YoY",None,line
+"Korea, EPI, USD basis, Foods, % YoY","Korea, EPI, USD basis, Foods, % YoY",None,line
+"Korea, EPI, USD basis, Inedible raw materials excluding fuels, % YoY","Korea, EPI, USD basis, Inedible raw materials excluding fuels, % YoY",None,line
+"Korea, EPI, USD basis, Informational technology, % YoY","Korea, EPI, USD basis, Informational technology, % YoY",None,line
+"Korea, EPI, USD basis, Life related-type, % YoY","Korea, EPI, USD basis, Life related-type, % YoY",None,line
+"Korea, EPI, USD basis, Machinery & transport equipment, % YoY","Korea, EPI, USD basis, Machinery & transport equipment, % YoY",None,line
+"Korea, EPI, USD basis, Manufactured goods classified by materials, % YoY","Korea, EPI, USD basis, Manufactured goods classified by materials, % YoY",None,line
+"Korea, EPI, USD basis, Mineral fuels, lubricants & related materials, % YoY","Korea, EPI, USD basis, Mineral fuels, lubricants & related materials, % YoY",None,line
+"Korea, EPI, USD basis, Miscellaneous manufactured articles, % YoY","Korea, EPI, USD basis, Miscellaneous manufactured articles, % YoY",None,line
+"Korea, EPI, USD basis, Primary materials-type, % YoY","Korea, EPI, USD basis, Primary materials-type, % YoY",None,line
+"Korea, EPI, USD basis, Processing assembly-type, % YoY","Korea, EPI, USD basis, Processing assembly-type, % YoY",None,line
+"Korea, EPI, KRW basis, DRAM, % YoY","Korea, EPI, KRW basis, DRAM, % YoY",None,line
+"Korea, EPI, KRW basis, Beverages & tobacco, % YoY","Korea, EPI, KRW basis, Beverages & tobacco, % YoY",None,line
+"Korea, EPI, KRW basis, Chemicals & related products, n.e.c., % YoY","Korea, EPI, KRW basis, Chemicals & related products, n.e.c., % YoY",None,line
+"Korea, EPI, KRW basis, Commodities & transactions not classified, % YoY","Korea, EPI, KRW basis, Commodities & transactions not classified, % YoY",None,line
+"Korea, EPI, KRW basis, Energy, % YoY","Korea, EPI, KRW basis, Energy, % YoY",None,line
+"Korea, EPI, KRW basis, Excluding IT, % YoY","Korea, EPI, KRW basis, Excluding IT, % YoY",None,line
+"Korea, EPI, KRW basis, Excluding energy, % YoY","Korea, EPI, KRW basis, Excluding energy, % YoY",None,line
+"Korea, EPI, KRW basis, Excluding foods & energy, % YoY","Korea, EPI, KRW basis, Excluding foods & energy, % YoY",None,line
+"Korea, EPI, KRW basis, Excluding foods, % YoY","Korea, EPI, KRW basis, Excluding foods, % YoY",None,line
+"Korea, EPI, KRW basis, Food & live animals, % YoY","Korea, EPI, KRW basis, Food & live animals, % YoY",None,line
+"Korea, EPI, KRW basis, Foods & energy, % YoY","Korea, EPI, KRW basis, Foods & energy, % YoY",None,line
+"Korea, EPI, KRW basis, Foods, % YoY","Korea, EPI, KRW basis, Foods, % YoY",None,line
+"Korea, EPI, KRW basis, Inedible raw materials excluding fuels, % YoY","Korea, EPI, KRW basis, Inedible raw materials excluding fuels, % YoY",None,line
+"Korea, EPI, KRW basis, Informational technology, % YoY","Korea, EPI, KRW basis, Informational technology, % YoY",None,line
+"Korea, EPI, KRW basis, Life related-type, % YoY","Korea, EPI, KRW basis, Life related-type, % YoY",None,line
+"Korea, EPI, KRW basis, Machinery & transport equipment, % YoY","Korea, EPI, KRW basis, Machinery & transport equipment, % YoY",None,line
+"Korea, EPI, KRW basis, Manufactured goods classified by materials, % YoY","Korea, EPI, KRW basis, Manufactured goods classified by materials, % YoY",None,line
+"Korea, EPI, KRW basis, Mineral fuels, lubricants & related materials, % YoY","Korea, EPI, KRW basis, Mineral fuels, lubricants & related materials, % YoY",None,line
+"Korea, EPI, KRW basis, Miscellaneous manufactured articles, % YoY","Korea, EPI, KRW basis, Miscellaneous manufactured articles, % YoY",None,line
+"Korea, EPI, KRW basis, Primary materials-type, % YoY","Korea, EPI, KRW basis, Primary materials-type, % YoY",None,line
+"Korea, EPI, KRW basis, Processing assembly-type, % YoY","Korea, EPI, KRW basis, Processing assembly-type, % YoY",None,line
+"Korea, MPI, Contractual Currency basis, % YoY","Korea, MPI, Contractual Currency basis, % YoY",None,line
+"Korea, MPI, USD basis, % YoY","Korea, MPI, USD basis, % YoY",None,line
+"Korea, MPI, KRW basis, % YoY","Korea, MPI, KRW basis, % YoY",None,line
+"Korea, EPI, Contractual Currency basis, % YoY","Korea, EPI, Contractual Currency basis, % YoY",None,line
+"Korea, EPI, USD basis, % YoY","Korea, EPI, USD basis, % YoY",None,line
+"Korea, EPI, KRW basis, % YoY","Korea, EPI, KRW basis, % YoY",None,line
+"Korea, MPI, KRW basis, Index, SA","Korea, MPI, KRW basis, Index, SA",None,line
+"Korea, EPI, KRW basis, Index, SA","Korea, EPI, KRW basis, Index, SA",None,line
+"Korea, MPI, USD basis, Index, SA","Korea, MPI, USD basis, Index, SA",None,line
+"Korea, EPI, USD basis, Index, SA","Korea, EPI, USD basis, Index, SA",None,line
+"Korea, EPI, Contractual Currency basis, DRAM, Index, SA","Korea, EPI, Contractual Currency basis, DRAM, Index, SA",None,line
+"Korea, EPI, KRW basis, DRAM, Index, SA","Korea, EPI, KRW basis, DRAM, Index, SA",None,line
+"Korea, MPI, KRW basis, Index, SA, % MoM annualised","Korea, MPI, KRW basis, Index, SA, % MoM annualised",None,line
+"Korea, EPI, KRW basis, Index, SA, % MoM annualised","Korea, EPI, KRW basis, Index, SA, % MoM annualised",None,line
+"Korea, MPI, USD basis, Index, SA, % MoM annualised","Korea, MPI, USD basis, Index, SA, % MoM annualised",None,line
+"Korea, EPI, USD basis, Index, SA, % MoM annualised","Korea, EPI, USD basis, Index, SA, % MoM annualised",None,line
+"Korea, EPI, Contractual Currency basis, DRAM, Index, SA, % MoM annualised","Korea, EPI, Contractual Currency basis, DRAM, Index, SA, % MoM annualised",None,line
+"Korea, EPI, KRW basis, DRAM, Index, SA, % MoM annualised","Korea, EPI, KRW basis, DRAM, Index, SA, % MoM annualised",None,line
+"Korea, EPI, Contractual Currency basis, DRAM, Index, 3mma","Korea, EPI, Contractual Currency basis, DRAM, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Beverages & tobacco, Index, 3mma","Korea, EPI, Contractual Currency basis, Beverages & tobacco, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Chemicals & related products, n.e.c., Index, 3mma","Korea, EPI, Contractual Currency basis, Chemicals & related products, n.e.c., Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Commodities & transactions not classified, Index, 3mma","Korea, EPI, Contractual Currency basis, Commodities & transactions not classified, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Energy, Index, 3mma","Korea, EPI, Contractual Currency basis, Energy, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Excluding IT, Index, 3mma","Korea, EPI, Contractual Currency basis, Excluding IT, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Excluding energy, Index, 3mma","Korea, EPI, Contractual Currency basis, Excluding energy, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Excluding foods & energy, Index, 3mma","Korea, EPI, Contractual Currency basis, Excluding foods & energy, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Excluding foods, Index, 3mma","Korea, EPI, Contractual Currency basis, Excluding foods, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Food & live animals, Index, 3mma","Korea, EPI, Contractual Currency basis, Food & live animals, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Foods & energy, Index, 3mma","Korea, EPI, Contractual Currency basis, Foods & energy, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Foods, Index, 3mma","Korea, EPI, Contractual Currency basis, Foods, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Inedible raw materials excluding fuels, Index, 3mma","Korea, EPI, Contractual Currency basis, Inedible raw materials excluding fuels, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Informational technology, Index, 3mma","Korea, EPI, Contractual Currency basis, Informational technology, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Life related-type, Index, 3mma","Korea, EPI, Contractual Currency basis, Life related-type, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Machinery & transport equipment, Index, 3mma","Korea, EPI, Contractual Currency basis, Machinery & transport equipment, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Manufactured goods classified by materials, Index, 3mma","Korea, EPI, Contractual Currency basis, Manufactured goods classified by materials, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Mineral fuels, lubricants & related materials, Index, 3mma","Korea, EPI, Contractual Currency basis, Mineral fuels, lubricants & related materials, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Miscellaneous manufactured articles, Index, 3mma","Korea, EPI, Contractual Currency basis, Miscellaneous manufactured articles, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Primary materials-type, Index, 3mma","Korea, EPI, Contractual Currency basis, Primary materials-type, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Processing assembly-type, Index, 3mma","Korea, EPI, Contractual Currency basis, Processing assembly-type, Index, 3mma",None,line
+"Korea, EPI, USD basis, DRAM, Index, 3mma","Korea, EPI, USD basis, DRAM, Index, 3mma",None,line
+"Korea, EPI, USD basis, Beverages & tobacco, Index, 3mma","Korea, EPI, USD basis, Beverages & tobacco, Index, 3mma",None,line
+"Korea, EPI, USD basis, Chemicals & related products, n.e.c., Index, 3mma","Korea, EPI, USD basis, Chemicals & related products, n.e.c., Index, 3mma",None,line
+"Korea, EPI, USD basis, Commodities & transactions not classified, Index, 3mma","Korea, EPI, USD basis, Commodities & transactions not classified, Index, 3mma",None,line
+"Korea, EPI, USD basis, Energy, Index, 3mma","Korea, EPI, USD basis, Energy, Index, 3mma",None,line
+"Korea, EPI, USD basis, Excluding IT, Index, 3mma","Korea, EPI, USD basis, Excluding IT, Index, 3mma",None,line
+"Korea, EPI, USD basis, Excluding energy, Index, 3mma","Korea, EPI, USD basis, Excluding energy, Index, 3mma",None,line
+"Korea, EPI, USD basis, Excluding foods & energy, Index, 3mma","Korea, EPI, USD basis, Excluding foods & energy, Index, 3mma",None,line
+"Korea, EPI, USD basis, Excluding foods, Index, 3mma","Korea, EPI, USD basis, Excluding foods, Index, 3mma",None,line
+"Korea, EPI, USD basis, Food & live animals, Index, 3mma","Korea, EPI, USD basis, Food & live animals, Index, 3mma",None,line
+"Korea, EPI, USD basis, Foods & energy, Index, 3mma","Korea, EPI, USD basis, Foods & energy, Index, 3mma",None,line
+"Korea, EPI, USD basis, Foods, Index, 3mma","Korea, EPI, USD basis, Foods, Index, 3mma",None,line
+"Korea, EPI, USD basis, Inedible raw materials excluding fuels, Index, 3mma","Korea, EPI, USD basis, Inedible raw materials excluding fuels, Index, 3mma",None,line
+"Korea, EPI, USD basis, Informational technology, Index, 3mma","Korea, EPI, USD basis, Informational technology, Index, 3mma",None,line
+"Korea, EPI, USD basis, Life related-type, Index, 3mma","Korea, EPI, USD basis, Life related-type, Index, 3mma",None,line
+"Korea, EPI, USD basis, Machinery & transport equipment, Index, 3mma","Korea, EPI, USD basis, Machinery & transport equipment, Index, 3mma",None,line
+"Korea, EPI, USD basis, Manufactured goods classified by materials, Index, 3mma","Korea, EPI, USD basis, Manufactured goods classified by materials, Index, 3mma",None,line
+"Korea, EPI, USD basis, Mineral fuels, lubricants & related materials, Index, 3mma","Korea, EPI, USD basis, Mineral fuels, lubricants & related materials, Index, 3mma",None,line
+"Korea, EPI, USD basis, Miscellaneous manufactured articles, Index, 3mma","Korea, EPI, USD basis, Miscellaneous manufactured articles, Index, 3mma",None,line
+"Korea, EPI, USD basis, Primary materials-type, Index, 3mma","Korea, EPI, USD basis, Primary materials-type, Index, 3mma",None,line
+"Korea, EPI, USD basis, Processing assembly-type, Index, 3mma","Korea, EPI, USD basis, Processing assembly-type, Index, 3mma",None,line
+"Korea, EPI, KRW basis, DRAM, Index, 3mma","Korea, EPI, KRW basis, DRAM, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Beverages & tobacco, Index, 3mma","Korea, EPI, KRW basis, Beverages & tobacco, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Chemicals & related products, n.e.c., Index, 3mma","Korea, EPI, KRW basis, Chemicals & related products, n.e.c., Index, 3mma",None,line
+"Korea, EPI, KRW basis, Commodities & transactions not classified, Index, 3mma","Korea, EPI, KRW basis, Commodities & transactions not classified, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Energy, Index, 3mma","Korea, EPI, KRW basis, Energy, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Excluding IT, Index, 3mma","Korea, EPI, KRW basis, Excluding IT, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Excluding energy, Index, 3mma","Korea, EPI, KRW basis, Excluding energy, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Excluding foods & energy, Index, 3mma","Korea, EPI, KRW basis, Excluding foods & energy, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Excluding foods, Index, 3mma","Korea, EPI, KRW basis, Excluding foods, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Food & live animals, Index, 3mma","Korea, EPI, KRW basis, Food & live animals, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Foods & energy, Index, 3mma","Korea, EPI, KRW basis, Foods & energy, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Foods, Index, 3mma","Korea, EPI, KRW basis, Foods, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Inedible raw materials excluding fuels, Index, 3mma","Korea, EPI, KRW basis, Inedible raw materials excluding fuels, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Informational technology, Index, 3mma","Korea, EPI, KRW basis, Informational technology, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Life related-type, Index, 3mma","Korea, EPI, KRW basis, Life related-type, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Machinery & transport equipment, Index, 3mma","Korea, EPI, KRW basis, Machinery & transport equipment, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Manufactured goods classified by materials, Index, 3mma","Korea, EPI, KRW basis, Manufactured goods classified by materials, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Mineral fuels, lubricants & related materials, Index, 3mma","Korea, EPI, KRW basis, Mineral fuels, lubricants & related materials, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Miscellaneous manufactured articles, Index, 3mma","Korea, EPI, KRW basis, Miscellaneous manufactured articles, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Primary materials-type, Index, 3mma","Korea, EPI, KRW basis, Primary materials-type, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Processing assembly-type, Index, 3mma","Korea, EPI, KRW basis, Processing assembly-type, Index, 3mma",None,line
+"Korea, MPI, Contractual Currency basis, Index, 3mma","Korea, MPI, Contractual Currency basis, Index, 3mma",None,line
+"Korea, MPI, USD basis, Index, 3mma","Korea, MPI, USD basis, Index, 3mma",None,line
+"Korea, MPI, KRW basis, Index, 3mma","Korea, MPI, KRW basis, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Index, 3mma","Korea, EPI, Contractual Currency basis, Index, 3mma",None,line
+"Korea, EPI, USD basis, Index, 3mma","Korea, EPI, USD basis, Index, 3mma",None,line
+"Korea, EPI, KRW basis, Index, 3mma","Korea, EPI, KRW basis, Index, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, DRAM, % YoY, 3mma","Korea, EPI, Contractual Currency basis, DRAM, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Beverages & tobacco, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Beverages & tobacco, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Chemicals & related products, n.e.c., % YoY, 3mma","Korea, EPI, Contractual Currency basis, Chemicals & related products, n.e.c., % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Commodities & transactions not classified, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Commodities & transactions not classified, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Energy, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Energy, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Excluding IT, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Excluding IT, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Excluding energy, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Excluding energy, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Excluding foods & energy, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Excluding foods & energy, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Excluding foods, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Excluding foods, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Food & live animals, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Food & live animals, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Foods & energy, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Foods & energy, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Foods, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Foods, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Inedible raw materials excluding fuels, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Inedible raw materials excluding fuels, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Informational technology, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Informational technology, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Life related-type, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Life related-type, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Machinery & transport equipment, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Machinery & transport equipment, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Manufactured goods classified by materials, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Manufactured goods classified by materials, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Mineral fuels, lubricants & related materials, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Mineral fuels, lubricants & related materials, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Miscellaneous manufactured articles, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Miscellaneous manufactured articles, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Primary materials-type, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Primary materials-type, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, Processing assembly-type, % YoY, 3mma","Korea, EPI, Contractual Currency basis, Processing assembly-type, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, DRAM, % YoY, 3mma","Korea, EPI, USD basis, DRAM, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Beverages & tobacco, % YoY, 3mma","Korea, EPI, USD basis, Beverages & tobacco, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Chemicals & related products, n.e.c., % YoY, 3mma","Korea, EPI, USD basis, Chemicals & related products, n.e.c., % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Commodities & transactions not classified, % YoY, 3mma","Korea, EPI, USD basis, Commodities & transactions not classified, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Energy, % YoY, 3mma","Korea, EPI, USD basis, Energy, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Excluding IT, % YoY, 3mma","Korea, EPI, USD basis, Excluding IT, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Excluding energy, % YoY, 3mma","Korea, EPI, USD basis, Excluding energy, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Excluding foods & energy, % YoY, 3mma","Korea, EPI, USD basis, Excluding foods & energy, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Excluding foods, % YoY, 3mma","Korea, EPI, USD basis, Excluding foods, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Food & live animals, % YoY, 3mma","Korea, EPI, USD basis, Food & live animals, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Foods & energy, % YoY, 3mma","Korea, EPI, USD basis, Foods & energy, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Foods, % YoY, 3mma","Korea, EPI, USD basis, Foods, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Inedible raw materials excluding fuels, % YoY, 3mma","Korea, EPI, USD basis, Inedible raw materials excluding fuels, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Informational technology, % YoY, 3mma","Korea, EPI, USD basis, Informational technology, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Life related-type, % YoY, 3mma","Korea, EPI, USD basis, Life related-type, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Machinery & transport equipment, % YoY, 3mma","Korea, EPI, USD basis, Machinery & transport equipment, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Manufactured goods classified by materials, % YoY, 3mma","Korea, EPI, USD basis, Manufactured goods classified by materials, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Mineral fuels, lubricants & related materials, % YoY, 3mma","Korea, EPI, USD basis, Mineral fuels, lubricants & related materials, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Miscellaneous manufactured articles, % YoY, 3mma","Korea, EPI, USD basis, Miscellaneous manufactured articles, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Primary materials-type, % YoY, 3mma","Korea, EPI, USD basis, Primary materials-type, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, Processing assembly-type, % YoY, 3mma","Korea, EPI, USD basis, Processing assembly-type, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, DRAM, % YoY, 3mma","Korea, EPI, KRW basis, DRAM, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Beverages & tobacco, % YoY, 3mma","Korea, EPI, KRW basis, Beverages & tobacco, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Chemicals & related products, n.e.c., % YoY, 3mma","Korea, EPI, KRW basis, Chemicals & related products, n.e.c., % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Commodities & transactions not classified, % YoY, 3mma","Korea, EPI, KRW basis, Commodities & transactions not classified, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Energy, % YoY, 3mma","Korea, EPI, KRW basis, Energy, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Excluding IT, % YoY, 3mma","Korea, EPI, KRW basis, Excluding IT, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Excluding energy, % YoY, 3mma","Korea, EPI, KRW basis, Excluding energy, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Excluding foods & energy, % YoY, 3mma","Korea, EPI, KRW basis, Excluding foods & energy, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Excluding foods, % YoY, 3mma","Korea, EPI, KRW basis, Excluding foods, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Food & live animals, % YoY, 3mma","Korea, EPI, KRW basis, Food & live animals, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Foods & energy, % YoY, 3mma","Korea, EPI, KRW basis, Foods & energy, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Foods, % YoY, 3mma","Korea, EPI, KRW basis, Foods, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Inedible raw materials excluding fuels, % YoY, 3mma","Korea, EPI, KRW basis, Inedible raw materials excluding fuels, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Informational technology, % YoY, 3mma","Korea, EPI, KRW basis, Informational technology, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Life related-type, % YoY, 3mma","Korea, EPI, KRW basis, Life related-type, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Machinery & transport equipment, % YoY, 3mma","Korea, EPI, KRW basis, Machinery & transport equipment, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Manufactured goods classified by materials, % YoY, 3mma","Korea, EPI, KRW basis, Manufactured goods classified by materials, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Mineral fuels, lubricants & related materials, % YoY, 3mma","Korea, EPI, KRW basis, Mineral fuels, lubricants & related materials, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Miscellaneous manufactured articles, % YoY, 3mma","Korea, EPI, KRW basis, Miscellaneous manufactured articles, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Primary materials-type, % YoY, 3mma","Korea, EPI, KRW basis, Primary materials-type, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, Processing assembly-type, % YoY, 3mma","Korea, EPI, KRW basis, Processing assembly-type, % YoY, 3mma",None,line
+"Korea, MPI, Contractual Currency basis, % YoY, 3mma","Korea, MPI, Contractual Currency basis, % YoY, 3mma",None,line
+"Korea, MPI, USD basis, % YoY, 3mma","Korea, MPI, USD basis, % YoY, 3mma",None,line
+"Korea, MPI, KRW basis, % YoY, 3mma","Korea, MPI, KRW basis, % YoY, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, % YoY, 3mma","Korea, EPI, Contractual Currency basis, % YoY, 3mma",None,line
+"Korea, EPI, USD basis, % YoY, 3mma","Korea, EPI, USD basis, % YoY, 3mma",None,line
+"Korea, EPI, KRW basis, % YoY, 3mma","Korea, EPI, KRW basis, % YoY, 3mma",None,line
+"Korea, MPI, KRW basis, Index, SA, 3mma","Korea, MPI, KRW basis, Index, SA, 3mma",None,line
+"Korea, EPI, KRW basis, Index, SA, 3mma","Korea, EPI, KRW basis, Index, SA, 3mma",None,line
+"Korea, MPI, USD basis, Index, SA, 3mma","Korea, MPI, USD basis, Index, SA, 3mma",None,line
+"Korea, EPI, USD basis, Index, SA, 3mma","Korea, EPI, USD basis, Index, SA, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, DRAM, Index, SA, 3mma","Korea, EPI, Contractual Currency basis, DRAM, Index, SA, 3mma",None,line
+"Korea, EPI, KRW basis, DRAM, Index, SA, 3mma","Korea, EPI, KRW basis, DRAM, Index, SA, 3mma",None,line
+"Korea, MPI, KRW basis, Index, SA, % MoM annualised, 3mma","Korea, MPI, KRW basis, Index, SA, % MoM annualised, 3mma",None,line
+"Korea, EPI, KRW basis, Index, SA, % MoM annualised, 3mma","Korea, EPI, KRW basis, Index, SA, % MoM annualised, 3mma",None,line
+"Korea, MPI, USD basis, Index, SA, % MoM annualised, 3mma","Korea, MPI, USD basis, Index, SA, % MoM annualised, 3mma",None,line
+"Korea, EPI, USD basis, Index, SA, % MoM annualised, 3mma","Korea, EPI, USD basis, Index, SA, % MoM annualised, 3mma",None,line
+"Korea, EPI, Contractual Currency basis, DRAM, Index, SA, % MoM annualised, 3mma","Korea, EPI, Contractual Currency basis, DRAM, Index, SA, % MoM annualised, 3mma",None,line
+"Korea, EPI, KRW basis, DRAM, Index, SA, % MoM annualised, 3mma","Korea, EPI, KRW basis, DRAM, Index, SA, % MoM annualised, 3mma",None,line

@@ -18,6 +18,7 @@ class Data_Setting_Generator:
         print("how")
         freq_full = self.setting.freq_full_name_map[freq]
         print(freq_full)
+        print(category)
         if country == "JP":
             country = "Japan"
         if country == "CN":
@@ -28,6 +29,12 @@ class Data_Setting_Generator:
             country = "Korea"
         if category == "export":
             category = "Exports"
+        if category == "ppi":
+            category = "PPI"
+        if category == "mxpi":
+            category = "MXPI"
+        if category == "cpi_wpi":
+            category = "CPI WPI"
         print(country)
 
         raw_data_path = self.setting.structure[country][category][f"{freq_full}_data_path"]

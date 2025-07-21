@@ -187,6 +187,20 @@ def update_country_select(attrname, old, new):
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
+
+    if select_dict["country_select"].value == "China":
+        select_dict["db_select"].options = ["GDP", "Trade", "Inflation", "PPI"]
+        if select_dict["db_select"].value not in select_dict["category_select"].options:
+            select_dict["db_select"].value = select_dict["db_select"].options[0]
+    if select_dict["country_select"].value == "Taiwan":
+        select_dict["db_select"].options = ["GDP", "Trade", "Inflation","MXPI", "PPI", "CPI WPI"]
+        if select_dict["db_select"].value not in select_dict["category_select"].options:
+            select_dict["db_select"].value = select_dict["db_select"].options[0]
+    else:
+        select_dict["db_select"].options = ["GDP", "Trade", "Inflation", "MXPI", "PPI"]
+        if select_dict["db_select"].value not in select_dict["category_select"].options:
+            select_dict["db_select"].value = select_dict["db_select"].options[0]
+
     pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
@@ -662,6 +676,36 @@ def add_button_callback():
             matched_columns=matched_columns,
         )
     elif select_dict["db_select"].value == "Inflation":
+        data, data_setting = tool.read_data(
+            data_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
+                "Monthly_data_path"
+            ],
+            setting_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
+                "Monthly_setting_path"
+            ],
+            matched_columns=matched_columns,
+        )
+    elif select_dict["db_select"].value == "MXPI":
+        data, data_setting = tool.read_data(
+            data_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
+                "Monthly_data_path"
+            ],
+            setting_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
+                "Monthly_setting_path"
+            ],
+            matched_columns=matched_columns,
+        )
+    elif select_dict["db_select"].value == "PPI":
+        data, data_setting = tool.read_data(
+            data_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
+                "Monthly_data_path"
+            ],
+            setting_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
+                "Monthly_setting_path"
+            ],
+            matched_columns=matched_columns,
+        )
+    elif select_dict["db_select"].value == "CPI WPI":
         data, data_setting = tool.read_data(
             data_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
                 "Monthly_data_path"

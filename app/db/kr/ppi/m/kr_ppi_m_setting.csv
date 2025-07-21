@@ -1,0 +1,67 @@
+name,display_name,data_type,chart_type
+"Korea, PPI, Index","Korea, PPI, Index",None,line
+"Korea, PPI, Energy, Index","Korea, PPI, Energy, Index",None,line
+"Korea, PPI, Excluding IT, Index","Korea, PPI, Excluding IT, Index",None,line
+"Korea, PPI, Excluding energy, Index","Korea, PPI, Excluding energy, Index",None,line
+"Korea, PPI, Excluding foods & energy, Index","Korea, PPI, Excluding foods & energy, Index",None,line
+"Korea, PPI, Excluding foods, Index","Korea, PPI, Excluding foods, Index",None,line
+"Korea, PPI, Excluding fresh foods & energy, Index","Korea, PPI, Excluding fresh foods & energy, Index",None,line
+"Korea, PPI, Excluding fresh foods, Index","Korea, PPI, Excluding fresh foods, Index",None,line
+"Korea, PPI, Foods, Index","Korea, PPI, Foods, Index",None,line
+"Korea, PPI, Fresh foods, Index","Korea, PPI, Fresh foods, Index",None,line
+"Korea, PPI, Information technology, Index","Korea, PPI, Information technology, Index",None,line
+"Korea, PPI, % YoY","Korea, PPI, % YoY",None,line
+"Korea, PPI, Energy, % YoY","Korea, PPI, Energy, % YoY",None,line
+"Korea, PPI, Excluding IT, % YoY","Korea, PPI, Excluding IT, % YoY",None,line
+"Korea, PPI, Excluding energy, % YoY","Korea, PPI, Excluding energy, % YoY",None,line
+"Korea, PPI, Excluding foods & energy, % YoY","Korea, PPI, Excluding foods & energy, % YoY",None,line
+"Korea, PPI, Excluding foods, % YoY","Korea, PPI, Excluding foods, % YoY",None,line
+"Korea, PPI, Excluding fresh foods & energy, % YoY","Korea, PPI, Excluding fresh foods & energy, % YoY",None,line
+"Korea, PPI, Excluding fresh foods, % YoY","Korea, PPI, Excluding fresh foods, % YoY",None,line
+"Korea, PPI, Foods, % YoY","Korea, PPI, Foods, % YoY",None,line
+"Korea, PPI, Fresh foods, % YoY","Korea, PPI, Fresh foods, % YoY",None,line
+"Korea, PPI, Information technology, % YoY","Korea, PPI, Information technology, % YoY",None,line
+"Korea, PPI, Index, SA","Korea, PPI, Index, SA",None,line
+"Korea, PPI, Energy, Index, SA","Korea, PPI, Energy, Index, SA",None,line
+"Korea, PPI, Excluding IT, Index, SA","Korea, PPI, Excluding IT, Index, SA",None,line
+"Korea, PPI, Excluding energy, Index, SA","Korea, PPI, Excluding energy, Index, SA",None,line
+"Korea, PPI, Excluding foods & energy, Index, SA","Korea, PPI, Excluding foods & energy, Index, SA",None,line
+"Korea, PPI, Excluding foods, Index, SA","Korea, PPI, Excluding foods, Index, SA",None,line
+"Korea, PPI, Excluding fresh foods & energy, Index, SA","Korea, PPI, Excluding fresh foods & energy, Index, SA",None,line
+"Korea, PPI, Excluding fresh foods, Index, SA","Korea, PPI, Excluding fresh foods, Index, SA",None,line
+"Korea, PPI, Foods, Index, SA","Korea, PPI, Foods, Index, SA",None,line
+"Korea, PPI, Fresh foods, Index, SA","Korea, PPI, Fresh foods, Index, SA",None,line
+"Korea, PPI, Information technology, Index, SA","Korea, PPI, Information technology, Index, SA",None,line
+"Korea, PPI, Index, 3mma","Korea, PPI, Index, 3mma",None,line
+"Korea, PPI, Energy, Index, 3mma","Korea, PPI, Energy, Index, 3mma",None,line
+"Korea, PPI, Excluding IT, Index, 3mma","Korea, PPI, Excluding IT, Index, 3mma",None,line
+"Korea, PPI, Excluding energy, Index, 3mma","Korea, PPI, Excluding energy, Index, 3mma",None,line
+"Korea, PPI, Excluding foods & energy, Index, 3mma","Korea, PPI, Excluding foods & energy, Index, 3mma",None,line
+"Korea, PPI, Excluding foods, Index, 3mma","Korea, PPI, Excluding foods, Index, 3mma",None,line
+"Korea, PPI, Excluding fresh foods & energy, Index, 3mma","Korea, PPI, Excluding fresh foods & energy, Index, 3mma",None,line
+"Korea, PPI, Excluding fresh foods, Index, 3mma","Korea, PPI, Excluding fresh foods, Index, 3mma",None,line
+"Korea, PPI, Foods, Index, 3mma","Korea, PPI, Foods, Index, 3mma",None,line
+"Korea, PPI, Fresh foods, Index, 3mma","Korea, PPI, Fresh foods, Index, 3mma",None,line
+"Korea, PPI, Information technology, Index, 3mma","Korea, PPI, Information technology, Index, 3mma",None,line
+"Korea, PPI, % YoY, 3mma","Korea, PPI, % YoY, 3mma",None,line
+"Korea, PPI, Energy, % YoY, 3mma","Korea, PPI, Energy, % YoY, 3mma",None,line
+"Korea, PPI, Excluding IT, % YoY, 3mma","Korea, PPI, Excluding IT, % YoY, 3mma",None,line
+"Korea, PPI, Excluding energy, % YoY, 3mma","Korea, PPI, Excluding energy, % YoY, 3mma",None,line
+"Korea, PPI, Excluding foods & energy, % YoY, 3mma","Korea, PPI, Excluding foods & energy, % YoY, 3mma",None,line
+"Korea, PPI, Excluding foods, % YoY, 3mma","Korea, PPI, Excluding foods, % YoY, 3mma",None,line
+"Korea, PPI, Excluding fresh foods & energy, % YoY, 3mma","Korea, PPI, Excluding fresh foods & energy, % YoY, 3mma",None,line
+"Korea, PPI, Excluding fresh foods, % YoY, 3mma","Korea, PPI, Excluding fresh foods, % YoY, 3mma",None,line
+"Korea, PPI, Foods, % YoY, 3mma","Korea, PPI, Foods, % YoY, 3mma",None,line
+"Korea, PPI, Fresh foods, % YoY, 3mma","Korea, PPI, Fresh foods, % YoY, 3mma",None,line
+"Korea, PPI, Information technology, % YoY, 3mma","Korea, PPI, Information technology, % YoY, 3mma",None,line
+"Korea, PPI, Index, SA, 3mma","Korea, PPI, Index, SA, 3mma",None,line
+"Korea, PPI, Energy, Index, SA, 3mma","Korea, PPI, Energy, Index, SA, 3mma",None,line
+"Korea, PPI, Excluding IT, Index, SA, 3mma","Korea, PPI, Excluding IT, Index, SA, 3mma",None,line
+"Korea, PPI, Excluding energy, Index, SA, 3mma","Korea, PPI, Excluding energy, Index, SA, 3mma",None,line
+"Korea, PPI, Excluding foods & energy, Index, SA, 3mma","Korea, PPI, Excluding foods & energy, Index, SA, 3mma",None,line
+"Korea, PPI, Excluding foods, Index, SA, 3mma","Korea, PPI, Excluding foods, Index, SA, 3mma",None,line
+"Korea, PPI, Excluding fresh foods & energy, Index, SA, 3mma","Korea, PPI, Excluding fresh foods & energy, Index, SA, 3mma",None,line
+"Korea, PPI, Excluding fresh foods, Index, SA, 3mma","Korea, PPI, Excluding fresh foods, Index, SA, 3mma",None,line
+"Korea, PPI, Foods, Index, SA, 3mma","Korea, PPI, Foods, Index, SA, 3mma",None,line
+"Korea, PPI, Fresh foods, Index, SA, 3mma","Korea, PPI, Fresh foods, Index, SA, 3mma",None,line
+"Korea, PPI, Information technology, Index, SA, 3mma","Korea, PPI, Information technology, Index, SA, 3mma",None,line

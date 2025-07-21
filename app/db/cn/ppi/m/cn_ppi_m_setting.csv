@@ -1,0 +1,557 @@
+name,display_name,data_type,chart_type
+"China, PPI, % MoM","China, PPI, % MoM",None,line
+"China, PPI, % YoY","China, PPI, % YoY",None,line
+"China, PPI, Agriculture, % MoM","China, PPI, Agriculture, % MoM",None,line
+"China, PPI, Agriculture, % YoY","China, PPI, Agriculture, % YoY",None,line
+"China, PPI, Consumption goods, % MoM","China, PPI, Consumption goods, % MoM",None,line
+"China, PPI, Consumption goods, % YoY","China, PPI, Consumption goods, % YoY",None,line
+"China, PPI, Consumption goods, Articles for daily use, % MoM","China, PPI, Consumption goods, Articles for daily use, % MoM",None,line
+"China, PPI, Consumption goods, Articles for daily use, % YoY","China, PPI, Consumption goods, Articles for daily use, % YoY",None,line
+"China, PPI, Consumption goods, Clothing, % MoM","China, PPI, Consumption goods, Clothing, % MoM",None,line
+"China, PPI, Consumption goods, Clothing, % YoY","China, PPI, Consumption goods, Clothing, % YoY",None,line
+"China, PPI, Consumption goods, Consumer durables, % MoM","China, PPI, Consumption goods, Consumer durables, % MoM",None,line
+"China, PPI, Consumption goods, Consumer durables, % YoY","China, PPI, Consumption goods, Consumer durables, % YoY",None,line
+"China, PPI, Consumption goods, Food, % MoM","China, PPI, Consumption goods, Food, % MoM",None,line
+"China, PPI, Consumption goods, Food, % YoY","China, PPI, Consumption goods, Food, % YoY",None,line
+"China, PPI, Consumption goods, consumer durables, % MoM","China, PPI, Consumption goods, consumer durables, % MoM",None,line
+"China, PPI, Consumption goods, consumer durables, % YoY","China, PPI, Consumption goods, consumer durables, % YoY",None,line
+"China, PPI, Industrial goods, % MoM","China, PPI, Industrial goods, % MoM",None,line
+"China, PPI, Industrial goods, % YoY","China, PPI, Industrial goods, % YoY",None,line
+"China, PPI, Industrial goods, Processing, % MoM","China, PPI, Industrial goods, Processing, % MoM",None,line
+"China, PPI, Industrial goods, Processing, % YoY","China, PPI, Industrial goods, Processing, % YoY",None,line
+"China, PPI, Industrial goods, Quarrying and mining, % MoM","China, PPI, Industrial goods, Quarrying and mining, % MoM",None,line
+"China, PPI, Industrial goods, Quarrying and mining, % YoY","China, PPI, Industrial goods, Quarrying and mining, % YoY",None,line
+"China, PPI, Industrial goods, Raw materials, % MoM","China, PPI, Industrial goods, Raw materials, % MoM",None,line
+"China, PPI, Industrial goods, Raw materials, % YoY","China, PPI, Industrial goods, Raw materials, % YoY",None,line
+"China, PPI, Manufacture of Articles for Culture, Education and Sport Activities, % YoY","China, PPI, Manufacture of Articles for Culture, Education and Sport Activities, % YoY",None,line
+"China, PPI, Manufacture of Articles for Culture, Education, Arts and Crafts, Sport and Entertainment Activities, % MoM","China, PPI, Manufacture of Articles for Culture, Education, Arts and Crafts, Sport and Entertainment Activities, % MoM",None,line
+"China, PPI, Manufacture of Articles for Culture, Education, Arts and Crafts, Sport and Entertainment Activities, % YoY","China, PPI, Manufacture of Articles for Culture, Education, Arts and Crafts, Sport and Entertainment Activities, % YoY",None,line
+"China, PPI, Manufacture of Artwork and Other Manufacturing, % YoY","China, PPI, Manufacture of Artwork and Other Manufacturing, % YoY",None,line
+"China, PPI, Manufacture of Beverages, % YoY","China, PPI, Manufacture of Beverages, % YoY",None,line
+"China, PPI, Manufacture of Electrical Machinery and Apparatus, % MoM","China, PPI, Manufacture of Electrical Machinery and Apparatus, % MoM",None,line
+"China, PPI, Manufacture of Electrical Machinery and Apparatus, % YoY","China, PPI, Manufacture of Electrical Machinery and Apparatus, % YoY",None,line
+"China, PPI, Manufacture of Furniture, % MoM","China, PPI, Manufacture of Furniture, % MoM",None,line
+"China, PPI, Manufacture of Furniture, % YoY","China, PPI, Manufacture of Furniture, % YoY",None,line
+"China, PPI, Manufacture of Leather, Fur, Feather and Related Products and Footwear, % MoM","China, PPI, Manufacture of Leather, Fur, Feather and Related Products and Footwear, % MoM",None,line
+"China, PPI, Manufacture of Leather, Fur, Feather and Related Products and Footwear, % YoY","China, PPI, Manufacture of Leather, Fur, Feather and Related Products and Footwear, % YoY",None,line
+"China, PPI, Manufacture of Leather, Fur, Feather and Related Products, % YoY","China, PPI, Manufacture of Leather, Fur, Feather and Related Products, % YoY",None,line
+"China, PPI, Manufacture of Measuring Instruments and Machinery for Cultural Activity and Office Work, % YoY","China, PPI, Manufacture of Measuring Instruments and Machinery for Cultural Activity and Office Work, % YoY",None,line
+"China, PPI, Manufacture of Measuring Instruments and Machinery, % MoM","China, PPI, Manufacture of Measuring Instruments and Machinery, % MoM",None,line
+"China, PPI, Manufacture of Measuring Instruments and Machinery, % YoY","China, PPI, Manufacture of Measuring Instruments and Machinery, % YoY",None,line
+"China, PPI, Manufacture of Plastics, % YoY","China, PPI, Manufacture of Plastics, % YoY",None,line
+"China, PPI, Manufacture of Rubber, % YoY","China, PPI, Manufacture of Rubber, % YoY",None,line
+"China, PPI, Manufacture of Special Purpose Machinery, % MoM","China, PPI, Manufacture of Special Purpose Machinery, % MoM",None,line
+"China, PPI, Manufacture of Special Purpose Machinery, % YoY","China, PPI, Manufacture of Special Purpose Machinery, % YoY",None,line
+"China, PPI, Manufacture of Transport Equipment, % YoY","China, PPI, Manufacture of Transport Equipment, % YoY",None,line
+"China, PPI, Manufactured Goods by Sector, Manufacture of Communication Equipment, Computers and Other Electronic Equipment, % YoY","China, PPI, Manufactured Goods by Sector, Manufacture of Communication Equipment, Computers and Other Electronic Equipment, % YoY",None,line
+"China, PPI, Manufactured Goods by Sector, other Mining, % YoY","China, PPI, Manufactured Goods by Sector, other Mining, % YoY",None,line
+"China, PPI, Manufacturing, Apparel and footwear, % MoM","China, PPI, Manufacturing, Apparel and footwear, % MoM",None,line
+"China, PPI, Manufacturing, Apparel and footwear, % YoY","China, PPI, Manufacturing, Apparel and footwear, % YoY",None,line
+"China, PPI, Manufacturing, Autos, % MoM","China, PPI, Manufacturing, Autos, % MoM",None,line
+"China, PPI, Manufacturing, Autos, % YoY","China, PPI, Manufacturing, Autos, % YoY",None,line
+"China, PPI, Manufacturing, Beverage, % MoM","China, PPI, Manufacturing, Beverage, % MoM",None,line
+"China, PPI, Manufacturing, Beverage, % YoY","China, PPI, Manufacturing, Beverage, % YoY",None,line
+"China, PPI, Manufacturing, Chemical fibres, % MoM","China, PPI, Manufacturing, Chemical fibres, % MoM",None,line
+"China, PPI, Manufacturing, Chemical fibres, % YoY","China, PPI, Manufacturing, Chemical fibres, % YoY",None,line
+"China, PPI, Manufacturing, Ferrous metals, % MoM","China, PPI, Manufacturing, Ferrous metals, % MoM",None,line
+"China, PPI, Manufacturing, Ferrous metals, % YoY","China, PPI, Manufacturing, Ferrous metals, % YoY",None,line
+"China, PPI, Manufacturing, Food, % MoM","China, PPI, Manufacturing, Food, % MoM",None,line
+"China, PPI, Manufacturing, Food, % YoY","China, PPI, Manufacturing, Food, % YoY",None,line
+"China, PPI, Manufacturing, General purpose machinery, % MoM","China, PPI, Manufacturing, General purpose machinery, % MoM",None,line
+"China, PPI, Manufacturing, General purpose machinery, % YoY","China, PPI, Manufacturing, General purpose machinery, % YoY",None,line
+"China, PPI, Manufacturing, ICT, % MoM","China, PPI, Manufacturing, ICT, % MoM",None,line
+"China, PPI, Manufacturing, ICT, % YoY","China, PPI, Manufacturing, ICT, % YoY",None,line
+"China, PPI, Manufacturing, Medicines, % MoM","China, PPI, Manufacturing, Medicines, % MoM",None,line
+"China, PPI, Manufacturing, Medicines, % YoY","China, PPI, Manufacturing, Medicines, % YoY",None,line
+"China, PPI, Manufacturing, Metal products, % MoM","China, PPI, Manufacturing, Metal products, % MoM",None,line
+"China, PPI, Manufacturing, Metal products, % YoY","China, PPI, Manufacturing, Metal products, % YoY",None,line
+"China, PPI, Manufacturing, Nonferrous metals, % MoM","China, PPI, Manufacturing, Nonferrous metals, % MoM",None,line
+"China, PPI, Manufacturing, Nonferrous metals, % YoY","China, PPI, Manufacturing, Nonferrous metals, % YoY",None,line
+"China, PPI, Manufacturing, Nonmetallic minerals, % MoM","China, PPI, Manufacturing, Nonmetallic minerals, % MoM",None,line
+"China, PPI, Manufacturing, Nonmetallic minerals, % YoY","China, PPI, Manufacturing, Nonmetallic minerals, % YoY",None,line
+"China, PPI, Manufacturing, Paper, % MoM","China, PPI, Manufacturing, Paper, % MoM",None,line
+"China, PPI, Manufacturing, Paper, % YoY","China, PPI, Manufacturing, Paper, % YoY",None,line
+"China, PPI, Manufacturing, Petroleum, % MoM","China, PPI, Manufacturing, Petroleum, % MoM",None,line
+"China, PPI, Manufacturing, Petroleum, % YoY","China, PPI, Manufacturing, Petroleum, % YoY",None,line
+"China, PPI, Manufacturing, Plastics, % MoM","China, PPI, Manufacturing, Plastics, % MoM",None,line
+"China, PPI, Manufacturing, Plastics, % YoY","China, PPI, Manufacturing, Plastics, % YoY",None,line
+"China, PPI, Manufacturing, Printing and media, % MoM","China, PPI, Manufacturing, Printing and media, % MoM",None,line
+"China, PPI, Manufacturing, Printing and media, % YoY","China, PPI, Manufacturing, Printing and media, % YoY",None,line
+"China, PPI, Manufacturing, Raw chemicals, % MoM","China, PPI, Manufacturing, Raw chemicals, % MoM",None,line
+"China, PPI, Manufacturing, Raw chemicals, % YoY","China, PPI, Manufacturing, Raw chemicals, % YoY",None,line
+"China, PPI, Manufacturing, Textile Wearing Apparel, Footware, and Caps, % YoY","China, PPI, Manufacturing, Textile Wearing Apparel, Footware, and Caps, % YoY",None,line
+"China, PPI, Manufacturing, Textile, % MoM","China, PPI, Manufacturing, Textile, % MoM",None,line
+"China, PPI, Manufacturing, Textile, % YoY","China, PPI, Manufacturing, Textile, % YoY",None,line
+"China, PPI, Manufacturing, Timber, % MoM","China, PPI, Manufacturing, Timber, % MoM",None,line
+"China, PPI, Manufacturing, Timber, % YoY","China, PPI, Manufacturing, Timber, % YoY",None,line
+"China, PPI, Manufacturing, Tobacco, % MoM","China, PPI, Manufacturing, Tobacco, % MoM",None,line
+"China, PPI, Manufacturing, Tobacco, % YoY","China, PPI, Manufacturing, Tobacco, % YoY",None,line
+"China, PPI, Manufacturing, Transport equipment, % MoM","China, PPI, Manufacturing, Transport equipment, % MoM",None,line
+"China, PPI, Manufacturing, Transport equipment, % YoY","China, PPI, Manufacturing, Transport equipment, % YoY",None,line
+"China, PPI, Mining and Processing of Nonmetal Ores, % YoY","China, PPI, Mining and Processing of Nonmetal Ores, % YoY",None,line
+"China, PPI, Mining and Support Activities, % MoM","China, PPI, Mining and Support Activities, % MoM",None,line
+"China, PPI, Mining and Support Activities, % YoY","China, PPI, Mining and Support Activities, % YoY",None,line
+"China, PPI, Mining of Other Ores, % YoY","China, PPI, Mining of Other Ores, % YoY",None,line
+"China, PPI, Mining, Coal, % MoM","China, PPI, Mining, Coal, % MoM",None,line
+"China, PPI, Mining, Coal, % YoY","China, PPI, Mining, Coal, % YoY",None,line
+"China, PPI, Mining, Ferrous ores, % MoM","China, PPI, Mining, Ferrous ores, % MoM",None,line
+"China, PPI, Mining, Ferrous ores, % YoY","China, PPI, Mining, Ferrous ores, % YoY",None,line
+"China, PPI, Mining, Gas, % MoM","China, PPI, Mining, Gas, % MoM",None,line
+"China, PPI, Mining, Gas, % YoY","China, PPI, Mining, Gas, % YoY",None,line
+"China, PPI, Mining, Nonferrous ores, % MoM","China, PPI, Mining, Nonferrous ores, % MoM",None,line
+"China, PPI, Mining, Nonferrous ores, % YoY","China, PPI, Mining, Nonferrous ores, % YoY",None,line
+"China, PPI, Mining, Nonmetal ores, % MoM","China, PPI, Mining, Nonmetal ores, % MoM",None,line
+"China, PPI, Mining, Nonmetal ores, % YoY","China, PPI, Mining, Nonmetal ores, % YoY",None,line
+"China, PPI, Other Manufacture, % MoM","China, PPI, Other Manufacture, % MoM",None,line
+"China, PPI, Other Manufacture, % YoY","China, PPI, Other Manufacture, % YoY",None,line
+"China, PPI, Printing, Reproduction of Recording Media, % YoY","China, PPI, Printing, Reproduction of Recording Media, % YoY",None,line
+"China, PPI, Processing of Foodstuff, % YoY","China, PPI, Processing of Foodstuff, % YoY",None,line
+"China, PPI, Purchasing price, % MoM","China, PPI, Purchasing price, % MoM",None,line
+"China, PPI, Purchasing price, % YoY","China, PPI, Purchasing price, % YoY",None,line
+"China, PPI, Purchasing price, Agricultural, % MoM","China, PPI, Purchasing price, Agricultural, % MoM",None,line
+"China, PPI, Purchasing price, Agricultural, % YoY","China, PPI, Purchasing price, Agricultural, % YoY",None,line
+"China, PPI, Purchasing price, Building materials, % MoM","China, PPI, Purchasing price, Building materials, % MoM",None,line
+"China, PPI, Purchasing price, Building materials, % YoY","China, PPI, Purchasing price, Building materials, % YoY",None,line
+"China, PPI, Purchasing price, Ferrous metals, % MoM","China, PPI, Purchasing price, Ferrous metals, % MoM",None,line
+"China, PPI, Purchasing price, Ferrous metals, % YoY","China, PPI, Purchasing price, Ferrous metals, % YoY",None,line
+"China, PPI, Purchasing price, Fuel and power, % MoM","China, PPI, Purchasing price, Fuel and power, % MoM",None,line
+"China, PPI, Purchasing price, Fuel and power, % YoY","China, PPI, Purchasing price, Fuel and power, % YoY",None,line
+"China, PPI, Purchasing price, Nonferrous metals, % MoM","China, PPI, Purchasing price, Nonferrous metals, % MoM",None,line
+"China, PPI, Purchasing price, Nonferrous metals, % YoY","China, PPI, Purchasing price, Nonferrous metals, % YoY",None,line
+"China, PPI, Purchasing price, Other, % MoM","China, PPI, Purchasing price, Other, % MoM",None,line
+"China, PPI, Purchasing price, Other, % YoY","China, PPI, Purchasing price, Other, % YoY",None,line
+"China, PPI, Purchasing price, Raw chemicals, % MoM","China, PPI, Purchasing price, Raw chemicals, % MoM",None,line
+"China, PPI, Purchasing price, Raw chemicals, % YoY","China, PPI, Purchasing price, Raw chemicals, % YoY",None,line
+"China, PPI, Purchasing price, Textiles, % MoM","China, PPI, Purchasing price, Textiles, % MoM",None,line
+"China, PPI, Purchasing price, Textiles, % YoY","China, PPI, Purchasing price, Textiles, % YoY",None,line
+"China, PPI, Purchasing price, Timber and paper, % MoM","China, PPI, Purchasing price, Timber and paper, % MoM",None,line
+"China, PPI, Purchasing price, Timber and paper, % YoY","China, PPI, Purchasing price, Timber and paper, % YoY",None,line
+"China, PPI, Recycling and Disposal of Waste, % YoY","China, PPI, Recycling and Disposal of Waste, % YoY",None,line
+"China, PPI, Repair Service of Metal Products, Machinery and Equipment, % MoM","China, PPI, Repair Service of Metal Products, Machinery and Equipment, % MoM",None,line
+"China, PPI, Repair Service of Metal Products, Machinery and Equipment, % YoY","China, PPI, Repair Service of Metal Products, Machinery and Equipment, % YoY",None,line
+"China, PPI, Support Activities for Mining, % YoY","China, PPI, Support Activities for Mining, % YoY",None,line
+"China, PPI, Utilities, Electric, % MoM","China, PPI, Utilities, Electric, % MoM",None,line
+"China, PPI, Utilities, Electric, % YoY","China, PPI, Utilities, Electric, % YoY",None,line
+"China, PPI, Utilities, Gas, % MoM","China, PPI, Utilities, Gas, % MoM",None,line
+"China, PPI, Utilities, Gas, % YoY","China, PPI, Utilities, Gas, % YoY",None,line
+"China, PPI, Utilities, Water, % MoM","China, PPI, Utilities, Water, % MoM",None,line
+"China, PPI, Utilities, Water, % YoY","China, PPI, Utilities, Water, % YoY",None,line
+"China, PPI, Utilization of Waste Resources, % MoM","China, PPI, Utilization of Waste Resources, % MoM",None,line
+"China, PPI, Utilization of Waste Resources, % YoY","China, PPI, Utilization of Waste Resources, % YoY",None,line
+"China, PPI, Index","China, PPI, Index",None,line
+"China, PPI, Agriculture, Index","China, PPI, Agriculture, Index",None,line
+"China, PPI, Consumption goods, Index","China, PPI, Consumption goods, Index",None,line
+"China, PPI, Consumption goods, Articles for daily use, Index","China, PPI, Consumption goods, Articles for daily use, Index",None,line
+"China, PPI, Consumption goods, Clothing, Index","China, PPI, Consumption goods, Clothing, Index",None,line
+"China, PPI, Consumption goods, Consumer durables, Index","China, PPI, Consumption goods, Consumer durables, Index",None,line
+"China, PPI, Consumption goods, Food, Index","China, PPI, Consumption goods, Food, Index",None,line
+"China, PPI, Consumption goods, consumer durables, Index","China, PPI, Consumption goods, consumer durables, Index",None,line
+"China, PPI, Industrial goods, Index","China, PPI, Industrial goods, Index",None,line
+"China, PPI, Industrial goods, Processing, Index","China, PPI, Industrial goods, Processing, Index",None,line
+"China, PPI, Industrial goods, Quarrying and mining, Index","China, PPI, Industrial goods, Quarrying and mining, Index",None,line
+"China, PPI, Industrial goods, Raw materials, Index","China, PPI, Industrial goods, Raw materials, Index",None,line
+"China, PPI, Manufacture of Articles for Culture, Education, Arts and Crafts, Sport and Entertainment Activities, Index","China, PPI, Manufacture of Articles for Culture, Education, Arts and Crafts, Sport and Entertainment Activities, Index",None,line
+"China, PPI, Manufacture of Electrical Machinery and Apparatus, Index","China, PPI, Manufacture of Electrical Machinery and Apparatus, Index",None,line
+"China, PPI, Manufacture of Furniture, Index","China, PPI, Manufacture of Furniture, Index",None,line
+"China, PPI, Manufacture of Leather, Fur, Feather and Related Products and Footwear, Index","China, PPI, Manufacture of Leather, Fur, Feather and Related Products and Footwear, Index",None,line
+"China, PPI, Manufacture of Measuring Instruments and Machinery, Index","China, PPI, Manufacture of Measuring Instruments and Machinery, Index",None,line
+"China, PPI, Manufacture of Special Purpose Machinery, Index","China, PPI, Manufacture of Special Purpose Machinery, Index",None,line
+"China, PPI, Manufacturing, Apparel and footwear, Index","China, PPI, Manufacturing, Apparel and footwear, Index",None,line
+"China, PPI, Manufacturing, Autos, Index","China, PPI, Manufacturing, Autos, Index",None,line
+"China, PPI, Manufacturing, Beverage, Index","China, PPI, Manufacturing, Beverage, Index",None,line
+"China, PPI, Manufacturing, Chemical fibres, Index","China, PPI, Manufacturing, Chemical fibres, Index",None,line
+"China, PPI, Manufacturing, Ferrous metals, Index","China, PPI, Manufacturing, Ferrous metals, Index",None,line
+"China, PPI, Manufacturing, Food, Index","China, PPI, Manufacturing, Food, Index",None,line
+"China, PPI, Manufacturing, General purpose machinery, Index","China, PPI, Manufacturing, General purpose machinery, Index",None,line
+"China, PPI, Manufacturing, ICT, Index","China, PPI, Manufacturing, ICT, Index",None,line
+"China, PPI, Manufacturing, Medicines, Index","China, PPI, Manufacturing, Medicines, Index",None,line
+"China, PPI, Manufacturing, Metal products, Index","China, PPI, Manufacturing, Metal products, Index",None,line
+"China, PPI, Manufacturing, Nonferrous metals, Index","China, PPI, Manufacturing, Nonferrous metals, Index",None,line
+"China, PPI, Manufacturing, Nonmetallic minerals, Index","China, PPI, Manufacturing, Nonmetallic minerals, Index",None,line
+"China, PPI, Manufacturing, Paper, Index","China, PPI, Manufacturing, Paper, Index",None,line
+"China, PPI, Manufacturing, Petroleum, Index","China, PPI, Manufacturing, Petroleum, Index",None,line
+"China, PPI, Manufacturing, Plastics, Index","China, PPI, Manufacturing, Plastics, Index",None,line
+"China, PPI, Manufacturing, Printing and media, Index","China, PPI, Manufacturing, Printing and media, Index",None,line
+"China, PPI, Manufacturing, Raw chemicals, Index","China, PPI, Manufacturing, Raw chemicals, Index",None,line
+"China, PPI, Manufacturing, Textile, Index","China, PPI, Manufacturing, Textile, Index",None,line
+"China, PPI, Manufacturing, Timber, Index","China, PPI, Manufacturing, Timber, Index",None,line
+"China, PPI, Manufacturing, Tobacco, Index","China, PPI, Manufacturing, Tobacco, Index",None,line
+"China, PPI, Manufacturing, Transport equipment, Index","China, PPI, Manufacturing, Transport equipment, Index",None,line
+"China, PPI, Mining and Support Activities, Index","China, PPI, Mining and Support Activities, Index",None,line
+"China, PPI, Mining, Coal, Index","China, PPI, Mining, Coal, Index",None,line
+"China, PPI, Mining, Ferrous ores, Index","China, PPI, Mining, Ferrous ores, Index",None,line
+"China, PPI, Mining, Gas, Index","China, PPI, Mining, Gas, Index",None,line
+"China, PPI, Mining, Nonferrous ores, Index","China, PPI, Mining, Nonferrous ores, Index",None,line
+"China, PPI, Mining, Nonmetal ores, Index","China, PPI, Mining, Nonmetal ores, Index",None,line
+"China, PPI, Other Manufacture, Index","China, PPI, Other Manufacture, Index",None,line
+"China, PPI, Purchasing price, Index","China, PPI, Purchasing price, Index",None,line
+"China, PPI, Purchasing price, Agricultural, Index","China, PPI, Purchasing price, Agricultural, Index",None,line
+"China, PPI, Purchasing price, Building materials, Index","China, PPI, Purchasing price, Building materials, Index",None,line
+"China, PPI, Purchasing price, Ferrous metals, Index","China, PPI, Purchasing price, Ferrous metals, Index",None,line
+"China, PPI, Purchasing price, Fuel and power, Index","China, PPI, Purchasing price, Fuel and power, Index",None,line
+"China, PPI, Purchasing price, Nonferrous metals, Index","China, PPI, Purchasing price, Nonferrous metals, Index",None,line
+"China, PPI, Purchasing price, Other, Index","China, PPI, Purchasing price, Other, Index",None,line
+"China, PPI, Purchasing price, Raw chemicals, Index","China, PPI, Purchasing price, Raw chemicals, Index",None,line
+"China, PPI, Purchasing price, Textiles, Index","China, PPI, Purchasing price, Textiles, Index",None,line
+"China, PPI, Purchasing price, Timber and paper, Index","China, PPI, Purchasing price, Timber and paper, Index",None,line
+"China, PPI, Repair Service of Metal Products, Machinery and Equipment, Index","China, PPI, Repair Service of Metal Products, Machinery and Equipment, Index",None,line
+"China, PPI, Utilities, Electric, Index","China, PPI, Utilities, Electric, Index",None,line
+"China, PPI, Utilities, Gas, Index","China, PPI, Utilities, Gas, Index",None,line
+"China, PPI, Utilities, Water, Index","China, PPI, Utilities, Water, Index",None,line
+"China, PPI, Utilization of Waste Resources, Index","China, PPI, Utilization of Waste Resources, Index",None,line
+"China, PPI, Purchasing price, Excluding building materials, Index","China, PPI, Purchasing price, Excluding building materials, Index",None,line
+"China, PPI, Index, SA","China, PPI, Index, SA",None,line
+"China, PPI, Consumption goods, Index, SA","China, PPI, Consumption goods, Index, SA",None,line
+"China, PPI, Industrial goods, Index, SA","China, PPI, Industrial goods, Index, SA",None,line
+"China, PPI, Purchasing price, Index, SA","China, PPI, Purchasing price, Index, SA",None,line
+"China, PPI, Purchasing price, Fuel and power, Index, SA","China, PPI, Purchasing price, Fuel and power, Index, SA",None,line
+"China, PPI, Purchasing price, Excluding building materials, Index, SA","China, PPI, Purchasing price, Excluding building materials, Index, SA",None,line
+"China, PPI, Purchasing price, Building materials, Index, SA","China, PPI, Purchasing price, Building materials, Index, SA",None,line
+"China, PPI, Purchasing price, Agricultural, Index, SA","China, PPI, Purchasing price, Agricultural, Index, SA",None,line
+"China, PPI, Purchasing price, Ferrous metals, Index, SA","China, PPI, Purchasing price, Ferrous metals, Index, SA",None,line
+"China, PPI, Purchasing price, Nonferrous metals, Index, SA","China, PPI, Purchasing price, Nonferrous metals, Index, SA",None,line
+"China, PPI, Purchasing price, Other, Index, SA","China, PPI, Purchasing price, Other, Index, SA",None,line
+"China, PPI, Purchasing price, Raw chemicals, Index, SA","China, PPI, Purchasing price, Raw chemicals, Index, SA",None,line
+"China, PPI, Purchasing price, Textiles, Index, SA","China, PPI, Purchasing price, Textiles, Index, SA",None,line
+"China, PPI, Purchasing price, Timber and paper, Index, SA","China, PPI, Purchasing price, Timber and paper, Index, SA",None,line
+"China, PPI, SA, % 3m/3m","China, PPI, SA, % 3m/3m",None,line
+"China, PPI, Consumption goods, SA, % 3m/3m","China, PPI, Consumption goods, SA, % 3m/3m",None,line
+"China, PPI, Industrial goods, SA, % 3m/3m","China, PPI, Industrial goods, SA, % 3m/3m",None,line
+"China, PPI, Purchasing price, SA, % 3m/3m","China, PPI, Purchasing price, SA, % 3m/3m",None,line
+"China, PPI, Purchasing price, Fuel and power, SA, % 3m/3m","China, PPI, Purchasing price, Fuel and power, SA, % 3m/3m",None,line
+"China, PPI, Purchasing price, Excluding building materials, SA, % 3m/3m","China, PPI, Purchasing price, Excluding building materials, SA, % 3m/3m",None,line
+"China, PPI, Purchasing price, Building materials, SA, % 3m/3m","China, PPI, Purchasing price, Building materials, SA, % 3m/3m",None,line
+"China, PPI, Purchasing price, Agricultural, SA, % 3m/3m","China, PPI, Purchasing price, Agricultural, SA, % 3m/3m",None,line
+"China, PPI, Purchasing price, Ferrous metals, SA, % 3m/3m","China, PPI, Purchasing price, Ferrous metals, SA, % 3m/3m",None,line
+"China, PPI, Purchasing price, Nonferrous metals, SA, % 3m/3m","China, PPI, Purchasing price, Nonferrous metals, SA, % 3m/3m",None,line
+"China, PPI, Purchasing price, Other, SA, % 3m/3m","China, PPI, Purchasing price, Other, SA, % 3m/3m",None,line
+"China, PPI, Purchasing price, Raw chemicals, SA, % 3m/3m","China, PPI, Purchasing price, Raw chemicals, SA, % 3m/3m",None,line
+"China, PPI, Purchasing price, Textiles, SA, % 3m/3m","China, PPI, Purchasing price, Textiles, SA, % 3m/3m",None,line
+"China, PPI, Purchasing price, Timber and paper, SA, % 3m/3m","China, PPI, Purchasing price, Timber and paper, SA, % 3m/3m",None,line
+"China, PPI, SA, % MoM","China, PPI, SA, % MoM",None,line
+"China, PPI, Consumption goods, SA, % MoM","China, PPI, Consumption goods, SA, % MoM",None,line
+"China, PPI, Industrial goods, SA, % MoM","China, PPI, Industrial goods, SA, % MoM",None,line
+"China, PPI, Purchasing price, SA, % MoM","China, PPI, Purchasing price, SA, % MoM",None,line
+"China, PPI, Purchasing price, Fuel and power, SA, % MoM","China, PPI, Purchasing price, Fuel and power, SA, % MoM",None,line
+"China, PPI, Purchasing price, Excluding building materials, SA, % MoM","China, PPI, Purchasing price, Excluding building materials, SA, % MoM",None,line
+"China, PPI, Purchasing price, Building materials, SA, % MoM","China, PPI, Purchasing price, Building materials, SA, % MoM",None,line
+"China, PPI, Purchasing price, Agricultural, SA, % MoM","China, PPI, Purchasing price, Agricultural, SA, % MoM",None,line
+"China, PPI, Purchasing price, Ferrous metals, SA, % MoM","China, PPI, Purchasing price, Ferrous metals, SA, % MoM",None,line
+"China, PPI, Purchasing price, Nonferrous metals, SA, % MoM","China, PPI, Purchasing price, Nonferrous metals, SA, % MoM",None,line
+"China, PPI, Purchasing price, Other, SA, % MoM","China, PPI, Purchasing price, Other, SA, % MoM",None,line
+"China, PPI, Purchasing price, Raw chemicals, SA, % MoM","China, PPI, Purchasing price, Raw chemicals, SA, % MoM",None,line
+"China, PPI, Purchasing price, Textiles, SA, % MoM","China, PPI, Purchasing price, Textiles, SA, % MoM",None,line
+"China, PPI, Purchasing price, Timber and paper, SA, % MoM","China, PPI, Purchasing price, Timber and paper, SA, % MoM",None,line
+"China, PPI, SA, % MoM annualised","China, PPI, SA, % MoM annualised",None,line
+"China, PPI, Consumption goods, SA, % MoM annualised","China, PPI, Consumption goods, SA, % MoM annualised",None,line
+"China, PPI, Industrial goods, SA, % MoM annualised","China, PPI, Industrial goods, SA, % MoM annualised",None,line
+"China, PPI, Purchasing price, SA, % MoM annualised","China, PPI, Purchasing price, SA, % MoM annualised",None,line
+"China, PPI, Purchasing price, Fuel and power, SA, % MoM annualised","China, PPI, Purchasing price, Fuel and power, SA, % MoM annualised",None,line
+"China, PPI, Purchasing price, Excluding building materials, SA, % MoM annualised","China, PPI, Purchasing price, Excluding building materials, SA, % MoM annualised",None,line
+"China, PPI, Purchasing price, Building materials, SA, % MoM annualised","China, PPI, Purchasing price, Building materials, SA, % MoM annualised",None,line
+"China, PPI, Purchasing price, Agricultural, SA, % MoM annualised","China, PPI, Purchasing price, Agricultural, SA, % MoM annualised",None,line
+"China, PPI, Purchasing price, Ferrous metals, SA, % MoM annualised","China, PPI, Purchasing price, Ferrous metals, SA, % MoM annualised",None,line
+"China, PPI, Purchasing price, Nonferrous metals, SA, % MoM annualised","China, PPI, Purchasing price, Nonferrous metals, SA, % MoM annualised",None,line
+"China, PPI, Purchasing price, Other, SA, % MoM annualised","China, PPI, Purchasing price, Other, SA, % MoM annualised",None,line
+"China, PPI, Purchasing price, Raw chemicals, SA, % MoM annualised","China, PPI, Purchasing price, Raw chemicals, SA, % MoM annualised",None,line
+"China, PPI, Purchasing price, Textiles, SA, % MoM annualised","China, PPI, Purchasing price, Textiles, SA, % MoM annualised",None,line
+"China, PPI, Purchasing price, Timber and paper, SA, % MoM annualised","China, PPI, Purchasing price, Timber and paper, SA, % MoM annualised",None,line
+"China, PPI, % YoY, Cats rising, % of total","China, PPI, % YoY, Cats rising, % of total",None,line
+"China, PPI, % YoY, Cats falling, % of total","China, PPI, % YoY, Cats falling, % of total",None,line
+"China, PPI, % YoY, Cats unchanged, % of total","China, PPI, % YoY, Cats unchanged, % of total",None,line
+"China, PPI, % YoY, Diffusion","China, PPI, % YoY, Diffusion",None,line
+"China, PPI, % YoY, Calculated mean, % YoY","China, PPI, % YoY, Calculated mean, % YoY",None,line
+"China, PPI, % YoY, Calculated median, % YoY","China, PPI, % YoY, Calculated median, % YoY",None,line
+"China, PPI, % MoM, Cats rising, % of total","China, PPI, % MoM, Cats rising, % of total",None,line
+"China, PPI, % MoM, Cats falling, % of total","China, PPI, % MoM, Cats falling, % of total",None,line
+"China, PPI, % MoM, Cats unchanged, % of total","China, PPI, % MoM, Cats unchanged, % of total",None,line
+"China, PPI, % MoM, Diffusion","China, PPI, % MoM, Diffusion",None,line
+"China, PPI, % MoM, Calculated mean, % YoY","China, PPI, % MoM, Calculated mean, % YoY",None,line
+"China, PPI, % MoM, Calculated median, % YoY","China, PPI, % MoM, Calculated median, % YoY",None,line
+"China, PPI, Purchasing price, Fuel and power, Contribution to % MoM chg","China, PPI, Purchasing price, Fuel and power, Contribution to % MoM chg",None,bar
+"China, PPI, Purchasing price, Building materials, Contribution to % MoM chg","China, PPI, Purchasing price, Building materials, Contribution to % MoM chg",None,bar
+"China, PPI, Purchasing price, Agricultural, Contribution to % MoM chg","China, PPI, Purchasing price, Agricultural, Contribution to % MoM chg",None,bar
+"China, PPI, Purchasing price, Ferrous metals, Contribution to % MoM chg","China, PPI, Purchasing price, Ferrous metals, Contribution to % MoM chg",None,bar
+"China, PPI, Purchasing price, Nonferrous metals, Contribution to % MoM chg","China, PPI, Purchasing price, Nonferrous metals, Contribution to % MoM chg",None,bar
+"China, PPI, Purchasing price, Other, Contribution to % MoM chg","China, PPI, Purchasing price, Other, Contribution to % MoM chg",None,bar
+"China, PPI, Purchasing price, Raw chemicals, Contribution to % MoM chg","China, PPI, Purchasing price, Raw chemicals, Contribution to % MoM chg",None,bar
+"China, PPI, Purchasing price, Textiles, Contribution to % MoM chg","China, PPI, Purchasing price, Textiles, Contribution to % MoM chg",None,bar
+"China, PPI, Purchasing price, Timber and paper, Contribution to % MoM chg","China, PPI, Purchasing price, Timber and paper, Contribution to % MoM chg",None,bar
+"China, PPI, % MoM, 3mma","China, PPI, % MoM, 3mma",None,line
+"China, PPI, % YoY, 3mma","China, PPI, % YoY, 3mma",None,line
+"China, PPI, Agriculture, % MoM, 3mma","China, PPI, Agriculture, % MoM, 3mma",None,line
+"China, PPI, Agriculture, % YoY, 3mma","China, PPI, Agriculture, % YoY, 3mma",None,line
+"China, PPI, Consumption goods, % MoM, 3mma","China, PPI, Consumption goods, % MoM, 3mma",None,line
+"China, PPI, Consumption goods, % YoY, 3mma","China, PPI, Consumption goods, % YoY, 3mma",None,line
+"China, PPI, Consumption goods, Articles for daily use, % MoM, 3mma","China, PPI, Consumption goods, Articles for daily use, % MoM, 3mma",None,line
+"China, PPI, Consumption goods, Articles for daily use, % YoY, 3mma","China, PPI, Consumption goods, Articles for daily use, % YoY, 3mma",None,line
+"China, PPI, Consumption goods, Clothing, % MoM, 3mma","China, PPI, Consumption goods, Clothing, % MoM, 3mma",None,line
+"China, PPI, Consumption goods, Clothing, % YoY, 3mma","China, PPI, Consumption goods, Clothing, % YoY, 3mma",None,line
+"China, PPI, Consumption goods, Consumer durables, % MoM, 3mma","China, PPI, Consumption goods, Consumer durables, % MoM, 3mma",None,line
+"China, PPI, Consumption goods, Consumer durables, % YoY, 3mma","China, PPI, Consumption goods, Consumer durables, % YoY, 3mma",None,line
+"China, PPI, Consumption goods, Food, % MoM, 3mma","China, PPI, Consumption goods, Food, % MoM, 3mma",None,line
+"China, PPI, Consumption goods, Food, % YoY, 3mma","China, PPI, Consumption goods, Food, % YoY, 3mma",None,line
+"China, PPI, Consumption goods, consumer durables, % MoM, 3mma","China, PPI, Consumption goods, consumer durables, % MoM, 3mma",None,line
+"China, PPI, Consumption goods, consumer durables, % YoY, 3mma","China, PPI, Consumption goods, consumer durables, % YoY, 3mma",None,line
+"China, PPI, Industrial goods, % MoM, 3mma","China, PPI, Industrial goods, % MoM, 3mma",None,line
+"China, PPI, Industrial goods, % YoY, 3mma","China, PPI, Industrial goods, % YoY, 3mma",None,line
+"China, PPI, Industrial goods, Processing, % MoM, 3mma","China, PPI, Industrial goods, Processing, % MoM, 3mma",None,line
+"China, PPI, Industrial goods, Processing, % YoY, 3mma","China, PPI, Industrial goods, Processing, % YoY, 3mma",None,line
+"China, PPI, Industrial goods, Quarrying and mining, % MoM, 3mma","China, PPI, Industrial goods, Quarrying and mining, % MoM, 3mma",None,line
+"China, PPI, Industrial goods, Quarrying and mining, % YoY, 3mma","China, PPI, Industrial goods, Quarrying and mining, % YoY, 3mma",None,line
+"China, PPI, Industrial goods, Raw materials, % MoM, 3mma","China, PPI, Industrial goods, Raw materials, % MoM, 3mma",None,line
+"China, PPI, Industrial goods, Raw materials, % YoY, 3mma","China, PPI, Industrial goods, Raw materials, % YoY, 3mma",None,line
+"China, PPI, Manufacture of Articles for Culture, Education and Sport Activities, % YoY, 3mma","China, PPI, Manufacture of Articles for Culture, Education and Sport Activities, % YoY, 3mma",None,line
+"China, PPI, Manufacture of Articles for Culture, Education, Arts and Crafts, Sport and Entertainment Activities, % MoM, 3mma","China, PPI, Manufacture of Articles for Culture, Education, Arts and Crafts, Sport and Entertainment Activities, % MoM, 3mma",None,line
+"China, PPI, Manufacture of Articles for Culture, Education, Arts and Crafts, Sport and Entertainment Activities, % YoY, 3mma","China, PPI, Manufacture of Articles for Culture, Education, Arts and Crafts, Sport and Entertainment Activities, % YoY, 3mma",None,line
+"China, PPI, Manufacture of Artwork and Other Manufacturing, % YoY, 3mma","China, PPI, Manufacture of Artwork and Other Manufacturing, % YoY, 3mma",None,line
+"China, PPI, Manufacture of Beverages, % YoY, 3mma","China, PPI, Manufacture of Beverages, % YoY, 3mma",None,line
+"China, PPI, Manufacture of Electrical Machinery and Apparatus, % MoM, 3mma","China, PPI, Manufacture of Electrical Machinery and Apparatus, % MoM, 3mma",None,line
+"China, PPI, Manufacture of Electrical Machinery and Apparatus, % YoY, 3mma","China, PPI, Manufacture of Electrical Machinery and Apparatus, % YoY, 3mma",None,line
+"China, PPI, Manufacture of Furniture, % MoM, 3mma","China, PPI, Manufacture of Furniture, % MoM, 3mma",None,line
+"China, PPI, Manufacture of Furniture, % YoY, 3mma","China, PPI, Manufacture of Furniture, % YoY, 3mma",None,line
+"China, PPI, Manufacture of Leather, Fur, Feather and Related Products and Footwear, % MoM, 3mma","China, PPI, Manufacture of Leather, Fur, Feather and Related Products and Footwear, % MoM, 3mma",None,line
+"China, PPI, Manufacture of Leather, Fur, Feather and Related Products and Footwear, % YoY, 3mma","China, PPI, Manufacture of Leather, Fur, Feather and Related Products and Footwear, % YoY, 3mma",None,line
+"China, PPI, Manufacture of Leather, Fur, Feather and Related Products, % YoY, 3mma","China, PPI, Manufacture of Leather, Fur, Feather and Related Products, % YoY, 3mma",None,line
+"China, PPI, Manufacture of Measuring Instruments and Machinery for Cultural Activity and Office Work, % YoY, 3mma","China, PPI, Manufacture of Measuring Instruments and Machinery for Cultural Activity and Office Work, % YoY, 3mma",None,line
+"China, PPI, Manufacture of Measuring Instruments and Machinery, % MoM, 3mma","China, PPI, Manufacture of Measuring Instruments and Machinery, % MoM, 3mma",None,line
+"China, PPI, Manufacture of Measuring Instruments and Machinery, % YoY, 3mma","China, PPI, Manufacture of Measuring Instruments and Machinery, % YoY, 3mma",None,line
+"China, PPI, Manufacture of Plastics, % YoY, 3mma","China, PPI, Manufacture of Plastics, % YoY, 3mma",None,line
+"China, PPI, Manufacture of Rubber, % YoY, 3mma","China, PPI, Manufacture of Rubber, % YoY, 3mma",None,line
+"China, PPI, Manufacture of Special Purpose Machinery, % MoM, 3mma","China, PPI, Manufacture of Special Purpose Machinery, % MoM, 3mma",None,line
+"China, PPI, Manufacture of Special Purpose Machinery, % YoY, 3mma","China, PPI, Manufacture of Special Purpose Machinery, % YoY, 3mma",None,line
+"China, PPI, Manufacture of Transport Equipment, % YoY, 3mma","China, PPI, Manufacture of Transport Equipment, % YoY, 3mma",None,line
+"China, PPI, Manufactured Goods by Sector, Manufacture of Communication Equipment, Computers and Other Electronic Equipment, % YoY, 3mma","China, PPI, Manufactured Goods by Sector, Manufacture of Communication Equipment, Computers and Other Electronic Equipment, % YoY, 3mma",None,line
+"China, PPI, Manufactured Goods by Sector, other Mining, % YoY, 3mma","China, PPI, Manufactured Goods by Sector, other Mining, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Apparel and footwear, % MoM, 3mma","China, PPI, Manufacturing, Apparel and footwear, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Apparel and footwear, % YoY, 3mma","China, PPI, Manufacturing, Apparel and footwear, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Autos, % MoM, 3mma","China, PPI, Manufacturing, Autos, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Autos, % YoY, 3mma","China, PPI, Manufacturing, Autos, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Beverage, % MoM, 3mma","China, PPI, Manufacturing, Beverage, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Beverage, % YoY, 3mma","China, PPI, Manufacturing, Beverage, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Chemical fibres, % MoM, 3mma","China, PPI, Manufacturing, Chemical fibres, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Chemical fibres, % YoY, 3mma","China, PPI, Manufacturing, Chemical fibres, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Ferrous metals, % MoM, 3mma","China, PPI, Manufacturing, Ferrous metals, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Ferrous metals, % YoY, 3mma","China, PPI, Manufacturing, Ferrous metals, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Food, % MoM, 3mma","China, PPI, Manufacturing, Food, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Food, % YoY, 3mma","China, PPI, Manufacturing, Food, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, General purpose machinery, % MoM, 3mma","China, PPI, Manufacturing, General purpose machinery, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, General purpose machinery, % YoY, 3mma","China, PPI, Manufacturing, General purpose machinery, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, ICT, % MoM, 3mma","China, PPI, Manufacturing, ICT, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, ICT, % YoY, 3mma","China, PPI, Manufacturing, ICT, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Medicines, % MoM, 3mma","China, PPI, Manufacturing, Medicines, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Medicines, % YoY, 3mma","China, PPI, Manufacturing, Medicines, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Metal products, % MoM, 3mma","China, PPI, Manufacturing, Metal products, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Metal products, % YoY, 3mma","China, PPI, Manufacturing, Metal products, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Nonferrous metals, % MoM, 3mma","China, PPI, Manufacturing, Nonferrous metals, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Nonferrous metals, % YoY, 3mma","China, PPI, Manufacturing, Nonferrous metals, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Nonmetallic minerals, % MoM, 3mma","China, PPI, Manufacturing, Nonmetallic minerals, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Nonmetallic minerals, % YoY, 3mma","China, PPI, Manufacturing, Nonmetallic minerals, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Paper, % MoM, 3mma","China, PPI, Manufacturing, Paper, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Paper, % YoY, 3mma","China, PPI, Manufacturing, Paper, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Petroleum, % MoM, 3mma","China, PPI, Manufacturing, Petroleum, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Petroleum, % YoY, 3mma","China, PPI, Manufacturing, Petroleum, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Plastics, % MoM, 3mma","China, PPI, Manufacturing, Plastics, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Plastics, % YoY, 3mma","China, PPI, Manufacturing, Plastics, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Printing and media, % MoM, 3mma","China, PPI, Manufacturing, Printing and media, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Printing and media, % YoY, 3mma","China, PPI, Manufacturing, Printing and media, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Raw chemicals, % MoM, 3mma","China, PPI, Manufacturing, Raw chemicals, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Raw chemicals, % YoY, 3mma","China, PPI, Manufacturing, Raw chemicals, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Textile Wearing Apparel, Footware, and Caps, % YoY, 3mma","China, PPI, Manufacturing, Textile Wearing Apparel, Footware, and Caps, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Textile, % MoM, 3mma","China, PPI, Manufacturing, Textile, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Textile, % YoY, 3mma","China, PPI, Manufacturing, Textile, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Timber, % MoM, 3mma","China, PPI, Manufacturing, Timber, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Timber, % YoY, 3mma","China, PPI, Manufacturing, Timber, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Tobacco, % MoM, 3mma","China, PPI, Manufacturing, Tobacco, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Tobacco, % YoY, 3mma","China, PPI, Manufacturing, Tobacco, % YoY, 3mma",None,line
+"China, PPI, Manufacturing, Transport equipment, % MoM, 3mma","China, PPI, Manufacturing, Transport equipment, % MoM, 3mma",None,line
+"China, PPI, Manufacturing, Transport equipment, % YoY, 3mma","China, PPI, Manufacturing, Transport equipment, % YoY, 3mma",None,line
+"China, PPI, Mining and Processing of Nonmetal Ores, % YoY, 3mma","China, PPI, Mining and Processing of Nonmetal Ores, % YoY, 3mma",None,line
+"China, PPI, Mining and Support Activities, % MoM, 3mma","China, PPI, Mining and Support Activities, % MoM, 3mma",None,line
+"China, PPI, Mining and Support Activities, % YoY, 3mma","China, PPI, Mining and Support Activities, % YoY, 3mma",None,line
+"China, PPI, Mining of Other Ores, % YoY, 3mma","China, PPI, Mining of Other Ores, % YoY, 3mma",None,line
+"China, PPI, Mining, Coal, % MoM, 3mma","China, PPI, Mining, Coal, % MoM, 3mma",None,line
+"China, PPI, Mining, Coal, % YoY, 3mma","China, PPI, Mining, Coal, % YoY, 3mma",None,line
+"China, PPI, Mining, Ferrous ores, % MoM, 3mma","China, PPI, Mining, Ferrous ores, % MoM, 3mma",None,line
+"China, PPI, Mining, Ferrous ores, % YoY, 3mma","China, PPI, Mining, Ferrous ores, % YoY, 3mma",None,line
+"China, PPI, Mining, Gas, % MoM, 3mma","China, PPI, Mining, Gas, % MoM, 3mma",None,line
+"China, PPI, Mining, Gas, % YoY, 3mma","China, PPI, Mining, Gas, % YoY, 3mma",None,line
+"China, PPI, Mining, Nonferrous ores, % MoM, 3mma","China, PPI, Mining, Nonferrous ores, % MoM, 3mma",None,line
+"China, PPI, Mining, Nonferrous ores, % YoY, 3mma","China, PPI, Mining, Nonferrous ores, % YoY, 3mma",None,line
+"China, PPI, Mining, Nonmetal ores, % MoM, 3mma","China, PPI, Mining, Nonmetal ores, % MoM, 3mma",None,line
+"China, PPI, Mining, Nonmetal ores, % YoY, 3mma","China, PPI, Mining, Nonmetal ores, % YoY, 3mma",None,line
+"China, PPI, Other Manufacture, % MoM, 3mma","China, PPI, Other Manufacture, % MoM, 3mma",None,line
+"China, PPI, Other Manufacture, % YoY, 3mma","China, PPI, Other Manufacture, % YoY, 3mma",None,line
+"China, PPI, Printing, Reproduction of Recording Media, % YoY, 3mma","China, PPI, Printing, Reproduction of Recording Media, % YoY, 3mma",None,line
+"China, PPI, Processing of Foodstuff, % YoY, 3mma","China, PPI, Processing of Foodstuff, % YoY, 3mma",None,line
+"China, PPI, Purchasing price, % MoM, 3mma","China, PPI, Purchasing price, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, % YoY, 3mma","China, PPI, Purchasing price, % YoY, 3mma",None,line
+"China, PPI, Purchasing price, Agricultural, % MoM, 3mma","China, PPI, Purchasing price, Agricultural, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Agricultural, % YoY, 3mma","China, PPI, Purchasing price, Agricultural, % YoY, 3mma",None,line
+"China, PPI, Purchasing price, Building materials, % MoM, 3mma","China, PPI, Purchasing price, Building materials, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Building materials, % YoY, 3mma","China, PPI, Purchasing price, Building materials, % YoY, 3mma",None,line
+"China, PPI, Purchasing price, Ferrous metals, % MoM, 3mma","China, PPI, Purchasing price, Ferrous metals, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Ferrous metals, % YoY, 3mma","China, PPI, Purchasing price, Ferrous metals, % YoY, 3mma",None,line
+"China, PPI, Purchasing price, Fuel and power, % MoM, 3mma","China, PPI, Purchasing price, Fuel and power, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Fuel and power, % YoY, 3mma","China, PPI, Purchasing price, Fuel and power, % YoY, 3mma",None,line
+"China, PPI, Purchasing price, Nonferrous metals, % MoM, 3mma","China, PPI, Purchasing price, Nonferrous metals, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Nonferrous metals, % YoY, 3mma","China, PPI, Purchasing price, Nonferrous metals, % YoY, 3mma",None,line
+"China, PPI, Purchasing price, Other, % MoM, 3mma","China, PPI, Purchasing price, Other, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Other, % YoY, 3mma","China, PPI, Purchasing price, Other, % YoY, 3mma",None,line
+"China, PPI, Purchasing price, Raw chemicals, % MoM, 3mma","China, PPI, Purchasing price, Raw chemicals, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Raw chemicals, % YoY, 3mma","China, PPI, Purchasing price, Raw chemicals, % YoY, 3mma",None,line
+"China, PPI, Purchasing price, Textiles, % MoM, 3mma","China, PPI, Purchasing price, Textiles, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Textiles, % YoY, 3mma","China, PPI, Purchasing price, Textiles, % YoY, 3mma",None,line
+"China, PPI, Purchasing price, Timber and paper, % MoM, 3mma","China, PPI, Purchasing price, Timber and paper, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Timber and paper, % YoY, 3mma","China, PPI, Purchasing price, Timber and paper, % YoY, 3mma",None,line
+"China, PPI, Recycling and Disposal of Waste, % YoY, 3mma","China, PPI, Recycling and Disposal of Waste, % YoY, 3mma",None,line
+"China, PPI, Repair Service of Metal Products, Machinery and Equipment, % MoM, 3mma","China, PPI, Repair Service of Metal Products, Machinery and Equipment, % MoM, 3mma",None,line
+"China, PPI, Repair Service of Metal Products, Machinery and Equipment, % YoY, 3mma","China, PPI, Repair Service of Metal Products, Machinery and Equipment, % YoY, 3mma",None,line
+"China, PPI, Support Activities for Mining, % YoY, 3mma","China, PPI, Support Activities for Mining, % YoY, 3mma",None,line
+"China, PPI, Utilities, Electric, % MoM, 3mma","China, PPI, Utilities, Electric, % MoM, 3mma",None,line
+"China, PPI, Utilities, Electric, % YoY, 3mma","China, PPI, Utilities, Electric, % YoY, 3mma",None,line
+"China, PPI, Utilities, Gas, % MoM, 3mma","China, PPI, Utilities, Gas, % MoM, 3mma",None,line
+"China, PPI, Utilities, Gas, % YoY, 3mma","China, PPI, Utilities, Gas, % YoY, 3mma",None,line
+"China, PPI, Utilities, Water, % MoM, 3mma","China, PPI, Utilities, Water, % MoM, 3mma",None,line
+"China, PPI, Utilities, Water, % YoY, 3mma","China, PPI, Utilities, Water, % YoY, 3mma",None,line
+"China, PPI, Utilization of Waste Resources, % MoM, 3mma","China, PPI, Utilization of Waste Resources, % MoM, 3mma",None,line
+"China, PPI, Utilization of Waste Resources, % YoY, 3mma","China, PPI, Utilization of Waste Resources, % YoY, 3mma",None,line
+"China, PPI, Index, 3mma","China, PPI, Index, 3mma",None,line
+"China, PPI, Agriculture, Index, 3mma","China, PPI, Agriculture, Index, 3mma",None,line
+"China, PPI, Consumption goods, Index, 3mma","China, PPI, Consumption goods, Index, 3mma",None,line
+"China, PPI, Consumption goods, Articles for daily use, Index, 3mma","China, PPI, Consumption goods, Articles for daily use, Index, 3mma",None,line
+"China, PPI, Consumption goods, Clothing, Index, 3mma","China, PPI, Consumption goods, Clothing, Index, 3mma",None,line
+"China, PPI, Consumption goods, Consumer durables, Index, 3mma","China, PPI, Consumption goods, Consumer durables, Index, 3mma",None,line
+"China, PPI, Consumption goods, Food, Index, 3mma","China, PPI, Consumption goods, Food, Index, 3mma",None,line
+"China, PPI, Consumption goods, consumer durables, Index, 3mma","China, PPI, Consumption goods, consumer durables, Index, 3mma",None,line
+"China, PPI, Industrial goods, Index, 3mma","China, PPI, Industrial goods, Index, 3mma",None,line
+"China, PPI, Industrial goods, Processing, Index, 3mma","China, PPI, Industrial goods, Processing, Index, 3mma",None,line
+"China, PPI, Industrial goods, Quarrying and mining, Index, 3mma","China, PPI, Industrial goods, Quarrying and mining, Index, 3mma",None,line
+"China, PPI, Industrial goods, Raw materials, Index, 3mma","China, PPI, Industrial goods, Raw materials, Index, 3mma",None,line
+"China, PPI, Manufacture of Articles for Culture, Education, Arts and Crafts, Sport and Entertainment Activities, Index, 3mma","China, PPI, Manufacture of Articles for Culture, Education, Arts and Crafts, Sport and Entertainment Activities, Index, 3mma",None,line
+"China, PPI, Manufacture of Electrical Machinery and Apparatus, Index, 3mma","China, PPI, Manufacture of Electrical Machinery and Apparatus, Index, 3mma",None,line
+"China, PPI, Manufacture of Furniture, Index, 3mma","China, PPI, Manufacture of Furniture, Index, 3mma",None,line
+"China, PPI, Manufacture of Leather, Fur, Feather and Related Products and Footwear, Index, 3mma","China, PPI, Manufacture of Leather, Fur, Feather and Related Products and Footwear, Index, 3mma",None,line
+"China, PPI, Manufacture of Measuring Instruments and Machinery, Index, 3mma","China, PPI, Manufacture of Measuring Instruments and Machinery, Index, 3mma",None,line
+"China, PPI, Manufacture of Special Purpose Machinery, Index, 3mma","China, PPI, Manufacture of Special Purpose Machinery, Index, 3mma",None,line
+"China, PPI, Manufacturing, Apparel and footwear, Index, 3mma","China, PPI, Manufacturing, Apparel and footwear, Index, 3mma",None,line
+"China, PPI, Manufacturing, Autos, Index, 3mma","China, PPI, Manufacturing, Autos, Index, 3mma",None,line
+"China, PPI, Manufacturing, Beverage, Index, 3mma","China, PPI, Manufacturing, Beverage, Index, 3mma",None,line
+"China, PPI, Manufacturing, Chemical fibres, Index, 3mma","China, PPI, Manufacturing, Chemical fibres, Index, 3mma",None,line
+"China, PPI, Manufacturing, Ferrous metals, Index, 3mma","China, PPI, Manufacturing, Ferrous metals, Index, 3mma",None,line
+"China, PPI, Manufacturing, Food, Index, 3mma","China, PPI, Manufacturing, Food, Index, 3mma",None,line
+"China, PPI, Manufacturing, General purpose machinery, Index, 3mma","China, PPI, Manufacturing, General purpose machinery, Index, 3mma",None,line
+"China, PPI, Manufacturing, ICT, Index, 3mma","China, PPI, Manufacturing, ICT, Index, 3mma",None,line
+"China, PPI, Manufacturing, Medicines, Index, 3mma","China, PPI, Manufacturing, Medicines, Index, 3mma",None,line
+"China, PPI, Manufacturing, Metal products, Index, 3mma","China, PPI, Manufacturing, Metal products, Index, 3mma",None,line
+"China, PPI, Manufacturing, Nonferrous metals, Index, 3mma","China, PPI, Manufacturing, Nonferrous metals, Index, 3mma",None,line
+"China, PPI, Manufacturing, Nonmetallic minerals, Index, 3mma","China, PPI, Manufacturing, Nonmetallic minerals, Index, 3mma",None,line
+"China, PPI, Manufacturing, Paper, Index, 3mma","China, PPI, Manufacturing, Paper, Index, 3mma",None,line
+"China, PPI, Manufacturing, Petroleum, Index, 3mma","China, PPI, Manufacturing, Petroleum, Index, 3mma",None,line
+"China, PPI, Manufacturing, Plastics, Index, 3mma","China, PPI, Manufacturing, Plastics, Index, 3mma",None,line
+"China, PPI, Manufacturing, Printing and media, Index, 3mma","China, PPI, Manufacturing, Printing and media, Index, 3mma",None,line
+"China, PPI, Manufacturing, Raw chemicals, Index, 3mma","China, PPI, Manufacturing, Raw chemicals, Index, 3mma",None,line
+"China, PPI, Manufacturing, Textile, Index, 3mma","China, PPI, Manufacturing, Textile, Index, 3mma",None,line
+"China, PPI, Manufacturing, Timber, Index, 3mma","China, PPI, Manufacturing, Timber, Index, 3mma",None,line
+"China, PPI, Manufacturing, Tobacco, Index, 3mma","China, PPI, Manufacturing, Tobacco, Index, 3mma",None,line
+"China, PPI, Manufacturing, Transport equipment, Index, 3mma","China, PPI, Manufacturing, Transport equipment, Index, 3mma",None,line
+"China, PPI, Mining and Support Activities, Index, 3mma","China, PPI, Mining and Support Activities, Index, 3mma",None,line
+"China, PPI, Mining, Coal, Index, 3mma","China, PPI, Mining, Coal, Index, 3mma",None,line
+"China, PPI, Mining, Ferrous ores, Index, 3mma","China, PPI, Mining, Ferrous ores, Index, 3mma",None,line
+"China, PPI, Mining, Gas, Index, 3mma","China, PPI, Mining, Gas, Index, 3mma",None,line
+"China, PPI, Mining, Nonferrous ores, Index, 3mma","China, PPI, Mining, Nonferrous ores, Index, 3mma",None,line
+"China, PPI, Mining, Nonmetal ores, Index, 3mma","China, PPI, Mining, Nonmetal ores, Index, 3mma",None,line
+"China, PPI, Other Manufacture, Index, 3mma","China, PPI, Other Manufacture, Index, 3mma",None,line
+"China, PPI, Purchasing price, Index, 3mma","China, PPI, Purchasing price, Index, 3mma",None,line
+"China, PPI, Purchasing price, Agricultural, Index, 3mma","China, PPI, Purchasing price, Agricultural, Index, 3mma",None,line
+"China, PPI, Purchasing price, Building materials, Index, 3mma","China, PPI, Purchasing price, Building materials, Index, 3mma",None,line
+"China, PPI, Purchasing price, Ferrous metals, Index, 3mma","China, PPI, Purchasing price, Ferrous metals, Index, 3mma",None,line
+"China, PPI, Purchasing price, Fuel and power, Index, 3mma","China, PPI, Purchasing price, Fuel and power, Index, 3mma",None,line
+"China, PPI, Purchasing price, Nonferrous metals, Index, 3mma","China, PPI, Purchasing price, Nonferrous metals, Index, 3mma",None,line
+"China, PPI, Purchasing price, Other, Index, 3mma","China, PPI, Purchasing price, Other, Index, 3mma",None,line
+"China, PPI, Purchasing price, Raw chemicals, Index, 3mma","China, PPI, Purchasing price, Raw chemicals, Index, 3mma",None,line
+"China, PPI, Purchasing price, Textiles, Index, 3mma","China, PPI, Purchasing price, Textiles, Index, 3mma",None,line
+"China, PPI, Purchasing price, Timber and paper, Index, 3mma","China, PPI, Purchasing price, Timber and paper, Index, 3mma",None,line
+"China, PPI, Repair Service of Metal Products, Machinery and Equipment, Index, 3mma","China, PPI, Repair Service of Metal Products, Machinery and Equipment, Index, 3mma",None,line
+"China, PPI, Utilities, Electric, Index, 3mma","China, PPI, Utilities, Electric, Index, 3mma",None,line
+"China, PPI, Utilities, Gas, Index, 3mma","China, PPI, Utilities, Gas, Index, 3mma",None,line
+"China, PPI, Utilities, Water, Index, 3mma","China, PPI, Utilities, Water, Index, 3mma",None,line
+"China, PPI, Utilization of Waste Resources, Index, 3mma","China, PPI, Utilization of Waste Resources, Index, 3mma",None,line
+"China, PPI, Purchasing price, Excluding building materials, Index, 3mma","China, PPI, Purchasing price, Excluding building materials, Index, 3mma",None,line
+"China, PPI, Index, SA, 3mma","China, PPI, Index, SA, 3mma",None,line
+"China, PPI, Consumption goods, Index, SA, 3mma","China, PPI, Consumption goods, Index, SA, 3mma",None,line
+"China, PPI, Industrial goods, Index, SA, 3mma","China, PPI, Industrial goods, Index, SA, 3mma",None,line
+"China, PPI, Purchasing price, Index, SA, 3mma","China, PPI, Purchasing price, Index, SA, 3mma",None,line
+"China, PPI, Purchasing price, Fuel and power, Index, SA, 3mma","China, PPI, Purchasing price, Fuel and power, Index, SA, 3mma",None,line
+"China, PPI, Purchasing price, Excluding building materials, Index, SA, 3mma","China, PPI, Purchasing price, Excluding building materials, Index, SA, 3mma",None,line
+"China, PPI, Purchasing price, Building materials, Index, SA, 3mma","China, PPI, Purchasing price, Building materials, Index, SA, 3mma",None,line
+"China, PPI, Purchasing price, Agricultural, Index, SA, 3mma","China, PPI, Purchasing price, Agricultural, Index, SA, 3mma",None,line
+"China, PPI, Purchasing price, Ferrous metals, Index, SA, 3mma","China, PPI, Purchasing price, Ferrous metals, Index, SA, 3mma",None,line
+"China, PPI, Purchasing price, Nonferrous metals, Index, SA, 3mma","China, PPI, Purchasing price, Nonferrous metals, Index, SA, 3mma",None,line
+"China, PPI, Purchasing price, Other, Index, SA, 3mma","China, PPI, Purchasing price, Other, Index, SA, 3mma",None,line
+"China, PPI, Purchasing price, Raw chemicals, Index, SA, 3mma","China, PPI, Purchasing price, Raw chemicals, Index, SA, 3mma",None,line
+"China, PPI, Purchasing price, Textiles, Index, SA, 3mma","China, PPI, Purchasing price, Textiles, Index, SA, 3mma",None,line
+"China, PPI, Purchasing price, Timber and paper, Index, SA, 3mma","China, PPI, Purchasing price, Timber and paper, Index, SA, 3mma",None,line
+"China, PPI, SA, % 3m/3m, 3mma","China, PPI, SA, % 3m/3m, 3mma",None,line
+"China, PPI, Consumption goods, SA, % 3m/3m, 3mma","China, PPI, Consumption goods, SA, % 3m/3m, 3mma",None,line
+"China, PPI, Industrial goods, SA, % 3m/3m, 3mma","China, PPI, Industrial goods, SA, % 3m/3m, 3mma",None,line
+"China, PPI, Purchasing price, SA, % 3m/3m, 3mma","China, PPI, Purchasing price, SA, % 3m/3m, 3mma",None,line
+"China, PPI, Purchasing price, Fuel and power, SA, % 3m/3m, 3mma","China, PPI, Purchasing price, Fuel and power, SA, % 3m/3m, 3mma",None,line
+"China, PPI, Purchasing price, Excluding building materials, SA, % 3m/3m, 3mma","China, PPI, Purchasing price, Excluding building materials, SA, % 3m/3m, 3mma",None,line
+"China, PPI, Purchasing price, Building materials, SA, % 3m/3m, 3mma","China, PPI, Purchasing price, Building materials, SA, % 3m/3m, 3mma",None,line
+"China, PPI, Purchasing price, Agricultural, SA, % 3m/3m, 3mma","China, PPI, Purchasing price, Agricultural, SA, % 3m/3m, 3mma",None,line
+"China, PPI, Purchasing price, Ferrous metals, SA, % 3m/3m, 3mma","China, PPI, Purchasing price, Ferrous metals, SA, % 3m/3m, 3mma",None,line
+"China, PPI, Purchasing price, Nonferrous metals, SA, % 3m/3m, 3mma","China, PPI, Purchasing price, Nonferrous metals, SA, % 3m/3m, 3mma",None,line
+"China, PPI, Purchasing price, Other, SA, % 3m/3m, 3mma","China, PPI, Purchasing price, Other, SA, % 3m/3m, 3mma",None,line
+"China, PPI, Purchasing price, Raw chemicals, SA, % 3m/3m, 3mma","China, PPI, Purchasing price, Raw chemicals, SA, % 3m/3m, 3mma",None,line
+"China, PPI, Purchasing price, Textiles, SA, % 3m/3m, 3mma","China, PPI, Purchasing price, Textiles, SA, % 3m/3m, 3mma",None,line
+"China, PPI, Purchasing price, Timber and paper, SA, % 3m/3m, 3mma","China, PPI, Purchasing price, Timber and paper, SA, % 3m/3m, 3mma",None,line
+"China, PPI, SA, % MoM, 3mma","China, PPI, SA, % MoM, 3mma",None,line
+"China, PPI, Consumption goods, SA, % MoM, 3mma","China, PPI, Consumption goods, SA, % MoM, 3mma",None,line
+"China, PPI, Industrial goods, SA, % MoM, 3mma","China, PPI, Industrial goods, SA, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, SA, % MoM, 3mma","China, PPI, Purchasing price, SA, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Fuel and power, SA, % MoM, 3mma","China, PPI, Purchasing price, Fuel and power, SA, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Excluding building materials, SA, % MoM, 3mma","China, PPI, Purchasing price, Excluding building materials, SA, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Building materials, SA, % MoM, 3mma","China, PPI, Purchasing price, Building materials, SA, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Agricultural, SA, % MoM, 3mma","China, PPI, Purchasing price, Agricultural, SA, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Ferrous metals, SA, % MoM, 3mma","China, PPI, Purchasing price, Ferrous metals, SA, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Nonferrous metals, SA, % MoM, 3mma","China, PPI, Purchasing price, Nonferrous metals, SA, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Other, SA, % MoM, 3mma","China, PPI, Purchasing price, Other, SA, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Raw chemicals, SA, % MoM, 3mma","China, PPI, Purchasing price, Raw chemicals, SA, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Textiles, SA, % MoM, 3mma","China, PPI, Purchasing price, Textiles, SA, % MoM, 3mma",None,line
+"China, PPI, Purchasing price, Timber and paper, SA, % MoM, 3mma","China, PPI, Purchasing price, Timber and paper, SA, % MoM, 3mma",None,line
+"China, PPI, SA, % MoM annualised, 3mma","China, PPI, SA, % MoM annualised, 3mma",None,line
+"China, PPI, Consumption goods, SA, % MoM annualised, 3mma","China, PPI, Consumption goods, SA, % MoM annualised, 3mma",None,line
+"China, PPI, Industrial goods, SA, % MoM annualised, 3mma","China, PPI, Industrial goods, SA, % MoM annualised, 3mma",None,line
+"China, PPI, Purchasing price, SA, % MoM annualised, 3mma","China, PPI, Purchasing price, SA, % MoM annualised, 3mma",None,line
+"China, PPI, Purchasing price, Fuel and power, SA, % MoM annualised, 3mma","China, PPI, Purchasing price, Fuel and power, SA, % MoM annualised, 3mma",None,line
+"China, PPI, Purchasing price, Excluding building materials, SA, % MoM annualised, 3mma","China, PPI, Purchasing price, Excluding building materials, SA, % MoM annualised, 3mma",None,line
+"China, PPI, Purchasing price, Building materials, SA, % MoM annualised, 3mma","China, PPI, Purchasing price, Building materials, SA, % MoM annualised, 3mma",None,line
+"China, PPI, Purchasing price, Agricultural, SA, % MoM annualised, 3mma","China, PPI, Purchasing price, Agricultural, SA, % MoM annualised, 3mma",None,line
+"China, PPI, Purchasing price, Ferrous metals, SA, % MoM annualised, 3mma","China, PPI, Purchasing price, Ferrous metals, SA, % MoM annualised, 3mma",None,line
+"China, PPI, Purchasing price, Nonferrous metals, SA, % MoM annualised, 3mma","China, PPI, Purchasing price, Nonferrous metals, SA, % MoM annualised, 3mma",None,line
+"China, PPI, Purchasing price, Other, SA, % MoM annualised, 3mma","China, PPI, Purchasing price, Other, SA, % MoM annualised, 3mma",None,line
+"China, PPI, Purchasing price, Raw chemicals, SA, % MoM annualised, 3mma","China, PPI, Purchasing price, Raw chemicals, SA, % MoM annualised, 3mma",None,line
+"China, PPI, Purchasing price, Textiles, SA, % MoM annualised, 3mma","China, PPI, Purchasing price, Textiles, SA, % MoM annualised, 3mma",None,line
+"China, PPI, Purchasing price, Timber and paper, SA, % MoM annualised, 3mma","China, PPI, Purchasing price, Timber and paper, SA, % MoM annualised, 3mma",None,line
+"China, PPI, % YoY, Cats rising, % of total, 3mma","China, PPI, % YoY, Cats rising, % of total, 3mma",None,line
+"China, PPI, % YoY, Cats falling, % of total, 3mma","China, PPI, % YoY, Cats falling, % of total, 3mma",None,line
+"China, PPI, % YoY, Cats unchanged, % of total, 3mma","China, PPI, % YoY, Cats unchanged, % of total, 3mma",None,line
+"China, PPI, % YoY, Diffusion, 3mma","China, PPI, % YoY, Diffusion, 3mma",None,line
+"China, PPI, % YoY, Calculated mean, % YoY, 3mma","China, PPI, % YoY, Calculated mean, % YoY, 3mma",None,line
+"China, PPI, % YoY, Calculated median, % YoY, 3mma","China, PPI, % YoY, Calculated median, % YoY, 3mma",None,line
+"China, PPI, % MoM, Cats rising, % of total, 3mma","China, PPI, % MoM, Cats rising, % of total, 3mma",None,line
+"China, PPI, % MoM, Cats falling, % of total, 3mma","China, PPI, % MoM, Cats falling, % of total, 3mma",None,line
+"China, PPI, % MoM, Cats unchanged, % of total, 3mma","China, PPI, % MoM, Cats unchanged, % of total, 3mma",None,line
+"China, PPI, % MoM, Diffusion, 3mma","China, PPI, % MoM, Diffusion, 3mma",None,line
+"China, PPI, % MoM, Calculated mean, % YoY, 3mma","China, PPI, % MoM, Calculated mean, % YoY, 3mma",None,line
+"China, PPI, % MoM, Calculated median, % YoY, 3mma","China, PPI, % MoM, Calculated median, % YoY, 3mma",None,line
+"China, PPI, Purchasing price, Fuel and power, Contribution to % MoM chg, 3mma","China, PPI, Purchasing price, Fuel and power, Contribution to % MoM chg, 3mma",None,bar
+"China, PPI, Purchasing price, Building materials, Contribution to % MoM chg, 3mma","China, PPI, Purchasing price, Building materials, Contribution to % MoM chg, 3mma",None,bar
+"China, PPI, Purchasing price, Agricultural, Contribution to % MoM chg, 3mma","China, PPI, Purchasing price, Agricultural, Contribution to % MoM chg, 3mma",None,bar
+"China, PPI, Purchasing price, Ferrous metals, Contribution to % MoM chg, 3mma","China, PPI, Purchasing price, Ferrous metals, Contribution to % MoM chg, 3mma",None,bar
+"China, PPI, Purchasing price, Nonferrous metals, Contribution to % MoM chg, 3mma","China, PPI, Purchasing price, Nonferrous metals, Contribution to % MoM chg, 3mma",None,bar
+"China, PPI, Purchasing price, Other, Contribution to % MoM chg, 3mma","China, PPI, Purchasing price, Other, Contribution to % MoM chg, 3mma",None,bar
+"China, PPI, Purchasing price, Raw chemicals, Contribution to % MoM chg, 3mma","China, PPI, Purchasing price, Raw chemicals, Contribution to % MoM chg, 3mma",None,bar
+"China, PPI, Purchasing price, Textiles, Contribution to % MoM chg, 3mma","China, PPI, Purchasing price, Textiles, Contribution to % MoM chg, 3mma",None,bar
+"China, PPI, Purchasing price, Timber and paper, Contribution to % MoM chg, 3mma","China, PPI, Purchasing price, Timber and paper, Contribution to % MoM chg, 3mma",None,bar
