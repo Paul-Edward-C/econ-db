@@ -192,7 +192,7 @@ def update_country_select(attrname, old, new):
         select_dict["db_select"].options = ["GDP", "Trade", "Inflation", "PPI"]
         if select_dict["db_select"].value not in select_dict["category_select"].options:
             select_dict["db_select"].value = select_dict["db_select"].options[0]
-    if select_dict["country_select"].value == "Taiwan":
+    elif select_dict["country_select"].value == "Taiwan":
         select_dict["db_select"].options = ["GDP", "Trade", "Inflation","MXPI", "PPI", "CPI WPI"]
         if select_dict["db_select"].value not in select_dict["category_select"].options:
             select_dict["db_select"].value = select_dict["db_select"].options[0]
