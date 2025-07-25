@@ -4,16 +4,18 @@ import shutil
 def main():
     print("Starting load_new_v2.py...")
     db_paths = [
-        "db/jp/gdp/q", "db/jp/export/m", "db/jp/inflation/m",
-        "db/cn/gdp/q", "db/cn/export/m", "db/cn/inflation/m",
-        "db/kr/gdp/q", "db/kr/export/m", "db/kr/inflation/m",
-        "db/tw/gdp/q", "db/tw/export/m", "db/tw/inflation/m"
+        "db/jp/gdp/q", "db/jp/export/m", "db/jp/inflation/m", "db/jp/ppi/m", "db/jp/mxpi/m",
+        "db/cn/gdp/q", "db/cn/export/m", "db/cn/inflation/m","db/cn/ppi/m", "db/cn/mxpi/m",
+        "db/kr/gdp/q", "db/kr/export/m", "db/kr/inflation/m","db/kr/ppi/m", "db/kr/mxpi/m",
+        "db/tw/gdp/q", "db/tw/export/m", "db/tw/inflation/m""db/tw/ppi/m", "db/tw/mxpi/m",  
     ]
     category_map = {
         "gdp": "GDP",
         "export": "Trade",
         "trade": "Trade",
-        "inflation": "Inflation"
+        "inflation": "Inflation",
+        "ppi" : 'PPI',
+        "mxpi" : "MXPI"
     }
 
     for path in db_paths:
