@@ -2527,14 +2527,12 @@ name,display_name,data_type,chart_type
 "Japan, PPI, Goods, Excluding extra charges for summer electricity, Index","Japan, PPI, Goods, Excluding extra charges for summer electricity, Index",None,line
 "Japan, PPI, Goods, Group, Electric power, gas and water excluding extra charges for summer electricity, Index","Japan, PPI, Goods, Group, Electric power, gas and water excluding extra charges for summer electricity, Index",None,line
 "Japan, PPI, Goods, Subgroup, Electric power excluding extra charges for summer electricity, Index","Japan, PPI, Goods, Subgroup, Electric power excluding extra charges for summer electricity, Index",None,line
-"Japan, Terms of trade, Index","Japan, Terms of trade, Index",None,line
 "Japan, PPI, Goods, Index, SA","Japan, PPI, Goods, Index, SA",None,line
 "Japan, PPI, Goods, Major group, Manufacturing industry products, Index, SA","Japan, PPI, Goods, Major group, Manufacturing industry products, Index, SA",None,line
 "Japan, PPI, Goods, Major group, Agriculture, forestry and fishery products, Index, SA","Japan, PPI, Goods, Major group, Agriculture, forestry and fishery products, Index, SA",None,line
 "Japan, PPI, Goods, Major group, Minerals, Index, SA","Japan, PPI, Goods, Major group, Minerals, Index, SA",None,line
 "Japan, PPI, Goods, Major group, Electric power, gas and water, Index, SA","Japan, PPI, Goods, Major group, Electric power, gas and water, Index, SA",None,line
 "Japan, PPI, Goods, Excluding extra charges for summer electricity, Index, SA","Japan, PPI, Goods, Excluding extra charges for summer electricity, Index, SA",None,line
-"Japan, Terms of trade, Index, SA","Japan, Terms of trade, Index, SA",None,line
 "Japan, PPI, Goods, % YoY","Japan, PPI, Goods, % YoY",None,line
 "Japan, PPI, Goods, Major group, Manufacturing industry products, % YoY","Japan, PPI, Goods, Major group, Manufacturing industry products, % YoY",None,line
 "Japan, PPI, Goods, Group, Beverages and foods, % YoY","Japan, PPI, Goods, Group, Beverages and foods, % YoY",None,line
@@ -3351,7 +3349,6 @@ name,display_name,data_type,chart_type
 "Japan, PPI, Goods, Excluding extra charges for summer electricity, % YoY","Japan, PPI, Goods, Excluding extra charges for summer electricity, % YoY",None,line
 "Japan, PPI, Goods, Group, Electric power, gas and water excluding extra charges for summer electricity, % YoY","Japan, PPI, Goods, Group, Electric power, gas and water excluding extra charges for summer electricity, % YoY",None,line
 "Japan, PPI, Goods, Subgroup, Electric power excluding extra charges for summer electricity, % YoY","Japan, PPI, Goods, Subgroup, Electric power excluding extra charges for summer electricity, % YoY",None,line
-"Japan, Terms of trade, % YoY","Japan, Terms of trade, % YoY",None,line
 "Japan, PPI, Goods, Index, 3mma","Japan, PPI, Goods, Index, 3mma",None,line
 "Japan, PPI, Goods, Major group, Manufacturing industry products, Index, 3mma","Japan, PPI, Goods, Major group, Manufacturing industry products, Index, 3mma",None,line
 "Japan, PPI, Goods, Group, Beverages and foods, Index, 3mma","Japan, PPI, Goods, Group, Beverages and foods, Index, 3mma",None,line
@@ -4168,14 +4165,12 @@ name,display_name,data_type,chart_type
 "Japan, PPI, Goods, Excluding extra charges for summer electricity, Index, 3mma","Japan, PPI, Goods, Excluding extra charges for summer electricity, Index, 3mma",None,line
 "Japan, PPI, Goods, Group, Electric power, gas and water excluding extra charges for summer electricity, Index, 3mma","Japan, PPI, Goods, Group, Electric power, gas and water excluding extra charges for summer electricity, Index, 3mma",None,line
 "Japan, PPI, Goods, Subgroup, Electric power excluding extra charges for summer electricity, Index, 3mma","Japan, PPI, Goods, Subgroup, Electric power excluding extra charges for summer electricity, Index, 3mma",None,line
-"Japan, Terms of trade, Index, 3mma","Japan, Terms of trade, Index, 3mma",None,line
 "Japan, PPI, Goods, Index, SA, 3mma","Japan, PPI, Goods, Index, SA, 3mma",None,line
 "Japan, PPI, Goods, Major group, Manufacturing industry products, Index, SA, 3mma","Japan, PPI, Goods, Major group, Manufacturing industry products, Index, SA, 3mma",None,line
 "Japan, PPI, Goods, Major group, Agriculture, forestry and fishery products, Index, SA, 3mma","Japan, PPI, Goods, Major group, Agriculture, forestry and fishery products, Index, SA, 3mma",None,line
 "Japan, PPI, Goods, Major group, Minerals, Index, SA, 3mma","Japan, PPI, Goods, Major group, Minerals, Index, SA, 3mma",None,line
 "Japan, PPI, Goods, Major group, Electric power, gas and water, Index, SA, 3mma","Japan, PPI, Goods, Major group, Electric power, gas and water, Index, SA, 3mma",None,line
 "Japan, PPI, Goods, Excluding extra charges for summer electricity, Index, SA, 3mma","Japan, PPI, Goods, Excluding extra charges for summer electricity, Index, SA, 3mma",None,line
-"Japan, Terms of trade, Index, SA, 3mma","Japan, Terms of trade, Index, SA, 3mma",None,line
 "Japan, PPI, Goods, % YoY, 3mma","Japan, PPI, Goods, % YoY, 3mma",None,line
 "Japan, PPI, Goods, Major group, Manufacturing industry products, % YoY, 3mma","Japan, PPI, Goods, Major group, Manufacturing industry products, % YoY, 3mma",None,line
 "Japan, PPI, Goods, Group, Beverages and foods, % YoY, 3mma","Japan, PPI, Goods, Group, Beverages and foods, % YoY, 3mma",None,line
@@ -4992,4 +4987,3 @@ name,display_name,data_type,chart_type
 "Japan, PPI, Goods, Excluding extra charges for summer electricity, % YoY, 3mma","Japan, PPI, Goods, Excluding extra charges for summer electricity, % YoY, 3mma",None,line
 "Japan, PPI, Goods, Group, Electric power, gas and water excluding extra charges for summer electricity, % YoY, 3mma","Japan, PPI, Goods, Group, Electric power, gas and water excluding extra charges for summer electricity, % YoY, 3mma",None,line
 "Japan, PPI, Goods, Subgroup, Electric power excluding extra charges for summer electricity, % YoY, 3mma","Japan, PPI, Goods, Subgroup, Electric power excluding extra charges for summer electricity, % YoY, 3mma",None,line
-"Japan, Terms of trade, % YoY, 3mma","Japan, Terms of trade, % YoY, 3mma",None,line
