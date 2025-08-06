@@ -71,7 +71,7 @@ class Tool:
             stylesheets=[self.setting.select_stylesheet],
         )
 
-        db_select_options = ["GDP", "Trade", "Inflation", "MXPI", "PPI"]
+        db_select_options = ["GDP", "Trade", "Inflation", "MXPI", "PPI", "Sentiment"]
         select_dict["db_select"] = Select(
             value=db_select_options[0],
             options=db_select_options,
@@ -403,7 +403,8 @@ class Setting:
             "Inflation": "Inflation",
             "ppi": "PPI",
             "mxpi": "MXPI",
-            "cpi_wpi": "CPI WPI"
+            "cpi_wpi": "CPI WPI",
+            "sentiment": "Sentiment"
         }
 
         self.freq_full_name_map = {"Q": "Quarterly", "M": "Monthly", "A": "Annual"}
@@ -450,6 +451,14 @@ class Setting:
                     "Monthly_setting_path": "db/jp/ppi/m/jp_ppi_m_setting.csv",
                     "Monthly_temp_setting_path": "db/jp/ppi/m/jp_ppi_m_setting_temp.csv",
                     "Pickle_path" : "db/jp/ppi/m/jp_ppi_pickle_path.pkl"
+                },
+                "Sentiment": {
+                    "M": True,
+                    "Monthly_data_path": "db/jp/sentiment/m/jp_sentiment_m_raw.csv",
+                    "Monthly_raw_data_path": "db/jp/sentiment/m/jp_sentiment_m_raw.csv",
+                    "Monthly_setting_path": "db/jp/sentiment/m/jp_sentiment_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/jp/sentiment/m/jp_sentiment_m_setting_temp.csv",
+                    "Pickle_path" : "db/jp/sentiment/m/jp_sentiment_pickle_path.pkl"
                 },
             },
             "Taiwan": {
@@ -501,6 +510,14 @@ class Setting:
                     "Monthly_temp_setting_path": "db/tw/cpi_wpi/m/tw_cpi_m_setting_temp.csv",
                     "Pickle_path" : "db/tw/cpi_wpi/m/tw_cpi_pickle_path.pkl"
                 },
+                "Sentiment": {
+                    "M": True,
+                    "Monthly_data_path": "db/tw/sentiment/m/tw_sentiment_m_raw.csv",
+                    "Monthly_raw_data_path": "db/tw/sentiment/m/tw_sentiment_m_raw.csv",
+                    "Monthly_setting_path": "db/tw/sentiment/m/tw_sentiment_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/tw/sentiment/m/tw_sentiment_m_setting_temp.csv",
+                    "Pickle_path" : "db/tw/sentiment/m/tw_sentiment_pickle_path.pkl"
+                },
             },
             "Korea": {
                 "GDP": {
@@ -543,6 +560,14 @@ class Setting:
                     "Monthly_temp_setting_path": "db/kr/ppi/m/kr_ppi_m_setting_temp.csv",
                     "Pickle_path" : "db/kr/ppi/m/kr_ppi_pickle_path.pkl"
                 },
+                "Sentiment": {
+                    "M": True,
+                    "Monthly_data_path": "db/kr/sentiment/m/kr_sentiment_m_raw.csv",
+                    "Monthly_raw_data_path": "db/kr/sentiment/m/kr_sentiment_m_raw.csv",
+                    "Monthly_setting_path": "db/kr/sentiment/m/kr_sentiment_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/kr/sentiment/m/kr_sentiment_m_setting_temp.csv",
+                    "Pickle_path" : "db/kr/sentiment/m/kr_sentiment_pickle_path.pkl"
+                },
             },
             "China": {
                 "GDP": {
@@ -576,6 +601,14 @@ class Setting:
                     "Monthly_setting_path": "db/cn/ppi/m/cn_ppi_m_setting.csv",
                     "Monthly_temp_setting_path": "db/cn/ppi/m/cn_ppi_m_setting_temp.csv",
                     "Pickle_path" : "db/cn/ppi/m/cn_ppi_pickle_path.pkl"
+                },
+                "Sentiment": {
+                    "M": True,
+                    "Monthly_data_path": "db/cn/sentiment/m/cn_sentiment_m_raw.csv",
+                    "Monthly_raw_data_path": "db/cn/sentiment/m/cn_sentiment_m_raw.csv",
+                    "Monthly_setting_path": "db/cn/sentiment/m/cn_sentiment_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/cn/sentiment/m/cn_sentiment_m_setting_temp.csv",
+                    "Pickle_path" : "db/cn/sentiment/m/cn_sentiment_pickle_path.pkl"
                 },
             },
         }

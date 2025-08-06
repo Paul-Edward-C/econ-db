@@ -190,15 +190,15 @@ def update_country_select(attrname, old, new):
     print(os.getcwd())
 
     if select_dict["country_select"].value == "China":
-        select_dict["db_select"].options = ["GDP", "Trade", "Inflation", "PPI"]
+        select_dict["db_select"].options = ["GDP", "Trade", "Inflation", "PPI", "Sentiment"]
         if select_dict["db_select"].value not in select_dict["category_select"].options:
             select_dict["db_select"].value = select_dict["db_select"].options[0]
     elif select_dict["country_select"].value == "Taiwan":
-        select_dict["db_select"].options = ["GDP", "Trade", "Inflation","MXPI", "PPI", "CPI WPI"]
+        select_dict["db_select"].options = ["GDP", "Trade", "Inflation","MXPI", "PPI", "CPI WPI", "Sentiment"]
         if select_dict["db_select"].value not in select_dict["category_select"].options:
             select_dict["db_select"].value = select_dict["db_select"].options[0]
     else:
-        select_dict["db_select"].options = ["GDP", "Trade", "Inflation", "MXPI", "PPI"]
+        select_dict["db_select"].options = ["GDP", "Trade", "Inflation", "MXPI", "PPI", "Sentiment"]
         if select_dict["db_select"].value not in select_dict["category_select"].options:
             select_dict["db_select"].value = select_dict["db_select"].options[0]
 
@@ -707,6 +707,16 @@ def add_button_callback():
             matched_columns=matched_columns,
         )
     elif select_dict["db_select"].value == "CPI WPI":
+        data, data_setting = tool.read_data(
+            data_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
+                "Monthly_data_path"
+            ],
+            setting_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
+                "Monthly_setting_path"
+            ],
+            matched_columns=matched_columns,
+        )
+    elif select_dict["db_select"].value == "Sentiment":
         data, data_setting = tool.read_data(
             data_path=setting.structure[select_dict["country_select"].value][select_dict["db_select"].value][
                 "Monthly_data_path"

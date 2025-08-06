@@ -35,6 +35,8 @@ class Data_Setting_Generator:
             category = "MXPI"
         if category == "cpi_wpi":
             category = "CPI WPI"
+        if category == "sentiment":
+            category = "Sentiment"
         print(country)
 
         raw_data_path = self.setting.structure[country][category][f"{freq_full}_data_path"]
