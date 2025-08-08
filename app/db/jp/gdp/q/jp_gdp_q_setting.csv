@@ -1437,8 +1437,8 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, JPY bn","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, JPY bn",None,line
 "Japan, NGDP, Income, Households, Consumption of households, SAAR, JPY bn","Japan, NGDP, Income, Households, Consumption of households, SAAR, JPY bn",None,line
 "Japan, NGDP, Income, Households, Saving, SAAR, JPY bn","Japan, NGDP, Income, Households, Saving, SAAR, JPY bn",None,line
-"Japan, NGDP, Income, Households, Saving ratio, %, SA","Japan, NGDP, Income, Households, Saving ratio, %, SA",None,line
 "Japan, RGDP, Income, Households, GDI, SAAR, JPY bn","Japan, RGDP, Income, Households, GDI, SAAR, JPY bn",None,line
+"Japan, NGDP, Income, Households, Saving ratio, %, SA","Japan, NGDP, Income, Households, Saving ratio, %, SA",None,line
 "Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, JPY bn","Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, JPY bn",None,line
 "Japan, NGDP, Income, Households, Net taxes and social security, SAAR, JPY bn","Japan, NGDP, Income, Households, Net taxes and social security, SAAR, JPY bn",None,line
 "Japan, NGDP, Income, Households, Operating surplus and mixed income, SA, JPY bn","Japan, NGDP, Income, Households, Operating surplus and mixed income, SA, JPY bn",None,line
@@ -1466,8 +1466,8 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, JPY bn","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, JPY bn",None,line
 "Japan, NGDP, Income, Households, Consumption of households, JPY bn","Japan, NGDP, Income, Households, Consumption of households, JPY bn",None,line
 "Japan, NGDP, Income, Households, Saving, JPY bn","Japan, NGDP, Income, Households, Saving, JPY bn",None,line
-"Japan, NGDP, Income, Households, Saving ratio, %, JPY bn","Japan, NGDP, Income, Households, Saving ratio, %, JPY bn",None,line
 "Japan, RGDP, Income, Households, GDI, JPY bn","Japan, RGDP, Income, Households, GDI, JPY bn",None,line
+"Japan, NGDP, Income, Households, Saving ratio, %","Japan, NGDP, Income, Households, Saving ratio, %",None,line
 "Japan, NGDP, Income, Households, Operating surplus and mixed income, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, Operating surplus and mixed income, SAAR, JPY bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Compensation of employees, receivable, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, Compensation of employees, receivable, SAAR, JPY bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Property income, net, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, Property income, net, SAAR, JPY bn, 3M chg",None,line
@@ -1493,34 +1493,6 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY bn","Japan, RGDP, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY bn",None,line
 "Japan, RGDP, Households, Taxes and social security, payable, SA, JPY bn","Japan, RGDP, Households, Taxes and social security, payable, SA, JPY bn",None,line
 "Japan, RGDP, Households, Consumption of households, SA, JPY bn","Japan, RGDP, Households, Consumption of households, SA, JPY bn",None,line
-"Japan, NGDP, Income, Households, Operating surplus and mixed income, SAAR, JPY bn, % YoY","Japan, NGDP, Income, Households, Operating surplus and mixed income, SAAR, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Compensation of employees, receivable, SAAR, JPY bn, % YoY","Japan, NGDP, Income, Households, Compensation of employees, receivable, SAAR, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Property income, net, SAAR, JPY bn, % YoY","Japan, NGDP, Income, Households, Property income, net, SAAR, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Current taxes on income, wealth, etc., payable, SAAR, JPY bn, % YoY","Japan, NGDP, Income, Households, Current taxes on income, wealth, etc., payable, SAAR, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Net social contributions, payable, SAAR, JPY bn, % YoY","Japan, NGDP, Income, Households, Net social contributions, payable, SAAR, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Social benefits other than social transfers in kind, receivable, SAAR, JPY bn, % YoY","Japan, NGDP, Income, Households, Social benefits other than social transfers in kind, receivable, SAAR, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Other current transfers, net, SAAR, JPY bn, % YoY","Japan, NGDP, Income, Households, Other current transfers, net, SAAR, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, GDI, SAAR, JPY bn, % YoY","Japan, NGDP, Income, Households, GDI, SAAR, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, JPY bn, % YoY","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SAAR, JPY bn, % YoY","Japan, NGDP, Income, Households, Consumption of households, SAAR, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Saving, SAAR, JPY bn, % YoY","Japan, NGDP, Income, Households, Saving, SAAR, JPY bn, % YoY",None,line
-"Japan, RGDP, Income, Households, GDI, SAAR, JPY bn, % YoY","Japan, RGDP, Income, Households, GDI, SAAR, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, JPY bn, % YoY","Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Net taxes and social security, SAAR, JPY bn, % YoY","Japan, NGDP, Income, Households, Net taxes and social security, SAAR, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Operating surplus and mixed income, SA, JPY bn, % YoY","Japan, NGDP, Income, Households, Operating surplus and mixed income, SA, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Compensation of employees, receivable, SA, JPY bn, % YoY","Japan, NGDP, Income, Households, Compensation of employees, receivable, SA, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Property income, net, SA, JPY bn, % YoY","Japan, NGDP, Income, Households, Property income, net, SA, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Current taxes on income, wealth, etc., payable, SA, JPY bn, % YoY","Japan, NGDP, Income, Households, Current taxes on income, wealth, etc., payable, SA, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Net social contributions, payable, SA, JPY bn, % YoY","Japan, NGDP, Income, Households, Net social contributions, payable, SA, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Social benefits other than social transfers in kind, receivable, SA, JPY bn, % YoY","Japan, NGDP, Income, Households, Social benefits other than social transfers in kind, receivable, SA, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Other current transfers, net, SA, JPY bn, % YoY","Japan, NGDP, Income, Households, Other current transfers, net, SA, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, GDI, SA, JPY bn, % YoY","Japan, NGDP, Income, Households, GDI, SA, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY bn, % YoY","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, JPY bn, % YoY","Japan, NGDP, Income, Households, Consumption of households, SA, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Saving, SA, JPY bn, % YoY","Japan, NGDP, Income, Households, Saving, SA, JPY bn, % YoY",None,line
-"Japan, RGDP, Income, Households, GDI, SA, JPY bn, % YoY","Japan, RGDP, Income, Households, GDI, SA, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Taxes and social security, payable, SA, JPY bn, % YoY","Japan, NGDP, Income, Households, Taxes and social security, payable, SA, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Net taxes and social security, SA, JPY bn, % YoY","Japan, NGDP, Income, Households, Net taxes and social security, SA, JPY bn, % YoY",None,line
 "Japan, NGDP, Income, Households, Operating surplus and mixed income, JPY bn, % YoY","Japan, NGDP, Income, Households, Operating surplus and mixed income, JPY bn, % YoY",None,line
 "Japan, NGDP, Income, Households, Compensation of employees, receivable, JPY bn, % YoY","Japan, NGDP, Income, Households, Compensation of employees, receivable, JPY bn, % YoY",None,line
 "Japan, NGDP, Income, Households, Property income, net, JPY bn, % YoY","Japan, NGDP, Income, Households, Property income, net, JPY bn, % YoY",None,line
@@ -1532,33 +1504,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, JPY bn, % YoY","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, JPY bn, % YoY",None,line
 "Japan, NGDP, Income, Households, Consumption of households, JPY bn, % YoY","Japan, NGDP, Income, Households, Consumption of households, JPY bn, % YoY",None,line
 "Japan, NGDP, Income, Households, Saving, JPY bn, % YoY","Japan, NGDP, Income, Households, Saving, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Saving ratio, %, JPY bn, % YoY","Japan, NGDP, Income, Households, Saving ratio, %, JPY bn, % YoY",None,line
 "Japan, RGDP, Income, Households, GDI, JPY bn, % YoY","Japan, RGDP, Income, Households, GDI, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Operating surplus and mixed income, SAAR, JPY bn, 3M chg, % YoY","Japan, NGDP, Income, Households, Operating surplus and mixed income, SAAR, JPY bn, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Compensation of employees, receivable, SAAR, JPY bn, 3M chg, % YoY","Japan, NGDP, Income, Households, Compensation of employees, receivable, SAAR, JPY bn, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Property income, net, SAAR, JPY bn, 3M chg, % YoY","Japan, NGDP, Income, Households, Property income, net, SAAR, JPY bn, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Current taxes on income, wealth, etc., payable, SAAR, JPY bn, 3M chg, % YoY","Japan, NGDP, Income, Households, Current taxes on income, wealth, etc., payable, SAAR, JPY bn, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Net social contributions, payable, SAAR, JPY bn, 3M chg, % YoY","Japan, NGDP, Income, Households, Net social contributions, payable, SAAR, JPY bn, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Social benefits other than social transfers in kind, receivable, SAAR, JPY bn, 3M chg, % YoY","Japan, NGDP, Income, Households, Social benefits other than social transfers in kind, receivable, SAAR, JPY bn, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Other current transfers, net, SAAR, JPY bn, 3M chg, % YoY","Japan, NGDP, Income, Households, Other current transfers, net, SAAR, JPY bn, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, GDI, SAAR, JPY bn, 3M chg, % YoY","Japan, NGDP, Income, Households, GDI, SAAR, JPY bn, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, JPY bn, 3M chg, % YoY","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, JPY bn, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SAAR, JPY bn, 3M chg, % YoY","Japan, NGDP, Income, Households, Consumption of households, SAAR, JPY bn, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Saving, SAAR, JPY bn, 3M chg, % YoY","Japan, NGDP, Income, Households, Saving, SAAR, JPY bn, 3M chg, % YoY",None,line
-"Japan, RGDP, Income, Households, GDI, SAAR, JPY bn, 3M chg, % YoY","Japan, RGDP, Income, Households, GDI, SAAR, JPY bn, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, JPY bn, 3M chg, % YoY","Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, JPY bn, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Net taxes and social security, SAAR, JPY bn, 3M chg, % YoY","Japan, NGDP, Income, Households, Net taxes and social security, SAAR, JPY bn, 3M chg, % YoY",None,line
-"Japan, RGDP, Households, Operating surplus and mixed income, SA, JPY bn, % YoY","Japan, RGDP, Households, Operating surplus and mixed income, SA, JPY bn, % YoY",None,line
-"Japan, RGDP, Households, Compensation of employees, receivable, SA, JPY bn, % YoY","Japan, RGDP, Households, Compensation of employees, receivable, SA, JPY bn, % YoY",None,line
-"Japan, RGDP, Households, Property income, net, SA, JPY bn, % YoY","Japan, RGDP, Households, Property income, net, SA, JPY bn, % YoY",None,line
-"Japan, RGDP, Households, Current taxes on income, wealth, etc., payable, SA, JPY bn, % YoY","Japan, RGDP, Households, Current taxes on income, wealth, etc., payable, SA, JPY bn, % YoY",None,line
-"Japan, RGDP, Households, Net social contributions, payable, SA, JPY bn, % YoY","Japan, RGDP, Households, Net social contributions, payable, SA, JPY bn, % YoY",None,line
-"Japan, RGDP, Households, Social benefits other than social transfers in kind, receivable, SA, JPY bn, % YoY","Japan, RGDP, Households, Social benefits other than social transfers in kind, receivable, SA, JPY bn, % YoY",None,line
-"Japan, RGDP, Households, Other current transfers, net, SA, JPY bn, % YoY","Japan, RGDP, Households, Other current transfers, net, SA, JPY bn, % YoY",None,line
-"Japan, RGDP, Households, GDI, SA, JPY bn, % YoY","Japan, RGDP, Households, GDI, SA, JPY bn, % YoY",None,line
-"Japan, RGDP, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY bn, % YoY","Japan, RGDP, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY bn, % YoY",None,line
-"Japan, RGDP, Households, Taxes and social security, payable, SA, JPY bn, % YoY","Japan, RGDP, Households, Taxes and social security, payable, SA, JPY bn, % YoY",None,line
-"Japan, RGDP, Households, Consumption of households, SA, JPY bn, % YoY","Japan, RGDP, Households, Consumption of households, SA, JPY bn, % YoY",None,line
 "Japan, NGDP, Expenditure, Employee compensation, JPY bn","Japan, NGDP, Expenditure, Employee compensation, JPY bn",None,line
 "Japan, NGDP, Expenditure, Employee compensation, % YoY","Japan, NGDP, Expenditure, Employee compensation, % YoY",None,line
 "Japan, NGDP, Expenditure, Employee compensation, SAAR, JPY bn","Japan, NGDP, Expenditure, Employee compensation, SAAR, JPY bn",None,line
@@ -1754,45 +1700,6 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Saving, % of GDP","Japan, NGDP, Income, Households, Saving, % of GDP",None,line
 "Japan, NGDP, Income, Households, Taxes and social security, payable, % of GDP","Japan, NGDP, Income, Households, Taxes and social security, payable, % of GDP",None,line
 "Japan, NGDP, Income, Households, Net taxes and social security, % of GDP","Japan, NGDP, Income, Households, Net taxes and social security, % of GDP",None,line
-"Japan, NGDP, Income, Households, Operating surplus and mixed income, % of GDP, 3M chg","Japan, NGDP, Income, Households, Operating surplus and mixed income, % of GDP, 3M chg",None,line
-"Japan, NGDP, Income, Households, Compensation of employees, receivable, % of GDP, 3M chg","Japan, NGDP, Income, Households, Compensation of employees, receivable, % of GDP, 3M chg",None,line
-"Japan, NGDP, Income, Households, Property income, net, % of GDP, 3M chg","Japan, NGDP, Income, Households, Property income, net, % of GDP, 3M chg",None,line
-"Japan, NGDP, Income, Households, Current taxes on income, wealth, etc., payable, % of GDP, 3M chg","Japan, NGDP, Income, Households, Current taxes on income, wealth, etc., payable, % of GDP, 3M chg",None,line
-"Japan, NGDP, Income, Households, Net social contributions, payable, % of GDP, 3M chg","Japan, NGDP, Income, Households, Net social contributions, payable, % of GDP, 3M chg",None,line
-"Japan, NGDP, Income, Households, Social benefits other than social transfers in kind, receivable, % of GDP, 3M chg","Japan, NGDP, Income, Households, Social benefits other than social transfers in kind, receivable, % of GDP, 3M chg",None,line
-"Japan, NGDP, Income, Households, Other current transfers, net, % of GDP, 3M chg","Japan, NGDP, Income, Households, Other current transfers, net, % of GDP, 3M chg",None,line
-"Japan, NGDP, Income, Households, GDI, % of GDP, 3M chg","Japan, NGDP, Income, Households, GDI, % of GDP, 3M chg",None,line
-"Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, % of GDP, 3M chg","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, % of GDP, 3M chg",None,line
-"Japan, NGDP, Income, Households, Consumption of households, % of GDP, 3M chg","Japan, NGDP, Income, Households, Consumption of households, % of GDP, 3M chg",None,line
-"Japan, NGDP, Income, Households, Saving, % of GDP, 3M chg","Japan, NGDP, Income, Households, Saving, % of GDP, 3M chg",None,line
-"Japan, NGDP, Income, Households, Taxes and social security, payable, % of GDP, 3M chg","Japan, NGDP, Income, Households, Taxes and social security, payable, % of GDP, 3M chg",None,line
-"Japan, NGDP, Income, Households, Net taxes and social security, % of GDP, 3M chg","Japan, NGDP, Income, Households, Net taxes and social security, % of GDP, 3M chg",None,line
-"Japan, NGDP, Income, Households, Operating surplus and mixed income, % of GDP, % YoY","Japan, NGDP, Income, Households, Operating surplus and mixed income, % of GDP, % YoY",None,line
-"Japan, NGDP, Income, Households, Compensation of employees, receivable, % of GDP, % YoY","Japan, NGDP, Income, Households, Compensation of employees, receivable, % of GDP, % YoY",None,line
-"Japan, NGDP, Income, Households, Property income, net, % of GDP, % YoY","Japan, NGDP, Income, Households, Property income, net, % of GDP, % YoY",None,line
-"Japan, NGDP, Income, Households, Current taxes on income, wealth, etc., payable, % of GDP, % YoY","Japan, NGDP, Income, Households, Current taxes on income, wealth, etc., payable, % of GDP, % YoY",None,line
-"Japan, NGDP, Income, Households, Net social contributions, payable, % of GDP, % YoY","Japan, NGDP, Income, Households, Net social contributions, payable, % of GDP, % YoY",None,line
-"Japan, NGDP, Income, Households, Social benefits other than social transfers in kind, receivable, % of GDP, % YoY","Japan, NGDP, Income, Households, Social benefits other than social transfers in kind, receivable, % of GDP, % YoY",None,line
-"Japan, NGDP, Income, Households, Other current transfers, net, % of GDP, % YoY","Japan, NGDP, Income, Households, Other current transfers, net, % of GDP, % YoY",None,line
-"Japan, NGDP, Income, Households, GDI, % of GDP, % YoY","Japan, NGDP, Income, Households, GDI, % of GDP, % YoY",None,line
-"Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, % of GDP, % YoY","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, % of GDP, % YoY",None,line
-"Japan, NGDP, Income, Households, Consumption of households, % of GDP, % YoY","Japan, NGDP, Income, Households, Consumption of households, % of GDP, % YoY",None,line
-"Japan, NGDP, Income, Households, Saving, % of GDP, % YoY","Japan, NGDP, Income, Households, Saving, % of GDP, % YoY",None,line
-"Japan, NGDP, Income, Households, Taxes and social security, payable, % of GDP, % YoY","Japan, NGDP, Income, Households, Taxes and social security, payable, % of GDP, % YoY",None,line
-"Japan, NGDP, Income, Households, Net taxes and social security, % of GDP, % YoY","Japan, NGDP, Income, Households, Net taxes and social security, % of GDP, % YoY",None,line
-"Japan, NGDP, Income, Households, Operating surplus and mixed income, % of GDP, 3M chg, % YoY","Japan, NGDP, Income, Households, Operating surplus and mixed income, % of GDP, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Compensation of employees, receivable, % of GDP, 3M chg, % YoY","Japan, NGDP, Income, Households, Compensation of employees, receivable, % of GDP, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Property income, net, % of GDP, 3M chg, % YoY","Japan, NGDP, Income, Households, Property income, net, % of GDP, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Current taxes on income, wealth, etc., payable, % of GDP, 3M chg, % YoY","Japan, NGDP, Income, Households, Current taxes on income, wealth, etc., payable, % of GDP, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Net social contributions, payable, % of GDP, 3M chg, % YoY","Japan, NGDP, Income, Households, Net social contributions, payable, % of GDP, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Social benefits other than social transfers in kind, receivable, % of GDP, 3M chg, % YoY","Japan, NGDP, Income, Households, Social benefits other than social transfers in kind, receivable, % of GDP, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Other current transfers, net, % of GDP, 3M chg, % YoY","Japan, NGDP, Income, Households, Other current transfers, net, % of GDP, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, GDI, % of GDP, 3M chg, % YoY","Japan, NGDP, Income, Households, GDI, % of GDP, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, % of GDP, 3M chg, % YoY","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, % of GDP, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Consumption of households, % of GDP, 3M chg, % YoY","Japan, NGDP, Income, Households, Consumption of households, % of GDP, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Saving, % of GDP, 3M chg, % YoY","Japan, NGDP, Income, Households, Saving, % of GDP, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Taxes and social security, payable, % of GDP, 3M chg, % YoY","Japan, NGDP, Income, Households, Taxes and social security, payable, % of GDP, 3M chg, % YoY",None,line
-"Japan, NGDP, Income, Households, Net taxes and social security, % of GDP, 3M chg, % YoY","Japan, NGDP, Income, Households, Net taxes and social security, % of GDP, 3M chg, % YoY",None,line
 "Japan, NGDP, Expenditure, Employee compensation, % of GDP","Japan, NGDP, Expenditure, Employee compensation, % of GDP",None,line
 "Japan, RGDP, HP filter, cycle","Japan, RGDP, HP filter, cycle",None,line
 "Japan, RGDP, HP filter, trend","Japan, RGDP, HP filter, trend",None,line

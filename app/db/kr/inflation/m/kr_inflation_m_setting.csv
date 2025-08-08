@@ -2759,6 +2759,7 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Core, gap over target, ppts, 3mma","Korea, CPI, Core, gap over target, ppts, 3mma",None,line
 "Korea, CPI, Headline SA, % annualised, gap over target, ppts, 3mma","Korea, CPI, Headline SA, % annualised, gap over target, ppts, 3mma",None,line
 "Korea, CPI, Services, Public services, % YoY, 12mma, 3mma","Korea, CPI, Services, Public services, % YoY, 12mma, 3mma",None,line
+"Korea, CPI, Services, Private services, Other, % YoY, 12mma","Korea, CPI, Services, Private services, Other, % YoY, 12mma",None,line
 "Korea, CPI, All items, % YoY, momentum, 3mma","Korea, CPI, All items, % YoY, momentum, 3mma",None,line
 "Korea, CPI, Model, CPI momentum","Korea, CPI, Model, CPI momentum",None,line
 "Korea, CPI, Model, based on BSI prices, % YoY, 3mma","Korea, CPI, Model, based on BSI prices, % YoY, 3mma",None,line
