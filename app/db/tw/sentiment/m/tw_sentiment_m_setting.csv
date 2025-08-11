@@ -1,0 +1,534 @@
+name,display_name,data_type,chart_type
+"Taiwan, Sentimnent, Consumer, Index","Taiwan, Sentimnent, Consumer, Index",None,line
+"Taiwan, Sentimnent, Consumer, Index, 12M chg","Taiwan, Sentimnent, Consumer, Index, 12M chg",None,line
+"Taiwan, Sentimnent, Consumer, Index, SA","Taiwan, Sentimnent, Consumer, Index, SA",None,line
+"Taiwan, Sentimnent, Consumer, Index, 3mma","Taiwan, Sentimnent, Consumer, Index, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Index, 12M chg, 3mma","Taiwan, Sentimnent, Consumer, Index, 12M chg, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Index, SA, 3mma","Taiwan, Sentimnent, Consumer, Index, SA, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Expected prices, Index","Taiwan, Sentimnent, Consumer, Expected prices, Index",None,line
+"Taiwan, Sentimnent, Consumer, Household economic situation, Index","Taiwan, Sentimnent, Consumer, Household economic situation, Index",None,line
+"Taiwan, Sentimnent, Consumer, National economy situation, Index","Taiwan, Sentimnent, Consumer, National economy situation, Index",None,line
+"Taiwan, Sentimnent, Consumer, Employment, Index","Taiwan, Sentimnent, Consumer, Employment, Index",None,line
+"Taiwan, Sentimnent, Consumer, Stockmarket prospects, Index","Taiwan, Sentimnent, Consumer, Stockmarket prospects, Index",None,line
+"Taiwan, Sentimnent, Consumer, Durable goods purchase intentions, Index","Taiwan, Sentimnent, Consumer, Durable goods purchase intentions, Index",None,line
+"Taiwan, Sentimnent, Consumer, Health situation, Index","Taiwan, Sentimnent, Consumer, Health situation, Index",None,line
+"Taiwan, Sentimnent, Consumer, Health expectations, Index","Taiwan, Sentimnent, Consumer, Health expectations, Index",None,line
+"Taiwan, Sentimnent, Consumer, House purchase intentions, Index","Taiwan, Sentimnent, Consumer, House purchase intentions, Index",None,line
+"Taiwan, Sentimnent, Consumer, Expected prices, Index, 12M chg","Taiwan, Sentimnent, Consumer, Expected prices, Index, 12M chg",None,line
+"Taiwan, Sentimnent, Consumer, Household economic situation, Index, 12M chg","Taiwan, Sentimnent, Consumer, Household economic situation, Index, 12M chg",None,line
+"Taiwan, Sentimnent, Consumer, National economy situation, Index, 12M chg","Taiwan, Sentimnent, Consumer, National economy situation, Index, 12M chg",None,line
+"Taiwan, Sentimnent, Consumer, Employment, Index, 12M chg","Taiwan, Sentimnent, Consumer, Employment, Index, 12M chg",None,line
+"Taiwan, Sentimnent, Consumer, Stockmarket prospects, Index, 12M chg","Taiwan, Sentimnent, Consumer, Stockmarket prospects, Index, 12M chg",None,line
+"Taiwan, Sentimnent, Consumer, Durable goods purchase intentions, Index, 12M chg","Taiwan, Sentimnent, Consumer, Durable goods purchase intentions, Index, 12M chg",None,line
+"Taiwan, Sentimnent, Consumer, Health situation, Index, 12M chg","Taiwan, Sentimnent, Consumer, Health situation, Index, 12M chg",None,line
+"Taiwan, Sentimnent, Consumer, Health expectations, Index, 12M chg","Taiwan, Sentimnent, Consumer, Health expectations, Index, 12M chg",None,line
+"Taiwan, Sentimnent, Consumer, House purchase intentions, Index, 12M chg","Taiwan, Sentimnent, Consumer, House purchase intentions, Index, 12M chg",None,line
+"Taiwan, Sentimnent, Consumer, Expected prices, Index, SA","Taiwan, Sentimnent, Consumer, Expected prices, Index, SA",None,line
+"Taiwan, Sentimnent, Consumer, Household economic situation, Index, SA","Taiwan, Sentimnent, Consumer, Household economic situation, Index, SA",None,line
+"Taiwan, Sentimnent, Consumer, National economy situation, Index, SA","Taiwan, Sentimnent, Consumer, National economy situation, Index, SA",None,line
+"Taiwan, Sentimnent, Consumer, Employment, Index, SA","Taiwan, Sentimnent, Consumer, Employment, Index, SA",None,line
+"Taiwan, Sentimnent, Consumer, Stockmarket prospects, Index, SA","Taiwan, Sentimnent, Consumer, Stockmarket prospects, Index, SA",None,line
+"Taiwan, Sentimnent, Consumer, Durable goods purchase intentions, Index, SA","Taiwan, Sentimnent, Consumer, Durable goods purchase intentions, Index, SA",None,line
+"Taiwan, Sentimnent, Consumer, Health situation, Index, SA","Taiwan, Sentimnent, Consumer, Health situation, Index, SA",None,line
+"Taiwan, Sentimnent, Consumer, Health expectations, Index, SA","Taiwan, Sentimnent, Consumer, Health expectations, Index, SA",None,line
+"Taiwan, Sentimnent, Consumer, House purchase intentions, Index, SA","Taiwan, Sentimnent, Consumer, House purchase intentions, Index, SA",None,line
+"Taiwan, Sentimnent, Consumer, Expected prices, Index, 3mma","Taiwan, Sentimnent, Consumer, Expected prices, Index, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Household economic situation, Index, 3mma","Taiwan, Sentimnent, Consumer, Household economic situation, Index, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, National economy situation, Index, 3mma","Taiwan, Sentimnent, Consumer, National economy situation, Index, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Employment, Index, 3mma","Taiwan, Sentimnent, Consumer, Employment, Index, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Stockmarket prospects, Index, 3mma","Taiwan, Sentimnent, Consumer, Stockmarket prospects, Index, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Durable goods purchase intentions, Index, 3mma","Taiwan, Sentimnent, Consumer, Durable goods purchase intentions, Index, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Health situation, Index, 3mma","Taiwan, Sentimnent, Consumer, Health situation, Index, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Health expectations, Index, 3mma","Taiwan, Sentimnent, Consumer, Health expectations, Index, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, House purchase intentions, Index, 3mma","Taiwan, Sentimnent, Consumer, House purchase intentions, Index, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Expected prices, Index, 12M chg, 3mma","Taiwan, Sentimnent, Consumer, Expected prices, Index, 12M chg, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Household economic situation, Index, 12M chg, 3mma","Taiwan, Sentimnent, Consumer, Household economic situation, Index, 12M chg, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, National economy situation, Index, 12M chg, 3mma","Taiwan, Sentimnent, Consumer, National economy situation, Index, 12M chg, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Employment, Index, 12M chg, 3mma","Taiwan, Sentimnent, Consumer, Employment, Index, 12M chg, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Stockmarket prospects, Index, 12M chg, 3mma","Taiwan, Sentimnent, Consumer, Stockmarket prospects, Index, 12M chg, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Durable goods purchase intentions, Index, 12M chg, 3mma","Taiwan, Sentimnent, Consumer, Durable goods purchase intentions, Index, 12M chg, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Health situation, Index, 12M chg, 3mma","Taiwan, Sentimnent, Consumer, Health situation, Index, 12M chg, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Health expectations, Index, 12M chg, 3mma","Taiwan, Sentimnent, Consumer, Health expectations, Index, 12M chg, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, House purchase intentions, Index, 12M chg, 3mma","Taiwan, Sentimnent, Consumer, House purchase intentions, Index, 12M chg, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Expected prices, Index, SA, 3mma","Taiwan, Sentimnent, Consumer, Expected prices, Index, SA, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Household economic situation, Index, SA, 3mma","Taiwan, Sentimnent, Consumer, Household economic situation, Index, SA, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, National economy situation, Index, SA, 3mma","Taiwan, Sentimnent, Consumer, National economy situation, Index, SA, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Employment, Index, SA, 3mma","Taiwan, Sentimnent, Consumer, Employment, Index, SA, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Stockmarket prospects, Index, SA, 3mma","Taiwan, Sentimnent, Consumer, Stockmarket prospects, Index, SA, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Durable goods purchase intentions, Index, SA, 3mma","Taiwan, Sentimnent, Consumer, Durable goods purchase intentions, Index, SA, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Health situation, Index, SA, 3mma","Taiwan, Sentimnent, Consumer, Health situation, Index, SA, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, Health expectations, Index, SA, 3mma","Taiwan, Sentimnent, Consumer, Health expectations, Index, SA, 3mma",None,line
+"Taiwan, Sentimnent, Consumer, House purchase intentions, Index, SA, 3mma","Taiwan, Sentimnent, Consumer, House purchase intentions, Index, SA, 3mma",None,line
+"Taiwan, Sentimnent, Business, S&P PMI, Manufacturing","Taiwan, Sentimnent, Business, S&P PMI, Manufacturing",None,line
+"Taiwan, Sentimnent, Business, S&P PMI, Manufacturing, 3mma","Taiwan, Sentimnent, Business, S&P PMI, Manufacturing, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Mfg","Taiwan, Sentimnent, Business, NDC PMI, All, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Mfg","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Mfg","Taiwan, Sentimnent, Business, NDC PMI, Production, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Mfg","Taiwan, Sentimnent, Business, NDC PMI, Employment, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Mfg","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Mfg","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Mfg","Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Mfg","Taiwan, Sentimnent, Business, NDC PMI, Prices, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Mfg","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Mfg","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Mfg","Taiwan, Sentimnent, Business, NDC PMI, Imports, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Mfg","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Mfg","Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Mfg","Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Mfg","Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, All, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, Production, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, Employment, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, Prices, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, Imports, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, All, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, Production, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, Employment, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, Prices, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, Imports, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, All, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, Production, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, Employment, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, Prices, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, Imports, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, All, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, Production, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, Employment, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, Prices, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, Imports, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, All, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, Production, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, Employment, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, Prices, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, Imports, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, All, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, Production, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, Employment, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, Prices, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, Imports, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Mfg, 1M chg","Taiwan, Sentimnent, Business, NDC PMI, All, Mfg, 1M chg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Mfg, 1M chg","Taiwan, Sentimnent, Business, NDC PMI, Production, Mfg, 1M chg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Mfg","Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Mfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Chemicals","Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Chemicals",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Electronic & optical","Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Electronic & optical",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Food & textile","Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Food & textile",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Basic materials","Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Basic materials",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Transport & equipment","Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Transport & equipment",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Electrical machinery","Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Electrical machinery",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Nonmfg","Taiwan, Sentimnent, Business, NDC PMI, All, Nonmfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Nonmfg","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Nonmfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Nonmfg","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Nonmfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Nonmfg","Taiwan, Sentimnent, Business, NDC PMI, Employment, Nonmfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Nonmfg","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Nonmfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Nonmfg","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Nonmfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Nonmfg","Taiwan, Sentimnent, Business, NDC PMI, Prices, Nonmfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Nonmfg","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Nonmfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Nonmfg","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Nonmfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Nonmfg","Taiwan, Sentimnent, Business, NDC PMI, Imports, Nonmfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Nonmfg","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Nonmfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Nonmfg","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Nonmfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Nonmfg","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Nonmfg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Accommodation & food","Taiwan, Sentimnent, Business, NDC PMI, All, Accommodation & food",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Accommodation & food","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Accommodation & food",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Accommodation & food","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Accommodation & food",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Accommodation & food","Taiwan, Sentimnent, Business, NDC PMI, Employment, Accommodation & food",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Accommodation & food","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Accommodation & food",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Accommodation & food","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Accommodation & food",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Accommodation & food","Taiwan, Sentimnent, Business, NDC PMI, Prices, Accommodation & food",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Accommodation & food","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Accommodation & food",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Accommodation & food","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Accommodation & food",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Accommodation & food","Taiwan, Sentimnent, Business, NDC PMI, Imports, Accommodation & food",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Accommodation & food","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Accommodation & food",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Accommodation & food","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Accommodation & food",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Accommodation & food","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Accommodation & food",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Construction & real estate","Taiwan, Sentimnent, Business, NDC PMI, All, Construction & real estate",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Construction & real estate","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Construction & real estate",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Construction & real estate","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Construction & real estate",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Construction & real estate","Taiwan, Sentimnent, Business, NDC PMI, Employment, Construction & real estate",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Construction & real estate","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Construction & real estate",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Construction & real estate","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Construction & real estate",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Construction & real estate","Taiwan, Sentimnent, Business, NDC PMI, Prices, Construction & real estate",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Construction & real estate","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Construction & real estate",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Construction & real estate","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Construction & real estate",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Construction & real estate","Taiwan, Sentimnent, Business, NDC PMI, Imports, Construction & real estate",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Construction & real estate","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Construction & real estate",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Construction & real estate","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Construction & real estate",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Construction & real estate","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Construction & real estate",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Education","Taiwan, Sentimnent, Business, NDC PMI, All, Education",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Education","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Education",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Education","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Education",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Education","Taiwan, Sentimnent, Business, NDC PMI, Employment, Education",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Education","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Education",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Education","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Education",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Education","Taiwan, Sentimnent, Business, NDC PMI, Prices, Education",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Education","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Education",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Education","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Education",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Education","Taiwan, Sentimnent, Business, NDC PMI, Imports, Education",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Education","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Education",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Education","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Education",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Education","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Education",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Finance & insurance","Taiwan, Sentimnent, Business, NDC PMI, All, Finance & insurance",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Finance & insurance","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Finance & insurance",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Finance & insurance","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Finance & insurance",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Finance & insurance","Taiwan, Sentimnent, Business, NDC PMI, Employment, Finance & insurance",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Finance & insurance","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Finance & insurance",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Finance & insurance","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Finance & insurance",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Finance & insurance","Taiwan, Sentimnent, Business, NDC PMI, Prices, Finance & insurance",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Finance & insurance","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Finance & insurance",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Finance & insurance","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Finance & insurance",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Finance & insurance","Taiwan, Sentimnent, Business, NDC PMI, Imports, Finance & insurance",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Finance & insurance","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Finance & insurance",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Finance & insurance","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Finance & insurance",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Finance & insurance","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Finance & insurance",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Information & communication","Taiwan, Sentimnent, Business, NDC PMI, All, Information & communication",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Information & communication","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Information & communication",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Information & communication","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Information & communication",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Information & communication","Taiwan, Sentimnent, Business, NDC PMI, Employment, Information & communication",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Information & communication","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Information & communication",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Information & communication","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Information & communication",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Information & communication","Taiwan, Sentimnent, Business, NDC PMI, Prices, Information & communication",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Information & communication","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Information & communication",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Information & communication","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Information & communication",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Information & communication","Taiwan, Sentimnent, Business, NDC PMI, Imports, Information & communication",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Information & communication","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Information & communication",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Information & communication","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Information & communication",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Information & communication","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Information & communication",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Retail","Taiwan, Sentimnent, Business, NDC PMI, All, Retail",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Retail","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Retail",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Retail","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Retail",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Retail","Taiwan, Sentimnent, Business, NDC PMI, Employment, Retail",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Retail","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Retail",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Retail","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Retail",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Retail","Taiwan, Sentimnent, Business, NDC PMI, Prices, Retail",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Retail","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Retail",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Retail","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Retail",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Retail","Taiwan, Sentimnent, Business, NDC PMI, Imports, Retail",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Retail","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Retail",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Retail","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Retail",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Retail","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Retail",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Transport & storage","Taiwan, Sentimnent, Business, NDC PMI, All, Transport & storage",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Transport & storage","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Transport & storage",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Transport & storage","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Transport & storage",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Transport & storage","Taiwan, Sentimnent, Business, NDC PMI, Employment, Transport & storage",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Transport & storage","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Transport & storage",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Transport & storage","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Transport & storage",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Transport & storage","Taiwan, Sentimnent, Business, NDC PMI, Prices, Transport & storage",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Transport & storage","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Transport & storage",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Transport & storage","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Transport & storage",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Transport & storage","Taiwan, Sentimnent, Business, NDC PMI, Imports, Transport & storage",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Transport & storage","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Transport & storage",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Transport & storage","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Transport & storage",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Transport & storage","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Transport & storage",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Wholesale","Taiwan, Sentimnent, Business, NDC PMI, All, Wholesale",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Wholesale","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Wholesale",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Wholesale","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Wholesale",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Wholesale","Taiwan, Sentimnent, Business, NDC PMI, Employment, Wholesale",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Wholesale","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Wholesale",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Wholesale","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Wholesale",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Wholesale","Taiwan, Sentimnent, Business, NDC PMI, Prices, Wholesale",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Wholesale","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Wholesale",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Wholesale","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Wholesale",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Wholesale","Taiwan, Sentimnent, Business, NDC PMI, Imports, Wholesale",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Wholesale","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Wholesale",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Wholesale","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Wholesale",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Wholesale","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Wholesale",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Composite, prices","Taiwan, Sentimnent, Business, NDC PMI, Composite, prices",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Customers' Inventories, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production Materials, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, MRO Supplies, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Capital Expenditures, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Mfg, 1M chg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Mfg, 1M chg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Production, Mfg, 1M chg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Production, Mfg, 1M chg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Mfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Mfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Chemicals, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Chemicals, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Electronic & optical, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Electronic & optical, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Food & textile, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Food & textile, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Basic materials, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Basic materials, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Transport & equipment, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Transport & equipment, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Electrical machinery, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Orders-inventories, Electrical machinery, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Nonmfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Nonmfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Nonmfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Nonmfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Nonmfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Nonmfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Nonmfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Nonmfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Nonmfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Nonmfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Nonmfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Nonmfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Nonmfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Nonmfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Nonmfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Nonmfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Nonmfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Nonmfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Nonmfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Nonmfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Nonmfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Nonmfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Nonmfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Nonmfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Nonmfg, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Nonmfg, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Accommodation & food, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Accommodation & food, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Accommodation & food, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Accommodation & food, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Accommodation & food, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Accommodation & food, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Accommodation & food, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Accommodation & food, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Accommodation & food, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Accommodation & food, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Accommodation & food, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Accommodation & food, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Accommodation & food, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Accommodation & food, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Accommodation & food, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Accommodation & food, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Accommodation & food, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Accommodation & food, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Accommodation & food, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Accommodation & food, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Accommodation & food, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Accommodation & food, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Accommodation & food, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Accommodation & food, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Accommodation & food, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Accommodation & food, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Construction & real estate, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Construction & real estate, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Construction & real estate, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Construction & real estate, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Construction & real estate, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Construction & real estate, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Construction & real estate, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Construction & real estate, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Construction & real estate, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Construction & real estate, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Construction & real estate, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Construction & real estate, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Construction & real estate, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Construction & real estate, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Construction & real estate, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Construction & real estate, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Construction & real estate, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Construction & real estate, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Construction & real estate, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Construction & real estate, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Construction & real estate, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Construction & real estate, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Construction & real estate, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Construction & real estate, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Construction & real estate, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Construction & real estate, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Education, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Education, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Education, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Education, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Education, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Education, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Education, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Education, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Education, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Education, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Education, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Education, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Education, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Education, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Education, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Education, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Education, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Education, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Education, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Education, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Education, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Education, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Education, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Education, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Education, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Education, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Finance & insurance, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Finance & insurance, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Finance & insurance, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Finance & insurance, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Finance & insurance, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Finance & insurance, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Finance & insurance, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Finance & insurance, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Finance & insurance, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Finance & insurance, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Finance & insurance, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Finance & insurance, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Finance & insurance, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Finance & insurance, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Finance & insurance, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Finance & insurance, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Finance & insurance, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Finance & insurance, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Finance & insurance, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Finance & insurance, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Finance & insurance, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Finance & insurance, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Finance & insurance, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Finance & insurance, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Finance & insurance, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Finance & insurance, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Information & communication, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Information & communication, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Information & communication, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Information & communication, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Information & communication, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Information & communication, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Information & communication, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Information & communication, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Information & communication, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Information & communication, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Information & communication, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Information & communication, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Information & communication, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Information & communication, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Information & communication, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Information & communication, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Information & communication, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Information & communication, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Information & communication, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Information & communication, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Information & communication, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Information & communication, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Information & communication, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Information & communication, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Information & communication, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Information & communication, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Retail, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Retail, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Retail, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Retail, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Retail, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Retail, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Retail, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Retail, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Retail, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Retail, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Retail, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Retail, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Retail, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Retail, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Retail, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Retail, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Retail, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Retail, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Retail, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Retail, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Retail, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Retail, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Retail, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Retail, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Retail, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Retail, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Transport & storage, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Transport & storage, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Transport & storage, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Transport & storage, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Transport & storage, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Transport & storage, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Transport & storage, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Transport & storage, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Transport & storage, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Transport & storage, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Transport & storage, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Transport & storage, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Transport & storage, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Transport & storage, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Transport & storage, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Transport & storage, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Transport & storage, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Transport & storage, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Transport & storage, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Transport & storage, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Transport & storage, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Transport & storage, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Transport & storage, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Transport & storage, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Transport & storage, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Transport & storage, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Wholesale, 3mma","Taiwan, Sentimnent, Business, NDC PMI, All, Wholesale, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Wholesale, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Wholesale, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Orders, Wholesale, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Orders, Wholesale, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Employment, Wholesale, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Employment, Wholesale, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Wholesale, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Supplier Deliveries, Wholesale, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventories, Wholesale, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventories, Wholesale, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Wholesale, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Prices, Wholesale, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Wholesale, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Backlog of Orders, Wholesale, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Wholesale, 3mma","Taiwan, Sentimnent, Business, NDC PMI, New Export Orders, Wholesale, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Imports, Wholesale, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Imports, Wholesale, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Wholesale, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Service Charge, Wholesale, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Wholesale, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Inventory Sentiment, Wholesale, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Wholesale, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Future Outlooks, Wholesale, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Composite, prices, 3mma","Taiwan, Sentimnent, Business, NDC PMI, Composite, prices, 3mma",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Composite, prices, YoY chg","Taiwan, Sentimnent, Business, NDC PMI, Composite, prices, YoY chg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Mfg, YoY chg","Taiwan, Sentimnent, Business, NDC PMI, Prices, Mfg, YoY chg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Prices, Nonmfg, YoY chg","Taiwan, Sentimnent, Business, NDC PMI, Prices, Nonmfg, YoY chg",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Nonmfg, SA","Taiwan, Sentimnent, Business, NDC PMI, All, Nonmfg, SA",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Nonmfg, SA","Taiwan, Sentimnent, Business, NDC PMI, Business, NDC PMI Activity, Nonmfg, SA",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Construction & real estate, SA","Taiwan, Sentimnent, Business, NDC PMI, All, Construction & real estate, SA",None,line
+"Taiwan, Sentimnent, Business, NDC PMI, All, Wholesale, SA","Taiwan, Sentimnent, Business, NDC PMI, All, Wholesale, SA",None,line

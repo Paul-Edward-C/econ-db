@@ -1,0 +1,865 @@
+name,display_name,data_type,chart_type
+"China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI","China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , Finished goods inventory, NBS mfg PMI","China, Sentimnent, Business, , Finished goods inventory, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , Import, NBS mfg PMI","China, Sentimnent, Business, , Import, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , In hand Orders Index, NBS mfg PMI","China, Sentimnent, Business, , In hand Orders Index, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , NBS mfg PMI","China, Sentimnent, Business, , NBS mfg PMI",None,line
+"China, Sentimnent, Business, , Employment, NBS mfg PMI","China, Sentimnent, Business, , Employment, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , Input prices, NBS mfg PMI","China, Sentimnent, Business, , Input prices, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , Output prices, NBS mfg PMI","China, Sentimnent, Business, , Output prices, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , New export orders, NBS mfg PMI","China, Sentimnent, Business, , New export orders, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , New orders, NBS mfg PMI","China, Sentimnent, Business, , New orders, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , Production, NBS mfg PMI","China, Sentimnent, Business, , Production, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , Purchasing volume, NBS mfg PMI","China, Sentimnent, Business, , Purchasing volume, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , Raw materials inventory, NBS mfg PMI","China, Sentimnent, Business, , Raw materials inventory, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , Supplier delivery time, NBS mfg PMI","China, Sentimnent, Business, , Supplier delivery time, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , Domestic orders, NBS mfg PMI","China, Sentimnent, Business, , Domestic orders, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , Orders minus inventories, NBS mfg PMI","China, Sentimnent, Business, , Orders minus inventories, NBS mfg PMI",None,line
+"China, Sentimnent, Business, , Markit mfg PMI","China, Sentimnent, Business, , Markit mfg PMI",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, 12M chg","China, Sentimnent, Business, , NBS mfg PMI, 12M chg",None,line
+"China, Sentimnent, Business, , NBS construction PMI","China, Sentimnent, Business, , NBS construction PMI",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI","China, Sentimnent, Business, , NBS non-mfg PMI",None,line
+"China, Sentimnent, Business, , NBS services PMI","China, Sentimnent, Business, , NBS services PMI",None,line
+"China, Sentimnent, Business, , Markit services PMI","China, Sentimnent, Business, , Markit services PMI",None,line
+"China, Sentimnent, Business, , NBS construction PMI, SA","China, Sentimnent, Business, , NBS construction PMI, SA",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, SA","China, Sentimnent, Business, , NBS non-mfg PMI, SA",None,line
+"China, Sentimnent, Business, , NBS services PMI, SA","China, Sentimnent, Business, , NBS services PMI, SA",None,line
+"China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI","China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI",None,line
+"China, Sentimnent, Business, , In hand Orders Index, NBS non-mfg PMI","China, Sentimnent, Business, , In hand Orders Index, NBS non-mfg PMI",None,line
+"China, Sentimnent, Business, , Inventory, NBS non-mfg PMI","China, Sentimnent, Business, , Inventory, NBS non-mfg PMI",None,line
+"China, Sentimnent, Business, , New export orders, NBS non-mfg PMI","China, Sentimnent, Business, , New export orders, NBS non-mfg PMI",None,line
+"China, Sentimnent, Business, , New orders, NBS non-mfg PMI","China, Sentimnent, Business, , New orders, NBS non-mfg PMI",None,line
+"China, Sentimnent, Business, , Employment, NBS non-mfg PMI","China, Sentimnent, Business, , Employment, NBS non-mfg PMI",None,line
+"China, Sentimnent, Business, , Input prices, NBS non-mfg PMI","China, Sentimnent, Business, , Input prices, NBS non-mfg PMI",None,line
+"China, Sentimnent, Business, , Output prices, NBS non-mfg PMI","China, Sentimnent, Business, , Output prices, NBS non-mfg PMI",None,line
+"China, Sentimnent, Business, , Supplier delivery time, NBS non-mfg PMI","China, Sentimnent, Business, , Supplier delivery time, NBS non-mfg PMI",None,line
+"China, Sentimnent, Business, , Output, NBS composite PMI","China, Sentimnent, Business, , Output, NBS composite PMI",None,line
+"China, Sentimnent, Business, , All prices, NBS composite PMI","China, Sentimnent, Business, , All prices, NBS composite PMI",None,line
+"China, Sentimnent, Business, , Output prices, NBS composite PMI","China, Sentimnent, Business, , Output prices, NBS composite PMI",None,line
+"China, Sentimnent, Business, , Input prices, NBS composite PMI","China, Sentimnent, Business, , Input prices, NBS composite PMI",None,line
+"China, Sentimnent, Business, , Employment, NBS composite PMI","China, Sentimnent, Business, , Employment, NBS composite PMI",None,line
+"China, Sentimnent, Business, , NBS PMI, Mfg and non-mfg, Average","China, Sentimnent, Business, , NBS PMI, Mfg and non-mfg, Average",None,line
+"China, Sentimnent, Business, , Nominal Output, NBS composite PMI","China, Sentimnent, Business, , Nominal Output, NBS composite PMI",None,line
+"China, Sentimnent, Business, , CKGSB, BCI","China, Sentimnent, Business, , CKGSB, BCI",None,line
+"China, Sentimnent, Business, , CKGSB, Sales","China, Sentimnent, Business, , CKGSB, Sales",None,line
+"China, Sentimnent, Business, , CKGSB, Profit","China, Sentimnent, Business, , CKGSB, Profit",None,line
+"China, Sentimnent, Business, , CKGSB, Financing","China, Sentimnent, Business, , CKGSB, Financing",None,line
+"China, Sentimnent, Business, , CKGSB, Inventory","China, Sentimnent, Business, , CKGSB, Inventory",None,line
+"China, Sentimnent, Business, , CKGSB, Labor Costs","China, Sentimnent, Business, , CKGSB, Labor Costs",None,line
+"China, Sentimnent, Business, , CKGSB, Overall Costs","China, Sentimnent, Business, , CKGSB, Overall Costs",None,line
+"China, Sentimnent, Business, , CKGSB, Consumer Prices","China, Sentimnent, Business, , CKGSB, Consumer Prices",None,line
+"China, Sentimnent, Business, , CKGSB, Producer Prices","China, Sentimnent, Business, , CKGSB, Producer Prices",None,line
+"China, Sentimnent, Business, , CKGSB, Investment","China, Sentimnent, Business, , CKGSB, Investment",None,line
+"China, Sentimnent, Business, , CKGSB, Recruitment","China, Sentimnent, Business, , CKGSB, Recruitment",None,line
+"China, Sentimnent, Business, , CKGSB, Industry Comparison","China, Sentimnent, Business, , CKGSB, Industry Comparison",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Macro heat index","China, Sentimnent, Business, , PBC survey, Firm, Macro heat index",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Output price","China, Sentimnent, Business, , PBC survey, Firm, Output price",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Input price","China, Sentimnent, Business, , PBC survey, Firm, Input price",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Domestic orders","China, Sentimnent, Business, , PBC survey, Firm, Domestic orders",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Export orders","China, Sentimnent, Business, , PBC survey, Firm, Export orders",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Fund turnover","China, Sentimnent, Business, , PBC survey, Firm, Fund turnover",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales","China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, General Business Condition","China, Sentimnent, Business, , PBC survey, Firm, General Business Condition",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Profitability","China, Sentimnent, Business, , PBC survey, Firm, Profitability",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro heat index","China, Sentimnent, Business, , PBC survey, Bank, Macro heat index",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro sentiment","China, Sentimnent, Business, , PBC survey, Bank, Macro sentiment",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand","China, Sentimnent, Business, , PBC survey, Bank, Loan demand",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Non-manufacturing","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Non-manufacturing",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan approval","China, Sentimnent, Business, , PBC survey, Bank, Loan approval",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Industry climate","China, Sentimnent, Business, , PBC survey, Bank, Industry climate",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Profitability","China, Sentimnent, Business, , PBC survey, Bank, Profitability",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, SA","China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Output price, SA","China, Sentimnent, Business, , PBC survey, Firm, Output price, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Input price, SA","China, Sentimnent, Business, , PBC survey, Firm, Input price, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, SA","China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Export orders, SA","China, Sentimnent, Business, , PBC survey, Firm, Export orders, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, SA","China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, SA","China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, SA","China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Profitability, SA","China, Sentimnent, Business, , PBC survey, Firm, Profitability, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, SA","China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, SA","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, SA","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, SA","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, SA","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, SA","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, SA","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan approval, SA","China, Sentimnent, Business, , PBC survey, Bank, Loan approval, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Industry climate, SA","China, Sentimnent, Business, , PBC survey, Bank, Industry climate, SA",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Profitability, SA","China, Sentimnent, Business, , PBC survey, Bank, Profitability, SA",None,line
+"China, Sentimnent, Business, , Markit PMI, Mfg and non-mfg, Average","China, Sentimnent, Business, , Markit PMI, Mfg and non-mfg, Average",None,line
+"China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, LT average","China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, LT average",None,line
+"China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, LT average","China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, LT average",None,line
+"China, Sentimnent, Business, , NBS construction PMI, LT average","China, Sentimnent, Business, , NBS construction PMI, LT average",None,line
+"China, Sentimnent, Business, , Markit services PMI, LT average","China, Sentimnent, Business, , Markit services PMI, LT average",None,line
+"China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Finished goods inventory, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , Finished goods inventory, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Import, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , Import, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , In hand Orders Index, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , In hand Orders Index, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, 1M chg","China, Sentimnent, Business, , NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Employment, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , Employment, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Input prices, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , Input prices, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Output prices, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , Output prices, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , New export orders, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , New export orders, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , New orders, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , New orders, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Production, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , Production, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Purchasing volume, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , Purchasing volume, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Raw materials inventory, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , Raw materials inventory, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Supplier delivery time, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , Supplier delivery time, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Domestic orders, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , Domestic orders, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Orders minus inventories, NBS mfg PMI, 1M chg","China, Sentimnent, Business, , Orders minus inventories, NBS mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Markit mfg PMI, 1M chg","China, Sentimnent, Business, , Markit mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, 12M chg, 1M chg","China, Sentimnent, Business, , NBS mfg PMI, 12M chg, 1M chg",None,line
+"China, Sentimnent, Business, , NBS construction PMI, 1M chg","China, Sentimnent, Business, , NBS construction PMI, 1M chg",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, 1M chg","China, Sentimnent, Business, , NBS non-mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , NBS services PMI, 1M chg","China, Sentimnent, Business, , NBS services PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Markit services PMI, 1M chg","China, Sentimnent, Business, , Markit services PMI, 1M chg",None,line
+"China, Sentimnent, Business, , NBS construction PMI, SA, 1M chg","China, Sentimnent, Business, , NBS construction PMI, SA, 1M chg",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, SA, 1M chg","China, Sentimnent, Business, , NBS non-mfg PMI, SA, 1M chg",None,line
+"China, Sentimnent, Business, , NBS services PMI, SA, 1M chg","China, Sentimnent, Business, , NBS services PMI, SA, 1M chg",None,line
+"China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, 1M chg","China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , In hand Orders Index, NBS non-mfg PMI, 1M chg","China, Sentimnent, Business, , In hand Orders Index, NBS non-mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Inventory, NBS non-mfg PMI, 1M chg","China, Sentimnent, Business, , Inventory, NBS non-mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , New export orders, NBS non-mfg PMI, 1M chg","China, Sentimnent, Business, , New export orders, NBS non-mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , New orders, NBS non-mfg PMI, 1M chg","China, Sentimnent, Business, , New orders, NBS non-mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Employment, NBS non-mfg PMI, 1M chg","China, Sentimnent, Business, , Employment, NBS non-mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Input prices, NBS non-mfg PMI, 1M chg","China, Sentimnent, Business, , Input prices, NBS non-mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Output prices, NBS non-mfg PMI, 1M chg","China, Sentimnent, Business, , Output prices, NBS non-mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Supplier delivery time, NBS non-mfg PMI, 1M chg","China, Sentimnent, Business, , Supplier delivery time, NBS non-mfg PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Output, NBS composite PMI, 1M chg","China, Sentimnent, Business, , Output, NBS composite PMI, 1M chg",None,line
+"China, Sentimnent, Business, , All prices, NBS composite PMI, 1M chg","China, Sentimnent, Business, , All prices, NBS composite PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Output prices, NBS composite PMI, 1M chg","China, Sentimnent, Business, , Output prices, NBS composite PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Input prices, NBS composite PMI, 1M chg","China, Sentimnent, Business, , Input prices, NBS composite PMI, 1M chg",None,line
+"China, Sentimnent, Business, , Employment, NBS composite PMI, 1M chg","China, Sentimnent, Business, , Employment, NBS composite PMI, 1M chg",None,line
+"China, Sentimnent, Business, , NBS PMI, Mfg and non-mfg, Average, 1M chg","China, Sentimnent, Business, , NBS PMI, Mfg and non-mfg, Average, 1M chg",None,line
+"China, Sentimnent, Business, , Nominal Output, NBS composite PMI, 1M chg","China, Sentimnent, Business, , Nominal Output, NBS composite PMI, 1M chg",None,line
+"China, Sentimnent, Business, , CKGSB, BCI, 1M chg","China, Sentimnent, Business, , CKGSB, BCI, 1M chg",None,line
+"China, Sentimnent, Business, , CKGSB, Sales, 1M chg","China, Sentimnent, Business, , CKGSB, Sales, 1M chg",None,line
+"China, Sentimnent, Business, , CKGSB, Profit, 1M chg","China, Sentimnent, Business, , CKGSB, Profit, 1M chg",None,line
+"China, Sentimnent, Business, , CKGSB, Financing, 1M chg","China, Sentimnent, Business, , CKGSB, Financing, 1M chg",None,line
+"China, Sentimnent, Business, , CKGSB, Inventory, 1M chg","China, Sentimnent, Business, , CKGSB, Inventory, 1M chg",None,line
+"China, Sentimnent, Business, , CKGSB, Labor Costs, 1M chg","China, Sentimnent, Business, , CKGSB, Labor Costs, 1M chg",None,line
+"China, Sentimnent, Business, , CKGSB, Overall Costs, 1M chg","China, Sentimnent, Business, , CKGSB, Overall Costs, 1M chg",None,line
+"China, Sentimnent, Business, , CKGSB, Consumer Prices, 1M chg","China, Sentimnent, Business, , CKGSB, Consumer Prices, 1M chg",None,line
+"China, Sentimnent, Business, , CKGSB, Producer Prices, 1M chg","China, Sentimnent, Business, , CKGSB, Producer Prices, 1M chg",None,line
+"China, Sentimnent, Business, , CKGSB, Investment, 1M chg","China, Sentimnent, Business, , CKGSB, Investment, 1M chg",None,line
+"China, Sentimnent, Business, , CKGSB, Recruitment, 1M chg","China, Sentimnent, Business, , CKGSB, Recruitment, 1M chg",None,line
+"China, Sentimnent, Business, , CKGSB, Industry Comparison, 1M chg","China, Sentimnent, Business, , CKGSB, Industry Comparison, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Output price, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Output price, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Input price, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Input price, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Export orders, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Export orders, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Profitability, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Profitability, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro sentiment, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Macro sentiment, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Non-manufacturing, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Non-manufacturing, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan approval, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan approval, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Industry climate, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Industry climate, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Profitability, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Profitability, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Output price, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Output price, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Input price, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Input price, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Export orders, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Export orders, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Profitability, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Firm, Profitability, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan approval, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Loan approval, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Industry climate, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Industry climate, SA, 1M chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Profitability, SA, 1M chg","China, Sentimnent, Business, , PBC survey, Bank, Profitability, SA, 1M chg",None,line
+"China, Sentimnent, Business, , Markit PMI, Mfg and non-mfg, Average, 1M chg","China, Sentimnent, Business, , Markit PMI, Mfg and non-mfg, Average, 1M chg",None,line
+"China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, LT average, 1M chg","China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, LT average, 1M chg",None,line
+"China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, LT average, 1M chg","China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, LT average, 1M chg",None,line
+"China, Sentimnent, Business, , NBS construction PMI, LT average, 1M chg","China, Sentimnent, Business, , NBS construction PMI, LT average, 1M chg",None,line
+"China, Sentimnent, Business, , Markit services PMI, LT average, 1M chg","China, Sentimnent, Business, , Markit services PMI, LT average, 1M chg",None,line
+"China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Finished goods inventory, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , Finished goods inventory, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Import, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , Import, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , In hand Orders Index, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , In hand Orders Index, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, YoY chg","China, Sentimnent, Business, , NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Employment, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , Employment, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Input prices, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , Input prices, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Output prices, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , Output prices, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , New export orders, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , New export orders, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , New orders, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , New orders, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Production, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , Production, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Purchasing volume, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , Purchasing volume, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Raw materials inventory, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , Raw materials inventory, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Supplier delivery time, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , Supplier delivery time, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Domestic orders, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , Domestic orders, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Orders minus inventories, NBS mfg PMI, YoY chg","China, Sentimnent, Business, , Orders minus inventories, NBS mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Markit mfg PMI, YoY chg","China, Sentimnent, Business, , Markit mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, 12M chg, YoY chg","China, Sentimnent, Business, , NBS mfg PMI, 12M chg, YoY chg",None,line
+"China, Sentimnent, Business, , NBS construction PMI, YoY chg","China, Sentimnent, Business, , NBS construction PMI, YoY chg",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, YoY chg","China, Sentimnent, Business, , NBS non-mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , NBS services PMI, YoY chg","China, Sentimnent, Business, , NBS services PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Markit services PMI, YoY chg","China, Sentimnent, Business, , Markit services PMI, YoY chg",None,line
+"China, Sentimnent, Business, , NBS construction PMI, SA, YoY chg","China, Sentimnent, Business, , NBS construction PMI, SA, YoY chg",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, SA, YoY chg","China, Sentimnent, Business, , NBS non-mfg PMI, SA, YoY chg",None,line
+"China, Sentimnent, Business, , NBS services PMI, SA, YoY chg","China, Sentimnent, Business, , NBS services PMI, SA, YoY chg",None,line
+"China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, YoY chg","China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , In hand Orders Index, NBS non-mfg PMI, YoY chg","China, Sentimnent, Business, , In hand Orders Index, NBS non-mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Inventory, NBS non-mfg PMI, YoY chg","China, Sentimnent, Business, , Inventory, NBS non-mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , New export orders, NBS non-mfg PMI, YoY chg","China, Sentimnent, Business, , New export orders, NBS non-mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , New orders, NBS non-mfg PMI, YoY chg","China, Sentimnent, Business, , New orders, NBS non-mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Employment, NBS non-mfg PMI, YoY chg","China, Sentimnent, Business, , Employment, NBS non-mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Input prices, NBS non-mfg PMI, YoY chg","China, Sentimnent, Business, , Input prices, NBS non-mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Output prices, NBS non-mfg PMI, YoY chg","China, Sentimnent, Business, , Output prices, NBS non-mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Supplier delivery time, NBS non-mfg PMI, YoY chg","China, Sentimnent, Business, , Supplier delivery time, NBS non-mfg PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Output, NBS composite PMI, YoY chg","China, Sentimnent, Business, , Output, NBS composite PMI, YoY chg",None,line
+"China, Sentimnent, Business, , All prices, NBS composite PMI, YoY chg","China, Sentimnent, Business, , All prices, NBS composite PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Output prices, NBS composite PMI, YoY chg","China, Sentimnent, Business, , Output prices, NBS composite PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Input prices, NBS composite PMI, YoY chg","China, Sentimnent, Business, , Input prices, NBS composite PMI, YoY chg",None,line
+"China, Sentimnent, Business, , Employment, NBS composite PMI, YoY chg","China, Sentimnent, Business, , Employment, NBS composite PMI, YoY chg",None,line
+"China, Sentimnent, Business, , NBS PMI, Mfg and non-mfg, Average, YoY chg","China, Sentimnent, Business, , NBS PMI, Mfg and non-mfg, Average, YoY chg",None,line
+"China, Sentimnent, Business, , Nominal Output, NBS composite PMI, YoY chg","China, Sentimnent, Business, , Nominal Output, NBS composite PMI, YoY chg",None,line
+"China, Sentimnent, Business, , CKGSB, BCI, YoY chg","China, Sentimnent, Business, , CKGSB, BCI, YoY chg",None,line
+"China, Sentimnent, Business, , CKGSB, Sales, YoY chg","China, Sentimnent, Business, , CKGSB, Sales, YoY chg",None,line
+"China, Sentimnent, Business, , CKGSB, Profit, YoY chg","China, Sentimnent, Business, , CKGSB, Profit, YoY chg",None,line
+"China, Sentimnent, Business, , CKGSB, Financing, YoY chg","China, Sentimnent, Business, , CKGSB, Financing, YoY chg",None,line
+"China, Sentimnent, Business, , CKGSB, Inventory, YoY chg","China, Sentimnent, Business, , CKGSB, Inventory, YoY chg",None,line
+"China, Sentimnent, Business, , CKGSB, Labor Costs, YoY chg","China, Sentimnent, Business, , CKGSB, Labor Costs, YoY chg",None,line
+"China, Sentimnent, Business, , CKGSB, Overall Costs, YoY chg","China, Sentimnent, Business, , CKGSB, Overall Costs, YoY chg",None,line
+"China, Sentimnent, Business, , CKGSB, Consumer Prices, YoY chg","China, Sentimnent, Business, , CKGSB, Consumer Prices, YoY chg",None,line
+"China, Sentimnent, Business, , CKGSB, Producer Prices, YoY chg","China, Sentimnent, Business, , CKGSB, Producer Prices, YoY chg",None,line
+"China, Sentimnent, Business, , CKGSB, Investment, YoY chg","China, Sentimnent, Business, , CKGSB, Investment, YoY chg",None,line
+"China, Sentimnent, Business, , CKGSB, Recruitment, YoY chg","China, Sentimnent, Business, , CKGSB, Recruitment, YoY chg",None,line
+"China, Sentimnent, Business, , CKGSB, Industry Comparison, YoY chg","China, Sentimnent, Business, , CKGSB, Industry Comparison, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Output price, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Output price, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Input price, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Input price, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Export orders, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Export orders, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Profitability, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Profitability, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro sentiment, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Macro sentiment, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Non-manufacturing, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Non-manufacturing, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan approval, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan approval, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Industry climate, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Industry climate, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Profitability, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Profitability, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Output price, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Output price, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Input price, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Input price, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Export orders, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Export orders, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Profitability, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Firm, Profitability, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan approval, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Loan approval, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Industry climate, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Industry climate, SA, YoY chg",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Profitability, SA, YoY chg","China, Sentimnent, Business, , PBC survey, Bank, Profitability, SA, YoY chg",None,line
+"China, Sentimnent, Business, , Markit PMI, Mfg and non-mfg, Average, YoY chg","China, Sentimnent, Business, , Markit PMI, Mfg and non-mfg, Average, YoY chg",None,line
+"China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, LT average, YoY chg","China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, LT average, YoY chg",None,line
+"China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, LT average, YoY chg","China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, LT average, YoY chg",None,line
+"China, Sentimnent, Business, , NBS construction PMI, LT average, YoY chg","China, Sentimnent, Business, , NBS construction PMI, LT average, YoY chg",None,line
+"China, Sentimnent, Business, , Markit services PMI, LT average, YoY chg","China, Sentimnent, Business, , Markit services PMI, LT average, YoY chg",None,line
+"China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, 3mma","China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Finished goods inventory, NBS mfg PMI, 3mma","China, Sentimnent, Business, , Finished goods inventory, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Import, NBS mfg PMI, 3mma","China, Sentimnent, Business, , Import, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , In hand Orders Index, NBS mfg PMI, 3mma","China, Sentimnent, Business, , In hand Orders Index, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, 3mma","China, Sentimnent, Business, , NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Employment, NBS mfg PMI, 3mma","China, Sentimnent, Business, , Employment, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Input prices, NBS mfg PMI, 3mma","China, Sentimnent, Business, , Input prices, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Output prices, NBS mfg PMI, 3mma","China, Sentimnent, Business, , Output prices, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , New export orders, NBS mfg PMI, 3mma","China, Sentimnent, Business, , New export orders, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , New orders, NBS mfg PMI, 3mma","China, Sentimnent, Business, , New orders, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Production, NBS mfg PMI, 3mma","China, Sentimnent, Business, , Production, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Purchasing volume, NBS mfg PMI, 3mma","China, Sentimnent, Business, , Purchasing volume, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Raw materials inventory, NBS mfg PMI, 3mma","China, Sentimnent, Business, , Raw materials inventory, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Supplier delivery time, NBS mfg PMI, 3mma","China, Sentimnent, Business, , Supplier delivery time, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Domestic orders, NBS mfg PMI, 3mma","China, Sentimnent, Business, , Domestic orders, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Orders minus inventories, NBS mfg PMI, 3mma","China, Sentimnent, Business, , Orders minus inventories, NBS mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Markit mfg PMI, 3mma","China, Sentimnent, Business, , Markit mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, 12M chg, 3mma","China, Sentimnent, Business, , NBS mfg PMI, 12M chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS construction PMI, 3mma","China, Sentimnent, Business, , NBS construction PMI, 3mma",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, 3mma","China, Sentimnent, Business, , NBS non-mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , NBS services PMI, 3mma","China, Sentimnent, Business, , NBS services PMI, 3mma",None,line
+"China, Sentimnent, Business, , Markit services PMI, 3mma","China, Sentimnent, Business, , Markit services PMI, 3mma",None,line
+"China, Sentimnent, Business, , NBS construction PMI, SA, 3mma","China, Sentimnent, Business, , NBS construction PMI, SA, 3mma",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, SA, 3mma","China, Sentimnent, Business, , NBS non-mfg PMI, SA, 3mma",None,line
+"China, Sentimnent, Business, , NBS services PMI, SA, 3mma","China, Sentimnent, Business, , NBS services PMI, SA, 3mma",None,line
+"China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, 3mma","China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , In hand Orders Index, NBS non-mfg PMI, 3mma","China, Sentimnent, Business, , In hand Orders Index, NBS non-mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Inventory, NBS non-mfg PMI, 3mma","China, Sentimnent, Business, , Inventory, NBS non-mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , New export orders, NBS non-mfg PMI, 3mma","China, Sentimnent, Business, , New export orders, NBS non-mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , New orders, NBS non-mfg PMI, 3mma","China, Sentimnent, Business, , New orders, NBS non-mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Employment, NBS non-mfg PMI, 3mma","China, Sentimnent, Business, , Employment, NBS non-mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Input prices, NBS non-mfg PMI, 3mma","China, Sentimnent, Business, , Input prices, NBS non-mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Output prices, NBS non-mfg PMI, 3mma","China, Sentimnent, Business, , Output prices, NBS non-mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Supplier delivery time, NBS non-mfg PMI, 3mma","China, Sentimnent, Business, , Supplier delivery time, NBS non-mfg PMI, 3mma",None,line
+"China, Sentimnent, Business, , Output, NBS composite PMI, 3mma","China, Sentimnent, Business, , Output, NBS composite PMI, 3mma",None,line
+"China, Sentimnent, Business, , All prices, NBS composite PMI, 3mma","China, Sentimnent, Business, , All prices, NBS composite PMI, 3mma",None,line
+"China, Sentimnent, Business, , Output prices, NBS composite PMI, 3mma","China, Sentimnent, Business, , Output prices, NBS composite PMI, 3mma",None,line
+"China, Sentimnent, Business, , Input prices, NBS composite PMI, 3mma","China, Sentimnent, Business, , Input prices, NBS composite PMI, 3mma",None,line
+"China, Sentimnent, Business, , Employment, NBS composite PMI, 3mma","China, Sentimnent, Business, , Employment, NBS composite PMI, 3mma",None,line
+"China, Sentimnent, Business, , NBS PMI, Mfg and non-mfg, Average, 3mma","China, Sentimnent, Business, , NBS PMI, Mfg and non-mfg, Average, 3mma",None,line
+"China, Sentimnent, Business, , Nominal Output, NBS composite PMI, 3mma","China, Sentimnent, Business, , Nominal Output, NBS composite PMI, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, BCI, 3mma","China, Sentimnent, Business, , CKGSB, BCI, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Sales, 3mma","China, Sentimnent, Business, , CKGSB, Sales, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Profit, 3mma","China, Sentimnent, Business, , CKGSB, Profit, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Financing, 3mma","China, Sentimnent, Business, , CKGSB, Financing, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Inventory, 3mma","China, Sentimnent, Business, , CKGSB, Inventory, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Labor Costs, 3mma","China, Sentimnent, Business, , CKGSB, Labor Costs, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Overall Costs, 3mma","China, Sentimnent, Business, , CKGSB, Overall Costs, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Consumer Prices, 3mma","China, Sentimnent, Business, , CKGSB, Consumer Prices, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Producer Prices, 3mma","China, Sentimnent, Business, , CKGSB, Producer Prices, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Investment, 3mma","China, Sentimnent, Business, , CKGSB, Investment, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Recruitment, 3mma","China, Sentimnent, Business, , CKGSB, Recruitment, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Industry Comparison, 3mma","China, Sentimnent, Business, , CKGSB, Industry Comparison, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Output price, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Output price, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Input price, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Input price, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Export orders, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Export orders, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, 3mma","China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Profitability, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Profitability, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro sentiment, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Macro sentiment, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Non-manufacturing, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Non-manufacturing, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan approval, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan approval, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Industry climate, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Industry climate, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Profitability, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Profitability, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, SA, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Output price, SA, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Output price, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Input price, SA, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Input price, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, SA, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Export orders, SA, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Export orders, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, SA, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, SA, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, SA, 3mma","China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Profitability, SA, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Profitability, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, SA, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, SA, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, SA, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, SA, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, SA, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, SA, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, SA, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan approval, SA, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan approval, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Industry climate, SA, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Industry climate, SA, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Profitability, SA, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Profitability, SA, 3mma",None,line
+"China, Sentimnent, Business, , Markit PMI, Mfg and non-mfg, Average, 3mma","China, Sentimnent, Business, , Markit PMI, Mfg and non-mfg, Average, 3mma",None,line
+"China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, LT average, 3mma","China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, LT average, 3mma",None,line
+"China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, LT average, 3mma","China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, LT average, 3mma",None,line
+"China, Sentimnent, Business, , NBS construction PMI, LT average, 3mma","China, Sentimnent, Business, , NBS construction PMI, LT average, 3mma",None,line
+"China, Sentimnent, Business, , Markit services PMI, LT average, 3mma","China, Sentimnent, Business, , Markit services PMI, LT average, 3mma",None,line
+"China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Finished goods inventory, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Finished goods inventory, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Import, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Import, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , In hand Orders Index, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , In hand Orders Index, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Employment, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Employment, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Input prices, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Input prices, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Output prices, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Output prices, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , New export orders, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , New export orders, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , New orders, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , New orders, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Production, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Production, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Purchasing volume, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Purchasing volume, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Raw materials inventory, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Raw materials inventory, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Supplier delivery time, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Supplier delivery time, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Domestic orders, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Domestic orders, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Orders minus inventories, NBS mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Orders minus inventories, NBS mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Markit mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Markit mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, 12M chg, 1M chg, 3mma","China, Sentimnent, Business, , NBS mfg PMI, 12M chg, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS construction PMI, 1M chg, 3mma","China, Sentimnent, Business, , NBS construction PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , NBS non-mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS services PMI, 1M chg, 3mma","China, Sentimnent, Business, , NBS services PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Markit services PMI, 1M chg, 3mma","China, Sentimnent, Business, , Markit services PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS construction PMI, SA, 1M chg, 3mma","China, Sentimnent, Business, , NBS construction PMI, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, SA, 1M chg, 3mma","China, Sentimnent, Business, , NBS non-mfg PMI, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS services PMI, SA, 1M chg, 3mma","China, Sentimnent, Business, , NBS services PMI, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , In hand Orders Index, NBS non-mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , In hand Orders Index, NBS non-mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Inventory, NBS non-mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Inventory, NBS non-mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , New export orders, NBS non-mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , New export orders, NBS non-mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , New orders, NBS non-mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , New orders, NBS non-mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Employment, NBS non-mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Employment, NBS non-mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Input prices, NBS non-mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Input prices, NBS non-mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Output prices, NBS non-mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Output prices, NBS non-mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Supplier delivery time, NBS non-mfg PMI, 1M chg, 3mma","China, Sentimnent, Business, , Supplier delivery time, NBS non-mfg PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Output, NBS composite PMI, 1M chg, 3mma","China, Sentimnent, Business, , Output, NBS composite PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , All prices, NBS composite PMI, 1M chg, 3mma","China, Sentimnent, Business, , All prices, NBS composite PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Output prices, NBS composite PMI, 1M chg, 3mma","China, Sentimnent, Business, , Output prices, NBS composite PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Input prices, NBS composite PMI, 1M chg, 3mma","China, Sentimnent, Business, , Input prices, NBS composite PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Employment, NBS composite PMI, 1M chg, 3mma","China, Sentimnent, Business, , Employment, NBS composite PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS PMI, Mfg and non-mfg, Average, 1M chg, 3mma","China, Sentimnent, Business, , NBS PMI, Mfg and non-mfg, Average, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Nominal Output, NBS composite PMI, 1M chg, 3mma","China, Sentimnent, Business, , Nominal Output, NBS composite PMI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, BCI, 1M chg, 3mma","China, Sentimnent, Business, , CKGSB, BCI, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Sales, 1M chg, 3mma","China, Sentimnent, Business, , CKGSB, Sales, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Profit, 1M chg, 3mma","China, Sentimnent, Business, , CKGSB, Profit, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Financing, 1M chg, 3mma","China, Sentimnent, Business, , CKGSB, Financing, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Inventory, 1M chg, 3mma","China, Sentimnent, Business, , CKGSB, Inventory, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Labor Costs, 1M chg, 3mma","China, Sentimnent, Business, , CKGSB, Labor Costs, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Overall Costs, 1M chg, 3mma","China, Sentimnent, Business, , CKGSB, Overall Costs, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Consumer Prices, 1M chg, 3mma","China, Sentimnent, Business, , CKGSB, Consumer Prices, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Producer Prices, 1M chg, 3mma","China, Sentimnent, Business, , CKGSB, Producer Prices, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Investment, 1M chg, 3mma","China, Sentimnent, Business, , CKGSB, Investment, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Recruitment, 1M chg, 3mma","China, Sentimnent, Business, , CKGSB, Recruitment, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Industry Comparison, 1M chg, 3mma","China, Sentimnent, Business, , CKGSB, Industry Comparison, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Output price, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Output price, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Input price, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Input price, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Export orders, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Export orders, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Profitability, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Profitability, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro sentiment, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Macro sentiment, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Non-manufacturing, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Non-manufacturing, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan approval, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan approval, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Industry climate, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Industry climate, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Profitability, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Profitability, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Output price, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Output price, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Input price, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Input price, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Export orders, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Export orders, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Profitability, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Profitability, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan approval, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan approval, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Industry climate, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Industry climate, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Profitability, SA, 1M chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Profitability, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Markit PMI, Mfg and non-mfg, Average, 1M chg, 3mma","China, Sentimnent, Business, , Markit PMI, Mfg and non-mfg, Average, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, LT average, 1M chg, 3mma","China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, LT average, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, LT average, 1M chg, 3mma","China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, LT average, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS construction PMI, LT average, 1M chg, 3mma","China, Sentimnent, Business, , NBS construction PMI, LT average, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Markit services PMI, LT average, 1M chg, 3mma","China, Sentimnent, Business, , Markit services PMI, LT average, 1M chg, 3mma",None,line
+"China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Finished goods inventory, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Finished goods inventory, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Import, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Import, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , In hand Orders Index, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , In hand Orders Index, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Employment, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Employment, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Input prices, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Input prices, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Output prices, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Output prices, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , New export orders, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , New export orders, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , New orders, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , New orders, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Production, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Production, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Purchasing volume, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Purchasing volume, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Raw materials inventory, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Raw materials inventory, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Supplier delivery time, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Supplier delivery time, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Domestic orders, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Domestic orders, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Orders minus inventories, NBS mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Orders minus inventories, NBS mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Markit mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Markit mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, 12M chg, YoY chg, 3mma","China, Sentimnent, Business, , NBS mfg PMI, 12M chg, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS construction PMI, YoY chg, 3mma","China, Sentimnent, Business, , NBS construction PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , NBS non-mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS services PMI, YoY chg, 3mma","China, Sentimnent, Business, , NBS services PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Markit services PMI, YoY chg, 3mma","China, Sentimnent, Business, , Markit services PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS construction PMI, SA, YoY chg, 3mma","China, Sentimnent, Business, , NBS construction PMI, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, SA, YoY chg, 3mma","China, Sentimnent, Business, , NBS non-mfg PMI, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS services PMI, SA, YoY chg, 3mma","China, Sentimnent, Business, , NBS services PMI, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , In hand Orders Index, NBS non-mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , In hand Orders Index, NBS non-mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Inventory, NBS non-mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Inventory, NBS non-mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , New export orders, NBS non-mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , New export orders, NBS non-mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , New orders, NBS non-mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , New orders, NBS non-mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Employment, NBS non-mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Employment, NBS non-mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Input prices, NBS non-mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Input prices, NBS non-mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Output prices, NBS non-mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Output prices, NBS non-mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Supplier delivery time, NBS non-mfg PMI, YoY chg, 3mma","China, Sentimnent, Business, , Supplier delivery time, NBS non-mfg PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Output, NBS composite PMI, YoY chg, 3mma","China, Sentimnent, Business, , Output, NBS composite PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , All prices, NBS composite PMI, YoY chg, 3mma","China, Sentimnent, Business, , All prices, NBS composite PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Output prices, NBS composite PMI, YoY chg, 3mma","China, Sentimnent, Business, , Output prices, NBS composite PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Input prices, NBS composite PMI, YoY chg, 3mma","China, Sentimnent, Business, , Input prices, NBS composite PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Employment, NBS composite PMI, YoY chg, 3mma","China, Sentimnent, Business, , Employment, NBS composite PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS PMI, Mfg and non-mfg, Average, YoY chg, 3mma","China, Sentimnent, Business, , NBS PMI, Mfg and non-mfg, Average, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Nominal Output, NBS composite PMI, YoY chg, 3mma","China, Sentimnent, Business, , Nominal Output, NBS composite PMI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, BCI, YoY chg, 3mma","China, Sentimnent, Business, , CKGSB, BCI, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Sales, YoY chg, 3mma","China, Sentimnent, Business, , CKGSB, Sales, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Profit, YoY chg, 3mma","China, Sentimnent, Business, , CKGSB, Profit, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Financing, YoY chg, 3mma","China, Sentimnent, Business, , CKGSB, Financing, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Inventory, YoY chg, 3mma","China, Sentimnent, Business, , CKGSB, Inventory, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Labor Costs, YoY chg, 3mma","China, Sentimnent, Business, , CKGSB, Labor Costs, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Overall Costs, YoY chg, 3mma","China, Sentimnent, Business, , CKGSB, Overall Costs, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Consumer Prices, YoY chg, 3mma","China, Sentimnent, Business, , CKGSB, Consumer Prices, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Producer Prices, YoY chg, 3mma","China, Sentimnent, Business, , CKGSB, Producer Prices, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Investment, YoY chg, 3mma","China, Sentimnent, Business, , CKGSB, Investment, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Recruitment, YoY chg, 3mma","China, Sentimnent, Business, , CKGSB, Recruitment, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , CKGSB, Industry Comparison, YoY chg, 3mma","China, Sentimnent, Business, , CKGSB, Industry Comparison, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Output price, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Output price, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Input price, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Input price, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Export orders, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Export orders, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Profitability, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Profitability, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro sentiment, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Macro sentiment, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Non-manufacturing, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Non-manufacturing, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan approval, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan approval, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Industry climate, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Industry climate, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Profitability, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Profitability, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Macro heat index, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Output price, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Output price, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Input price, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Input price, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Domestic orders, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Export orders, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Export orders, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Fund turnover, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Cash Inflow From Sales, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, General Business Condition, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Firm, Profitability, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Firm, Profitability, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Macro heat index, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Manufacturing, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Infrastructure, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Large firms, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Medium firms, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan demand, Small and micro, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Loan approval, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Loan approval, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Industry climate, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Industry climate, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , PBC survey, Bank, Profitability, SA, YoY chg, 3mma","China, Sentimnent, Business, , PBC survey, Bank, Profitability, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Markit PMI, Mfg and non-mfg, Average, YoY chg, 3mma","China, Sentimnent, Business, , Markit PMI, Mfg and non-mfg, Average, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, LT average, YoY chg, 3mma","China, Sentimnent, Business, , Expected Production and business activities Index, NBS mfg PMI, LT average, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, LT average, YoY chg, 3mma","China, Sentimnent, Business, , Expected business activities Index, NBS non-mfg PMI, LT average, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS construction PMI, LT average, YoY chg, 3mma","China, Sentimnent, Business, , NBS construction PMI, LT average, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , Markit services PMI, LT average, YoY chg, 3mma","China, Sentimnent, Business, , Markit services PMI, LT average, YoY chg, 3mma",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, z","China, Sentimnent, Business, , NBS mfg PMI, z",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, z","China, Sentimnent, Business, , NBS non-mfg PMI, z",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, 3mma, z","China, Sentimnent, Business, , NBS mfg PMI, 3mma, z",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, 3mma, z","China, Sentimnent, Business, , NBS non-mfg PMI, 3mma, z",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, z_12","China, Sentimnent, Business, , NBS mfg PMI, z_12",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, z_12","China, Sentimnent, Business, , NBS non-mfg PMI, z_12",None,line
+"China, Sentimnent, Business, , NBS mfg PMI, 3mma, z_12","China, Sentimnent, Business, , NBS mfg PMI, 3mma, z_12",None,line
+"China, Sentimnent, Business, , NBS non-mfg PMI, 3mma, z_12","China, Sentimnent, Business, , NBS non-mfg PMI, 3mma, z_12",None,line
+"China, Sentimnent, Business, , NBS construction PMI, z_12","China, Sentimnent, Business, , NBS construction PMI, z_12",None,line
+"China, Sentimnent, Business, , NBS services PMI, z_12","China, Sentimnent, Business, , NBS services PMI, z_12",None,line
+"China, Sentimnent, Business, , NBS construction PMI, 3mma, z_12","China, Sentimnent, Business, , NBS construction PMI, 3mma, z_12",None,line
+"China, Sentimnent, Business, , NBS services PMI, 3mma, z_12","China, Sentimnent, Business, , NBS services PMI, 3mma, z_12",None,line
+"China, Sentimnent, Business, , NBS construction PMI, SA, z_12","China, Sentimnent, Business, , NBS construction PMI, SA, z_12",None,line
+"China, Sentimnent, Business, , NBS services PMI, SA, z_12","China, Sentimnent, Business, , NBS services PMI, SA, z_12",None,line
+"China, Sentimnent, Business, , NBS construction PMI, SA, 3mma, z_12","China, Sentimnent, Business, , NBS construction PMI, SA, 3mma, z_12",None,line
+"China, Sentimnent, Business, , NBS services PMI, SA, 3mma, z_12","China, Sentimnent, Business, , NBS services PMI, SA, 3mma, z_12",None,line
+"China, Sentimnent, Business, , CKGSB, BCI, 3mma, z_12","China, Sentimnent, Business, , CKGSB, BCI, 3mma, z_12",None,line
+"China, Sentimnent, Business, , CKGSB, Sales, 3mma, z_12","China, Sentimnent, Business, , CKGSB, Sales, 3mma, z_12",None,line
+"China, Sentimnent, Business, , Output, NBS composite PMI, 3mma, z_12","China, Sentimnent, Business, , Output, NBS composite PMI, 3mma, z_12",None,line
+"China, Sentimnent, Business, , NBS PMI, Mfg and non-mfg, Average, 3mma, z_12","China, Sentimnent, Business, , NBS PMI, Mfg and non-mfg, Average, 3mma, z_12",None,line
+"China, Sentimnent, Business, , Markit PMI, Mfg and non-mfg, Average, 3mma, z_12","China, Sentimnent, Business, , Markit PMI, Mfg and non-mfg, Average, 3mma, z_12",None,line
+"China, Sentimnent, Business, , PPI, SA, % MoM, predicted from PMI","China, Sentimnent, Business, , PPI, SA, % MoM, predicted from PMI",None,line
+"China, Sentimnent, Business, , PPI, SA, index, predicted from PMI","China, Sentimnent, Business, , PPI, SA, index, predicted from PMI",None,line
+"China, Sentimnent, Business, , PPI, % YoY, predicted from PMI","China, Sentimnent, Business, , PPI, % YoY, predicted from PMI",None,line
+"China, Sentimnent, Consumer, PBC, Price expectation","China, Sentimnent, Consumer, PBC, Price expectation",None,line
+"China, Sentimnent, Consumer, PBC, Income sentiment","China, Sentimnent, Consumer, PBC, Income sentiment",None,line
+"China, Sentimnent, Consumer, PBC, Income confidence","China, Sentimnent, Consumer, PBC, Income confidence",None,line
+"China, Sentimnent, Consumer, PBC, Employment sentiment","China, Sentimnent, Consumer, PBC, Employment sentiment",None,line
+"China, Sentimnent, Consumer, PBC, Employment expectation","China, Sentimnent, Consumer, PBC, Employment expectation",None,line
+"China, Sentimnent, Consumer, PBC, Price rise","China, Sentimnent, Consumer, PBC, Price rise",None,line
+"China, Sentimnent, Consumer, PBC, House price rise","China, Sentimnent, Consumer, PBC, House price rise",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Deposits","China, Sentimnent, Consumer, PBC, Savings, Deposits",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Investments","China, Sentimnent, Consumer, PBC, Savings, Investments",None,line
+"China, Sentimnent, Consumer, PBC, Consumption","China, Sentimnent, Consumer, PBC, Consumption",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, House","China, Sentimnent, Consumer, PBC, Purchase intention, House",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Education","China, Sentimnent, Consumer, PBC, Purchase intention, Education",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care","China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity","China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment","China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Tourism","China, Sentimnent, Consumer, PBC, Purchase intention, Tourism",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Insurance","China, Sentimnent, Consumer, PBC, Purchase intention, Insurance",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Car","China, Sentimnent, Consumer, PBC, Purchase intention, Car",None,line
+"China, Sentimnent, Consumer, PBC, Savings","China, Sentimnent, Consumer, PBC, Savings",None,line
+"China, Sentimnent, Consumer, PBC, Price expectation, SA","China, Sentimnent, Consumer, PBC, Price expectation, SA",None,line
+"China, Sentimnent, Consumer, PBC, Income sentiment, SA","China, Sentimnent, Consumer, PBC, Income sentiment, SA",None,line
+"China, Sentimnent, Consumer, PBC, Income confidence, SA","China, Sentimnent, Consumer, PBC, Income confidence, SA",None,line
+"China, Sentimnent, Consumer, PBC, Employment sentiment, SA","China, Sentimnent, Consumer, PBC, Employment sentiment, SA",None,line
+"China, Sentimnent, Consumer, PBC, Employment expectation, SA","China, Sentimnent, Consumer, PBC, Employment expectation, SA",None,line
+"China, Sentimnent, Consumer, PBC, Price rise, SA","China, Sentimnent, Consumer, PBC, Price rise, SA",None,line
+"China, Sentimnent, Consumer, PBC, House price rise, SA","China, Sentimnent, Consumer, PBC, House price rise, SA",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Deposits, SA","China, Sentimnent, Consumer, PBC, Savings, Deposits, SA",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Investments, SA","China, Sentimnent, Consumer, PBC, Savings, Investments, SA",None,line
+"China, Sentimnent, Consumer, PBC, Consumption, SA","China, Sentimnent, Consumer, PBC, Consumption, SA",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, House, SA","China, Sentimnent, Consumer, PBC, Purchase intention, House, SA",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Education, SA","China, Sentimnent, Consumer, PBC, Purchase intention, Education, SA",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, SA","China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, SA",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, SA","China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, SA",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, SA","China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, SA",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, SA","China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, SA",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, SA","China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, SA",None,line
+"China, Sentimnent, Consumer, PBC, Savings, SA","China, Sentimnent, Consumer, PBC, Savings, SA",None,line
+"China, Sentimnent, Consumer, PBC, Willingness to invest, SA","China, Sentimnent, Consumer, PBC, Willingness to invest, SA",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Fun, SA","China, Sentimnent, Consumer, PBC, Purchase intention, Fun, SA",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Welfare, SA","China, Sentimnent, Consumer, PBC, Purchase intention, Welfare, SA",None,line
+"China, Sentimnent, Consumer, NBS","China, Sentimnent, Consumer, NBS",None,line
+"China, Sentimnent, Consumer, NBS, SA","China, Sentimnent, Consumer, NBS, SA",None,line
+"China, Sentimnent, Consumer, PBC, Price expectation, 1M chg","China, Sentimnent, Consumer, PBC, Price expectation, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Income sentiment, 1M chg","China, Sentimnent, Consumer, PBC, Income sentiment, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Income confidence, 1M chg","China, Sentimnent, Consumer, PBC, Income confidence, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Employment sentiment, 1M chg","China, Sentimnent, Consumer, PBC, Employment sentiment, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Employment expectation, 1M chg","China, Sentimnent, Consumer, PBC, Employment expectation, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Price rise, 1M chg","China, Sentimnent, Consumer, PBC, Price rise, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, House price rise, 1M chg","China, Sentimnent, Consumer, PBC, House price rise, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Deposits, 1M chg","China, Sentimnent, Consumer, PBC, Savings, Deposits, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Investments, 1M chg","China, Sentimnent, Consumer, PBC, Savings, Investments, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Consumption, 1M chg","China, Sentimnent, Consumer, PBC, Consumption, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, House, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, House, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Education, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Education, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Car, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Car, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Savings, 1M chg","China, Sentimnent, Consumer, PBC, Savings, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Price expectation, SA, 1M chg","China, Sentimnent, Consumer, PBC, Price expectation, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Income sentiment, SA, 1M chg","China, Sentimnent, Consumer, PBC, Income sentiment, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Income confidence, SA, 1M chg","China, Sentimnent, Consumer, PBC, Income confidence, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Employment sentiment, SA, 1M chg","China, Sentimnent, Consumer, PBC, Employment sentiment, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Employment expectation, SA, 1M chg","China, Sentimnent, Consumer, PBC, Employment expectation, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Price rise, SA, 1M chg","China, Sentimnent, Consumer, PBC, Price rise, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, House price rise, SA, 1M chg","China, Sentimnent, Consumer, PBC, House price rise, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Deposits, SA, 1M chg","China, Sentimnent, Consumer, PBC, Savings, Deposits, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Investments, SA, 1M chg","China, Sentimnent, Consumer, PBC, Savings, Investments, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Consumption, SA, 1M chg","China, Sentimnent, Consumer, PBC, Consumption, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, House, SA, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, House, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Education, SA, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Education, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, SA, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, SA, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, SA, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, SA, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, SA, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Savings, SA, 1M chg","China, Sentimnent, Consumer, PBC, Savings, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Willingness to invest, SA, 1M chg","China, Sentimnent, Consumer, PBC, Willingness to invest, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Fun, SA, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Fun, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Welfare, SA, 1M chg","China, Sentimnent, Consumer, PBC, Purchase intention, Welfare, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, NBS, 1M chg","China, Sentimnent, Consumer, NBS, 1M chg",None,line
+"China, Sentimnent, Consumer, NBS, SA, 1M chg","China, Sentimnent, Consumer, NBS, SA, 1M chg",None,line
+"China, Sentimnent, Consumer, PBC, Price expectation, YoY chg","China, Sentimnent, Consumer, PBC, Price expectation, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Income sentiment, YoY chg","China, Sentimnent, Consumer, PBC, Income sentiment, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Income confidence, YoY chg","China, Sentimnent, Consumer, PBC, Income confidence, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Employment sentiment, YoY chg","China, Sentimnent, Consumer, PBC, Employment sentiment, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Employment expectation, YoY chg","China, Sentimnent, Consumer, PBC, Employment expectation, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Price rise, YoY chg","China, Sentimnent, Consumer, PBC, Price rise, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, House price rise, YoY chg","China, Sentimnent, Consumer, PBC, House price rise, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Deposits, YoY chg","China, Sentimnent, Consumer, PBC, Savings, Deposits, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Investments, YoY chg","China, Sentimnent, Consumer, PBC, Savings, Investments, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Consumption, YoY chg","China, Sentimnent, Consumer, PBC, Consumption, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, House, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, House, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Education, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Education, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Car, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Car, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Savings, YoY chg","China, Sentimnent, Consumer, PBC, Savings, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Price expectation, SA, YoY chg","China, Sentimnent, Consumer, PBC, Price expectation, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Income sentiment, SA, YoY chg","China, Sentimnent, Consumer, PBC, Income sentiment, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Income confidence, SA, YoY chg","China, Sentimnent, Consumer, PBC, Income confidence, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Employment sentiment, SA, YoY chg","China, Sentimnent, Consumer, PBC, Employment sentiment, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Employment expectation, SA, YoY chg","China, Sentimnent, Consumer, PBC, Employment expectation, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Price rise, SA, YoY chg","China, Sentimnent, Consumer, PBC, Price rise, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, House price rise, SA, YoY chg","China, Sentimnent, Consumer, PBC, House price rise, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Deposits, SA, YoY chg","China, Sentimnent, Consumer, PBC, Savings, Deposits, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Investments, SA, YoY chg","China, Sentimnent, Consumer, PBC, Savings, Investments, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Consumption, SA, YoY chg","China, Sentimnent, Consumer, PBC, Consumption, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, House, SA, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, House, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Education, SA, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Education, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, SA, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, SA, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, SA, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, SA, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, SA, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Savings, SA, YoY chg","China, Sentimnent, Consumer, PBC, Savings, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Willingness to invest, SA, YoY chg","China, Sentimnent, Consumer, PBC, Willingness to invest, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Fun, SA, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Fun, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Welfare, SA, YoY chg","China, Sentimnent, Consumer, PBC, Purchase intention, Welfare, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, NBS, YoY chg","China, Sentimnent, Consumer, NBS, YoY chg",None,line
+"China, Sentimnent, Consumer, NBS, SA, YoY chg","China, Sentimnent, Consumer, NBS, SA, YoY chg",None,line
+"China, Sentimnent, Consumer, PBC, Price expectation, 3mma","China, Sentimnent, Consumer, PBC, Price expectation, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Income sentiment, 3mma","China, Sentimnent, Consumer, PBC, Income sentiment, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Income confidence, 3mma","China, Sentimnent, Consumer, PBC, Income confidence, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Employment sentiment, 3mma","China, Sentimnent, Consumer, PBC, Employment sentiment, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Employment expectation, 3mma","China, Sentimnent, Consumer, PBC, Employment expectation, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Price rise, 3mma","China, Sentimnent, Consumer, PBC, Price rise, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, House price rise, 3mma","China, Sentimnent, Consumer, PBC, House price rise, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Deposits, 3mma","China, Sentimnent, Consumer, PBC, Savings, Deposits, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Investments, 3mma","China, Sentimnent, Consumer, PBC, Savings, Investments, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Consumption, 3mma","China, Sentimnent, Consumer, PBC, Consumption, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, House, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, House, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Education, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Education, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Car, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Car, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, 3mma","China, Sentimnent, Consumer, PBC, Savings, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Price expectation, SA, 3mma","China, Sentimnent, Consumer, PBC, Price expectation, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Income sentiment, SA, 3mma","China, Sentimnent, Consumer, PBC, Income sentiment, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Income confidence, SA, 3mma","China, Sentimnent, Consumer, PBC, Income confidence, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Employment sentiment, SA, 3mma","China, Sentimnent, Consumer, PBC, Employment sentiment, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Employment expectation, SA, 3mma","China, Sentimnent, Consumer, PBC, Employment expectation, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Price rise, SA, 3mma","China, Sentimnent, Consumer, PBC, Price rise, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, House price rise, SA, 3mma","China, Sentimnent, Consumer, PBC, House price rise, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Deposits, SA, 3mma","China, Sentimnent, Consumer, PBC, Savings, Deposits, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Investments, SA, 3mma","China, Sentimnent, Consumer, PBC, Savings, Investments, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Consumption, SA, 3mma","China, Sentimnent, Consumer, PBC, Consumption, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, House, SA, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, House, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Education, SA, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Education, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, SA, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, SA, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, SA, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, SA, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, SA, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, SA, 3mma","China, Sentimnent, Consumer, PBC, Savings, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Willingness to invest, SA, 3mma","China, Sentimnent, Consumer, PBC, Willingness to invest, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Fun, SA, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Fun, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Welfare, SA, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Welfare, SA, 3mma",None,line
+"China, Sentimnent, Consumer, NBS, 3mma","China, Sentimnent, Consumer, NBS, 3mma",None,line
+"China, Sentimnent, Consumer, NBS, SA, 3mma","China, Sentimnent, Consumer, NBS, SA, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Price expectation, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Price expectation, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Income sentiment, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Income sentiment, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Income confidence, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Income confidence, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Employment sentiment, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Employment sentiment, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Employment expectation, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Employment expectation, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Price rise, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Price rise, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, House price rise, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, House price rise, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Deposits, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Savings, Deposits, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Investments, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Savings, Investments, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Consumption, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Consumption, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, House, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, House, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Education, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Education, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Car, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Car, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Savings, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Price expectation, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Price expectation, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Income sentiment, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Income sentiment, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Income confidence, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Income confidence, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Employment sentiment, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Employment sentiment, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Employment expectation, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Employment expectation, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Price rise, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Price rise, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, House price rise, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, House price rise, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Deposits, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Savings, Deposits, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Investments, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Savings, Investments, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Consumption, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Consumption, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, House, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, House, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Education, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Education, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Savings, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Willingness to invest, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Willingness to invest, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Fun, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Fun, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Welfare, SA, 1M chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Welfare, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, NBS, 1M chg, 3mma","China, Sentimnent, Consumer, NBS, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, NBS, SA, 1M chg, 3mma","China, Sentimnent, Consumer, NBS, SA, 1M chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Price expectation, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Price expectation, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Income sentiment, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Income sentiment, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Income confidence, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Income confidence, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Employment sentiment, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Employment sentiment, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Employment expectation, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Employment expectation, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Price rise, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Price rise, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, House price rise, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, House price rise, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Deposits, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Savings, Deposits, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Investments, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Savings, Investments, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Consumption, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Consumption, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, House, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, House, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Education, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Education, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Car, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Car, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Savings, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Price expectation, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Price expectation, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Income sentiment, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Income sentiment, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Income confidence, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Income confidence, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Employment sentiment, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Employment sentiment, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Employment expectation, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Employment expectation, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Price rise, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Price rise, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, House price rise, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, House price rise, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Deposits, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Savings, Deposits, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, Investments, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Savings, Investments, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Consumption, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Consumption, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, House, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, House, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Education, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Education, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Medical Care, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Large Commodity, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Social Culture and Entertainment, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Tourism, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Insurance, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Savings, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Savings, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Willingness to invest, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Willingness to invest, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Fun, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Fun, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, PBC, Purchase intention, Welfare, SA, YoY chg, 3mma","China, Sentimnent, Consumer, PBC, Purchase intention, Welfare, SA, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, NBS, YoY chg, 3mma","China, Sentimnent, Consumer, NBS, YoY chg, 3mma",None,line
+"China, Sentimnent, Consumer, NBS, SA, YoY chg, 3mma","China, Sentimnent, Consumer, NBS, SA, YoY chg, 3mma",None,line

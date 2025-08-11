@@ -1,0 +1,477 @@
+name,display_name,data_type,chart_type
+"China, Current account, USD bn","China, Current account, USD bn",None,line
+"China, Current account, Credit, USD bn","China, Current account, Credit, USD bn",None,line
+"China, Current account, Debit, USD bn","China, Current account, Debit, USD bn",None,line
+"China, Current account, Goods and services, Balance, USD bn","China, Current account, Goods and services, Balance, USD bn",None,line
+"China, Current account, Goods and services, Credit, USD bn","China, Current account, Goods and services, Credit, USD bn",None,line
+"China, Current account, Goods and services, Debit, USD bn","China, Current account, Goods and services, Debit, USD bn",None,line
+"China, Current account, Goods, Balance, USD bn","China, Current account, Goods, Balance, USD bn",None,line
+"China, Current account, Goods, Credit, USD bn","China, Current account, Goods, Credit, USD bn",None,line
+"China, Current account, Goods, Debit, USD bn","China, Current account, Goods, Debit, USD bn",None,line
+"China, Current account, Services, Balance, USD bn","China, Current account, Services, Balance, USD bn",None,line
+"China, Current account, Services, Credit, USD bn","China, Current account, Services, Credit, USD bn",None,line
+"China, Current account, Services, Debit, USD bn","China, Current account, Services, Debit, USD bn",None,line
+"China, Current account, Services, Manufacturing on physical inputs owned by others, Balance, USD bn","China, Current account, Services, Manufacturing on physical inputs owned by others, Balance, USD bn",None,line
+"China, Current account, Services, Manufacturing on physical inputs owned by others, Credit, USD bn","China, Current account, Services, Manufacturing on physical inputs owned by others, Credit, USD bn",None,line
+"China, Current account, Services, Manufacturing on physical inputs owned by others, Debit, USD bn","China, Current account, Services, Manufacturing on physical inputs owned by others, Debit, USD bn",None,line
+"China, Current account, Services, Maintenance and repair, Balance, USD bn","China, Current account, Services, Maintenance and repair, Balance, USD bn",None,line
+"China, Current account, Services, Maintenance and repair, Credit, USD bn","China, Current account, Services, Maintenance and repair, Credit, USD bn",None,line
+"China, Current account, Services, Maintenance and repair, Debit, USD bn","China, Current account, Services, Maintenance and repair, Debit, USD bn",None,line
+"China, Current account, Services, Transport, Balance, USD bn","China, Current account, Services, Transport, Balance, USD bn",None,line
+"China, Current account, Services, Transport, Credit, USD bn","China, Current account, Services, Transport, Credit, USD bn",None,line
+"China, Current account, Services, Transport, Debit, USD bn","China, Current account, Services, Transport, Debit, USD bn",None,line
+"China, Current account, Services, Travel, Balance, USD bn","China, Current account, Services, Travel, Balance, USD bn",None,line
+"China, Current account, Services, Travel, Credit, USD bn","China, Current account, Services, Travel, Credit, USD bn",None,line
+"China, Current account, Services, Travel, Debit, USD bn","China, Current account, Services, Travel, Debit, USD bn",None,line
+"China, Current account, Services, Construction, Balance, USD bn","China, Current account, Services, Construction, Balance, USD bn",None,line
+"China, Current account, Services, Construction, Credit, USD bn","China, Current account, Services, Construction, Credit, USD bn",None,line
+"China, Current account, Services, Construction, Debit, USD bn","China, Current account, Services, Construction, Debit, USD bn",None,line
+"China, Current account, Services, Insurance and pension, Balance, USD bn","China, Current account, Services, Insurance and pension, Balance, USD bn",None,line
+"China, Current account, Services, Insurance and pension, Credit, USD bn","China, Current account, Services, Insurance and pension, Credit, USD bn",None,line
+"China, Current account, Services, Insurance and pension, Debit, USD bn","China, Current account, Services, Insurance and pension, Debit, USD bn",None,line
+"China, Current account, Services, Financial, Balance, USD bn","China, Current account, Services, Financial, Balance, USD bn",None,line
+"China, Current account, Services, Financial, Credit, USD bn","China, Current account, Services, Financial, Credit, USD bn",None,line
+"China, Current account, Services, Financial, Debit, USD bn","China, Current account, Services, Financial, Debit, USD bn",None,line
+"China, Current account, Services, Charges for the use of intellectual property, Balance, USD bn","China, Current account, Services, Charges for the use of intellectual property, Balance, USD bn",None,line
+"China, Current account, Services, Charges for the use of intellectual property, Credit, USD bn","China, Current account, Services, Charges for the use of intellectual property, Credit, USD bn",None,line
+"China, Current account, Services, Charges for the use of intellectual property, Debit, USD bn","China, Current account, Services, Charges for the use of intellectual property, Debit, USD bn",None,line
+"China, Current account, Services, Telecoms and information technology, Balance, USD bn","China, Current account, Services, Telecoms and information technology, Balance, USD bn",None,line
+"China, Current account, Services, Telecoms and information technology, Credit, USD bn","China, Current account, Services, Telecoms and information technology, Credit, USD bn",None,line
+"China, Current account, Services, Telecoms and information technology, Debit, USD bn","China, Current account, Services, Telecoms and information technology, Debit, USD bn",None,line
+"China, Current account, Services, Other business, Balance, USD bn","China, Current account, Services, Other business, Balance, USD bn",None,line
+"China, Current account, Services, Other business, Credit, USD bn","China, Current account, Services, Other business, Credit, USD bn",None,line
+"China, Current account, Services, Other business, Debit, USD bn","China, Current account, Services, Other business, Debit, USD bn",None,line
+"China, Current account, Services, Personal, Balance, USD bn","China, Current account, Services, Personal, Balance, USD bn",None,line
+"China, Current account, Services, Personal, Credit, USD bn","China, Current account, Services, Personal, Credit, USD bn",None,line
+"China, Current account, Services, Personal, Debit, USD bn","China, Current account, Services, Personal, Debit, USD bn",None,line
+"China, Current account, Services, Government, Balance, USD bn","China, Current account, Services, Government, Balance, USD bn",None,line
+"China, Current account, Services, Government, Credit, USD bn","China, Current account, Services, Government, Credit, USD bn",None,line
+"China, Current account, Services, Government, Debit, USD bn","China, Current account, Services, Government, Debit, USD bn",None,line
+"China, Current account, Primary income, Balance, USD bn","China, Current account, Primary income, Balance, USD bn",None,line
+"China, Current account, Primary income, Credit, USD bn","China, Current account, Primary income, Credit, USD bn",None,line
+"China, Current account, Primary income, Debit, USD bn","China, Current account, Primary income, Debit, USD bn",None,line
+"China, Current account, Primary income, Compensation of employees, Balance, USD bn","China, Current account, Primary income, Compensation of employees, Balance, USD bn",None,line
+"China, Current account, Primary income, Compensation of employees, Credit, USD bn","China, Current account, Primary income, Compensation of employees, Credit, USD bn",None,line
+"China, Current account, Primary income, Compensation of employees, Debit, USD bn","China, Current account, Primary income, Compensation of employees, Debit, USD bn",None,line
+"China, Current account, Primary income, Investment income, Balance, USD bn","China, Current account, Primary income, Investment income, Balance, USD bn",None,line
+"China, Current account, Primary income, Investment income, Credit, USD bn","China, Current account, Primary income, Investment income, Credit, USD bn",None,line
+"China, Current account, Primary income, Investment income, Debit, USD bn","China, Current account, Primary income, Investment income, Debit, USD bn",None,line
+"China, Current account, Primary income, Other primary income, Balance, USD bn","China, Current account, Primary income, Other primary income, Balance, USD bn",None,line
+"China, Current account, Primary income, Other primary income, Credit, USD bn","China, Current account, Primary income, Other primary income, Credit, USD bn",None,line
+"China, Current account, Primary income, Other primary income, Debit, USD bn","China, Current account, Primary income, Other primary income, Debit, USD bn",None,line
+"China, Current account, Secondary income, Balance, USD bn","China, Current account, Secondary income, Balance, USD bn",None,line
+"China, Current account, Secondary income, Credit, USD bn","China, Current account, Secondary income, Credit, USD bn",None,line
+"China, Current account, Secondary income, Debit, USD bn","China, Current account, Secondary income, Debit, USD bn",None,line
+"China, Current account, Secondary income, Personal transfers, Balance, USD bn","China, Current account, Secondary income, Personal transfers, Balance, USD bn",None,line
+"China, Current account, Secondary income, Personal transfers, Credit, USD bn","China, Current account, Secondary income, Personal transfers, Credit, USD bn",None,line
+"China, Current account, Secondary income, Personal transfers, Debit, USD bn","China, Current account, Secondary income, Personal transfers, Debit, USD bn",None,line
+"China, Current account, Secondary income, Other secondary income, Balance, USD bn","China, Current account, Secondary income, Other secondary income, Balance, USD bn",None,line
+"China, Current account, Secondary income, Other secondary income, Credit, USD bn","China, Current account, Secondary income, Other secondary income, Credit, USD bn",None,line
+"China, Current account, Secondary income, Other secondary income, Debit, USD bn","China, Current account, Secondary income, Other secondary income, Debit, USD bn",None,line
+"China, Capital and financial account, USD bn","China, Capital and financial account, USD bn",None,line
+"China, Capital account, USD bn","China, Capital account, USD bn",None,line
+"China, Capital account, Credit, USD bn","China, Capital account, Credit, USD bn",None,line
+"China, Capital account, Debit, USD bn","China, Capital account, Debit, USD bn",None,line
+"China, Financial account, USD bn","China, Financial account, USD bn",None,line
+"China, Financial account, Assets, USD bn","China, Financial account, Assets, USD bn",None,line
+"China, Financial account, Liabilities, USD bn","China, Financial account, Liabilities, USD bn",None,line
+"China, Financial account excluding reserve assets, USD bn","China, Financial account excluding reserve assets, USD bn",None,line
+"China, Financial account excluding reserve assets, Assets, USD bn","China, Financial account excluding reserve assets, Assets, USD bn",None,line
+"China, Financial account excluding reserve assets, Liabilities, USD bn","China, Financial account excluding reserve assets, Liabilities, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, USD bn","China, Financial account excluding reserve assets, Direct investment, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, USD bn","China, Financial account excluding reserve assets, Direct investment, Assets, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Equity and investment fund shares, USD bn","China, Financial account excluding reserve assets, Direct investment, Assets, Equity and investment fund shares, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Debt instruments, USD bn","China, Financial account excluding reserve assets, Direct investment, Assets, Debt instruments, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Financial sector, USD bn","China, Financial account excluding reserve assets, Direct investment, Assets, Financial sector, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Financial sector, Equity, USD bn","China, Financial account excluding reserve assets, Direct investment, Assets, Financial sector, Equity, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Financial sector, Debt instruments, USD bn","China, Financial account excluding reserve assets, Direct investment, Assets, Financial sector, Debt instruments, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Non-financial sector, USD bn","China, Financial account excluding reserve assets, Direct investment, Assets, Non-financial sector, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Non-financial sector, Equity, USD bn","China, Financial account excluding reserve assets, Direct investment, Assets, Non-financial sector, Equity, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Non-financial sector, Debt instruments, USD bn","China, Financial account excluding reserve assets, Direct investment, Assets, Non-financial sector, Debt instruments, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, USD bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Equity and investment fund shares, USD bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Equity and investment fund shares, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Debt instruments, USD bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Debt instruments, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Financial sector, USD bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Financial sector, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Financial sector, Equity, USD bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Financial sector, Equity, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Financial sector, Debt instruments, USD bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Financial sector, Debt instruments, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Non-financial sector, USD bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Non-financial sector, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Non-financial sector, Equity, USD bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Non-financial sector, Equity, USD bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Non-financial sector, Debt instruments, USD bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Non-financial sector, Debt instruments, USD bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, USD bn","China, Financial account excluding reserve assets, Portfolio investment, USD bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, Assets, USD bn","China, Financial account excluding reserve assets, Portfolio investment, Assets, USD bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, Assets, Equity and investment fund shares, USD bn","China, Financial account excluding reserve assets, Portfolio investment, Assets, Equity and investment fund shares, USD bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, Assets, Debt securities, USD bn","China, Financial account excluding reserve assets, Portfolio investment, Assets, Debt securities, USD bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, Liabilities, USD bn","China, Financial account excluding reserve assets, Portfolio investment, Liabilities, USD bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, Liabilities, Equity and investment fund shares, USD bn","China, Financial account excluding reserve assets, Portfolio investment, Liabilities, Equity and investment fund shares, USD bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, Liabilities, Debt securities, USD bn","China, Financial account excluding reserve assets, Portfolio investment, Liabilities, Debt securities, USD bn",None,line
+"China, Financial account excluding reserve assets, Financial derivatives (other than reserves) and employee stock options, USD bn","China, Financial account excluding reserve assets, Financial derivatives (other than reserves) and employee stock options, USD bn",None,line
+"China, Financial account excluding reserve assets, Financial derivatives (other than reserves) and employee stock options, Assets, USD bn","China, Financial account excluding reserve assets, Financial derivatives (other than reserves) and employee stock options, Assets, USD bn",None,line
+"China, Financial account excluding reserve assets, Financial derivatives (other than reserves) and employee stock options, Liabilities, USD bn","China, Financial account excluding reserve assets, Financial derivatives (other than reserves) and employee stock options, Liabilities, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, USD bn","China, Financial account excluding reserve assets, Other investment, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Assets, USD bn","China, Financial account excluding reserve assets, Other investment, Assets, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Assets, Other equity, USD bn","China, Financial account excluding reserve assets, Other investment, Assets, Other equity, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Assets, Currency and deposits, USD bn","China, Financial account excluding reserve assets, Other investment, Assets, Currency and deposits, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Assets, Loans, USD bn","China, Financial account excluding reserve assets, Other investment, Assets, Loans, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Assets, Insurance, pension, and standardized guarantee schemes, USD bn","China, Financial account excluding reserve assets, Other investment, Assets, Insurance, pension, and standardized guarantee schemes, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Assets, Trade credit and advances, USD bn","China, Financial account excluding reserve assets, Other investment, Assets, Trade credit and advances, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Assets, Other accounts receivable, USD bn","China, Financial account excluding reserve assets, Other investment, Assets, Other accounts receivable, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, USD bn","China, Financial account excluding reserve assets, Other investment, Liabilities, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, Other equity, USD bn","China, Financial account excluding reserve assets, Other investment, Liabilities, Other equity, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, Currency and deposits, USD bn","China, Financial account excluding reserve assets, Other investment, Liabilities, Currency and deposits, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, Loans, USD bn","China, Financial account excluding reserve assets, Other investment, Liabilities, Loans, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, Insurance, pension, and standardized guarantee schemes, USD bn","China, Financial account excluding reserve assets, Other investment, Liabilities, Insurance, pension, and standardized guarantee schemes, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, Trade credit and advances, USD bn","China, Financial account excluding reserve assets, Other investment, Liabilities, Trade credit and advances, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, Other accounts payable, USD bn","China, Financial account excluding reserve assets, Other investment, Liabilities, Other accounts payable, USD bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, Special drawing rights, USD bn","China, Financial account excluding reserve assets, Other investment, Liabilities, Special drawing rights, USD bn",None,line
+"China, Reserve assets, USD bn","China, Reserve assets, USD bn",None,line
+"China, Reserve assets, Monetary gold, USD bn","China, Reserve assets, Monetary gold, USD bn",None,line
+"China, Reserve assets, Special drawing rights, USD bn","China, Reserve assets, Special drawing rights, USD bn",None,line
+"China, Reserve assets, Reserve position in the IMF, USD bn","China, Reserve assets, Reserve position in the IMF, USD bn",None,line
+"China, Reserve assets, Foreign exchange reserves, USD bn","China, Reserve assets, Foreign exchange reserves, USD bn",None,line
+"China, Reserve assets, Other reserve assets, USD bn","China, Reserve assets, Other reserve assets, USD bn",None,line
+"China, Net errors and ommissions, USD bn","China, Net errors and ommissions, USD bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, USD bn","China, Financial Account excluding reserve assets, including E&O, USD bn",None,line
+"China, Capital and Financial Accounts, including E&O, USD bn","China, Capital and Financial Accounts, including E&O, USD bn",None,line
+"China, Capital and financial account, including E&O, USD bn","China, Capital and financial account, including E&O, USD bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, Direct Investment, Assets, Debt, USD bn","China, Financial Account excluding reserve assets, including E&O, Direct Investment, Assets, Debt, USD bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, Direct Investment, Assets, Equity, USD bn","China, Financial Account excluding reserve assets, including E&O, Direct Investment, Assets, Equity, USD bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, Direct Investment, Assets, USD bn","China, Financial Account excluding reserve assets, including E&O, Direct Investment, Assets, USD bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, Direct Investment, Liabilities, Debt, USD bn","China, Financial Account excluding reserve assets, including E&O, Direct Investment, Liabilities, Debt, USD bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, Direct Investment, Liabilities, Equity, USD bn","China, Financial Account excluding reserve assets, including E&O, Direct Investment, Liabilities, Equity, USD bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, Direct Investment, Liabilities, USD bn","China, Financial Account excluding reserve assets, including E&O, Direct Investment, Liabilities, USD bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, Direct Investment, USD bn","China, Financial Account excluding reserve assets, including E&O, Direct Investment, USD bn",None,line
+"China, Financial Account including E&O, USD bn","China, Financial Account including E&O, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct Investment, Assets, Debt, USD bn","China, Financial account excluding reserve assets, including E&O, Direct Investment, Assets, Debt, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct Investment, Assets, Equity, USD bn","China, Financial account excluding reserve assets, including E&O, Direct Investment, Assets, Equity, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct Investment, Assets, USD bn","China, Financial account excluding reserve assets, including E&O, Direct Investment, Assets, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct Investment, Liabilities, Debt, USD bn","China, Financial account excluding reserve assets, including E&O, Direct Investment, Liabilities, Debt, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct Investment, Liabilities, Equity, USD bn","China, Financial account excluding reserve assets, including E&O, Direct Investment, Liabilities, Equity, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct Investment, Liabilities, USD bn","China, Financial account excluding reserve assets, including E&O, Direct Investment, Liabilities, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct Investment, USD bn","China, Financial account excluding reserve assets, including E&O, Direct Investment, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct investment, Assets, Debt, USD bn","China, Financial account excluding reserve assets, including E&O, Direct investment, Assets, Debt, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct investment, Assets, Equity, USD bn","China, Financial account excluding reserve assets, including E&O, Direct investment, Assets, Equity, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct investment, Assets, USD bn","China, Financial account excluding reserve assets, including E&O, Direct investment, Assets, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct investment, Liabilities, Debt, USD bn","China, Financial account excluding reserve assets, including E&O, Direct investment, Liabilities, Debt, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct investment, Liabilities, Equity, USD bn","China, Financial account excluding reserve assets, including E&O, Direct investment, Liabilities, Equity, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct investment, Liabilities, USD bn","China, Financial account excluding reserve assets, including E&O, Direct investment, Liabilities, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct investment, USD bn","China, Financial account excluding reserve assets, including E&O, Direct investment, USD bn",None,line
+"China, Financial account excluding reserve assets, including E&O, USD bn","China, Financial account excluding reserve assets, including E&O, USD bn",None,line
+"China, Financial account including E&O, USD bn","China, Financial account including E&O, USD bn",None,line
+"China, Capital and financial account excluding reserve assets, USD bn","China, Capital and financial account excluding reserve assets, USD bn",None,line
+"China, Capital and financial account, excluding reserve assets, including E&O, USD bn","China, Capital and financial account, excluding reserve assets, including E&O, USD bn",None,line
+"China, Overall balance excluding reserve assets, USD bn","China, Overall balance excluding reserve assets, USD bn",None,line
+"China, Financial account excluding reserve assets, excl Direct investment, USD bn","China, Financial account excluding reserve assets, excl Direct investment, USD bn",None,line
+"China, Financial account excluding reserve assets, excl Direct investment Liabilities, USD bn","China, Financial account excluding reserve assets, excl Direct investment Liabilities, USD bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, Equity and investment fund shares, USD bn","China, Financial account excluding reserve assets, Portfolio investment, Equity and investment fund shares, USD bn",None,line
+"China, Net capital flows, ex Direct investment and equities, USD bn","China, Net capital flows, ex Direct investment and equities, USD bn",None,line
+"China, Current account, Services, Digital excluding business services, Credit, USD bn","China, Current account, Services, Digital excluding business services, Credit, USD bn",None,line
+"China, Current account, Services, Digital excluding business services, Debit, USD bn","China, Current account, Services, Digital excluding business services, Debit, USD bn",None,line
+"China, Current account, Services, Digital excluding business services, Balance, USD bn","China, Current account, Services, Digital excluding business services, Balance, USD bn",None,line
+"China, Current account, Income, Balance, USD bn","China, Current account, Income, Balance, USD bn",None,line
+"China, Current account, Debit, USD bn, SA","China, Current account, Debit, USD bn, SA",None,line
+"China, Current account, Goods, Debit, USD bn, SA","China, Current account, Goods, Debit, USD bn, SA",None,line
+"China, Current account, USD bn, SA","China, Current account, USD bn, SA",None,line
+"China, Current account, Services, Debit, USD bn, SA","China, Current account, Services, Debit, USD bn, SA",None,line
+"China, Current account, Services, Travel, Debit, USD bn, SA","China, Current account, Services, Travel, Debit, USD bn, SA",None,line
+"China, Current account, Credit, USD bn, SA","China, Current account, Credit, USD bn, SA",None,line
+"China, Current account, Goods, Credit, USD bn, SA","China, Current account, Goods, Credit, USD bn, SA",None,line
+"China, Current account, Services, Credit, USD bn, SA","China, Current account, Services, Credit, USD bn, SA",None,line
+"China, Current account, Services, Travel, Credit, USD bn, SA","China, Current account, Services, Travel, Credit, USD bn, SA",None,line
+"China, Current account, Goods, Balance, USD bn, SA","China, Current account, Goods, Balance, USD bn, SA",None,line
+"China, Current account, Services, Balance, USD bn, SA","China, Current account, Services, Balance, USD bn, SA",None,line
+"China, Current account, Services, Travel, Balance, USD bn, SA","China, Current account, Services, Travel, Balance, USD bn, SA",None,line
+"China, Current account, Goods and services, Credit, USD bn, SA","China, Current account, Goods and services, Credit, USD bn, SA",None,line
+"China, Current account, Goods and services, Debit, USD bn, SA","China, Current account, Goods and services, Debit, USD bn, SA",None,line
+"China, Current account, Income, Balance, USD bn, SA","China, Current account, Income, Balance, USD bn, SA",None,line
+"China, IIP, Net international investment position, USD bn","China, IIP, Net international investment position, USD bn",None,line
+"China, IIP, Assets, USD bn","China, IIP, Assets, USD bn",None,line
+"China, IIP, Assets, Direct investment, USD bn","China, IIP, Assets, Direct investment, USD bn",None,line
+"China, IIP, Assets, Direct investment, Equity and investment fund shares, USD bn","China, IIP, Assets, Direct investment, Equity and investment fund shares, USD bn",None,line
+"China, IIP, Assets, Direct investment, Debt instruments, USD bn","China, IIP, Assets, Direct investment, Debt instruments, USD bn",None,line
+"China, IIP, Assets, Direct investment, Financial sector, USD bn","China, IIP, Assets, Direct investment, Financial sector, USD bn",None,line
+"China, IIP, Assets, Direct investment, Financial sector, Equity and investment fund shares, USD bn","China, IIP, Assets, Direct investment, Financial sector, Equity and investment fund shares, USD bn",None,line
+"China, IIP, Assets, Direct investment, Financial sector, Debt instruments, USD bn","China, IIP, Assets, Direct investment, Financial sector, Debt instruments, USD bn",None,line
+"China, IIP, Assets, Direct investment, Non-financial sector, USD bn","China, IIP, Assets, Direct investment, Non-financial sector, USD bn",None,line
+"China, IIP, Assets, Direct investment, Non-financial sector, Equity and investment fund shares, USD bn","China, IIP, Assets, Direct investment, Non-financial sector, Equity and investment fund shares, USD bn",None,line
+"China, IIP, Assets, Direct investment, Non-financial sector, Debt instruments, USD bn","China, IIP, Assets, Direct investment, Non-financial sector, Debt instruments, USD bn",None,line
+"China, IIP, Assets, Portfolio investment, USD bn","China, IIP, Assets, Portfolio investment, USD bn",None,line
+"China, IIP, Assets, Portfolio investment, Equity and investment fund shares, USD bn","China, IIP, Assets, Portfolio investment, Equity and investment fund shares, USD bn",None,line
+"China, IIP, Assets, Portfolio investment, Debt securities, USD bn","China, IIP, Assets, Portfolio investment, Debt securities, USD bn",None,line
+"China, IIP, Assets, Financial derivatives, USD bn","China, IIP, Assets, Financial derivatives, USD bn",None,line
+"China, IIP, Assets, Other investment, USD bn","China, IIP, Assets, Other investment, USD bn",None,line
+"China, IIP, Assets, Other investment, Other equity, USD bn","China, IIP, Assets, Other investment, Other equity, USD bn",None,line
+"China, IIP, Assets, Other investment, Currency and deposits, USD bn","China, IIP, Assets, Other investment, Currency and deposits, USD bn",None,line
+"China, IIP, Assets, Other investment, Loans, USD bn","China, IIP, Assets, Other investment, Loans, USD bn",None,line
+"China, IIP, Assets, Other investment, Insurance, pension, and standardized guarantee schemes, USD bn","China, IIP, Assets, Other investment, Insurance, pension, and standardized guarantee schemes, USD bn",None,line
+"China, IIP, Assets, Other investment, Trade credit and advances, USD bn","China, IIP, Assets, Other investment, Trade credit and advances, USD bn",None,line
+"China, IIP, Assets, Other investment, Other accounts receivable, USD bn","China, IIP, Assets, Other investment, Other accounts receivable, USD bn",None,line
+"China, IIP, Assets, Reserve assets, USD bn","China, IIP, Assets, Reserve assets, USD bn",None,line
+"China, IIP, Assets, Reserve assets, Monetary gold, USD bn","China, IIP, Assets, Reserve assets, Monetary gold, USD bn",None,line
+"China, IIP, Assets, Reserve assets, Special drawing rights, USD bn","China, IIP, Assets, Reserve assets, Special drawing rights, USD bn",None,line
+"China, IIP, Assets, Reserve assets, Reserve position in the IMF, USD bn","China, IIP, Assets, Reserve assets, Reserve position in the IMF, USD bn",None,line
+"China, IIP, Assets, Reserve assets, Foreign currency reserves, USD bn","China, IIP, Assets, Reserve assets, Foreign currency reserves, USD bn",None,line
+"China, IIP, Assets, Reserve assets, Other reserve assets, USD bn","China, IIP, Assets, Reserve assets, Other reserve assets, USD bn",None,line
+"China, IIP, Liabilities, USD bn","China, IIP, Liabilities, USD bn",None,line
+"China, IIP, Liabilities, Direct investment, USD bn","China, IIP, Liabilities, Direct investment, USD bn",None,line
+"China, IIP, Liabilities, Direct investment, Equity and investment fund shares, USD bn","China, IIP, Liabilities, Direct investment, Equity and investment fund shares, USD bn",None,line
+"China, IIP, Liabilities, Direct investment, Debt instruments, USD bn","China, IIP, Liabilities, Direct investment, Debt instruments, USD bn",None,line
+"China, IIP, Liabilities, Direct investment, Financial sector, USD bn","China, IIP, Liabilities, Direct investment, Financial sector, USD bn",None,line
+"China, IIP, Liabilities, Direct investment, Financial sector, Equity and investment fund shares, USD bn","China, IIP, Liabilities, Direct investment, Financial sector, Equity and investment fund shares, USD bn",None,line
+"China, IIP, Liabilities, Direct investment, Financial sector, Debt instruments, USD bn","China, IIP, Liabilities, Direct investment, Financial sector, Debt instruments, USD bn",None,line
+"China, IIP, Liabilities, Direct investment, Non-financial sector, USD bn","China, IIP, Liabilities, Direct investment, Non-financial sector, USD bn",None,line
+"China, IIP, Liabilities, Direct investment, Non-financial sector, Equity and investment fund shares, USD bn","China, IIP, Liabilities, Direct investment, Non-financial sector, Equity and investment fund shares, USD bn",None,line
+"China, IIP, Liabilities, Direct investment, Non-financial sector, Debt instruments, USD bn","China, IIP, Liabilities, Direct investment, Non-financial sector, Debt instruments, USD bn",None,line
+"China, IIP, Liabilities, Portfolio investment, USD bn","China, IIP, Liabilities, Portfolio investment, USD bn",None,line
+"China, IIP, Liabilities, Portfolio investment, Equity and investment fund shares, USD bn","China, IIP, Liabilities, Portfolio investment, Equity and investment fund shares, USD bn",None,line
+"China, IIP, Liabilities, Portfolio investment, Debt securities, USD bn","China, IIP, Liabilities, Portfolio investment, Debt securities, USD bn",None,line
+"China, IIP, Liabilities, Financial derivatives, USD bn","China, IIP, Liabilities, Financial derivatives, USD bn",None,line
+"China, IIP, Liabilities, Other investment, USD bn","China, IIP, Liabilities, Other investment, USD bn",None,line
+"China, IIP, Liabilities, Other investment, Other equity, USD bn","China, IIP, Liabilities, Other investment, Other equity, USD bn",None,line
+"China, IIP, Liabilities, Other investment, Currency and deposits, USD bn","China, IIP, Liabilities, Other investment, Currency and deposits, USD bn",None,line
+"China, IIP, Liabilities, Other investment, Loans, USD bn","China, IIP, Liabilities, Other investment, Loans, USD bn",None,line
+"China, IIP, Liabilities, Other investment, Insurance, pension, and standardized guarantee schemes, USD bn","China, IIP, Liabilities, Other investment, Insurance, pension, and standardized guarantee schemes, USD bn",None,line
+"China, IIP, Liabilities, Other investment, Trade credit and advances, USD bn","China, IIP, Liabilities, Other investment, Trade credit and advances, USD bn",None,line
+"China, IIP, Liabilities, Other investment, Other accounts payable, USD bn","China, IIP, Liabilities, Other investment, Other accounts payable, USD bn",None,line
+"China, IIP, Liabilities, Other investment, Special drawing rights, USD bn","China, IIP, Liabilities, Other investment, Special drawing rights, USD bn",None,line
+"China, IIP, Assets, Total excluding reserve assets, USD bn","China, IIP, Assets, Total excluding reserve assets, USD bn",None,line
+"China, IIP, Assets, Debt securities, USD bn","China, IIP, Assets, Debt securities, USD bn",None,line
+"China, Current account, CNY bn","China, Current account, CNY bn",None,line
+"China, Current account, Credit, CNY bn","China, Current account, Credit, CNY bn",None,line
+"China, Current account, Debit, CNY bn","China, Current account, Debit, CNY bn",None,line
+"China, Current account, Goods and services, Balance, CNY bn","China, Current account, Goods and services, Balance, CNY bn",None,line
+"China, Current account, Goods and services, Credit, CNY bn","China, Current account, Goods and services, Credit, CNY bn",None,line
+"China, Current account, Goods and services, Debit, CNY bn","China, Current account, Goods and services, Debit, CNY bn",None,line
+"China, Current account, Goods, Balance, CNY bn","China, Current account, Goods, Balance, CNY bn",None,line
+"China, Current account, Goods, Credit, CNY bn","China, Current account, Goods, Credit, CNY bn",None,line
+"China, Current account, Goods, Debit, CNY bn","China, Current account, Goods, Debit, CNY bn",None,line
+"China, Current account, Services, Balance, CNY bn","China, Current account, Services, Balance, CNY bn",None,line
+"China, Current account, Services, Credit, CNY bn","China, Current account, Services, Credit, CNY bn",None,line
+"China, Current account, Services, Debit, CNY bn","China, Current account, Services, Debit, CNY bn",None,line
+"China, Current account, Services, Manufacturing on physical inputs owned by others, Balance, CNY bn","China, Current account, Services, Manufacturing on physical inputs owned by others, Balance, CNY bn",None,line
+"China, Current account, Services, Manufacturing on physical inputs owned by others, Credit, CNY bn","China, Current account, Services, Manufacturing on physical inputs owned by others, Credit, CNY bn",None,line
+"China, Current account, Services, Manufacturing on physical inputs owned by others, Debit, CNY bn","China, Current account, Services, Manufacturing on physical inputs owned by others, Debit, CNY bn",None,line
+"China, Current account, Services, Maintenance and repair, Balance, CNY bn","China, Current account, Services, Maintenance and repair, Balance, CNY bn",None,line
+"China, Current account, Services, Maintenance and repair, Credit, CNY bn","China, Current account, Services, Maintenance and repair, Credit, CNY bn",None,line
+"China, Current account, Services, Maintenance and repair, Debit, CNY bn","China, Current account, Services, Maintenance and repair, Debit, CNY bn",None,line
+"China, Current account, Services, Transport, Balance, CNY bn","China, Current account, Services, Transport, Balance, CNY bn",None,line
+"China, Current account, Services, Transport, Credit, CNY bn","China, Current account, Services, Transport, Credit, CNY bn",None,line
+"China, Current account, Services, Transport, Debit, CNY bn","China, Current account, Services, Transport, Debit, CNY bn",None,line
+"China, Current account, Services, Travel, Balance, CNY bn","China, Current account, Services, Travel, Balance, CNY bn",None,line
+"China, Current account, Services, Travel, Credit, CNY bn","China, Current account, Services, Travel, Credit, CNY bn",None,line
+"China, Current account, Services, Travel, Debit, CNY bn","China, Current account, Services, Travel, Debit, CNY bn",None,line
+"China, Current account, Services, Construction, Balance, CNY bn","China, Current account, Services, Construction, Balance, CNY bn",None,line
+"China, Current account, Services, Construction, Credit, CNY bn","China, Current account, Services, Construction, Credit, CNY bn",None,line
+"China, Current account, Services, Construction, Debit, CNY bn","China, Current account, Services, Construction, Debit, CNY bn",None,line
+"China, Current account, Services, Insurance and pension, Balance, CNY bn","China, Current account, Services, Insurance and pension, Balance, CNY bn",None,line
+"China, Current account, Services, Insurance and pension, Credit, CNY bn","China, Current account, Services, Insurance and pension, Credit, CNY bn",None,line
+"China, Current account, Services, Insurance and pension, Debit, CNY bn","China, Current account, Services, Insurance and pension, Debit, CNY bn",None,line
+"China, Current account, Services, Financial, Balance, CNY bn","China, Current account, Services, Financial, Balance, CNY bn",None,line
+"China, Current account, Services, Financial, Credit, CNY bn","China, Current account, Services, Financial, Credit, CNY bn",None,line
+"China, Current account, Services, Financial, Debit, CNY bn","China, Current account, Services, Financial, Debit, CNY bn",None,line
+"China, Current account, Services, Charges for the use of intellectual property, Balance, CNY bn","China, Current account, Services, Charges for the use of intellectual property, Balance, CNY bn",None,line
+"China, Current account, Services, Charges for the use of intellectual property, Credit, CNY bn","China, Current account, Services, Charges for the use of intellectual property, Credit, CNY bn",None,line
+"China, Current account, Services, Charges for the use of intellectual property, Debit, CNY bn","China, Current account, Services, Charges for the use of intellectual property, Debit, CNY bn",None,line
+"China, Current account, Services, Telecoms and information technology, Balance, CNY bn","China, Current account, Services, Telecoms and information technology, Balance, CNY bn",None,line
+"China, Current account, Services, Telecoms and information technology, Credit, CNY bn","China, Current account, Services, Telecoms and information technology, Credit, CNY bn",None,line
+"China, Current account, Services, Telecoms and information technology, Debit, CNY bn","China, Current account, Services, Telecoms and information technology, Debit, CNY bn",None,line
+"China, Current account, Services, Other business, Balance, CNY bn","China, Current account, Services, Other business, Balance, CNY bn",None,line
+"China, Current account, Services, Other business, Credit, CNY bn","China, Current account, Services, Other business, Credit, CNY bn",None,line
+"China, Current account, Services, Other business, Debit, CNY bn","China, Current account, Services, Other business, Debit, CNY bn",None,line
+"China, Current account, Services, Personal, Balance, CNY bn","China, Current account, Services, Personal, Balance, CNY bn",None,line
+"China, Current account, Services, Personal, Credit, CNY bn","China, Current account, Services, Personal, Credit, CNY bn",None,line
+"China, Current account, Services, Personal, Debit, CNY bn","China, Current account, Services, Personal, Debit, CNY bn",None,line
+"China, Current account, Services, Government, Balance, CNY bn","China, Current account, Services, Government, Balance, CNY bn",None,line
+"China, Current account, Services, Government, Credit, CNY bn","China, Current account, Services, Government, Credit, CNY bn",None,line
+"China, Current account, Services, Government, Debit, CNY bn","China, Current account, Services, Government, Debit, CNY bn",None,line
+"China, Current account, Primary income, Balance, CNY bn","China, Current account, Primary income, Balance, CNY bn",None,line
+"China, Current account, Primary income, Credit, CNY bn","China, Current account, Primary income, Credit, CNY bn",None,line
+"China, Current account, Primary income, Debit, CNY bn","China, Current account, Primary income, Debit, CNY bn",None,line
+"China, Current account, Primary income, Compensation of employees, Balance, CNY bn","China, Current account, Primary income, Compensation of employees, Balance, CNY bn",None,line
+"China, Current account, Primary income, Compensation of employees, Credit, CNY bn","China, Current account, Primary income, Compensation of employees, Credit, CNY bn",None,line
+"China, Current account, Primary income, Compensation of employees, Debit, CNY bn","China, Current account, Primary income, Compensation of employees, Debit, CNY bn",None,line
+"China, Current account, Primary income, Investment income, Balance, CNY bn","China, Current account, Primary income, Investment income, Balance, CNY bn",None,line
+"China, Current account, Primary income, Investment income, Credit, CNY bn","China, Current account, Primary income, Investment income, Credit, CNY bn",None,line
+"China, Current account, Primary income, Investment income, Debit, CNY bn","China, Current account, Primary income, Investment income, Debit, CNY bn",None,line
+"China, Current account, Primary income, Other primary income, Balance, CNY bn","China, Current account, Primary income, Other primary income, Balance, CNY bn",None,line
+"China, Current account, Primary income, Other primary income, Credit, CNY bn","China, Current account, Primary income, Other primary income, Credit, CNY bn",None,line
+"China, Current account, Primary income, Other primary income, Debit, CNY bn","China, Current account, Primary income, Other primary income, Debit, CNY bn",None,line
+"China, Current account, Secondary income, Balance, CNY bn","China, Current account, Secondary income, Balance, CNY bn",None,line
+"China, Current account, Secondary income, Credit, CNY bn","China, Current account, Secondary income, Credit, CNY bn",None,line
+"China, Current account, Secondary income, Debit, CNY bn","China, Current account, Secondary income, Debit, CNY bn",None,line
+"China, Current account, Secondary income, Personal transfers, Balance, CNY bn","China, Current account, Secondary income, Personal transfers, Balance, CNY bn",None,line
+"China, Current account, Secondary income, Personal transfers, Credit, CNY bn","China, Current account, Secondary income, Personal transfers, Credit, CNY bn",None,line
+"China, Current account, Secondary income, Personal transfers, Debit, CNY bn","China, Current account, Secondary income, Personal transfers, Debit, CNY bn",None,line
+"China, Current account, Secondary income, Other secondary income, Balance, CNY bn","China, Current account, Secondary income, Other secondary income, Balance, CNY bn",None,line
+"China, Current account, Secondary income, Other secondary income, Credit, CNY bn","China, Current account, Secondary income, Other secondary income, Credit, CNY bn",None,line
+"China, Current account, Secondary income, Other secondary income, Debit, CNY bn","China, Current account, Secondary income, Other secondary income, Debit, CNY bn",None,line
+"China, Capital and financial account, CNY bn","China, Capital and financial account, CNY bn",None,line
+"China, Capital account, CNY bn","China, Capital account, CNY bn",None,line
+"China, Capital account, Credit, CNY bn","China, Capital account, Credit, CNY bn",None,line
+"China, Capital account, Debit, CNY bn","China, Capital account, Debit, CNY bn",None,line
+"China, Financial account, CNY bn","China, Financial account, CNY bn",None,line
+"China, Financial account, Assets, CNY bn","China, Financial account, Assets, CNY bn",None,line
+"China, Financial account, Liabilities, CNY bn","China, Financial account, Liabilities, CNY bn",None,line
+"China, Financial account excluding reserve assets, CNY bn","China, Financial account excluding reserve assets, CNY bn",None,line
+"China, Financial account excluding reserve assets, Assets, CNY bn","China, Financial account excluding reserve assets, Assets, CNY bn",None,line
+"China, Financial account excluding reserve assets, Liabilities, CNY bn","China, Financial account excluding reserve assets, Liabilities, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, CNY bn","China, Financial account excluding reserve assets, Direct investment, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, CNY bn","China, Financial account excluding reserve assets, Direct investment, Assets, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Equity and investment fund shares, CNY bn","China, Financial account excluding reserve assets, Direct investment, Assets, Equity and investment fund shares, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Debt instruments, CNY bn","China, Financial account excluding reserve assets, Direct investment, Assets, Debt instruments, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Financial sector, CNY bn","China, Financial account excluding reserve assets, Direct investment, Assets, Financial sector, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Financial sector, Equity, CNY bn","China, Financial account excluding reserve assets, Direct investment, Assets, Financial sector, Equity, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Financial sector, Debt instruments, CNY bn","China, Financial account excluding reserve assets, Direct investment, Assets, Financial sector, Debt instruments, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Non-financial sector, CNY bn","China, Financial account excluding reserve assets, Direct investment, Assets, Non-financial sector, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Non-financial sector, Equity, CNY bn","China, Financial account excluding reserve assets, Direct investment, Assets, Non-financial sector, Equity, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Assets, Non-financial sector, Debt instruments, CNY bn","China, Financial account excluding reserve assets, Direct investment, Assets, Non-financial sector, Debt instruments, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, CNY bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Equity and investment fund shares, CNY bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Equity and investment fund shares, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Debt instruments, CNY bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Debt instruments, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Financial sector, CNY bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Financial sector, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Financial sector, Equity, CNY bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Financial sector, Equity, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Financial sector, Debt instruments, CNY bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Financial sector, Debt instruments, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Non-financial sector, CNY bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Non-financial sector, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Non-financial sector, Equity, CNY bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Non-financial sector, Equity, CNY bn",None,line
+"China, Financial account excluding reserve assets, Direct investment, Liabilities, Non-financial sector, Debt instruments, CNY bn","China, Financial account excluding reserve assets, Direct investment, Liabilities, Non-financial sector, Debt instruments, CNY bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, CNY bn","China, Financial account excluding reserve assets, Portfolio investment, CNY bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, Assets, CNY bn","China, Financial account excluding reserve assets, Portfolio investment, Assets, CNY bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, Assets, Equity and investment fund shares, CNY bn","China, Financial account excluding reserve assets, Portfolio investment, Assets, Equity and investment fund shares, CNY bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, Assets, Debt securities, CNY bn","China, Financial account excluding reserve assets, Portfolio investment, Assets, Debt securities, CNY bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, Liabilities, CNY bn","China, Financial account excluding reserve assets, Portfolio investment, Liabilities, CNY bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, Liabilities, Equity and investment fund shares, CNY bn","China, Financial account excluding reserve assets, Portfolio investment, Liabilities, Equity and investment fund shares, CNY bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, Liabilities, Debt securities, CNY bn","China, Financial account excluding reserve assets, Portfolio investment, Liabilities, Debt securities, CNY bn",None,line
+"China, Financial account excluding reserve assets, Financial derivatives (other than reserves) and employee stock options, CNY bn","China, Financial account excluding reserve assets, Financial derivatives (other than reserves) and employee stock options, CNY bn",None,line
+"China, Financial account excluding reserve assets, Financial derivatives (other than reserves) and employee stock options, Assets, CNY bn","China, Financial account excluding reserve assets, Financial derivatives (other than reserves) and employee stock options, Assets, CNY bn",None,line
+"China, Financial account excluding reserve assets, Financial derivatives (other than reserves) and employee stock options, Liabilities, CNY bn","China, Financial account excluding reserve assets, Financial derivatives (other than reserves) and employee stock options, Liabilities, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, CNY bn","China, Financial account excluding reserve assets, Other investment, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Assets, CNY bn","China, Financial account excluding reserve assets, Other investment, Assets, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Assets, Other equity, CNY bn","China, Financial account excluding reserve assets, Other investment, Assets, Other equity, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Assets, Currency and deposits, CNY bn","China, Financial account excluding reserve assets, Other investment, Assets, Currency and deposits, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Assets, Loans, CNY bn","China, Financial account excluding reserve assets, Other investment, Assets, Loans, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Assets, Insurance, pension, and standardized guarantee schemes, CNY bn","China, Financial account excluding reserve assets, Other investment, Assets, Insurance, pension, and standardized guarantee schemes, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Assets, Trade credit and advances, CNY bn","China, Financial account excluding reserve assets, Other investment, Assets, Trade credit and advances, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Assets, Other accounts receivable, CNY bn","China, Financial account excluding reserve assets, Other investment, Assets, Other accounts receivable, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, CNY bn","China, Financial account excluding reserve assets, Other investment, Liabilities, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, Other equity, CNY bn","China, Financial account excluding reserve assets, Other investment, Liabilities, Other equity, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, Currency and deposits, CNY bn","China, Financial account excluding reserve assets, Other investment, Liabilities, Currency and deposits, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, Loans, CNY bn","China, Financial account excluding reserve assets, Other investment, Liabilities, Loans, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, Insurance, pension, and standardized guarantee schemes, CNY bn","China, Financial account excluding reserve assets, Other investment, Liabilities, Insurance, pension, and standardized guarantee schemes, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, Trade credit and advances, CNY bn","China, Financial account excluding reserve assets, Other investment, Liabilities, Trade credit and advances, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, Other accounts payable, CNY bn","China, Financial account excluding reserve assets, Other investment, Liabilities, Other accounts payable, CNY bn",None,line
+"China, Financial account excluding reserve assets, Other investment, Liabilities, Special drawing rights, CNY bn","China, Financial account excluding reserve assets, Other investment, Liabilities, Special drawing rights, CNY bn",None,line
+"China, Reserve assets, CNY bn","China, Reserve assets, CNY bn",None,line
+"China, Reserve assets, Monetary gold, CNY bn","China, Reserve assets, Monetary gold, CNY bn",None,line
+"China, Reserve assets, Special drawing rights, CNY bn","China, Reserve assets, Special drawing rights, CNY bn",None,line
+"China, Reserve assets, Reserve position in the IMF, CNY bn","China, Reserve assets, Reserve position in the IMF, CNY bn",None,line
+"China, Reserve assets, Foreign exchange reserves, CNY bn","China, Reserve assets, Foreign exchange reserves, CNY bn",None,line
+"China, Reserve assets, Other reserve assets, CNY bn","China, Reserve assets, Other reserve assets, CNY bn",None,line
+"China, Net errors and ommissions, CNY bn","China, Net errors and ommissions, CNY bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, CNY bn","China, Financial Account excluding reserve assets, including E&O, CNY bn",None,line
+"China, Capital and Financial Accounts, including E&O, CNY bn","China, Capital and Financial Accounts, including E&O, CNY bn",None,line
+"China, Capital and financial account, including E&O, CNY bn","China, Capital and financial account, including E&O, CNY bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, Direct Investment, Assets, Debt, CNY bn","China, Financial Account excluding reserve assets, including E&O, Direct Investment, Assets, Debt, CNY bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, Direct Investment, Assets, Equity, CNY bn","China, Financial Account excluding reserve assets, including E&O, Direct Investment, Assets, Equity, CNY bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, Direct Investment, Assets, CNY bn","China, Financial Account excluding reserve assets, including E&O, Direct Investment, Assets, CNY bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, Direct Investment, Liabilities, Debt, CNY bn","China, Financial Account excluding reserve assets, including E&O, Direct Investment, Liabilities, Debt, CNY bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, Direct Investment, Liabilities, Equity, CNY bn","China, Financial Account excluding reserve assets, including E&O, Direct Investment, Liabilities, Equity, CNY bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, Direct Investment, Liabilities, CNY bn","China, Financial Account excluding reserve assets, including E&O, Direct Investment, Liabilities, CNY bn",None,line
+"China, Financial Account excluding reserve assets, including E&O, Direct Investment, CNY bn","China, Financial Account excluding reserve assets, including E&O, Direct Investment, CNY bn",None,line
+"China, Financial Account including E&O, CNY bn","China, Financial Account including E&O, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct Investment, Assets, Debt, CNY bn","China, Financial account excluding reserve assets, including E&O, Direct Investment, Assets, Debt, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct Investment, Assets, Equity, CNY bn","China, Financial account excluding reserve assets, including E&O, Direct Investment, Assets, Equity, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct Investment, Assets, CNY bn","China, Financial account excluding reserve assets, including E&O, Direct Investment, Assets, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct Investment, Liabilities, Debt, CNY bn","China, Financial account excluding reserve assets, including E&O, Direct Investment, Liabilities, Debt, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct Investment, Liabilities, Equity, CNY bn","China, Financial account excluding reserve assets, including E&O, Direct Investment, Liabilities, Equity, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct Investment, Liabilities, CNY bn","China, Financial account excluding reserve assets, including E&O, Direct Investment, Liabilities, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct Investment, CNY bn","China, Financial account excluding reserve assets, including E&O, Direct Investment, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct investment, Assets, Debt, CNY bn","China, Financial account excluding reserve assets, including E&O, Direct investment, Assets, Debt, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct investment, Assets, Equity, CNY bn","China, Financial account excluding reserve assets, including E&O, Direct investment, Assets, Equity, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct investment, Assets, CNY bn","China, Financial account excluding reserve assets, including E&O, Direct investment, Assets, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct investment, Liabilities, Debt, CNY bn","China, Financial account excluding reserve assets, including E&O, Direct investment, Liabilities, Debt, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct investment, Liabilities, Equity, CNY bn","China, Financial account excluding reserve assets, including E&O, Direct investment, Liabilities, Equity, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct investment, Liabilities, CNY bn","China, Financial account excluding reserve assets, including E&O, Direct investment, Liabilities, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, Direct investment, CNY bn","China, Financial account excluding reserve assets, including E&O, Direct investment, CNY bn",None,line
+"China, Financial account excluding reserve assets, including E&O, CNY bn","China, Financial account excluding reserve assets, including E&O, CNY bn",None,line
+"China, Financial account including E&O, CNY bn","China, Financial account including E&O, CNY bn",None,line
+"China, Capital and financial account excluding reserve assets, CNY bn","China, Capital and financial account excluding reserve assets, CNY bn",None,line
+"China, Capital and financial account, excluding reserve assets, including E&O, CNY bn","China, Capital and financial account, excluding reserve assets, including E&O, CNY bn",None,line
+"China, Overall balance excluding reserve assets, CNY bn","China, Overall balance excluding reserve assets, CNY bn",None,line
+"China, Financial account excluding reserve assets, excl Direct investment, CNY bn","China, Financial account excluding reserve assets, excl Direct investment, CNY bn",None,line
+"China, Financial account excluding reserve assets, excl Direct investment Liabilities, CNY bn","China, Financial account excluding reserve assets, excl Direct investment Liabilities, CNY bn",None,line
+"China, Financial account excluding reserve assets, Portfolio investment, Equity and investment fund shares, CNY bn","China, Financial account excluding reserve assets, Portfolio investment, Equity and investment fund shares, CNY bn",None,line
+"China, Net capital flows, ex Direct investment and equities, CNY bn","China, Net capital flows, ex Direct investment and equities, CNY bn",None,line
+"China, Current account, Services, Digital excluding business services, Credit, CNY bn","China, Current account, Services, Digital excluding business services, Credit, CNY bn",None,line
+"China, Current account, Services, Digital excluding business services, Debit, CNY bn","China, Current account, Services, Digital excluding business services, Debit, CNY bn",None,line
+"China, Current account, Services, Digital excluding business services, Balance, CNY bn","China, Current account, Services, Digital excluding business services, Balance, CNY bn",None,line
+"China, Current account, Income, Balance, CNY bn","China, Current account, Income, Balance, CNY bn",None,line
+"China, Current account, Debit, CNY bn, SA","China, Current account, Debit, CNY bn, SA",None,line
+"China, Current account, Goods, Debit, CNY bn, SA","China, Current account, Goods, Debit, CNY bn, SA",None,line
+"China, Current account, CNY bn, SA","China, Current account, CNY bn, SA",None,line
+"China, Current account, Services, Debit, CNY bn, SA","China, Current account, Services, Debit, CNY bn, SA",None,line
+"China, Current account, Services, Travel, Debit, CNY bn, SA","China, Current account, Services, Travel, Debit, CNY bn, SA",None,line
+"China, Current account, Credit, CNY bn, SA","China, Current account, Credit, CNY bn, SA",None,line
+"China, Current account, Goods, Credit, CNY bn, SA","China, Current account, Goods, Credit, CNY bn, SA",None,line
+"China, Current account, Services, Credit, CNY bn, SA","China, Current account, Services, Credit, CNY bn, SA",None,line
+"China, Current account, Services, Travel, Credit, CNY bn, SA","China, Current account, Services, Travel, Credit, CNY bn, SA",None,line
+"China, Current account, Goods, Balance, CNY bn, SA","China, Current account, Goods, Balance, CNY bn, SA",None,line
+"China, Current account, Services, Balance, CNY bn, SA","China, Current account, Services, Balance, CNY bn, SA",None,line
+"China, Current account, Services, Travel, Balance, CNY bn, SA","China, Current account, Services, Travel, Balance, CNY bn, SA",None,line
+"China, Current account, Goods and services, Credit, CNY bn, SA","China, Current account, Goods and services, Credit, CNY bn, SA",None,line
+"China, Current account, Goods and services, Debit, CNY bn, SA","China, Current account, Goods and services, Debit, CNY bn, SA",None,line
+"China, Current account, Income, Balance, CNY bn, SA","China, Current account, Income, Balance, CNY bn, SA",None,line
+"China, IIP, Net international investment position, CNY bn","China, IIP, Net international investment position, CNY bn",None,line
+"China, IIP, Assets, CNY bn","China, IIP, Assets, CNY bn",None,line
+"China, IIP, Assets, Direct investment, CNY bn","China, IIP, Assets, Direct investment, CNY bn",None,line
+"China, IIP, Assets, Direct investment, Equity and investment fund shares, CNY bn","China, IIP, Assets, Direct investment, Equity and investment fund shares, CNY bn",None,line
+"China, IIP, Assets, Direct investment, Debt instruments, CNY bn","China, IIP, Assets, Direct investment, Debt instruments, CNY bn",None,line
+"China, IIP, Assets, Direct investment, Financial sector, CNY bn","China, IIP, Assets, Direct investment, Financial sector, CNY bn",None,line
+"China, IIP, Assets, Direct investment, Financial sector, Equity and investment fund shares, CNY bn","China, IIP, Assets, Direct investment, Financial sector, Equity and investment fund shares, CNY bn",None,line
+"China, IIP, Assets, Direct investment, Financial sector, Debt instruments, CNY bn","China, IIP, Assets, Direct investment, Financial sector, Debt instruments, CNY bn",None,line
+"China, IIP, Assets, Direct investment, Non-financial sector, CNY bn","China, IIP, Assets, Direct investment, Non-financial sector, CNY bn",None,line
+"China, IIP, Assets, Direct investment, Non-financial sector, Equity and investment fund shares, CNY bn","China, IIP, Assets, Direct investment, Non-financial sector, Equity and investment fund shares, CNY bn",None,line
+"China, IIP, Assets, Direct investment, Non-financial sector, Debt instruments, CNY bn","China, IIP, Assets, Direct investment, Non-financial sector, Debt instruments, CNY bn",None,line
+"China, IIP, Assets, Portfolio investment, CNY bn","China, IIP, Assets, Portfolio investment, CNY bn",None,line
+"China, IIP, Assets, Portfolio investment, Equity and investment fund shares, CNY bn","China, IIP, Assets, Portfolio investment, Equity and investment fund shares, CNY bn",None,line
+"China, IIP, Assets, Portfolio investment, Debt securities, CNY bn","China, IIP, Assets, Portfolio investment, Debt securities, CNY bn",None,line
+"China, IIP, Assets, Financial derivatives, CNY bn","China, IIP, Assets, Financial derivatives, CNY bn",None,line
+"China, IIP, Assets, Other investment, CNY bn","China, IIP, Assets, Other investment, CNY bn",None,line
+"China, IIP, Assets, Other investment, Other equity, CNY bn","China, IIP, Assets, Other investment, Other equity, CNY bn",None,line
+"China, IIP, Assets, Other investment, Currency and deposits, CNY bn","China, IIP, Assets, Other investment, Currency and deposits, CNY bn",None,line
+"China, IIP, Assets, Other investment, Loans, CNY bn","China, IIP, Assets, Other investment, Loans, CNY bn",None,line
+"China, IIP, Assets, Other investment, Insurance, pension, and standardized guarantee schemes, CNY bn","China, IIP, Assets, Other investment, Insurance, pension, and standardized guarantee schemes, CNY bn",None,line
+"China, IIP, Assets, Other investment, Trade credit and advances, CNY bn","China, IIP, Assets, Other investment, Trade credit and advances, CNY bn",None,line
+"China, IIP, Assets, Other investment, Other accounts receivable, CNY bn","China, IIP, Assets, Other investment, Other accounts receivable, CNY bn",None,line
+"China, IIP, Assets, Reserve assets, CNY bn","China, IIP, Assets, Reserve assets, CNY bn",None,line
+"China, IIP, Assets, Reserve assets, Monetary gold, CNY bn","China, IIP, Assets, Reserve assets, Monetary gold, CNY bn",None,line
+"China, IIP, Assets, Reserve assets, Special drawing rights, CNY bn","China, IIP, Assets, Reserve assets, Special drawing rights, CNY bn",None,line
+"China, IIP, Assets, Reserve assets, Reserve position in the IMF, CNY bn","China, IIP, Assets, Reserve assets, Reserve position in the IMF, CNY bn",None,line
+"China, IIP, Assets, Reserve assets, Foreign currency reserves, CNY bn","China, IIP, Assets, Reserve assets, Foreign currency reserves, CNY bn",None,line
+"China, IIP, Assets, Reserve assets, Other reserve assets, CNY bn","China, IIP, Assets, Reserve assets, Other reserve assets, CNY bn",None,line
+"China, IIP, Liabilities, CNY bn","China, IIP, Liabilities, CNY bn",None,line
+"China, IIP, Liabilities, Direct investment, CNY bn","China, IIP, Liabilities, Direct investment, CNY bn",None,line
+"China, IIP, Liabilities, Direct investment, Equity and investment fund shares, CNY bn","China, IIP, Liabilities, Direct investment, Equity and investment fund shares, CNY bn",None,line
+"China, IIP, Liabilities, Direct investment, Debt instruments, CNY bn","China, IIP, Liabilities, Direct investment, Debt instruments, CNY bn",None,line
+"China, IIP, Liabilities, Direct investment, Financial sector, CNY bn","China, IIP, Liabilities, Direct investment, Financial sector, CNY bn",None,line
+"China, IIP, Liabilities, Direct investment, Financial sector, Equity and investment fund shares, CNY bn","China, IIP, Liabilities, Direct investment, Financial sector, Equity and investment fund shares, CNY bn",None,line
+"China, IIP, Liabilities, Direct investment, Financial sector, Debt instruments, CNY bn","China, IIP, Liabilities, Direct investment, Financial sector, Debt instruments, CNY bn",None,line
+"China, IIP, Liabilities, Direct investment, Non-financial sector, CNY bn","China, IIP, Liabilities, Direct investment, Non-financial sector, CNY bn",None,line
+"China, IIP, Liabilities, Direct investment, Non-financial sector, Equity and investment fund shares, CNY bn","China, IIP, Liabilities, Direct investment, Non-financial sector, Equity and investment fund shares, CNY bn",None,line
+"China, IIP, Liabilities, Direct investment, Non-financial sector, Debt instruments, CNY bn","China, IIP, Liabilities, Direct investment, Non-financial sector, Debt instruments, CNY bn",None,line
+"China, IIP, Liabilities, Portfolio investment, CNY bn","China, IIP, Liabilities, Portfolio investment, CNY bn",None,line
+"China, IIP, Liabilities, Portfolio investment, Equity and investment fund shares, CNY bn","China, IIP, Liabilities, Portfolio investment, Equity and investment fund shares, CNY bn",None,line
+"China, IIP, Liabilities, Portfolio investment, Debt securities, CNY bn","China, IIP, Liabilities, Portfolio investment, Debt securities, CNY bn",None,line
+"China, IIP, Liabilities, Financial derivatives, CNY bn","China, IIP, Liabilities, Financial derivatives, CNY bn",None,line
+"China, IIP, Liabilities, Other investment, CNY bn","China, IIP, Liabilities, Other investment, CNY bn",None,line
+"China, IIP, Liabilities, Other investment, Other equity, CNY bn","China, IIP, Liabilities, Other investment, Other equity, CNY bn",None,line
+"China, IIP, Liabilities, Other investment, Currency and deposits, CNY bn","China, IIP, Liabilities, Other investment, Currency and deposits, CNY bn",None,line
+"China, IIP, Liabilities, Other investment, Loans, CNY bn","China, IIP, Liabilities, Other investment, Loans, CNY bn",None,line
+"China, IIP, Liabilities, Other investment, Insurance, pension, and standardized guarantee schemes, CNY bn","China, IIP, Liabilities, Other investment, Insurance, pension, and standardized guarantee schemes, CNY bn",None,line
+"China, IIP, Liabilities, Other investment, Trade credit and advances, CNY bn","China, IIP, Liabilities, Other investment, Trade credit and advances, CNY bn",None,line
+"China, IIP, Liabilities, Other investment, Other accounts payable, CNY bn","China, IIP, Liabilities, Other investment, Other accounts payable, CNY bn",None,line
+"China, IIP, Liabilities, Other investment, Special drawing rights, CNY bn","China, IIP, Liabilities, Other investment, Special drawing rights, CNY bn",None,line
+"China, IIP, Assets, Total excluding reserve assets, CNY bn","China, IIP, Assets, Total excluding reserve assets, CNY bn",None,line
+"China, IIP, Assets, Debt securities, CNY bn","China, IIP, Assets, Debt securities, CNY bn",None,line
+"China, Current account, Goods and services, Credit, Volume, CNY bn, SA","China, Current account, Goods and services, Credit, Volume, CNY bn, SA",None,line
+"China, Current account, Goods and services, Debit, Volume, CNY bn, SA","China, Current account, Goods and services, Debit, Volume, CNY bn, SA",None,line
+"China, Current account, Goods and services, Net, Volume, CNY bn, SA","China, Current account, Goods and services, Net, Volume, CNY bn, SA",None,line
+"China, Current account, Goods and services, Net, Volume, CNY bn, SA, YoY chg","China, Current account, Goods and services, Net, Volume, CNY bn, SA, YoY chg",None,line
