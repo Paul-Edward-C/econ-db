@@ -71,7 +71,7 @@ class Tool:
             stylesheets=[self.setting.select_stylesheet],
         )
 
-        db_select_options = ["GDP", "Trade", "Inflation", "MXPI", "PPI", "Sentiment"]
+        db_select_options = ["GDP", "Trade", "Inflation", "MXPI", "PPI", "Sentiment", "BOP"]
         select_dict["db_select"] = Select(
             value=db_select_options[0],
             options=db_select_options,
@@ -404,7 +404,8 @@ class Setting:
             "ppi": "PPI",
             "mxpi": "MXPI",
             "cpi_wpi": "CPI WPI",
-            "sentiment": "Sentiment"
+            "sentiment": "Sentiment",
+            "bop": "BOP"
         }
 
         self.freq_full_name_map = {"Q": "Quarterly", "M": "Monthly", "A": "Annual"}
@@ -459,6 +460,30 @@ class Setting:
                     "Monthly_setting_path": "db/jp/sentiment/m/jp_sentiment_m_setting.csv",
                     "Monthly_temp_setting_path": "db/jp/sentiment/m/jp_sentiment_m_setting_temp.csv",
                     "Pickle_path" : "db/jp/sentiment/m/jp_sentiment_pickle_path.pkl"
+                },
+                "BOP M": {
+                    "M": True,
+                    "Monthly_data_path": "db/jp/bop/m/jp_bop_m_raw.csv",
+                    "Monthly_raw_data_path": "db/jp/bop/m/jp_bop_m_raw.csv",
+                    "Monthly_setting_path": "db/jp/bop/m/jp_bop_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/jp/bop/m/jp_bop_m_setting_temp.csv",
+                    "Pickle_path" : "db/jp/bop/m/jp_bop_pickle_path.pkl"
+                },
+                "BOP A": {
+                    "A": True,
+                    "Annual_data_path": "db/jp/bop/a/jp_bop_a_raw.csv",
+                    "Annual_raw_data_path": "db/jp/bop/a/jp_bop_a_raw.csv",
+                    "Annual_setting_path": "db/jp/bop/a/jp_bop_a_setting.csv",
+                    "Annual_temp_setting_path": "db/jp/bop/a/jp_bop_a_setting_temp.csv",
+                    "Pickle_path" : "db/jp/bop/a/jp_bop_pickle_path.pkl"
+                },
+                "BOP Q": {
+                    "Q": True,
+                    "Quarterly_data_path": "db/jp/bop/q/jp_bop_q_raw.csv",
+                    "Quarterly_raw_data_path": "db/jp/bop/q/jp_bop_q_raw.csv",
+                    "Quarterly_setting_path": "db/jp/bop/q/jp_bop_q_setting.csv",
+                    "Quarterly_temp_setting_path": "db/jp/bop/q/jp_bop_q_setting_temp.csv",
+                    "Pickle_path" : "db/jp/bop/q/jp_bop_pickle_path.pkl"
                 },
             },
             "Taiwan": {
@@ -518,6 +543,30 @@ class Setting:
                     "Monthly_temp_setting_path": "db/tw/sentiment/m/tw_sentiment_m_setting_temp.csv",
                     "Pickle_path" : "db/tw/sentiment/m/tw_sentiment_pickle_path.pkl"
                 },
+                "BOP M": {
+                    "M": True,
+                    "Monthly_data_path": "db/tw/bop/m/tw_bop_m_raw.csv",
+                    "Monthly_raw_data_path": "db/tw/bop/m/tw_bop_m_raw.csv",
+                    "Monthly_setting_path": "db/tw/bop/m/tw_bop_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/tw/bop/m/tw_bop_m_setting_temp.csv",
+                    "Pickle_path" : "db/tw/bop/m/tw_bop_pickle_path.pkl"
+                },
+                "BOP A": {
+                    "A": True,
+                    "Annual_data_path": "db/tw/bop/a/tw_bop_a_raw.csv",
+                    "Annual_raw_data_path": "db/tw/bop/a/tw_bop_a_raw.csv",
+                    "Annual_setting_path": "db/tw/bop/a/tw_bop_a_setting.csv",
+                    "Annual_temp_setting_path": "db/tw/bop/a/tw_bop_a_setting_temp.csv",
+                    "Pickle_path" : "db/tw/bop/a/tw_bop_pickle_path.pkl"
+                },
+                "BOP Q": {
+                    "Q": True,
+                    "Quarterly_data_path": "db/tw/bop/q/tw_bop_q_raw.csv",
+                    "Quarterly_raw_data_path": "db/tw/bop/q/tw_bop_q_raw.csv",
+                    "Quarterly_setting_path": "db/tw/bop/q/tw_bop_q_setting.csv",
+                    "Quarterly_temp_setting_path": "db/tw/bop/q/tw_bop_q_setting_temp.csv",
+                    "Pickle_path" : "db/tw/bop/q/tw_bop_pickle_path.pkl"
+                },
             },
             "Korea": {
                 "GDP": {
@@ -568,6 +617,30 @@ class Setting:
                     "Monthly_temp_setting_path": "db/kr/sentiment/m/kr_sentiment_m_setting_temp.csv",
                     "Pickle_path" : "db/kr/sentiment/m/kr_sentiment_pickle_path.pkl"
                 },
+                "BOP M": {
+                    "M": True,
+                    "Monthly_data_path": "db/kr/bop/m/kr_bop_m_raw.csv",
+                    "Monthly_raw_data_path": "db/kr/bop/m/kr_bop_m_raw.csv",
+                    "Monthly_setting_path": "db/kr/bop/m/kr_bop_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/kr/bop/m/kr_bop_m_setting_temp.csv",
+                    "Pickle_path" : "db/kr/bop/m/kr_bop_pickle_path.pkl"
+                },
+                "BOP A": {
+                    "A": True,
+                    "Annual_data_path": "db/kr/bop/a/kr_bop_a_raw.csv",
+                    "Annual_raw_data_path": "db/kr/bop/a/kr_bop_a_raw.csv",
+                    "Annual_setting_path": "db/kr/bop/a/kr_bop_a_setting.csv",
+                    "Annual_temp_setting_path": "db/kr/bop/a/kr_bop_a_setting_temp.csv",
+                    "Pickle_path" : "db/kr/bop/a/kr_bop_pickle_path.pkl"
+                },
+                "BOP Q": {
+                    "Q": True,
+                    "Quarterly_data_path": "db/kr/bop/q/kr_bop_q_raw.csv",
+                    "Quarterly_raw_data_path": "db/kr/bop/q/kr_bop_q_raw.csv",
+                    "Quarterly_setting_path": "db/kr/bop/q/kr_bop_q_setting.csv",
+                    "Quarterly_temp_setting_path": "db/kr/bop/q/kr_bop_q_setting_temp.csv",
+                    "Pickle_path" : "db/kr/bop/q/kr_bop_pickle_path.pkl"
+                },
             },
             "China": {
                 "GDP": {
@@ -609,6 +682,30 @@ class Setting:
                     "Monthly_setting_path": "db/cn/sentiment/m/cn_sentiment_m_setting.csv",
                     "Monthly_temp_setting_path": "db/cn/sentiment/m/cn_sentiment_m_setting_temp.csv",
                     "Pickle_path" : "db/cn/sentiment/m/cn_sentiment_pickle_path.pkl"
+                },
+                "BOP M": {
+                    "M": True,
+                    "Monthly_data_path": "db/cn/bop/m/cn_bop_m_raw.csv",
+                    "Monthly_raw_data_path": "db/cn/bop/m/cn_bop_m_raw.csv",
+                    "Monthly_setting_path": "db/cn/bop/m/cn_bop_m_setting.csv",
+                    "Monthly_temp_setting_path": "db/cn/bop/m/cn_bop_m_setting_temp.csv",
+                    "Pickle_path" : "db/cn/bop/m/cn_bop_pickle_path.pkl"
+                },
+                "BOP A": {
+                    "A": True,
+                    "Annual_data_path": "db/cn/bop/a/cn_bop_a_raw.csv",
+                    "Annual_raw_data_path": "db/cn/bop/a/cn_bop_a_raw.csv",
+                    "Annual_setting_path": "db/cn/bop/a/cn_bop_a_setting.csv",
+                    "Annual_temp_setting_path": "db/cn/bop/a/cn_bop_a_setting_temp.csv",
+                    "Pickle_path" : "db/cn/bop/a/cn_bop_pickle_path.pkl"
+                },
+                "BOP Q": {
+                    "Q": True,
+                    "Quarterly_data_path": "db/cn/bop/q/cn_bop_q_raw.csv",
+                    "Quarterly_raw_data_path": "db/cn/bop/q/cn_bop_q_raw.csv",
+                    "Quarterly_setting_path": "db/cn/bop/q/cn_bop_q_setting.csv",
+                    "Quarterly_temp_setting_path": "db/cn/bop/q/cn_bop_q_setting_temp.csv",
+                    "Pickle_path" : "db/cn/bop/q/cn_bop_pickle_path.pkl"
                 },
             },
         }

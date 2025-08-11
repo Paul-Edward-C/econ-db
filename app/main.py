@@ -190,15 +190,15 @@ def update_country_select(attrname, old, new):
     print(os.getcwd())
 
     if select_dict["country_select"].value == "China":
-        select_dict["db_select"].options = ["GDP", "Trade", "Inflation", "PPI", "Sentiment"]
+        select_dict["db_select"].options = ["GDP", "Trade", "Inflation", "PPI", "Sentiment", "BOP"]
         if select_dict["db_select"].value not in select_dict["category_select"].options:
             select_dict["db_select"].value = select_dict["db_select"].options[0]
     elif select_dict["country_select"].value == "Taiwan":
-        select_dict["db_select"].options = ["GDP", "Trade", "Inflation","MXPI", "PPI", "CPI WPI", "Sentiment"]
+        select_dict["db_select"].options = ["GDP", "Trade", "Inflation","MXPI", "PPI", "CPI WPI", "Sentiment", "BOP"]
         if select_dict["db_select"].value not in select_dict["category_select"].options:
             select_dict["db_select"].value = select_dict["db_select"].options[0]
     else:
-        select_dict["db_select"].options = ["GDP", "Trade", "Inflation", "MXPI", "PPI", "Sentiment"]
+        select_dict["db_select"].options = ["GDP", "Trade", "Inflation", "MXPI", "PPI", "Sentiment", "BOP"]
         if select_dict["db_select"].value not in select_dict["category_select"].options:
             select_dict["db_select"].value = select_dict["db_select"].options[0]
 
@@ -226,21 +226,35 @@ def update_db_select(attrname, old, new):
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
-    pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
+    if select_dict["db_select"].value == "BOP":
+        if select_dict["freq_select"].value == "Quarterly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP Q"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Annual":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP A"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Monthly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP M"]["Pickle_path"]
+    else:
+        pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
     print(pickle_path)
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
     curr_key = select_dict["country_select"].value + ", "
     print(curr_key)
-    if select_dict["db_select"].value == "GDP":
+    if select_dict["db_select"].value == "BOP":
+        print("YPYPYP")
+        freq_select_options = ["Quarterly", "Monthly", "Annual"]
+
+    elif select_dict["db_select"].value == "GDP":
         freq_select_options = ["Quarterly"]
 
     else:
         freq_select_options = ["Monthly"]
 
     select_dict["freq_select"].options = freq_select_options
-    select_dict["freq_select"].value = freq_select_options[0]
+    if select_dict["freq_select"].value not in select_dict["freq_select"].options:
+            select_dict["freq_select"].value = freq_select_options[0]
+    
     print(data_dict)
     if curr_key in data_dict:
         select_dict["category_select"].options = data_dict[curr_key]
@@ -257,7 +271,15 @@ def update_category_select(attrname, old, new):
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
-    pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
+    if select_dict["db_select"].value == "BOP":
+        if select_dict["freq_select"].value == "Quarterly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP Q"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Annual":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP A"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Monthly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP M"]["Pickle_path"]
+    else:
+        pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
     print(pickle_path)
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
@@ -283,14 +305,18 @@ def update_freq_select(attrname, old, new):
     # Change data source and data setting
     global data, data_setting
 
-    if select_dict["db_select"].value == "GDP":
+    if select_dict["db_select"].value == "BOP":
+        freq_select_options = ["Quarterly", "Monthly", "Annual"]
+
+    elif select_dict["db_select"].value == "GDP":
         freq_select_options = ["Quarterly"]
 
     else:
         freq_select_options = ["Monthly"]
 
     select_dict["freq_select"].options = freq_select_options
-    select_dict["freq_select"].value = freq_select_options[0]
+    if select_dict["freq_select"].value not in select_dict["freq_select"].options:
+            select_dict["freq_select"].value = freq_select_options[0]
 
 
 def update_type_select(attrname, old, new):
@@ -298,7 +324,15 @@ def update_type_select(attrname, old, new):
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
-    pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
+    if select_dict["db_select"].value == "BOP":
+        if select_dict["freq_select"].value == "Quarterly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP Q"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Annual":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP A"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Monthly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP M"]["Pickle_path"]
+    else:
+        pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
@@ -324,8 +358,15 @@ def update_cat1_select(attrname, old, new):
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
-    pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
-
+    if select_dict["db_select"].value == "BOP":
+        if select_dict["freq_select"].value == "Quarterly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP Q"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Annual":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP A"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Monthly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP M"]["Pickle_path"]
+    else:
+        pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
@@ -350,7 +391,15 @@ def update_cat2_select(attrname, old, new):
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
-    pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
+    if select_dict["db_select"].value == "BOP":
+        if select_dict["freq_select"].value == "Quarterly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP Q"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Annual":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP A"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Monthly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP M"]["Pickle_path"]
+    else:
+        pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
@@ -376,7 +425,15 @@ def update_cat3_select(attrname, old, new):
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
-    pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
+    if select_dict["db_select"].value == "BOP":
+        if select_dict["freq_select"].value == "Quarterly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP Q"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Annual":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP A"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Monthly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP M"]["Pickle_path"]
+    else:
+        pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
@@ -404,7 +461,15 @@ def update_cat4_select(attrname, old, new):
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
-    pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
+    if select_dict["db_select"].value == "BOP":
+        if select_dict["freq_select"].value == "Quarterly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP Q"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Annual":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP A"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Monthly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP M"]["Pickle_path"]
+    else:
+        pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
@@ -431,7 +496,15 @@ def update_cat5_select(attrname, old, new):
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
-    pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
+    if select_dict["db_select"].value == "BOP":
+        if select_dict["freq_select"].value == "Quarterly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP Q"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Annual":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP A"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Monthly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP M"]["Pickle_path"]
+    else:
+        pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
@@ -459,7 +532,15 @@ def update_cat6_select(attrname, old, new):
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
-    pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
+    if select_dict["db_select"].value == "BOP":
+        if select_dict["freq_select"].value == "Quarterly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP Q"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Annual":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP A"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Monthly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP M"]["Pickle_path"]
+    else:
+        pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
@@ -487,7 +568,15 @@ def update_cat7_select(attrname, old, new):
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
-    pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
+    if select_dict["db_select"].value == "BOP":
+        if select_dict["freq_select"].value == "Quarterly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP Q"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Annual":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP A"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Monthly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP M"]["Pickle_path"]
+    else:
+        pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
@@ -515,7 +604,15 @@ def update_cat8_select(attrname, old, new):
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
-    pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
+    if select_dict["db_select"].value == "BOP":
+        if select_dict["freq_select"].value == "Quarterly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP Q"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Annual":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP A"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Monthly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP M"]["Pickle_path"]
+    else:
+        pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
@@ -543,7 +640,15 @@ def update_cat9_select(attrname, old, new):
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
-    pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
+    if select_dict["db_select"].value == "BOP":
+        if select_dict["freq_select"].value == "Quarterly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP Q"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Annual":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP A"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Monthly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP M"]["Pickle_path"]
+    else:
+        pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
@@ -570,7 +675,15 @@ def update_cat10_select(attrname, old, new):
     # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
-    pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
+    if select_dict["db_select"].value == "BOP":
+        if select_dict["freq_select"].value == "Quarterly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP Q"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Annual":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP A"]["Pickle_path"]
+        if select_dict["freq_select"].value == "Monthly":
+            pickle_path = tool.setting.structure[select_dict["country_select"].value]["BOP M"]["Pickle_path"]
+    else:
+        pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
@@ -726,6 +839,38 @@ def add_button_callback():
             ],
             matched_columns=matched_columns,
         )
+    elif select_dict["db_select"].value == "BOP":
+        if select_dict["freq_select"].value == "Monthly":
+            print("montly")
+            data, data_setting = tool.read_data(
+                data_path=setting.structure[select_dict["country_select"].value]["BOP M"][
+                    "Monthly_data_path"
+                ],
+                setting_path=setting.structure[select_dict["country_select"].value]["BOP M"][
+                    "Monthly_setting_path"
+                ],
+                matched_columns=matched_columns,
+            )
+        if select_dict["freq_select"].value == "Annual":
+            data, data_setting = tool.read_data(
+                data_path=setting.structure[select_dict["country_select"].value]["BOP A"][
+                    "Annual_data_path"
+                ],
+                setting_path=setting.structure[select_dict["country_select"].value]["BOP A"][
+                    "Annual_setting_path"
+                ],
+                matched_columns=matched_columns,
+            )
+        if select_dict["freq_select"].value == "Quarterly":
+            data, data_setting = tool.read_data(
+                data_path=setting.structure[select_dict["country_select"].value]["BOP Q"][
+                    "Quarterly_data_path"
+                ],
+                setting_path=setting.structure[select_dict["country_select"].value]["BOP Q"][
+                    "Quarterly_setting_path"
+                ],
+                matched_columns=matched_columns,
+            )
     freq_sect_str = ''
     freq_sect_str += select_dict["freq_select"].value
 
@@ -739,11 +884,11 @@ def add_button_callback():
     col_name = col_name[:-2]
     col_name = col_name.replace("Monthly, ", "")
     col_name = col_name.replace("Quarterly, ", "")
+    col_name = col_name.replace("Annual, ", "")
     col_name = col_name.replace(", No Option", "")
 
     data_setting_object = tool.create_data_setting_object(data_setting, col_name)
     old_multichoice_values = multichoice.value
-
 
     new_value = (f"{data_setting_object['name']}", data_setting_object["display_name"])
     if new_value not in multichoice.options:

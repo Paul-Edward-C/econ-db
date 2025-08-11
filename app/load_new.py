@@ -6,10 +6,10 @@ import os
 
 def main():
     # initialize all paths to check
-    db_paths = ["db\jp\gdp\q", "db\jp\export\m", "db\jp\inflation\m", "db\jp\mxpi\m", "db\jp\ppi\m", "db\jp\sentiment\m",
-                "db\cn\gdp\q", "db\cn\export\m", "db\cn\inflation\m", "db\cn\ppi\m", "db\cn\sentiment\m",
-                "db\kr\gdp\q", "db\kr\export\m", "db\kr\inflation\m", "db\kr\mxpi\m", "db\kr\ppi\m", "db\kr\sentiment\m",
-                "db\\tw\gdp\q", "db\\tw\export\m", "db\\tw\inflation\m", "db\\tw\mxpi\m", "db\\tw\ppi\m", "db\\tw\cpi_wpi\m", "db\\tw\sentiment\m"]
+    db_paths = ["db\jp\gdp\q", "db\jp\export\m", "db\jp\inflation\m", "db\jp\mxpi\m", "db\jp\ppi\m", "db\jp\sentiment\m", "db\jp\\bop\m", "db\jp\\bop\q", "db\jp\\bop\\a", 
+                "db\cn\gdp\q", "db\cn\export\m", "db\cn\inflation\m", "db\cn\ppi\m", "db\cn\sentiment\m", "db\cn\\bop\m", "db\cn\\bop\q", "db\cn\\bop\\a", 
+                "db\kr\gdp\q", "db\kr\export\m", "db\kr\inflation\m", "db\kr\mxpi\m", "db\kr\ppi\m", "db\kr\sentiment\m", "db\kr\\bop\m", "db\kr\\bop\q", "db\kr\\bop\\a", 
+                "db\\tw\gdp\q", "db\\tw\export\m", "db\\tw\inflation\m", "db\\tw\mxpi\m", "db\\tw\ppi\m", "db\\tw\cpi_wpi\m", "db\\tw\sentiment\m", "db\\tw\\bop\m", "db\\tw\\bop\q", "db\\tw\\bop\\a", ]
 
     # check for each path
     for path in db_paths:
