@@ -1,273 +1,273 @@
 name,display_name,data_type,chart_type
-"Japan, Sentimnent, Consumer, CO, SA","Japan, Sentimnent, Consumer, CO, SA",None,line
-"Japan, Sentimnent, Consumer, CO, MoM chg, SA","Japan, Sentimnent, Consumer, CO, MoM chg, SA",None,line
-"Japan, Sentimnent, Consumer, CO, Overall livelihood, SA","Japan, Sentimnent, Consumer, CO, Overall livelihood, SA",None,line
-"Japan, Sentimnent, Consumer, CO, Overall livelihood, MoM chg, SA","Japan, Sentimnent, Consumer, CO, Overall livelihood, MoM chg, SA",None,line
-"Japan, Sentimnent, Consumer, CO, Income, SA","Japan, Sentimnent, Consumer, CO, Income, SA",None,line
-"Japan, Sentimnent, Consumer, CO, Income, MoM chg, SA","Japan, Sentimnent, Consumer, CO, Income, MoM chg, SA",None,line
-"Japan, Sentimnent, Consumer, CO, Employment, SA","Japan, Sentimnent, Consumer, CO, Employment, SA",None,line
-"Japan, Sentimnent, Consumer, CO, Employment, MoM chg, SA","Japan, Sentimnent, Consumer, CO, Employment, MoM chg, SA",None,line
-"Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions, SA","Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions, SA",None,line
-"Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions, MoM chg, SA","Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions, MoM chg, SA",None,line
-"Japan, Sentimnent, Consumer, CO, Asset value, SA","Japan, Sentimnent, Consumer, CO, Asset value, SA",None,line
-"Japan, Sentimnent, Consumer, CO, Asset value, MoM chg, SA","Japan, Sentimnent, Consumer, CO, Asset value, MoM chg, SA",None,line
-"Japan, Sentimnent, Consumer, CO","Japan, Sentimnent, Consumer, CO",None,line
-"Japan, Sentimnent, Consumer, CO, MoM chg","Japan, Sentimnent, Consumer, CO, MoM chg",None,line
-"Japan, Sentimnent, Consumer, CO, Overall livelihood","Japan, Sentimnent, Consumer, CO, Overall livelihood",None,line
-"Japan, Sentimnent, Consumer, CO, Overall livelihood, MoM chg","Japan, Sentimnent, Consumer, CO, Overall livelihood, MoM chg",None,line
-"Japan, Sentimnent, Consumer, CO, Income","Japan, Sentimnent, Consumer, CO, Income",None,line
-"Japan, Sentimnent, Consumer, CO, Income, MoM chg","Japan, Sentimnent, Consumer, CO, Income, MoM chg",None,line
-"Japan, Sentimnent, Consumer, CO, Employment","Japan, Sentimnent, Consumer, CO, Employment",None,line
-"Japan, Sentimnent, Consumer, CO, Employment, MoM chg","Japan, Sentimnent, Consumer, CO, Employment, MoM chg",None,line
-"Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions","Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions",None,line
-"Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions, MoM chg","Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions, MoM chg",None,line
-"Japan, Sentimnent, Consumer, CO, Asset value","Japan, Sentimnent, Consumer, CO, Asset value",None,line
-"Japan, Sentimnent, Consumer, CO, Asset value, MoM chg","Japan, Sentimnent, Consumer, CO, Asset value, MoM chg",None,line
-"Japan, Sentimnent, Consumer, CO, 低下する_▲５％以上","Japan, Sentimnent, Consumer, CO, 低下する_▲５％以上",None,line
-"Japan, Sentimnent, Consumer, CO, 低下する_▲５％未満～▲２％以上","Japan, Sentimnent, Consumer, CO, 低下する_▲５％未満～▲２％以上",None,line
-"Japan, Sentimnent, Consumer, CO, 低下する_▲２％未満","Japan, Sentimnent, Consumer, CO, 低下する_▲２％未満",None,line
-"Japan, Sentimnent, Consumer, CO, 低下する_(計)","Japan, Sentimnent, Consumer, CO, 低下する_(計)",None,line
-"Japan, Sentimnent, Consumer, CO, 低下する_(前月差)","Japan, Sentimnent, Consumer, CO, 低下する_(前月差)",None,line
-"Japan, Sentimnent, Consumer, CO, 低下する_(前年同月差)","Japan, Sentimnent, Consumer, CO, 低下する_(前年同月差)",None,line
-"Japan, Sentimnent, Consumer, CO, 変わらない_０％程度","Japan, Sentimnent, Consumer, CO, 変わらない_０％程度",None,line
-"Japan, Sentimnent, Consumer, CO, 変わらない_０％程度_(前月差)","Japan, Sentimnent, Consumer, CO, 変わらない_０％程度_(前月差)",None,line
-"Japan, Sentimnent, Consumer, CO, 変わらない_０％程度_(前年同月差)","Japan, Sentimnent, Consumer, CO, 変わらない_０％程度_(前年同月差)",None,line
-"Japan, Sentimnent, Consumer, CO, 上昇する_２％未満","Japan, Sentimnent, Consumer, CO, 上昇する_２％未満",None,line
-"Japan, Sentimnent, Consumer, CO, 上昇する_２％以上～５％未満","Japan, Sentimnent, Consumer, CO, 上昇する_２％以上～５％未満",None,line
-"Japan, Sentimnent, Consumer, CO, 上昇する_５％以上","Japan, Sentimnent, Consumer, CO, 上昇する_５％以上",None,line
-"Japan, Sentimnent, Consumer, CO, 上昇する_(計)","Japan, Sentimnent, Consumer, CO, 上昇する_(計)",None,line
-"Japan, Sentimnent, Consumer, CO, 上昇する_(前月差)","Japan, Sentimnent, Consumer, CO, 上昇する_(前月差)",None,line
-"Japan, Sentimnent, Consumer, CO, 上昇する_(前年同月差)","Japan, Sentimnent, Consumer, CO, 上昇する_(前年同月差)",None,line
-"Japan, Sentimnent, Consumer, CO, 分からない","Japan, Sentimnent, Consumer, CO, 分からない",None,line
-"Japan, Sentimnent, Consumer, CO, Expected inflation","Japan, Sentimnent, Consumer, CO, Expected inflation",None,line
-"Japan, Sentimnent, Consumer, CO, Under 29, Overall index","Japan, Sentimnent, Consumer, CO, Under 29, Overall index",None,line
-"Japan, Sentimnent, Consumer, CO, Under 29, Livelihood","Japan, Sentimnent, Consumer, CO, Under 29, Livelihood",None,line
-"Japan, Sentimnent, Consumer, CO, Under 29, Income","Japan, Sentimnent, Consumer, CO, Under 29, Income",None,line
-"Japan, Sentimnent, Consumer, CO, Under 29, Employment","Japan, Sentimnent, Consumer, CO, Under 29, Employment",None,line
-"Japan, Sentimnent, Consumer, CO, Under 29, Durable goods purchase intentions","Japan, Sentimnent, Consumer, CO, Under 29, Durable goods purchase intentions",None,line
-"Japan, Sentimnent, Consumer, CO, Under 29, Asset value","Japan, Sentimnent, Consumer, CO, Under 29, Asset value",None,line
-"Japan, Sentimnent, Consumer, CO, 30-59, Overall index","Japan, Sentimnent, Consumer, CO, 30-59, Overall index",None,line
-"Japan, Sentimnent, Consumer, CO, 30-59, Livelihood","Japan, Sentimnent, Consumer, CO, 30-59, Livelihood",None,line
-"Japan, Sentimnent, Consumer, CO, 30-59, Income","Japan, Sentimnent, Consumer, CO, 30-59, Income",None,line
-"Japan, Sentimnent, Consumer, CO, 30-59, Employment","Japan, Sentimnent, Consumer, CO, 30-59, Employment",None,line
-"Japan, Sentimnent, Consumer, CO, 30-59, Durable goods purchase intentions","Japan, Sentimnent, Consumer, CO, 30-59, Durable goods purchase intentions",None,line
-"Japan, Sentimnent, Consumer, CO, 30-59, Asset value","Japan, Sentimnent, Consumer, CO, 30-59, Asset value",None,line
-"Japan, Sentimnent, Consumer, CO, 60 & over, Overall index","Japan, Sentimnent, Consumer, CO, 60 & over, Overall index",None,line
-"Japan, Sentimnent, Consumer, CO, 60 & over, Livelihood","Japan, Sentimnent, Consumer, CO, 60 & over, Livelihood",None,line
-"Japan, Sentimnent, Consumer, CO, 60 & over, Income","Japan, Sentimnent, Consumer, CO, 60 & over, Income",None,line
-"Japan, Sentimnent, Consumer, CO, 60 & over, Employment","Japan, Sentimnent, Consumer, CO, 60 & over, Employment",None,line
-"Japan, Sentimnent, Consumer, CO, 60 & over, Durable goods purchase intentions","Japan, Sentimnent, Consumer, CO, 60 & over, Durable goods purchase intentions",None,line
-"Japan, Sentimnent, Consumer, CO, 60 & over, Asset value","Japan, Sentimnent, Consumer, CO, 60 & over, Asset value",None,line
-"Japan, Sentimnent, Consumer, CO, 30-39, Overall index","Japan, Sentimnent, Consumer, CO, 30-39, Overall index",None,line
-"Japan, Sentimnent, Consumer, CO, 30-39, Livelihood","Japan, Sentimnent, Consumer, CO, 30-39, Livelihood",None,line
-"Japan, Sentimnent, Consumer, CO, 30-39, Income","Japan, Sentimnent, Consumer, CO, 30-39, Income",None,line
-"Japan, Sentimnent, Consumer, CO, 30-39, Employment","Japan, Sentimnent, Consumer, CO, 30-39, Employment",None,line
-"Japan, Sentimnent, Consumer, CO, 30-39, Durable goods purchase intentions","Japan, Sentimnent, Consumer, CO, 30-39, Durable goods purchase intentions",None,line
-"Japan, Sentimnent, Consumer, CO, 30-39, Asset value","Japan, Sentimnent, Consumer, CO, 30-39, Asset value",None,line
-"Japan, Sentimnent, Consumer, CO, 40-49, Overall index","Japan, Sentimnent, Consumer, CO, 40-49, Overall index",None,line
-"Japan, Sentimnent, Consumer, CO, 40-49, Livelihood","Japan, Sentimnent, Consumer, CO, 40-49, Livelihood",None,line
-"Japan, Sentimnent, Consumer, CO, 40-49, Income","Japan, Sentimnent, Consumer, CO, 40-49, Income",None,line
-"Japan, Sentimnent, Consumer, CO, 40-49, Employment","Japan, Sentimnent, Consumer, CO, 40-49, Employment",None,line
-"Japan, Sentimnent, Consumer, CO, 40-49, Durable goods purchase intentions","Japan, Sentimnent, Consumer, CO, 40-49, Durable goods purchase intentions",None,line
-"Japan, Sentimnent, Consumer, CO, 40-49, Asset value","Japan, Sentimnent, Consumer, CO, 40-49, Asset value",None,line
-"Japan, Sentimnent, Consumer, CO, 50-59, Overall index","Japan, Sentimnent, Consumer, CO, 50-59, Overall index",None,line
-"Japan, Sentimnent, Consumer, CO, 50-59, Livelihood","Japan, Sentimnent, Consumer, CO, 50-59, Livelihood",None,line
-"Japan, Sentimnent, Consumer, CO, 50-59, Income","Japan, Sentimnent, Consumer, CO, 50-59, Income",None,line
-"Japan, Sentimnent, Consumer, CO, 50-59, Employment","Japan, Sentimnent, Consumer, CO, 50-59, Employment",None,line
-"Japan, Sentimnent, Consumer, CO, 50-59, Durable goods purchase intentions","Japan, Sentimnent, Consumer, CO, 50-59, Durable goods purchase intentions",None,line
-"Japan, Sentimnent, Consumer, CO, 50-59, Asset value","Japan, Sentimnent, Consumer, CO, 50-59, Asset value",None,line
-"Japan, Sentimnent, Consumer, CO, 60-69, Overall index","Japan, Sentimnent, Consumer, CO, 60-69, Overall index",None,line
-"Japan, Sentimnent, Consumer, CO, 60-69, Livelihood","Japan, Sentimnent, Consumer, CO, 60-69, Livelihood",None,line
-"Japan, Sentimnent, Consumer, CO, 60-69, Income","Japan, Sentimnent, Consumer, CO, 60-69, Income",None,line
-"Japan, Sentimnent, Consumer, CO, 60-69, Employment","Japan, Sentimnent, Consumer, CO, 60-69, Employment",None,line
-"Japan, Sentimnent, Consumer, CO, 60-69, Durable goods purchase intentions","Japan, Sentimnent, Consumer, CO, 60-69, Durable goods purchase intentions",None,line
-"Japan, Sentimnent, Consumer, CO, 60-69, Asset value","Japan, Sentimnent, Consumer, CO, 60-69, Asset value",None,line
-"Japan, Sentimnent, Consumer, CO, 70 & over, Overall index","Japan, Sentimnent, Consumer, CO, 70 & over, Overall index",None,line
-"Japan, Sentimnent, Consumer, CO, 70 & over, Livelihood","Japan, Sentimnent, Consumer, CO, 70 & over, Livelihood",None,line
-"Japan, Sentimnent, Consumer, CO, 70 & over, Income","Japan, Sentimnent, Consumer, CO, 70 & over, Income",None,line
-"Japan, Sentimnent, Consumer, CO, 70 & over, Employment","Japan, Sentimnent, Consumer, CO, 70 & over, Employment",None,line
-"Japan, Sentimnent, Consumer, CO, 70 & over, Durable goods purchase intentions","Japan, Sentimnent, Consumer, CO, 70 & over, Durable goods purchase intentions",None,line
-"Japan, Sentimnent, Consumer, CO, 70 & over, Asset value","Japan, Sentimnent, Consumer, CO, 70 & over, Asset value",None,line
-"Japan, Sentimnent, Consumer, CO, SA, z","Japan, Sentimnent, Consumer, CO, SA, z",None,line
-"Japan, Sentimnent, Consumer, CO, MoM chg, SA, z","Japan, Sentimnent, Consumer, CO, MoM chg, SA, z",None,line
-"Japan, Sentimnent, Consumer, CO, Overall livelihood, SA, z","Japan, Sentimnent, Consumer, CO, Overall livelihood, SA, z",None,line
-"Japan, Sentimnent, Consumer, CO, Overall livelihood, MoM chg, SA, z","Japan, Sentimnent, Consumer, CO, Overall livelihood, MoM chg, SA, z",None,line
-"Japan, Sentimnent, Consumer, CO, Income, SA, z","Japan, Sentimnent, Consumer, CO, Income, SA, z",None,line
-"Japan, Sentimnent, Consumer, CO, Income, MoM chg, SA, z","Japan, Sentimnent, Consumer, CO, Income, MoM chg, SA, z",None,line
-"Japan, Sentimnent, Consumer, CO, Employment, SA, z","Japan, Sentimnent, Consumer, CO, Employment, SA, z",None,line
-"Japan, Sentimnent, Consumer, CO, Employment, MoM chg, SA, z","Japan, Sentimnent, Consumer, CO, Employment, MoM chg, SA, z",None,line
-"Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions, SA, z","Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions, SA, z",None,line
-"Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions, MoM chg, SA, z","Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions, MoM chg, SA, z",None,line
-"Japan, Sentimnent, Consumer, CO, Asset value, SA, z","Japan, Sentimnent, Consumer, CO, Asset value, SA, z",None,line
-"Japan, Sentimnent, Consumer, CO, Asset value, MoM chg, SA, z","Japan, Sentimnent, Consumer, CO, Asset value, MoM chg, SA, z",None,line
-"Japan, Sentimnent, Consumer, CO, z","Japan, Sentimnent, Consumer, CO, z",None,line
-"Japan, Sentimnent, Consumer, CO, MoM chg, z","Japan, Sentimnent, Consumer, CO, MoM chg, z",None,line
-"Japan, Sentimnent, Consumer, CO, Overall livelihood, z","Japan, Sentimnent, Consumer, CO, Overall livelihood, z",None,line
-"Japan, Sentimnent, Consumer, CO, Overall livelihood, MoM chg, z","Japan, Sentimnent, Consumer, CO, Overall livelihood, MoM chg, z",None,line
-"Japan, Sentimnent, Consumer, CO, Income, z","Japan, Sentimnent, Consumer, CO, Income, z",None,line
-"Japan, Sentimnent, Consumer, CO, Income, MoM chg, z","Japan, Sentimnent, Consumer, CO, Income, MoM chg, z",None,line
-"Japan, Sentimnent, Consumer, CO, Employment, z","Japan, Sentimnent, Consumer, CO, Employment, z",None,line
-"Japan, Sentimnent, Consumer, CO, Employment, MoM chg, z","Japan, Sentimnent, Consumer, CO, Employment, MoM chg, z",None,line
-"Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions, z","Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions, z",None,line
-"Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions, MoM chg, z","Japan, Sentimnent, Consumer, CO, Durable goods purchase intentions, MoM chg, z",None,line
-"Japan, Sentimnent, Consumer, CO, Asset value, z","Japan, Sentimnent, Consumer, CO, Asset value, z",None,line
-"Japan, Sentimnent, Consumer, CO, Asset value, MoM chg, z","Japan, Sentimnent, Consumer, CO, Asset value, MoM chg, z",None,line
-"Japan, Sentimnent, Consumer, CO, 低下する_▲５％以上, z","Japan, Sentimnent, Consumer, CO, 低下する_▲５％以上, z",None,line
-"Japan, Sentimnent, Consumer, CO, 低下する_▲５％未満～▲２％以上, z","Japan, Sentimnent, Consumer, CO, 低下する_▲５％未満～▲２％以上, z",None,line
-"Japan, Sentimnent, Consumer, CO, 低下する_▲２％未満, z","Japan, Sentimnent, Consumer, CO, 低下する_▲２％未満, z",None,line
-"Japan, Sentimnent, Consumer, CO, 低下する_(計), z","Japan, Sentimnent, Consumer, CO, 低下する_(計), z",None,line
-"Japan, Sentimnent, Consumer, CO, 低下する_(前月差), z","Japan, Sentimnent, Consumer, CO, 低下する_(前月差), z",None,line
-"Japan, Sentimnent, Consumer, CO, 低下する_(前年同月差), z","Japan, Sentimnent, Consumer, CO, 低下する_(前年同月差), z",None,line
-"Japan, Sentimnent, Consumer, CO, 変わらない_０％程度, z","Japan, Sentimnent, Consumer, CO, 変わらない_０％程度, z",None,line
-"Japan, Sentimnent, Consumer, CO, 変わらない_０％程度_(前月差), z","Japan, Sentimnent, Consumer, CO, 変わらない_０％程度_(前月差), z",None,line
-"Japan, Sentimnent, Consumer, CO, 変わらない_０％程度_(前年同月差), z","Japan, Sentimnent, Consumer, CO, 変わらない_０％程度_(前年同月差), z",None,line
-"Japan, Sentimnent, Consumer, CO, 上昇する_２％未満, z","Japan, Sentimnent, Consumer, CO, 上昇する_２％未満, z",None,line
-"Japan, Sentimnent, Consumer, CO, 上昇する_２％以上～５％未満, z","Japan, Sentimnent, Consumer, CO, 上昇する_２％以上～５％未満, z",None,line
-"Japan, Sentimnent, Consumer, CO, 上昇する_５％以上, z","Japan, Sentimnent, Consumer, CO, 上昇する_５％以上, z",None,line
-"Japan, Sentimnent, Consumer, CO, 上昇する_(計), z","Japan, Sentimnent, Consumer, CO, 上昇する_(計), z",None,line
-"Japan, Sentimnent, Consumer, CO, 上昇する_(前月差), z","Japan, Sentimnent, Consumer, CO, 上昇する_(前月差), z",None,line
-"Japan, Sentimnent, Consumer, CO, 上昇する_(前年同月差), z","Japan, Sentimnent, Consumer, CO, 上昇する_(前年同月差), z",None,line
-"Japan, Sentimnent, Consumer, CO, 分からない, z","Japan, Sentimnent, Consumer, CO, 分からない, z",None,line
-"Japan, Sentimnent, Consumer, CO, Expected inflation, z","Japan, Sentimnent, Consumer, CO, Expected inflation, z",None,line
-"Japan, Sentimnent, Consumer, CO, Under 29, Overall index, z","Japan, Sentimnent, Consumer, CO, Under 29, Overall index, z",None,line
-"Japan, Sentimnent, Consumer, CO, Under 29, Livelihood, z","Japan, Sentimnent, Consumer, CO, Under 29, Livelihood, z",None,line
-"Japan, Sentimnent, Consumer, CO, Under 29, Income, z","Japan, Sentimnent, Consumer, CO, Under 29, Income, z",None,line
-"Japan, Sentimnent, Consumer, CO, Under 29, Employment, z","Japan, Sentimnent, Consumer, CO, Under 29, Employment, z",None,line
-"Japan, Sentimnent, Consumer, CO, Under 29, Durable goods purchase intentions, z","Japan, Sentimnent, Consumer, CO, Under 29, Durable goods purchase intentions, z",None,line
-"Japan, Sentimnent, Consumer, CO, Under 29, Asset value, z","Japan, Sentimnent, Consumer, CO, Under 29, Asset value, z",None,line
-"Japan, Sentimnent, Consumer, CO, 30-59, Overall index, z","Japan, Sentimnent, Consumer, CO, 30-59, Overall index, z",None,line
-"Japan, Sentimnent, Consumer, CO, 30-59, Livelihood, z","Japan, Sentimnent, Consumer, CO, 30-59, Livelihood, z",None,line
-"Japan, Sentimnent, Consumer, CO, 30-59, Income, z","Japan, Sentimnent, Consumer, CO, 30-59, Income, z",None,line
-"Japan, Sentimnent, Consumer, CO, 30-59, Employment, z","Japan, Sentimnent, Consumer, CO, 30-59, Employment, z",None,line
-"Japan, Sentimnent, Consumer, CO, 30-59, Durable goods purchase intentions, z","Japan, Sentimnent, Consumer, CO, 30-59, Durable goods purchase intentions, z",None,line
-"Japan, Sentimnent, Consumer, CO, 30-59, Asset value, z","Japan, Sentimnent, Consumer, CO, 30-59, Asset value, z",None,line
-"Japan, Sentimnent, Consumer, CO, 60 & over, Overall index, z","Japan, Sentimnent, Consumer, CO, 60 & over, Overall index, z",None,line
-"Japan, Sentimnent, Consumer, CO, 60 & over, Livelihood, z","Japan, Sentimnent, Consumer, CO, 60 & over, Livelihood, z",None,line
-"Japan, Sentimnent, Consumer, CO, 60 & over, Income, z","Japan, Sentimnent, Consumer, CO, 60 & over, Income, z",None,line
-"Japan, Sentimnent, Consumer, CO, 60 & over, Employment, z","Japan, Sentimnent, Consumer, CO, 60 & over, Employment, z",None,line
-"Japan, Sentimnent, Consumer, CO, 60 & over, Durable goods purchase intentions, z","Japan, Sentimnent, Consumer, CO, 60 & over, Durable goods purchase intentions, z",None,line
-"Japan, Sentimnent, Consumer, CO, 60 & over, Asset value, z","Japan, Sentimnent, Consumer, CO, 60 & over, Asset value, z",None,line
-"Japan, Sentimnent, Consumer, CO, 30-39, Overall index, z","Japan, Sentimnent, Consumer, CO, 30-39, Overall index, z",None,line
-"Japan, Sentimnent, Consumer, CO, 30-39, Livelihood, z","Japan, Sentimnent, Consumer, CO, 30-39, Livelihood, z",None,line
-"Japan, Sentimnent, Consumer, CO, 30-39, Income, z","Japan, Sentimnent, Consumer, CO, 30-39, Income, z",None,line
-"Japan, Sentimnent, Consumer, CO, 30-39, Employment, z","Japan, Sentimnent, Consumer, CO, 30-39, Employment, z",None,line
-"Japan, Sentimnent, Consumer, CO, 30-39, Durable goods purchase intentions, z","Japan, Sentimnent, Consumer, CO, 30-39, Durable goods purchase intentions, z",None,line
-"Japan, Sentimnent, Consumer, CO, 30-39, Asset value, z","Japan, Sentimnent, Consumer, CO, 30-39, Asset value, z",None,line
-"Japan, Sentimnent, Consumer, CO, 40-49, Overall index, z","Japan, Sentimnent, Consumer, CO, 40-49, Overall index, z",None,line
-"Japan, Sentimnent, Consumer, CO, 40-49, Livelihood, z","Japan, Sentimnent, Consumer, CO, 40-49, Livelihood, z",None,line
-"Japan, Sentimnent, Consumer, CO, 40-49, Income, z","Japan, Sentimnent, Consumer, CO, 40-49, Income, z",None,line
-"Japan, Sentimnent, Consumer, CO, 40-49, Employment, z","Japan, Sentimnent, Consumer, CO, 40-49, Employment, z",None,line
-"Japan, Sentimnent, Consumer, CO, 40-49, Durable goods purchase intentions, z","Japan, Sentimnent, Consumer, CO, 40-49, Durable goods purchase intentions, z",None,line
-"Japan, Sentimnent, Consumer, CO, 40-49, Asset value, z","Japan, Sentimnent, Consumer, CO, 40-49, Asset value, z",None,line
-"Japan, Sentimnent, Consumer, CO, 50-59, Overall index, z","Japan, Sentimnent, Consumer, CO, 50-59, Overall index, z",None,line
-"Japan, Sentimnent, Consumer, CO, 50-59, Livelihood, z","Japan, Sentimnent, Consumer, CO, 50-59, Livelihood, z",None,line
-"Japan, Sentimnent, Consumer, CO, 50-59, Income, z","Japan, Sentimnent, Consumer, CO, 50-59, Income, z",None,line
-"Japan, Sentimnent, Consumer, CO, 50-59, Employment, z","Japan, Sentimnent, Consumer, CO, 50-59, Employment, z",None,line
-"Japan, Sentimnent, Consumer, CO, 50-59, Durable goods purchase intentions, z","Japan, Sentimnent, Consumer, CO, 50-59, Durable goods purchase intentions, z",None,line
-"Japan, Sentimnent, Consumer, CO, 50-59, Asset value, z","Japan, Sentimnent, Consumer, CO, 50-59, Asset value, z",None,line
-"Japan, Sentimnent, Consumer, CO, 60-69, Overall index, z","Japan, Sentimnent, Consumer, CO, 60-69, Overall index, z",None,line
-"Japan, Sentimnent, Consumer, CO, 60-69, Livelihood, z","Japan, Sentimnent, Consumer, CO, 60-69, Livelihood, z",None,line
-"Japan, Sentimnent, Consumer, CO, 60-69, Income, z","Japan, Sentimnent, Consumer, CO, 60-69, Income, z",None,line
-"Japan, Sentimnent, Consumer, CO, 60-69, Employment, z","Japan, Sentimnent, Consumer, CO, 60-69, Employment, z",None,line
-"Japan, Sentimnent, Consumer, CO, 60-69, Durable goods purchase intentions, z","Japan, Sentimnent, Consumer, CO, 60-69, Durable goods purchase intentions, z",None,line
-"Japan, Sentimnent, Consumer, CO, 60-69, Asset value, z","Japan, Sentimnent, Consumer, CO, 60-69, Asset value, z",None,line
-"Japan, Sentimnent, Consumer, CO, 70 & over, Overall index, z","Japan, Sentimnent, Consumer, CO, 70 & over, Overall index, z",None,line
-"Japan, Sentimnent, Consumer, CO, 70 & over, Livelihood, z","Japan, Sentimnent, Consumer, CO, 70 & over, Livelihood, z",None,line
-"Japan, Sentimnent, Consumer, CO, 70 & over, Income, z","Japan, Sentimnent, Consumer, CO, 70 & over, Income, z",None,line
-"Japan, Sentimnent, Consumer, CO, 70 & over, Employment, z","Japan, Sentimnent, Consumer, CO, 70 & over, Employment, z",None,line
-"Japan, Sentimnent, Consumer, CO, 70 & over, Durable goods purchase intentions, z","Japan, Sentimnent, Consumer, CO, 70 & over, Durable goods purchase intentions, z",None,line
-"Japan, Sentimnent, Consumer, CO, 70 & over, Asset value, z","Japan, Sentimnent, Consumer, CO, 70 & over, Asset value, z",None,line
-"Japan, Sentimnent, Consumer, EW, Current","Japan, Sentimnent, Consumer, EW, Current",None,line
-"Japan, Sentimnent, Consumer, EW, Retail, Current","Japan, Sentimnent, Consumer, EW, Retail, Current",None,line
-"Japan, Sentimnent, Consumer, EW, Food and beverage, Current","Japan, Sentimnent, Consumer, EW, Food and beverage, Current",None,line
-"Japan, Sentimnent, Consumer, EW, Services, Current","Japan, Sentimnent, Consumer, EW, Services, Current",None,line
-"Japan, Sentimnent, Consumer, EW, Housing, Current","Japan, Sentimnent, Consumer, EW, Housing, Current",None,line
-"Japan, Sentimnent, Consumer, EW, Future","Japan, Sentimnent, Consumer, EW, Future",None,line
-"Japan, Sentimnent, Consumer, EW, Retail, Future","Japan, Sentimnent, Consumer, EW, Retail, Future",None,line
-"Japan, Sentimnent, Consumer, EW, Food and beverage, Future","Japan, Sentimnent, Consumer, EW, Food and beverage, Future",None,line
-"Japan, Sentimnent, Consumer, EW, Services, Future","Japan, Sentimnent, Consumer, EW, Services, Future",None,line
-"Japan, Sentimnent, Consumer, EW, Housing, Future","Japan, Sentimnent, Consumer, EW, Housing, Future",None,line
-"Japan, Sentimnent, Consumer, EW, Current and future","Japan, Sentimnent, Consumer, EW, Current and future",None,line
-"Japan, Sentimnent, Consumer, EW, Retail, Current and future","Japan, Sentimnent, Consumer, EW, Retail, Current and future",None,line
-"Japan, Sentimnent, Consumer, EW, Food and beverage, Current and future","Japan, Sentimnent, Consumer, EW, Food and beverage, Current and future",None,line
-"Japan, Sentimnent, Consumer, EW, Services, Current and future","Japan, Sentimnent, Consumer, EW, Services, Current and future",None,line
-"Japan, Sentimnent, Consumer, EW, Housing, Current and future","Japan, Sentimnent, Consumer, EW, Housing, Current and future",None,line
-"Japan, Sentimnent, Consumer, EW, Current, LT average","Japan, Sentimnent, Consumer, EW, Current, LT average",None,line
-"Japan, Sentimnent, Consumer, EW, Retail, Current, LT average","Japan, Sentimnent, Consumer, EW, Retail, Current, LT average",None,line
-"Japan, Sentimnent, Consumer, EW, Food and beverage, Current, LT average","Japan, Sentimnent, Consumer, EW, Food and beverage, Current, LT average",None,line
-"Japan, Sentimnent, Consumer, EW, Services, Current, LT average","Japan, Sentimnent, Consumer, EW, Services, Current, LT average",None,line
-"Japan, Sentimnent, Consumer, EW, Housing, Current, LT average","Japan, Sentimnent, Consumer, EW, Housing, Current, LT average",None,line
-"Japan, Sentimnent, Consumer, EW, Current, 3mma","Japan, Sentimnent, Consumer, EW, Current, 3mma",None,line
-"Japan, Sentimnent, Consumer, EW, Retail, Current, 3mma","Japan, Sentimnent, Consumer, EW, Retail, Current, 3mma",None,line
-"Japan, Sentimnent, Consumer, EW, Food and beverage, Current, 3mma","Japan, Sentimnent, Consumer, EW, Food and beverage, Current, 3mma",None,line
-"Japan, Sentimnent, Consumer, EW, Services, Current, 3mma","Japan, Sentimnent, Consumer, EW, Services, Current, 3mma",None,line
-"Japan, Sentimnent, Consumer, EW, Housing, Current, 3mma","Japan, Sentimnent, Consumer, EW, Housing, Current, 3mma",None,line
-"Japan, Sentimnent, Consumer, EW, Future, 3mma","Japan, Sentimnent, Consumer, EW, Future, 3mma",None,line
-"Japan, Sentimnent, Consumer, EW, Retail, Future, 3mma","Japan, Sentimnent, Consumer, EW, Retail, Future, 3mma",None,line
-"Japan, Sentimnent, Consumer, EW, Food and beverage, Future, 3mma","Japan, Sentimnent, Consumer, EW, Food and beverage, Future, 3mma",None,line
-"Japan, Sentimnent, Consumer, EW, Services, Future, 3mma","Japan, Sentimnent, Consumer, EW, Services, Future, 3mma",None,line
-"Japan, Sentimnent, Consumer, EW, Housing, Future, 3mma","Japan, Sentimnent, Consumer, EW, Housing, Future, 3mma",None,line
-"Japan, Sentimnent, Consumer, EW, Current and future, 3mma","Japan, Sentimnent, Consumer, EW, Current and future, 3mma",None,line
-"Japan, Sentimnent, Consumer, EW, Retail, Current and future, 3mma","Japan, Sentimnent, Consumer, EW, Retail, Current and future, 3mma",None,line
-"Japan, Sentimnent, Consumer, EW, Food and beverage, Current and future, 3mma","Japan, Sentimnent, Consumer, EW, Food and beverage, Current and future, 3mma",None,line
-"Japan, Sentimnent, Consumer, EW, Services, Current and future, 3mma","Japan, Sentimnent, Consumer, EW, Services, Current and future, 3mma",None,line
-"Japan, Sentimnent, Consumer, EW, Housing, Current and future, 3mma","Japan, Sentimnent, Consumer, EW, Housing, Current and future, 3mma",None,line
-"Japan, Sentimnent, Business, S&P PMI, Manufacturing","Japan, Sentimnent, Business, S&P PMI, Manufacturing",None,line
-"Japan, Sentimnent, Business, S&P PMI, Services","Japan, Sentimnent, Business, S&P PMI, Services",None,line
-"Japan, Sentimnent, Business, S&P PMI, Manufacturing, Flash","Japan, Sentimnent, Business, S&P PMI, Manufacturing, Flash",None,line
-"Japan, Sentimnent, Business, S&P PMI, Services, Flash","Japan, Sentimnent, Business, S&P PMI, Services, Flash",None,line
-"Japan, Sentimnent, Business, S&P PMI, Manufacturing, LT average","Japan, Sentimnent, Business, S&P PMI, Manufacturing, LT average",None,line
-"Japan, Sentimnent, Business, S&P PMI, Services, LT average","Japan, Sentimnent, Business, S&P PMI, Services, LT average",None,line
-"Japan, Sentimnent, Business, Reuters, Manufacturing, Current","Japan, Sentimnent, Business, Reuters, Manufacturing, Current",None,line
-"Japan, Sentimnent, Business, Reuters, Nonmanufacturing, Current","Japan, Sentimnent, Business, Reuters, Nonmanufacturing, Current",None,line
-"Japan, Sentimnent, Business, Reuters, Manufacturing, Future","Japan, Sentimnent, Business, Reuters, Manufacturing, Future",None,line
-"Japan, Sentimnent, Business, Reuters, Nonmanufacturing, Future","Japan, Sentimnent, Business, Reuters, Nonmanufacturing, Future",None,line
-"Japan, Sentimnent, Business, Reuters, Manufacturing, Current and future","Japan, Sentimnent, Business, Reuters, Manufacturing, Current and future",None,line
-"Japan, Sentimnent, Business, Reuters, Nonmanufacturing, Current and future","Japan, Sentimnent, Business, Reuters, Nonmanufacturing, Current and future",None,line
-"Japan, Sentimnent, Business, Reuters, Manufacturing, Current, LT average","Japan, Sentimnent, Business, Reuters, Manufacturing, Current, LT average",None,line
-"Japan, Sentimnent, Business, Reuters, Nonmanufacturing, Current, LT average","Japan, Sentimnent, Business, Reuters, Nonmanufacturing, Current, LT average",None,line
-"Japan, Sentimnent, Business, S&P PMI, Manufacturing, 3mma","Japan, Sentimnent, Business, S&P PMI, Manufacturing, 3mma",None,line
-"Japan, Sentimnent, Business, S&P PMI, Services, 3mma","Japan, Sentimnent, Business, S&P PMI, Services, 3mma",None,line
-"Japan, Sentimnent, Business, S&P PMI, Manufacturing, Flash, 3mma","Japan, Sentimnent, Business, S&P PMI, Manufacturing, Flash, 3mma",None,line
-"Japan, Sentimnent, Business, S&P PMI, Services, Flash, 3mma","Japan, Sentimnent, Business, S&P PMI, Services, Flash, 3mma",None,line
-"Japan, Sentimnent, Business, Reuters, Manufacturing, Current, 3mma","Japan, Sentimnent, Business, Reuters, Manufacturing, Current, 3mma",None,line
-"Japan, Sentimnent, Business, Reuters, Nonmanufacturing, Current, 3mma","Japan, Sentimnent, Business, Reuters, Nonmanufacturing, Current, 3mma",None,line
-"Japan, Sentimnent, Business, Reuters, Manufacturing, Future, 3mma","Japan, Sentimnent, Business, Reuters, Manufacturing, Future, 3mma",None,line
-"Japan, Sentimnent, Business, Reuters, Nonmanufacturing, Future, 3mma","Japan, Sentimnent, Business, Reuters, Nonmanufacturing, Future, 3mma",None,line
-"Japan, Sentimnent, Business, Reuters, Manufacturing, Current and future, 3mma","Japan, Sentimnent, Business, Reuters, Manufacturing, Current and future, 3mma",None,line
-"Japan, Sentimnent, Business, Reuters, Nonmanufacturing, Current and future, 3mma","Japan, Sentimnent, Business, Reuters, Nonmanufacturing, Current and future, 3mma",None,line
-"Japan, Sentimnent, Business, EW, Current","Japan, Sentimnent, Business, EW, Current",None,line
-"Japan, Sentimnent, Business, EW, Manufacturing, Current","Japan, Sentimnent, Business, EW, Manufacturing, Current",None,line
-"Japan, Sentimnent, Business, EW, Non-manufacturing, Current","Japan, Sentimnent, Business, EW, Non-manufacturing, Current",None,line
-"Japan, Sentimnent, Business, EW, Future","Japan, Sentimnent, Business, EW, Future",None,line
-"Japan, Sentimnent, Business, EW, Manufacturing, Future","Japan, Sentimnent, Business, EW, Manufacturing, Future",None,line
-"Japan, Sentimnent, Business, EW, Non-manufacturing, Future","Japan, Sentimnent, Business, EW, Non-manufacturing, Future",None,line
-"Japan, Sentimnent, Business, EW, Current and future","Japan, Sentimnent, Business, EW, Current and future",None,line
-"Japan, Sentimnent, Business, EW, Manufacturing, Current and future","Japan, Sentimnent, Business, EW, Manufacturing, Current and future",None,line
-"Japan, Sentimnent, Business, EW, Non-manufacturing, Current and future","Japan, Sentimnent, Business, EW, Non-manufacturing, Current and future",None,line
-"Japan, Sentimnent, Business, EW, Current, LT average","Japan, Sentimnent, Business, EW, Current, LT average",None,line
-"Japan, Sentimnent, Business, EW, Manufacturing, Current, LT average","Japan, Sentimnent, Business, EW, Manufacturing, Current, LT average",None,line
-"Japan, Sentimnent, Business, EW, Non-manufacturing, Current, LT average","Japan, Sentimnent, Business, EW, Non-manufacturing, Current, LT average",None,line
-"Japan, Sentimnent, Business, EW, Current, 3mma","Japan, Sentimnent, Business, EW, Current, 3mma",None,line
-"Japan, Sentimnent, Business, EW, Manufacturing, Current, 3mma","Japan, Sentimnent, Business, EW, Manufacturing, Current, 3mma",None,line
-"Japan, Sentimnent, Business, EW, Non-manufacturing, Current, 3mma","Japan, Sentimnent, Business, EW, Non-manufacturing, Current, 3mma",None,line
-"Japan, Sentimnent, Business, EW, Future, 3mma","Japan, Sentimnent, Business, EW, Future, 3mma",None,line
-"Japan, Sentimnent, Business, EW, Manufacturing, Future, 3mma","Japan, Sentimnent, Business, EW, Manufacturing, Future, 3mma",None,line
-"Japan, Sentimnent, Business, EW, Non-manufacturing, Future, 3mma","Japan, Sentimnent, Business, EW, Non-manufacturing, Future, 3mma",None,line
-"Japan, Sentimnent, Business, EW, Current and future, 3mma","Japan, Sentimnent, Business, EW, Current and future, 3mma",None,line
-"Japan, Sentimnent, Business, EW, Manufacturing, Current and future, 3mma","Japan, Sentimnent, Business, EW, Manufacturing, Current and future, 3mma",None,line
-"Japan, Sentimnent, Business, EW, Non-manufacturing, Current and future, 3mma","Japan, Sentimnent, Business, EW, Non-manufacturing, Current and future, 3mma",None,line
-"Japan, Sentimnent, All, EW, Total, Current","Japan, Sentimnent, All, EW, Total, Current",None,line
-"Japan, Sentimnent, All, EW, Employment, Current","Japan, Sentimnent, All, EW, Employment, Current",None,line
-"Japan, Sentimnent, All, EW, Total, Future","Japan, Sentimnent, All, EW, Total, Future",None,line
-"Japan, Sentimnent, All, EW, Employment, Future","Japan, Sentimnent, All, EW, Employment, Future",None,line
-"Japan, Sentimnent, All, EW, Total, Current and future","Japan, Sentimnent, All, EW, Total, Current and future",None,line
-"Japan, Sentimnent, All, EW, Employment, Current and future","Japan, Sentimnent, All, EW, Employment, Current and future",None,line
-"Japan, Sentimnent, All, EW, Total, Current, LT average","Japan, Sentimnent, All, EW, Total, Current, LT average",None,line
-"Japan, Sentimnent, All, EW, Employment, Current, LT average","Japan, Sentimnent, All, EW, Employment, Current, LT average",None,line
-"Japan, Sentimnent, All, EW, Total, Current, 3mma","Japan, Sentimnent, All, EW, Total, Current, 3mma",None,line
-"Japan, Sentimnent, All, EW, Employment, Current, 3mma","Japan, Sentimnent, All, EW, Employment, Current, 3mma",None,line
-"Japan, Sentimnent, All, EW, Total, Future, 3mma","Japan, Sentimnent, All, EW, Total, Future, 3mma",None,line
-"Japan, Sentimnent, All, EW, Employment, Future, 3mma","Japan, Sentimnent, All, EW, Employment, Future, 3mma",None,line
-"Japan, Sentimnent, All, EW, Total, Current and future, 3mma","Japan, Sentimnent, All, EW, Total, Current and future, 3mma",None,line
-"Japan, Sentimnent, All, EW, Employment, Current and future, 3mma","Japan, Sentimnent, All, EW, Employment, Current and future, 3mma",None,line
+"Japan, Sentiment, Consumer, CO survey, SA","Japan, Sentiment, Consumer, CO survey, SA",None,line
+"Japan, Sentiment, Consumer, CO survey, MoM chg, SA","Japan, Sentiment, Consumer, CO survey, MoM chg, SA",None,line
+"Japan, Sentiment, Consumer, CO survey, Overall livelihood, SA","Japan, Sentiment, Consumer, CO survey, Overall livelihood, SA",None,line
+"Japan, Sentiment, Consumer, CO survey, Overall livelihood, MoM chg, SA","Japan, Sentiment, Consumer, CO survey, Overall livelihood, MoM chg, SA",None,line
+"Japan, Sentiment, Consumer, CO survey, Income, SA","Japan, Sentiment, Consumer, CO survey, Income, SA",None,line
+"Japan, Sentiment, Consumer, CO survey, Income, MoM chg, SA","Japan, Sentiment, Consumer, CO survey, Income, MoM chg, SA",None,line
+"Japan, Sentiment, Consumer, CO survey, Employment, SA","Japan, Sentiment, Consumer, CO survey, Employment, SA",None,line
+"Japan, Sentiment, Consumer, CO survey, Employment, MoM chg, SA","Japan, Sentiment, Consumer, CO survey, Employment, MoM chg, SA",None,line
+"Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions, SA","Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions, SA",None,line
+"Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions, MoM chg, SA","Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions, MoM chg, SA",None,line
+"Japan, Sentiment, Consumer, CO survey, Asset value, SA","Japan, Sentiment, Consumer, CO survey, Asset value, SA",None,line
+"Japan, Sentiment, Consumer, CO survey, Asset value, MoM chg, SA","Japan, Sentiment, Consumer, CO survey, Asset value, MoM chg, SA",None,line
+"Japan, Sentiment, Consumer, CO survey","Japan, Sentiment, Consumer, CO survey",None,line
+"Japan, Sentiment, Consumer, CO survey, MoM chg","Japan, Sentiment, Consumer, CO survey, MoM chg",None,line
+"Japan, Sentiment, Consumer, CO survey, Overall livelihood","Japan, Sentiment, Consumer, CO survey, Overall livelihood",None,line
+"Japan, Sentiment, Consumer, CO survey, Overall livelihood, MoM chg","Japan, Sentiment, Consumer, CO survey, Overall livelihood, MoM chg",None,line
+"Japan, Sentiment, Consumer, CO survey, Income","Japan, Sentiment, Consumer, CO survey, Income",None,line
+"Japan, Sentiment, Consumer, CO survey, Income, MoM chg","Japan, Sentiment, Consumer, CO survey, Income, MoM chg",None,line
+"Japan, Sentiment, Consumer, CO survey, Employment","Japan, Sentiment, Consumer, CO survey, Employment",None,line
+"Japan, Sentiment, Consumer, CO survey, Employment, MoM chg","Japan, Sentiment, Consumer, CO survey, Employment, MoM chg",None,line
+"Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions","Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions",None,line
+"Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions, MoM chg","Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions, MoM chg",None,line
+"Japan, Sentiment, Consumer, CO survey, Asset value","Japan, Sentiment, Consumer, CO survey, Asset value",None,line
+"Japan, Sentiment, Consumer, CO survey, Asset value, MoM chg","Japan, Sentiment, Consumer, CO survey, Asset value, MoM chg",None,line
+"Japan, Sentiment, Consumer, CO survey, 低下する_▲５％以上","Japan, Sentiment, Consumer, CO survey, 低下する_▲５％以上",None,line
+"Japan, Sentiment, Consumer, CO survey, 低下する_▲５％未満～▲２％以上","Japan, Sentiment, Consumer, CO survey, 低下する_▲５％未満～▲２％以上",None,line
+"Japan, Sentiment, Consumer, CO survey, 低下する_▲２％未満","Japan, Sentiment, Consumer, CO survey, 低下する_▲２％未満",None,line
+"Japan, Sentiment, Consumer, CO survey, 低下する_(計)","Japan, Sentiment, Consumer, CO survey, 低下する_(計)",None,line
+"Japan, Sentiment, Consumer, CO survey, 低下する_(前月差)","Japan, Sentiment, Consumer, CO survey, 低下する_(前月差)",None,line
+"Japan, Sentiment, Consumer, CO survey, 低下する_(前年同月差)","Japan, Sentiment, Consumer, CO survey, 低下する_(前年同月差)",None,line
+"Japan, Sentiment, Consumer, CO survey, 変わらない_０％程度","Japan, Sentiment, Consumer, CO survey, 変わらない_０％程度",None,line
+"Japan, Sentiment, Consumer, CO survey, 変わらない_０％程度_(前月差)","Japan, Sentiment, Consumer, CO survey, 変わらない_０％程度_(前月差)",None,line
+"Japan, Sentiment, Consumer, CO survey, 変わらない_０％程度_(前年同月差)","Japan, Sentiment, Consumer, CO survey, 変わらない_０％程度_(前年同月差)",None,line
+"Japan, Sentiment, Consumer, CO survey, 上昇する_２％未満","Japan, Sentiment, Consumer, CO survey, 上昇する_２％未満",None,line
+"Japan, Sentiment, Consumer, CO survey, 上昇する_２％以上～５％未満","Japan, Sentiment, Consumer, CO survey, 上昇する_２％以上～５％未満",None,line
+"Japan, Sentiment, Consumer, CO survey, 上昇する_５％以上","Japan, Sentiment, Consumer, CO survey, 上昇する_５％以上",None,line
+"Japan, Sentiment, Consumer, CO survey, 上昇する_(計)","Japan, Sentiment, Consumer, CO survey, 上昇する_(計)",None,line
+"Japan, Sentiment, Consumer, CO survey, 上昇する_(前月差)","Japan, Sentiment, Consumer, CO survey, 上昇する_(前月差)",None,line
+"Japan, Sentiment, Consumer, CO survey, 上昇する_(前年同月差)","Japan, Sentiment, Consumer, CO survey, 上昇する_(前年同月差)",None,line
+"Japan, Sentiment, Consumer, CO survey, 分からない","Japan, Sentiment, Consumer, CO survey, 分からない",None,line
+"Japan, Sentiment, Consumer, CO survey, Expected inflation","Japan, Sentiment, Consumer, CO survey, Expected inflation",None,line
+"Japan, Sentiment, Consumer, CO survey, Under 29, Overall index","Japan, Sentiment, Consumer, CO survey, Under 29, Overall index",None,line
+"Japan, Sentiment, Consumer, CO survey, Under 29, Livelihood","Japan, Sentiment, Consumer, CO survey, Under 29, Livelihood",None,line
+"Japan, Sentiment, Consumer, CO survey, Under 29, Income","Japan, Sentiment, Consumer, CO survey, Under 29, Income",None,line
+"Japan, Sentiment, Consumer, CO survey, Under 29, Employment","Japan, Sentiment, Consumer, CO survey, Under 29, Employment",None,line
+"Japan, Sentiment, Consumer, CO survey, Under 29, Durable goods purchase intentions","Japan, Sentiment, Consumer, CO survey, Under 29, Durable goods purchase intentions",None,line
+"Japan, Sentiment, Consumer, CO survey, Under 29, Asset value","Japan, Sentiment, Consumer, CO survey, Under 29, Asset value",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-59, Overall index","Japan, Sentiment, Consumer, CO survey, 30-59, Overall index",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-59, Livelihood","Japan, Sentiment, Consumer, CO survey, 30-59, Livelihood",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-59, Income","Japan, Sentiment, Consumer, CO survey, 30-59, Income",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-59, Employment","Japan, Sentiment, Consumer, CO survey, 30-59, Employment",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-59, Durable goods purchase intentions","Japan, Sentiment, Consumer, CO survey, 30-59, Durable goods purchase intentions",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-59, Asset value","Japan, Sentiment, Consumer, CO survey, 30-59, Asset value",None,line
+"Japan, Sentiment, Consumer, CO survey, 60 & over, Overall index","Japan, Sentiment, Consumer, CO survey, 60 & over, Overall index",None,line
+"Japan, Sentiment, Consumer, CO survey, 60 & over, Livelihood","Japan, Sentiment, Consumer, CO survey, 60 & over, Livelihood",None,line
+"Japan, Sentiment, Consumer, CO survey, 60 & over, Income","Japan, Sentiment, Consumer, CO survey, 60 & over, Income",None,line
+"Japan, Sentiment, Consumer, CO survey, 60 & over, Employment","Japan, Sentiment, Consumer, CO survey, 60 & over, Employment",None,line
+"Japan, Sentiment, Consumer, CO survey, 60 & over, Durable goods purchase intentions","Japan, Sentiment, Consumer, CO survey, 60 & over, Durable goods purchase intentions",None,line
+"Japan, Sentiment, Consumer, CO survey, 60 & over, Asset value","Japan, Sentiment, Consumer, CO survey, 60 & over, Asset value",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-39, Overall index","Japan, Sentiment, Consumer, CO survey, 30-39, Overall index",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-39, Livelihood","Japan, Sentiment, Consumer, CO survey, 30-39, Livelihood",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-39, Income","Japan, Sentiment, Consumer, CO survey, 30-39, Income",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-39, Employment","Japan, Sentiment, Consumer, CO survey, 30-39, Employment",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-39, Durable goods purchase intentions","Japan, Sentiment, Consumer, CO survey, 30-39, Durable goods purchase intentions",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-39, Asset value","Japan, Sentiment, Consumer, CO survey, 30-39, Asset value",None,line
+"Japan, Sentiment, Consumer, CO survey, 40-49, Overall index","Japan, Sentiment, Consumer, CO survey, 40-49, Overall index",None,line
+"Japan, Sentiment, Consumer, CO survey, 40-49, Livelihood","Japan, Sentiment, Consumer, CO survey, 40-49, Livelihood",None,line
+"Japan, Sentiment, Consumer, CO survey, 40-49, Income","Japan, Sentiment, Consumer, CO survey, 40-49, Income",None,line
+"Japan, Sentiment, Consumer, CO survey, 40-49, Employment","Japan, Sentiment, Consumer, CO survey, 40-49, Employment",None,line
+"Japan, Sentiment, Consumer, CO survey, 40-49, Durable goods purchase intentions","Japan, Sentiment, Consumer, CO survey, 40-49, Durable goods purchase intentions",None,line
+"Japan, Sentiment, Consumer, CO survey, 40-49, Asset value","Japan, Sentiment, Consumer, CO survey, 40-49, Asset value",None,line
+"Japan, Sentiment, Consumer, CO survey, 50-59, Overall index","Japan, Sentiment, Consumer, CO survey, 50-59, Overall index",None,line
+"Japan, Sentiment, Consumer, CO survey, 50-59, Livelihood","Japan, Sentiment, Consumer, CO survey, 50-59, Livelihood",None,line
+"Japan, Sentiment, Consumer, CO survey, 50-59, Income","Japan, Sentiment, Consumer, CO survey, 50-59, Income",None,line
+"Japan, Sentiment, Consumer, CO survey, 50-59, Employment","Japan, Sentiment, Consumer, CO survey, 50-59, Employment",None,line
+"Japan, Sentiment, Consumer, CO survey, 50-59, Durable goods purchase intentions","Japan, Sentiment, Consumer, CO survey, 50-59, Durable goods purchase intentions",None,line
+"Japan, Sentiment, Consumer, CO survey, 50-59, Asset value","Japan, Sentiment, Consumer, CO survey, 50-59, Asset value",None,line
+"Japan, Sentiment, Consumer, CO survey, 60-69, Overall index","Japan, Sentiment, Consumer, CO survey, 60-69, Overall index",None,line
+"Japan, Sentiment, Consumer, CO survey, 60-69, Livelihood","Japan, Sentiment, Consumer, CO survey, 60-69, Livelihood",None,line
+"Japan, Sentiment, Consumer, CO survey, 60-69, Income","Japan, Sentiment, Consumer, CO survey, 60-69, Income",None,line
+"Japan, Sentiment, Consumer, CO survey, 60-69, Employment","Japan, Sentiment, Consumer, CO survey, 60-69, Employment",None,line
+"Japan, Sentiment, Consumer, CO survey, 60-69, Durable goods purchase intentions","Japan, Sentiment, Consumer, CO survey, 60-69, Durable goods purchase intentions",None,line
+"Japan, Sentiment, Consumer, CO survey, 60-69, Asset value","Japan, Sentiment, Consumer, CO survey, 60-69, Asset value",None,line
+"Japan, Sentiment, Consumer, CO survey, 70 & over, Overall index","Japan, Sentiment, Consumer, CO survey, 70 & over, Overall index",None,line
+"Japan, Sentiment, Consumer, CO survey, 70 & over, Livelihood","Japan, Sentiment, Consumer, CO survey, 70 & over, Livelihood",None,line
+"Japan, Sentiment, Consumer, CO survey, 70 & over, Income","Japan, Sentiment, Consumer, CO survey, 70 & over, Income",None,line
+"Japan, Sentiment, Consumer, CO survey, 70 & over, Employment","Japan, Sentiment, Consumer, CO survey, 70 & over, Employment",None,line
+"Japan, Sentiment, Consumer, CO survey, 70 & over, Durable goods purchase intentions","Japan, Sentiment, Consumer, CO survey, 70 & over, Durable goods purchase intentions",None,line
+"Japan, Sentiment, Consumer, CO survey, 70 & over, Asset value","Japan, Sentiment, Consumer, CO survey, 70 & over, Asset value",None,line
+"Japan, Sentiment, Consumer, CO survey, SA, z","Japan, Sentiment, Consumer, CO survey, SA, z",None,line
+"Japan, Sentiment, Consumer, CO survey, MoM chg, SA, z","Japan, Sentiment, Consumer, CO survey, MoM chg, SA, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Overall livelihood, SA, z","Japan, Sentiment, Consumer, CO survey, Overall livelihood, SA, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Overall livelihood, MoM chg, SA, z","Japan, Sentiment, Consumer, CO survey, Overall livelihood, MoM chg, SA, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Income, SA, z","Japan, Sentiment, Consumer, CO survey, Income, SA, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Income, MoM chg, SA, z","Japan, Sentiment, Consumer, CO survey, Income, MoM chg, SA, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Employment, SA, z","Japan, Sentiment, Consumer, CO survey, Employment, SA, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Employment, MoM chg, SA, z","Japan, Sentiment, Consumer, CO survey, Employment, MoM chg, SA, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions, SA, z","Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions, SA, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions, MoM chg, SA, z","Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions, MoM chg, SA, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Asset value, SA, z","Japan, Sentiment, Consumer, CO survey, Asset value, SA, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Asset value, MoM chg, SA, z","Japan, Sentiment, Consumer, CO survey, Asset value, MoM chg, SA, z",None,line
+"Japan, Sentiment, Consumer, CO survey, z","Japan, Sentiment, Consumer, CO survey, z",None,line
+"Japan, Sentiment, Consumer, CO survey, MoM chg, z","Japan, Sentiment, Consumer, CO survey, MoM chg, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Overall livelihood, z","Japan, Sentiment, Consumer, CO survey, Overall livelihood, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Overall livelihood, MoM chg, z","Japan, Sentiment, Consumer, CO survey, Overall livelihood, MoM chg, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Income, z","Japan, Sentiment, Consumer, CO survey, Income, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Income, MoM chg, z","Japan, Sentiment, Consumer, CO survey, Income, MoM chg, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Employment, z","Japan, Sentiment, Consumer, CO survey, Employment, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Employment, MoM chg, z","Japan, Sentiment, Consumer, CO survey, Employment, MoM chg, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions, z","Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions, MoM chg, z","Japan, Sentiment, Consumer, CO survey, Durable goods purchase intentions, MoM chg, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Asset value, z","Japan, Sentiment, Consumer, CO survey, Asset value, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Asset value, MoM chg, z","Japan, Sentiment, Consumer, CO survey, Asset value, MoM chg, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 低下する_▲５％以上, z","Japan, Sentiment, Consumer, CO survey, 低下する_▲５％以上, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 低下する_▲５％未満～▲２％以上, z","Japan, Sentiment, Consumer, CO survey, 低下する_▲５％未満～▲２％以上, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 低下する_▲２％未満, z","Japan, Sentiment, Consumer, CO survey, 低下する_▲２％未満, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 低下する_(計), z","Japan, Sentiment, Consumer, CO survey, 低下する_(計), z",None,line
+"Japan, Sentiment, Consumer, CO survey, 低下する_(前月差), z","Japan, Sentiment, Consumer, CO survey, 低下する_(前月差), z",None,line
+"Japan, Sentiment, Consumer, CO survey, 低下する_(前年同月差), z","Japan, Sentiment, Consumer, CO survey, 低下する_(前年同月差), z",None,line
+"Japan, Sentiment, Consumer, CO survey, 変わらない_０％程度, z","Japan, Sentiment, Consumer, CO survey, 変わらない_０％程度, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 変わらない_０％程度_(前月差), z","Japan, Sentiment, Consumer, CO survey, 変わらない_０％程度_(前月差), z",None,line
+"Japan, Sentiment, Consumer, CO survey, 変わらない_０％程度_(前年同月差), z","Japan, Sentiment, Consumer, CO survey, 変わらない_０％程度_(前年同月差), z",None,line
+"Japan, Sentiment, Consumer, CO survey, 上昇する_２％未満, z","Japan, Sentiment, Consumer, CO survey, 上昇する_２％未満, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 上昇する_２％以上～５％未満, z","Japan, Sentiment, Consumer, CO survey, 上昇する_２％以上～５％未満, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 上昇する_５％以上, z","Japan, Sentiment, Consumer, CO survey, 上昇する_５％以上, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 上昇する_(計), z","Japan, Sentiment, Consumer, CO survey, 上昇する_(計), z",None,line
+"Japan, Sentiment, Consumer, CO survey, 上昇する_(前月差), z","Japan, Sentiment, Consumer, CO survey, 上昇する_(前月差), z",None,line
+"Japan, Sentiment, Consumer, CO survey, 上昇する_(前年同月差), z","Japan, Sentiment, Consumer, CO survey, 上昇する_(前年同月差), z",None,line
+"Japan, Sentiment, Consumer, CO survey, 分からない, z","Japan, Sentiment, Consumer, CO survey, 分からない, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Expected inflation, z","Japan, Sentiment, Consumer, CO survey, Expected inflation, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Under 29, Overall index, z","Japan, Sentiment, Consumer, CO survey, Under 29, Overall index, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Under 29, Livelihood, z","Japan, Sentiment, Consumer, CO survey, Under 29, Livelihood, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Under 29, Income, z","Japan, Sentiment, Consumer, CO survey, Under 29, Income, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Under 29, Employment, z","Japan, Sentiment, Consumer, CO survey, Under 29, Employment, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Under 29, Durable goods purchase intentions, z","Japan, Sentiment, Consumer, CO survey, Under 29, Durable goods purchase intentions, z",None,line
+"Japan, Sentiment, Consumer, CO survey, Under 29, Asset value, z","Japan, Sentiment, Consumer, CO survey, Under 29, Asset value, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-59, Overall index, z","Japan, Sentiment, Consumer, CO survey, 30-59, Overall index, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-59, Livelihood, z","Japan, Sentiment, Consumer, CO survey, 30-59, Livelihood, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-59, Income, z","Japan, Sentiment, Consumer, CO survey, 30-59, Income, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-59, Employment, z","Japan, Sentiment, Consumer, CO survey, 30-59, Employment, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-59, Durable goods purchase intentions, z","Japan, Sentiment, Consumer, CO survey, 30-59, Durable goods purchase intentions, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-59, Asset value, z","Japan, Sentiment, Consumer, CO survey, 30-59, Asset value, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 60 & over, Overall index, z","Japan, Sentiment, Consumer, CO survey, 60 & over, Overall index, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 60 & over, Livelihood, z","Japan, Sentiment, Consumer, CO survey, 60 & over, Livelihood, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 60 & over, Income, z","Japan, Sentiment, Consumer, CO survey, 60 & over, Income, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 60 & over, Employment, z","Japan, Sentiment, Consumer, CO survey, 60 & over, Employment, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 60 & over, Durable goods purchase intentions, z","Japan, Sentiment, Consumer, CO survey, 60 & over, Durable goods purchase intentions, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 60 & over, Asset value, z","Japan, Sentiment, Consumer, CO survey, 60 & over, Asset value, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-39, Overall index, z","Japan, Sentiment, Consumer, CO survey, 30-39, Overall index, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-39, Livelihood, z","Japan, Sentiment, Consumer, CO survey, 30-39, Livelihood, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-39, Income, z","Japan, Sentiment, Consumer, CO survey, 30-39, Income, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-39, Employment, z","Japan, Sentiment, Consumer, CO survey, 30-39, Employment, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-39, Durable goods purchase intentions, z","Japan, Sentiment, Consumer, CO survey, 30-39, Durable goods purchase intentions, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 30-39, Asset value, z","Japan, Sentiment, Consumer, CO survey, 30-39, Asset value, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 40-49, Overall index, z","Japan, Sentiment, Consumer, CO survey, 40-49, Overall index, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 40-49, Livelihood, z","Japan, Sentiment, Consumer, CO survey, 40-49, Livelihood, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 40-49, Income, z","Japan, Sentiment, Consumer, CO survey, 40-49, Income, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 40-49, Employment, z","Japan, Sentiment, Consumer, CO survey, 40-49, Employment, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 40-49, Durable goods purchase intentions, z","Japan, Sentiment, Consumer, CO survey, 40-49, Durable goods purchase intentions, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 40-49, Asset value, z","Japan, Sentiment, Consumer, CO survey, 40-49, Asset value, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 50-59, Overall index, z","Japan, Sentiment, Consumer, CO survey, 50-59, Overall index, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 50-59, Livelihood, z","Japan, Sentiment, Consumer, CO survey, 50-59, Livelihood, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 50-59, Income, z","Japan, Sentiment, Consumer, CO survey, 50-59, Income, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 50-59, Employment, z","Japan, Sentiment, Consumer, CO survey, 50-59, Employment, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 50-59, Durable goods purchase intentions, z","Japan, Sentiment, Consumer, CO survey, 50-59, Durable goods purchase intentions, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 50-59, Asset value, z","Japan, Sentiment, Consumer, CO survey, 50-59, Asset value, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 60-69, Overall index, z","Japan, Sentiment, Consumer, CO survey, 60-69, Overall index, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 60-69, Livelihood, z","Japan, Sentiment, Consumer, CO survey, 60-69, Livelihood, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 60-69, Income, z","Japan, Sentiment, Consumer, CO survey, 60-69, Income, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 60-69, Employment, z","Japan, Sentiment, Consumer, CO survey, 60-69, Employment, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 60-69, Durable goods purchase intentions, z","Japan, Sentiment, Consumer, CO survey, 60-69, Durable goods purchase intentions, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 60-69, Asset value, z","Japan, Sentiment, Consumer, CO survey, 60-69, Asset value, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 70 & over, Overall index, z","Japan, Sentiment, Consumer, CO survey, 70 & over, Overall index, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 70 & over, Livelihood, z","Japan, Sentiment, Consumer, CO survey, 70 & over, Livelihood, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 70 & over, Income, z","Japan, Sentiment, Consumer, CO survey, 70 & over, Income, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 70 & over, Employment, z","Japan, Sentiment, Consumer, CO survey, 70 & over, Employment, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 70 & over, Durable goods purchase intentions, z","Japan, Sentiment, Consumer, CO survey, 70 & over, Durable goods purchase intentions, z",None,line
+"Japan, Sentiment, Consumer, CO survey, 70 & over, Asset value, z","Japan, Sentiment, Consumer, CO survey, 70 & over, Asset value, z",None,line
+"Japan, Sentiment, Business, S&P PMI, Manufacturing","Japan, Sentiment, Business, S&P PMI, Manufacturing",None,line
+"Japan, Sentiment, Business, S&P PMI, Services","Japan, Sentiment, Business, S&P PMI, Services",None,line
+"Japan, Sentiment, Business, S&P PMI, Manufacturing, Flash","Japan, Sentiment, Business, S&P PMI, Manufacturing, Flash",None,line
+"Japan, Sentiment, Business, S&P PMI, Services, Flash","Japan, Sentiment, Business, S&P PMI, Services, Flash",None,line
+"Japan, Sentiment, Business, S&P PMI, Manufacturing, LT average","Japan, Sentiment, Business, S&P PMI, Manufacturing, LT average",None,line
+"Japan, Sentiment, Business, S&P PMI, Services, LT average","Japan, Sentiment, Business, S&P PMI, Services, LT average",None,line
+"Japan, Sentiment, Business, Reuters Tankan, Manufacturing, Current","Japan, Sentiment, Business, Reuters Tankan, Manufacturing, Current",None,line
+"Japan, Sentiment, Business, Reuters Tankan, Nonmanufacturing, Current","Japan, Sentiment, Business, Reuters Tankan, Nonmanufacturing, Current",None,line
+"Japan, Sentiment, Business, Reuters Tankan, Manufacturing, Future","Japan, Sentiment, Business, Reuters Tankan, Manufacturing, Future",None,line
+"Japan, Sentiment, Business, Reuters Tankan, Nonmanufacturing, Future","Japan, Sentiment, Business, Reuters Tankan, Nonmanufacturing, Future",None,line
+"Japan, Sentiment, Business, Reuters Tankan, Manufacturing, Current and future","Japan, Sentiment, Business, Reuters Tankan, Manufacturing, Current and future",None,line
+"Japan, Sentiment, Business, Reuters Tankan, Nonmanufacturing, Current and future","Japan, Sentiment, Business, Reuters Tankan, Nonmanufacturing, Current and future",None,line
+"Japan, Sentiment, Business, Reuters Tankan, Manufacturing, Current, LT average","Japan, Sentiment, Business, Reuters Tankan, Manufacturing, Current, LT average",None,line
+"Japan, Sentiment, Business, Reuters Tankan, Nonmanufacturing, Current, LT average","Japan, Sentiment, Business, Reuters Tankan, Nonmanufacturing, Current, LT average",None,line
+"Japan, Sentiment, Consumer, CO EW, Current","Japan, Sentiment, Consumer, CO EW, Current",None,line
+"Japan, Sentiment, Consumer, CO EW, Retail, Current","Japan, Sentiment, Consumer, CO EW, Retail, Current",None,line
+"Japan, Sentiment, Consumer, CO EW, Food and beverage, Current","Japan, Sentiment, Consumer, CO EW, Food and beverage, Current",None,line
+"Japan, Sentiment, Consumer, CO EW, Services, Current","Japan, Sentiment, Consumer, CO EW, Services, Current",None,line
+"Japan, Sentiment, Consumer, CO EW, Housing, Current","Japan, Sentiment, Consumer, CO EW, Housing, Current",None,line
+"Japan, Sentiment, Consumer, CO EW, Future","Japan, Sentiment, Consumer, CO EW, Future",None,line
+"Japan, Sentiment, Consumer, CO EW, Retail, Future","Japan, Sentiment, Consumer, CO EW, Retail, Future",None,line
+"Japan, Sentiment, Consumer, CO EW, Food and beverage, Future","Japan, Sentiment, Consumer, CO EW, Food and beverage, Future",None,line
+"Japan, Sentiment, Consumer, CO EW, Services, Future","Japan, Sentiment, Consumer, CO EW, Services, Future",None,line
+"Japan, Sentiment, Consumer, CO EW, Housing, Future","Japan, Sentiment, Consumer, CO EW, Housing, Future",None,line
+"Japan, Sentiment, Business, CO EW, Current","Japan, Sentiment, Business, CO EW, Current",None,line
+"Japan, Sentiment, Business, CO EW, Manufacturing, Current","Japan, Sentiment, Business, CO EW, Manufacturing, Current",None,line
+"Japan, Sentiment, Business, CO EW, Non-manufacturing, Current","Japan, Sentiment, Business, CO EW, Non-manufacturing, Current",None,line
+"Japan, Sentiment, Business, CO EW, Future","Japan, Sentiment, Business, CO EW, Future",None,line
+"Japan, Sentiment, Business, CO EW, Manufacturing, Future","Japan, Sentiment, Business, CO EW, Manufacturing, Future",None,line
+"Japan, Sentiment, Business, CO EW, Non-manufacturing, Future","Japan, Sentiment, Business, CO EW, Non-manufacturing, Future",None,line
+"Japan, Sentiment, Economy, CO EW, Current","Japan, Sentiment, Economy, CO EW, Current",None,line
+"Japan, Sentiment, Economy, CO EW, Employment, Current","Japan, Sentiment, Economy, CO EW, Employment, Current",None,line
+"Japan, Sentiment, Economy, CO EW, Future","Japan, Sentiment, Economy, CO EW, Future",None,line
+"Japan, Sentiment, Economy, CO EW, Employment, Future","Japan, Sentiment, Economy, CO EW, Employment, Future",None,line
+"Japan, Sentiment, Consumer, CO EW, Current and future","Japan, Sentiment, Consumer, CO EW, Current and future",None,line
+"Japan, Sentiment, Consumer, CO EW, Retail, Current and future","Japan, Sentiment, Consumer, CO EW, Retail, Current and future",None,line
+"Japan, Sentiment, Consumer, CO EW, Food and beverage, Current and future","Japan, Sentiment, Consumer, CO EW, Food and beverage, Current and future",None,line
+"Japan, Sentiment, Consumer, CO EW, Services, Current and future","Japan, Sentiment, Consumer, CO EW, Services, Current and future",None,line
+"Japan, Sentiment, Consumer, CO EW, Housing, Current and future","Japan, Sentiment, Consumer, CO EW, Housing, Current and future",None,line
+"Japan, Sentiment, Business, CO EW, Current and future","Japan, Sentiment, Business, CO EW, Current and future",None,line
+"Japan, Sentiment, Business, CO EW, Manufacturing, Current and future","Japan, Sentiment, Business, CO EW, Manufacturing, Current and future",None,line
+"Japan, Sentiment, Business, CO EW, Non-manufacturing, Current and future","Japan, Sentiment, Business, CO EW, Non-manufacturing, Current and future",None,line
+"Japan, Sentiment, Economy, CO EW, Current and future","Japan, Sentiment, Economy, CO EW, Current and future",None,line
+"Japan, Sentiment, Economy, CO EW, Employment, Current and future","Japan, Sentiment, Economy, CO EW, Employment, Current and future",None,line
+"Japan, Sentiment, Economy, CO EW, Current, LT average","Japan, Sentiment, Economy, CO EW, Current, LT average",None,line
+"Japan, Sentiment, Consumer, CO EW, Current, LT average","Japan, Sentiment, Consumer, CO EW, Current, LT average",None,line
+"Japan, Sentiment, Consumer, CO EW, Retail, Current, LT average","Japan, Sentiment, Consumer, CO EW, Retail, Current, LT average",None,line
+"Japan, Sentiment, Consumer, CO EW, Food and beverage, Current, LT average","Japan, Sentiment, Consumer, CO EW, Food and beverage, Current, LT average",None,line
+"Japan, Sentiment, Consumer, CO EW, Services, Current, LT average","Japan, Sentiment, Consumer, CO EW, Services, Current, LT average",None,line
+"Japan, Sentiment, Consumer, CO EW, Housing, Current, LT average","Japan, Sentiment, Consumer, CO EW, Housing, Current, LT average",None,line
+"Japan, Sentiment, Business, CO EW, Current, LT average","Japan, Sentiment, Business, CO EW, Current, LT average",None,line
+"Japan, Sentiment, Business, CO EW, Manufacturing, Current, LT average","Japan, Sentiment, Business, CO EW, Manufacturing, Current, LT average",None,line
+"Japan, Sentiment, Business, CO EW, Non-manufacturing, Current, LT average","Japan, Sentiment, Business, CO EW, Non-manufacturing, Current, LT average",None,line
+"Japan, Sentiment, Economy, CO EW, Employment, Current, LT average","Japan, Sentiment, Economy, CO EW, Employment, Current, LT average",None,line
+"Japan, Sentiment, Business, S&P PMI, Manufacturing, 3mma","Japan, Sentiment, Business, S&P PMI, Manufacturing, 3mma",None,line
+"Japan, Sentiment, Business, S&P PMI, Services, 3mma","Japan, Sentiment, Business, S&P PMI, Services, 3mma",None,line
+"Japan, Sentiment, Business, S&P PMI, Manufacturing, Flash, 3mma","Japan, Sentiment, Business, S&P PMI, Manufacturing, Flash, 3mma",None,line
+"Japan, Sentiment, Business, S&P PMI, Services, Flash, 3mma","Japan, Sentiment, Business, S&P PMI, Services, Flash, 3mma",None,line
+"Japan, Sentiment, Business, Reuters Tankan, Manufacturing, Current, 3mma","Japan, Sentiment, Business, Reuters Tankan, Manufacturing, Current, 3mma",None,line
+"Japan, Sentiment, Business, Reuters Tankan, Nonmanufacturing, Current, 3mma","Japan, Sentiment, Business, Reuters Tankan, Nonmanufacturing, Current, 3mma",None,line
+"Japan, Sentiment, Business, Reuters Tankan, Manufacturing, Future, 3mma","Japan, Sentiment, Business, Reuters Tankan, Manufacturing, Future, 3mma",None,line
+"Japan, Sentiment, Business, Reuters Tankan, Nonmanufacturing, Future, 3mma","Japan, Sentiment, Business, Reuters Tankan, Nonmanufacturing, Future, 3mma",None,line
+"Japan, Sentiment, Business, Reuters Tankan, Manufacturing, Current and future, 3mma","Japan, Sentiment, Business, Reuters Tankan, Manufacturing, Current and future, 3mma",None,line
+"Japan, Sentiment, Business, Reuters Tankan, Nonmanufacturing, Current and future, 3mma","Japan, Sentiment, Business, Reuters Tankan, Nonmanufacturing, Current and future, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Current, 3mma","Japan, Sentiment, Consumer, CO EW, Current, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Retail, Current, 3mma","Japan, Sentiment, Consumer, CO EW, Retail, Current, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Food and beverage, Current, 3mma","Japan, Sentiment, Consumer, CO EW, Food and beverage, Current, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Services, Current, 3mma","Japan, Sentiment, Consumer, CO EW, Services, Current, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Housing, Current, 3mma","Japan, Sentiment, Consumer, CO EW, Housing, Current, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Future, 3mma","Japan, Sentiment, Consumer, CO EW, Future, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Retail, Future, 3mma","Japan, Sentiment, Consumer, CO EW, Retail, Future, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Food and beverage, Future, 3mma","Japan, Sentiment, Consumer, CO EW, Food and beverage, Future, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Services, Future, 3mma","Japan, Sentiment, Consumer, CO EW, Services, Future, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Housing, Future, 3mma","Japan, Sentiment, Consumer, CO EW, Housing, Future, 3mma",None,line
+"Japan, Sentiment, Business, CO EW, Current, 3mma","Japan, Sentiment, Business, CO EW, Current, 3mma",None,line
+"Japan, Sentiment, Business, CO EW, Manufacturing, Current, 3mma","Japan, Sentiment, Business, CO EW, Manufacturing, Current, 3mma",None,line
+"Japan, Sentiment, Business, CO EW, Non-manufacturing, Current, 3mma","Japan, Sentiment, Business, CO EW, Non-manufacturing, Current, 3mma",None,line
+"Japan, Sentiment, Business, CO EW, Future, 3mma","Japan, Sentiment, Business, CO EW, Future, 3mma",None,line
+"Japan, Sentiment, Business, CO EW, Manufacturing, Future, 3mma","Japan, Sentiment, Business, CO EW, Manufacturing, Future, 3mma",None,line
+"Japan, Sentiment, Business, CO EW, Non-manufacturing, Future, 3mma","Japan, Sentiment, Business, CO EW, Non-manufacturing, Future, 3mma",None,line
+"Japan, Sentiment, Economy, CO EW, Current, 3mma","Japan, Sentiment, Economy, CO EW, Current, 3mma",None,line
+"Japan, Sentiment, Economy, CO EW, Employment, Current, 3mma","Japan, Sentiment, Economy, CO EW, Employment, Current, 3mma",None,line
+"Japan, Sentiment, Economy, CO EW, Future, 3mma","Japan, Sentiment, Economy, CO EW, Future, 3mma",None,line
+"Japan, Sentiment, Economy, CO EW, Employment, Future, 3mma","Japan, Sentiment, Economy, CO EW, Employment, Future, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Current and future, 3mma","Japan, Sentiment, Consumer, CO EW, Current and future, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Retail, Current and future, 3mma","Japan, Sentiment, Consumer, CO EW, Retail, Current and future, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Food and beverage, Current and future, 3mma","Japan, Sentiment, Consumer, CO EW, Food and beverage, Current and future, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Services, Current and future, 3mma","Japan, Sentiment, Consumer, CO EW, Services, Current and future, 3mma",None,line
+"Japan, Sentiment, Consumer, CO EW, Housing, Current and future, 3mma","Japan, Sentiment, Consumer, CO EW, Housing, Current and future, 3mma",None,line
+"Japan, Sentiment, Business, CO EW, Current and future, 3mma","Japan, Sentiment, Business, CO EW, Current and future, 3mma",None,line
+"Japan, Sentiment, Business, CO EW, Manufacturing, Current and future, 3mma","Japan, Sentiment, Business, CO EW, Manufacturing, Current and future, 3mma",None,line
+"Japan, Sentiment, Business, CO EW, Non-manufacturing, Current and future, 3mma","Japan, Sentiment, Business, CO EW, Non-manufacturing, Current and future, 3mma",None,line
+"Japan, Sentiment, Economy, CO EW, Current and future, 3mma","Japan, Sentiment, Economy, CO EW, Current and future, 3mma",None,line
+"Japan, Sentiment, Economy, CO EW, Employment, Current and future, 3mma","Japan, Sentiment, Economy, CO EW, Employment, Current and future, 3mma",None,line
