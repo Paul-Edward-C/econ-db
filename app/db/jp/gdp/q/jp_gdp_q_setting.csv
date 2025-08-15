@@ -1435,7 +1435,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, SAAR, JPY bn","Japan, NGDP, Income, Households, Other current transfers, net, SAAR, JPY bn",None,line
 "Japan, NGDP, Income, Households, GDI, SAAR, JPY bn","Japan, NGDP, Income, Households, GDI, SAAR, JPY bn",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, JPY bn","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, JPY bn",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SAAR, JPY bn","Japan, NGDP, Income, Households, Consumption of households, SAAR, JPY bn",None,line
+"Japan, NGDP, Income, Households, Household consumption, SAAR, JPY bn","Japan, NGDP, Income, Households, Household consumption, SAAR, JPY bn",None,line
 "Japan, NGDP, Income, Households, Saving, SAAR, JPY bn","Japan, NGDP, Income, Households, Saving, SAAR, JPY bn",None,line
 "Japan, RGDP, Income, Households, GDI, SAAR, JPY bn","Japan, RGDP, Income, Households, GDI, SAAR, JPY bn",None,line
 "Japan, NGDP, Income, Households, Saving ratio, %, SA","Japan, NGDP, Income, Households, Saving ratio, %, SA",None,line
@@ -1450,7 +1450,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, SA, JPY bn","Japan, NGDP, Income, Households, Other current transfers, net, SA, JPY bn",None,line
 "Japan, NGDP, Income, Households, GDI, SA, JPY bn","Japan, NGDP, Income, Households, GDI, SA, JPY bn",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY bn","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY bn",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, JPY bn","Japan, NGDP, Income, Households, Consumption of households, SA, JPY bn",None,line
+"Japan, NGDP, Income, Households, Household consumption, SA, JPY bn","Japan, NGDP, Income, Households, Household consumption, SA, JPY bn",None,line
 "Japan, NGDP, Income, Households, Saving, SA, JPY bn","Japan, NGDP, Income, Households, Saving, SA, JPY bn",None,line
 "Japan, RGDP, Income, Households, GDI, SA, JPY bn","Japan, RGDP, Income, Households, GDI, SA, JPY bn",None,line
 "Japan, NGDP, Income, Households, Taxes and social security, payable, SA, JPY bn","Japan, NGDP, Income, Households, Taxes and social security, payable, SA, JPY bn",None,line
@@ -1464,7 +1464,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, JPY bn","Japan, NGDP, Income, Households, Other current transfers, net, JPY bn",None,line
 "Japan, NGDP, Income, Households, GDI, JPY bn","Japan, NGDP, Income, Households, GDI, JPY bn",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, JPY bn","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, JPY bn",None,line
-"Japan, NGDP, Income, Households, Consumption of households, JPY bn","Japan, NGDP, Income, Households, Consumption of households, JPY bn",None,line
+"Japan, NGDP, Income, Households, Household consumption, JPY bn","Japan, NGDP, Income, Households, Household consumption, JPY bn",None,line
 "Japan, NGDP, Income, Households, Saving, JPY bn","Japan, NGDP, Income, Households, Saving, JPY bn",None,line
 "Japan, RGDP, Income, Households, GDI, JPY bn","Japan, RGDP, Income, Households, GDI, JPY bn",None,line
 "Japan, NGDP, Income, Households, Saving ratio, %","Japan, NGDP, Income, Households, Saving ratio, %",None,line
@@ -1477,7 +1477,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, Other current transfers, net, SAAR, JPY bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, GDI, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, GDI, SAAR, JPY bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, JPY bn, 3M chg",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, Consumption of households, SAAR, JPY bn, 3M chg",None,line
+"Japan, NGDP, Income, Households, Household consumption, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, Household consumption, SAAR, JPY bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Saving, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, Saving, SAAR, JPY bn, 3M chg",None,line
 "Japan, RGDP, Income, Households, GDI, SAAR, JPY bn, 3M chg","Japan, RGDP, Income, Households, GDI, SAAR, JPY bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, JPY bn, 3M chg",None,line
@@ -1492,7 +1492,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Households, GDI, SA, JPY bn","Japan, RGDP, Households, GDI, SA, JPY bn",None,line
 "Japan, RGDP, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY bn","Japan, RGDP, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY bn",None,line
 "Japan, RGDP, Households, Taxes and social security, payable, SA, JPY bn","Japan, RGDP, Households, Taxes and social security, payable, SA, JPY bn",None,line
-"Japan, RGDP, Households, Consumption of households, SA, JPY bn","Japan, RGDP, Households, Consumption of households, SA, JPY bn",None,line
+"Japan, RGDP, Households, Household consumption, SA, JPY bn","Japan, RGDP, Households, Household consumption, SA, JPY bn",None,line
 "Japan, NGDP, Income, Households, Operating surplus and mixed income, JPY bn, % YoY","Japan, NGDP, Income, Households, Operating surplus and mixed income, JPY bn, % YoY",None,line
 "Japan, NGDP, Income, Households, Compensation of employees, receivable, JPY bn, % YoY","Japan, NGDP, Income, Households, Compensation of employees, receivable, JPY bn, % YoY",None,line
 "Japan, NGDP, Income, Households, Property income, net, JPY bn, % YoY","Japan, NGDP, Income, Households, Property income, net, JPY bn, % YoY",None,line
@@ -1502,7 +1502,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, JPY bn, % YoY","Japan, NGDP, Income, Households, Other current transfers, net, JPY bn, % YoY",None,line
 "Japan, NGDP, Income, Households, GDI, JPY bn, % YoY","Japan, NGDP, Income, Households, GDI, JPY bn, % YoY",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, JPY bn, % YoY","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, JPY bn, % YoY",None,line
-"Japan, NGDP, Income, Households, Consumption of households, JPY bn, % YoY","Japan, NGDP, Income, Households, Consumption of households, JPY bn, % YoY",None,line
+"Japan, NGDP, Income, Households, Household consumption, JPY bn, % YoY","Japan, NGDP, Income, Households, Household consumption, JPY bn, % YoY",None,line
 "Japan, NGDP, Income, Households, Saving, JPY bn, % YoY","Japan, NGDP, Income, Households, Saving, JPY bn, % YoY",None,line
 "Japan, RGDP, Income, Households, GDI, JPY bn, % YoY","Japan, RGDP, Income, Households, GDI, JPY bn, % YoY",None,line
 "Japan, NGDP, Expenditure, Employee compensation, JPY bn","Japan, NGDP, Expenditure, Employee compensation, JPY bn",None,line
@@ -1523,7 +1523,6 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Per capita, JPY","Japan, RGDP, Expenditure, Per capita, JPY",None,line
 "Japan, NGDP, Income, Households, GDI, Per capita, JPY","Japan, NGDP, Income, Households, GDI, Per capita, JPY",None,line
 "Japan, RGDP, Income, Households, GDI, Per capita, JPY","Japan, RGDP, Income, Households, GDI, Per capita, JPY",None,line
-"Japan, RGDP, Households, Consumption of households, Per capita, JPY","Japan, RGDP, Households, Consumption of households, Per capita, JPY",None,line
 "Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, JPY","Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, JPY",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, JPY","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, JPY",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Per capita, JPY","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Per capita, JPY",None,line
@@ -1541,7 +1540,6 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Per capita, JPY, % YoY","Japan, RGDP, Expenditure, Per capita, JPY, % YoY",None,line
 "Japan, NGDP, Income, Households, GDI, Per capita, JPY, % YoY","Japan, NGDP, Income, Households, GDI, Per capita, JPY, % YoY",None,line
 "Japan, RGDP, Income, Households, GDI, Per capita, JPY, % YoY","Japan, RGDP, Income, Households, GDI, Per capita, JPY, % YoY",None,line
-"Japan, RGDP, Households, Consumption of households, Per capita, JPY, % YoY","Japan, RGDP, Households, Consumption of households, Per capita, JPY, % YoY",None,line
 "Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, JPY, % YoY","Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, JPY, % YoY",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, JPY, % YoY","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, JPY, % YoY",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Per capita, JPY, % YoY","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Per capita, JPY, % YoY",None,line
@@ -1556,7 +1554,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Expenditure, Employee compensation per worker, JPY, % YoY","Japan, NGDP, Expenditure, Employee compensation per worker, JPY, % YoY",None,line
 "Japan, RGDP, Expenditure, Employee compensation per worker, JPY, % YoY","Japan, RGDP, Expenditure, Employee compensation per worker, JPY, % YoY",None,line
 "Japan, NGDP, Income, Households, GDI, SA, JPY bn, 2013-19 trend","Japan, NGDP, Income, Households, GDI, SA, JPY bn, 2013-19 trend",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, JPY bn, 2013-19 trend","Japan, NGDP, Income, Households, Consumption of households, SA, JPY bn, 2013-19 trend",None,line
+"Japan, NGDP, Income, Households, Household consumption, SA, JPY bn, 2013-19 trend","Japan, NGDP, Income, Households, Household consumption, SA, JPY bn, 2013-19 trend",None,line
 "Japan, NGDP, Income, Households, Saving ratio, %, SA, 2013-19 trend","Japan, NGDP, Income, Households, Saving ratio, %, SA, 2013-19 trend",None,line
 "Japan, NGDP, Expenditure, SAAR, JPY bn, 2013-19 trend","Japan, NGDP, Expenditure, SAAR, JPY bn, 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, SAAR, JPY bn, 2013-19 trend","Japan, RGDP, Expenditure, SAAR, JPY bn, 2013-19 trend",None,line
@@ -1568,7 +1566,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, SAAR, JPY bn, 2013-19 trend","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, SAAR, JPY bn, 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, Per capita, JPY, 2013-19 trend","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, Per capita, JPY, 2013-19 trend",None,line
 "Japan, NGDP, Income, Households, GDI, SA, JPY bn, Poly 2013-19 trend","Japan, NGDP, Income, Households, GDI, SA, JPY bn, Poly 2013-19 trend",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, JPY bn, Poly 2013-19 trend","Japan, NGDP, Income, Households, Consumption of households, SA, JPY bn, Poly 2013-19 trend",None,line
+"Japan, NGDP, Income, Households, Household consumption, SA, JPY bn, Poly 2013-19 trend","Japan, NGDP, Income, Households, Household consumption, SA, JPY bn, Poly 2013-19 trend",None,line
 "Japan, NGDP, Income, Households, Saving ratio, %, SA, Poly 2013-19 trend","Japan, NGDP, Income, Households, Saving ratio, %, SA, Poly 2013-19 trend",None,line
 "Japan, NGDP, Expenditure, SAAR, JPY bn, Poly 2013-19 trend","Japan, NGDP, Expenditure, SAAR, JPY bn, Poly 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, SAAR, JPY bn, Poly 2013-19 trend","Japan, RGDP, Expenditure, SAAR, JPY bn, Poly 2013-19 trend",None,line
@@ -1581,8 +1579,8 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, Per capita, JPY, Poly 2013-19 trend","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, Per capita, JPY, Poly 2013-19 trend",None,line
 "Japan, NGDP, Income, Households, GDI, SA, JPY bn, % of 2013-19 trend","Japan, NGDP, Income, Households, GDI, SA, JPY bn, % of 2013-19 trend",None,line
 "Japan, NGDP, Income, Households, GDI, SA, JPY bn, % of Poly 2013-19 trend","Japan, NGDP, Income, Households, GDI, SA, JPY bn, % of Poly 2013-19 trend",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, JPY bn, % of 2013-19 trend","Japan, NGDP, Income, Households, Consumption of households, SA, JPY bn, % of 2013-19 trend",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, JPY bn, % of Poly 2013-19 trend","Japan, NGDP, Income, Households, Consumption of households, SA, JPY bn, % of Poly 2013-19 trend",None,line
+"Japan, NGDP, Income, Households, Household consumption, SA, JPY bn, % of 2013-19 trend","Japan, NGDP, Income, Households, Household consumption, SA, JPY bn, % of 2013-19 trend",None,line
+"Japan, NGDP, Income, Households, Household consumption, SA, JPY bn, % of Poly 2013-19 trend","Japan, NGDP, Income, Households, Household consumption, SA, JPY bn, % of Poly 2013-19 trend",None,line
 "Japan, NGDP, Income, Households, Saving ratio, %, SA, % of 2013-19 trend","Japan, NGDP, Income, Households, Saving ratio, %, SA, % of 2013-19 trend",None,line
 "Japan, NGDP, Income, Households, Saving ratio, %, SA, % of Poly 2013-19 trend","Japan, NGDP, Income, Households, Saving ratio, %, SA, % of Poly 2013-19 trend",None,line
 "Japan, NGDP, Expenditure, SAAR, JPY bn, % of 2013-19 trend","Japan, NGDP, Expenditure, SAAR, JPY bn, % of 2013-19 trend",None,line
@@ -1696,7 +1694,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, % of GDP","Japan, NGDP, Income, Households, Other current transfers, net, % of GDP",None,line
 "Japan, NGDP, Income, Households, GDI, % of GDP","Japan, NGDP, Income, Households, GDI, % of GDP",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, % of GDP","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, % of GDP",None,line
-"Japan, NGDP, Income, Households, Consumption of households, % of GDP","Japan, NGDP, Income, Households, Consumption of households, % of GDP",None,line
+"Japan, NGDP, Income, Households, Household consumption, % of GDP","Japan, NGDP, Income, Households, Household consumption, % of GDP",None,line
 "Japan, NGDP, Income, Households, Saving, % of GDP","Japan, NGDP, Income, Households, Saving, % of GDP",None,line
 "Japan, NGDP, Income, Households, Taxes and social security, payable, % of GDP","Japan, NGDP, Income, Households, Taxes and social security, payable, % of GDP",None,line
 "Japan, NGDP, Income, Households, Net taxes and social security, % of GDP","Japan, NGDP, Income, Households, Net taxes and social security, % of GDP",None,line
@@ -1708,7 +1706,6 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Per capita, JPY th","Japan, RGDP, Expenditure, Per capita, JPY th",None,line
 "Japan, NGDP, Income, Households, GDI, Per capita, JPY th","Japan, NGDP, Income, Households, GDI, Per capita, JPY th",None,line
 "Japan, RGDP, Income, Households, GDI, Per capita, JPY th","Japan, RGDP, Income, Households, GDI, Per capita, JPY th",None,line
-"Japan, RGDP, Households, Consumption of households, Per capita, JPY th","Japan, RGDP, Households, Consumption of households, Per capita, JPY th",None,line
 "Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, JPY th","Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, JPY th",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, JPY th","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, JPY th",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Per capita, JPY th","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Per capita, JPY th",None,line
@@ -2144,7 +2141,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, SAAR, JPY tn","Japan, NGDP, Income, Households, Other current transfers, net, SAAR, JPY tn",None,line
 "Japan, NGDP, Income, Households, GDI, SAAR, JPY tn","Japan, NGDP, Income, Households, GDI, SAAR, JPY tn",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, JPY tn","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, JPY tn",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SAAR, JPY tn","Japan, NGDP, Income, Households, Consumption of households, SAAR, JPY tn",None,line
+"Japan, NGDP, Income, Households, Household consumption, SAAR, JPY tn","Japan, NGDP, Income, Households, Household consumption, SAAR, JPY tn",None,line
 "Japan, NGDP, Income, Households, Saving, SAAR, JPY tn","Japan, NGDP, Income, Households, Saving, SAAR, JPY tn",None,line
 "Japan, RGDP, Income, Households, GDI, SAAR, JPY tn","Japan, RGDP, Income, Households, GDI, SAAR, JPY tn",None,line
 "Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, JPY tn","Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, JPY tn",None,line
@@ -2158,7 +2155,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, SA, JPY tn","Japan, NGDP, Income, Households, Other current transfers, net, SA, JPY tn",None,line
 "Japan, NGDP, Income, Households, GDI, SA, JPY tn","Japan, NGDP, Income, Households, GDI, SA, JPY tn",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY tn","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY tn",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, JPY tn","Japan, NGDP, Income, Households, Consumption of households, SA, JPY tn",None,line
+"Japan, NGDP, Income, Households, Household consumption, SA, JPY tn","Japan, NGDP, Income, Households, Household consumption, SA, JPY tn",None,line
 "Japan, NGDP, Income, Households, Saving, SA, JPY tn","Japan, NGDP, Income, Households, Saving, SA, JPY tn",None,line
 "Japan, RGDP, Income, Households, GDI, SA, JPY tn","Japan, RGDP, Income, Households, GDI, SA, JPY tn",None,line
 "Japan, NGDP, Income, Households, Taxes and social security, payable, SA, JPY tn","Japan, NGDP, Income, Households, Taxes and social security, payable, SA, JPY tn",None,line
@@ -2172,7 +2169,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, JPY tn","Japan, NGDP, Income, Households, Other current transfers, net, JPY tn",None,line
 "Japan, NGDP, Income, Households, GDI, JPY tn","Japan, NGDP, Income, Households, GDI, JPY tn",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, JPY tn","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, JPY tn",None,line
-"Japan, NGDP, Income, Households, Consumption of households, JPY tn","Japan, NGDP, Income, Households, Consumption of households, JPY tn",None,line
+"Japan, NGDP, Income, Households, Household consumption, JPY tn","Japan, NGDP, Income, Households, Household consumption, JPY tn",None,line
 "Japan, NGDP, Income, Households, Saving, JPY tn","Japan, NGDP, Income, Households, Saving, JPY tn",None,line
 "Japan, RGDP, Income, Households, GDI, JPY tn","Japan, RGDP, Income, Households, GDI, JPY tn",None,line
 "Japan, NGDP, Income, Households, Operating surplus and mixed income, SAAR, JPY tn, 3M chg","Japan, NGDP, Income, Households, Operating surplus and mixed income, SAAR, JPY tn, 3M chg",None,line
@@ -2184,7 +2181,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, SAAR, JPY tn, 3M chg","Japan, NGDP, Income, Households, Other current transfers, net, SAAR, JPY tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, GDI, SAAR, JPY tn, 3M chg","Japan, NGDP, Income, Households, GDI, SAAR, JPY tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, JPY tn, 3M chg","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, JPY tn, 3M chg",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SAAR, JPY tn, 3M chg","Japan, NGDP, Income, Households, Consumption of households, SAAR, JPY tn, 3M chg",None,line
+"Japan, NGDP, Income, Households, Household consumption, SAAR, JPY tn, 3M chg","Japan, NGDP, Income, Households, Household consumption, SAAR, JPY tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Saving, SAAR, JPY tn, 3M chg","Japan, NGDP, Income, Households, Saving, SAAR, JPY tn, 3M chg",None,line
 "Japan, RGDP, Income, Households, GDI, SAAR, JPY tn, 3M chg","Japan, RGDP, Income, Households, GDI, SAAR, JPY tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, JPY tn, 3M chg","Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, JPY tn, 3M chg",None,line
@@ -2199,14 +2196,14 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Households, GDI, SA, JPY tn","Japan, RGDP, Households, GDI, SA, JPY tn",None,line
 "Japan, RGDP, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY tn","Japan, RGDP, Households, Adjustment for the change in pension entitlements, receivable, SA, JPY tn",None,line
 "Japan, RGDP, Households, Taxes and social security, payable, SA, JPY tn","Japan, RGDP, Households, Taxes and social security, payable, SA, JPY tn",None,line
-"Japan, RGDP, Households, Consumption of households, SA, JPY tn","Japan, RGDP, Households, Consumption of households, SA, JPY tn",None,line
+"Japan, RGDP, Households, Household consumption, SA, JPY tn","Japan, RGDP, Households, Household consumption, SA, JPY tn",None,line
 "Japan, NGDP, Expenditure, Employee compensation, JPY tn","Japan, NGDP, Expenditure, Employee compensation, JPY tn",None,line
 "Japan, NGDP, Expenditure, Employee compensation, SAAR, JPY tn","Japan, NGDP, Expenditure, Employee compensation, SAAR, JPY tn",None,line
 "Japan, RGDP, Expenditure, Employee compensation, SAAR, JPY tn","Japan, RGDP, Expenditure, Employee compensation, SAAR, JPY tn",None,line
 "Japan, NGDP, Expenditure, Employee compensation, SA, JPY tn","Japan, NGDP, Expenditure, Employee compensation, SA, JPY tn",None,line
 "Japan, RGDP, Expenditure, Employee compensation, SA, JPY tn","Japan, RGDP, Expenditure, Employee compensation, SA, JPY tn",None,line
 "Japan, NGDP, Income, Households, GDI, SA, JPY tn, 2013-19 trend","Japan, NGDP, Income, Households, GDI, SA, JPY tn, 2013-19 trend",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, JPY tn, 2013-19 trend","Japan, NGDP, Income, Households, Consumption of households, SA, JPY tn, 2013-19 trend",None,line
+"Japan, NGDP, Income, Households, Household consumption, SA, JPY tn, 2013-19 trend","Japan, NGDP, Income, Households, Household consumption, SA, JPY tn, 2013-19 trend",None,line
 "Japan, NGDP, Expenditure, SAAR, JPY tn, 2013-19 trend","Japan, NGDP, Expenditure, SAAR, JPY tn, 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, SAAR, JPY tn, 2013-19 trend","Japan, RGDP, Expenditure, SAAR, JPY tn, 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, SA, JPY tn, 2013-19 trend","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, SA, JPY tn, 2013-19 trend",None,line
@@ -2215,7 +2212,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, SA, JPY tn, 2013-19 trend","Japan, RGDP, Activity, Tertiary, SA, JPY tn, 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, SAAR, JPY tn, 2013-19 trend","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, SAAR, JPY tn, 2013-19 trend",None,line
 "Japan, NGDP, Income, Households, GDI, SA, JPY tn, Poly 2013-19 trend","Japan, NGDP, Income, Households, GDI, SA, JPY tn, Poly 2013-19 trend",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, JPY tn, Poly 2013-19 trend","Japan, NGDP, Income, Households, Consumption of households, SA, JPY tn, Poly 2013-19 trend",None,line
+"Japan, NGDP, Income, Households, Household consumption, SA, JPY tn, Poly 2013-19 trend","Japan, NGDP, Income, Households, Household consumption, SA, JPY tn, Poly 2013-19 trend",None,line
 "Japan, NGDP, Expenditure, SAAR, JPY tn, Poly 2013-19 trend","Japan, NGDP, Expenditure, SAAR, JPY tn, Poly 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, SAAR, JPY tn, Poly 2013-19 trend","Japan, RGDP, Expenditure, SAAR, JPY tn, Poly 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, SA, JPY tn, Poly 2013-19 trend","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, SA, JPY tn, Poly 2013-19 trend",None,line
@@ -2649,7 +2646,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, SAAR, USD bn","Japan, NGDP, Income, Households, Other current transfers, net, SAAR, USD bn",None,line
 "Japan, NGDP, Income, Households, GDI, SAAR, USD bn","Japan, NGDP, Income, Households, GDI, SAAR, USD bn",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, USD bn","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, USD bn",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SAAR, USD bn","Japan, NGDP, Income, Households, Consumption of households, SAAR, USD bn",None,line
+"Japan, NGDP, Income, Households, Household consumption, SAAR, USD bn","Japan, NGDP, Income, Households, Household consumption, SAAR, USD bn",None,line
 "Japan, NGDP, Income, Households, Saving, SAAR, USD bn","Japan, NGDP, Income, Households, Saving, SAAR, USD bn",None,line
 "Japan, RGDP, Income, Households, GDI, SAAR, USD bn","Japan, RGDP, Income, Households, GDI, SAAR, USD bn",None,line
 "Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, USD bn","Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, USD bn",None,line
@@ -2663,7 +2660,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, SA, USD bn","Japan, NGDP, Income, Households, Other current transfers, net, SA, USD bn",None,line
 "Japan, NGDP, Income, Households, GDI, SA, USD bn","Japan, NGDP, Income, Households, GDI, SA, USD bn",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SA, USD bn","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SA, USD bn",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, USD bn","Japan, NGDP, Income, Households, Consumption of households, SA, USD bn",None,line
+"Japan, NGDP, Income, Households, Household consumption, SA, USD bn","Japan, NGDP, Income, Households, Household consumption, SA, USD bn",None,line
 "Japan, NGDP, Income, Households, Saving, SA, USD bn","Japan, NGDP, Income, Households, Saving, SA, USD bn",None,line
 "Japan, RGDP, Income, Households, GDI, SA, USD bn","Japan, RGDP, Income, Households, GDI, SA, USD bn",None,line
 "Japan, NGDP, Income, Households, Taxes and social security, payable, SA, USD bn","Japan, NGDP, Income, Households, Taxes and social security, payable, SA, USD bn",None,line
@@ -2677,7 +2674,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, USD bn","Japan, NGDP, Income, Households, Other current transfers, net, USD bn",None,line
 "Japan, NGDP, Income, Households, GDI, USD bn","Japan, NGDP, Income, Households, GDI, USD bn",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, USD bn","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, USD bn",None,line
-"Japan, NGDP, Income, Households, Consumption of households, USD bn","Japan, NGDP, Income, Households, Consumption of households, USD bn",None,line
+"Japan, NGDP, Income, Households, Household consumption, USD bn","Japan, NGDP, Income, Households, Household consumption, USD bn",None,line
 "Japan, NGDP, Income, Households, Saving, USD bn","Japan, NGDP, Income, Households, Saving, USD bn",None,line
 "Japan, RGDP, Income, Households, GDI, USD bn","Japan, RGDP, Income, Households, GDI, USD bn",None,line
 "Japan, NGDP, Income, Households, Operating surplus and mixed income, SAAR, USD bn, 3M chg","Japan, NGDP, Income, Households, Operating surplus and mixed income, SAAR, USD bn, 3M chg",None,line
@@ -2689,7 +2686,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, SAAR, USD bn, 3M chg","Japan, NGDP, Income, Households, Other current transfers, net, SAAR, USD bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, GDI, SAAR, USD bn, 3M chg","Japan, NGDP, Income, Households, GDI, SAAR, USD bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, USD bn, 3M chg","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, USD bn, 3M chg",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SAAR, USD bn, 3M chg","Japan, NGDP, Income, Households, Consumption of households, SAAR, USD bn, 3M chg",None,line
+"Japan, NGDP, Income, Households, Household consumption, SAAR, USD bn, 3M chg","Japan, NGDP, Income, Households, Household consumption, SAAR, USD bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Saving, SAAR, USD bn, 3M chg","Japan, NGDP, Income, Households, Saving, SAAR, USD bn, 3M chg",None,line
 "Japan, RGDP, Income, Households, GDI, SAAR, USD bn, 3M chg","Japan, RGDP, Income, Households, GDI, SAAR, USD bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, USD bn, 3M chg","Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, USD bn, 3M chg",None,line
@@ -2704,7 +2701,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Households, GDI, SA, USD bn","Japan, RGDP, Households, GDI, SA, USD bn",None,line
 "Japan, RGDP, Households, Adjustment for the change in pension entitlements, receivable, SA, USD bn","Japan, RGDP, Households, Adjustment for the change in pension entitlements, receivable, SA, USD bn",None,line
 "Japan, RGDP, Households, Taxes and social security, payable, SA, USD bn","Japan, RGDP, Households, Taxes and social security, payable, SA, USD bn",None,line
-"Japan, RGDP, Households, Consumption of households, SA, USD bn","Japan, RGDP, Households, Consumption of households, SA, USD bn",None,line
+"Japan, RGDP, Households, Household consumption, SA, USD bn","Japan, RGDP, Households, Household consumption, SA, USD bn",None,line
 "Japan, NGDP, Expenditure, Employee compensation, USD bn","Japan, NGDP, Expenditure, Employee compensation, USD bn",None,line
 "Japan, NGDP, Expenditure, Employee compensation, SAAR, USD bn","Japan, NGDP, Expenditure, Employee compensation, SAAR, USD bn",None,line
 "Japan, RGDP, Expenditure, Employee compensation, SAAR, USD bn","Japan, RGDP, Expenditure, Employee compensation, SAAR, USD bn",None,line
@@ -2714,7 +2711,6 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Per capita, USD","Japan, RGDP, Expenditure, Per capita, USD",None,line
 "Japan, NGDP, Income, Households, GDI, Per capita, USD","Japan, NGDP, Income, Households, GDI, Per capita, USD",None,line
 "Japan, RGDP, Income, Households, GDI, Per capita, USD","Japan, RGDP, Income, Households, GDI, Per capita, USD",None,line
-"Japan, RGDP, Households, Consumption of households, Per capita, USD","Japan, RGDP, Households, Consumption of households, Per capita, USD",None,line
 "Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, USD","Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, USD",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, USD","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, USD",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Per capita, USD","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Per capita, USD",None,line
@@ -2729,7 +2725,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Expenditure, Employee compensation per worker, USD","Japan, NGDP, Expenditure, Employee compensation per worker, USD",None,line
 "Japan, RGDP, Expenditure, Employee compensation per worker, USD","Japan, RGDP, Expenditure, Employee compensation per worker, USD",None,line
 "Japan, NGDP, Income, Households, GDI, SA, USD bn, 2013-19 trend","Japan, NGDP, Income, Households, GDI, SA, USD bn, 2013-19 trend",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, USD bn, 2013-19 trend","Japan, NGDP, Income, Households, Consumption of households, SA, USD bn, 2013-19 trend",None,line
+"Japan, NGDP, Income, Households, Household consumption, SA, USD bn, 2013-19 trend","Japan, NGDP, Income, Households, Household consumption, SA, USD bn, 2013-19 trend",None,line
 "Japan, NGDP, Expenditure, SAAR, USD bn, 2013-19 trend","Japan, NGDP, Expenditure, SAAR, USD bn, 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, SAAR, USD bn, 2013-19 trend","Japan, RGDP, Expenditure, SAAR, USD bn, 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD bn, 2013-19 trend","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD bn, 2013-19 trend",None,line
@@ -2740,7 +2736,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, SAAR, USD bn, 2013-19 trend","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, SAAR, USD bn, 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, Per capita, USD, 2013-19 trend","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Domestic Final Consumption, Services, Per capita, USD, 2013-19 trend",None,line
 "Japan, NGDP, Income, Households, GDI, SA, USD bn, Poly 2013-19 trend","Japan, NGDP, Income, Households, GDI, SA, USD bn, Poly 2013-19 trend",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, USD bn, Poly 2013-19 trend","Japan, NGDP, Income, Households, Consumption of households, SA, USD bn, Poly 2013-19 trend",None,line
+"Japan, NGDP, Income, Households, Household consumption, SA, USD bn, Poly 2013-19 trend","Japan, NGDP, Income, Households, Household consumption, SA, USD bn, Poly 2013-19 trend",None,line
 "Japan, NGDP, Expenditure, SAAR, USD bn, Poly 2013-19 trend","Japan, NGDP, Expenditure, SAAR, USD bn, Poly 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, SAAR, USD bn, Poly 2013-19 trend","Japan, RGDP, Expenditure, SAAR, USD bn, Poly 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD bn, Poly 2013-19 trend","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD bn, Poly 2013-19 trend",None,line
@@ -2758,7 +2754,6 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Per capita, USD th","Japan, RGDP, Expenditure, Per capita, USD th",None,line
 "Japan, NGDP, Income, Households, GDI, Per capita, USD th","Japan, NGDP, Income, Households, GDI, Per capita, USD th",None,line
 "Japan, RGDP, Income, Households, GDI, Per capita, USD th","Japan, RGDP, Income, Households, GDI, Per capita, USD th",None,line
-"Japan, RGDP, Households, Consumption of households, Per capita, USD th","Japan, RGDP, Households, Consumption of households, Per capita, USD th",None,line
 "Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, USD th","Japan, NGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, USD th",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, USD th","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Per capita, USD th",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Per capita, USD th","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, Per capita, USD th",None,line
@@ -3194,7 +3189,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, SAAR, USD tn","Japan, NGDP, Income, Households, Other current transfers, net, SAAR, USD tn",None,line
 "Japan, NGDP, Income, Households, GDI, SAAR, USD tn","Japan, NGDP, Income, Households, GDI, SAAR, USD tn",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, USD tn","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, USD tn",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SAAR, USD tn","Japan, NGDP, Income, Households, Consumption of households, SAAR, USD tn",None,line
+"Japan, NGDP, Income, Households, Household consumption, SAAR, USD tn","Japan, NGDP, Income, Households, Household consumption, SAAR, USD tn",None,line
 "Japan, NGDP, Income, Households, Saving, SAAR, USD tn","Japan, NGDP, Income, Households, Saving, SAAR, USD tn",None,line
 "Japan, RGDP, Income, Households, GDI, SAAR, USD tn","Japan, RGDP, Income, Households, GDI, SAAR, USD tn",None,line
 "Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, USD tn","Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, USD tn",None,line
@@ -3208,7 +3203,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, SA, USD tn","Japan, NGDP, Income, Households, Other current transfers, net, SA, USD tn",None,line
 "Japan, NGDP, Income, Households, GDI, SA, USD tn","Japan, NGDP, Income, Households, GDI, SA, USD tn",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SA, USD tn","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SA, USD tn",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, USD tn","Japan, NGDP, Income, Households, Consumption of households, SA, USD tn",None,line
+"Japan, NGDP, Income, Households, Household consumption, SA, USD tn","Japan, NGDP, Income, Households, Household consumption, SA, USD tn",None,line
 "Japan, NGDP, Income, Households, Saving, SA, USD tn","Japan, NGDP, Income, Households, Saving, SA, USD tn",None,line
 "Japan, RGDP, Income, Households, GDI, SA, USD tn","Japan, RGDP, Income, Households, GDI, SA, USD tn",None,line
 "Japan, NGDP, Income, Households, Taxes and social security, payable, SA, USD tn","Japan, NGDP, Income, Households, Taxes and social security, payable, SA, USD tn",None,line
@@ -3222,7 +3217,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, USD tn","Japan, NGDP, Income, Households, Other current transfers, net, USD tn",None,line
 "Japan, NGDP, Income, Households, GDI, USD tn","Japan, NGDP, Income, Households, GDI, USD tn",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, USD tn","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, USD tn",None,line
-"Japan, NGDP, Income, Households, Consumption of households, USD tn","Japan, NGDP, Income, Households, Consumption of households, USD tn",None,line
+"Japan, NGDP, Income, Households, Household consumption, USD tn","Japan, NGDP, Income, Households, Household consumption, USD tn",None,line
 "Japan, NGDP, Income, Households, Saving, USD tn","Japan, NGDP, Income, Households, Saving, USD tn",None,line
 "Japan, RGDP, Income, Households, GDI, USD tn","Japan, RGDP, Income, Households, GDI, USD tn",None,line
 "Japan, NGDP, Income, Households, Operating surplus and mixed income, SAAR, USD tn, 3M chg","Japan, NGDP, Income, Households, Operating surplus and mixed income, SAAR, USD tn, 3M chg",None,line
@@ -3234,7 +3229,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, net, SAAR, USD tn, 3M chg","Japan, NGDP, Income, Households, Other current transfers, net, SAAR, USD tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, GDI, SAAR, USD tn, 3M chg","Japan, NGDP, Income, Households, GDI, SAAR, USD tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, USD tn, 3M chg","Japan, NGDP, Income, Households, Adjustment for the change in pension entitlements, receivable, SAAR, USD tn, 3M chg",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SAAR, USD tn, 3M chg","Japan, NGDP, Income, Households, Consumption of households, SAAR, USD tn, 3M chg",None,line
+"Japan, NGDP, Income, Households, Household consumption, SAAR, USD tn, 3M chg","Japan, NGDP, Income, Households, Household consumption, SAAR, USD tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Saving, SAAR, USD tn, 3M chg","Japan, NGDP, Income, Households, Saving, SAAR, USD tn, 3M chg",None,line
 "Japan, RGDP, Income, Households, GDI, SAAR, USD tn, 3M chg","Japan, RGDP, Income, Households, GDI, SAAR, USD tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, USD tn, 3M chg","Japan, NGDP, Income, Households, Taxes and social security, payable, SAAR, USD tn, 3M chg",None,line
@@ -3249,14 +3244,14 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Households, GDI, SA, USD tn","Japan, RGDP, Households, GDI, SA, USD tn",None,line
 "Japan, RGDP, Households, Adjustment for the change in pension entitlements, receivable, SA, USD tn","Japan, RGDP, Households, Adjustment for the change in pension entitlements, receivable, SA, USD tn",None,line
 "Japan, RGDP, Households, Taxes and social security, payable, SA, USD tn","Japan, RGDP, Households, Taxes and social security, payable, SA, USD tn",None,line
-"Japan, RGDP, Households, Consumption of households, SA, USD tn","Japan, RGDP, Households, Consumption of households, SA, USD tn",None,line
+"Japan, RGDP, Households, Household consumption, SA, USD tn","Japan, RGDP, Households, Household consumption, SA, USD tn",None,line
 "Japan, NGDP, Expenditure, Employee compensation, USD tn","Japan, NGDP, Expenditure, Employee compensation, USD tn",None,line
 "Japan, NGDP, Expenditure, Employee compensation, SAAR, USD tn","Japan, NGDP, Expenditure, Employee compensation, SAAR, USD tn",None,line
 "Japan, RGDP, Expenditure, Employee compensation, SAAR, USD tn","Japan, RGDP, Expenditure, Employee compensation, SAAR, USD tn",None,line
 "Japan, NGDP, Expenditure, Employee compensation, SA, USD tn","Japan, NGDP, Expenditure, Employee compensation, SA, USD tn",None,line
 "Japan, RGDP, Expenditure, Employee compensation, SA, USD tn","Japan, RGDP, Expenditure, Employee compensation, SA, USD tn",None,line
 "Japan, NGDP, Income, Households, GDI, SA, USD tn, 2013-19 trend","Japan, NGDP, Income, Households, GDI, SA, USD tn, 2013-19 trend",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, USD tn, 2013-19 trend","Japan, NGDP, Income, Households, Consumption of households, SA, USD tn, 2013-19 trend",None,line
+"Japan, NGDP, Income, Households, Household consumption, SA, USD tn, 2013-19 trend","Japan, NGDP, Income, Households, Household consumption, SA, USD tn, 2013-19 trend",None,line
 "Japan, NGDP, Expenditure, SAAR, USD tn, 2013-19 trend","Japan, NGDP, Expenditure, SAAR, USD tn, 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, SAAR, USD tn, 2013-19 trend","Japan, RGDP, Expenditure, SAAR, USD tn, 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD tn, 2013-19 trend","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD tn, 2013-19 trend",None,line
@@ -3265,7 +3260,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, SA, USD tn, 2013-19 trend","Japan, RGDP, Activity, Tertiary, SA, USD tn, 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, SAAR, USD tn, 2013-19 trend","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, Household Consumption, SAAR, USD tn, 2013-19 trend",None,line
 "Japan, NGDP, Income, Households, GDI, SA, USD tn, Poly 2013-19 trend","Japan, NGDP, Income, Households, GDI, SA, USD tn, Poly 2013-19 trend",None,line
-"Japan, NGDP, Income, Households, Consumption of households, SA, USD tn, Poly 2013-19 trend","Japan, NGDP, Income, Households, Consumption of households, SA, USD tn, Poly 2013-19 trend",None,line
+"Japan, NGDP, Income, Households, Household consumption, SA, USD tn, Poly 2013-19 trend","Japan, NGDP, Income, Households, Household consumption, SA, USD tn, Poly 2013-19 trend",None,line
 "Japan, NGDP, Expenditure, SAAR, USD tn, Poly 2013-19 trend","Japan, NGDP, Expenditure, SAAR, USD tn, Poly 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, SAAR, USD tn, Poly 2013-19 trend","Japan, RGDP, Expenditure, SAAR, USD tn, Poly 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD tn, Poly 2013-19 trend","Japan, RGDP, Expenditure, Domestic Demand, Private Consumption, SA, USD tn, Poly 2013-19 trend",None,line
