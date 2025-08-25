@@ -75,11 +75,14 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 first_add = True      # remove once index button is fixed
 
-
 # =========DEFINE FUNCTION=========
 
-
 def update_selects_format():
+    """
+    Rebuild the controls row(s) based on how many selects have non-empty values.
+    IMPORTANT: we replace ONLY the child inside `controls_container`, not the top-level layout,
+    so the app title stays visible.
+    """
     selects_list = [
         select_dict["country_select"],
         select_dict["db_select"],
@@ -98,6 +101,7 @@ def update_selects_format():
         select_dict["cat11_select"],
     ]
     new_len = next((i for i, select in enumerate(selects_list) if select.value == ""), len(selects_list))
+
     if new_len == 3:
         new_layout = row(
             column(select_dict["country_select"], select_dict["db_select"], select_dict["category_select"], select_dict["freq_select"]),
@@ -181,12 +185,13 @@ def update_selects_format():
             column(select_dict["cat4_select"], select_dict["cat5_select"], select_dict["cat6_select"], select_dict["cat7_select"]),
             column(select_dict["cat8_select"], select_dict["cat9_select"], select_dict["cat10_select"], select_dict["cat11_select"]),
         )
-    layout.children[0] = new_layout
+
+    # Replace only the controls row inside the container (keep the title intact)
+    controls_container.children[0] = new_layout
 
 
 def update_country_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
 
@@ -210,21 +215,17 @@ def update_country_select(attrname, old, new):
 
     curr_key = select_dict["country_select"].value + ", "
 
-
     if curr_key in data_dict:
         select_dict["category_select"].options = data_dict[curr_key]
         if select_dict["category_select"].value not in select_dict["category_select"].options:
             select_dict["category_select"].value = select_dict["category_select"].options[0]
-        
     else:
         select_dict["category_select"].options = []
         select_dict["category_select"].value = ""
-    
 
 
 def update_db_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
     if select_dict["db_select"].value == "BOP":
@@ -245,23 +246,20 @@ def update_db_select(attrname, old, new):
     if select_dict["db_select"].value == "BOP":
         print("YPYPYP")
         freq_select_options = ["Quarterly", "Monthly", "Annual"]
-
     elif select_dict["db_select"].value == "GDP":
         freq_select_options = ["Quarterly"]
-
     else:
         freq_select_options = ["Monthly"]
 
     select_dict["freq_select"].options = freq_select_options
     if select_dict["freq_select"].value not in select_dict["freq_select"].options:
-            select_dict["freq_select"].value = freq_select_options[0]
+        select_dict["freq_select"].value = freq_select_options[0]
     
     print(data_dict)
     if curr_key in data_dict:
         select_dict["category_select"].options = data_dict[curr_key]
         if select_dict["category_select"].value not in select_dict["category_select"].options:
             select_dict["category_select"].value = select_dict["category_select"].options[0]
-        
     else:
         select_dict["category_select"].options = []
         select_dict["category_select"].value = ""
@@ -269,7 +267,6 @@ def update_db_select(attrname, old, new):
 
 def update_category_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
     if select_dict["db_select"].value == "BOP":
@@ -291,16 +288,14 @@ def update_category_select(attrname, old, new):
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", "
     print(curr_key)
 
-    
-
     select_dict["type_select"].options = data_dict[curr_key]
     if select_dict["type_select"].value not in select_dict["type_select"].options:
         select_dict["type_select"].value = select_dict["type_select"].options[0]
     
+
 # IGNORE UNTIL OTHER FREQS IMPLEMENTED
 def update_freq_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
     # Change data source and data setting
@@ -308,21 +303,18 @@ def update_freq_select(attrname, old, new):
 
     if select_dict["db_select"].value == "BOP":
         freq_select_options = ["Quarterly", "Monthly", "Annual"]
-
     elif select_dict["db_select"].value == "GDP":
         freq_select_options = ["Quarterly"]
-
     else:
         freq_select_options = ["Monthly"]
 
     select_dict["freq_select"].options = freq_select_options
     if select_dict["freq_select"].value not in select_dict["freq_select"].options:
-            select_dict["freq_select"].value = freq_select_options[0]
+        select_dict["freq_select"].value = freq_select_options[0]
 
 
 def update_type_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
     if select_dict["db_select"].value == "BOP":
@@ -338,15 +330,12 @@ def update_type_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", "
-
 
     if curr_key in data_dict:
         select_dict["cat1_select"].options = data_dict[curr_key]
         if select_dict["cat1_select"].value not in select_dict["cat1_select"].options:
             select_dict["cat1_select"].value = select_dict["cat1_select"].options[0]
-        
     else:
         select_dict["cat1_select"].options = []
         select_dict["cat1_select"].value = ""
@@ -356,7 +345,6 @@ def update_type_select(attrname, old, new):
 
 def update_cat1_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
     if select_dict["db_select"].value == "BOP":
@@ -371,15 +359,12 @@ def update_cat1_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", "
-
 
     if curr_key in data_dict:
         select_dict["cat2_select"].options = data_dict[curr_key]
         if select_dict["cat2_select"].value not in select_dict["cat2_select"].options:
             select_dict["cat2_select"].value = select_dict["cat2_select"].options[0]
-
     else:
         select_dict["cat2_select"].options = []
         select_dict["cat2_select"].value = ""
@@ -389,7 +374,6 @@ def update_cat1_select(attrname, old, new):
 
 def update_cat2_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
     if select_dict["db_select"].value == "BOP":
@@ -405,15 +389,12 @@ def update_cat2_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", "
-
 
     if curr_key in data_dict:
         select_dict["cat3_select"].options = data_dict[curr_key]
         if select_dict["cat3_select"].value not in select_dict["cat3_select"].options:
             select_dict["cat3_select"].value = select_dict["cat3_select"].options[0]
-
     else:
         select_dict["cat3_select"].options = []
         select_dict["cat3_select"].value = ""
@@ -423,7 +404,6 @@ def update_cat2_select(attrname, old, new):
 
 def update_cat3_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
     if select_dict["db_select"].value == "BOP":
@@ -439,17 +419,12 @@ def update_cat3_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-
-
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", "
-
-
 
     if curr_key in data_dict:
         select_dict["cat4_select"].options = data_dict[curr_key]
         if select_dict["cat4_select"].value not in select_dict["cat4_select"].options:
             select_dict["cat4_select"].value = select_dict["cat4_select"].options[0]
-
     else:
         select_dict["cat4_select"].options = []
         select_dict["cat4_select"].value = ""
@@ -459,7 +434,6 @@ def update_cat3_select(attrname, old, new):
 
 def update_cat4_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
     if select_dict["db_select"].value == "BOP":
@@ -475,26 +449,21 @@ def update_cat4_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-
-
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", "
-
-
 
     if curr_key in data_dict:
         select_dict["cat5_select"].options = data_dict[curr_key]
         if select_dict["cat5_select"].value not in select_dict["cat5_select"].options:
             select_dict["cat5_select"].value = select_dict["cat5_select"].options[0]
-
     else:
         select_dict["cat5_select"].options = []
         select_dict["cat5_select"].value = ""
 
     update_selects_format()
 
+
 def update_cat5_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
     if select_dict["db_select"].value == "BOP":
@@ -510,17 +479,12 @@ def update_cat5_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-
-
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", " + select_dict["cat5_select"].value + ", "
-
-
 
     if curr_key in data_dict:
         select_dict["cat6_select"].options = data_dict[curr_key]
         if select_dict["cat6_select"].value not in select_dict["cat6_select"].options:
             select_dict["cat6_select"].value = select_dict["cat6_select"].options[0]
-
     else:
         select_dict["cat6_select"].options = []
         select_dict["cat6_select"].value = ""
@@ -530,7 +494,6 @@ def update_cat5_select(attrname, old, new):
 
 def update_cat6_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
     if select_dict["db_select"].value == "BOP":
@@ -546,17 +509,12 @@ def update_cat6_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-
-
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", " + select_dict["cat5_select"].value + ", " + select_dict["cat6_select"].value + ", "
-
-
 
     if curr_key in data_dict:
         select_dict["cat7_select"].options = data_dict[curr_key]
         if select_dict["cat7_select"].value not in select_dict["cat7_select"].options:
             select_dict["cat7_select"].value = select_dict["cat7_select"].options[0]
-
     else:
         select_dict["cat7_select"].options = []
         select_dict["cat7_select"].value = ""
@@ -566,7 +524,6 @@ def update_cat6_select(attrname, old, new):
 
 def update_cat7_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
     if select_dict["db_select"].value == "BOP":
@@ -582,17 +539,12 @@ def update_cat7_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-
-
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", " + select_dict["cat5_select"].value + ", " + select_dict["cat6_select"].value + ", " + select_dict["cat7_select"].value + ", "
-
-
 
     if curr_key in data_dict:
         select_dict["cat8_select"].options = data_dict[curr_key]
         if select_dict["cat8_select"].value not in select_dict["cat8_select"].options:
             select_dict["cat8_select"].value = select_dict["cat8_select"].options[0]
-
     else:
         select_dict["cat8_select"].options = []
         select_dict["cat8_select"].value = ""
@@ -602,7 +554,6 @@ def update_cat7_select(attrname, old, new):
 
 def update_cat8_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
     if select_dict["db_select"].value == "BOP":
@@ -618,17 +569,12 @@ def update_cat8_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-
-
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", " + select_dict["cat5_select"].value + ", " + select_dict["cat6_select"].value + ", " + select_dict["cat7_select"].value + ", " + select_dict["cat8_select"].value + ", "
-
-
 
     if curr_key in data_dict:
         select_dict["cat9_select"].options = data_dict[curr_key]
         if select_dict["cat9_select"].value not in select_dict["cat9_select"].options:
             select_dict["cat9_select"].value = select_dict["cat9_select"].options[0]
-
     else:
         select_dict["cat9_select"].options = []
         select_dict["cat9_select"].value = ""
@@ -638,7 +584,6 @@ def update_cat8_select(attrname, old, new):
 
 def update_cat9_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
     if select_dict["db_select"].value == "BOP":
@@ -654,16 +599,12 @@ def update_cat9_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", " + select_dict["cat5_select"].value + ", " + select_dict["cat6_select"].value + ", " + select_dict["cat7_select"].value + ", " + select_dict["cat8_select"].value + ", " + select_dict["cat9_select"].value + ", "
-
-
 
     if curr_key in data_dict:
         select_dict["cat10_select"].options = data_dict[curr_key]
         if select_dict["cat10_select"].value not in select_dict["cat10_select"].options:
             select_dict["cat10_select"].value = select_dict["cat10_select"].options[0]
-
     else:
         select_dict["cat10_select"].options = []
         select_dict["cat10_select"].value = ""
@@ -673,7 +614,6 @@ def update_cat9_select(attrname, old, new):
 
 def update_cat10_select(attrname, old, new):
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
     if select_dict["db_select"].value == "BOP":
@@ -689,22 +629,18 @@ def update_cat10_select(attrname, old, new):
     with open(pickle_path, 'rb') as f:
         data_dict = pickle.load(f)
 
-
-
     curr_key = select_dict["country_select"].value + ", " + select_dict["category_select"].value + ", " + select_dict["type_select"].value + ", " + select_dict["cat1_select"].value + ", " + select_dict["cat2_select"].value + ", " + select_dict["cat3_select"].value + ", " + select_dict["cat4_select"].value + ", " + select_dict["cat5_select"].value + ", " + select_dict["cat6_select"].value + ", " + select_dict["cat7_select"].value + ", " + select_dict["cat8_select"].value + ", " + select_dict["cat9_select"].value + ", " + select_dict["cat10_select"].value + ", "
-
-
 
     if curr_key in data_dict:
         select_dict["cat11_select"].options = data_dict[curr_key]
         if select_dict["cat11_select"].value not in select_dict["cat11_select"].options:
             select_dict["cat11_select"].value = select_dict["cat11_select"].options[0]
-
     else:
         select_dict["cat11_select"].options = []
         select_dict["cat11_select"].value = ""
 
     update_selects_format()
+
 
 def update_axis_position(attrname, old, new):  # Use to adjust background image position
     global main_p
@@ -714,7 +650,6 @@ def update_axis_position(attrname, old, new):  # Use to adjust background image 
 
     y_start = main_p.extra_y_ranges["bi"].start
     y_end = main_p.extra_y_ranges["bi"].end
-
 
     for i in main_p.renderers:
         if i.name == "bi":
@@ -762,10 +697,8 @@ def update_main_axis_range(attrname=None, old=None, new=None, expand_perc=1.2):
 
 
 def add_button_callback():
-
     global data, data_setting
     dir_path = os.path.dirname(os.path.abspath(__file__))
-    # Change the working directory to the script directory
     os.chdir(dir_path)
     print(os.getcwd())
 
@@ -878,8 +811,8 @@ def add_button_callback():
     col_name = ""
 
     for sel in select_dict:
-        if select_dict[sel].value is not "":
-            if sel is not "db_select":
+        if select_dict[sel].value != "":
+            if sel != "db_select":
                 col_name += select_dict[sel].value + ", "
 
     col_name = col_name[:-2]
@@ -900,9 +833,12 @@ def add_button_callback():
         multichoice.value = old_multichoice_values + [new_value[0]]
 
     else:
-        ctypes.windll.user32.MessageBoxW(0, "Duplicated add, please use the dropdown next to \"Dowload\" to select the desired preset", "ALERT", 48, 0x00001000)
-        print("Duplicated Add")
-
+        # NOTE: this Windows-only message box will fail on non-Windows environments.
+        # Consider replacing with a Bokeh Div/notification in cross-platform deployments.
+        try:
+            ctypes.windll.user32.MessageBoxW(0, "Duplicated add, please use the dropdown next to \"Dowload\" to select the desired preset", "ALERT", 48, 0x00001000)
+        except Exception:
+            print("Duplicated Add")
 
 
 def download_button_callback():
@@ -986,7 +922,6 @@ def index_toggle_callback(active):
                 new_tooltip = (display_name, tooltips_str)
                 main_p.yaxis.formatter = NumeralTickFormatter(format="0,0.0")
 
-
                 new_tooltips.append(new_tooltip)
 
     else:
@@ -1002,9 +937,9 @@ def index_toggle_callback(active):
                     main_p.yaxis.formatter = NumeralTickFormatter(format="0.0")
 
                 elif data_type == "r":
-                    tooltips_str = "@{" + col_name + "}{0,0.0}"
+                    tooltips_str = "@{" + col_name + "}{0,0}"
                     new_tooltip = (display_name, tooltips_str)
-                    main_p.yaxis.formatter = NumeralTickFormatter(format="0,0.0")
+                    main_p.yaxis.formatter = NumeralTickFormatter(format="0,0")
                 new_tooltips.append(new_tooltip)
 
             else:
@@ -1043,7 +978,11 @@ def new_chart(old, new):
             color_set_check = True
             break
     if (not color_set_check):
-        ctypes.windll.user32.MessageBoxW(0, "Maximum charts reached, please remove a chart before adding a new one.", "ALERT", 48, 0x00001000)
+        # See note above re: Windows-only MessageBoxW
+        try:
+            ctypes.windll.user32.MessageBoxW(0, "Maximum charts reached, please remove a chart before adding a new one.", "ALERT", 48, 0x00001000)
+        except Exception:
+            print("Maximum charts reached")
         del multichoice.options[-1]
 
     # plot new object
@@ -1125,7 +1064,7 @@ def new_chart(old, new):
                 renderer.visible = not bool(index_toggle.active)
 
     new_columns = datatable.columns
-    if index_toggle.active:      #change to "if index_toggle.active:" for index button
+    if index_toggle.active:
         new_columns.append(
             TableColumn(
                 field=f"{new}_index",
@@ -1371,9 +1310,6 @@ def link_callback():
     select_dict["cat9_select"].on_change("value", update_cat9_select, update_cat10_select,)
     select_dict["cat10_select"].on_change("value", update_cat10_select,)
 
-
-
-
     main_p.x_range.on_change("start", update_axis_position)
     main_p.extra_y_ranges["bi"].on_change("start", update_axis_position)
     
@@ -1382,14 +1318,13 @@ def link_callback():
     add_button.on_click(handler=add_button_callback)
     index_toggle.on_click(handler=index_toggle_callback)
 
-
 # =========CREATE SELECTS=========
 select_dict = tool.create_selects()
 freq = select_dict["freq_select"].value
 
 pickle_path = tool.setting.structure[select_dict["country_select"].value][select_dict["db_select"].value]["Pickle_path"]
 
-if select_dict["db_select"].value is "GDP":
+if select_dict["db_select"].value == "GDP":
     freq = "Quarterly"
 else:
     freq = "Monthly"
@@ -1507,16 +1442,30 @@ index_date_input = TextInput()
 # =========CONSTRUCT LAYOUT=========
 app_title = Div(
     text="Asia macro explorer",
-    styles={"font-family":"Georgia, serif","font-size":"32px","font-weight":"bold","color":"#104b1f","margin-bottom":"20px"}
+    styles={
+        "font-family": "Georgia, serif",
+        "font-size": "32px",
+        "font-weight": "bold",
+        "color": "#104b1f",
+        "margin": "6px 0 14px 0",
+        # "text-align": "center",           # uncomment to center the title
+        # "border-bottom": "1px solid #e5e7eb",  # optional subtle divider
+        # "padding-bottom": "8px",
+    },
 )
 
-
-layout = column(
+# controls go inside their own container so we can swap layouts safely
+controls_container = column(
     row(
         column(select_dict["country_select"], select_dict["db_select"], select_dict["category_select"], select_dict["freq_select"]),
         column(select_dict["type_select"], select_dict["cat1_select"], select_dict["cat2_select"], select_dict["cat3_select"]),
         column(select_dict["cat4_select"], select_dict["cat5_select"], select_dict["cat6_select"])
-    ),
+    )
+)
+
+layout = column(
+    app_title,  # title at the top (won't be replaced)
+    controls_container,  # only this child gets replaced by update_selects_format()
     row(column(row(add_button, download_button), row(index_toggle, index_date_input)), multichoice),
     row(column(main_p, sub_p), column(datatable)),
 )
