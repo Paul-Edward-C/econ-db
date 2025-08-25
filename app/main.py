@@ -1504,6 +1504,12 @@ multichoice = MultiChoice(
 index_date_input = TextInput()
 
 # =========CONSTRUCT LAYOUT=========
+app_title = Div(
+    text="Asia macro explorer",
+    styles={"font-family":"Georgia, serif","font-size":"32px","font-weight":"bold","color":"#104b1f","margin-bottom":"20px"}
+)
+
+
 layout = column(
     row(
         column(select_dict["country_select"], select_dict["db_select"], select_dict["category_select"], select_dict["freq_select"]),

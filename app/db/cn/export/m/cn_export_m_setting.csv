@@ -466,6 +466,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Niger, USD bn","China, Area, Imports, Country, Niger, USD bn",None,line
 "China, Area, Imports, Country, Nigeria, USD bn","China, Area, Imports, Country, Nigeria, USD bn",None,line
 "China, Area, Imports, Country, Niue, USD bn","China, Area, Imports, Country, Niue, USD bn",None,line
+"China, Area, Imports, Country, Norfolk Island, USD bn","China, Area, Imports, Country, Norfolk Island, USD bn",None,line
 "China, Area, Imports, Country, North Macedonia, USD bn","China, Area, Imports, Country, North Macedonia, USD bn",None,line
 "China, Area, Imports, Country, Northern Mariana Islands, USD bn","China, Area, Imports, Country, Northern Mariana Islands, USD bn",None,line
 "China, Area, Imports, Country, Norway, USD bn","China, Area, Imports, Country, Norway, USD bn",None,line
@@ -521,6 +522,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, St Helena, USD bn","China, Area, Imports, Country, St Helena, USD bn",None,line
 "China, Area, Imports, Country, St Kitts and Nevis, USD bn","China, Area, Imports, Country, St Kitts and Nevis, USD bn",None,line
 "China, Area, Imports, Country, St Martin, USD bn","China, Area, Imports, Country, St Martin, USD bn",None,line
+"China, Area, Imports, Country, St Pierre and Miquelon, USD bn","China, Area, Imports, Country, St Pierre and Miquelon, USD bn",None,line
 "China, Area, Imports, Country, St Vincent and Grenadines, USD bn","China, Area, Imports, Country, St Vincent and Grenadines, USD bn",None,line
 "China, Area, Imports, Country, Sudan, USD bn","China, Area, Imports, Country, Sudan, USD bn",None,line
 "China, Area, Imports, Country, Suriname, USD bn","China, Area, Imports, Country, Suriname, USD bn",None,line
@@ -951,6 +953,7 @@ name,display_name,data_type,chart_type
 "China, Area, Trade balance, Country, St Helena, USD bn","China, Area, Trade balance, Country, St Helena, USD bn",None,line
 "China, Area, Trade balance, Country, St Kitts and Nevis, USD bn","China, Area, Trade balance, Country, St Kitts and Nevis, USD bn",None,line
 "China, Area, Trade balance, Country, St Martin, USD bn","China, Area, Trade balance, Country, St Martin, USD bn",None,line
+"China, Area, Trade balance, Country, St Pierre and Miquelon, USD bn","China, Area, Trade balance, Country, St Pierre and Miquelon, USD bn",None,line
 "China, Area, Trade balance, Country, St Vincent and Grenadines, USD bn","China, Area, Trade balance, Country, St Vincent and Grenadines, USD bn",None,line
 "China, Area, Trade balance, Country, Sudan, USD bn","China, Area, Trade balance, Country, Sudan, USD bn",None,line
 "China, Area, Trade balance, Country, Suriname, USD bn","China, Area, Trade balance, Country, Suriname, USD bn",None,line
@@ -1471,6 +1474,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Niger, % of GDP","China, Area, Imports, Country, Niger, % of GDP",None,line
 "China, Area, Imports, Country, Nigeria, % of GDP","China, Area, Imports, Country, Nigeria, % of GDP",None,line
 "China, Area, Imports, Country, Niue, % of GDP","China, Area, Imports, Country, Niue, % of GDP",None,line
+"China, Area, Imports, Country, Norfolk Island, % of GDP","China, Area, Imports, Country, Norfolk Island, % of GDP",None,line
 "China, Area, Imports, Country, North Macedonia, % of GDP","China, Area, Imports, Country, North Macedonia, % of GDP",None,line
 "China, Area, Imports, Country, Northern Mariana Islands, % of GDP","China, Area, Imports, Country, Northern Mariana Islands, % of GDP",None,line
 "China, Area, Imports, Country, Norway, % of GDP","China, Area, Imports, Country, Norway, % of GDP",None,line
@@ -1526,6 +1530,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, St Helena, % of GDP","China, Area, Imports, Country, St Helena, % of GDP",None,line
 "China, Area, Imports, Country, St Kitts and Nevis, % of GDP","China, Area, Imports, Country, St Kitts and Nevis, % of GDP",None,line
 "China, Area, Imports, Country, St Martin, % of GDP","China, Area, Imports, Country, St Martin, % of GDP",None,line
+"China, Area, Imports, Country, St Pierre and Miquelon, % of GDP","China, Area, Imports, Country, St Pierre and Miquelon, % of GDP",None,line
 "China, Area, Imports, Country, St Vincent and Grenadines, % of GDP","China, Area, Imports, Country, St Vincent and Grenadines, % of GDP",None,line
 "China, Area, Imports, Country, Sudan, % of GDP","China, Area, Imports, Country, Sudan, % of GDP",None,line
 "China, Area, Imports, Country, Suriname, % of GDP","China, Area, Imports, Country, Suriname, % of GDP",None,line
@@ -1904,6 +1909,7 @@ name,display_name,data_type,chart_type
 "China, Area, Trade balance, Country, St Helena, % of GDP","China, Area, Trade balance, Country, St Helena, % of GDP",None,line
 "China, Area, Trade balance, Country, St Kitts and Nevis, % of GDP","China, Area, Trade balance, Country, St Kitts and Nevis, % of GDP",None,line
 "China, Area, Trade balance, Country, St Martin, % of GDP","China, Area, Trade balance, Country, St Martin, % of GDP",None,line
+"China, Area, Trade balance, Country, St Pierre and Miquelon, % of GDP","China, Area, Trade balance, Country, St Pierre and Miquelon, % of GDP",None,line
 "China, Area, Trade balance, Country, St Vincent and Grenadines, % of GDP","China, Area, Trade balance, Country, St Vincent and Grenadines, % of GDP",None,line
 "China, Area, Trade balance, Country, Sudan, % of GDP","China, Area, Trade balance, Country, Sudan, % of GDP",None,line
 "China, Area, Trade balance, Country, Suriname, % of GDP","China, Area, Trade balance, Country, Suriname, % of GDP",None,line
