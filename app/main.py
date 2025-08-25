@@ -36,6 +36,7 @@ from bokeh.models import (
     ColumnDataSource,
     DataTable,
     DateFormatter,
+    Div,
     HoverTool,
     MultiChoice,
     NumberFormatter,
