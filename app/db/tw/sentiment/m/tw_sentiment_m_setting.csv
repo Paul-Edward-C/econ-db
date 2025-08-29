@@ -1,64 +1,64 @@
 name,display_name,data_type,chart_type
-"Taiwan, Consumer, Index","Taiwan, Consumer, Index",None,line
-"Taiwan, Consumer, Index, 12M chg","Taiwan, Consumer, Index, 12M chg",None,line
-"Taiwan, Consumer, Index, SA","Taiwan, Consumer, Index, SA",None,line
-"Taiwan, Consumer, Index, 3mma","Taiwan, Consumer, Index, 3mma",None,line
-"Taiwan, Consumer, Index, 12M chg, 3mma","Taiwan, Consumer, Index, 12M chg, 3mma",None,line
-"Taiwan, Consumer, Index, SA, 3mma","Taiwan, Consumer, Index, SA, 3mma",None,line
-"Taiwan, Consumer, Expected prices, Index","Taiwan, Consumer, Expected prices, Index",None,line
-"Taiwan, Consumer, Household economic situation, Index","Taiwan, Consumer, Household economic situation, Index",None,line
-"Taiwan, Consumer, National economy situation, Index","Taiwan, Consumer, National economy situation, Index",None,line
-"Taiwan, Consumer, Employment, Index","Taiwan, Consumer, Employment, Index",None,line
-"Taiwan, Consumer, Stockmarket prospects, Index","Taiwan, Consumer, Stockmarket prospects, Index",None,line
-"Taiwan, Consumer, Durable goods purchase intentions, Index","Taiwan, Consumer, Durable goods purchase intentions, Index",None,line
-"Taiwan, Consumer, Health situation, Index","Taiwan, Consumer, Health situation, Index",None,line
-"Taiwan, Consumer, Health expectations, Index","Taiwan, Consumer, Health expectations, Index",None,line
-"Taiwan, Consumer, House purchase intentions, Index","Taiwan, Consumer, House purchase intentions, Index",None,line
-"Taiwan, Consumer, Expected prices, Index, 12M chg","Taiwan, Consumer, Expected prices, Index, 12M chg",None,line
-"Taiwan, Consumer, Household economic situation, Index, 12M chg","Taiwan, Consumer, Household economic situation, Index, 12M chg",None,line
-"Taiwan, Consumer, National economy situation, Index, 12M chg","Taiwan, Consumer, National economy situation, Index, 12M chg",None,line
-"Taiwan, Consumer, Employment, Index, 12M chg","Taiwan, Consumer, Employment, Index, 12M chg",None,line
-"Taiwan, Consumer, Stockmarket prospects, Index, 12M chg","Taiwan, Consumer, Stockmarket prospects, Index, 12M chg",None,line
-"Taiwan, Consumer, Durable goods purchase intentions, Index, 12M chg","Taiwan, Consumer, Durable goods purchase intentions, Index, 12M chg",None,line
-"Taiwan, Consumer, Health situation, Index, 12M chg","Taiwan, Consumer, Health situation, Index, 12M chg",None,line
-"Taiwan, Consumer, Health expectations, Index, 12M chg","Taiwan, Consumer, Health expectations, Index, 12M chg",None,line
-"Taiwan, Consumer, House purchase intentions, Index, 12M chg","Taiwan, Consumer, House purchase intentions, Index, 12M chg",None,line
-"Taiwan, Consumer, Expected prices, Index, SA","Taiwan, Consumer, Expected prices, Index, SA",None,line
-"Taiwan, Consumer, Household economic situation, Index, SA","Taiwan, Consumer, Household economic situation, Index, SA",None,line
-"Taiwan, Consumer, National economy situation, Index, SA","Taiwan, Consumer, National economy situation, Index, SA",None,line
-"Taiwan, Consumer, Employment, Index, SA","Taiwan, Consumer, Employment, Index, SA",None,line
-"Taiwan, Consumer, Stockmarket prospects, Index, SA","Taiwan, Consumer, Stockmarket prospects, Index, SA",None,line
-"Taiwan, Consumer, Durable goods purchase intentions, Index, SA","Taiwan, Consumer, Durable goods purchase intentions, Index, SA",None,line
-"Taiwan, Consumer, Health situation, Index, SA","Taiwan, Consumer, Health situation, Index, SA",None,line
-"Taiwan, Consumer, Health expectations, Index, SA","Taiwan, Consumer, Health expectations, Index, SA",None,line
-"Taiwan, Consumer, House purchase intentions, Index, SA","Taiwan, Consumer, House purchase intentions, Index, SA",None,line
-"Taiwan, Consumer, Expected prices, Index, 3mma","Taiwan, Consumer, Expected prices, Index, 3mma",None,line
-"Taiwan, Consumer, Household economic situation, Index, 3mma","Taiwan, Consumer, Household economic situation, Index, 3mma",None,line
-"Taiwan, Consumer, National economy situation, Index, 3mma","Taiwan, Consumer, National economy situation, Index, 3mma",None,line
-"Taiwan, Consumer, Employment, Index, 3mma","Taiwan, Consumer, Employment, Index, 3mma",None,line
-"Taiwan, Consumer, Stockmarket prospects, Index, 3mma","Taiwan, Consumer, Stockmarket prospects, Index, 3mma",None,line
-"Taiwan, Consumer, Durable goods purchase intentions, Index, 3mma","Taiwan, Consumer, Durable goods purchase intentions, Index, 3mma",None,line
-"Taiwan, Consumer, Health situation, Index, 3mma","Taiwan, Consumer, Health situation, Index, 3mma",None,line
-"Taiwan, Consumer, Health expectations, Index, 3mma","Taiwan, Consumer, Health expectations, Index, 3mma",None,line
-"Taiwan, Consumer, House purchase intentions, Index, 3mma","Taiwan, Consumer, House purchase intentions, Index, 3mma",None,line
-"Taiwan, Consumer, Expected prices, Index, 12M chg, 3mma","Taiwan, Consumer, Expected prices, Index, 12M chg, 3mma",None,line
-"Taiwan, Consumer, Household economic situation, Index, 12M chg, 3mma","Taiwan, Consumer, Household economic situation, Index, 12M chg, 3mma",None,line
-"Taiwan, Consumer, National economy situation, Index, 12M chg, 3mma","Taiwan, Consumer, National economy situation, Index, 12M chg, 3mma",None,line
-"Taiwan, Consumer, Employment, Index, 12M chg, 3mma","Taiwan, Consumer, Employment, Index, 12M chg, 3mma",None,line
-"Taiwan, Consumer, Stockmarket prospects, Index, 12M chg, 3mma","Taiwan, Consumer, Stockmarket prospects, Index, 12M chg, 3mma",None,line
-"Taiwan, Consumer, Durable goods purchase intentions, Index, 12M chg, 3mma","Taiwan, Consumer, Durable goods purchase intentions, Index, 12M chg, 3mma",None,line
-"Taiwan, Consumer, Health situation, Index, 12M chg, 3mma","Taiwan, Consumer, Health situation, Index, 12M chg, 3mma",None,line
-"Taiwan, Consumer, Health expectations, Index, 12M chg, 3mma","Taiwan, Consumer, Health expectations, Index, 12M chg, 3mma",None,line
-"Taiwan, Consumer, House purchase intentions, Index, 12M chg, 3mma","Taiwan, Consumer, House purchase intentions, Index, 12M chg, 3mma",None,line
-"Taiwan, Consumer, Expected prices, Index, SA, 3mma","Taiwan, Consumer, Expected prices, Index, SA, 3mma",None,line
-"Taiwan, Consumer, Household economic situation, Index, SA, 3mma","Taiwan, Consumer, Household economic situation, Index, SA, 3mma",None,line
-"Taiwan, Consumer, National economy situation, Index, SA, 3mma","Taiwan, Consumer, National economy situation, Index, SA, 3mma",None,line
-"Taiwan, Consumer, Employment, Index, SA, 3mma","Taiwan, Consumer, Employment, Index, SA, 3mma",None,line
-"Taiwan, Consumer, Stockmarket prospects, Index, SA, 3mma","Taiwan, Consumer, Stockmarket prospects, Index, SA, 3mma",None,line
-"Taiwan, Consumer, Durable goods purchase intentions, Index, SA, 3mma","Taiwan, Consumer, Durable goods purchase intentions, Index, SA, 3mma",None,line
-"Taiwan, Consumer, Health situation, Index, SA, 3mma","Taiwan, Consumer, Health situation, Index, SA, 3mma",None,line
-"Taiwan, Consumer, Health expectations, Index, SA, 3mma","Taiwan, Consumer, Health expectations, Index, SA, 3mma",None,line
-"Taiwan, Consumer, House purchase intentions, Index, SA, 3mma","Taiwan, Consumer, House purchase intentions, Index, SA, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Index","Taiwan, Consumer, NCU CCI, Index",None,line
+"Taiwan, Consumer, NCU CCI, Expected prices, Index","Taiwan, Consumer, NCU CCI, Expected prices, Index",None,line
+"Taiwan, Consumer, NCU CCI, Household economic situation, Index","Taiwan, Consumer, NCU CCI, Household economic situation, Index",None,line
+"Taiwan, Consumer, NCU CCI, National economy situation, Index","Taiwan, Consumer, NCU CCI, National economy situation, Index",None,line
+"Taiwan, Consumer, NCU CCI, Employment, Index","Taiwan, Consumer, NCU CCI, Employment, Index",None,line
+"Taiwan, Consumer, NCU CCI, Stockmarket prospects, Index","Taiwan, Consumer, NCU CCI, Stockmarket prospects, Index",None,line
+"Taiwan, Consumer, NCU CCI, Durable goods purchase intentions, Index","Taiwan, Consumer, NCU CCI, Durable goods purchase intentions, Index",None,line
+"Taiwan, Consumer, NCU CCI, Health situation, Index","Taiwan, Consumer, NCU CCI, Health situation, Index",None,line
+"Taiwan, Consumer, NCU CCI, Health expectations, Index","Taiwan, Consumer, NCU CCI, Health expectations, Index",None,line
+"Taiwan, Consumer, NCU CCI, House purchase intentions, Index","Taiwan, Consumer, NCU CCI, House purchase intentions, Index",None,line
+"Taiwan, Consumer, NCU CCI, Index, 12M chg","Taiwan, Consumer, NCU CCI, Index, 12M chg",None,line
+"Taiwan, Consumer, NCU CCI, Expected prices, Index, 12M chg","Taiwan, Consumer, NCU CCI, Expected prices, Index, 12M chg",None,line
+"Taiwan, Consumer, NCU CCI, Household economic situation, Index, 12M chg","Taiwan, Consumer, NCU CCI, Household economic situation, Index, 12M chg",None,line
+"Taiwan, Consumer, NCU CCI, National economy situation, Index, 12M chg","Taiwan, Consumer, NCU CCI, National economy situation, Index, 12M chg",None,line
+"Taiwan, Consumer, NCU CCI, Employment, Index, 12M chg","Taiwan, Consumer, NCU CCI, Employment, Index, 12M chg",None,line
+"Taiwan, Consumer, NCU CCI, Stockmarket prospects, Index, 12M chg","Taiwan, Consumer, NCU CCI, Stockmarket prospects, Index, 12M chg",None,line
+"Taiwan, Consumer, NCU CCI, Durable goods purchase intentions, Index, 12M chg","Taiwan, Consumer, NCU CCI, Durable goods purchase intentions, Index, 12M chg",None,line
+"Taiwan, Consumer, NCU CCI, Health situation, Index, 12M chg","Taiwan, Consumer, NCU CCI, Health situation, Index, 12M chg",None,line
+"Taiwan, Consumer, NCU CCI, Health expectations, Index, 12M chg","Taiwan, Consumer, NCU CCI, Health expectations, Index, 12M chg",None,line
+"Taiwan, Consumer, NCU CCI, House purchase intentions, Index, 12M chg","Taiwan, Consumer, NCU CCI, House purchase intentions, Index, 12M chg",None,line
+"Taiwan, Consumer, NCU CCI, Index, SA","Taiwan, Consumer, NCU CCI, Index, SA",None,line
+"Taiwan, Consumer, NCU CCI, Expected prices, Index, SA","Taiwan, Consumer, NCU CCI, Expected prices, Index, SA",None,line
+"Taiwan, Consumer, NCU CCI, Household economic situation, Index, SA","Taiwan, Consumer, NCU CCI, Household economic situation, Index, SA",None,line
+"Taiwan, Consumer, NCU CCI, National economy situation, Index, SA","Taiwan, Consumer, NCU CCI, National economy situation, Index, SA",None,line
+"Taiwan, Consumer, NCU CCI, Employment, Index, SA","Taiwan, Consumer, NCU CCI, Employment, Index, SA",None,line
+"Taiwan, Consumer, NCU CCI, Stockmarket prospects, Index, SA","Taiwan, Consumer, NCU CCI, Stockmarket prospects, Index, SA",None,line
+"Taiwan, Consumer, NCU CCI, Durable goods purchase intentions, Index, SA","Taiwan, Consumer, NCU CCI, Durable goods purchase intentions, Index, SA",None,line
+"Taiwan, Consumer, NCU CCI, Health situation, Index, SA","Taiwan, Consumer, NCU CCI, Health situation, Index, SA",None,line
+"Taiwan, Consumer, NCU CCI, Health expectations, Index, SA","Taiwan, Consumer, NCU CCI, Health expectations, Index, SA",None,line
+"Taiwan, Consumer, NCU CCI, House purchase intentions, Index, SA","Taiwan, Consumer, NCU CCI, House purchase intentions, Index, SA",None,line
+"Taiwan, Consumer, NCU CCI, Index, 3mma","Taiwan, Consumer, NCU CCI, Index, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Expected prices, Index, 3mma","Taiwan, Consumer, NCU CCI, Expected prices, Index, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Household economic situation, Index, 3mma","Taiwan, Consumer, NCU CCI, Household economic situation, Index, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, National economy situation, Index, 3mma","Taiwan, Consumer, NCU CCI, National economy situation, Index, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Employment, Index, 3mma","Taiwan, Consumer, NCU CCI, Employment, Index, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Stockmarket prospects, Index, 3mma","Taiwan, Consumer, NCU CCI, Stockmarket prospects, Index, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Durable goods purchase intentions, Index, 3mma","Taiwan, Consumer, NCU CCI, Durable goods purchase intentions, Index, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Health situation, Index, 3mma","Taiwan, Consumer, NCU CCI, Health situation, Index, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Health expectations, Index, 3mma","Taiwan, Consumer, NCU CCI, Health expectations, Index, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, House purchase intentions, Index, 3mma","Taiwan, Consumer, NCU CCI, House purchase intentions, Index, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Index, 12M chg, 3mma","Taiwan, Consumer, NCU CCI, Index, 12M chg, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Expected prices, Index, 12M chg, 3mma","Taiwan, Consumer, NCU CCI, Expected prices, Index, 12M chg, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Household economic situation, Index, 12M chg, 3mma","Taiwan, Consumer, NCU CCI, Household economic situation, Index, 12M chg, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, National economy situation, Index, 12M chg, 3mma","Taiwan, Consumer, NCU CCI, National economy situation, Index, 12M chg, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Employment, Index, 12M chg, 3mma","Taiwan, Consumer, NCU CCI, Employment, Index, 12M chg, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Stockmarket prospects, Index, 12M chg, 3mma","Taiwan, Consumer, NCU CCI, Stockmarket prospects, Index, 12M chg, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Durable goods purchase intentions, Index, 12M chg, 3mma","Taiwan, Consumer, NCU CCI, Durable goods purchase intentions, Index, 12M chg, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Health situation, Index, 12M chg, 3mma","Taiwan, Consumer, NCU CCI, Health situation, Index, 12M chg, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Health expectations, Index, 12M chg, 3mma","Taiwan, Consumer, NCU CCI, Health expectations, Index, 12M chg, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, House purchase intentions, Index, 12M chg, 3mma","Taiwan, Consumer, NCU CCI, House purchase intentions, Index, 12M chg, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Index, SA, 3mma","Taiwan, Consumer, NCU CCI, Index, SA, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Expected prices, Index, SA, 3mma","Taiwan, Consumer, NCU CCI, Expected prices, Index, SA, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Household economic situation, Index, SA, 3mma","Taiwan, Consumer, NCU CCI, Household economic situation, Index, SA, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, National economy situation, Index, SA, 3mma","Taiwan, Consumer, NCU CCI, National economy situation, Index, SA, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Employment, Index, SA, 3mma","Taiwan, Consumer, NCU CCI, Employment, Index, SA, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Stockmarket prospects, Index, SA, 3mma","Taiwan, Consumer, NCU CCI, Stockmarket prospects, Index, SA, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Durable goods purchase intentions, Index, SA, 3mma","Taiwan, Consumer, NCU CCI, Durable goods purchase intentions, Index, SA, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Health situation, Index, SA, 3mma","Taiwan, Consumer, NCU CCI, Health situation, Index, SA, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, Health expectations, Index, SA, 3mma","Taiwan, Consumer, NCU CCI, Health expectations, Index, SA, 3mma",None,line
+"Taiwan, Consumer, NCU CCI, House purchase intentions, Index, SA, 3mma","Taiwan, Consumer, NCU CCI, House purchase intentions, Index, SA, 3mma",None,line
 "Taiwan, Business, NDC PMI, Manufacturing","Taiwan, Business, NDC PMI, Manufacturing",None,line
 "Taiwan, Business, NDC PMI, Manufacturing, New orders","Taiwan, Business, NDC PMI, Manufacturing, New orders",None,line
 "Taiwan, Business, NDC PMI, Manufacturing, Production","Taiwan, Business, NDC PMI, Manufacturing, Production",None,line
