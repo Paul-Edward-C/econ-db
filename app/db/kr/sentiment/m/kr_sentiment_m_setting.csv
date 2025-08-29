@@ -1149,42 +1149,151 @@ name,display_name,data_type,chart_type
 "Korea, Consumer, BOK CSI, Spending Plan, LT average, 3mma","Korea, Consumer, BOK CSI, Spending Plan, LT average, 3mma",None,line
 "Korea, Consumer, BOK CSI, Employment, LT average, 3mma","Korea, Consumer, BOK CSI, Employment, LT average, 3mma",None,line
 "Korea, Consumer, BOK CSI, Income, LT average, 3mma","Korea, Consumer, BOK CSI, Income, LT average, 3mma",None,line
-"Korea, Business, BOK BSI, All Industries","Korea, Business, BOK BSI, All Industries",None,line
-"Korea, Business, BOK BSI, Domestic Enterprises","Korea, Business, BOK BSI, Domestic Enterprises",None,line
-"Korea, Business, BOK BSI, Exporting Enterprises","Korea, Business, BOK BSI, Exporting Enterprises",None,line
-"Korea, Business, BOK BSI, Heavy & Chemical Industries","Korea, Business, BOK BSI, Heavy & Chemical Industries",None,line
-"Korea, Business, BOK BSI, Large Enterprises","Korea, Business, BOK BSI, Large Enterprises",None,line
-"Korea, Business, BOK BSI, Light Industries","Korea, Business, BOK BSI, Light Industries",None,line
+"Korea, Business, BOK BSI, Composite, Business condition","Korea, Business, BOK BSI, Composite, Business condition",None,line
+"Korea, Business, BOK BSI, Composite","Korea, Business, BOK BSI, Composite",None,line
+"Korea, Business, BOK BSI, Composite, Financial situation","Korea, Business, BOK BSI, Composite, Financial situation",None,line
+"Korea, Business, BOK BSI, Composite, Human resources","Korea, Business, BOK BSI, Composite, Human resources",None,line
+"Korea, Business, BOK BSI, Composite, Profitability","Korea, Business, BOK BSI, Composite, Profitability",None,line
+"Korea, Business, BOK BSI, Composite, Sales","Korea, Business, BOK BSI, Composite, Sales",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Business condition","Korea, Business, BOK BSI, Domestic enterprises, Business condition",None,line
+"Korea, Business, BOK BSI, Domestic enterprises","Korea, Business, BOK BSI, Domestic enterprises",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Domestic sales","Korea, Business, BOK BSI, Domestic enterprises, Domestic sales",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Exports","Korea, Business, BOK BSI, Domestic enterprises, Exports",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Facility investments","Korea, Business, BOK BSI, Domestic enterprises, Facility investments",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Financial situation","Korea, Business, BOK BSI, Domestic enterprises, Financial situation",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Human resources","Korea, Business, BOK BSI, Domestic enterprises, Human resources",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Input price","Korea, Business, BOK BSI, Domestic enterprises, Input price",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Inventories","Korea, Business, BOK BSI, Domestic enterprises, Inventories",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, New orders","Korea, Business, BOK BSI, Domestic enterprises, New orders",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Operation ratio","Korea, Business, BOK BSI, Domestic enterprises, Operation ratio",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Output price","Korea, Business, BOK BSI, Domestic enterprises, Output price",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Production","Korea, Business, BOK BSI, Domestic enterprises, Production",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Production capacity","Korea, Business, BOK BSI, Domestic enterprises, Production capacity",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Profitability","Korea, Business, BOK BSI, Domestic enterprises, Profitability",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Sales","Korea, Business, BOK BSI, Domestic enterprises, Sales",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Business condition","Korea, Business, BOK BSI, Exporting enterprises, Business condition",None,line
+"Korea, Business, BOK BSI, Exporting enterprises","Korea, Business, BOK BSI, Exporting enterprises",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Domestic sales","Korea, Business, BOK BSI, Exporting enterprises, Domestic sales",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Exports","Korea, Business, BOK BSI, Exporting enterprises, Exports",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Facility investments","Korea, Business, BOK BSI, Exporting enterprises, Facility investments",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Financial situation","Korea, Business, BOK BSI, Exporting enterprises, Financial situation",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Human resources","Korea, Business, BOK BSI, Exporting enterprises, Human resources",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Input price","Korea, Business, BOK BSI, Exporting enterprises, Input price",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Inventories","Korea, Business, BOK BSI, Exporting enterprises, Inventories",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, New orders","Korea, Business, BOK BSI, Exporting enterprises, New orders",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Operation ratio","Korea, Business, BOK BSI, Exporting enterprises, Operation ratio",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Output price","Korea, Business, BOK BSI, Exporting enterprises, Output price",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Production","Korea, Business, BOK BSI, Exporting enterprises, Production",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Production capacity","Korea, Business, BOK BSI, Exporting enterprises, Production capacity",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Profitability","Korea, Business, BOK BSI, Exporting enterprises, Profitability",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Sales","Korea, Business, BOK BSI, Exporting enterprises, Sales",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Business condition","Korea, Business, BOK BSI, Heavy & chemical industries, Business condition",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries","Korea, Business, BOK BSI, Heavy & chemical industries",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Domestic sales","Korea, Business, BOK BSI, Heavy & chemical industries, Domestic sales",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Exports","Korea, Business, BOK BSI, Heavy & chemical industries, Exports",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Facility investments","Korea, Business, BOK BSI, Heavy & chemical industries, Facility investments",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Financial situation","Korea, Business, BOK BSI, Heavy & chemical industries, Financial situation",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Human resources","Korea, Business, BOK BSI, Heavy & chemical industries, Human resources",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Input price","Korea, Business, BOK BSI, Heavy & chemical industries, Input price",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Inventories","Korea, Business, BOK BSI, Heavy & chemical industries, Inventories",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, New orders","Korea, Business, BOK BSI, Heavy & chemical industries, New orders",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Operation ratio","Korea, Business, BOK BSI, Heavy & chemical industries, Operation ratio",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Output price","Korea, Business, BOK BSI, Heavy & chemical industries, Output price",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Production","Korea, Business, BOK BSI, Heavy & chemical industries, Production",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Production capacity","Korea, Business, BOK BSI, Heavy & chemical industries, Production capacity",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Profitability","Korea, Business, BOK BSI, Heavy & chemical industries, Profitability",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Sales","Korea, Business, BOK BSI, Heavy & chemical industries, Sales",None,line
+"Korea, Business, BOK BSI, Large enterprises, Business condition","Korea, Business, BOK BSI, Large enterprises, Business condition",None,line
+"Korea, Business, BOK BSI, Large enterprises","Korea, Business, BOK BSI, Large enterprises",None,line
+"Korea, Business, BOK BSI, Large enterprises, Domestic sales","Korea, Business, BOK BSI, Large enterprises, Domestic sales",None,line
+"Korea, Business, BOK BSI, Large enterprises, Exports","Korea, Business, BOK BSI, Large enterprises, Exports",None,line
+"Korea, Business, BOK BSI, Large enterprises, Facility investments","Korea, Business, BOK BSI, Large enterprises, Facility investments",None,line
+"Korea, Business, BOK BSI, Large enterprises, Financial situation","Korea, Business, BOK BSI, Large enterprises, Financial situation",None,line
+"Korea, Business, BOK BSI, Large enterprises, Human resources","Korea, Business, BOK BSI, Large enterprises, Human resources",None,line
+"Korea, Business, BOK BSI, Large enterprises, Input price","Korea, Business, BOK BSI, Large enterprises, Input price",None,line
+"Korea, Business, BOK BSI, Large enterprises, Inventories","Korea, Business, BOK BSI, Large enterprises, Inventories",None,line
+"Korea, Business, BOK BSI, Large enterprises, New orders","Korea, Business, BOK BSI, Large enterprises, New orders",None,line
+"Korea, Business, BOK BSI, Large enterprises, Operation ratio","Korea, Business, BOK BSI, Large enterprises, Operation ratio",None,line
+"Korea, Business, BOK BSI, Large enterprises, Output price","Korea, Business, BOK BSI, Large enterprises, Output price",None,line
+"Korea, Business, BOK BSI, Large enterprises, Production","Korea, Business, BOK BSI, Large enterprises, Production",None,line
+"Korea, Business, BOK BSI, Large enterprises, Production capacity","Korea, Business, BOK BSI, Large enterprises, Production capacity",None,line
+"Korea, Business, BOK BSI, Large enterprises, Profitability","Korea, Business, BOK BSI, Large enterprises, Profitability",None,line
+"Korea, Business, BOK BSI, Large enterprises, Sales","Korea, Business, BOK BSI, Large enterprises, Sales",None,line
+"Korea, Business, BOK BSI, Light industries, Business condition","Korea, Business, BOK BSI, Light industries, Business condition",None,line
+"Korea, Business, BOK BSI, Light industries","Korea, Business, BOK BSI, Light industries",None,line
+"Korea, Business, BOK BSI, Light industries, Domestic sales","Korea, Business, BOK BSI, Light industries, Domestic sales",None,line
+"Korea, Business, BOK BSI, Light industries, Exports","Korea, Business, BOK BSI, Light industries, Exports",None,line
+"Korea, Business, BOK BSI, Light industries, Facility investments","Korea, Business, BOK BSI, Light industries, Facility investments",None,line
+"Korea, Business, BOK BSI, Light industries, Financial situation","Korea, Business, BOK BSI, Light industries, Financial situation",None,line
+"Korea, Business, BOK BSI, Light industries, Human resources","Korea, Business, BOK BSI, Light industries, Human resources",None,line
+"Korea, Business, BOK BSI, Light industries, Input price","Korea, Business, BOK BSI, Light industries, Input price",None,line
+"Korea, Business, BOK BSI, Light industries, Inventories","Korea, Business, BOK BSI, Light industries, Inventories",None,line
+"Korea, Business, BOK BSI, Light industries, New orders","Korea, Business, BOK BSI, Light industries, New orders",None,line
+"Korea, Business, BOK BSI, Light industries, Operation ratio","Korea, Business, BOK BSI, Light industries, Operation ratio",None,line
+"Korea, Business, BOK BSI, Light industries, Output price","Korea, Business, BOK BSI, Light industries, Output price",None,line
+"Korea, Business, BOK BSI, Light industries, Production","Korea, Business, BOK BSI, Light industries, Production",None,line
+"Korea, Business, BOK BSI, Light industries, Production capacity","Korea, Business, BOK BSI, Light industries, Production capacity",None,line
+"Korea, Business, BOK BSI, Light industries, Profitability","Korea, Business, BOK BSI, Light industries, Profitability",None,line
+"Korea, Business, BOK BSI, Light industries, Sales","Korea, Business, BOK BSI, Light industries, Sales",None,line
+"Korea, Business, BOK BSI, Manufacturing, Business condition","Korea, Business, BOK BSI, Manufacturing, Business condition",None,line
 "Korea, Business, BOK BSI, Manufacturing","Korea, Business, BOK BSI, Manufacturing",None,line
+"Korea, Business, BOK BSI, Manufacturing(s.a)","Korea, Business, BOK BSI, Manufacturing(s.a)",None,line
+"Korea, Business, BOK BSI, Manufacturing, Domestic sales","Korea, Business, BOK BSI, Manufacturing, Domestic sales",None,line
+"Korea, Business, BOK BSI, Manufacturing, Exports","Korea, Business, BOK BSI, Manufacturing, Exports",None,line
+"Korea, Business, BOK BSI, Manufacturing, Facility investments","Korea, Business, BOK BSI, Manufacturing, Facility investments",None,line
+"Korea, Business, BOK BSI, Manufacturing, Financial situation","Korea, Business, BOK BSI, Manufacturing, Financial situation",None,line
+"Korea, Business, BOK BSI, Manufacturing, Human resources","Korea, Business, BOK BSI, Manufacturing, Human resources",None,line
+"Korea, Business, BOK BSI, Manufacturing, Input price","Korea, Business, BOK BSI, Manufacturing, Input price",None,line
+"Korea, Business, BOK BSI, Manufacturing, Inventories","Korea, Business, BOK BSI, Manufacturing, Inventories",None,line
+"Korea, Business, BOK BSI, Manufacturing, New orders","Korea, Business, BOK BSI, Manufacturing, New orders",None,line
+"Korea, Business, BOK BSI, Manufacturing, Operation ratio","Korea, Business, BOK BSI, Manufacturing, Operation ratio",None,line
+"Korea, Business, BOK BSI, Manufacturing, Output price","Korea, Business, BOK BSI, Manufacturing, Output price",None,line
+"Korea, Business, BOK BSI, Manufacturing, Production","Korea, Business, BOK BSI, Manufacturing, Production",None,line
+"Korea, Business, BOK BSI, Manufacturing, Production capacity","Korea, Business, BOK BSI, Manufacturing, Production capacity",None,line
+"Korea, Business, BOK BSI, Manufacturing, Profitability","Korea, Business, BOK BSI, Manufacturing, Profitability",None,line
+"Korea, Business, BOK BSI, Manufacturing, Sales","Korea, Business, BOK BSI, Manufacturing, Sales",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Business condition","Korea, Business, BOK BSI, Non-manufacturing, Business condition",None,line
 "Korea, Business, BOK BSI, Non-manufacturing","Korea, Business, BOK BSI, Non-manufacturing",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Financial situation","Korea, Business, BOK BSI, Non-manufacturing, Financial situation",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Human resources","Korea, Business, BOK BSI, Non-manufacturing, Human resources",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Profitability","Korea, Business, BOK BSI, Non-manufacturing, Profitability",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Sales","Korea, Business, BOK BSI, Non-manufacturing, Sales",None,line
+"Korea, Business, BOK BSI, Services, Business condition","Korea, Business, BOK BSI, Services, Business condition",None,line
 "Korea, Business, BOK BSI, Services","Korea, Business, BOK BSI, Services",None,line
-"Korea, Business, BOK BSI, Small & Medium Enterprises","Korea, Business, BOK BSI, Small & Medium Enterprises",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, All Industries","Korea, Business, BOK BSI, Composite Business Sentiment Index, All Industries",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Domestic Enterprises","Korea, Business, BOK BSI, Composite Business Sentiment Index, Domestic Enterprises",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Exporting Enterprises","Korea, Business, BOK BSI, Composite Business Sentiment Index, Exporting Enterprises",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Heavy & Chemical Industries","Korea, Business, BOK BSI, Composite Business Sentiment Index, Heavy & Chemical Industries",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Large Enterprises","Korea, Business, BOK BSI, Composite Business Sentiment Index, Large Enterprises",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Light Industries","Korea, Business, BOK BSI, Composite Business Sentiment Index, Light Industries",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Manufacturing","Korea, Business, BOK BSI, Composite Business Sentiment Index, Manufacturing",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing","Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Services","Korea, Business, BOK BSI, Composite Business Sentiment Index, Services",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Small & Medium Enterprises","Korea, Business, BOK BSI, Composite Business Sentiment Index, Small & Medium Enterprises",None,line
-"Korea, Business, BOK BSI, Manufacturing SA","Korea, Business, BOK BSI, Manufacturing SA",None,line
-"Korea, Business, BOK BSI, Non-manufacturing SA","Korea, Business, BOK BSI, Non-manufacturing SA",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Manufacturing SA","Korea, Business, BOK BSI, Composite Business Sentiment Index, Manufacturing SA",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing SA","Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing SA",None,line
-"Korea, Business, BOK BSI, All Industries, SA","Korea, Business, BOK BSI, All Industries, SA",None,line
-"Korea, Business, BOK BSI, Exporting Enterprises, SA","Korea, Business, BOK BSI, Exporting Enterprises, SA",None,line
-"Korea, Business, BOK BSI, Domestic Enterprises, SA","Korea, Business, BOK BSI, Domestic Enterprises, SA",None,line
-"Korea, Business, BOK BSI, Large Enterprises, SA","Korea, Business, BOK BSI, Large Enterprises, SA",None,line
-"Korea, Business, BOK BSI, Small & Medium Enterprises, SA","Korea, Business, BOK BSI, Small & Medium Enterprises, SA",None,line
+"Korea, Business, BOK BSI, Services, Financial situation","Korea, Business, BOK BSI, Services, Financial situation",None,line
+"Korea, Business, BOK BSI, Services, Human resources","Korea, Business, BOK BSI, Services, Human resources",None,line
+"Korea, Business, BOK BSI, Services, Profitability","Korea, Business, BOK BSI, Services, Profitability",None,line
+"Korea, Business, BOK BSI, Services, Sales","Korea, Business, BOK BSI, Services, Sales",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Business condition","Korea, Business, BOK BSI, Small & medium enterprises, Business condition",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises","Korea, Business, BOK BSI, Small & medium enterprises",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Domestic sales","Korea, Business, BOK BSI, Small & medium enterprises, Domestic sales",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Exports","Korea, Business, BOK BSI, Small & medium enterprises, Exports",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Facility investments","Korea, Business, BOK BSI, Small & medium enterprises, Facility investments",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Financial situation","Korea, Business, BOK BSI, Small & medium enterprises, Financial situation",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Human resources","Korea, Business, BOK BSI, Small & medium enterprises, Human resources",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Input price","Korea, Business, BOK BSI, Small & medium enterprises, Input price",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Inventories","Korea, Business, BOK BSI, Small & medium enterprises, Inventories",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, New orders","Korea, Business, BOK BSI, Small & medium enterprises, New orders",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Operation ratio","Korea, Business, BOK BSI, Small & medium enterprises, Operation ratio",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Output price","Korea, Business, BOK BSI, Small & medium enterprises, Output price",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Production","Korea, Business, BOK BSI, Small & medium enterprises, Production",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Production capacity","Korea, Business, BOK BSI, Small & medium enterprises, Production capacity",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Profitability","Korea, Business, BOK BSI, Small & medium enterprises, Profitability",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Sales","Korea, Business, BOK BSI, Small & medium enterprises, Sales",None,line
+"Korea, Business, BOK BSI, Composite, Business condition, SA","Korea, Business, BOK BSI, Composite, Business condition, SA",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Business condition, SA","Korea, Business, BOK BSI, Exporting enterprises, Business condition, SA",None,line
+"Korea, Business, BOK BSI, Large enterprises, Business condition, SA","Korea, Business, BOK BSI, Large enterprises, Business condition, SA",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Business condition, SA","Korea, Business, BOK BSI, Small & medium enterprises, Business condition, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, Business condition, SA","Korea, Business, BOK BSI, Manufacturing, Business condition, SA",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Business condition, SA","Korea, Business, BOK BSI, Non-manufacturing, Business condition, SA",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Business condition, SA","Korea, Business, BOK BSI, Domestic enterprises, Business condition, SA",None,line
+"Korea, Business, BOK BSI, Composite, SA","Korea, Business, BOK BSI, Composite, SA",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, SA","Korea, Business, BOK BSI, Exporting enterprises, SA",None,line
+"Korea, Business, BOK BSI, Large enterprises, SA","Korea, Business, BOK BSI, Large enterprises, SA",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, SA","Korea, Business, BOK BSI, Small & medium enterprises, SA",None,line
 "Korea, Business, BOK BSI, Manufacturing, SA","Korea, Business, BOK BSI, Manufacturing, SA",None,line
 "Korea, Business, BOK BSI, Non-manufacturing, SA","Korea, Business, BOK BSI, Non-manufacturing, SA",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, All Industries, SA","Korea, Business, BOK BSI, Composite Business Sentiment Index, All Industries, SA",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Domestic Enterprises, SA","Korea, Business, BOK BSI, Composite Business Sentiment Index, Domestic Enterprises, SA",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Exporting Enterprises, SA","Korea, Business, BOK BSI, Composite Business Sentiment Index, Exporting Enterprises, SA",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing, SA","Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing, SA",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Services, SA","Korea, Business, BOK BSI, Composite Business Sentiment Index, Services, SA",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, SA","Korea, Business, BOK BSI, Domestic enterprises, SA",None,line
 "Korea, Business, BOK BSI, Industry DI, SA","Korea, Business, BOK BSI, Industry DI, SA",None,line
 "Korea, Business, BOK BSI, Industry DI","Korea, Business, BOK BSI, Industry DI",None,line
 "Korea, Business, BOK BSI, Mfg DI, SA","Korea, Business, BOK BSI, Mfg DI, SA",None,line
@@ -1248,103 +1357,190 @@ name,display_name,data_type,chart_type
 "Korea, Business, BOK BSI, Utilities, SA","Korea, Business, BOK BSI, Utilities, SA",None,line
 "Korea, Business, BOK BSI, Wholesale & retail, SA","Korea, Business, BOK BSI, Wholesale & retail, SA",None,line
 "Korea, Business, BOK BSI, Wood products, SA","Korea, Business, BOK BSI, Wood products, SA",None,line
-"Korea, Business, BOK BSI, Domestic Sales Growth, manufacturing","Korea, Business, BOK BSI, Domestic Sales Growth, manufacturing",None,line
-"Korea, Business, BOK BSI, Exports Growth, manufacturing","Korea, Business, BOK BSI, Exports Growth, manufacturing",None,line
-"Korea, Business, BOK BSI, Facility Investments, manufacturing","Korea, Business, BOK BSI, Facility Investments, manufacturing",None,line
-"Korea, Business, BOK BSI, Financial Situation, all-industry","Korea, Business, BOK BSI, Financial Situation, all-industry",None,line
-"Korea, Business, BOK BSI, Financial Situation, manufacturing","Korea, Business, BOK BSI, Financial Situation, manufacturing",None,line
-"Korea, Business, BOK BSI, Financial Situation, non-mfg","Korea, Business, BOK BSI, Financial Situation, non-mfg",None,line
-"Korea, Business, BOK BSI, Human Resources, all-industry","Korea, Business, BOK BSI, Human Resources, all-industry",None,line
-"Korea, Business, BOK BSI, Human Resources, manufacturing","Korea, Business, BOK BSI, Human Resources, manufacturing",None,line
-"Korea, Business, BOK BSI, Human Resources, non-mfg","Korea, Business, BOK BSI, Human Resources, non-mfg",None,line
-"Korea, Business, BOK BSI, Inventories, manufacturing","Korea, Business, BOK BSI, Inventories, manufacturing",None,line
-"Korea, Business, BOK BSI, New Orders Growth, manufacturing","Korea, Business, BOK BSI, New Orders Growth, manufacturing",None,line
-"Korea, Business, BOK BSI, Operation Ratio, manufacturing","Korea, Business, BOK BSI, Operation Ratio, manufacturing",None,line
-"Korea, Business, BOK BSI, Production Capacity, manufacturing","Korea, Business, BOK BSI, Production Capacity, manufacturing",None,line
-"Korea, Business, BOK BSI, Production Growth, manufacturing","Korea, Business, BOK BSI, Production Growth, manufacturing",None,line
-"Korea, Business, BOK BSI, Profitability, all-industry","Korea, Business, BOK BSI, Profitability, all-industry",None,line
-"Korea, Business, BOK BSI, Profitability, manufacturing","Korea, Business, BOK BSI, Profitability, manufacturing",None,line
-"Korea, Business, BOK BSI, Profitability, non-mfg","Korea, Business, BOK BSI, Profitability, non-mfg",None,line
-"Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing","Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing",None,line
-"Korea, Business, BOK BSI, Sales Growth, all-industry","Korea, Business, BOK BSI, Sales Growth, all-industry",None,line
-"Korea, Business, BOK BSI, Sales Growth, manufacturing","Korea, Business, BOK BSI, Sales Growth, manufacturing",None,line
-"Korea, Business, BOK BSI, Sales Growth, non-mfg","Korea, Business, BOK BSI, Sales Growth, non-mfg",None,line
-"Korea, Business, BOK BSI, Sales Price, manufacturing","Korea, Business, BOK BSI, Sales Price, manufacturing",None,line
-"Korea, Business, BOK BSI, Domestic Sales Growth, manufacturing, SA","Korea, Business, BOK BSI, Domestic Sales Growth, manufacturing, SA",None,line
-"Korea, Business, BOK BSI, Exports Growth, manufacturing, SA","Korea, Business, BOK BSI, Exports Growth, manufacturing, SA",None,line
-"Korea, Business, BOK BSI, Facility Investments, manufacturing, SA","Korea, Business, BOK BSI, Facility Investments, manufacturing, SA",None,line
-"Korea, Business, BOK BSI, Financial Situation, all-industry, SA","Korea, Business, BOK BSI, Financial Situation, all-industry, SA",None,line
-"Korea, Business, BOK BSI, Financial Situation, manufacturing, SA","Korea, Business, BOK BSI, Financial Situation, manufacturing, SA",None,line
-"Korea, Business, BOK BSI, Financial Situation, non-mfg, SA","Korea, Business, BOK BSI, Financial Situation, non-mfg, SA",None,line
-"Korea, Business, BOK BSI, Human Resources, all-industry, SA","Korea, Business, BOK BSI, Human Resources, all-industry, SA",None,line
-"Korea, Business, BOK BSI, Human Resources, manufacturing, SA","Korea, Business, BOK BSI, Human Resources, manufacturing, SA",None,line
-"Korea, Business, BOK BSI, Human Resources, non-mfg, SA","Korea, Business, BOK BSI, Human Resources, non-mfg, SA",None,line
-"Korea, Business, BOK BSI, Inventories, manufacturing, SA","Korea, Business, BOK BSI, Inventories, manufacturing, SA",None,line
-"Korea, Business, BOK BSI, New Orders Growth, manufacturing, SA","Korea, Business, BOK BSI, New Orders Growth, manufacturing, SA",None,line
-"Korea, Business, BOK BSI, Operation Ratio, manufacturing, SA","Korea, Business, BOK BSI, Operation Ratio, manufacturing, SA",None,line
-"Korea, Business, BOK BSI, Production Capacity, manufacturing, SA","Korea, Business, BOK BSI, Production Capacity, manufacturing, SA",None,line
-"Korea, Business, BOK BSI, Production Growth, manufacturing, SA","Korea, Business, BOK BSI, Production Growth, manufacturing, SA",None,line
-"Korea, Business, BOK BSI, Profitability, all-industry, SA","Korea, Business, BOK BSI, Profitability, all-industry, SA",None,line
-"Korea, Business, BOK BSI, Profitability, manufacturing, SA","Korea, Business, BOK BSI, Profitability, manufacturing, SA",None,line
-"Korea, Business, BOK BSI, Profitability, non-mfg, SA","Korea, Business, BOK BSI, Profitability, non-mfg, SA",None,line
-"Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, SA","Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, SA",None,line
-"Korea, Business, BOK BSI, Sales Growth, all-industry, SA","Korea, Business, BOK BSI, Sales Growth, all-industry, SA",None,line
-"Korea, Business, BOK BSI, Sales Growth, manufacturing, SA","Korea, Business, BOK BSI, Sales Growth, manufacturing, SA",None,line
-"Korea, Business, BOK BSI, Sales Growth, non-mfg, SA","Korea, Business, BOK BSI, Sales Growth, non-mfg, SA",None,line
-"Korea, Business, BOK BSI, Sales Price, manufacturing, SA","Korea, Business, BOK BSI, Sales Price, manufacturing, SA",None,line
+"Korea, Business, BOK BSI, Composite, Financial situation, SA","Korea, Business, BOK BSI, Composite, Financial situation, SA",None,line
+"Korea, Business, BOK BSI, Composite, Human resources, SA","Korea, Business, BOK BSI, Composite, Human resources, SA",None,line
+"Korea, Business, BOK BSI, Composite, Profitability, SA","Korea, Business, BOK BSI, Composite, Profitability, SA",None,line
+"Korea, Business, BOK BSI, Composite, Sales, SA","Korea, Business, BOK BSI, Composite, Sales, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, Domestic sales, SA","Korea, Business, BOK BSI, Manufacturing, Domestic sales, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, Exports, SA","Korea, Business, BOK BSI, Manufacturing, Exports, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, Facility investments, SA","Korea, Business, BOK BSI, Manufacturing, Facility investments, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, Financial situation, SA","Korea, Business, BOK BSI, Manufacturing, Financial situation, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, Human resources, SA","Korea, Business, BOK BSI, Manufacturing, Human resources, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, Input price, SA","Korea, Business, BOK BSI, Manufacturing, Input price, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, Inventories, SA","Korea, Business, BOK BSI, Manufacturing, Inventories, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, New orders, SA","Korea, Business, BOK BSI, Manufacturing, New orders, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, Operation ratio, SA","Korea, Business, BOK BSI, Manufacturing, Operation ratio, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, Output price, SA","Korea, Business, BOK BSI, Manufacturing, Output price, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, Production, SA","Korea, Business, BOK BSI, Manufacturing, Production, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, Production capacity, SA","Korea, Business, BOK BSI, Manufacturing, Production capacity, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, Profitability, SA","Korea, Business, BOK BSI, Manufacturing, Profitability, SA",None,line
+"Korea, Business, BOK BSI, Manufacturing, Sales, SA","Korea, Business, BOK BSI, Manufacturing, Sales, SA",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Financial situation, SA","Korea, Business, BOK BSI, Non-manufacturing, Financial situation, SA",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Human resources, SA","Korea, Business, BOK BSI, Non-manufacturing, Human resources, SA",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Profitability, SA","Korea, Business, BOK BSI, Non-manufacturing, Profitability, SA",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Sales, SA","Korea, Business, BOK BSI, Non-manufacturing, Sales, SA",None,line
 "Korea, Business, BOK BSI, Business, S&P PMI, Manufacturing","Korea, Business, BOK BSI, Business, S&P PMI, Manufacturing",None,line
-"Korea, Business, BOK BSI, Average prices","Korea, Business, BOK BSI, Average prices",None,line
-"Korea, Business, BOK BSI, Price momentum","Korea, Business, BOK BSI, Price momentum",None,line
-"Korea, Business, BOK BSI, Manufacturing, nominal","Korea, Business, BOK BSI, Manufacturing, nominal",None,line
-"Korea, Business, BOK BSI, All Industries, SA, LT average","Korea, Business, BOK BSI, All Industries, SA, LT average",None,line
-"Korea, Business, BOK BSI, Domestic Enterprises, SA, LT average","Korea, Business, BOK BSI, Domestic Enterprises, SA, LT average",None,line
-"Korea, Business, BOK BSI, Exporting Enterprises, SA, LT average","Korea, Business, BOK BSI, Exporting Enterprises, SA, LT average",None,line
-"Korea, Business, BOK BSI, Manufacturing, SA, LT average","Korea, Business, BOK BSI, Manufacturing, SA, LT average",None,line
-"Korea, Business, BOK BSI, Non-manufacturing, SA, LT average","Korea, Business, BOK BSI, Non-manufacturing, SA, LT average",None,line
+"Korea, Business, BOK BSI, Manufacturing, Prices","Korea, Business, BOK BSI, Manufacturing, Prices",None,line
+"Korea, Business, BOK BSI, Manufacturing, Price momentum","Korea, Business, BOK BSI, Manufacturing, Price momentum",None,line
+"Korea, Business, BOK BSI, Manufacturing, Nominal","Korea, Business, BOK BSI, Manufacturing, Nominal",None,line
+"Korea, Business, BOK BSI, Composite, Business condition, SA, LT average","Korea, Business, BOK BSI, Composite, Business condition, SA, LT average",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Business condition, SA, LT average","Korea, Business, BOK BSI, Domestic enterprises, Business condition, SA, LT average",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Business condition, SA, LT average","Korea, Business, BOK BSI, Exporting enterprises, Business condition, SA, LT average",None,line
+"Korea, Business, BOK BSI, Manufacturing, Business condition, SA, LT average","Korea, Business, BOK BSI, Manufacturing, Business condition, SA, LT average",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Business condition, SA, LT average","Korea, Business, BOK BSI, Non-manufacturing, Business condition, SA, LT average",None,line
 "Korea, Business, BOK BSI, Business, S&P PMI, Manufacturing, LT average","Korea, Business, BOK BSI, Business, S&P PMI, Manufacturing, LT average",None,line
-"Korea, Business, BOK BSI, Large Enterprises, SA, LT average","Korea, Business, BOK BSI, Large Enterprises, SA, LT average",None,line
-"Korea, Business, BOK BSI, Small & Medium Enterprises, SA, LT average","Korea, Business, BOK BSI, Small & Medium Enterprises, SA, LT average",None,line
-"Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, LT average","Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, LT average",None,line
-"Korea, Business, BOK BSI, Sales Price, manufacturing, LT average","Korea, Business, BOK BSI, Sales Price, manufacturing, LT average",None,line
+"Korea, Business, BOK BSI, Large enterprises, Business condition, SA, LT average","Korea, Business, BOK BSI, Large enterprises, Business condition, SA, LT average",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Business condition, SA, LT average","Korea, Business, BOK BSI, Small & medium enterprises, Business condition, SA, LT average",None,line
+"Korea, Business, BOK BSI, Manufacturing, Input price, LT average","Korea, Business, BOK BSI, Manufacturing, Input price, LT average",None,line
+"Korea, Business, BOK BSI, Manufacturing, Output price, LT average","Korea, Business, BOK BSI, Manufacturing, Output price, LT average",None,line
 "Korea, Economy, BOK ESI, Cyclical component","Korea, Economy, BOK ESI, Cyclical component",None,line
 "Korea, Economy, BOK ESI","Korea, Economy, BOK ESI",None,line
 "Korea, Business, S&P PMI, Manufacturing","Korea, Business, S&P PMI, Manufacturing",None,line
-"Korea, Business, BOK BSI, All Industries, 3mma","Korea, Business, BOK BSI, All Industries, 3mma",None,line
-"Korea, Business, BOK BSI, Domestic Enterprises, 3mma","Korea, Business, BOK BSI, Domestic Enterprises, 3mma",None,line
-"Korea, Business, BOK BSI, Exporting Enterprises, 3mma","Korea, Business, BOK BSI, Exporting Enterprises, 3mma",None,line
-"Korea, Business, BOK BSI, Heavy & Chemical Industries, 3mma","Korea, Business, BOK BSI, Heavy & Chemical Industries, 3mma",None,line
-"Korea, Business, BOK BSI, Large Enterprises, 3mma","Korea, Business, BOK BSI, Large Enterprises, 3mma",None,line
-"Korea, Business, BOK BSI, Light Industries, 3mma","Korea, Business, BOK BSI, Light Industries, 3mma",None,line
+"Korea, Business, BOK BSI, Composite, Business condition, 3mma","Korea, Business, BOK BSI, Composite, Business condition, 3mma",None,line
+"Korea, Business, BOK BSI, Composite, 3mma","Korea, Business, BOK BSI, Composite, 3mma",None,line
+"Korea, Business, BOK BSI, Composite, Financial situation, 3mma","Korea, Business, BOK BSI, Composite, Financial situation, 3mma",None,line
+"Korea, Business, BOK BSI, Composite, Human resources, 3mma","Korea, Business, BOK BSI, Composite, Human resources, 3mma",None,line
+"Korea, Business, BOK BSI, Composite, Profitability, 3mma","Korea, Business, BOK BSI, Composite, Profitability, 3mma",None,line
+"Korea, Business, BOK BSI, Composite, Sales, 3mma","Korea, Business, BOK BSI, Composite, Sales, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Business condition, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Business condition, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, 3mma","Korea, Business, BOK BSI, Domestic enterprises, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Domestic sales, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Domestic sales, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Exports, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Exports, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Facility investments, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Facility investments, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Financial situation, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Financial situation, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Human resources, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Human resources, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Input price, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Input price, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Inventories, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Inventories, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, New orders, 3mma","Korea, Business, BOK BSI, Domestic enterprises, New orders, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Operation ratio, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Operation ratio, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Output price, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Output price, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Production, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Production, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Production capacity, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Production capacity, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Profitability, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Profitability, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Sales, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Sales, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Business condition, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Business condition, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, 3mma","Korea, Business, BOK BSI, Exporting enterprises, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Domestic sales, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Domestic sales, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Exports, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Exports, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Facility investments, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Facility investments, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Financial situation, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Financial situation, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Human resources, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Human resources, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Input price, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Input price, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Inventories, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Inventories, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, New orders, 3mma","Korea, Business, BOK BSI, Exporting enterprises, New orders, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Operation ratio, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Operation ratio, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Output price, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Output price, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Production, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Production, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Production capacity, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Production capacity, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Profitability, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Profitability, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Sales, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Sales, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Business condition, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, Business condition, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Domestic sales, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, Domestic sales, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Exports, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, Exports, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Facility investments, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, Facility investments, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Financial situation, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, Financial situation, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Human resources, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, Human resources, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Input price, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, Input price, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Inventories, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, Inventories, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, New orders, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, New orders, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Operation ratio, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, Operation ratio, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Output price, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, Output price, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Production, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, Production, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Production capacity, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, Production capacity, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Profitability, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, Profitability, 3mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Sales, 3mma","Korea, Business, BOK BSI, Heavy & chemical industries, Sales, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Business condition, 3mma","Korea, Business, BOK BSI, Large enterprises, Business condition, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, 3mma","Korea, Business, BOK BSI, Large enterprises, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Domestic sales, 3mma","Korea, Business, BOK BSI, Large enterprises, Domestic sales, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Exports, 3mma","Korea, Business, BOK BSI, Large enterprises, Exports, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Facility investments, 3mma","Korea, Business, BOK BSI, Large enterprises, Facility investments, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Financial situation, 3mma","Korea, Business, BOK BSI, Large enterprises, Financial situation, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Human resources, 3mma","Korea, Business, BOK BSI, Large enterprises, Human resources, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Input price, 3mma","Korea, Business, BOK BSI, Large enterprises, Input price, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Inventories, 3mma","Korea, Business, BOK BSI, Large enterprises, Inventories, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, New orders, 3mma","Korea, Business, BOK BSI, Large enterprises, New orders, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Operation ratio, 3mma","Korea, Business, BOK BSI, Large enterprises, Operation ratio, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Output price, 3mma","Korea, Business, BOK BSI, Large enterprises, Output price, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Production, 3mma","Korea, Business, BOK BSI, Large enterprises, Production, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Production capacity, 3mma","Korea, Business, BOK BSI, Large enterprises, Production capacity, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Profitability, 3mma","Korea, Business, BOK BSI, Large enterprises, Profitability, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Sales, 3mma","Korea, Business, BOK BSI, Large enterprises, Sales, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, Business condition, 3mma","Korea, Business, BOK BSI, Light industries, Business condition, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, 3mma","Korea, Business, BOK BSI, Light industries, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, Domestic sales, 3mma","Korea, Business, BOK BSI, Light industries, Domestic sales, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, Exports, 3mma","Korea, Business, BOK BSI, Light industries, Exports, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, Facility investments, 3mma","Korea, Business, BOK BSI, Light industries, Facility investments, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, Financial situation, 3mma","Korea, Business, BOK BSI, Light industries, Financial situation, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, Human resources, 3mma","Korea, Business, BOK BSI, Light industries, Human resources, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, Input price, 3mma","Korea, Business, BOK BSI, Light industries, Input price, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, Inventories, 3mma","Korea, Business, BOK BSI, Light industries, Inventories, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, New orders, 3mma","Korea, Business, BOK BSI, Light industries, New orders, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, Operation ratio, 3mma","Korea, Business, BOK BSI, Light industries, Operation ratio, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, Output price, 3mma","Korea, Business, BOK BSI, Light industries, Output price, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, Production, 3mma","Korea, Business, BOK BSI, Light industries, Production, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, Production capacity, 3mma","Korea, Business, BOK BSI, Light industries, Production capacity, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, Profitability, 3mma","Korea, Business, BOK BSI, Light industries, Profitability, 3mma",None,line
+"Korea, Business, BOK BSI, Light industries, Sales, 3mma","Korea, Business, BOK BSI, Light industries, Sales, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Business condition, 3mma","Korea, Business, BOK BSI, Manufacturing, Business condition, 3mma",None,line
 "Korea, Business, BOK BSI, Manufacturing, 3mma","Korea, Business, BOK BSI, Manufacturing, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing(s.a), 3mma","Korea, Business, BOK BSI, Manufacturing(s.a), 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Domestic sales, 3mma","Korea, Business, BOK BSI, Manufacturing, Domestic sales, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Exports, 3mma","Korea, Business, BOK BSI, Manufacturing, Exports, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Facility investments, 3mma","Korea, Business, BOK BSI, Manufacturing, Facility investments, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Financial situation, 3mma","Korea, Business, BOK BSI, Manufacturing, Financial situation, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Human resources, 3mma","Korea, Business, BOK BSI, Manufacturing, Human resources, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Input price, 3mma","Korea, Business, BOK BSI, Manufacturing, Input price, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Inventories, 3mma","Korea, Business, BOK BSI, Manufacturing, Inventories, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, New orders, 3mma","Korea, Business, BOK BSI, Manufacturing, New orders, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Operation ratio, 3mma","Korea, Business, BOK BSI, Manufacturing, Operation ratio, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Output price, 3mma","Korea, Business, BOK BSI, Manufacturing, Output price, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Production, 3mma","Korea, Business, BOK BSI, Manufacturing, Production, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Production capacity, 3mma","Korea, Business, BOK BSI, Manufacturing, Production capacity, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Profitability, 3mma","Korea, Business, BOK BSI, Manufacturing, Profitability, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Sales, 3mma","Korea, Business, BOK BSI, Manufacturing, Sales, 3mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Business condition, 3mma","Korea, Business, BOK BSI, Non-manufacturing, Business condition, 3mma",None,line
 "Korea, Business, BOK BSI, Non-manufacturing, 3mma","Korea, Business, BOK BSI, Non-manufacturing, 3mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Financial situation, 3mma","Korea, Business, BOK BSI, Non-manufacturing, Financial situation, 3mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Human resources, 3mma","Korea, Business, BOK BSI, Non-manufacturing, Human resources, 3mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Profitability, 3mma","Korea, Business, BOK BSI, Non-manufacturing, Profitability, 3mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Sales, 3mma","Korea, Business, BOK BSI, Non-manufacturing, Sales, 3mma",None,line
+"Korea, Business, BOK BSI, Services, Business condition, 3mma","Korea, Business, BOK BSI, Services, Business condition, 3mma",None,line
 "Korea, Business, BOK BSI, Services, 3mma","Korea, Business, BOK BSI, Services, 3mma",None,line
-"Korea, Business, BOK BSI, Small & Medium Enterprises, 3mma","Korea, Business, BOK BSI, Small & Medium Enterprises, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, All Industries, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, All Industries, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Domestic Enterprises, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Domestic Enterprises, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Exporting Enterprises, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Exporting Enterprises, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Heavy & Chemical Industries, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Heavy & Chemical Industries, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Large Enterprises, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Large Enterprises, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Light Industries, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Light Industries, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Manufacturing, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Services, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Services, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Small & Medium Enterprises, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Small & Medium Enterprises, 3mma",None,line
-"Korea, Business, BOK BSI, Manufacturing SA, 3mma","Korea, Business, BOK BSI, Manufacturing SA, 3mma",None,line
-"Korea, Business, BOK BSI, Non-manufacturing SA, 3mma","Korea, Business, BOK BSI, Non-manufacturing SA, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Manufacturing SA, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Manufacturing SA, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing SA, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing SA, 3mma",None,line
-"Korea, Business, BOK BSI, All Industries, SA, 3mma","Korea, Business, BOK BSI, All Industries, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Exporting Enterprises, SA, 3mma","Korea, Business, BOK BSI, Exporting Enterprises, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Domestic Enterprises, SA, 3mma","Korea, Business, BOK BSI, Domestic Enterprises, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Large Enterprises, SA, 3mma","Korea, Business, BOK BSI, Large Enterprises, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Small & Medium Enterprises, SA, 3mma","Korea, Business, BOK BSI, Small & Medium Enterprises, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Services, Financial situation, 3mma","Korea, Business, BOK BSI, Services, Financial situation, 3mma",None,line
+"Korea, Business, BOK BSI, Services, Human resources, 3mma","Korea, Business, BOK BSI, Services, Human resources, 3mma",None,line
+"Korea, Business, BOK BSI, Services, Profitability, 3mma","Korea, Business, BOK BSI, Services, Profitability, 3mma",None,line
+"Korea, Business, BOK BSI, Services, Sales, 3mma","Korea, Business, BOK BSI, Services, Sales, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Business condition, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Business condition, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Domestic sales, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Domestic sales, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Exports, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Exports, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Facility investments, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Facility investments, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Financial situation, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Financial situation, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Human resources, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Human resources, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Input price, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Input price, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Inventories, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Inventories, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, New orders, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, New orders, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Operation ratio, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Operation ratio, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Output price, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Output price, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Production, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Production, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Production capacity, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Production capacity, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Profitability, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Profitability, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Sales, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Sales, 3mma",None,line
+"Korea, Business, BOK BSI, Composite, Business condition, SA, 3mma","Korea, Business, BOK BSI, Composite, Business condition, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Business condition, SA, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Business condition, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Business condition, SA, 3mma","Korea, Business, BOK BSI, Large enterprises, Business condition, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Business condition, SA, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Business condition, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Business condition, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, Business condition, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Business condition, SA, 3mma","Korea, Business, BOK BSI, Non-manufacturing, Business condition, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Business condition, SA, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Business condition, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Composite, SA, 3mma","Korea, Business, BOK BSI, Composite, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, SA, 3mma","Korea, Business, BOK BSI, Exporting enterprises, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, SA, 3mma","Korea, Business, BOK BSI, Large enterprises, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, SA, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, SA, 3mma",None,line
 "Korea, Business, BOK BSI, Manufacturing, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, SA, 3mma",None,line
 "Korea, Business, BOK BSI, Non-manufacturing, SA, 3mma","Korea, Business, BOK BSI, Non-manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, All Industries, SA, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, All Industries, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Domestic Enterprises, SA, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Domestic Enterprises, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Exporting Enterprises, SA, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Exporting Enterprises, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing, SA, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Services, SA, 3mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Services, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, SA, 3mma","Korea, Business, BOK BSI, Domestic enterprises, SA, 3mma",None,line
 "Korea, Business, BOK BSI, Industry DI, SA, 3mma","Korea, Business, BOK BSI, Industry DI, SA, 3mma",None,line
 "Korea, Business, BOK BSI, Industry DI, 3mma","Korea, Business, BOK BSI, Industry DI, 3mma",None,line
 "Korea, Business, BOK BSI, Mfg DI, SA, 3mma","Korea, Business, BOK BSI, Mfg DI, SA, 3mma",None,line
@@ -1408,103 +1604,190 @@ name,display_name,data_type,chart_type
 "Korea, Business, BOK BSI, Utilities, SA, 3mma","Korea, Business, BOK BSI, Utilities, SA, 3mma",None,line
 "Korea, Business, BOK BSI, Wholesale & retail, SA, 3mma","Korea, Business, BOK BSI, Wholesale & retail, SA, 3mma",None,line
 "Korea, Business, BOK BSI, Wood products, SA, 3mma","Korea, Business, BOK BSI, Wood products, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Domestic Sales Growth, manufacturing, 3mma","Korea, Business, BOK BSI, Domestic Sales Growth, manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Exports Growth, manufacturing, 3mma","Korea, Business, BOK BSI, Exports Growth, manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Facility Investments, manufacturing, 3mma","Korea, Business, BOK BSI, Facility Investments, manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Financial Situation, all-industry, 3mma","Korea, Business, BOK BSI, Financial Situation, all-industry, 3mma",None,line
-"Korea, Business, BOK BSI, Financial Situation, manufacturing, 3mma","Korea, Business, BOK BSI, Financial Situation, manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Financial Situation, non-mfg, 3mma","Korea, Business, BOK BSI, Financial Situation, non-mfg, 3mma",None,line
-"Korea, Business, BOK BSI, Human Resources, all-industry, 3mma","Korea, Business, BOK BSI, Human Resources, all-industry, 3mma",None,line
-"Korea, Business, BOK BSI, Human Resources, manufacturing, 3mma","Korea, Business, BOK BSI, Human Resources, manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Human Resources, non-mfg, 3mma","Korea, Business, BOK BSI, Human Resources, non-mfg, 3mma",None,line
-"Korea, Business, BOK BSI, Inventories, manufacturing, 3mma","Korea, Business, BOK BSI, Inventories, manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, New Orders Growth, manufacturing, 3mma","Korea, Business, BOK BSI, New Orders Growth, manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Operation Ratio, manufacturing, 3mma","Korea, Business, BOK BSI, Operation Ratio, manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Production Capacity, manufacturing, 3mma","Korea, Business, BOK BSI, Production Capacity, manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Production Growth, manufacturing, 3mma","Korea, Business, BOK BSI, Production Growth, manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Profitability, all-industry, 3mma","Korea, Business, BOK BSI, Profitability, all-industry, 3mma",None,line
-"Korea, Business, BOK BSI, Profitability, manufacturing, 3mma","Korea, Business, BOK BSI, Profitability, manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Profitability, non-mfg, 3mma","Korea, Business, BOK BSI, Profitability, non-mfg, 3mma",None,line
-"Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, 3mma","Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Sales Growth, all-industry, 3mma","Korea, Business, BOK BSI, Sales Growth, all-industry, 3mma",None,line
-"Korea, Business, BOK BSI, Sales Growth, manufacturing, 3mma","Korea, Business, BOK BSI, Sales Growth, manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Sales Growth, non-mfg, 3mma","Korea, Business, BOK BSI, Sales Growth, non-mfg, 3mma",None,line
-"Korea, Business, BOK BSI, Sales Price, manufacturing, 3mma","Korea, Business, BOK BSI, Sales Price, manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Domestic Sales Growth, manufacturing, SA, 3mma","Korea, Business, BOK BSI, Domestic Sales Growth, manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Exports Growth, manufacturing, SA, 3mma","Korea, Business, BOK BSI, Exports Growth, manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Facility Investments, manufacturing, SA, 3mma","Korea, Business, BOK BSI, Facility Investments, manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Financial Situation, all-industry, SA, 3mma","Korea, Business, BOK BSI, Financial Situation, all-industry, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Financial Situation, manufacturing, SA, 3mma","Korea, Business, BOK BSI, Financial Situation, manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Financial Situation, non-mfg, SA, 3mma","Korea, Business, BOK BSI, Financial Situation, non-mfg, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Human Resources, all-industry, SA, 3mma","Korea, Business, BOK BSI, Human Resources, all-industry, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Human Resources, manufacturing, SA, 3mma","Korea, Business, BOK BSI, Human Resources, manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Human Resources, non-mfg, SA, 3mma","Korea, Business, BOK BSI, Human Resources, non-mfg, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Inventories, manufacturing, SA, 3mma","Korea, Business, BOK BSI, Inventories, manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, New Orders Growth, manufacturing, SA, 3mma","Korea, Business, BOK BSI, New Orders Growth, manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Operation Ratio, manufacturing, SA, 3mma","Korea, Business, BOK BSI, Operation Ratio, manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Production Capacity, manufacturing, SA, 3mma","Korea, Business, BOK BSI, Production Capacity, manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Production Growth, manufacturing, SA, 3mma","Korea, Business, BOK BSI, Production Growth, manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Profitability, all-industry, SA, 3mma","Korea, Business, BOK BSI, Profitability, all-industry, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Profitability, manufacturing, SA, 3mma","Korea, Business, BOK BSI, Profitability, manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Profitability, non-mfg, SA, 3mma","Korea, Business, BOK BSI, Profitability, non-mfg, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, SA, 3mma","Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Sales Growth, all-industry, SA, 3mma","Korea, Business, BOK BSI, Sales Growth, all-industry, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Sales Growth, manufacturing, SA, 3mma","Korea, Business, BOK BSI, Sales Growth, manufacturing, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Sales Growth, non-mfg, SA, 3mma","Korea, Business, BOK BSI, Sales Growth, non-mfg, SA, 3mma",None,line
-"Korea, Business, BOK BSI, Sales Price, manufacturing, SA, 3mma","Korea, Business, BOK BSI, Sales Price, manufacturing, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Composite, Financial situation, SA, 3mma","Korea, Business, BOK BSI, Composite, Financial situation, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Composite, Human resources, SA, 3mma","Korea, Business, BOK BSI, Composite, Human resources, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Composite, Profitability, SA, 3mma","Korea, Business, BOK BSI, Composite, Profitability, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Composite, Sales, SA, 3mma","Korea, Business, BOK BSI, Composite, Sales, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Domestic sales, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, Domestic sales, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Exports, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, Exports, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Facility investments, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, Facility investments, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Financial situation, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, Financial situation, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Human resources, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, Human resources, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Input price, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, Input price, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Inventories, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, Inventories, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, New orders, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, New orders, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Operation ratio, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, Operation ratio, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Output price, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, Output price, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Production, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, Production, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Production capacity, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, Production capacity, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Profitability, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, Profitability, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Sales, SA, 3mma","Korea, Business, BOK BSI, Manufacturing, Sales, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Financial situation, SA, 3mma","Korea, Business, BOK BSI, Non-manufacturing, Financial situation, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Human resources, SA, 3mma","Korea, Business, BOK BSI, Non-manufacturing, Human resources, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Profitability, SA, 3mma","Korea, Business, BOK BSI, Non-manufacturing, Profitability, SA, 3mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Sales, SA, 3mma","Korea, Business, BOK BSI, Non-manufacturing, Sales, SA, 3mma",None,line
 "Korea, Business, BOK BSI, Business, S&P PMI, Manufacturing, 3mma","Korea, Business, BOK BSI, Business, S&P PMI, Manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, Average prices, 3mma","Korea, Business, BOK BSI, Average prices, 3mma",None,line
-"Korea, Business, BOK BSI, Price momentum, 3mma","Korea, Business, BOK BSI, Price momentum, 3mma",None,line
-"Korea, Business, BOK BSI, Manufacturing, nominal, 3mma","Korea, Business, BOK BSI, Manufacturing, nominal, 3mma",None,line
-"Korea, Business, BOK BSI, All Industries, SA, LT average, 3mma","Korea, Business, BOK BSI, All Industries, SA, LT average, 3mma",None,line
-"Korea, Business, BOK BSI, Domestic Enterprises, SA, LT average, 3mma","Korea, Business, BOK BSI, Domestic Enterprises, SA, LT average, 3mma",None,line
-"Korea, Business, BOK BSI, Exporting Enterprises, SA, LT average, 3mma","Korea, Business, BOK BSI, Exporting Enterprises, SA, LT average, 3mma",None,line
-"Korea, Business, BOK BSI, Manufacturing, SA, LT average, 3mma","Korea, Business, BOK BSI, Manufacturing, SA, LT average, 3mma",None,line
-"Korea, Business, BOK BSI, Non-manufacturing, SA, LT average, 3mma","Korea, Business, BOK BSI, Non-manufacturing, SA, LT average, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Prices, 3mma","Korea, Business, BOK BSI, Manufacturing, Prices, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Price momentum, 3mma","Korea, Business, BOK BSI, Manufacturing, Price momentum, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Nominal, 3mma","Korea, Business, BOK BSI, Manufacturing, Nominal, 3mma",None,line
+"Korea, Business, BOK BSI, Composite, Business condition, SA, LT average, 3mma","Korea, Business, BOK BSI, Composite, Business condition, SA, LT average, 3mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Business condition, SA, LT average, 3mma","Korea, Business, BOK BSI, Domestic enterprises, Business condition, SA, LT average, 3mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Business condition, SA, LT average, 3mma","Korea, Business, BOK BSI, Exporting enterprises, Business condition, SA, LT average, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Business condition, SA, LT average, 3mma","Korea, Business, BOK BSI, Manufacturing, Business condition, SA, LT average, 3mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Business condition, SA, LT average, 3mma","Korea, Business, BOK BSI, Non-manufacturing, Business condition, SA, LT average, 3mma",None,line
 "Korea, Business, BOK BSI, Business, S&P PMI, Manufacturing, LT average, 3mma","Korea, Business, BOK BSI, Business, S&P PMI, Manufacturing, LT average, 3mma",None,line
-"Korea, Business, BOK BSI, Large Enterprises, SA, LT average, 3mma","Korea, Business, BOK BSI, Large Enterprises, SA, LT average, 3mma",None,line
-"Korea, Business, BOK BSI, Small & Medium Enterprises, SA, LT average, 3mma","Korea, Business, BOK BSI, Small & Medium Enterprises, SA, LT average, 3mma",None,line
-"Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, LT average, 3mma","Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, LT average, 3mma",None,line
-"Korea, Business, BOK BSI, Sales Price, manufacturing, LT average, 3mma","Korea, Business, BOK BSI, Sales Price, manufacturing, LT average, 3mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Business condition, SA, LT average, 3mma","Korea, Business, BOK BSI, Large enterprises, Business condition, SA, LT average, 3mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Business condition, SA, LT average, 3mma","Korea, Business, BOK BSI, Small & medium enterprises, Business condition, SA, LT average, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Input price, LT average, 3mma","Korea, Business, BOK BSI, Manufacturing, Input price, LT average, 3mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Output price, LT average, 3mma","Korea, Business, BOK BSI, Manufacturing, Output price, LT average, 3mma",None,line
 "Korea, Economy, BOK ESI, Cyclical component, 3mma","Korea, Economy, BOK ESI, Cyclical component, 3mma",None,line
 "Korea, Economy, BOK ESI, 3mma","Korea, Economy, BOK ESI, 3mma",None,line
 "Korea, Business, S&P PMI, Manufacturing, 3mma","Korea, Business, S&P PMI, Manufacturing, 3mma",None,line
-"Korea, Business, BOK BSI, All Industries, 6mma","Korea, Business, BOK BSI, All Industries, 6mma",None,line
-"Korea, Business, BOK BSI, Domestic Enterprises, 6mma","Korea, Business, BOK BSI, Domestic Enterprises, 6mma",None,line
-"Korea, Business, BOK BSI, Exporting Enterprises, 6mma","Korea, Business, BOK BSI, Exporting Enterprises, 6mma",None,line
-"Korea, Business, BOK BSI, Heavy & Chemical Industries, 6mma","Korea, Business, BOK BSI, Heavy & Chemical Industries, 6mma",None,line
-"Korea, Business, BOK BSI, Large Enterprises, 6mma","Korea, Business, BOK BSI, Large Enterprises, 6mma",None,line
-"Korea, Business, BOK BSI, Light Industries, 6mma","Korea, Business, BOK BSI, Light Industries, 6mma",None,line
+"Korea, Business, BOK BSI, Composite, Business condition, 6mma","Korea, Business, BOK BSI, Composite, Business condition, 6mma",None,line
+"Korea, Business, BOK BSI, Composite, 6mma","Korea, Business, BOK BSI, Composite, 6mma",None,line
+"Korea, Business, BOK BSI, Composite, Financial situation, 6mma","Korea, Business, BOK BSI, Composite, Financial situation, 6mma",None,line
+"Korea, Business, BOK BSI, Composite, Human resources, 6mma","Korea, Business, BOK BSI, Composite, Human resources, 6mma",None,line
+"Korea, Business, BOK BSI, Composite, Profitability, 6mma","Korea, Business, BOK BSI, Composite, Profitability, 6mma",None,line
+"Korea, Business, BOK BSI, Composite, Sales, 6mma","Korea, Business, BOK BSI, Composite, Sales, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Business condition, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Business condition, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, 6mma","Korea, Business, BOK BSI, Domestic enterprises, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Domestic sales, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Domestic sales, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Exports, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Exports, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Facility investments, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Facility investments, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Financial situation, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Financial situation, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Human resources, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Human resources, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Input price, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Input price, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Inventories, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Inventories, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, New orders, 6mma","Korea, Business, BOK BSI, Domestic enterprises, New orders, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Operation ratio, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Operation ratio, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Output price, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Output price, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Production, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Production, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Production capacity, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Production capacity, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Profitability, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Profitability, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Sales, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Sales, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Business condition, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Business condition, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, 6mma","Korea, Business, BOK BSI, Exporting enterprises, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Domestic sales, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Domestic sales, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Exports, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Exports, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Facility investments, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Facility investments, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Financial situation, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Financial situation, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Human resources, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Human resources, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Input price, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Input price, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Inventories, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Inventories, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, New orders, 6mma","Korea, Business, BOK BSI, Exporting enterprises, New orders, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Operation ratio, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Operation ratio, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Output price, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Output price, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Production, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Production, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Production capacity, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Production capacity, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Profitability, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Profitability, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Sales, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Sales, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Business condition, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, Business condition, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Domestic sales, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, Domestic sales, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Exports, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, Exports, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Facility investments, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, Facility investments, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Financial situation, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, Financial situation, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Human resources, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, Human resources, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Input price, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, Input price, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Inventories, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, Inventories, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, New orders, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, New orders, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Operation ratio, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, Operation ratio, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Output price, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, Output price, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Production, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, Production, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Production capacity, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, Production capacity, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Profitability, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, Profitability, 6mma",None,line
+"Korea, Business, BOK BSI, Heavy & chemical industries, Sales, 6mma","Korea, Business, BOK BSI, Heavy & chemical industries, Sales, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Business condition, 6mma","Korea, Business, BOK BSI, Large enterprises, Business condition, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, 6mma","Korea, Business, BOK BSI, Large enterprises, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Domestic sales, 6mma","Korea, Business, BOK BSI, Large enterprises, Domestic sales, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Exports, 6mma","Korea, Business, BOK BSI, Large enterprises, Exports, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Facility investments, 6mma","Korea, Business, BOK BSI, Large enterprises, Facility investments, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Financial situation, 6mma","Korea, Business, BOK BSI, Large enterprises, Financial situation, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Human resources, 6mma","Korea, Business, BOK BSI, Large enterprises, Human resources, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Input price, 6mma","Korea, Business, BOK BSI, Large enterprises, Input price, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Inventories, 6mma","Korea, Business, BOK BSI, Large enterprises, Inventories, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, New orders, 6mma","Korea, Business, BOK BSI, Large enterprises, New orders, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Operation ratio, 6mma","Korea, Business, BOK BSI, Large enterprises, Operation ratio, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Output price, 6mma","Korea, Business, BOK BSI, Large enterprises, Output price, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Production, 6mma","Korea, Business, BOK BSI, Large enterprises, Production, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Production capacity, 6mma","Korea, Business, BOK BSI, Large enterprises, Production capacity, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Profitability, 6mma","Korea, Business, BOK BSI, Large enterprises, Profitability, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Sales, 6mma","Korea, Business, BOK BSI, Large enterprises, Sales, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, Business condition, 6mma","Korea, Business, BOK BSI, Light industries, Business condition, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, 6mma","Korea, Business, BOK BSI, Light industries, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, Domestic sales, 6mma","Korea, Business, BOK BSI, Light industries, Domestic sales, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, Exports, 6mma","Korea, Business, BOK BSI, Light industries, Exports, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, Facility investments, 6mma","Korea, Business, BOK BSI, Light industries, Facility investments, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, Financial situation, 6mma","Korea, Business, BOK BSI, Light industries, Financial situation, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, Human resources, 6mma","Korea, Business, BOK BSI, Light industries, Human resources, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, Input price, 6mma","Korea, Business, BOK BSI, Light industries, Input price, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, Inventories, 6mma","Korea, Business, BOK BSI, Light industries, Inventories, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, New orders, 6mma","Korea, Business, BOK BSI, Light industries, New orders, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, Operation ratio, 6mma","Korea, Business, BOK BSI, Light industries, Operation ratio, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, Output price, 6mma","Korea, Business, BOK BSI, Light industries, Output price, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, Production, 6mma","Korea, Business, BOK BSI, Light industries, Production, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, Production capacity, 6mma","Korea, Business, BOK BSI, Light industries, Production capacity, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, Profitability, 6mma","Korea, Business, BOK BSI, Light industries, Profitability, 6mma",None,line
+"Korea, Business, BOK BSI, Light industries, Sales, 6mma","Korea, Business, BOK BSI, Light industries, Sales, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Business condition, 6mma","Korea, Business, BOK BSI, Manufacturing, Business condition, 6mma",None,line
 "Korea, Business, BOK BSI, Manufacturing, 6mma","Korea, Business, BOK BSI, Manufacturing, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing(s.a), 6mma","Korea, Business, BOK BSI, Manufacturing(s.a), 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Domestic sales, 6mma","Korea, Business, BOK BSI, Manufacturing, Domestic sales, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Exports, 6mma","Korea, Business, BOK BSI, Manufacturing, Exports, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Facility investments, 6mma","Korea, Business, BOK BSI, Manufacturing, Facility investments, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Financial situation, 6mma","Korea, Business, BOK BSI, Manufacturing, Financial situation, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Human resources, 6mma","Korea, Business, BOK BSI, Manufacturing, Human resources, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Input price, 6mma","Korea, Business, BOK BSI, Manufacturing, Input price, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Inventories, 6mma","Korea, Business, BOK BSI, Manufacturing, Inventories, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, New orders, 6mma","Korea, Business, BOK BSI, Manufacturing, New orders, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Operation ratio, 6mma","Korea, Business, BOK BSI, Manufacturing, Operation ratio, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Output price, 6mma","Korea, Business, BOK BSI, Manufacturing, Output price, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Production, 6mma","Korea, Business, BOK BSI, Manufacturing, Production, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Production capacity, 6mma","Korea, Business, BOK BSI, Manufacturing, Production capacity, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Profitability, 6mma","Korea, Business, BOK BSI, Manufacturing, Profitability, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Sales, 6mma","Korea, Business, BOK BSI, Manufacturing, Sales, 6mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Business condition, 6mma","Korea, Business, BOK BSI, Non-manufacturing, Business condition, 6mma",None,line
 "Korea, Business, BOK BSI, Non-manufacturing, 6mma","Korea, Business, BOK BSI, Non-manufacturing, 6mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Financial situation, 6mma","Korea, Business, BOK BSI, Non-manufacturing, Financial situation, 6mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Human resources, 6mma","Korea, Business, BOK BSI, Non-manufacturing, Human resources, 6mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Profitability, 6mma","Korea, Business, BOK BSI, Non-manufacturing, Profitability, 6mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Sales, 6mma","Korea, Business, BOK BSI, Non-manufacturing, Sales, 6mma",None,line
+"Korea, Business, BOK BSI, Services, Business condition, 6mma","Korea, Business, BOK BSI, Services, Business condition, 6mma",None,line
 "Korea, Business, BOK BSI, Services, 6mma","Korea, Business, BOK BSI, Services, 6mma",None,line
-"Korea, Business, BOK BSI, Small & Medium Enterprises, 6mma","Korea, Business, BOK BSI, Small & Medium Enterprises, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, All Industries, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, All Industries, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Domestic Enterprises, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Domestic Enterprises, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Exporting Enterprises, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Exporting Enterprises, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Heavy & Chemical Industries, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Heavy & Chemical Industries, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Large Enterprises, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Large Enterprises, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Light Industries, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Light Industries, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Manufacturing, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Services, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Services, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Small & Medium Enterprises, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Small & Medium Enterprises, 6mma",None,line
-"Korea, Business, BOK BSI, Manufacturing SA, 6mma","Korea, Business, BOK BSI, Manufacturing SA, 6mma",None,line
-"Korea, Business, BOK BSI, Non-manufacturing SA, 6mma","Korea, Business, BOK BSI, Non-manufacturing SA, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Manufacturing SA, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Manufacturing SA, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing SA, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing SA, 6mma",None,line
-"Korea, Business, BOK BSI, All Industries, SA, 6mma","Korea, Business, BOK BSI, All Industries, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Exporting Enterprises, SA, 6mma","Korea, Business, BOK BSI, Exporting Enterprises, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Domestic Enterprises, SA, 6mma","Korea, Business, BOK BSI, Domestic Enterprises, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Large Enterprises, SA, 6mma","Korea, Business, BOK BSI, Large Enterprises, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Small & Medium Enterprises, SA, 6mma","Korea, Business, BOK BSI, Small & Medium Enterprises, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Services, Financial situation, 6mma","Korea, Business, BOK BSI, Services, Financial situation, 6mma",None,line
+"Korea, Business, BOK BSI, Services, Human resources, 6mma","Korea, Business, BOK BSI, Services, Human resources, 6mma",None,line
+"Korea, Business, BOK BSI, Services, Profitability, 6mma","Korea, Business, BOK BSI, Services, Profitability, 6mma",None,line
+"Korea, Business, BOK BSI, Services, Sales, 6mma","Korea, Business, BOK BSI, Services, Sales, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Business condition, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Business condition, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Domestic sales, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Domestic sales, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Exports, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Exports, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Facility investments, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Facility investments, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Financial situation, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Financial situation, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Human resources, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Human resources, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Input price, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Input price, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Inventories, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Inventories, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, New orders, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, New orders, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Operation ratio, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Operation ratio, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Output price, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Output price, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Production, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Production, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Production capacity, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Production capacity, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Profitability, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Profitability, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Sales, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Sales, 6mma",None,line
+"Korea, Business, BOK BSI, Composite, Business condition, SA, 6mma","Korea, Business, BOK BSI, Composite, Business condition, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Business condition, SA, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Business condition, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Business condition, SA, 6mma","Korea, Business, BOK BSI, Large enterprises, Business condition, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Business condition, SA, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Business condition, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Business condition, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, Business condition, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Business condition, SA, 6mma","Korea, Business, BOK BSI, Non-manufacturing, Business condition, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Business condition, SA, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Business condition, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Composite, SA, 6mma","Korea, Business, BOK BSI, Composite, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, SA, 6mma","Korea, Business, BOK BSI, Exporting enterprises, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, SA, 6mma","Korea, Business, BOK BSI, Large enterprises, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, SA, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, SA, 6mma",None,line
 "Korea, Business, BOK BSI, Manufacturing, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, SA, 6mma",None,line
 "Korea, Business, BOK BSI, Non-manufacturing, SA, 6mma","Korea, Business, BOK BSI, Non-manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, All Industries, SA, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, All Industries, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Domestic Enterprises, SA, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Domestic Enterprises, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Exporting Enterprises, SA, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Exporting Enterprises, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing, SA, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Non-manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Composite Business Sentiment Index, Services, SA, 6mma","Korea, Business, BOK BSI, Composite Business Sentiment Index, Services, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, SA, 6mma","Korea, Business, BOK BSI, Domestic enterprises, SA, 6mma",None,line
 "Korea, Business, BOK BSI, Industry DI, SA, 6mma","Korea, Business, BOK BSI, Industry DI, SA, 6mma",None,line
 "Korea, Business, BOK BSI, Industry DI, 6mma","Korea, Business, BOK BSI, Industry DI, 6mma",None,line
 "Korea, Business, BOK BSI, Mfg DI, SA, 6mma","Korea, Business, BOK BSI, Mfg DI, SA, 6mma",None,line
@@ -1568,64 +1851,42 @@ name,display_name,data_type,chart_type
 "Korea, Business, BOK BSI, Utilities, SA, 6mma","Korea, Business, BOK BSI, Utilities, SA, 6mma",None,line
 "Korea, Business, BOK BSI, Wholesale & retail, SA, 6mma","Korea, Business, BOK BSI, Wholesale & retail, SA, 6mma",None,line
 "Korea, Business, BOK BSI, Wood products, SA, 6mma","Korea, Business, BOK BSI, Wood products, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Domestic Sales Growth, manufacturing, 6mma","Korea, Business, BOK BSI, Domestic Sales Growth, manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Exports Growth, manufacturing, 6mma","Korea, Business, BOK BSI, Exports Growth, manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Facility Investments, manufacturing, 6mma","Korea, Business, BOK BSI, Facility Investments, manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Financial Situation, all-industry, 6mma","Korea, Business, BOK BSI, Financial Situation, all-industry, 6mma",None,line
-"Korea, Business, BOK BSI, Financial Situation, manufacturing, 6mma","Korea, Business, BOK BSI, Financial Situation, manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Financial Situation, non-mfg, 6mma","Korea, Business, BOK BSI, Financial Situation, non-mfg, 6mma",None,line
-"Korea, Business, BOK BSI, Human Resources, all-industry, 6mma","Korea, Business, BOK BSI, Human Resources, all-industry, 6mma",None,line
-"Korea, Business, BOK BSI, Human Resources, manufacturing, 6mma","Korea, Business, BOK BSI, Human Resources, manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Human Resources, non-mfg, 6mma","Korea, Business, BOK BSI, Human Resources, non-mfg, 6mma",None,line
-"Korea, Business, BOK BSI, Inventories, manufacturing, 6mma","Korea, Business, BOK BSI, Inventories, manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, New Orders Growth, manufacturing, 6mma","Korea, Business, BOK BSI, New Orders Growth, manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Operation Ratio, manufacturing, 6mma","Korea, Business, BOK BSI, Operation Ratio, manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Production Capacity, manufacturing, 6mma","Korea, Business, BOK BSI, Production Capacity, manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Production Growth, manufacturing, 6mma","Korea, Business, BOK BSI, Production Growth, manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Profitability, all-industry, 6mma","Korea, Business, BOK BSI, Profitability, all-industry, 6mma",None,line
-"Korea, Business, BOK BSI, Profitability, manufacturing, 6mma","Korea, Business, BOK BSI, Profitability, manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Profitability, non-mfg, 6mma","Korea, Business, BOK BSI, Profitability, non-mfg, 6mma",None,line
-"Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, 6mma","Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Sales Growth, all-industry, 6mma","Korea, Business, BOK BSI, Sales Growth, all-industry, 6mma",None,line
-"Korea, Business, BOK BSI, Sales Growth, manufacturing, 6mma","Korea, Business, BOK BSI, Sales Growth, manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Sales Growth, non-mfg, 6mma","Korea, Business, BOK BSI, Sales Growth, non-mfg, 6mma",None,line
-"Korea, Business, BOK BSI, Sales Price, manufacturing, 6mma","Korea, Business, BOK BSI, Sales Price, manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Domestic Sales Growth, manufacturing, SA, 6mma","Korea, Business, BOK BSI, Domestic Sales Growth, manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Exports Growth, manufacturing, SA, 6mma","Korea, Business, BOK BSI, Exports Growth, manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Facility Investments, manufacturing, SA, 6mma","Korea, Business, BOK BSI, Facility Investments, manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Financial Situation, all-industry, SA, 6mma","Korea, Business, BOK BSI, Financial Situation, all-industry, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Financial Situation, manufacturing, SA, 6mma","Korea, Business, BOK BSI, Financial Situation, manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Financial Situation, non-mfg, SA, 6mma","Korea, Business, BOK BSI, Financial Situation, non-mfg, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Human Resources, all-industry, SA, 6mma","Korea, Business, BOK BSI, Human Resources, all-industry, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Human Resources, manufacturing, SA, 6mma","Korea, Business, BOK BSI, Human Resources, manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Human Resources, non-mfg, SA, 6mma","Korea, Business, BOK BSI, Human Resources, non-mfg, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Inventories, manufacturing, SA, 6mma","Korea, Business, BOK BSI, Inventories, manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, New Orders Growth, manufacturing, SA, 6mma","Korea, Business, BOK BSI, New Orders Growth, manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Operation Ratio, manufacturing, SA, 6mma","Korea, Business, BOK BSI, Operation Ratio, manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Production Capacity, manufacturing, SA, 6mma","Korea, Business, BOK BSI, Production Capacity, manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Production Growth, manufacturing, SA, 6mma","Korea, Business, BOK BSI, Production Growth, manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Profitability, all-industry, SA, 6mma","Korea, Business, BOK BSI, Profitability, all-industry, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Profitability, manufacturing, SA, 6mma","Korea, Business, BOK BSI, Profitability, manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Profitability, non-mfg, SA, 6mma","Korea, Business, BOK BSI, Profitability, non-mfg, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, SA, 6mma","Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Sales Growth, all-industry, SA, 6mma","Korea, Business, BOK BSI, Sales Growth, all-industry, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Sales Growth, manufacturing, SA, 6mma","Korea, Business, BOK BSI, Sales Growth, manufacturing, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Sales Growth, non-mfg, SA, 6mma","Korea, Business, BOK BSI, Sales Growth, non-mfg, SA, 6mma",None,line
-"Korea, Business, BOK BSI, Sales Price, manufacturing, SA, 6mma","Korea, Business, BOK BSI, Sales Price, manufacturing, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Composite, Financial situation, SA, 6mma","Korea, Business, BOK BSI, Composite, Financial situation, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Composite, Human resources, SA, 6mma","Korea, Business, BOK BSI, Composite, Human resources, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Composite, Profitability, SA, 6mma","Korea, Business, BOK BSI, Composite, Profitability, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Composite, Sales, SA, 6mma","Korea, Business, BOK BSI, Composite, Sales, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Domestic sales, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, Domestic sales, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Exports, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, Exports, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Facility investments, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, Facility investments, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Financial situation, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, Financial situation, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Human resources, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, Human resources, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Input price, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, Input price, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Inventories, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, Inventories, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, New orders, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, New orders, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Operation ratio, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, Operation ratio, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Output price, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, Output price, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Production, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, Production, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Production capacity, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, Production capacity, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Profitability, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, Profitability, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Sales, SA, 6mma","Korea, Business, BOK BSI, Manufacturing, Sales, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Financial situation, SA, 6mma","Korea, Business, BOK BSI, Non-manufacturing, Financial situation, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Human resources, SA, 6mma","Korea, Business, BOK BSI, Non-manufacturing, Human resources, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Profitability, SA, 6mma","Korea, Business, BOK BSI, Non-manufacturing, Profitability, SA, 6mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Sales, SA, 6mma","Korea, Business, BOK BSI, Non-manufacturing, Sales, SA, 6mma",None,line
 "Korea, Business, BOK BSI, Business, S&P PMI, Manufacturing, 6mma","Korea, Business, BOK BSI, Business, S&P PMI, Manufacturing, 6mma",None,line
-"Korea, Business, BOK BSI, Average prices, 6mma","Korea, Business, BOK BSI, Average prices, 6mma",None,line
-"Korea, Business, BOK BSI, Price momentum, 6mma","Korea, Business, BOK BSI, Price momentum, 6mma",None,line
-"Korea, Business, BOK BSI, Manufacturing, nominal, 6mma","Korea, Business, BOK BSI, Manufacturing, nominal, 6mma",None,line
-"Korea, Business, BOK BSI, All Industries, SA, LT average, 6mma","Korea, Business, BOK BSI, All Industries, SA, LT average, 6mma",None,line
-"Korea, Business, BOK BSI, Domestic Enterprises, SA, LT average, 6mma","Korea, Business, BOK BSI, Domestic Enterprises, SA, LT average, 6mma",None,line
-"Korea, Business, BOK BSI, Exporting Enterprises, SA, LT average, 6mma","Korea, Business, BOK BSI, Exporting Enterprises, SA, LT average, 6mma",None,line
-"Korea, Business, BOK BSI, Manufacturing, SA, LT average, 6mma","Korea, Business, BOK BSI, Manufacturing, SA, LT average, 6mma",None,line
-"Korea, Business, BOK BSI, Non-manufacturing, SA, LT average, 6mma","Korea, Business, BOK BSI, Non-manufacturing, SA, LT average, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Prices, 6mma","Korea, Business, BOK BSI, Manufacturing, Prices, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Price momentum, 6mma","Korea, Business, BOK BSI, Manufacturing, Price momentum, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Nominal, 6mma","Korea, Business, BOK BSI, Manufacturing, Nominal, 6mma",None,line
+"Korea, Business, BOK BSI, Composite, Business condition, SA, LT average, 6mma","Korea, Business, BOK BSI, Composite, Business condition, SA, LT average, 6mma",None,line
+"Korea, Business, BOK BSI, Domestic enterprises, Business condition, SA, LT average, 6mma","Korea, Business, BOK BSI, Domestic enterprises, Business condition, SA, LT average, 6mma",None,line
+"Korea, Business, BOK BSI, Exporting enterprises, Business condition, SA, LT average, 6mma","Korea, Business, BOK BSI, Exporting enterprises, Business condition, SA, LT average, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Business condition, SA, LT average, 6mma","Korea, Business, BOK BSI, Manufacturing, Business condition, SA, LT average, 6mma",None,line
+"Korea, Business, BOK BSI, Non-manufacturing, Business condition, SA, LT average, 6mma","Korea, Business, BOK BSI, Non-manufacturing, Business condition, SA, LT average, 6mma",None,line
 "Korea, Business, BOK BSI, Business, S&P PMI, Manufacturing, LT average, 6mma","Korea, Business, BOK BSI, Business, S&P PMI, Manufacturing, LT average, 6mma",None,line
-"Korea, Business, BOK BSI, Large Enterprises, SA, LT average, 6mma","Korea, Business, BOK BSI, Large Enterprises, SA, LT average, 6mma",None,line
-"Korea, Business, BOK BSI, Small & Medium Enterprises, SA, LT average, 6mma","Korea, Business, BOK BSI, Small & Medium Enterprises, SA, LT average, 6mma",None,line
-"Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, LT average, 6mma","Korea, Business, BOK BSI, Raw Material & Parts Purchasing Price, manufacturing, LT average, 6mma",None,line
-"Korea, Business, BOK BSI, Sales Price, manufacturing, LT average, 6mma","Korea, Business, BOK BSI, Sales Price, manufacturing, LT average, 6mma",None,line
+"Korea, Business, BOK BSI, Large enterprises, Business condition, SA, LT average, 6mma","Korea, Business, BOK BSI, Large enterprises, Business condition, SA, LT average, 6mma",None,line
+"Korea, Business, BOK BSI, Small & medium enterprises, Business condition, SA, LT average, 6mma","Korea, Business, BOK BSI, Small & medium enterprises, Business condition, SA, LT average, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Input price, LT average, 6mma","Korea, Business, BOK BSI, Manufacturing, Input price, LT average, 6mma",None,line
+"Korea, Business, BOK BSI, Manufacturing, Output price, LT average, 6mma","Korea, Business, BOK BSI, Manufacturing, Output price, LT average, 6mma",None,line
 "Korea, Economy, BOK ESI, Cyclical component, 6mma","Korea, Economy, BOK ESI, Cyclical component, 6mma",None,line
 "Korea, Economy, BOK ESI, 6mma","Korea, Economy, BOK ESI, 6mma",None,line
 "Korea, Business, S&P PMI, Manufacturing, 6mma","Korea, Business, S&P PMI, Manufacturing, 6mma",None,line
