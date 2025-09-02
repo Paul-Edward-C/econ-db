@@ -1279,6 +1279,10 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Private services, Housing including maintenance, Index","Korea, CPI, Private services, Housing including maintenance, Index",None,line
 "Korea, CPI, Private services, Transport and communication, Index","Korea, CPI, Private services, Transport and communication, Index",None,line
 "Korea, CPI, Private services, Entertainment, Index","Korea, CPI, Private services, Entertainment, Index",None,line
+"Korea, CPI, Core excluding mobile phone charges, Index","Korea, CPI, Core excluding mobile phone charges, Index",None,line
+"Korea, CPI, Core excluding mobile phone charges, % YoY","Korea, CPI, Core excluding mobile phone charges, % YoY",None,line
+"Korea, CPI, Services, Public services, Mobile phone charges, % YoY","Korea, CPI, Services, Public services, Mobile phone charges, % YoY",None,line
+"Korea, CPI, Services, Public services, Mobile phone charges, Contribution to YoY chg in core CPI, ppts","Korea, CPI, Services, Public services, Mobile phone charges, Contribution to YoY chg in core CPI, ppts",None,bar
 "Korea, CPI, All items, Index, SA","Korea, CPI, All items, Index, SA",None,line
 "Korea, CPI, All items excluding food and energy, Index, SA","Korea, CPI, All items excluding food and energy, Index, SA",None,line
 "Korea, CPI, Goods, Industrial products, Index, SA","Korea, CPI, Goods, Industrial products, Index, SA",None,line
@@ -1291,6 +1295,7 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Services, Private services, Eating out, Index, SA","Korea, CPI, Services, Private services, Eating out, Index, SA",None,line
 "Korea, CPI, Services, Rent, Index, SA","Korea, CPI, Services, Rent, Index, SA",None,line
 "Korea, CPI, Services, Entertainment, Index, SA","Korea, CPI, Services, Entertainment, Index, SA",None,line
+"Korea, CPI, Core excluding mobile phone charges, Index, SA","Korea, CPI, Core excluding mobile phone charges, Index, SA",None,line
 "Korea, CPI, Food and non-alcoholic beverages, Food, Index, SA","Korea, CPI, Food and non-alcoholic beverages, Food, Index, SA",None,line
 "Korea, CPI, Food and non-alcoholic beverages, Index, SA","Korea, CPI, Food and non-alcoholic beverages, Index, SA",None,line
 "Korea, CPI, Alcoholic beverages and tobacco, Index, SA","Korea, CPI, Alcoholic beverages and tobacco, Index, SA",None,line
@@ -1321,6 +1326,7 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Services, Private services, Eating out, SA, % MoM","Korea, CPI, Services, Private services, Eating out, SA, % MoM",None,line
 "Korea, CPI, Services, Rent, SA, % MoM","Korea, CPI, Services, Rent, SA, % MoM",None,line
 "Korea, CPI, Services, Entertainment, SA, % MoM","Korea, CPI, Services, Entertainment, SA, % MoM",None,line
+"Korea, CPI, Core excluding mobile phone charges, SA, % MoM","Korea, CPI, Core excluding mobile phone charges, SA, % MoM",None,line
 "Korea, CPI, Food and non-alcoholic beverages, Food, SA, % MoM","Korea, CPI, Food and non-alcoholic beverages, Food, SA, % MoM",None,line
 "Korea, CPI, Food and non-alcoholic beverages, SA, % MoM","Korea, CPI, Food and non-alcoholic beverages, SA, % MoM",None,line
 "Korea, CPI, Alcoholic beverages and tobacco, SA, % MoM","Korea, CPI, Alcoholic beverages and tobacco, SA, % MoM",None,line
@@ -1351,6 +1357,7 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Services, Private services, Eating out, SA, % MoM annualised","Korea, CPI, Services, Private services, Eating out, SA, % MoM annualised",None,line
 "Korea, CPI, Services, Rent, SA, % MoM annualised","Korea, CPI, Services, Rent, SA, % MoM annualised",None,line
 "Korea, CPI, Services, Entertainment, SA, % MoM annualised","Korea, CPI, Services, Entertainment, SA, % MoM annualised",None,line
+"Korea, CPI, Core excluding mobile phone charges, SA, % MoM annualised","Korea, CPI, Core excluding mobile phone charges, SA, % MoM annualised",None,line
 "Korea, CPI, Food and non-alcoholic beverages, Food, SA, % MoM annualised","Korea, CPI, Food and non-alcoholic beverages, Food, SA, % MoM annualised",None,line
 "Korea, CPI, Food and non-alcoholic beverages, SA, % MoM annualised","Korea, CPI, Food and non-alcoholic beverages, SA, % MoM annualised",None,line
 "Korea, CPI, Alcoholic beverages and tobacco, SA, % MoM annualised","Korea, CPI, Alcoholic beverages and tobacco, SA, % MoM annualised",None,line
@@ -2659,6 +2666,10 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Private services, Housing including maintenance, Index, 3mma","Korea, CPI, Private services, Housing including maintenance, Index, 3mma",None,line
 "Korea, CPI, Private services, Transport and communication, Index, 3mma","Korea, CPI, Private services, Transport and communication, Index, 3mma",None,line
 "Korea, CPI, Private services, Entertainment, Index, 3mma","Korea, CPI, Private services, Entertainment, Index, 3mma",None,line
+"Korea, CPI, Core excluding mobile phone charges, Index, 3mma","Korea, CPI, Core excluding mobile phone charges, Index, 3mma",None,line
+"Korea, CPI, Core excluding mobile phone charges, % YoY, 3mma","Korea, CPI, Core excluding mobile phone charges, % YoY, 3mma",None,line
+"Korea, CPI, Services, Public services, Mobile phone charges, % YoY, 3mma","Korea, CPI, Services, Public services, Mobile phone charges, % YoY, 3mma",None,line
+"Korea, CPI, Services, Public services, Mobile phone charges, Contribution to YoY chg in core CPI, ppts, 3mma","Korea, CPI, Services, Public services, Mobile phone charges, Contribution to YoY chg in core CPI, ppts, 3mma",None,bar
 "Korea, CPI, All items, Index, SA, 3mma","Korea, CPI, All items, Index, SA, 3mma",None,line
 "Korea, CPI, All items excluding food and energy, Index, SA, 3mma","Korea, CPI, All items excluding food and energy, Index, SA, 3mma",None,line
 "Korea, CPI, Goods, Industrial products, Index, SA, 3mma","Korea, CPI, Goods, Industrial products, Index, SA, 3mma",None,line
@@ -2671,6 +2682,7 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Services, Private services, Eating out, Index, SA, 3mma","Korea, CPI, Services, Private services, Eating out, Index, SA, 3mma",None,line
 "Korea, CPI, Services, Rent, Index, SA, 3mma","Korea, CPI, Services, Rent, Index, SA, 3mma",None,line
 "Korea, CPI, Services, Entertainment, Index, SA, 3mma","Korea, CPI, Services, Entertainment, Index, SA, 3mma",None,line
+"Korea, CPI, Core excluding mobile phone charges, Index, SA, 3mma","Korea, CPI, Core excluding mobile phone charges, Index, SA, 3mma",None,line
 "Korea, CPI, Food and non-alcoholic beverages, Food, Index, SA, 3mma","Korea, CPI, Food and non-alcoholic beverages, Food, Index, SA, 3mma",None,line
 "Korea, CPI, Food and non-alcoholic beverages, Index, SA, 3mma","Korea, CPI, Food and non-alcoholic beverages, Index, SA, 3mma",None,line
 "Korea, CPI, Alcoholic beverages and tobacco, Index, SA, 3mma","Korea, CPI, Alcoholic beverages and tobacco, Index, SA, 3mma",None,line
@@ -2701,6 +2713,7 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Services, Private services, Eating out, SA, % MoM, 3mma","Korea, CPI, Services, Private services, Eating out, SA, % MoM, 3mma",None,line
 "Korea, CPI, Services, Rent, SA, % MoM, 3mma","Korea, CPI, Services, Rent, SA, % MoM, 3mma",None,line
 "Korea, CPI, Services, Entertainment, SA, % MoM, 3mma","Korea, CPI, Services, Entertainment, SA, % MoM, 3mma",None,line
+"Korea, CPI, Core excluding mobile phone charges, SA, % MoM, 3mma","Korea, CPI, Core excluding mobile phone charges, SA, % MoM, 3mma",None,line
 "Korea, CPI, Food and non-alcoholic beverages, Food, SA, % MoM, 3mma","Korea, CPI, Food and non-alcoholic beverages, Food, SA, % MoM, 3mma",None,line
 "Korea, CPI, Food and non-alcoholic beverages, SA, % MoM, 3mma","Korea, CPI, Food and non-alcoholic beverages, SA, % MoM, 3mma",None,line
 "Korea, CPI, Alcoholic beverages and tobacco, SA, % MoM, 3mma","Korea, CPI, Alcoholic beverages and tobacco, SA, % MoM, 3mma",None,line
@@ -2731,6 +2744,7 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Services, Private services, Eating out, SA, % MoM annualised, 3mma","Korea, CPI, Services, Private services, Eating out, SA, % MoM annualised, 3mma",None,line
 "Korea, CPI, Services, Rent, SA, % MoM annualised, 3mma","Korea, CPI, Services, Rent, SA, % MoM annualised, 3mma",None,line
 "Korea, CPI, Services, Entertainment, SA, % MoM annualised, 3mma","Korea, CPI, Services, Entertainment, SA, % MoM annualised, 3mma",None,line
+"Korea, CPI, Core excluding mobile phone charges, SA, % MoM annualised, 3mma","Korea, CPI, Core excluding mobile phone charges, SA, % MoM annualised, 3mma",None,line
 "Korea, CPI, Food and non-alcoholic beverages, Food, SA, % MoM annualised, 3mma","Korea, CPI, Food and non-alcoholic beverages, Food, SA, % MoM annualised, 3mma",None,line
 "Korea, CPI, Food and non-alcoholic beverages, SA, % MoM annualised, 3mma","Korea, CPI, Food and non-alcoholic beverages, SA, % MoM annualised, 3mma",None,line
 "Korea, CPI, Alcoholic beverages and tobacco, SA, % MoM annualised, 3mma","Korea, CPI, Alcoholic beverages and tobacco, SA, % MoM annualised, 3mma",None,line
