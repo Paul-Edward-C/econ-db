@@ -3881,6 +3881,7 @@ name,display_name,data_type,chart_type
 "Japan, Imports, World, Woman's & Girl's Dress, Quantum, Index, % YoY","Japan, Imports, World, Woman's & Girl's Dress, Quantum, Index, % YoY",None,line
 "Japan, Imports, World, Woman's & Girl's Dress, Unit value, Index, % YoY","Japan, Imports, World, Woman's & Girl's Dress, Unit value, Index, % YoY",None,line
 "Japan, Imports, World, Woman's & Girl's Dress, Value, Index, % YoY","Japan, Imports, World, Woman's & Girl's Dress, Value, Index, % YoY",None,line
+"Japan, Exports, Afghanistan, Car, JPY bn, % YoY","Japan, Exports, Afghanistan, Car, JPY bn, % YoY",None,line
 "Japan, Exports, Bhutan, Car, JPY bn, % YoY","Japan, Exports, Bhutan, Car, JPY bn, % YoY",None,line
 "Japan, Exports, British Anguilla, Car, JPY bn, % YoY","Japan, Exports, British Anguilla, Car, JPY bn, % YoY",None,line
 "Japan, Exports, Central Africa, Car, JPY bn, % YoY","Japan, Exports, Central Africa, Car, JPY bn, % YoY",None,line
@@ -3916,6 +3917,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, US Virgin Islands, Car, JPY bn, % YoY","Japan, Exports, US Virgin Islands, Car, JPY bn, % YoY",None,line
 "Japan, Exports, United Arab Emirates, Car, JPY bn, % YoY","Japan, Exports, United Arab Emirates, Car, JPY bn, % YoY",None,line
 "Japan, Exports, Viet Nam, Car, JPY bn, % YoY","Japan, Exports, Viet Nam, Car, JPY bn, % YoY",None,line
+"Japan, Exports, Afghanistan, Car, Volume, mn, % YoY","Japan, Exports, Afghanistan, Car, Volume, mn, % YoY",None,line
 "Japan, Exports, Bhutan, Car, Volume, mn, % YoY","Japan, Exports, Bhutan, Car, Volume, mn, % YoY",None,line
 "Japan, Exports, British Anguilla, Car, Volume, mn, % YoY","Japan, Exports, British Anguilla, Car, Volume, mn, % YoY",None,line
 "Japan, Exports, Central Africa, Car, Volume, mn, % YoY","Japan, Exports, Central Africa, Car, Volume, mn, % YoY",None,line
@@ -4205,6 +4207,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Semiconductors and semicon machinery, USD bn, % YoY","Japan, Exports, Semiconductors and semicon machinery, USD bn, % YoY",None,line
 "Japan, Exports, China excluding semicon machinery, USD bn, % YoY","Japan, Exports, China excluding semicon machinery, USD bn, % YoY",None,line
 "Japan, Exports, China and Hong Kong excluding semicon machinery, USD bn, % YoY","Japan, Exports, China and Hong Kong excluding semicon machinery, USD bn, % YoY",None,line
+"Japan, Exports, Afghanistan, Car, USD bn, % YoY","Japan, Exports, Afghanistan, Car, USD bn, % YoY",None,line
 "Japan, Exports, Bhutan, Car, USD bn, % YoY","Japan, Exports, Bhutan, Car, USD bn, % YoY",None,line
 "Japan, Exports, British Anguilla, Car, USD bn, % YoY","Japan, Exports, British Anguilla, Car, USD bn, % YoY",None,line
 "Japan, Exports, Central Africa, Car, USD bn, % YoY","Japan, Exports, Central Africa, Car, USD bn, % YoY",None,line
