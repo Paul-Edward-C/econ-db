@@ -5,16 +5,12 @@ name,display_name,data_type,chart_type
 "China, CPI, All items excluding food and energy, % YoY","China, CPI, All items excluding food and energy, % YoY",None,line
 "China, CPI, All items excluding food, % MoM","China, CPI, All items excluding food, % MoM",None,line
 "China, CPI, All items excluding food, % YoY","China, CPI, All items excluding food, % YoY",None,line
-"China, CPI, All items excluding fresh food, % MoM","China, CPI, All items excluding fresh food, % MoM",None,line
-"China, CPI, All items excluding fresh food, % YoY","China, CPI, All items excluding fresh food, % YoY",None,line
 "China, CPI, All items, % MoM","China, CPI, All items, % MoM",None,line
 "China, CPI, All items, % YoY","China, CPI, All items, % YoY",None,line
 "China, CPI, Clothing and footwear, % MoM","China, CPI, Clothing and footwear, % MoM",None,line
 "China, CPI, Clothing and footwear, % YoY","China, CPI, Clothing and footwear, % YoY",None,line
 "China, CPI, Clothing and footwear, Apparel, % MoM","China, CPI, Clothing and footwear, Apparel, % MoM",None,line
 "China, CPI, Clothing and footwear, Apparel, % YoY","China, CPI, Clothing and footwear, Apparel, % YoY",None,line
-"China, CPI, Clothing and footwear, Services, % MoM","China, CPI, Clothing and footwear, Services, % MoM",None,line
-"China, CPI, Clothing and footwear, Services, % YoY","China, CPI, Clothing and footwear, Services, % YoY",None,line
 "China, CPI, Clothing and footwear, Shoes, % MoM","China, CPI, Clothing and footwear, Shoes, % MoM",None,line
 "China, CPI, Clothing and footwear, Shoes, % YoY","China, CPI, Clothing and footwear, Shoes, % YoY",None,line
 "China, CPI, Education and recreation, % MoM","China, CPI, Education and recreation, % MoM",None,line
@@ -124,11 +120,9 @@ name,display_name,data_type,chart_type
 "China, CPI, Alcohol and tobacco, Index","China, CPI, Alcohol and tobacco, Index",None,line
 "China, CPI, All items excluding food and energy, Index","China, CPI, All items excluding food and energy, Index",None,line
 "China, CPI, All items excluding food, Index","China, CPI, All items excluding food, Index",None,line
-"China, CPI, All items excluding fresh food, Index","China, CPI, All items excluding fresh food, Index",None,line
 "China, CPI, All items, Index","China, CPI, All items, Index",None,line
 "China, CPI, Clothing and footwear, Index","China, CPI, Clothing and footwear, Index",None,line
 "China, CPI, Clothing and footwear, Apparel, Index","China, CPI, Clothing and footwear, Apparel, Index",None,line
-"China, CPI, Clothing and footwear, Services, Index","China, CPI, Clothing and footwear, Services, Index",None,line
 "China, CPI, Clothing and footwear, Shoes, Index","China, CPI, Clothing and footwear, Shoes, Index",None,line
 "China, CPI, Education and recreation, Index","China, CPI, Education and recreation, Index",None,line
 "China, CPI, Education and recreation, Education, Index","China, CPI, Education and recreation, Education, Index",None,line
@@ -229,16 +223,12 @@ name,display_name,data_type,chart_type
 "China, CPI, All items excluding food and energy, % YoY, 3mma","China, CPI, All items excluding food and energy, % YoY, 3mma",None,line
 "China, CPI, All items excluding food, % MoM, 3mma","China, CPI, All items excluding food, % MoM, 3mma",None,line
 "China, CPI, All items excluding food, % YoY, 3mma","China, CPI, All items excluding food, % YoY, 3mma",None,line
-"China, CPI, All items excluding fresh food, % MoM, 3mma","China, CPI, All items excluding fresh food, % MoM, 3mma",None,line
-"China, CPI, All items excluding fresh food, % YoY, 3mma","China, CPI, All items excluding fresh food, % YoY, 3mma",None,line
 "China, CPI, All items, % MoM, 3mma","China, CPI, All items, % MoM, 3mma",None,line
 "China, CPI, All items, % YoY, 3mma","China, CPI, All items, % YoY, 3mma",None,line
 "China, CPI, Clothing and footwear, % MoM, 3mma","China, CPI, Clothing and footwear, % MoM, 3mma",None,line
 "China, CPI, Clothing and footwear, % YoY, 3mma","China, CPI, Clothing and footwear, % YoY, 3mma",None,line
 "China, CPI, Clothing and footwear, Apparel, % MoM, 3mma","China, CPI, Clothing and footwear, Apparel, % MoM, 3mma",None,line
 "China, CPI, Clothing and footwear, Apparel, % YoY, 3mma","China, CPI, Clothing and footwear, Apparel, % YoY, 3mma",None,line
-"China, CPI, Clothing and footwear, Services, % MoM, 3mma","China, CPI, Clothing and footwear, Services, % MoM, 3mma",None,line
-"China, CPI, Clothing and footwear, Services, % YoY, 3mma","China, CPI, Clothing and footwear, Services, % YoY, 3mma",None,line
 "China, CPI, Clothing and footwear, Shoes, % MoM, 3mma","China, CPI, Clothing and footwear, Shoes, % MoM, 3mma",None,line
 "China, CPI, Clothing and footwear, Shoes, % YoY, 3mma","China, CPI, Clothing and footwear, Shoes, % YoY, 3mma",None,line
 "China, CPI, Education and recreation, % MoM, 3mma","China, CPI, Education and recreation, % MoM, 3mma",None,line
@@ -348,11 +338,9 @@ name,display_name,data_type,chart_type
 "China, CPI, Alcohol and tobacco, Index, 3mma","China, CPI, Alcohol and tobacco, Index, 3mma",None,line
 "China, CPI, All items excluding food and energy, Index, 3mma","China, CPI, All items excluding food and energy, Index, 3mma",None,line
 "China, CPI, All items excluding food, Index, 3mma","China, CPI, All items excluding food, Index, 3mma",None,line
-"China, CPI, All items excluding fresh food, Index, 3mma","China, CPI, All items excluding fresh food, Index, 3mma",None,line
 "China, CPI, All items, Index, 3mma","China, CPI, All items, Index, 3mma",None,line
 "China, CPI, Clothing and footwear, Index, 3mma","China, CPI, Clothing and footwear, Index, 3mma",None,line
 "China, CPI, Clothing and footwear, Apparel, Index, 3mma","China, CPI, Clothing and footwear, Apparel, Index, 3mma",None,line
-"China, CPI, Clothing and footwear, Services, Index, 3mma","China, CPI, Clothing and footwear, Services, Index, 3mma",None,line
 "China, CPI, Clothing and footwear, Shoes, Index, 3mma","China, CPI, Clothing and footwear, Shoes, Index, 3mma",None,line
 "China, CPI, Education and recreation, Index, 3mma","China, CPI, Education and recreation, Index, 3mma",None,line
 "China, CPI, Education and recreation, Education, Index, 3mma","China, CPI, Education and recreation, Education, Index, 3mma",None,line
