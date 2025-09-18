@@ -325,6 +325,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Bosnia and Herzegovina, USD bn","China, Area, Imports, Country, Bosnia and Herzegovina, USD bn",None,line
 "China, Area, Imports, Country, Botswana, USD bn","China, Area, Imports, Country, Botswana, USD bn",None,line
 "China, Area, Imports, Country, Brazil, USD bn","China, Area, Imports, Country, Brazil, USD bn",None,line
+"China, Area, Imports, Country, British Indian Ocean Territory, USD bn","China, Area, Imports, Country, British Indian Ocean Territory, USD bn",None,line
 "China, Area, Imports, Country, British Virgin Islands, USD bn","China, Area, Imports, Country, British Virgin Islands, USD bn",None,line
 "China, Area, Imports, Country, Brunei Darussalam, USD bn","China, Area, Imports, Country, Brunei Darussalam, USD bn",None,line
 "China, Area, Imports, Country, Brunei, USD bn","China, Area, Imports, Country, Brunei, USD bn",None,line
@@ -899,6 +900,7 @@ name,display_name,data_type,chart_type
 "China, Area, Trade balance, Country, Niger, USD bn","China, Area, Trade balance, Country, Niger, USD bn",None,line
 "China, Area, Trade balance, Country, Nigeria, USD bn","China, Area, Trade balance, Country, Nigeria, USD bn",None,line
 "China, Area, Trade balance, Country, Niue, USD bn","China, Area, Trade balance, Country, Niue, USD bn",None,line
+"China, Area, Trade balance, Country, Norfolk Island, USD bn","China, Area, Trade balance, Country, Norfolk Island, USD bn",None,line
 "China, Area, Trade balance, Country, North Macedonia, USD bn","China, Area, Trade balance, Country, North Macedonia, USD bn",None,line
 "China, Area, Trade balance, Country, Northern Mariana Islands, USD bn","China, Area, Trade balance, Country, Northern Mariana Islands, USD bn",None,line
 "China, Area, Trade balance, Country, Norway, USD bn","China, Area, Trade balance, Country, Norway, USD bn",None,line
@@ -1333,6 +1335,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Bosnia and Herzegovina, % of GDP","China, Area, Imports, Country, Bosnia and Herzegovina, % of GDP",None,line
 "China, Area, Imports, Country, Botswana, % of GDP","China, Area, Imports, Country, Botswana, % of GDP",None,line
 "China, Area, Imports, Country, Brazil, % of GDP","China, Area, Imports, Country, Brazil, % of GDP",None,line
+"China, Area, Imports, Country, British Indian Ocean Territory, % of GDP","China, Area, Imports, Country, British Indian Ocean Territory, % of GDP",None,line
 "China, Area, Imports, Country, British Virgin Islands, % of GDP","China, Area, Imports, Country, British Virgin Islands, % of GDP",None,line
 "China, Area, Imports, Country, Brunei Darussalam, % of GDP","China, Area, Imports, Country, Brunei Darussalam, % of GDP",None,line
 "China, Area, Imports, Country, Brunei, % of GDP","China, Area, Imports, Country, Brunei, % of GDP",None,line
@@ -1855,6 +1858,7 @@ name,display_name,data_type,chart_type
 "China, Area, Trade balance, Country, Niger, % of GDP","China, Area, Trade balance, Country, Niger, % of GDP",None,line
 "China, Area, Trade balance, Country, Nigeria, % of GDP","China, Area, Trade balance, Country, Nigeria, % of GDP",None,line
 "China, Area, Trade balance, Country, Niue, % of GDP","China, Area, Trade balance, Country, Niue, % of GDP",None,line
+"China, Area, Trade balance, Country, Norfolk Island, % of GDP","China, Area, Trade balance, Country, Norfolk Island, % of GDP",None,line
 "China, Area, Trade balance, Country, North Macedonia, % of GDP","China, Area, Trade balance, Country, North Macedonia, % of GDP",None,line
 "China, Area, Trade balance, Country, Northern Mariana Islands, % of GDP","China, Area, Trade balance, Country, Northern Mariana Islands, % of GDP",None,line
 "China, Area, Trade balance, Country, Norway, % of GDP","China, Area, Trade balance, Country, Norway, % of GDP",None,line
@@ -3382,8 +3386,8 @@ name,display_name,data_type,chart_type
 "China, SITC, Imports, Intermediates, USD bn","China, SITC, Imports, Intermediates, USD bn",None,line
 "China, SITC, Exports, Textiles, USD bn","China, SITC, Exports, Textiles, USD bn",None,line
 "China, SITC, Imports, Textiles, USD bn","China, SITC, Imports, Textiles, USD bn",None,line
-"China, SITC, Imports, Machinery, USD bn","China, SITC, Imports, Machinery, USD bn",None,line
 "China, SITC, Exports, Machinery, USD bn","China, SITC, Exports, Machinery, USD bn",None,line
+"China, SITC, Imports, Machinery, USD bn","China, SITC, Imports, Machinery, USD bn",None,line
 "China, SITC, Trade balance, 0 Food and live animals, USD bn","China, SITC, Trade balance, 0 Food and live animals, USD bn",None,line
 "China, SITC, Trade balance, 00 Live animals other than animals of division 03, USD bn","China, SITC, Trade balance, 00 Live animals other than animals of division 03, USD bn",None,line
 "China, SITC, Trade balance, 01 Meat and meat preparations, USD bn","China, SITC, Trade balance, 01 Meat and meat preparations, USD bn",None,line
@@ -3762,8 +3766,8 @@ name,display_name,data_type,chart_type
 "China, SITC, Imports, Metals, SA, USD bn","China, SITC, Imports, Metals, SA, USD bn",None,line
 "China, SITC, Exports, Intermediates, SA, USD bn","China, SITC, Exports, Intermediates, SA, USD bn",None,line
 "China, SITC, Imports, Intermediates, SA, USD bn","China, SITC, Imports, Intermediates, SA, USD bn",None,line
-"China, SITC, Imports, Machinery, SA, USD bn","China, SITC, Imports, Machinery, SA, USD bn",None,line
 "China, SITC, Exports, Machinery, SA, USD bn","China, SITC, Exports, Machinery, SA, USD bn",None,line
+"China, SITC, Imports, Machinery, SA, USD bn","China, SITC, Imports, Machinery, SA, USD bn",None,line
 "China, HS, Imports, 84 and 85 Excluding 8541, 8542 and 8486, World, SA, USD bn","China, HS, Imports, 84 and 85 Excluding 8541, 8542 and 8486, World, SA, USD bn",None,line
 "China, HS, Imports, 84 and 85, World, SA, USD bn","China, HS, Imports, 84 and 85, World, SA, USD bn",None,line
 "China, HS, Imports, 8541 and 8542, World, SA, USD bn","China, HS, Imports, 8541 and 8542, World, SA, USD bn",None,line
@@ -4390,8 +4394,8 @@ name,display_name,data_type,chart_type
 "China, SITC, Imports, Intermediates, % of GDP","China, SITC, Imports, Intermediates, % of GDP",None,line
 "China, SITC, Exports, Textiles, % of GDP","China, SITC, Exports, Textiles, % of GDP",None,line
 "China, SITC, Imports, Textiles, % of GDP","China, SITC, Imports, Textiles, % of GDP",None,line
-"China, SITC, Imports, Machinery, % of GDP","China, SITC, Imports, Machinery, % of GDP",None,line
 "China, SITC, Exports, Machinery, % of GDP","China, SITC, Exports, Machinery, % of GDP",None,line
+"China, SITC, Imports, Machinery, % of GDP","China, SITC, Imports, Machinery, % of GDP",None,line
 "China, SITC, Trade balance, 0 Food and live animals, % of GDP","China, SITC, Trade balance, 0 Food and live animals, % of GDP",None,line
 "China, SITC, Trade balance, 00 Live animals other than animals of division 03, % of GDP","China, SITC, Trade balance, 00 Live animals other than animals of division 03, % of GDP",None,line
 "China, SITC, Trade balance, 01 Meat and meat preparations, % of GDP","China, SITC, Trade balance, 01 Meat and meat preparations, % of GDP",None,line
@@ -4766,8 +4770,8 @@ name,display_name,data_type,chart_type
 "China, SITC, Imports, Metals, SA, % of GDP","China, SITC, Imports, Metals, SA, % of GDP",None,line
 "China, SITC, Exports, Intermediates, SA, % of GDP","China, SITC, Exports, Intermediates, SA, % of GDP",None,line
 "China, SITC, Imports, Intermediates, SA, % of GDP","China, SITC, Imports, Intermediates, SA, % of GDP",None,line
-"China, SITC, Imports, Machinery, SA, % of GDP","China, SITC, Imports, Machinery, SA, % of GDP",None,line
 "China, SITC, Exports, Machinery, SA, % of GDP","China, SITC, Exports, Machinery, SA, % of GDP",None,line
+"China, SITC, Imports, Machinery, SA, % of GDP","China, SITC, Imports, Machinery, SA, % of GDP",None,line
 "China, HS, Imports, 84 and 85 Excluding 8541, 8542 and 8486, World, SA, % of GDP","China, HS, Imports, 84 and 85 Excluding 8541, 8542 and 8486, World, SA, % of GDP",None,line
 "China, HS, Imports, 84 and 85, World, SA, % of GDP","China, HS, Imports, 84 and 85, World, SA, % of GDP",None,line
 "China, HS, Imports, 8541 and 8542, World, SA, % of GDP","China, HS, Imports, 8541 and 8542, World, SA, % of GDP",None,line
@@ -5642,8 +5646,8 @@ name,display_name,data_type,chart_type
 "China, SITC, Imports, Intermediates, USD bn, % YoY","China, SITC, Imports, Intermediates, USD bn, % YoY",None,line
 "China, SITC, Exports, Textiles, USD bn, % YoY","China, SITC, Exports, Textiles, USD bn, % YoY",None,line
 "China, SITC, Imports, Textiles, USD bn, % YoY","China, SITC, Imports, Textiles, USD bn, % YoY",None,line
-"China, SITC, Imports, Machinery, USD bn, % YoY","China, SITC, Imports, Machinery, USD bn, % YoY",None,line
 "China, SITC, Exports, Machinery, USD bn, % YoY","China, SITC, Exports, Machinery, USD bn, % YoY",None,line
+"China, SITC, Imports, Machinery, USD bn, % YoY","China, SITC, Imports, Machinery, USD bn, % YoY",None,line
 "China, SITC, Trade balance, 0 Food and live animals, USD bn, % YoY","China, SITC, Trade balance, 0 Food and live animals, USD bn, % YoY",None,line
 "China, SITC, Trade balance, 00 Live animals other than animals of division 03, USD bn, % YoY","China, SITC, Trade balance, 00 Live animals other than animals of division 03, USD bn, % YoY",None,line
 "China, SITC, Trade balance, 01 Meat and meat preparations, USD bn, % YoY","China, SITC, Trade balance, 01 Meat and meat preparations, USD bn, % YoY",None,line
@@ -6018,8 +6022,8 @@ name,display_name,data_type,chart_type
 "China, SITC, Imports, Metals, SA, USD bn, % MoM","China, SITC, Imports, Metals, SA, USD bn, % MoM",None,line
 "China, SITC, Exports, Intermediates, SA, USD bn, % MoM","China, SITC, Exports, Intermediates, SA, USD bn, % MoM",None,line
 "China, SITC, Imports, Intermediates, SA, USD bn, % MoM","China, SITC, Imports, Intermediates, SA, USD bn, % MoM",None,line
-"China, SITC, Imports, Machinery, SA, USD bn, % MoM","China, SITC, Imports, Machinery, SA, USD bn, % MoM",None,line
 "China, SITC, Exports, Machinery, SA, USD bn, % MoM","China, SITC, Exports, Machinery, SA, USD bn, % MoM",None,line
+"China, SITC, Imports, Machinery, SA, USD bn, % MoM","China, SITC, Imports, Machinery, SA, USD bn, % MoM",None,line
 "China, HS, Imports, 84 and 85 Excluding 8541, 8542 and 8486, World, SA, USD bn, % MoM","China, HS, Imports, 84 and 85 Excluding 8541, 8542 and 8486, World, SA, USD bn, % MoM",None,line
 "China, HS, Imports, 84 and 85, World, SA, USD bn, % MoM","China, HS, Imports, 84 and 85, World, SA, USD bn, % MoM",None,line
 "China, HS, Imports, 8541 and 8542, World, SA, USD bn, % MoM","China, HS, Imports, 8541 and 8542, World, SA, USD bn, % MoM",None,line
@@ -6078,8 +6082,8 @@ name,display_name,data_type,chart_type
 "China, SITC, Imports, Metals, SA, USD bn, MoM chg","China, SITC, Imports, Metals, SA, USD bn, MoM chg",None,line
 "China, SITC, Exports, Intermediates, SA, USD bn, MoM chg","China, SITC, Exports, Intermediates, SA, USD bn, MoM chg",None,line
 "China, SITC, Imports, Intermediates, SA, USD bn, MoM chg","China, SITC, Imports, Intermediates, SA, USD bn, MoM chg",None,line
-"China, SITC, Imports, Machinery, SA, USD bn, MoM chg","China, SITC, Imports, Machinery, SA, USD bn, MoM chg",None,line
 "China, SITC, Exports, Machinery, SA, USD bn, MoM chg","China, SITC, Exports, Machinery, SA, USD bn, MoM chg",None,line
+"China, SITC, Imports, Machinery, SA, USD bn, MoM chg","China, SITC, Imports, Machinery, SA, USD bn, MoM chg",None,line
 "China, HS, Imports, 84 and 85 Excluding 8541, 8542 and 8486, World, SA, USD bn, MoM chg","China, HS, Imports, 84 and 85 Excluding 8541, 8542 and 8486, World, SA, USD bn, MoM chg",None,line
 "China, HS, Imports, 84 and 85, World, SA, USD bn, MoM chg","China, HS, Imports, 84 and 85, World, SA, USD bn, MoM chg",None,line
 "China, HS, Imports, 8541 and 8542, World, SA, USD bn, MoM chg","China, HS, Imports, 8541 and 8542, World, SA, USD bn, MoM chg",None,line
