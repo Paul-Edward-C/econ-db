@@ -95,6 +95,8 @@ name,display_name,data_type,chart_type
 "China, Bank, PBC survey, Industry climate, SA","China, Bank, PBC survey, Industry climate, SA",None,line
 "China, Bank, PBC survey, Profitability, SA","China, Bank, PBC survey, Profitability, SA",None,line
 "China, Business, S&P PMI, Mfg and non-mfg, Average","China, Business, S&P PMI, Mfg and non-mfg, Average",None,line
+"China, Business, NBS and S&P PMI, Manufacturing, Average","China, Business, NBS and S&P PMI, Manufacturing, Average",None,line
+"China, Business, NBS and S&P PMI, Services, Average","China, Business, NBS and S&P PMI, Services, Average",None,line
 "China, Business, NBS PMI, Manufacturing, Outlook, LT average","China, Business, NBS PMI, Manufacturing, Outlook, LT average",None,line
 "China, Business, NBS PMI, Non-manufacturing, Outlook, LT average","China, Business, NBS PMI, Non-manufacturing, Outlook, LT average",None,line
 "China, Business, NBS PMI, Construction, LT average","China, Business, NBS PMI, Construction, LT average",None,line
@@ -195,6 +197,8 @@ name,display_name,data_type,chart_type
 "China, Bank, PBC survey, Industry climate, SA, 1M chg","China, Bank, PBC survey, Industry climate, SA, 1M chg",None,line
 "China, Bank, PBC survey, Profitability, SA, 1M chg","China, Bank, PBC survey, Profitability, SA, 1M chg",None,line
 "China, Business, S&P PMI, Mfg and non-mfg, Average, 1M chg","China, Business, S&P PMI, Mfg and non-mfg, Average, 1M chg",None,line
+"China, Business, NBS and S&P PMI, Manufacturing, Average, 1M chg","China, Business, NBS and S&P PMI, Manufacturing, Average, 1M chg",None,line
+"China, Business, NBS and S&P PMI, Services, Average, 1M chg","China, Business, NBS and S&P PMI, Services, Average, 1M chg",None,line
 "China, Business, NBS PMI, Manufacturing, Outlook, LT average, 1M chg","China, Business, NBS PMI, Manufacturing, Outlook, LT average, 1M chg",None,line
 "China, Business, NBS PMI, Non-manufacturing, Outlook, LT average, 1M chg","China, Business, NBS PMI, Non-manufacturing, Outlook, LT average, 1M chg",None,line
 "China, Business, NBS PMI, Construction, LT average, 1M chg","China, Business, NBS PMI, Construction, LT average, 1M chg",None,line
@@ -295,6 +299,8 @@ name,display_name,data_type,chart_type
 "China, Bank, PBC survey, Industry climate, SA, YoY chg","China, Bank, PBC survey, Industry climate, SA, YoY chg",None,line
 "China, Bank, PBC survey, Profitability, SA, YoY chg","China, Bank, PBC survey, Profitability, SA, YoY chg",None,line
 "China, Business, S&P PMI, Mfg and non-mfg, Average, YoY chg","China, Business, S&P PMI, Mfg and non-mfg, Average, YoY chg",None,line
+"China, Business, NBS and S&P PMI, Manufacturing, Average, YoY chg","China, Business, NBS and S&P PMI, Manufacturing, Average, YoY chg",None,line
+"China, Business, NBS and S&P PMI, Services, Average, YoY chg","China, Business, NBS and S&P PMI, Services, Average, YoY chg",None,line
 "China, Business, NBS PMI, Manufacturing, Outlook, LT average, YoY chg","China, Business, NBS PMI, Manufacturing, Outlook, LT average, YoY chg",None,line
 "China, Business, NBS PMI, Non-manufacturing, Outlook, LT average, YoY chg","China, Business, NBS PMI, Non-manufacturing, Outlook, LT average, YoY chg",None,line
 "China, Business, NBS PMI, Construction, LT average, YoY chg","China, Business, NBS PMI, Construction, LT average, YoY chg",None,line
@@ -396,6 +402,8 @@ name,display_name,data_type,chart_type
 "China, Bank, PBC survey, Industry climate, SA, 3mma","China, Bank, PBC survey, Industry climate, SA, 3mma",None,line
 "China, Bank, PBC survey, Profitability, SA, 3mma","China, Bank, PBC survey, Profitability, SA, 3mma",None,line
 "China, Business, S&P PMI, Mfg and non-mfg, Average, 3mma","China, Business, S&P PMI, Mfg and non-mfg, Average, 3mma",None,line
+"China, Business, NBS and S&P PMI, Manufacturing, Average, 3mma","China, Business, NBS and S&P PMI, Manufacturing, Average, 3mma",None,line
+"China, Business, NBS and S&P PMI, Services, Average, 3mma","China, Business, NBS and S&P PMI, Services, Average, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Outlook, LT average, 3mma","China, Business, NBS PMI, Manufacturing, Outlook, LT average, 3mma",None,line
 "China, Business, NBS PMI, Non-manufacturing, Outlook, LT average, 3mma","China, Business, NBS PMI, Non-manufacturing, Outlook, LT average, 3mma",None,line
 "China, Business, NBS PMI, Construction, LT average, 3mma","China, Business, NBS PMI, Construction, LT average, 3mma",None,line
@@ -496,6 +504,8 @@ name,display_name,data_type,chart_type
 "China, Bank, PBC survey, Industry climate, SA, 1M chg, 3mma","China, Bank, PBC survey, Industry climate, SA, 1M chg, 3mma",None,line
 "China, Bank, PBC survey, Profitability, SA, 1M chg, 3mma","China, Bank, PBC survey, Profitability, SA, 1M chg, 3mma",None,line
 "China, Business, S&P PMI, Mfg and non-mfg, Average, 1M chg, 3mma","China, Business, S&P PMI, Mfg and non-mfg, Average, 1M chg, 3mma",None,line
+"China, Business, NBS and S&P PMI, Manufacturing, Average, 1M chg, 3mma","China, Business, NBS and S&P PMI, Manufacturing, Average, 1M chg, 3mma",None,line
+"China, Business, NBS and S&P PMI, Services, Average, 1M chg, 3mma","China, Business, NBS and S&P PMI, Services, Average, 1M chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Outlook, LT average, 1M chg, 3mma","China, Business, NBS PMI, Manufacturing, Outlook, LT average, 1M chg, 3mma",None,line
 "China, Business, NBS PMI, Non-manufacturing, Outlook, LT average, 1M chg, 3mma","China, Business, NBS PMI, Non-manufacturing, Outlook, LT average, 1M chg, 3mma",None,line
 "China, Business, NBS PMI, Construction, LT average, 1M chg, 3mma","China, Business, NBS PMI, Construction, LT average, 1M chg, 3mma",None,line
@@ -596,6 +606,8 @@ name,display_name,data_type,chart_type
 "China, Bank, PBC survey, Industry climate, SA, YoY chg, 3mma","China, Bank, PBC survey, Industry climate, SA, YoY chg, 3mma",None,line
 "China, Bank, PBC survey, Profitability, SA, YoY chg, 3mma","China, Bank, PBC survey, Profitability, SA, YoY chg, 3mma",None,line
 "China, Business, S&P PMI, Mfg and non-mfg, Average, YoY chg, 3mma","China, Business, S&P PMI, Mfg and non-mfg, Average, YoY chg, 3mma",None,line
+"China, Business, NBS and S&P PMI, Manufacturing, Average, YoY chg, 3mma","China, Business, NBS and S&P PMI, Manufacturing, Average, YoY chg, 3mma",None,line
+"China, Business, NBS and S&P PMI, Services, Average, YoY chg, 3mma","China, Business, NBS and S&P PMI, Services, Average, YoY chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Outlook, LT average, YoY chg, 3mma","China, Business, NBS PMI, Manufacturing, Outlook, LT average, YoY chg, 3mma",None,line
 "China, Business, NBS PMI, Non-manufacturing, Outlook, LT average, YoY chg, 3mma","China, Business, NBS PMI, Non-manufacturing, Outlook, LT average, YoY chg, 3mma",None,line
 "China, Business, NBS PMI, Construction, LT average, YoY chg, 3mma","China, Business, NBS PMI, Construction, LT average, YoY chg, 3mma",None,line
