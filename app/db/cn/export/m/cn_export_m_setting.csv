@@ -584,6 +584,8 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Region, DM, USD bn","China, Area, Exports, Region, DM, USD bn",None,line
 "China, Area, Exports, Region, DM excluding US, USD bn","China, Area, Exports, Region, DM excluding US, USD bn",None,line
 "China, Area, Exports, Region, EM, USD bn","China, Area, Exports, Region, EM, USD bn",None,line
+"China, Area, Exports, Region, BRICs, USD bn","China, Area, Exports, Region, BRICs, USD bn",None,line
+"China, Area, Exports, Region, Defined area, USD bn","China, Area, Exports, Region, Defined area, USD bn",None,line
 "China, Area, Imports, Region, North Asia, USD bn","China, Area, Imports, Region, North Asia, USD bn",None,line
 "China, Area, Imports, Region, Developed Europe, USD bn","China, Area, Imports, Region, Developed Europe, USD bn",None,line
 "China, Area, Imports, Region, DM excl Japan, USD bn","China, Area, Imports, Region, DM excl Japan, USD bn",None,line
@@ -603,6 +605,8 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Region, DM, USD bn","China, Area, Imports, Region, DM, USD bn",None,line
 "China, Area, Imports, Region, DM excluding US, USD bn","China, Area, Imports, Region, DM excluding US, USD bn",None,line
 "China, Area, Imports, Region, EM, USD bn","China, Area, Imports, Region, EM, USD bn",None,line
+"China, Area, Imports, Region, BRICs, USD bn","China, Area, Imports, Region, BRICs, USD bn",None,line
+"China, Area, Imports, Region, Defined area, USD bn","China, Area, Imports, Region, Defined area, USD bn",None,line
 "China, Area, Exports, Region, EU, SA, USD bn","China, Area, Exports, Region, EU, SA, USD bn",None,line
 "China, Area, Exports, Region, Developed Europe, SA, USD bn","China, Area, Exports, Region, Developed Europe, SA, USD bn",None,line
 "China, Area, Exports, Country, US, SA, USD bn","China, Area, Exports, Country, US, SA, USD bn",None,line
@@ -1594,6 +1598,8 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Region, DM, % of GDP","China, Area, Exports, Region, DM, % of GDP",None,line
 "China, Area, Exports, Region, DM excluding US, % of GDP","China, Area, Exports, Region, DM excluding US, % of GDP",None,line
 "China, Area, Exports, Region, EM, % of GDP","China, Area, Exports, Region, EM, % of GDP",None,line
+"China, Area, Exports, Region, BRICs, % of GDP","China, Area, Exports, Region, BRICs, % of GDP",None,line
+"China, Area, Exports, Region, Defined area, % of GDP","China, Area, Exports, Region, Defined area, % of GDP",None,line
 "China, Area, Imports, Region, North Asia, % of GDP","China, Area, Imports, Region, North Asia, % of GDP",None,line
 "China, Area, Imports, Region, Developed Europe, % of GDP","China, Area, Imports, Region, Developed Europe, % of GDP",None,line
 "China, Area, Imports, Region, DM excl Japan, % of GDP","China, Area, Imports, Region, DM excl Japan, % of GDP",None,line
@@ -1613,6 +1619,8 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Region, DM, % of GDP","China, Area, Imports, Region, DM, % of GDP",None,line
 "China, Area, Imports, Region, DM excluding US, % of GDP","China, Area, Imports, Region, DM excluding US, % of GDP",None,line
 "China, Area, Imports, Region, EM, % of GDP","China, Area, Imports, Region, EM, % of GDP",None,line
+"China, Area, Imports, Region, BRICs, % of GDP","China, Area, Imports, Region, BRICs, % of GDP",None,line
+"China, Area, Imports, Region, Defined area, % of GDP","China, Area, Imports, Region, Defined area, % of GDP",None,line
 "China, Area, Exports, Region, EU, SA, % of GDP","China, Area, Exports, Region, EU, SA, % of GDP",None,line
 "China, Area, Exports, Region, Developed Europe, SA, % of GDP","China, Area, Exports, Region, Developed Europe, SA, % of GDP",None,line
 "China, Area, Exports, Country, US, SA, % of GDP","China, Area, Exports, Country, US, SA, % of GDP",None,line
@@ -2399,6 +2407,48 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Yemen, USD bn, % YoY","China, Area, Imports, Country, Yemen, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Zambia, USD bn, % YoY","China, Area, Imports, Country, Zambia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Zimbabwe, USD bn, % YoY","China, Area, Imports, Country, Zimbabwe, USD bn, % YoY",None,line
+"China, Area, Exports, Region, North Asia, USD bn, % YoY","China, Area, Exports, Region, North Asia, USD bn, % YoY",None,line
+"China, Area, Exports, Region, Developed Europe, USD bn, % YoY","China, Area, Exports, Region, Developed Europe, USD bn, % YoY",None,line
+"China, Area, Exports, Region, DM excl Japan, USD bn, % YoY","China, Area, Exports, Region, DM excl Japan, USD bn, % YoY",None,line
+"China, Area, Exports, Region, Developed Oceania, USD bn, % YoY","China, Area, Exports, Region, Developed Oceania, USD bn, % YoY",None,line
+"China, Area, Exports, Region, DM incl North Asia, USD bn, % YoY","China, Area, Exports, Region, DM incl North Asia, USD bn, % YoY",None,line
+"China, Area, Exports, Region, Other Europe, USD bn, % YoY","China, Area, Exports, Region, Other Europe, USD bn, % YoY",None,line
+"China, Area, Exports, Region, Middle East, USD bn, % YoY","China, Area, Exports, Region, Middle East, USD bn, % YoY",None,line
+"China, Area, Exports, Region, Other Asia incl Middle East, USD bn, % YoY","China, Area, Exports, Region, Other Asia incl Middle East, USD bn, % YoY",None,line
+"China, Area, Exports, Region, Other Asia excl Middle East, USD bn, % YoY","China, Area, Exports, Region, Other Asia excl Middle East, USD bn, % YoY",None,line
+"China, Area, Exports, Region, Other Oceania, USD bn, % YoY","China, Area, Exports, Region, Other Oceania, USD bn, % YoY",None,line
+"China, Area, Exports, Region, Developed North America, USD bn, % YoY","China, Area, Exports, Region, Developed North America, USD bn, % YoY",None,line
+"China, Area, Exports, Region, Other North America, USD bn, % YoY","China, Area, Exports, Region, Other North America, USD bn, % YoY",None,line
+"China, Area, Exports, Region, ROW incl Middle East, USD bn, % YoY","China, Area, Exports, Region, ROW incl Middle East, USD bn, % YoY",None,line
+"China, Area, Exports, Region, ROW excl Middle East, USD bn, % YoY","China, Area, Exports, Region, ROW excl Middle East, USD bn, % YoY",None,line
+"China, Area, Exports, Region, ROW, USD bn, % YoY","China, Area, Exports, Region, ROW, USD bn, % YoY",None,line
+"China, Area, Exports, Region, Latin America and Africa, USD bn, % YoY","China, Area, Exports, Region, Latin America and Africa, USD bn, % YoY",None,line
+"China, Area, Exports, Region, DM, USD bn, % YoY","China, Area, Exports, Region, DM, USD bn, % YoY",None,line
+"China, Area, Exports, Region, DM excluding US, USD bn, % YoY","China, Area, Exports, Region, DM excluding US, USD bn, % YoY",None,line
+"China, Area, Exports, Region, EM, USD bn, % YoY","China, Area, Exports, Region, EM, USD bn, % YoY",None,line
+"China, Area, Exports, Region, BRICs, USD bn, % YoY","China, Area, Exports, Region, BRICs, USD bn, % YoY",None,line
+"China, Area, Exports, Region, Defined area, USD bn, % YoY","China, Area, Exports, Region, Defined area, USD bn, % YoY",None,line
+"China, Area, Imports, Region, North Asia, USD bn, % YoY","China, Area, Imports, Region, North Asia, USD bn, % YoY",None,line
+"China, Area, Imports, Region, Developed Europe, USD bn, % YoY","China, Area, Imports, Region, Developed Europe, USD bn, % YoY",None,line
+"China, Area, Imports, Region, DM excl Japan, USD bn, % YoY","China, Area, Imports, Region, DM excl Japan, USD bn, % YoY",None,line
+"China, Area, Imports, Region, Developed Oceania, USD bn, % YoY","China, Area, Imports, Region, Developed Oceania, USD bn, % YoY",None,line
+"China, Area, Imports, Region, DM incl North Asia, USD bn, % YoY","China, Area, Imports, Region, DM incl North Asia, USD bn, % YoY",None,line
+"China, Area, Imports, Region, Other Europe, USD bn, % YoY","China, Area, Imports, Region, Other Europe, USD bn, % YoY",None,line
+"China, Area, Imports, Region, Middle East, USD bn, % YoY","China, Area, Imports, Region, Middle East, USD bn, % YoY",None,line
+"China, Area, Imports, Region, Other Asia incl Middle East, USD bn, % YoY","China, Area, Imports, Region, Other Asia incl Middle East, USD bn, % YoY",None,line
+"China, Area, Imports, Region, Other Asia excl Middle East, USD bn, % YoY","China, Area, Imports, Region, Other Asia excl Middle East, USD bn, % YoY",None,line
+"China, Area, Imports, Region, Other Oceania, USD bn, % YoY","China, Area, Imports, Region, Other Oceania, USD bn, % YoY",None,line
+"China, Area, Imports, Region, Developed North America, USD bn, % YoY","China, Area, Imports, Region, Developed North America, USD bn, % YoY",None,line
+"China, Area, Imports, Region, Other North America, USD bn, % YoY","China, Area, Imports, Region, Other North America, USD bn, % YoY",None,line
+"China, Area, Imports, Region, ROW incl Middle East, USD bn, % YoY","China, Area, Imports, Region, ROW incl Middle East, USD bn, % YoY",None,line
+"China, Area, Imports, Region, ROW excl Middle East, USD bn, % YoY","China, Area, Imports, Region, ROW excl Middle East, USD bn, % YoY",None,line
+"China, Area, Imports, Region, ROW, USD bn, % YoY","China, Area, Imports, Region, ROW, USD bn, % YoY",None,line
+"China, Area, Imports, Region, Latin America and Africa, USD bn, % YoY","China, Area, Imports, Region, Latin America and Africa, USD bn, % YoY",None,line
+"China, Area, Imports, Region, DM, USD bn, % YoY","China, Area, Imports, Region, DM, USD bn, % YoY",None,line
+"China, Area, Imports, Region, DM excluding US, USD bn, % YoY","China, Area, Imports, Region, DM excluding US, USD bn, % YoY",None,line
+"China, Area, Imports, Region, EM, USD bn, % YoY","China, Area, Imports, Region, EM, USD bn, % YoY",None,line
+"China, Area, Imports, Region, BRICs, USD bn, % YoY","China, Area, Imports, Region, BRICs, USD bn, % YoY",None,line
+"China, Area, Imports, Region, Defined area, USD bn, % YoY","China, Area, Imports, Region, Defined area, USD bn, % YoY",None,line
 "China, Area, Exports, Region, EU, SA, USD bn, % MoM","China, Area, Exports, Region, EU, SA, USD bn, % MoM",None,line
 "China, Area, Exports, Region, Developed Europe, SA, USD bn, % MoM","China, Area, Exports, Region, Developed Europe, SA, USD bn, % MoM",None,line
 "China, Area, Exports, Country, US, SA, USD bn, % MoM","China, Area, Exports, Country, US, SA, USD bn, % MoM",None,line
@@ -2507,6 +2557,15 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Region, ASEAN, Contribution to YoY % chg, ppts","China, Area, Exports, Region, ASEAN, Contribution to YoY % chg, ppts",None,bar
 "China, Area, Exports, Region, North Asia, Contribution to YoY % chg, ppts","China, Area, Exports, Region, North Asia, Contribution to YoY % chg, ppts",None,bar
 "China, Area, Exports, Region, EM, Contribution to YoY % chg, ppts","China, Area, Exports, Region, EM, Contribution to YoY % chg, ppts",None,bar
+"China, Area, Exports, Region, Developed Europe, Contribution to YoY % chg, ppts","China, Area, Exports, Region, Developed Europe, Contribution to YoY % chg, ppts",None,bar
+"China, Area, Exports, Region, Developed Oceania, Contribution to YoY % chg, ppts","China, Area, Exports, Region, Developed Oceania, Contribution to YoY % chg, ppts",None,bar
+"China, Area, Exports, Region, Africa, Contribution to YoY % chg, ppts","China, Area, Exports, Region, Africa, Contribution to YoY % chg, ppts",None,bar
+"China, Area, Exports, Region, Latin America, Contribution to YoY % chg, ppts","China, Area, Exports, Region, Latin America, Contribution to YoY % chg, ppts",None,bar
+"China, Area, Exports, Region, Developed North America, Contribution to YoY % chg, ppts","China, Area, Exports, Region, Developed North America, Contribution to YoY % chg, ppts",None,bar
+"China, Area, Exports, Country, US, Contribution to YoY % chg, ppts","China, Area, Exports, Country, US, Contribution to YoY % chg, ppts",None,bar
+"China, Area, Exports, Country, Russia, Contribution to YoY % chg, ppts","China, Area, Exports, Country, Russia, Contribution to YoY % chg, ppts",None,bar
+"China, Area, Exports, Region, ROW, Contribution to YoY % chg, ppts","China, Area, Exports, Region, ROW, Contribution to YoY % chg, ppts",None,bar
+"China, Area, Exports, Region, BRICs, Contribution to YoY % chg, ppts","China, Area, Exports, Region, BRICs, Contribution to YoY % chg, ppts",None,bar
 "China, Area, Trade balance, Country, Positive cats, Share of total, %","China, Area, Trade balance, Country, Positive cats, Share of total, %",None,line
 "China, Area, Trade balance, Country, Over USD 1bn, Share of total, %","China, Area, Trade balance, Country, Over USD 1bn, Share of total, %",None,line
 "China, Major product, Exports, Passenger cars, Volume, th","China, Major product, Exports, Passenger cars, Volume, th",None,line
@@ -3719,6 +3778,10 @@ name,display_name,data_type,chart_type
 "China, HS, Exports, Autos, ICE, Russia, USD bn","China, HS, Exports, Autos, ICE, Russia, USD bn",None,line
 "China, HS, Exports, Autos, ICE, World, USD bn","China, HS, Exports, Autos, ICE, World, USD bn",None,line
 "China, HS, Trade balance, 84 and 85 four digit, Positive cats, Share of total, %","China, HS, Trade balance, 84 and 85 four digit, Positive cats, Share of total, %",None,line
+"China, Exports, ROW, USD bn","China, Exports, ROW, USD bn",None,line
+"China, Exports, All excluding Hong Kong, USD bn","China, Exports, All excluding Hong Kong, USD bn",None,line
+"China, Imports, ROW, USD bn","China, Imports, ROW, USD bn",None,line
+"China, Imports, All excluding Hong Kong, USD bn","China, Imports, All excluding Hong Kong, USD bn",None,line
 "China, Major product, Exports, Garments and clothing accessories, SA, USD bn","China, Major product, Exports, Garments and clothing accessories, SA, USD bn",None,line
 "China, Major product, Exports, Mechanical and electrical products, SA, USD bn","China, Major product, Exports, Mechanical and electrical products, SA, USD bn",None,line
 "China, Major product, Exports, Motor vehicles including chassis fitted with engines, SA, USD bn","China, Major product, Exports, Motor vehicles including chassis fitted with engines, SA, USD bn",None,line
@@ -4726,6 +4789,10 @@ name,display_name,data_type,chart_type
 "China, HS, Exports, Autos, ICE, Japan, % of GDP","China, HS, Exports, Autos, ICE, Japan, % of GDP",None,line
 "China, HS, Exports, Autos, ICE, Russia, % of GDP","China, HS, Exports, Autos, ICE, Russia, % of GDP",None,line
 "China, HS, Exports, Autos, ICE, World, % of GDP","China, HS, Exports, Autos, ICE, World, % of GDP",None,line
+"China, Exports, ROW, % of GDP","China, Exports, ROW, % of GDP",None,line
+"China, Exports, All excluding Hong Kong, % of GDP","China, Exports, All excluding Hong Kong, % of GDP",None,line
+"China, Imports, ROW, % of GDP","China, Imports, ROW, % of GDP",None,line
+"China, Imports, All excluding Hong Kong, % of GDP","China, Imports, All excluding Hong Kong, % of GDP",None,line
 "China, Major product, Exports, Garments and clothing accessories, SA, % of GDP","China, Major product, Exports, Garments and clothing accessories, SA, % of GDP",None,line
 "China, Major product, Exports, Mechanical and electrical products, SA, % of GDP","China, Major product, Exports, Mechanical and electrical products, SA, % of GDP",None,line
 "China, Major product, Exports, Motor vehicles including chassis fitted with engines, SA, % of GDP","China, Major product, Exports, Motor vehicles including chassis fitted with engines, SA, % of GDP",None,line
@@ -5975,6 +6042,10 @@ name,display_name,data_type,chart_type
 "China, HS, Exports, Autos, ICE, Japan, USD bn, % YoY","China, HS, Exports, Autos, ICE, Japan, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, ICE, Russia, USD bn, % YoY","China, HS, Exports, Autos, ICE, Russia, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, ICE, World, USD bn, % YoY","China, HS, Exports, Autos, ICE, World, USD bn, % YoY",None,line
+"China, Exports, ROW, USD bn, % YoY","China, Exports, ROW, USD bn, % YoY",None,line
+"China, Exports, All excluding Hong Kong, USD bn, % YoY","China, Exports, All excluding Hong Kong, USD bn, % YoY",None,line
+"China, Imports, ROW, USD bn, % YoY","China, Imports, ROW, USD bn, % YoY",None,line
+"China, Imports, All excluding Hong Kong, USD bn, % YoY","China, Imports, All excluding Hong Kong, USD bn, % YoY",None,line
 "China, Major product, Exports, Garments and clothing accessories, SA, USD bn, % MoM","China, Major product, Exports, Garments and clothing accessories, SA, USD bn, % MoM",None,line
 "China, Major product, Exports, Mechanical and electrical products, SA, USD bn, % MoM","China, Major product, Exports, Mechanical and electrical products, SA, USD bn, % MoM",None,line
 "China, Major product, Exports, Motor vehicles including chassis fitted with engines, SA, USD bn, % MoM","China, Major product, Exports, Motor vehicles including chassis fitted with engines, SA, USD bn, % MoM",None,line
