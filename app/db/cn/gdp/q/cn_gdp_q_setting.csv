@@ -1237,6 +1237,7 @@ name,display_name,data_type,chart_type
 "China, RGDP, Revisions, % QoQ, Dec-2024","China, RGDP, Revisions, % QoQ, Dec-2024",None,line
 "China, RGDP, Revisions, % QoQ, Mar-2025","China, RGDP, Revisions, % QoQ, Mar-2025",None,line
 "China, RGDP, Revisions, % QoQ, Jun-2025","China, RGDP, Revisions, % QoQ, Jun-2025",None,line
+"China, RGDP, Revisions, % QoQ, Sep-2025","China, RGDP, Revisions, % QoQ, Sep-2025",None,line
 "China, RGDP, Revisions, Index, Mar-2017","China, RGDP, Revisions, Index, Mar-2017",None,line
 "China, RGDP, Revisions, Index, Jun-2017","China, RGDP, Revisions, Index, Jun-2017",None,line
 "China, RGDP, Revisions, Index, Sep-2017","China, RGDP, Revisions, Index, Sep-2017",None,line
@@ -1271,6 +1272,7 @@ name,display_name,data_type,chart_type
 "China, RGDP, Revisions, Index, Dec-2024","China, RGDP, Revisions, Index, Dec-2024",None,line
 "China, RGDP, Revisions, Index, Mar-2025","China, RGDP, Revisions, Index, Mar-2025",None,line
 "China, RGDP, Revisions, Index, Jun-2025","China, RGDP, Revisions, Index, Jun-2025",None,line
+"China, RGDP, Revisions, Index, Sep-2025","China, RGDP, Revisions, Index, Sep-2025",None,line
 "China, NGDP, Activity, % YoY, 12M average","China, NGDP, Activity, % YoY, 12M average",None,line
 "China, NGDP, Activity, Primary, Agriculture, % YoY, 12M average","China, NGDP, Activity, Primary, Agriculture, % YoY, 12M average",None,line
 "China, NGDP, Activity, Primary, Agriculture, CNY bn, 12M average","China, NGDP, Activity, Primary, Agriculture, CNY bn, 12M average",None,line
@@ -2509,6 +2511,7 @@ name,display_name,data_type,chart_type
 "China, RGDP, Revisions, % QoQ, Dec-2024, 12M average","China, RGDP, Revisions, % QoQ, Dec-2024, 12M average",None,line
 "China, RGDP, Revisions, % QoQ, Mar-2025, 12M average","China, RGDP, Revisions, % QoQ, Mar-2025, 12M average",None,line
 "China, RGDP, Revisions, % QoQ, Jun-2025, 12M average","China, RGDP, Revisions, % QoQ, Jun-2025, 12M average",None,line
+"China, RGDP, Revisions, % QoQ, Sep-2025, 12M average","China, RGDP, Revisions, % QoQ, Sep-2025, 12M average",None,line
 "China, RGDP, Revisions, Index, Mar-2017, 12M average","China, RGDP, Revisions, Index, Mar-2017, 12M average",None,line
 "China, RGDP, Revisions, Index, Jun-2017, 12M average","China, RGDP, Revisions, Index, Jun-2017, 12M average",None,line
 "China, RGDP, Revisions, Index, Sep-2017, 12M average","China, RGDP, Revisions, Index, Sep-2017, 12M average",None,line
@@ -2543,3 +2546,4 @@ name,display_name,data_type,chart_type
 "China, RGDP, Revisions, Index, Dec-2024, 12M average","China, RGDP, Revisions, Index, Dec-2024, 12M average",None,line
 "China, RGDP, Revisions, Index, Mar-2025, 12M average","China, RGDP, Revisions, Index, Mar-2025, 12M average",None,line
 "China, RGDP, Revisions, Index, Jun-2025, 12M average","China, RGDP, Revisions, Index, Jun-2025, 12M average",None,line
+"China, RGDP, Revisions, Index, Sep-2025, 12M average","China, RGDP, Revisions, Index, Sep-2025, 12M average",None,line
