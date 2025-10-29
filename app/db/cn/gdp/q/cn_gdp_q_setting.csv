@@ -117,6 +117,7 @@ name,display_name,data_type,chart_type
 "China, NGDP, Activity, Tertiary, Accommodation and food services, SA, CNY bn","China, NGDP, Activity, Tertiary, Accommodation and food services, SA, CNY bn",None,line
 "China, NGDP, Activity, Tertiary, Wholesale and retail trade, SA, CNY bn","China, NGDP, Activity, Tertiary, Wholesale and retail trade, SA, CNY bn",None,line
 "China, NGDP, Activity, Secondary, Industry, Manufacturing, SA, CNY bn","China, NGDP, Activity, Secondary, Industry, Manufacturing, SA, CNY bn",None,line
+"China, NGDP, Activity, Tertiary, Real estate, SA, CNY bn","China, NGDP, Activity, Tertiary, Real estate, SA, CNY bn",None,line
 "China, NGDP, Activity, Tertiary, SA, CNY bn","China, NGDP, Activity, Tertiary, SA, CNY bn",None,line
 "China, NGDP, Activity, Secondary, SA, CNY bn","China, NGDP, Activity, Secondary, SA, CNY bn",None,line
 "China, RGDP, Activity, SA, CNY bn","China, RGDP, Activity, SA, CNY bn",None,line
@@ -1198,6 +1199,7 @@ name,display_name,data_type,chart_type
 "China, NGDP, Activity, Tertiary, Accommodation and food services, SA, % of GDP","China, NGDP, Activity, Tertiary, Accommodation and food services, SA, % of GDP",None,line
 "China, NGDP, Activity, Tertiary, Wholesale and retail trade, SA, % of GDP","China, NGDP, Activity, Tertiary, Wholesale and retail trade, SA, % of GDP",None,line
 "China, NGDP, Activity, Secondary, Industry, Manufacturing, SA, % of GDP","China, NGDP, Activity, Secondary, Industry, Manufacturing, SA, % of GDP",None,line
+"China, NGDP, Activity, Tertiary, Real estate, SA, % of GDP","China, NGDP, Activity, Tertiary, Real estate, SA, % of GDP",None,line
 "China, NGDP, Activity, Tertiary, SA, % of GDP","China, NGDP, Activity, Tertiary, SA, % of GDP",None,line
 "China, NGDP, Activity, Secondary, SA, % of GDP","China, NGDP, Activity, Secondary, SA, % of GDP",None,line
 "China, RGDP, Activity, index, HP filter trend","China, RGDP, Activity, index, HP filter trend",,line
@@ -1391,6 +1393,7 @@ name,display_name,data_type,chart_type
 "China, NGDP, Activity, Tertiary, Accommodation and food services, SA, CNY bn, 12M average","China, NGDP, Activity, Tertiary, Accommodation and food services, SA, CNY bn, 12M average",None,line
 "China, NGDP, Activity, Tertiary, Wholesale and retail trade, SA, CNY bn, 12M average","China, NGDP, Activity, Tertiary, Wholesale and retail trade, SA, CNY bn, 12M average",None,line
 "China, NGDP, Activity, Secondary, Industry, Manufacturing, SA, CNY bn, 12M average","China, NGDP, Activity, Secondary, Industry, Manufacturing, SA, CNY bn, 12M average",None,line
+"China, NGDP, Activity, Tertiary, Real estate, SA, CNY bn, 12M average","China, NGDP, Activity, Tertiary, Real estate, SA, CNY bn, 12M average",None,line
 "China, NGDP, Activity, Tertiary, SA, CNY bn, 12M average","China, NGDP, Activity, Tertiary, SA, CNY bn, 12M average",None,line
 "China, NGDP, Activity, Secondary, SA, CNY bn, 12M average","China, NGDP, Activity, Secondary, SA, CNY bn, 12M average",None,line
 "China, RGDP, Activity, SA, CNY bn, 12M average","China, RGDP, Activity, SA, CNY bn, 12M average",None,line
@@ -2472,6 +2475,7 @@ name,display_name,data_type,chart_type
 "China, NGDP, Activity, Tertiary, Accommodation and food services, SA, % of GDP, 12M average","China, NGDP, Activity, Tertiary, Accommodation and food services, SA, % of GDP, 12M average",None,line
 "China, NGDP, Activity, Tertiary, Wholesale and retail trade, SA, % of GDP, 12M average","China, NGDP, Activity, Tertiary, Wholesale and retail trade, SA, % of GDP, 12M average",None,line
 "China, NGDP, Activity, Secondary, Industry, Manufacturing, SA, % of GDP, 12M average","China, NGDP, Activity, Secondary, Industry, Manufacturing, SA, % of GDP, 12M average",None,line
+"China, NGDP, Activity, Tertiary, Real estate, SA, % of GDP, 12M average","China, NGDP, Activity, Tertiary, Real estate, SA, % of GDP, 12M average",None,line
 "China, NGDP, Activity, Tertiary, SA, % of GDP, 12M average","China, NGDP, Activity, Tertiary, SA, % of GDP, 12M average",None,line
 "China, NGDP, Activity, Secondary, SA, % of GDP, 12M average","China, NGDP, Activity, Secondary, SA, % of GDP, 12M average",None,line
 "China, RGDP, Activity, index, HP filter trend, 12M average","China, RGDP, Activity, index, HP filter trend, 12M average",,line
