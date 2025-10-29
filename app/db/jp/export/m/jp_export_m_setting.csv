@@ -2890,6 +2890,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, China, TELEPHONY, TELEGRAPHY, JPY bn, % YoY","Japan, Exports, China, TELEPHONY, TELEGRAPHY, JPY bn, % YoY",None,line
 "Japan, Exports, China, TEXTILE MACHINES, JPY bn, % YoY","Japan, Exports, China, TEXTILE MACHINES, JPY bn, % YoY",None,line
 "Japan, Exports, China, TEXTILE YARN, FABRICS, JPY bn, % YoY","Japan, Exports, China, TEXTILE YARN, FABRICS, JPY bn, % YoY",None,line
+"Japan, Imports, China, (COAL N.E.S), JPY bn, % YoY","Japan, Imports, China, (COAL N.E.S), JPY bn, % YoY",None,line
 "Japan, Imports, China, (IC), JPY bn, % YoY","Japan, Imports, China, (IC), JPY bn, % YoY",None,line
 "Japan, Imports, China, (PETROLEUM SPIRITS), JPY bn, % YoY","Japan, Imports, China, (PETROLEUM SPIRITS), JPY bn, % YoY",None,line
 "Japan, Imports, China, (TELEPHONE SETS), JPY bn, % YoY","Japan, Imports, China, (TELEPHONE SETS), JPY bn, % YoY",None,line
@@ -4132,6 +4133,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, China, TELEPHONY, TELEGRAPHY, USD bn, % YoY","Japan, Exports, China, TELEPHONY, TELEGRAPHY, USD bn, % YoY",None,line
 "Japan, Exports, China, TEXTILE MACHINES, USD bn, % YoY","Japan, Exports, China, TEXTILE MACHINES, USD bn, % YoY",None,line
 "Japan, Exports, China, TEXTILE YARN, FABRICS, USD bn, % YoY","Japan, Exports, China, TEXTILE YARN, FABRICS, USD bn, % YoY",None,line
+"Japan, Imports, China, (COAL N.E.S), USD bn, % YoY","Japan, Imports, China, (COAL N.E.S), USD bn, % YoY",None,line
 "Japan, Imports, China, (IC), USD bn, % YoY","Japan, Imports, China, (IC), USD bn, % YoY",None,line
 "Japan, Imports, China, (PETROLEUM SPIRITS), USD bn, % YoY","Japan, Imports, China, (PETROLEUM SPIRITS), USD bn, % YoY",None,line
 "Japan, Imports, China, (TELEPHONE SETS), USD bn, % YoY","Japan, Imports, China, (TELEPHONE SETS), USD bn, % YoY",None,line
