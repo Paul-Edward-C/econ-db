@@ -1396,6 +1396,10 @@ name,display_name,data_type,chart_type
 "Korea, Economy, BOK ESI, Cyclical component","Korea, Economy, BOK ESI, Cyclical component",None,line
 "Korea, Economy, BOK ESI","Korea, Economy, BOK ESI",None,line
 "Korea, Business, S&P PMI, Manufacturing","Korea, Business, S&P PMI, Manufacturing",None,line
+"Korea, Business, FKI BSI, Outlook","Korea, Business, FKI BSI, Outlook",None,line
+"Korea, Business, FKI BSI, Outlook, SA","Korea, Business, FKI BSI, Outlook, SA",None,line
+"Korea, Business, FKI BSI, Actual","Korea, Business, FKI BSI, Actual",None,line
+"Korea, Business, FKI BSI, Actual, SA","Korea, Business, FKI BSI, Actual, SA",None,line
 "Korea, Business, BOK BSI, Composite, Business condition, 3mma","Korea, Business, BOK BSI, Composite, Business condition, 3mma",None,line
 "Korea, Business, BOK BSI, Composite, 3mma","Korea, Business, BOK BSI, Composite, 3mma",None,line
 "Korea, Business, BOK BSI, Composite, Financial situation, 3mma","Korea, Business, BOK BSI, Composite, Financial situation, 3mma",None,line
@@ -1643,6 +1647,10 @@ name,display_name,data_type,chart_type
 "Korea, Economy, BOK ESI, Cyclical component, 3mma","Korea, Economy, BOK ESI, Cyclical component, 3mma",None,line
 "Korea, Economy, BOK ESI, 3mma","Korea, Economy, BOK ESI, 3mma",None,line
 "Korea, Business, S&P PMI, Manufacturing, 3mma","Korea, Business, S&P PMI, Manufacturing, 3mma",None,line
+"Korea, Business, FKI BSI, Outlook, 3mma","Korea, Business, FKI BSI, Outlook, 3mma",None,line
+"Korea, Business, FKI BSI, Outlook, SA, 3mma","Korea, Business, FKI BSI, Outlook, SA, 3mma",None,line
+"Korea, Business, FKI BSI, Actual, 3mma","Korea, Business, FKI BSI, Actual, 3mma",None,line
+"Korea, Business, FKI BSI, Actual, SA, 3mma","Korea, Business, FKI BSI, Actual, SA, 3mma",None,line
 "Korea, Business, BOK BSI, Composite, Business condition, 6mma","Korea, Business, BOK BSI, Composite, Business condition, 6mma",None,line
 "Korea, Business, BOK BSI, Composite, 6mma","Korea, Business, BOK BSI, Composite, 6mma",None,line
 "Korea, Business, BOK BSI, Composite, Financial situation, 6mma","Korea, Business, BOK BSI, Composite, Financial situation, 6mma",None,line
@@ -1890,3 +1898,7 @@ name,display_name,data_type,chart_type
 "Korea, Economy, BOK ESI, Cyclical component, 6mma","Korea, Economy, BOK ESI, Cyclical component, 6mma",None,line
 "Korea, Economy, BOK ESI, 6mma","Korea, Economy, BOK ESI, 6mma",None,line
 "Korea, Business, S&P PMI, Manufacturing, 6mma","Korea, Business, S&P PMI, Manufacturing, 6mma",None,line
+"Korea, Business, FKI BSI, Outlook, 6mma","Korea, Business, FKI BSI, Outlook, 6mma",None,line
+"Korea, Business, FKI BSI, Outlook, SA, 6mma","Korea, Business, FKI BSI, Outlook, SA, 6mma",None,line
+"Korea, Business, FKI BSI, Actual, 6mma","Korea, Business, FKI BSI, Actual, 6mma",None,line
+"Korea, Business, FKI BSI, Actual, SA, 6mma","Korea, Business, FKI BSI, Actual, SA, 6mma",None,line
