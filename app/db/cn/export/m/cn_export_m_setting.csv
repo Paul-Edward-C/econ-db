@@ -282,7 +282,6 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, US, USD bn","China, Area, Exports, Country, US, USD bn",None,line
 "China, Area, Exports, Country, Uganda, USD bn","China, Area, Exports, Country, Uganda, USD bn",None,line
 "China, Area, Exports, Country, Ukraine, USD bn","China, Area, Exports, Country, Ukraine, USD bn",None,line
-"China, Area, Exports, Country, United Kingdom, USD bn","China, Area, Exports, Country, United Kingdom, USD bn",None,line
 "China, Area, Exports, Country, Uruguay, USD bn","China, Area, Exports, Country, Uruguay, USD bn",None,line
 "China, Area, Exports, Country, Uzbekistan, USD bn","China, Area, Exports, Country, Uzbekistan, USD bn",None,line
 "China, Area, Exports, Country, Vanuatu, USD bn","China, Area, Exports, Country, Vanuatu, USD bn",None,line
@@ -552,7 +551,6 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, US, USD bn","China, Area, Imports, Country, US, USD bn",None,line
 "China, Area, Imports, Country, Uganda, USD bn","China, Area, Imports, Country, Uganda, USD bn",None,line
 "China, Area, Imports, Country, Ukraine, USD bn","China, Area, Imports, Country, Ukraine, USD bn",None,line
-"China, Area, Imports, Country, United Kingdom, USD bn","China, Area, Imports, Country, United Kingdom, USD bn",None,line
 "China, Area, Imports, Country, Uruguay, USD bn","China, Area, Imports, Country, Uruguay, USD bn",None,line
 "China, Area, Imports, Country, Uzbekistan, USD bn","China, Area, Imports, Country, Uzbekistan, USD bn",None,line
 "China, Area, Imports, Country, Vanuatu, USD bn","China, Area, Imports, Country, Vanuatu, USD bn",None,line
@@ -989,7 +987,6 @@ name,display_name,data_type,chart_type
 "China, Area, Trade balance, Country, US, USD bn","China, Area, Trade balance, Country, US, USD bn",None,line
 "China, Area, Trade balance, Country, Uganda, USD bn","China, Area, Trade balance, Country, Uganda, USD bn",None,line
 "China, Area, Trade balance, Country, Ukraine, USD bn","China, Area, Trade balance, Country, Ukraine, USD bn",None,line
-"China, Area, Trade balance, Country, United Kingdom, USD bn","China, Area, Trade balance, Country, United Kingdom, USD bn",None,line
 "China, Area, Trade balance, Country, Uruguay, USD bn","China, Area, Trade balance, Country, Uruguay, USD bn",None,line
 "China, Area, Trade balance, Country, Uzbekistan, USD bn","China, Area, Trade balance, Country, Uzbekistan, USD bn",None,line
 "China, Area, Trade balance, Country, Vanuatu, USD bn","China, Area, Trade balance, Country, Vanuatu, USD bn",None,line
@@ -1297,7 +1294,6 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, US, % of GDP","China, Area, Exports, Country, US, % of GDP",None,line
 "China, Area, Exports, Country, Uganda, % of GDP","China, Area, Exports, Country, Uganda, % of GDP",None,line
 "China, Area, Exports, Country, Ukraine, % of GDP","China, Area, Exports, Country, Ukraine, % of GDP",None,line
-"China, Area, Exports, Country, United Kingdom, % of GDP","China, Area, Exports, Country, United Kingdom, % of GDP",None,line
 "China, Area, Exports, Country, Uruguay, % of GDP","China, Area, Exports, Country, Uruguay, % of GDP",None,line
 "China, Area, Exports, Country, Uzbekistan, % of GDP","China, Area, Exports, Country, Uzbekistan, % of GDP",None,line
 "China, Area, Exports, Country, Vanuatu, % of GDP","China, Area, Exports, Country, Vanuatu, % of GDP",None,line
@@ -1567,7 +1563,6 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, US, % of GDP","China, Area, Imports, Country, US, % of GDP",None,line
 "China, Area, Imports, Country, Uganda, % of GDP","China, Area, Imports, Country, Uganda, % of GDP",None,line
 "China, Area, Imports, Country, Ukraine, % of GDP","China, Area, Imports, Country, Ukraine, % of GDP",None,line
-"China, Area, Imports, Country, United Kingdom, % of GDP","China, Area, Imports, Country, United Kingdom, % of GDP",None,line
 "China, Area, Imports, Country, Uruguay, % of GDP","China, Area, Imports, Country, Uruguay, % of GDP",None,line
 "China, Area, Imports, Country, Uzbekistan, % of GDP","China, Area, Imports, Country, Uzbekistan, % of GDP",None,line
 "China, Area, Imports, Country, Vanuatu, % of GDP","China, Area, Imports, Country, Vanuatu, % of GDP",None,line
@@ -1952,7 +1947,6 @@ name,display_name,data_type,chart_type
 "China, Area, Trade balance, Country, US, % of GDP","China, Area, Trade balance, Country, US, % of GDP",None,line
 "China, Area, Trade balance, Country, Uganda, % of GDP","China, Area, Trade balance, Country, Uganda, % of GDP",None,line
 "China, Area, Trade balance, Country, Ukraine, % of GDP","China, Area, Trade balance, Country, Ukraine, % of GDP",None,line
-"China, Area, Trade balance, Country, United Kingdom, % of GDP","China, Area, Trade balance, Country, United Kingdom, % of GDP",None,line
 "China, Area, Trade balance, Country, Uruguay, % of GDP","China, Area, Trade balance, Country, Uruguay, % of GDP",None,line
 "China, Area, Trade balance, Country, Uzbekistan, % of GDP","China, Area, Trade balance, Country, Uzbekistan, % of GDP",None,line
 "China, Area, Trade balance, Country, Vanuatu, % of GDP","China, Area, Trade balance, Country, Vanuatu, % of GDP",None,line
