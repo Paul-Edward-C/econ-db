@@ -1154,6 +1154,7 @@ name,display_name,data_type,chart_type
 "Japan, Imports, World, Woman's & Girl's Dress, Value, Index","Japan, Imports, World, Woman's & Girl's Dress, Value, Index",None,line
 "Japan, Exports, Afghanistan, Car, JPY bn","Japan, Exports, Afghanistan, Car, JPY bn",None,line
 "Japan, Exports, Bhutan, Car, JPY bn","Japan, Exports, Bhutan, Car, JPY bn",None,line
+"Japan, Exports, Bosnia and Herzegovina, Car, JPY bn","Japan, Exports, Bosnia and Herzegovina, Car, JPY bn",None,line
 "Japan, Exports, British Anguilla, Car, JPY bn","Japan, Exports, British Anguilla, Car, JPY bn",None,line
 "Japan, Exports, Central Africa, Car, JPY bn","Japan, Exports, Central Africa, Car, JPY bn",None,line
 "Japan, Exports, Colombia, Car, JPY bn","Japan, Exports, Colombia, Car, JPY bn",None,line
@@ -1192,6 +1193,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, West Sahara, Car, JPY bn","Japan, Exports, West Sahara, Car, JPY bn",None,line
 "Japan, Exports, Afghanistan, Car, Volume, mn","Japan, Exports, Afghanistan, Car, Volume, mn",None,line
 "Japan, Exports, Bhutan, Car, Volume, mn","Japan, Exports, Bhutan, Car, Volume, mn",None,line
+"Japan, Exports, Bosnia and Herzegovina, Car, Volume, mn","Japan, Exports, Bosnia and Herzegovina, Car, Volume, mn",None,line
 "Japan, Exports, British Anguilla, Car, Volume, mn","Japan, Exports, British Anguilla, Car, Volume, mn",None,line
 "Japan, Exports, Central Africa, Car, Volume, mn","Japan, Exports, Central Africa, Car, Volume, mn",None,line
 "Japan, Exports, China, Car, Volume, mn","Japan, Exports, China, Car, Volume, mn",None,line
@@ -1233,6 +1235,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, US, Car, Unit price, JPY th","Japan, Exports, US, Car, Unit price, JPY th",None,line
 "Japan, Exports, Afghanistan, Car, Unit price, JPY th","Japan, Exports, Afghanistan, Car, Unit price, JPY th",None,line
 "Japan, Exports, Bhutan, Car, Unit price, JPY th","Japan, Exports, Bhutan, Car, Unit price, JPY th",None,line
+"Japan, Exports, Bosnia and Herzegovina, Car, Unit price, JPY th","Japan, Exports, Bosnia and Herzegovina, Car, Unit price, JPY th",None,line
 "Japan, Exports, British Anguilla, Car, Unit price, JPY th","Japan, Exports, British Anguilla, Car, Unit price, JPY th",None,line
 "Japan, Exports, Central Africa, Car, Unit price, JPY th","Japan, Exports, Central Africa, Car, Unit price, JPY th",None,line
 "Japan, Exports, Colombia, Car, Unit price, JPY th","Japan, Exports, Colombia, Car, Unit price, JPY th",None,line
@@ -1545,6 +1548,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, China and Hong Kong excluding semicon machinery, USD bn","Japan, Exports, China and Hong Kong excluding semicon machinery, USD bn",None,line
 "Japan, Exports, Afghanistan, Car, USD bn","Japan, Exports, Afghanistan, Car, USD bn",None,line
 "Japan, Exports, Bhutan, Car, USD bn","Japan, Exports, Bhutan, Car, USD bn",None,line
+"Japan, Exports, Bosnia and Herzegovina, Car, USD bn","Japan, Exports, Bosnia and Herzegovina, Car, USD bn",None,line
 "Japan, Exports, British Anguilla, Car, USD bn","Japan, Exports, British Anguilla, Car, USD bn",None,line
 "Japan, Exports, Central Africa, Car, USD bn","Japan, Exports, Central Africa, Car, USD bn",None,line
 "Japan, Exports, Colombia, Car, USD bn","Japan, Exports, Colombia, Car, USD bn",None,line
@@ -1585,6 +1589,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, US, Car, Unit price, USD th","Japan, Exports, US, Car, Unit price, USD th",None,line
 "Japan, Exports, Afghanistan, Car, Unit price, USD th","Japan, Exports, Afghanistan, Car, Unit price, USD th",None,line
 "Japan, Exports, Bhutan, Car, Unit price, USD th","Japan, Exports, Bhutan, Car, Unit price, USD th",None,line
+"Japan, Exports, Bosnia and Herzegovina, Car, Unit price, USD th","Japan, Exports, Bosnia and Herzegovina, Car, Unit price, USD th",None,line
 "Japan, Exports, British Anguilla, Car, Unit price, USD th","Japan, Exports, British Anguilla, Car, Unit price, USD th",None,line
 "Japan, Exports, Central Africa, Car, Unit price, USD th","Japan, Exports, Central Africa, Car, Unit price, USD th",None,line
 "Japan, Exports, Colombia, Car, Unit price, USD th","Japan, Exports, Colombia, Car, Unit price, USD th",None,line
@@ -2421,6 +2426,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, China and Hong Kong excluding semicon machinery, % of total","Japan, Exports, China and Hong Kong excluding semicon machinery, % of total",None,line
 "Japan, Exports, Afghanistan, Car, % of total","Japan, Exports, Afghanistan, Car, % of total",None,line
 "Japan, Exports, Bhutan, Car, % of total","Japan, Exports, Bhutan, Car, % of total",None,line
+"Japan, Exports, Bosnia and Herzegovina, Car, % of total","Japan, Exports, Bosnia and Herzegovina, Car, % of total",None,line
 "Japan, Exports, British Anguilla, Car, % of total","Japan, Exports, British Anguilla, Car, % of total",None,line
 "Japan, Exports, Central Africa, Car, % of total","Japan, Exports, Central Africa, Car, % of total",None,line
 "Japan, Exports, Colombia, Car, % of total","Japan, Exports, Colombia, Car, % of total",None,line
@@ -2708,6 +2714,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, China and Hong Kong excluding semicon machinery, % of GDP","Japan, Exports, China and Hong Kong excluding semicon machinery, % of GDP",None,line
 "Japan, Exports, Afghanistan, Car, % of GDP","Japan, Exports, Afghanistan, Car, % of GDP",None,line
 "Japan, Exports, Bhutan, Car, % of GDP","Japan, Exports, Bhutan, Car, % of GDP",None,line
+"Japan, Exports, Bosnia and Herzegovina, Car, % of GDP","Japan, Exports, Bosnia and Herzegovina, Car, % of GDP",None,line
 "Japan, Exports, British Anguilla, Car, % of GDP","Japan, Exports, British Anguilla, Car, % of GDP",None,line
 "Japan, Exports, Central Africa, Car, % of GDP","Japan, Exports, Central Africa, Car, % of GDP",None,line
 "Japan, Exports, Colombia, Car, % of GDP","Japan, Exports, Colombia, Car, % of GDP",None,line
