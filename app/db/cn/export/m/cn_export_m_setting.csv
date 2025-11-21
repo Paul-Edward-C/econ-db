@@ -631,6 +631,8 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Region, Latin America and Africa, SA, USD bn","China, Area, Exports, Region, Latin America and Africa, SA, USD bn",None,line
 "China, Area, Exports, Region, DM, SA, USD bn","China, Area, Exports, Region, DM, SA, USD bn",None,line
 "China, Area, Exports, Region, DM excluding US, SA, USD bn","China, Area, Exports, Region, DM excluding US, SA, USD bn",None,line
+"China, Area, Exports, Region, BRICs, SA, USD bn","China, Area, Exports, Region, BRICs, SA, USD bn",None,line
+"China, Area, Exports, Region, Developed Oceania, SA, USD bn","China, Area, Exports, Region, Developed Oceania, SA, USD bn",None,line
 "China, Area, Imports, Region, EU, SA, USD bn","China, Area, Imports, Region, EU, SA, USD bn",None,line
 "China, Area, Imports, Region, Developed Europe, SA, USD bn","China, Area, Imports, Region, Developed Europe, SA, USD bn",None,line
 "China, Area, Imports, Country, US, SA, USD bn","China, Area, Imports, Country, US, SA, USD bn",None,line
@@ -657,6 +659,8 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Region, Latin America and Africa, SA, USD bn","China, Area, Imports, Region, Latin America and Africa, SA, USD bn",None,line
 "China, Area, Imports, Region, DM, SA, USD bn","China, Area, Imports, Region, DM, SA, USD bn",None,line
 "China, Area, Imports, Region, DM excluding US, SA, USD bn","China, Area, Imports, Region, DM excluding US, SA, USD bn",None,line
+"China, Area, Imports, Region, BRICs, SA, USD bn","China, Area, Imports, Region, BRICs, SA, USD bn",None,line
+"China, Area, Imports, Region, Developed Oceania, SA, USD bn","China, Area, Imports, Region, Developed Oceania, SA, USD bn",None,line
 "China, Area, Trade balance, Region, EU, SA, USD bn","China, Area, Trade balance, Region, EU, SA, USD bn",None,line
 "China, Area, Trade balance, Region, Developed Europe, SA, USD bn","China, Area, Trade balance, Region, Developed Europe, SA, USD bn",None,line
 "China, Area, Trade balance, Country, US, SA, USD bn","China, Area, Trade balance, Country, US, SA, USD bn",None,line
@@ -683,6 +687,8 @@ name,display_name,data_type,chart_type
 "China, Area, Trade balance, Region, Latin America and Africa, SA, USD bn","China, Area, Trade balance, Region, Latin America and Africa, SA, USD bn",None,line
 "China, Area, Trade balance, Region, DM, SA, USD bn","China, Area, Trade balance, Region, DM, SA, USD bn",None,line
 "China, Area, Trade balance, Region, DM excluding US, SA, USD bn","China, Area, Trade balance, Region, DM excluding US, SA, USD bn",None,line
+"China, Area, Trade balance, Region, BRICs, SA, USD bn","China, Area, Trade balance, Region, BRICs, SA, USD bn",None,line
+"China, Area, Trade balance, Region, Developed Oceania, SA, USD bn","China, Area, Trade balance, Region, Developed Oceania, SA, USD bn",None,line
 "China, Area, Exports, Region, EU, SA, % of total","China, Area, Exports, Region, EU, SA, % of total",None,line
 "China, Area, Exports, Region, Developed Europe, SA, % of total","China, Area, Exports, Region, Developed Europe, SA, % of total",None,line
 "China, Area, Exports, Country, US, SA, % of total","China, Area, Exports, Country, US, SA, % of total",None,line
@@ -709,6 +715,8 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Region, Latin America and Africa, SA, % of total","China, Area, Exports, Region, Latin America and Africa, SA, % of total",None,line
 "China, Area, Exports, Region, DM, SA, % of total","China, Area, Exports, Region, DM, SA, % of total",None,line
 "China, Area, Exports, Region, DM excluding US, SA, % of total","China, Area, Exports, Region, DM excluding US, SA, % of total",None,line
+"China, Area, Exports, Region, BRICs, SA, % of total","China, Area, Exports, Region, BRICs, SA, % of total",None,line
+"China, Area, Exports, Region, Developed Oceania, SA, % of total","China, Area, Exports, Region, Developed Oceania, SA, % of total",None,line
 "China, Area, Imports, Region, EU, SA, % of total","China, Area, Imports, Region, EU, SA, % of total",None,line
 "China, Area, Imports, Region, Developed Europe, SA, % of total","China, Area, Imports, Region, Developed Europe, SA, % of total",None,line
 "China, Area, Imports, Country, US, SA, % of total","China, Area, Imports, Country, US, SA, % of total",None,line
@@ -735,6 +743,8 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Region, Latin America and Africa, SA, % of total","China, Area, Imports, Region, Latin America and Africa, SA, % of total",None,line
 "China, Area, Imports, Region, DM, SA, % of total","China, Area, Imports, Region, DM, SA, % of total",None,line
 "China, Area, Imports, Region, DM excluding US, SA, % of total","China, Area, Imports, Region, DM excluding US, SA, % of total",None,line
+"China, Area, Imports, Region, BRICs, SA, % of total","China, Area, Imports, Region, BRICs, SA, % of total",None,line
+"China, Area, Imports, Region, Developed Oceania, SA, % of total","China, Area, Imports, Region, Developed Oceania, SA, % of total",None,line
 "China, Area, Trade balance, Country, Afghanistan, USD bn","China, Area, Trade balance, Country, Afghanistan, USD bn",None,line
 "China, Area, Trade balance, Country, Albania, USD bn","China, Area, Trade balance, Country, Albania, USD bn",None,line
 "China, Area, Trade balance, Country, Algeria, USD bn","China, Area, Trade balance, Country, Algeria, USD bn",None,line
@@ -765,6 +775,7 @@ name,display_name,data_type,chart_type
 "China, Area, Trade balance, Country, Bosnia and Herzegovina, USD bn","China, Area, Trade balance, Country, Bosnia and Herzegovina, USD bn",None,line
 "China, Area, Trade balance, Country, Botswana, USD bn","China, Area, Trade balance, Country, Botswana, USD bn",None,line
 "China, Area, Trade balance, Country, Brazil, USD bn","China, Area, Trade balance, Country, Brazil, USD bn",None,line
+"China, Area, Trade balance, Country, British Indian Ocean Territory, USD bn","China, Area, Trade balance, Country, British Indian Ocean Territory, USD bn",None,line
 "China, Area, Trade balance, Country, British Virgin Islands, USD bn","China, Area, Trade balance, Country, British Virgin Islands, USD bn",None,line
 "China, Area, Trade balance, Country, Brunei Darussalam, USD bn","China, Area, Trade balance, Country, Brunei Darussalam, USD bn",None,line
 "China, Area, Trade balance, Country, Brunei, USD bn","China, Area, Trade balance, Country, Brunei, USD bn",None,line
@@ -1643,6 +1654,8 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Region, Latin America and Africa, SA, % of GDP","China, Area, Exports, Region, Latin America and Africa, SA, % of GDP",None,line
 "China, Area, Exports, Region, DM, SA, % of GDP","China, Area, Exports, Region, DM, SA, % of GDP",None,line
 "China, Area, Exports, Region, DM excluding US, SA, % of GDP","China, Area, Exports, Region, DM excluding US, SA, % of GDP",None,line
+"China, Area, Exports, Region, BRICs, SA, % of GDP","China, Area, Exports, Region, BRICs, SA, % of GDP",None,line
+"China, Area, Exports, Region, Developed Oceania, SA, % of GDP","China, Area, Exports, Region, Developed Oceania, SA, % of GDP",None,line
 "China, Area, Imports, Region, EU, SA, % of GDP","China, Area, Imports, Region, EU, SA, % of GDP",None,line
 "China, Area, Imports, Region, Developed Europe, SA, % of GDP","China, Area, Imports, Region, Developed Europe, SA, % of GDP",None,line
 "China, Area, Imports, Country, US, SA, % of GDP","China, Area, Imports, Country, US, SA, % of GDP",None,line
@@ -1669,6 +1682,8 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Region, Latin America and Africa, SA, % of GDP","China, Area, Imports, Region, Latin America and Africa, SA, % of GDP",None,line
 "China, Area, Imports, Region, DM, SA, % of GDP","China, Area, Imports, Region, DM, SA, % of GDP",None,line
 "China, Area, Imports, Region, DM excluding US, SA, % of GDP","China, Area, Imports, Region, DM excluding US, SA, % of GDP",None,line
+"China, Area, Imports, Region, BRICs, SA, % of GDP","China, Area, Imports, Region, BRICs, SA, % of GDP",None,line
+"China, Area, Imports, Region, Developed Oceania, SA, % of GDP","China, Area, Imports, Region, Developed Oceania, SA, % of GDP",None,line
 "China, Area, Trade balance, Region, EU, SA, % of GDP","China, Area, Trade balance, Region, EU, SA, % of GDP",None,line
 "China, Area, Trade balance, Region, Developed Europe, SA, % of GDP","China, Area, Trade balance, Region, Developed Europe, SA, % of GDP",None,line
 "China, Area, Trade balance, Country, US, SA, % of GDP","China, Area, Trade balance, Country, US, SA, % of GDP",None,line
@@ -1695,6 +1710,8 @@ name,display_name,data_type,chart_type
 "China, Area, Trade balance, Region, Latin America and Africa, SA, % of GDP","China, Area, Trade balance, Region, Latin America and Africa, SA, % of GDP",None,line
 "China, Area, Trade balance, Region, DM, SA, % of GDP","China, Area, Trade balance, Region, DM, SA, % of GDP",None,line
 "China, Area, Trade balance, Region, DM excluding US, SA, % of GDP","China, Area, Trade balance, Region, DM excluding US, SA, % of GDP",None,line
+"China, Area, Trade balance, Region, BRICs, SA, % of GDP","China, Area, Trade balance, Region, BRICs, SA, % of GDP",None,line
+"China, Area, Trade balance, Region, Developed Oceania, SA, % of GDP","China, Area, Trade balance, Region, Developed Oceania, SA, % of GDP",None,line
 "China, Area, Trade balance, Country, Afghanistan, % of GDP","China, Area, Trade balance, Country, Afghanistan, % of GDP",None,line
 "China, Area, Trade balance, Country, Albania, % of GDP","China, Area, Trade balance, Country, Albania, % of GDP",None,line
 "China, Area, Trade balance, Country, Algeria, % of GDP","China, Area, Trade balance, Country, Algeria, % of GDP",None,line
@@ -1725,6 +1742,7 @@ name,display_name,data_type,chart_type
 "China, Area, Trade balance, Country, Bosnia and Herzegovina, % of GDP","China, Area, Trade balance, Country, Bosnia and Herzegovina, % of GDP",None,line
 "China, Area, Trade balance, Country, Botswana, % of GDP","China, Area, Trade balance, Country, Botswana, % of GDP",None,line
 "China, Area, Trade balance, Country, Brazil, % of GDP","China, Area, Trade balance, Country, Brazil, % of GDP",None,line
+"China, Area, Trade balance, Country, British Indian Ocean Territory, % of GDP","China, Area, Trade balance, Country, British Indian Ocean Territory, % of GDP",None,line
 "China, Area, Trade balance, Country, British Virgin Islands, % of GDP","China, Area, Trade balance, Country, British Virgin Islands, % of GDP",None,line
 "China, Area, Trade balance, Country, Brunei Darussalam, % of GDP","China, Area, Trade balance, Country, Brunei Darussalam, % of GDP",None,line
 "China, Area, Trade balance, Country, Brunei, % of GDP","China, Area, Trade balance, Country, Brunei, % of GDP",None,line
@@ -2471,6 +2489,8 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Region, Latin America and Africa, SA, USD bn, % MoM","China, Area, Exports, Region, Latin America and Africa, SA, USD bn, % MoM",None,line
 "China, Area, Exports, Region, DM, SA, USD bn, % MoM","China, Area, Exports, Region, DM, SA, USD bn, % MoM",None,line
 "China, Area, Exports, Region, DM excluding US, SA, USD bn, % MoM","China, Area, Exports, Region, DM excluding US, SA, USD bn, % MoM",None,line
+"China, Area, Exports, Region, BRICs, SA, USD bn, % MoM","China, Area, Exports, Region, BRICs, SA, USD bn, % MoM",None,line
+"China, Area, Exports, Region, Developed Oceania, SA, USD bn, % MoM","China, Area, Exports, Region, Developed Oceania, SA, USD bn, % MoM",None,line
 "China, Area, Imports, Region, EU, SA, USD bn, % MoM","China, Area, Imports, Region, EU, SA, USD bn, % MoM",None,line
 "China, Area, Imports, Region, Developed Europe, SA, USD bn, % MoM","China, Area, Imports, Region, Developed Europe, SA, USD bn, % MoM",None,line
 "China, Area, Imports, Country, US, SA, USD bn, % MoM","China, Area, Imports, Country, US, SA, USD bn, % MoM",None,line
@@ -2497,6 +2517,8 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Region, Latin America and Africa, SA, USD bn, % MoM","China, Area, Imports, Region, Latin America and Africa, SA, USD bn, % MoM",None,line
 "China, Area, Imports, Region, DM, SA, USD bn, % MoM","China, Area, Imports, Region, DM, SA, USD bn, % MoM",None,line
 "China, Area, Imports, Region, DM excluding US, SA, USD bn, % MoM","China, Area, Imports, Region, DM excluding US, SA, USD bn, % MoM",None,line
+"China, Area, Imports, Region, BRICs, SA, USD bn, % MoM","China, Area, Imports, Region, BRICs, SA, USD bn, % MoM",None,line
+"China, Area, Imports, Region, Developed Oceania, SA, USD bn, % MoM","China, Area, Imports, Region, Developed Oceania, SA, USD bn, % MoM",None,line
 "China, Area, Exports, Region, EU, SA, USD bn, MoM chg","China, Area, Exports, Region, EU, SA, USD bn, MoM chg",None,line
 "China, Area, Exports, Region, Developed Europe, SA, USD bn, MoM chg","China, Area, Exports, Region, Developed Europe, SA, USD bn, MoM chg",None,line
 "China, Area, Exports, Country, US, SA, USD bn, MoM chg","China, Area, Exports, Country, US, SA, USD bn, MoM chg",None,line
@@ -2523,6 +2545,8 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Region, Latin America and Africa, SA, USD bn, MoM chg","China, Area, Exports, Region, Latin America and Africa, SA, USD bn, MoM chg",None,line
 "China, Area, Exports, Region, DM, SA, USD bn, MoM chg","China, Area, Exports, Region, DM, SA, USD bn, MoM chg",None,line
 "China, Area, Exports, Region, DM excluding US, SA, USD bn, MoM chg","China, Area, Exports, Region, DM excluding US, SA, USD bn, MoM chg",None,line
+"China, Area, Exports, Region, BRICs, SA, USD bn, MoM chg","China, Area, Exports, Region, BRICs, SA, USD bn, MoM chg",None,line
+"China, Area, Exports, Region, Developed Oceania, SA, USD bn, MoM chg","China, Area, Exports, Region, Developed Oceania, SA, USD bn, MoM chg",None,line
 "China, Area, Imports, Region, EU, SA, USD bn, MoM chg","China, Area, Imports, Region, EU, SA, USD bn, MoM chg",None,line
 "China, Area, Imports, Region, Developed Europe, SA, USD bn, MoM chg","China, Area, Imports, Region, Developed Europe, SA, USD bn, MoM chg",None,line
 "China, Area, Imports, Country, US, SA, USD bn, MoM chg","China, Area, Imports, Country, US, SA, USD bn, MoM chg",None,line
@@ -2549,6 +2573,8 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Region, Latin America and Africa, SA, USD bn, MoM chg","China, Area, Imports, Region, Latin America and Africa, SA, USD bn, MoM chg",None,line
 "China, Area, Imports, Region, DM, SA, USD bn, MoM chg","China, Area, Imports, Region, DM, SA, USD bn, MoM chg",None,line
 "China, Area, Imports, Region, DM excluding US, SA, USD bn, MoM chg","China, Area, Imports, Region, DM excluding US, SA, USD bn, MoM chg",None,line
+"China, Area, Imports, Region, BRICs, SA, USD bn, MoM chg","China, Area, Imports, Region, BRICs, SA, USD bn, MoM chg",None,line
+"China, Area, Imports, Region, Developed Oceania, SA, USD bn, MoM chg","China, Area, Imports, Region, Developed Oceania, SA, USD bn, MoM chg",None,line
 "China, Area, Exports, Region, DM excl Japan, Contribution to YoY % chg, ppts","China, Area, Exports, Region, DM excl Japan, Contribution to YoY % chg, ppts",None,bar
 "China, Area, Exports, Region, ASEAN, Contribution to YoY % chg, ppts","China, Area, Exports, Region, ASEAN, Contribution to YoY % chg, ppts",None,bar
 "China, Area, Exports, Region, North Asia, Contribution to YoY % chg, ppts","China, Area, Exports, Region, North Asia, Contribution to YoY % chg, ppts",None,bar
