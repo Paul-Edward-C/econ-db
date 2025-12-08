@@ -3603,196 +3603,47 @@ name,display_name,data_type,chart_type
 "China, HS, Imports, Autos, Electric, Taiwan, USD bn","China, HS, Imports, Autos, Electric, Taiwan, USD bn",None,line
 "China, HS, Imports, Autos, Electric, US, USD bn","China, HS, Imports, Autos, Electric, US, USD bn",None,line
 "China, HS, Imports, Autos, Electric, World, USD bn","China, HS, Imports, Autos, Electric, World, USD bn",None,line
-"China, HS, Exports, Autos, Electric, Africa, USD bn","China, HS, Exports, Autos, Electric, Africa, USD bn",None,line
-"China, HS, Imports, Autos, Electric, Africa, USD bn","China, HS, Imports, Autos, Electric, Africa, USD bn",None,line
-"China, HS, Exports, Autos, Electric, Central and South America, USD bn","China, HS, Exports, Autos, Electric, Central and South America, USD bn",None,line
-"China, HS, Imports, Autos, Electric, Central and South America, USD bn","China, HS, Imports, Autos, Electric, Central and South America, USD bn",None,line
-"China, HS, Exports, Autos, Electric, ASEAN, USD bn","China, HS, Exports, Autos, Electric, ASEAN, USD bn",None,line
-"China, HS, Imports, Autos, Electric, ASEAN, USD bn","China, HS, Imports, Autos, Electric, ASEAN, USD bn",None,line
-"China, HS, Exports, Autos, Electric, Middle East, USD bn","China, HS, Exports, Autos, Electric, Middle East, USD bn",None,line
-"China, HS, Imports, Autos, Electric, Middle East, USD bn","China, HS, Imports, Autos, Electric, Middle East, USD bn",None,line
-"China, HS, Exports, Autos, Electric, Other Europe, USD bn","China, HS, Exports, Autos, Electric, Other Europe, USD bn",None,line
-"China, HS, Imports, Autos, Electric, Other Europe, USD bn","China, HS, Imports, Autos, Electric, Other Europe, USD bn",None,line
-"China, HS, Exports, Autos, Electric, Other Asia, USD bn","China, HS, Exports, Autos, Electric, Other Asia, USD bn",None,line
-"China, HS, Imports, Autos, Electric, Other Asia, USD bn","China, HS, Imports, Autos, Electric, Other Asia, USD bn",None,line
-"China, HS, Exports, Autos, Electric, Developing Oceania, USD bn","China, HS, Exports, Autos, Electric, Developing Oceania, USD bn",None,line
-"China, HS, Exports, Autos, Electric, Hong Kong and Macau, USD bn","China, HS, Exports, Autos, Electric, Hong Kong and Macau, USD bn",None,line
-"China, HS, Exports, Autos, Electric, EU, USD bn","China, HS, Exports, Autos, Electric, EU, USD bn",None,line
-"China, HS, Imports, Autos, Electric, EU, USD bn","China, HS, Imports, Autos, Electric, EU, USD bn",None,line
-"China, HS, Exports, Autos, Electric, Other developed Europe, USD bn","China, HS, Exports, Autos, Electric, Other developed Europe, USD bn",None,line
-"China, HS, Imports, Autos, Electric, Other developed Europe, USD bn","China, HS, Imports, Autos, Electric, Other developed Europe, USD bn",None,line
-"China, HS, Exports, Autos, Electric, North America, USD bn","China, HS, Exports, Autos, Electric, North America, USD bn",None,line
-"China, HS, Imports, Autos, Electric, North America, USD bn","China, HS, Imports, Autos, Electric, North America, USD bn",None,line
-"China, HS, Exports, Autos, Electric, North Asia, USD bn","China, HS, Exports, Autos, Electric, North Asia, USD bn",None,line
-"China, HS, Imports, Autos, Electric, North Asia, USD bn","China, HS, Imports, Autos, Electric, North Asia, USD bn",None,line
-"China, HS, Exports, Autos, Electric, Australia and New Zealand, USD bn","China, HS, Exports, Autos, Electric, Australia and New Zealand, USD bn",None,line
-"China, HS, Exports, Autos, Electric, Developed Europe, USD bn","China, HS, Exports, Autos, Electric, Developed Europe, USD bn",None,line
-"China, HS, Imports, Autos, Electric, Developed Europe, USD bn","China, HS, Imports, Autos, Electric, Developed Europe, USD bn",None,line
-"China, HS, Exports, Autos, Electric, EM, USD bn","China, HS, Exports, Autos, Electric, EM, USD bn",None,line
-"China, HS, Imports, Autos, Electric, EM, USD bn","China, HS, Imports, Autos, Electric, EM, USD bn",None,line
-"China, HS, Exports, Autos, Electric, DM, USD bn","China, HS, Exports, Autos, Electric, DM, USD bn",None,line
-"China, HS, Imports, Autos, Electric, DM, USD bn","China, HS, Imports, Autos, Electric, DM, USD bn",None,line
-"China, HS, Imports, Autos, Total, Africa, USD bn","China, HS, Imports, Autos, Total, Africa, USD bn",None,line
-"China, HS, Imports, Autos, Total, Central and South America, USD bn","China, HS, Imports, Autos, Total, Central and South America, USD bn",None,line
-"China, HS, Imports, Autos, Total, ASEAN, USD bn","China, HS, Imports, Autos, Total, ASEAN, USD bn",None,line
-"China, HS, Imports, Autos, Total, Middle East, USD bn","China, HS, Imports, Autos, Total, Middle East, USD bn",None,line
-"China, HS, Imports, Autos, Total, Other Europe, USD bn","China, HS, Imports, Autos, Total, Other Europe, USD bn",None,line
-"China, HS, Imports, Autos, Total, Other Asia, USD bn","China, HS, Imports, Autos, Total, Other Asia, USD bn",None,line
-"China, HS, Imports, Autos, Total, Hong Kong and Macau, USD bn","China, HS, Imports, Autos, Total, Hong Kong and Macau, USD bn",None,line
-"China, HS, Imports, Autos, Total, EU, USD bn","China, HS, Imports, Autos, Total, EU, USD bn",None,line
-"China, HS, Imports, Autos, Total, Other developed Europe, USD bn","China, HS, Imports, Autos, Total, Other developed Europe, USD bn",None,line
-"China, HS, Imports, Autos, Total, North America, USD bn","China, HS, Imports, Autos, Total, North America, USD bn",None,line
-"China, HS, Imports, Autos, Total, North Asia, USD bn","China, HS, Imports, Autos, Total, North Asia, USD bn",None,line
-"China, HS, Imports, Autos, Total, Australia and New Zealand, USD bn","China, HS, Imports, Autos, Total, Australia and New Zealand, USD bn",None,line
-"China, HS, Imports, Autos, Total, Developed Europe, USD bn","China, HS, Imports, Autos, Total, Developed Europe, USD bn",None,line
-"China, HS, Imports, Autos, Total, EM, USD bn","China, HS, Imports, Autos, Total, EM, USD bn",None,line
-"China, HS, Imports, Autos, Total, DM, USD bn","China, HS, Imports, Autos, Total, DM, USD bn",None,line
 "China, HS, Imports, Autos, Total, US, USD bn","China, HS, Imports, Autos, Total, US, USD bn",None,line
 "China, HS, Imports, Autos, Total, Taiwan, USD bn","China, HS, Imports, Autos, Total, Taiwan, USD bn",None,line
 "China, HS, Imports, Autos, Total, Korea, USD bn","China, HS, Imports, Autos, Total, Korea, USD bn",None,line
 "China, HS, Imports, Autos, Total, Japan, USD bn","China, HS, Imports, Autos, Total, Japan, USD bn",None,line
 "China, HS, Imports, Autos, Total, Russia, USD bn","China, HS, Imports, Autos, Total, Russia, USD bn",None,line
 "China, HS, Imports, Autos, Total, World, USD bn","China, HS, Imports, Autos, Total, World, USD bn",None,line
-"China, HS, Exports, Autos, Total, Africa, USD bn","China, HS, Exports, Autos, Total, Africa, USD bn",None,line
-"China, HS, Exports, Autos, Total, Central and South America, USD bn","China, HS, Exports, Autos, Total, Central and South America, USD bn",None,line
-"China, HS, Exports, Autos, Total, ASEAN, USD bn","China, HS, Exports, Autos, Total, ASEAN, USD bn",None,line
-"China, HS, Exports, Autos, Total, Middle East, USD bn","China, HS, Exports, Autos, Total, Middle East, USD bn",None,line
-"China, HS, Exports, Autos, Total, Other Europe, USD bn","China, HS, Exports, Autos, Total, Other Europe, USD bn",None,line
-"China, HS, Exports, Autos, Total, Other Asia, USD bn","China, HS, Exports, Autos, Total, Other Asia, USD bn",None,line
-"China, HS, Exports, Autos, Total, Developing Oceania, USD bn","China, HS, Exports, Autos, Total, Developing Oceania, USD bn",None,line
-"China, HS, Exports, Autos, Total, Hong Kong and Macau, USD bn","China, HS, Exports, Autos, Total, Hong Kong and Macau, USD bn",None,line
-"China, HS, Exports, Autos, Total, EU, USD bn","China, HS, Exports, Autos, Total, EU, USD bn",None,line
-"China, HS, Exports, Autos, Total, Other developed Europe, USD bn","China, HS, Exports, Autos, Total, Other developed Europe, USD bn",None,line
-"China, HS, Exports, Autos, Total, North America, USD bn","China, HS, Exports, Autos, Total, North America, USD bn",None,line
-"China, HS, Exports, Autos, Total, North Asia, USD bn","China, HS, Exports, Autos, Total, North Asia, USD bn",None,line
-"China, HS, Exports, Autos, Total, Australia and New Zealand, USD bn","China, HS, Exports, Autos, Total, Australia and New Zealand, USD bn",None,line
-"China, HS, Exports, Autos, Total, Developed Europe, USD bn","China, HS, Exports, Autos, Total, Developed Europe, USD bn",None,line
-"China, HS, Exports, Autos, Total, EM, USD bn","China, HS, Exports, Autos, Total, EM, USD bn",None,line
-"China, HS, Exports, Autos, Total, DM, USD bn","China, HS, Exports, Autos, Total, DM, USD bn",None,line
 "China, HS, Exports, Autos, Total, US, USD bn","China, HS, Exports, Autos, Total, US, USD bn",None,line
 "China, HS, Exports, Autos, Total, Taiwan, USD bn","China, HS, Exports, Autos, Total, Taiwan, USD bn",None,line
 "China, HS, Exports, Autos, Total, Korea, USD bn","China, HS, Exports, Autos, Total, Korea, USD bn",None,line
 "China, HS, Exports, Autos, Total, Japan, USD bn","China, HS, Exports, Autos, Total, Japan, USD bn",None,line
 "China, HS, Exports, Autos, Total, Russia, USD bn","China, HS, Exports, Autos, Total, Russia, USD bn",None,line
 "China, HS, Exports, Autos, Total, World, USD bn","China, HS, Exports, Autos, Total, World, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid, Africa, USD bn","China, HS, Imports, Autos, Hybrid, Africa, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid, Central and South America, USD bn","China, HS, Imports, Autos, Hybrid, Central and South America, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid, ASEAN, USD bn","China, HS, Imports, Autos, Hybrid, ASEAN, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid, Middle East, USD bn","China, HS, Imports, Autos, Hybrid, Middle East, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid, Other Europe, USD bn","China, HS, Imports, Autos, Hybrid, Other Europe, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid, Other Asia, USD bn","China, HS, Imports, Autos, Hybrid, Other Asia, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid, EU, USD bn","China, HS, Imports, Autos, Hybrid, EU, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid, Other developed Europe, USD bn","China, HS, Imports, Autos, Hybrid, Other developed Europe, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid, North America, USD bn","China, HS, Imports, Autos, Hybrid, North America, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid, North Asia, USD bn","China, HS, Imports, Autos, Hybrid, North Asia, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid, Developed Europe, USD bn","China, HS, Imports, Autos, Hybrid, Developed Europe, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid, EM, USD bn","China, HS, Imports, Autos, Hybrid, EM, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid, DM, USD bn","China, HS, Imports, Autos, Hybrid, DM, USD bn",None,line
 "China, HS, Imports, Autos, Hybrid, US, USD bn","China, HS, Imports, Autos, Hybrid, US, USD bn",None,line
 "China, HS, Imports, Autos, Hybrid, Taiwan, USD bn","China, HS, Imports, Autos, Hybrid, Taiwan, USD bn",None,line
 "China, HS, Imports, Autos, Hybrid, Korea, USD bn","China, HS, Imports, Autos, Hybrid, Korea, USD bn",None,line
 "China, HS, Imports, Autos, Hybrid, Japan, USD bn","China, HS, Imports, Autos, Hybrid, Japan, USD bn",None,line
 "China, HS, Imports, Autos, Hybrid, World, USD bn","China, HS, Imports, Autos, Hybrid, World, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, Africa, USD bn","China, HS, Exports, Autos, Hybrid, Africa, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, Central and South America, USD bn","China, HS, Exports, Autos, Hybrid, Central and South America, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, ASEAN, USD bn","China, HS, Exports, Autos, Hybrid, ASEAN, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, Middle East, USD bn","China, HS, Exports, Autos, Hybrid, Middle East, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, Other Europe, USD bn","China, HS, Exports, Autos, Hybrid, Other Europe, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, Other Asia, USD bn","China, HS, Exports, Autos, Hybrid, Other Asia, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, Developing Oceania, USD bn","China, HS, Exports, Autos, Hybrid, Developing Oceania, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, Hong Kong and Macau, USD bn","China, HS, Exports, Autos, Hybrid, Hong Kong and Macau, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, EU, USD bn","China, HS, Exports, Autos, Hybrid, EU, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, Other developed Europe, USD bn","China, HS, Exports, Autos, Hybrid, Other developed Europe, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, North America, USD bn","China, HS, Exports, Autos, Hybrid, North America, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, North Asia, USD bn","China, HS, Exports, Autos, Hybrid, North Asia, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, Australia and New Zealand, USD bn","China, HS, Exports, Autos, Hybrid, Australia and New Zealand, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, Developed Europe, USD bn","China, HS, Exports, Autos, Hybrid, Developed Europe, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, EM, USD bn","China, HS, Exports, Autos, Hybrid, EM, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid, DM, USD bn","China, HS, Exports, Autos, Hybrid, DM, USD bn",None,line
 "China, HS, Exports, Autos, Hybrid, US, USD bn","China, HS, Exports, Autos, Hybrid, US, USD bn",None,line
 "China, HS, Exports, Autos, Hybrid, Taiwan, USD bn","China, HS, Exports, Autos, Hybrid, Taiwan, USD bn",None,line
 "China, HS, Exports, Autos, Hybrid, Korea, USD bn","China, HS, Exports, Autos, Hybrid, Korea, USD bn",None,line
 "China, HS, Exports, Autos, Hybrid, Japan, USD bn","China, HS, Exports, Autos, Hybrid, Japan, USD bn",None,line
 "China, HS, Exports, Autos, Hybrid, Russia, USD bn","China, HS, Exports, Autos, Hybrid, Russia, USD bn",None,line
 "China, HS, Exports, Autos, Hybrid, World, USD bn","China, HS, Exports, Autos, Hybrid, World, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Africa, USD bn","China, HS, Imports, Autos, Hybrid and electric, Africa, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Central and South America, USD bn","China, HS, Imports, Autos, Hybrid and electric, Central and South America, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid and electric, ASEAN, USD bn","China, HS, Imports, Autos, Hybrid and electric, ASEAN, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Middle East, USD bn","China, HS, Imports, Autos, Hybrid and electric, Middle East, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Other Europe, USD bn","China, HS, Imports, Autos, Hybrid and electric, Other Europe, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Other Asia, USD bn","China, HS, Imports, Autos, Hybrid and electric, Other Asia, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid and electric, EU, USD bn","China, HS, Imports, Autos, Hybrid and electric, EU, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Other developed Europe, USD bn","China, HS, Imports, Autos, Hybrid and electric, Other developed Europe, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid and electric, North America, USD bn","China, HS, Imports, Autos, Hybrid and electric, North America, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid and electric, North Asia, USD bn","China, HS, Imports, Autos, Hybrid and electric, North Asia, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Developed Europe, USD bn","China, HS, Imports, Autos, Hybrid and electric, Developed Europe, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid and electric, EM, USD bn","China, HS, Imports, Autos, Hybrid and electric, EM, USD bn",None,line
-"China, HS, Imports, Autos, Hybrid and electric, DM, USD bn","China, HS, Imports, Autos, Hybrid and electric, DM, USD bn",None,line
 "China, HS, Imports, Autos, Hybrid and electric, US, USD bn","China, HS, Imports, Autos, Hybrid and electric, US, USD bn",None,line
 "China, HS, Imports, Autos, Hybrid and electric, Taiwan, USD bn","China, HS, Imports, Autos, Hybrid and electric, Taiwan, USD bn",None,line
 "China, HS, Imports, Autos, Hybrid and electric, Korea, USD bn","China, HS, Imports, Autos, Hybrid and electric, Korea, USD bn",None,line
 "China, HS, Imports, Autos, Hybrid and electric, Japan, USD bn","China, HS, Imports, Autos, Hybrid and electric, Japan, USD bn",None,line
 "China, HS, Imports, Autos, Hybrid and electric, Russia, USD bn","China, HS, Imports, Autos, Hybrid and electric, Russia, USD bn",None,line
 "China, HS, Imports, Autos, Hybrid and electric, World, USD bn","China, HS, Imports, Autos, Hybrid and electric, World, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Africa, USD bn","China, HS, Exports, Autos, Hybrid and electric, Africa, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Central and South America, USD bn","China, HS, Exports, Autos, Hybrid and electric, Central and South America, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, ASEAN, USD bn","China, HS, Exports, Autos, Hybrid and electric, ASEAN, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Middle East, USD bn","China, HS, Exports, Autos, Hybrid and electric, Middle East, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Other Europe, USD bn","China, HS, Exports, Autos, Hybrid and electric, Other Europe, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Other Asia, USD bn","China, HS, Exports, Autos, Hybrid and electric, Other Asia, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Developing Oceania, USD bn","China, HS, Exports, Autos, Hybrid and electric, Developing Oceania, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Hong Kong and Macau, USD bn","China, HS, Exports, Autos, Hybrid and electric, Hong Kong and Macau, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, EU, USD bn","China, HS, Exports, Autos, Hybrid and electric, EU, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Other developed Europe, USD bn","China, HS, Exports, Autos, Hybrid and electric, Other developed Europe, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, North America, USD bn","China, HS, Exports, Autos, Hybrid and electric, North America, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, North Asia, USD bn","China, HS, Exports, Autos, Hybrid and electric, North Asia, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Australia and New Zealand, USD bn","China, HS, Exports, Autos, Hybrid and electric, Australia and New Zealand, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Developed Europe, USD bn","China, HS, Exports, Autos, Hybrid and electric, Developed Europe, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, EM, USD bn","China, HS, Exports, Autos, Hybrid and electric, EM, USD bn",None,line
-"China, HS, Exports, Autos, Hybrid and electric, DM, USD bn","China, HS, Exports, Autos, Hybrid and electric, DM, USD bn",None,line
 "China, HS, Exports, Autos, Hybrid and electric, US, USD bn","China, HS, Exports, Autos, Hybrid and electric, US, USD bn",None,line
 "China, HS, Exports, Autos, Hybrid and electric, Taiwan, USD bn","China, HS, Exports, Autos, Hybrid and electric, Taiwan, USD bn",None,line
 "China, HS, Exports, Autos, Hybrid and electric, Korea, USD bn","China, HS, Exports, Autos, Hybrid and electric, Korea, USD bn",None,line
 "China, HS, Exports, Autos, Hybrid and electric, Japan, USD bn","China, HS, Exports, Autos, Hybrid and electric, Japan, USD bn",None,line
 "China, HS, Exports, Autos, Hybrid and electric, Russia, USD bn","China, HS, Exports, Autos, Hybrid and electric, Russia, USD bn",None,line
 "China, HS, Exports, Autos, Hybrid and electric, World, USD bn","China, HS, Exports, Autos, Hybrid and electric, World, USD bn",None,line
-"China, HS, Imports, Autos, ICE, Africa, USD bn","China, HS, Imports, Autos, ICE, Africa, USD bn",None,line
-"China, HS, Imports, Autos, ICE, Central and South America, USD bn","China, HS, Imports, Autos, ICE, Central and South America, USD bn",None,line
-"China, HS, Imports, Autos, ICE, ASEAN, USD bn","China, HS, Imports, Autos, ICE, ASEAN, USD bn",None,line
-"China, HS, Imports, Autos, ICE, Middle East, USD bn","China, HS, Imports, Autos, ICE, Middle East, USD bn",None,line
-"China, HS, Imports, Autos, ICE, Other Europe, USD bn","China, HS, Imports, Autos, ICE, Other Europe, USD bn",None,line
-"China, HS, Imports, Autos, ICE, Other Asia, USD bn","China, HS, Imports, Autos, ICE, Other Asia, USD bn",None,line
-"China, HS, Imports, Autos, ICE, Hong Kong and Macau, USD bn","China, HS, Imports, Autos, ICE, Hong Kong and Macau, USD bn",None,line
-"China, HS, Imports, Autos, ICE, EU, USD bn","China, HS, Imports, Autos, ICE, EU, USD bn",None,line
-"China, HS, Imports, Autos, ICE, Other developed Europe, USD bn","China, HS, Imports, Autos, ICE, Other developed Europe, USD bn",None,line
-"China, HS, Imports, Autos, ICE, North America, USD bn","China, HS, Imports, Autos, ICE, North America, USD bn",None,line
-"China, HS, Imports, Autos, ICE, North Asia, USD bn","China, HS, Imports, Autos, ICE, North Asia, USD bn",None,line
-"China, HS, Imports, Autos, ICE, Australia and New Zealand, USD bn","China, HS, Imports, Autos, ICE, Australia and New Zealand, USD bn",None,line
-"China, HS, Imports, Autos, ICE, Developed Europe, USD bn","China, HS, Imports, Autos, ICE, Developed Europe, USD bn",None,line
-"China, HS, Imports, Autos, ICE, EM, USD bn","China, HS, Imports, Autos, ICE, EM, USD bn",None,line
-"China, HS, Imports, Autos, ICE, DM, USD bn","China, HS, Imports, Autos, ICE, DM, USD bn",None,line
 "China, HS, Imports, Autos, ICE, US, USD bn","China, HS, Imports, Autos, ICE, US, USD bn",None,line
 "China, HS, Imports, Autos, ICE, Taiwan, USD bn","China, HS, Imports, Autos, ICE, Taiwan, USD bn",None,line
 "China, HS, Imports, Autos, ICE, Korea, USD bn","China, HS, Imports, Autos, ICE, Korea, USD bn",None,line
 "China, HS, Imports, Autos, ICE, Japan, USD bn","China, HS, Imports, Autos, ICE, Japan, USD bn",None,line
 "China, HS, Imports, Autos, ICE, Russia, USD bn","China, HS, Imports, Autos, ICE, Russia, USD bn",None,line
 "China, HS, Imports, Autos, ICE, World, USD bn","China, HS, Imports, Autos, ICE, World, USD bn",None,line
-"China, HS, Exports, Autos, ICE, Africa, USD bn","China, HS, Exports, Autos, ICE, Africa, USD bn",None,line
-"China, HS, Exports, Autos, ICE, Central and South America, USD bn","China, HS, Exports, Autos, ICE, Central and South America, USD bn",None,line
-"China, HS, Exports, Autos, ICE, ASEAN, USD bn","China, HS, Exports, Autos, ICE, ASEAN, USD bn",None,line
-"China, HS, Exports, Autos, ICE, Middle East, USD bn","China, HS, Exports, Autos, ICE, Middle East, USD bn",None,line
-"China, HS, Exports, Autos, ICE, Other Europe, USD bn","China, HS, Exports, Autos, ICE, Other Europe, USD bn",None,line
-"China, HS, Exports, Autos, ICE, Other Asia, USD bn","China, HS, Exports, Autos, ICE, Other Asia, USD bn",None,line
-"China, HS, Exports, Autos, ICE, Developing Oceania, USD bn","China, HS, Exports, Autos, ICE, Developing Oceania, USD bn",None,line
-"China, HS, Exports, Autos, ICE, Hong Kong and Macau, USD bn","China, HS, Exports, Autos, ICE, Hong Kong and Macau, USD bn",None,line
-"China, HS, Exports, Autos, ICE, EU, USD bn","China, HS, Exports, Autos, ICE, EU, USD bn",None,line
-"China, HS, Exports, Autos, ICE, Other developed Europe, USD bn","China, HS, Exports, Autos, ICE, Other developed Europe, USD bn",None,line
-"China, HS, Exports, Autos, ICE, North America, USD bn","China, HS, Exports, Autos, ICE, North America, USD bn",None,line
-"China, HS, Exports, Autos, ICE, North Asia, USD bn","China, HS, Exports, Autos, ICE, North Asia, USD bn",None,line
-"China, HS, Exports, Autos, ICE, Australia and New Zealand, USD bn","China, HS, Exports, Autos, ICE, Australia and New Zealand, USD bn",None,line
-"China, HS, Exports, Autos, ICE, Developed Europe, USD bn","China, HS, Exports, Autos, ICE, Developed Europe, USD bn",None,line
-"China, HS, Exports, Autos, ICE, EM, USD bn","China, HS, Exports, Autos, ICE, EM, USD bn",None,line
-"China, HS, Exports, Autos, ICE, DM, USD bn","China, HS, Exports, Autos, ICE, DM, USD bn",None,line
 "China, HS, Exports, Autos, ICE, US, USD bn","China, HS, Exports, Autos, ICE, US, USD bn",None,line
 "China, HS, Exports, Autos, ICE, Taiwan, USD bn","China, HS, Exports, Autos, ICE, Taiwan, USD bn",None,line
 "China, HS, Exports, Autos, ICE, Korea, USD bn","China, HS, Exports, Autos, ICE, Korea, USD bn",None,line
@@ -4615,196 +4466,47 @@ name,display_name,data_type,chart_type
 "China, HS, Imports, Autos, Electric, Taiwan, % of GDP","China, HS, Imports, Autos, Electric, Taiwan, % of GDP",None,line
 "China, HS, Imports, Autos, Electric, US, % of GDP","China, HS, Imports, Autos, Electric, US, % of GDP",None,line
 "China, HS, Imports, Autos, Electric, World, % of GDP","China, HS, Imports, Autos, Electric, World, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, Africa, % of GDP","China, HS, Exports, Autos, Electric, Africa, % of GDP",None,line
-"China, HS, Imports, Autos, Electric, Africa, % of GDP","China, HS, Imports, Autos, Electric, Africa, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, Central and South America, % of GDP","China, HS, Exports, Autos, Electric, Central and South America, % of GDP",None,line
-"China, HS, Imports, Autos, Electric, Central and South America, % of GDP","China, HS, Imports, Autos, Electric, Central and South America, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, ASEAN, % of GDP","China, HS, Exports, Autos, Electric, ASEAN, % of GDP",None,line
-"China, HS, Imports, Autos, Electric, ASEAN, % of GDP","China, HS, Imports, Autos, Electric, ASEAN, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, Middle East, % of GDP","China, HS, Exports, Autos, Electric, Middle East, % of GDP",None,line
-"China, HS, Imports, Autos, Electric, Middle East, % of GDP","China, HS, Imports, Autos, Electric, Middle East, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, Other Europe, % of GDP","China, HS, Exports, Autos, Electric, Other Europe, % of GDP",None,line
-"China, HS, Imports, Autos, Electric, Other Europe, % of GDP","China, HS, Imports, Autos, Electric, Other Europe, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, Other Asia, % of GDP","China, HS, Exports, Autos, Electric, Other Asia, % of GDP",None,line
-"China, HS, Imports, Autos, Electric, Other Asia, % of GDP","China, HS, Imports, Autos, Electric, Other Asia, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, Developing Oceania, % of GDP","China, HS, Exports, Autos, Electric, Developing Oceania, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, Hong Kong and Macau, % of GDP","China, HS, Exports, Autos, Electric, Hong Kong and Macau, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, EU, % of GDP","China, HS, Exports, Autos, Electric, EU, % of GDP",None,line
-"China, HS, Imports, Autos, Electric, EU, % of GDP","China, HS, Imports, Autos, Electric, EU, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, Other developed Europe, % of GDP","China, HS, Exports, Autos, Electric, Other developed Europe, % of GDP",None,line
-"China, HS, Imports, Autos, Electric, Other developed Europe, % of GDP","China, HS, Imports, Autos, Electric, Other developed Europe, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, North America, % of GDP","China, HS, Exports, Autos, Electric, North America, % of GDP",None,line
-"China, HS, Imports, Autos, Electric, North America, % of GDP","China, HS, Imports, Autos, Electric, North America, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, North Asia, % of GDP","China, HS, Exports, Autos, Electric, North Asia, % of GDP",None,line
-"China, HS, Imports, Autos, Electric, North Asia, % of GDP","China, HS, Imports, Autos, Electric, North Asia, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, Australia and New Zealand, % of GDP","China, HS, Exports, Autos, Electric, Australia and New Zealand, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, Developed Europe, % of GDP","China, HS, Exports, Autos, Electric, Developed Europe, % of GDP",None,line
-"China, HS, Imports, Autos, Electric, Developed Europe, % of GDP","China, HS, Imports, Autos, Electric, Developed Europe, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, EM, % of GDP","China, HS, Exports, Autos, Electric, EM, % of GDP",None,line
-"China, HS, Imports, Autos, Electric, EM, % of GDP","China, HS, Imports, Autos, Electric, EM, % of GDP",None,line
-"China, HS, Exports, Autos, Electric, DM, % of GDP","China, HS, Exports, Autos, Electric, DM, % of GDP",None,line
-"China, HS, Imports, Autos, Electric, DM, % of GDP","China, HS, Imports, Autos, Electric, DM, % of GDP",None,line
-"China, HS, Imports, Autos, Total, Africa, % of GDP","China, HS, Imports, Autos, Total, Africa, % of GDP",None,line
-"China, HS, Imports, Autos, Total, Central and South America, % of GDP","China, HS, Imports, Autos, Total, Central and South America, % of GDP",None,line
-"China, HS, Imports, Autos, Total, ASEAN, % of GDP","China, HS, Imports, Autos, Total, ASEAN, % of GDP",None,line
-"China, HS, Imports, Autos, Total, Middle East, % of GDP","China, HS, Imports, Autos, Total, Middle East, % of GDP",None,line
-"China, HS, Imports, Autos, Total, Other Europe, % of GDP","China, HS, Imports, Autos, Total, Other Europe, % of GDP",None,line
-"China, HS, Imports, Autos, Total, Other Asia, % of GDP","China, HS, Imports, Autos, Total, Other Asia, % of GDP",None,line
-"China, HS, Imports, Autos, Total, Hong Kong and Macau, % of GDP","China, HS, Imports, Autos, Total, Hong Kong and Macau, % of GDP",None,line
-"China, HS, Imports, Autos, Total, EU, % of GDP","China, HS, Imports, Autos, Total, EU, % of GDP",None,line
-"China, HS, Imports, Autos, Total, Other developed Europe, % of GDP","China, HS, Imports, Autos, Total, Other developed Europe, % of GDP",None,line
-"China, HS, Imports, Autos, Total, North America, % of GDP","China, HS, Imports, Autos, Total, North America, % of GDP",None,line
-"China, HS, Imports, Autos, Total, North Asia, % of GDP","China, HS, Imports, Autos, Total, North Asia, % of GDP",None,line
-"China, HS, Imports, Autos, Total, Australia and New Zealand, % of GDP","China, HS, Imports, Autos, Total, Australia and New Zealand, % of GDP",None,line
-"China, HS, Imports, Autos, Total, Developed Europe, % of GDP","China, HS, Imports, Autos, Total, Developed Europe, % of GDP",None,line
-"China, HS, Imports, Autos, Total, EM, % of GDP","China, HS, Imports, Autos, Total, EM, % of GDP",None,line
-"China, HS, Imports, Autos, Total, DM, % of GDP","China, HS, Imports, Autos, Total, DM, % of GDP",None,line
 "China, HS, Imports, Autos, Total, US, % of GDP","China, HS, Imports, Autos, Total, US, % of GDP",None,line
 "China, HS, Imports, Autos, Total, Taiwan, % of GDP","China, HS, Imports, Autos, Total, Taiwan, % of GDP",None,line
 "China, HS, Imports, Autos, Total, Korea, % of GDP","China, HS, Imports, Autos, Total, Korea, % of GDP",None,line
 "China, HS, Imports, Autos, Total, Japan, % of GDP","China, HS, Imports, Autos, Total, Japan, % of GDP",None,line
 "China, HS, Imports, Autos, Total, Russia, % of GDP","China, HS, Imports, Autos, Total, Russia, % of GDP",None,line
 "China, HS, Imports, Autos, Total, World, % of GDP","China, HS, Imports, Autos, Total, World, % of GDP",None,line
-"China, HS, Exports, Autos, Total, Africa, % of GDP","China, HS, Exports, Autos, Total, Africa, % of GDP",None,line
-"China, HS, Exports, Autos, Total, Central and South America, % of GDP","China, HS, Exports, Autos, Total, Central and South America, % of GDP",None,line
-"China, HS, Exports, Autos, Total, ASEAN, % of GDP","China, HS, Exports, Autos, Total, ASEAN, % of GDP",None,line
-"China, HS, Exports, Autos, Total, Middle East, % of GDP","China, HS, Exports, Autos, Total, Middle East, % of GDP",None,line
-"China, HS, Exports, Autos, Total, Other Europe, % of GDP","China, HS, Exports, Autos, Total, Other Europe, % of GDP",None,line
-"China, HS, Exports, Autos, Total, Other Asia, % of GDP","China, HS, Exports, Autos, Total, Other Asia, % of GDP",None,line
-"China, HS, Exports, Autos, Total, Developing Oceania, % of GDP","China, HS, Exports, Autos, Total, Developing Oceania, % of GDP",None,line
-"China, HS, Exports, Autos, Total, Hong Kong and Macau, % of GDP","China, HS, Exports, Autos, Total, Hong Kong and Macau, % of GDP",None,line
-"China, HS, Exports, Autos, Total, EU, % of GDP","China, HS, Exports, Autos, Total, EU, % of GDP",None,line
-"China, HS, Exports, Autos, Total, Other developed Europe, % of GDP","China, HS, Exports, Autos, Total, Other developed Europe, % of GDP",None,line
-"China, HS, Exports, Autos, Total, North America, % of GDP","China, HS, Exports, Autos, Total, North America, % of GDP",None,line
-"China, HS, Exports, Autos, Total, North Asia, % of GDP","China, HS, Exports, Autos, Total, North Asia, % of GDP",None,line
-"China, HS, Exports, Autos, Total, Australia and New Zealand, % of GDP","China, HS, Exports, Autos, Total, Australia and New Zealand, % of GDP",None,line
-"China, HS, Exports, Autos, Total, Developed Europe, % of GDP","China, HS, Exports, Autos, Total, Developed Europe, % of GDP",None,line
-"China, HS, Exports, Autos, Total, EM, % of GDP","China, HS, Exports, Autos, Total, EM, % of GDP",None,line
-"China, HS, Exports, Autos, Total, DM, % of GDP","China, HS, Exports, Autos, Total, DM, % of GDP",None,line
 "China, HS, Exports, Autos, Total, US, % of GDP","China, HS, Exports, Autos, Total, US, % of GDP",None,line
 "China, HS, Exports, Autos, Total, Taiwan, % of GDP","China, HS, Exports, Autos, Total, Taiwan, % of GDP",None,line
 "China, HS, Exports, Autos, Total, Korea, % of GDP","China, HS, Exports, Autos, Total, Korea, % of GDP",None,line
 "China, HS, Exports, Autos, Total, Japan, % of GDP","China, HS, Exports, Autos, Total, Japan, % of GDP",None,line
 "China, HS, Exports, Autos, Total, Russia, % of GDP","China, HS, Exports, Autos, Total, Russia, % of GDP",None,line
 "China, HS, Exports, Autos, Total, World, % of GDP","China, HS, Exports, Autos, Total, World, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid, Africa, % of GDP","China, HS, Imports, Autos, Hybrid, Africa, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid, Central and South America, % of GDP","China, HS, Imports, Autos, Hybrid, Central and South America, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid, ASEAN, % of GDP","China, HS, Imports, Autos, Hybrid, ASEAN, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid, Middle East, % of GDP","China, HS, Imports, Autos, Hybrid, Middle East, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid, Other Europe, % of GDP","China, HS, Imports, Autos, Hybrid, Other Europe, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid, Other Asia, % of GDP","China, HS, Imports, Autos, Hybrid, Other Asia, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid, EU, % of GDP","China, HS, Imports, Autos, Hybrid, EU, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid, Other developed Europe, % of GDP","China, HS, Imports, Autos, Hybrid, Other developed Europe, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid, North America, % of GDP","China, HS, Imports, Autos, Hybrid, North America, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid, North Asia, % of GDP","China, HS, Imports, Autos, Hybrid, North Asia, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid, Developed Europe, % of GDP","China, HS, Imports, Autos, Hybrid, Developed Europe, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid, EM, % of GDP","China, HS, Imports, Autos, Hybrid, EM, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid, DM, % of GDP","China, HS, Imports, Autos, Hybrid, DM, % of GDP",None,line
 "China, HS, Imports, Autos, Hybrid, US, % of GDP","China, HS, Imports, Autos, Hybrid, US, % of GDP",None,line
 "China, HS, Imports, Autos, Hybrid, Taiwan, % of GDP","China, HS, Imports, Autos, Hybrid, Taiwan, % of GDP",None,line
 "China, HS, Imports, Autos, Hybrid, Korea, % of GDP","China, HS, Imports, Autos, Hybrid, Korea, % of GDP",None,line
 "China, HS, Imports, Autos, Hybrid, Japan, % of GDP","China, HS, Imports, Autos, Hybrid, Japan, % of GDP",None,line
 "China, HS, Imports, Autos, Hybrid, World, % of GDP","China, HS, Imports, Autos, Hybrid, World, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, Africa, % of GDP","China, HS, Exports, Autos, Hybrid, Africa, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, Central and South America, % of GDP","China, HS, Exports, Autos, Hybrid, Central and South America, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, ASEAN, % of GDP","China, HS, Exports, Autos, Hybrid, ASEAN, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, Middle East, % of GDP","China, HS, Exports, Autos, Hybrid, Middle East, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, Other Europe, % of GDP","China, HS, Exports, Autos, Hybrid, Other Europe, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, Other Asia, % of GDP","China, HS, Exports, Autos, Hybrid, Other Asia, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, Developing Oceania, % of GDP","China, HS, Exports, Autos, Hybrid, Developing Oceania, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, Hong Kong and Macau, % of GDP","China, HS, Exports, Autos, Hybrid, Hong Kong and Macau, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, EU, % of GDP","China, HS, Exports, Autos, Hybrid, EU, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, Other developed Europe, % of GDP","China, HS, Exports, Autos, Hybrid, Other developed Europe, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, North America, % of GDP","China, HS, Exports, Autos, Hybrid, North America, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, North Asia, % of GDP","China, HS, Exports, Autos, Hybrid, North Asia, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, Australia and New Zealand, % of GDP","China, HS, Exports, Autos, Hybrid, Australia and New Zealand, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, Developed Europe, % of GDP","China, HS, Exports, Autos, Hybrid, Developed Europe, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, EM, % of GDP","China, HS, Exports, Autos, Hybrid, EM, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid, DM, % of GDP","China, HS, Exports, Autos, Hybrid, DM, % of GDP",None,line
 "China, HS, Exports, Autos, Hybrid, US, % of GDP","China, HS, Exports, Autos, Hybrid, US, % of GDP",None,line
 "China, HS, Exports, Autos, Hybrid, Taiwan, % of GDP","China, HS, Exports, Autos, Hybrid, Taiwan, % of GDP",None,line
 "China, HS, Exports, Autos, Hybrid, Korea, % of GDP","China, HS, Exports, Autos, Hybrid, Korea, % of GDP",None,line
 "China, HS, Exports, Autos, Hybrid, Japan, % of GDP","China, HS, Exports, Autos, Hybrid, Japan, % of GDP",None,line
 "China, HS, Exports, Autos, Hybrid, Russia, % of GDP","China, HS, Exports, Autos, Hybrid, Russia, % of GDP",None,line
 "China, HS, Exports, Autos, Hybrid, World, % of GDP","China, HS, Exports, Autos, Hybrid, World, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Africa, % of GDP","China, HS, Imports, Autos, Hybrid and electric, Africa, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Central and South America, % of GDP","China, HS, Imports, Autos, Hybrid and electric, Central and South America, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid and electric, ASEAN, % of GDP","China, HS, Imports, Autos, Hybrid and electric, ASEAN, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Middle East, % of GDP","China, HS, Imports, Autos, Hybrid and electric, Middle East, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Other Europe, % of GDP","China, HS, Imports, Autos, Hybrid and electric, Other Europe, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Other Asia, % of GDP","China, HS, Imports, Autos, Hybrid and electric, Other Asia, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid and electric, EU, % of GDP","China, HS, Imports, Autos, Hybrid and electric, EU, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Other developed Europe, % of GDP","China, HS, Imports, Autos, Hybrid and electric, Other developed Europe, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid and electric, North America, % of GDP","China, HS, Imports, Autos, Hybrid and electric, North America, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid and electric, North Asia, % of GDP","China, HS, Imports, Autos, Hybrid and electric, North Asia, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Developed Europe, % of GDP","China, HS, Imports, Autos, Hybrid and electric, Developed Europe, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid and electric, EM, % of GDP","China, HS, Imports, Autos, Hybrid and electric, EM, % of GDP",None,line
-"China, HS, Imports, Autos, Hybrid and electric, DM, % of GDP","China, HS, Imports, Autos, Hybrid and electric, DM, % of GDP",None,line
 "China, HS, Imports, Autos, Hybrid and electric, US, % of GDP","China, HS, Imports, Autos, Hybrid and electric, US, % of GDP",None,line
 "China, HS, Imports, Autos, Hybrid and electric, Taiwan, % of GDP","China, HS, Imports, Autos, Hybrid and electric, Taiwan, % of GDP",None,line
 "China, HS, Imports, Autos, Hybrid and electric, Korea, % of GDP","China, HS, Imports, Autos, Hybrid and electric, Korea, % of GDP",None,line
 "China, HS, Imports, Autos, Hybrid and electric, Japan, % of GDP","China, HS, Imports, Autos, Hybrid and electric, Japan, % of GDP",None,line
 "China, HS, Imports, Autos, Hybrid and electric, Russia, % of GDP","China, HS, Imports, Autos, Hybrid and electric, Russia, % of GDP",None,line
 "China, HS, Imports, Autos, Hybrid and electric, World, % of GDP","China, HS, Imports, Autos, Hybrid and electric, World, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Africa, % of GDP","China, HS, Exports, Autos, Hybrid and electric, Africa, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Central and South America, % of GDP","China, HS, Exports, Autos, Hybrid and electric, Central and South America, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, ASEAN, % of GDP","China, HS, Exports, Autos, Hybrid and electric, ASEAN, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Middle East, % of GDP","China, HS, Exports, Autos, Hybrid and electric, Middle East, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Other Europe, % of GDP","China, HS, Exports, Autos, Hybrid and electric, Other Europe, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Other Asia, % of GDP","China, HS, Exports, Autos, Hybrid and electric, Other Asia, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Developing Oceania, % of GDP","China, HS, Exports, Autos, Hybrid and electric, Developing Oceania, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Hong Kong and Macau, % of GDP","China, HS, Exports, Autos, Hybrid and electric, Hong Kong and Macau, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, EU, % of GDP","China, HS, Exports, Autos, Hybrid and electric, EU, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Other developed Europe, % of GDP","China, HS, Exports, Autos, Hybrid and electric, Other developed Europe, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, North America, % of GDP","China, HS, Exports, Autos, Hybrid and electric, North America, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, North Asia, % of GDP","China, HS, Exports, Autos, Hybrid and electric, North Asia, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Australia and New Zealand, % of GDP","China, HS, Exports, Autos, Hybrid and electric, Australia and New Zealand, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Developed Europe, % of GDP","China, HS, Exports, Autos, Hybrid and electric, Developed Europe, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, EM, % of GDP","China, HS, Exports, Autos, Hybrid and electric, EM, % of GDP",None,line
-"China, HS, Exports, Autos, Hybrid and electric, DM, % of GDP","China, HS, Exports, Autos, Hybrid and electric, DM, % of GDP",None,line
 "China, HS, Exports, Autos, Hybrid and electric, US, % of GDP","China, HS, Exports, Autos, Hybrid and electric, US, % of GDP",None,line
 "China, HS, Exports, Autos, Hybrid and electric, Taiwan, % of GDP","China, HS, Exports, Autos, Hybrid and electric, Taiwan, % of GDP",None,line
 "China, HS, Exports, Autos, Hybrid and electric, Korea, % of GDP","China, HS, Exports, Autos, Hybrid and electric, Korea, % of GDP",None,line
 "China, HS, Exports, Autos, Hybrid and electric, Japan, % of GDP","China, HS, Exports, Autos, Hybrid and electric, Japan, % of GDP",None,line
 "China, HS, Exports, Autos, Hybrid and electric, Russia, % of GDP","China, HS, Exports, Autos, Hybrid and electric, Russia, % of GDP",None,line
 "China, HS, Exports, Autos, Hybrid and electric, World, % of GDP","China, HS, Exports, Autos, Hybrid and electric, World, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, Africa, % of GDP","China, HS, Imports, Autos, ICE, Africa, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, Central and South America, % of GDP","China, HS, Imports, Autos, ICE, Central and South America, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, ASEAN, % of GDP","China, HS, Imports, Autos, ICE, ASEAN, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, Middle East, % of GDP","China, HS, Imports, Autos, ICE, Middle East, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, Other Europe, % of GDP","China, HS, Imports, Autos, ICE, Other Europe, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, Other Asia, % of GDP","China, HS, Imports, Autos, ICE, Other Asia, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, Hong Kong and Macau, % of GDP","China, HS, Imports, Autos, ICE, Hong Kong and Macau, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, EU, % of GDP","China, HS, Imports, Autos, ICE, EU, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, Other developed Europe, % of GDP","China, HS, Imports, Autos, ICE, Other developed Europe, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, North America, % of GDP","China, HS, Imports, Autos, ICE, North America, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, North Asia, % of GDP","China, HS, Imports, Autos, ICE, North Asia, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, Australia and New Zealand, % of GDP","China, HS, Imports, Autos, ICE, Australia and New Zealand, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, Developed Europe, % of GDP","China, HS, Imports, Autos, ICE, Developed Europe, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, EM, % of GDP","China, HS, Imports, Autos, ICE, EM, % of GDP",None,line
-"China, HS, Imports, Autos, ICE, DM, % of GDP","China, HS, Imports, Autos, ICE, DM, % of GDP",None,line
 "China, HS, Imports, Autos, ICE, US, % of GDP","China, HS, Imports, Autos, ICE, US, % of GDP",None,line
 "China, HS, Imports, Autos, ICE, Taiwan, % of GDP","China, HS, Imports, Autos, ICE, Taiwan, % of GDP",None,line
 "China, HS, Imports, Autos, ICE, Korea, % of GDP","China, HS, Imports, Autos, ICE, Korea, % of GDP",None,line
 "China, HS, Imports, Autos, ICE, Japan, % of GDP","China, HS, Imports, Autos, ICE, Japan, % of GDP",None,line
 "China, HS, Imports, Autos, ICE, Russia, % of GDP","China, HS, Imports, Autos, ICE, Russia, % of GDP",None,line
 "China, HS, Imports, Autos, ICE, World, % of GDP","China, HS, Imports, Autos, ICE, World, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, Africa, % of GDP","China, HS, Exports, Autos, ICE, Africa, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, Central and South America, % of GDP","China, HS, Exports, Autos, ICE, Central and South America, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, ASEAN, % of GDP","China, HS, Exports, Autos, ICE, ASEAN, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, Middle East, % of GDP","China, HS, Exports, Autos, ICE, Middle East, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, Other Europe, % of GDP","China, HS, Exports, Autos, ICE, Other Europe, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, Other Asia, % of GDP","China, HS, Exports, Autos, ICE, Other Asia, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, Developing Oceania, % of GDP","China, HS, Exports, Autos, ICE, Developing Oceania, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, Hong Kong and Macau, % of GDP","China, HS, Exports, Autos, ICE, Hong Kong and Macau, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, EU, % of GDP","China, HS, Exports, Autos, ICE, EU, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, Other developed Europe, % of GDP","China, HS, Exports, Autos, ICE, Other developed Europe, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, North America, % of GDP","China, HS, Exports, Autos, ICE, North America, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, North Asia, % of GDP","China, HS, Exports, Autos, ICE, North Asia, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, Australia and New Zealand, % of GDP","China, HS, Exports, Autos, ICE, Australia and New Zealand, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, Developed Europe, % of GDP","China, HS, Exports, Autos, ICE, Developed Europe, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, EM, % of GDP","China, HS, Exports, Autos, ICE, EM, % of GDP",None,line
-"China, HS, Exports, Autos, ICE, DM, % of GDP","China, HS, Exports, Autos, ICE, DM, % of GDP",None,line
 "China, HS, Exports, Autos, ICE, US, % of GDP","China, HS, Exports, Autos, ICE, US, % of GDP",None,line
 "China, HS, Exports, Autos, ICE, Taiwan, % of GDP","China, HS, Exports, Autos, ICE, Taiwan, % of GDP",None,line
 "China, HS, Exports, Autos, ICE, Korea, % of GDP","China, HS, Exports, Autos, ICE, Korea, % of GDP",None,line
@@ -5868,196 +5570,47 @@ name,display_name,data_type,chart_type
 "China, HS, Imports, Autos, Electric, Korea, USD bn, % YoY","China, HS, Imports, Autos, Electric, Korea, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Electric, US, USD bn, % YoY","China, HS, Imports, Autos, Electric, US, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Electric, World, USD bn, % YoY","China, HS, Imports, Autos, Electric, World, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, Africa, USD bn, % YoY","China, HS, Exports, Autos, Electric, Africa, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Electric, Africa, USD bn, % YoY","China, HS, Imports, Autos, Electric, Africa, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, Central and South America, USD bn, % YoY","China, HS, Exports, Autos, Electric, Central and South America, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Electric, Central and South America, USD bn, % YoY","China, HS, Imports, Autos, Electric, Central and South America, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, ASEAN, USD bn, % YoY","China, HS, Exports, Autos, Electric, ASEAN, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Electric, ASEAN, USD bn, % YoY","China, HS, Imports, Autos, Electric, ASEAN, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, Middle East, USD bn, % YoY","China, HS, Exports, Autos, Electric, Middle East, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Electric, Middle East, USD bn, % YoY","China, HS, Imports, Autos, Electric, Middle East, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, Other Europe, USD bn, % YoY","China, HS, Exports, Autos, Electric, Other Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Electric, Other Europe, USD bn, % YoY","China, HS, Imports, Autos, Electric, Other Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, Other Asia, USD bn, % YoY","China, HS, Exports, Autos, Electric, Other Asia, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Electric, Other Asia, USD bn, % YoY","China, HS, Imports, Autos, Electric, Other Asia, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, Developing Oceania, USD bn, % YoY","China, HS, Exports, Autos, Electric, Developing Oceania, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, Hong Kong and Macau, USD bn, % YoY","China, HS, Exports, Autos, Electric, Hong Kong and Macau, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, EU, USD bn, % YoY","China, HS, Exports, Autos, Electric, EU, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Electric, EU, USD bn, % YoY","China, HS, Imports, Autos, Electric, EU, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, Other developed Europe, USD bn, % YoY","China, HS, Exports, Autos, Electric, Other developed Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Electric, Other developed Europe, USD bn, % YoY","China, HS, Imports, Autos, Electric, Other developed Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, North America, USD bn, % YoY","China, HS, Exports, Autos, Electric, North America, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Electric, North America, USD bn, % YoY","China, HS, Imports, Autos, Electric, North America, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, North Asia, USD bn, % YoY","China, HS, Exports, Autos, Electric, North Asia, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Electric, North Asia, USD bn, % YoY","China, HS, Imports, Autos, Electric, North Asia, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, Australia and New Zealand, USD bn, % YoY","China, HS, Exports, Autos, Electric, Australia and New Zealand, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, Developed Europe, USD bn, % YoY","China, HS, Exports, Autos, Electric, Developed Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Electric, Developed Europe, USD bn, % YoY","China, HS, Imports, Autos, Electric, Developed Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, EM, USD bn, % YoY","China, HS, Exports, Autos, Electric, EM, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Electric, EM, USD bn, % YoY","China, HS, Imports, Autos, Electric, EM, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Electric, DM, USD bn, % YoY","China, HS, Exports, Autos, Electric, DM, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Electric, DM, USD bn, % YoY","China, HS, Imports, Autos, Electric, DM, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, Africa, USD bn, % YoY","China, HS, Imports, Autos, Total, Africa, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, Central and South America, USD bn, % YoY","China, HS, Imports, Autos, Total, Central and South America, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, ASEAN, USD bn, % YoY","China, HS, Imports, Autos, Total, ASEAN, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, Middle East, USD bn, % YoY","China, HS, Imports, Autos, Total, Middle East, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, Other Europe, USD bn, % YoY","China, HS, Imports, Autos, Total, Other Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, Other Asia, USD bn, % YoY","China, HS, Imports, Autos, Total, Other Asia, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, Hong Kong and Macau, USD bn, % YoY","China, HS, Imports, Autos, Total, Hong Kong and Macau, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, EU, USD bn, % YoY","China, HS, Imports, Autos, Total, EU, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, Other developed Europe, USD bn, % YoY","China, HS, Imports, Autos, Total, Other developed Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, North America, USD bn, % YoY","China, HS, Imports, Autos, Total, North America, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, North Asia, USD bn, % YoY","China, HS, Imports, Autos, Total, North Asia, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, Australia and New Zealand, USD bn, % YoY","China, HS, Imports, Autos, Total, Australia and New Zealand, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, Developed Europe, USD bn, % YoY","China, HS, Imports, Autos, Total, Developed Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, EM, USD bn, % YoY","China, HS, Imports, Autos, Total, EM, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Total, DM, USD bn, % YoY","China, HS, Imports, Autos, Total, DM, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Total, US, USD bn, % YoY","China, HS, Imports, Autos, Total, US, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Total, Taiwan, USD bn, % YoY","China, HS, Imports, Autos, Total, Taiwan, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Total, Korea, USD bn, % YoY","China, HS, Imports, Autos, Total, Korea, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Total, Japan, USD bn, % YoY","China, HS, Imports, Autos, Total, Japan, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Total, Russia, USD bn, % YoY","China, HS, Imports, Autos, Total, Russia, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Total, World, USD bn, % YoY","China, HS, Imports, Autos, Total, World, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, Africa, USD bn, % YoY","China, HS, Exports, Autos, Total, Africa, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, Central and South America, USD bn, % YoY","China, HS, Exports, Autos, Total, Central and South America, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, ASEAN, USD bn, % YoY","China, HS, Exports, Autos, Total, ASEAN, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, Middle East, USD bn, % YoY","China, HS, Exports, Autos, Total, Middle East, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, Other Europe, USD bn, % YoY","China, HS, Exports, Autos, Total, Other Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, Other Asia, USD bn, % YoY","China, HS, Exports, Autos, Total, Other Asia, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, Developing Oceania, USD bn, % YoY","China, HS, Exports, Autos, Total, Developing Oceania, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, Hong Kong and Macau, USD bn, % YoY","China, HS, Exports, Autos, Total, Hong Kong and Macau, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, EU, USD bn, % YoY","China, HS, Exports, Autos, Total, EU, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, Other developed Europe, USD bn, % YoY","China, HS, Exports, Autos, Total, Other developed Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, North America, USD bn, % YoY","China, HS, Exports, Autos, Total, North America, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, North Asia, USD bn, % YoY","China, HS, Exports, Autos, Total, North Asia, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, Australia and New Zealand, USD bn, % YoY","China, HS, Exports, Autos, Total, Australia and New Zealand, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, Developed Europe, USD bn, % YoY","China, HS, Exports, Autos, Total, Developed Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, EM, USD bn, % YoY","China, HS, Exports, Autos, Total, EM, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Total, DM, USD bn, % YoY","China, HS, Exports, Autos, Total, DM, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Total, US, USD bn, % YoY","China, HS, Exports, Autos, Total, US, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Total, Taiwan, USD bn, % YoY","China, HS, Exports, Autos, Total, Taiwan, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Total, Korea, USD bn, % YoY","China, HS, Exports, Autos, Total, Korea, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Total, Japan, USD bn, % YoY","China, HS, Exports, Autos, Total, Japan, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Total, Russia, USD bn, % YoY","China, HS, Exports, Autos, Total, Russia, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Total, World, USD bn, % YoY","China, HS, Exports, Autos, Total, World, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid, Africa, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, Africa, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid, Central and South America, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, Central and South America, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid, ASEAN, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, ASEAN, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid, Middle East, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, Middle East, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid, Other Europe, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, Other Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid, Other Asia, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, Other Asia, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid, EU, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, EU, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid, Other developed Europe, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, Other developed Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid, North America, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, North America, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid, North Asia, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, North Asia, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid, Developed Europe, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, Developed Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid, EM, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, EM, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid, DM, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, DM, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Hybrid, US, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, US, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Hybrid, Taiwan, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, Taiwan, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Hybrid, Korea, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, Korea, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Hybrid, Japan, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, Japan, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Hybrid, World, USD bn, % YoY","China, HS, Imports, Autos, Hybrid, World, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, Africa, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, Africa, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, Central and South America, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, Central and South America, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, ASEAN, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, ASEAN, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, Middle East, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, Middle East, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, Other Europe, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, Other Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, Other Asia, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, Other Asia, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, Developing Oceania, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, Developing Oceania, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, Hong Kong and Macau, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, Hong Kong and Macau, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, EU, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, EU, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, Other developed Europe, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, Other developed Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, North America, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, North America, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, North Asia, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, North Asia, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, Australia and New Zealand, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, Australia and New Zealand, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, Developed Europe, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, Developed Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, EM, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, EM, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid, DM, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, DM, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Hybrid, US, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, US, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Hybrid, Taiwan, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, Taiwan, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Hybrid, Korea, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, Korea, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Hybrid, Japan, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, Japan, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Hybrid, Russia, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, Russia, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Hybrid, World, USD bn, % YoY","China, HS, Exports, Autos, Hybrid, World, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Africa, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, Africa, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Central and South America, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, Central and South America, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid and electric, ASEAN, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, ASEAN, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Middle East, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, Middle East, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Other Europe, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, Other Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Other Asia, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, Other Asia, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid and electric, EU, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, EU, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Other developed Europe, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, Other developed Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid and electric, North America, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, North America, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid and electric, North Asia, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, North Asia, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid and electric, Developed Europe, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, Developed Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid and electric, EM, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, EM, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, Hybrid and electric, DM, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, DM, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Hybrid and electric, US, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, US, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Hybrid and electric, Taiwan, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, Taiwan, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Hybrid and electric, Korea, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, Korea, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Hybrid and electric, Japan, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, Japan, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Hybrid and electric, Russia, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, Russia, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, Hybrid and electric, World, USD bn, % YoY","China, HS, Imports, Autos, Hybrid and electric, World, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Africa, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, Africa, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Central and South America, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, Central and South America, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, ASEAN, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, ASEAN, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Middle East, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, Middle East, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Other Europe, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, Other Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Other Asia, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, Other Asia, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Developing Oceania, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, Developing Oceania, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Hong Kong and Macau, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, Hong Kong and Macau, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, EU, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, EU, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Other developed Europe, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, Other developed Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, North America, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, North America, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, North Asia, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, North Asia, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Australia and New Zealand, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, Australia and New Zealand, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, Developed Europe, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, Developed Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, EM, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, EM, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, Hybrid and electric, DM, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, DM, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Hybrid and electric, US, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, US, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Hybrid and electric, Taiwan, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, Taiwan, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Hybrid and electric, Korea, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, Korea, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Hybrid and electric, Japan, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, Japan, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Hybrid and electric, Russia, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, Russia, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, Hybrid and electric, World, USD bn, % YoY","China, HS, Exports, Autos, Hybrid and electric, World, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, Africa, USD bn, % YoY","China, HS, Imports, Autos, ICE, Africa, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, Central and South America, USD bn, % YoY","China, HS, Imports, Autos, ICE, Central and South America, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, ASEAN, USD bn, % YoY","China, HS, Imports, Autos, ICE, ASEAN, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, Middle East, USD bn, % YoY","China, HS, Imports, Autos, ICE, Middle East, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, Other Europe, USD bn, % YoY","China, HS, Imports, Autos, ICE, Other Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, Other Asia, USD bn, % YoY","China, HS, Imports, Autos, ICE, Other Asia, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, Hong Kong and Macau, USD bn, % YoY","China, HS, Imports, Autos, ICE, Hong Kong and Macau, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, EU, USD bn, % YoY","China, HS, Imports, Autos, ICE, EU, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, Other developed Europe, USD bn, % YoY","China, HS, Imports, Autos, ICE, Other developed Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, North America, USD bn, % YoY","China, HS, Imports, Autos, ICE, North America, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, North Asia, USD bn, % YoY","China, HS, Imports, Autos, ICE, North Asia, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, Australia and New Zealand, USD bn, % YoY","China, HS, Imports, Autos, ICE, Australia and New Zealand, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, Developed Europe, USD bn, % YoY","China, HS, Imports, Autos, ICE, Developed Europe, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, EM, USD bn, % YoY","China, HS, Imports, Autos, ICE, EM, USD bn, % YoY",None,line
-"China, HS, Imports, Autos, ICE, DM, USD bn, % YoY","China, HS, Imports, Autos, ICE, DM, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, ICE, US, USD bn, % YoY","China, HS, Imports, Autos, ICE, US, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, ICE, Taiwan, USD bn, % YoY","China, HS, Imports, Autos, ICE, Taiwan, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, ICE, Korea, USD bn, % YoY","China, HS, Imports, Autos, ICE, Korea, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, ICE, Japan, USD bn, % YoY","China, HS, Imports, Autos, ICE, Japan, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, ICE, Russia, USD bn, % YoY","China, HS, Imports, Autos, ICE, Russia, USD bn, % YoY",None,line
 "China, HS, Imports, Autos, ICE, World, USD bn, % YoY","China, HS, Imports, Autos, ICE, World, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, Africa, USD bn, % YoY","China, HS, Exports, Autos, ICE, Africa, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, Central and South America, USD bn, % YoY","China, HS, Exports, Autos, ICE, Central and South America, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, ASEAN, USD bn, % YoY","China, HS, Exports, Autos, ICE, ASEAN, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, Middle East, USD bn, % YoY","China, HS, Exports, Autos, ICE, Middle East, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, Other Europe, USD bn, % YoY","China, HS, Exports, Autos, ICE, Other Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, Other Asia, USD bn, % YoY","China, HS, Exports, Autos, ICE, Other Asia, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, Developing Oceania, USD bn, % YoY","China, HS, Exports, Autos, ICE, Developing Oceania, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, Hong Kong and Macau, USD bn, % YoY","China, HS, Exports, Autos, ICE, Hong Kong and Macau, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, EU, USD bn, % YoY","China, HS, Exports, Autos, ICE, EU, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, Other developed Europe, USD bn, % YoY","China, HS, Exports, Autos, ICE, Other developed Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, North America, USD bn, % YoY","China, HS, Exports, Autos, ICE, North America, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, North Asia, USD bn, % YoY","China, HS, Exports, Autos, ICE, North Asia, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, Australia and New Zealand, USD bn, % YoY","China, HS, Exports, Autos, ICE, Australia and New Zealand, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, Developed Europe, USD bn, % YoY","China, HS, Exports, Autos, ICE, Developed Europe, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, EM, USD bn, % YoY","China, HS, Exports, Autos, ICE, EM, USD bn, % YoY",None,line
-"China, HS, Exports, Autos, ICE, DM, USD bn, % YoY","China, HS, Exports, Autos, ICE, DM, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, ICE, US, USD bn, % YoY","China, HS, Exports, Autos, ICE, US, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, ICE, Taiwan, USD bn, % YoY","China, HS, Exports, Autos, ICE, Taiwan, USD bn, % YoY",None,line
 "China, HS, Exports, Autos, ICE, Korea, USD bn, % YoY","China, HS, Exports, Autos, ICE, Korea, USD bn, % YoY",None,line
