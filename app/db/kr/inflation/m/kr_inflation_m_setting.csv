@@ -1303,7 +1303,6 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Housing, water, electricity and other fuels, Index, SA","Korea, CPI, Housing, water, electricity and other fuels, Index, SA",None,line
 "Korea, CPI, Furnishings, household equipment and routine household maintenance, Index, SA","Korea, CPI, Furnishings, household equipment and routine household maintenance, Index, SA",None,line
 "Korea, CPI, Health, Index, SA","Korea, CPI, Health, Index, SA",None,line
-"Korea, CPI, Transport, Index, SA","Korea, CPI, Transport, Index, SA",None,line
 "Korea, CPI, Recreation and culture, Index, SA","Korea, CPI, Recreation and culture, Index, SA",None,line
 "Korea, CPI, Education, Index, SA","Korea, CPI, Education, Index, SA",None,line
 "Korea, CPI, Restaurants and hotels, Index, SA","Korea, CPI, Restaurants and hotels, Index, SA",None,line
@@ -1334,7 +1333,6 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Housing, water, electricity and other fuels, SA, % MoM","Korea, CPI, Housing, water, electricity and other fuels, SA, % MoM",None,line
 "Korea, CPI, Furnishings, household equipment and routine household maintenance, SA, % MoM","Korea, CPI, Furnishings, household equipment and routine household maintenance, SA, % MoM",None,line
 "Korea, CPI, Health, SA, % MoM","Korea, CPI, Health, SA, % MoM",None,line
-"Korea, CPI, Transport, SA, % MoM","Korea, CPI, Transport, SA, % MoM",None,line
 "Korea, CPI, Recreation and culture, SA, % MoM","Korea, CPI, Recreation and culture, SA, % MoM",None,line
 "Korea, CPI, Education, SA, % MoM","Korea, CPI, Education, SA, % MoM",None,line
 "Korea, CPI, Restaurants and hotels, SA, % MoM","Korea, CPI, Restaurants and hotels, SA, % MoM",None,line
@@ -1365,7 +1363,6 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Housing, water, electricity and other fuels, SA, % MoM annualised","Korea, CPI, Housing, water, electricity and other fuels, SA, % MoM annualised",None,line
 "Korea, CPI, Furnishings, household equipment and routine household maintenance, SA, % MoM annualised","Korea, CPI, Furnishings, household equipment and routine household maintenance, SA, % MoM annualised",None,line
 "Korea, CPI, Health, SA, % MoM annualised","Korea, CPI, Health, SA, % MoM annualised",None,line
-"Korea, CPI, Transport, SA, % MoM annualised","Korea, CPI, Transport, SA, % MoM annualised",None,line
 "Korea, CPI, Recreation and culture, SA, % MoM annualised","Korea, CPI, Recreation and culture, SA, % MoM annualised",None,line
 "Korea, CPI, Education, SA, % MoM annualised","Korea, CPI, Education, SA, % MoM annualised",None,line
 "Korea, CPI, Restaurants and hotels, SA, % MoM annualised","Korea, CPI, Restaurants and hotels, SA, % MoM annualised",None,line
@@ -2690,7 +2687,6 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Housing, water, electricity and other fuels, Index, SA, 3mma","Korea, CPI, Housing, water, electricity and other fuels, Index, SA, 3mma",None,line
 "Korea, CPI, Furnishings, household equipment and routine household maintenance, Index, SA, 3mma","Korea, CPI, Furnishings, household equipment and routine household maintenance, Index, SA, 3mma",None,line
 "Korea, CPI, Health, Index, SA, 3mma","Korea, CPI, Health, Index, SA, 3mma",None,line
-"Korea, CPI, Transport, Index, SA, 3mma","Korea, CPI, Transport, Index, SA, 3mma",None,line
 "Korea, CPI, Recreation and culture, Index, SA, 3mma","Korea, CPI, Recreation and culture, Index, SA, 3mma",None,line
 "Korea, CPI, Education, Index, SA, 3mma","Korea, CPI, Education, Index, SA, 3mma",None,line
 "Korea, CPI, Restaurants and hotels, Index, SA, 3mma","Korea, CPI, Restaurants and hotels, Index, SA, 3mma",None,line
@@ -2721,7 +2717,6 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Housing, water, electricity and other fuels, SA, % MoM, 3mma","Korea, CPI, Housing, water, electricity and other fuels, SA, % MoM, 3mma",None,line
 "Korea, CPI, Furnishings, household equipment and routine household maintenance, SA, % MoM, 3mma","Korea, CPI, Furnishings, household equipment and routine household maintenance, SA, % MoM, 3mma",None,line
 "Korea, CPI, Health, SA, % MoM, 3mma","Korea, CPI, Health, SA, % MoM, 3mma",None,line
-"Korea, CPI, Transport, SA, % MoM, 3mma","Korea, CPI, Transport, SA, % MoM, 3mma",None,line
 "Korea, CPI, Recreation and culture, SA, % MoM, 3mma","Korea, CPI, Recreation and culture, SA, % MoM, 3mma",None,line
 "Korea, CPI, Education, SA, % MoM, 3mma","Korea, CPI, Education, SA, % MoM, 3mma",None,line
 "Korea, CPI, Restaurants and hotels, SA, % MoM, 3mma","Korea, CPI, Restaurants and hotels, SA, % MoM, 3mma",None,line
@@ -2752,7 +2747,6 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Housing, water, electricity and other fuels, SA, % MoM annualised, 3mma","Korea, CPI, Housing, water, electricity and other fuels, SA, % MoM annualised, 3mma",None,line
 "Korea, CPI, Furnishings, household equipment and routine household maintenance, SA, % MoM annualised, 3mma","Korea, CPI, Furnishings, household equipment and routine household maintenance, SA, % MoM annualised, 3mma",None,line
 "Korea, CPI, Health, SA, % MoM annualised, 3mma","Korea, CPI, Health, SA, % MoM annualised, 3mma",None,line
-"Korea, CPI, Transport, SA, % MoM annualised, 3mma","Korea, CPI, Transport, SA, % MoM annualised, 3mma",None,line
 "Korea, CPI, Recreation and culture, SA, % MoM annualised, 3mma","Korea, CPI, Recreation and culture, SA, % MoM annualised, 3mma",None,line
 "Korea, CPI, Education, SA, % MoM annualised, 3mma","Korea, CPI, Education, SA, % MoM annualised, 3mma",None,line
 "Korea, CPI, Restaurants and hotels, SA, % MoM annualised, 3mma","Korea, CPI, Restaurants and hotels, SA, % MoM annualised, 3mma",None,line
