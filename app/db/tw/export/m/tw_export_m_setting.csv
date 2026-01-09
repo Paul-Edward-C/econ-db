@@ -435,21 +435,23 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, ASEAN, Machinery and electrical, Parts, USD bn","Taiwan, Exports, Broad, ASEAN, Machinery and electrical, Parts, USD bn",None,line
 "Taiwan, Exports, Broad, ASEAN, Machinery and electrical, USD bn","Taiwan, Exports, Broad, ASEAN, Machinery and electrical, USD bn",None,line
 "Taiwan, Exports, Broad, ASEAN, Mineral Products, USD bn","Taiwan, Exports, Broad, ASEAN, Mineral Products, USD bn",None,line
+"Taiwan, Exports, Broad, ASEAN, Mineral products, Refined petroleum products, USD bn","Taiwan, Exports, Broad, ASEAN, Mineral products, Refined petroleum products, USD bn",None,line
+"Taiwan, Exports, Broad, ASEAN, Mineral products, USD bn","Taiwan, Exports, Broad, ASEAN, Mineral products, USD bn",None,line
 "Taiwan, Exports, Broad, ASEAN, Total, USD bn","Taiwan, Exports, Broad, ASEAN, Total, USD bn",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Chemicals, USD bn","Taiwan, Exports, Broad, China and Hong Kong, Chemicals, USD bn",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, IT products, USD bn","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, IT products, USD bn",None,line
-"Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Machinery, USD bn","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Machinery, USD bn",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Parts, USD bn","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Parts, USD bn",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, USD bn","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, USD bn",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Mineral Products, USD bn","Taiwan, Exports, Broad, China and Hong Kong, Mineral Products, USD bn",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Total, USD bn","Taiwan, Exports, Broad, China and Hong Kong, Total, USD bn",None,line
+"Taiwan, Exports, Broad, China, Chemicals, USD bn","Taiwan, Exports, Broad, China, Chemicals, USD bn",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, IT products, USD bn","Taiwan, Exports, Broad, China, Machinery and electrical, IT products, USD bn",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, Parts, USD bn","Taiwan, Exports, Broad, China, Machinery and electrical, Parts, USD bn",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, USD bn","Taiwan, Exports, Broad, China, Machinery and electrical, USD bn",None,line
 "Taiwan, Exports, Broad, China, Mineral Products, USD bn","Taiwan, Exports, Broad, China, Mineral Products, USD bn",None,line
+"Taiwan, Exports, Broad, China, Prepared foodstuffs and beverages, Tobacco, USD bn","Taiwan, Exports, Broad, China, Prepared foodstuffs and beverages, Tobacco, USD bn",None,line
 "Taiwan, Exports, Broad, China, Total, USD bn","Taiwan, Exports, Broad, China, Total, USD bn",None,line
 "Taiwan, Exports, Broad, China, Vegetables, Edible, USD bn","Taiwan, Exports, Broad, China, Vegetables, Edible, USD bn",None,line
-"Taiwan, Exports, Broad, China, Vegetables, Fruit and nuts, USD bn","Taiwan, Exports, Broad, China, Vegetables, Fruit and nuts, USD bn",None,line
 "Taiwan, Exports, Broad, EU, Machinery and electrical, IT products, USD bn","Taiwan, Exports, Broad, EU, Machinery and electrical, IT products, USD bn",None,line
 "Taiwan, Exports, Broad, EU, Machinery and electrical, USD bn","Taiwan, Exports, Broad, EU, Machinery and electrical, USD bn",None,line
 "Taiwan, Exports, Broad, EU, Mineral Products, USD bn","Taiwan, Exports, Broad, EU, Mineral Products, USD bn",None,line
@@ -462,13 +464,14 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, Japan, Machinery and electrical, Parts, USD bn","Taiwan, Exports, Broad, Japan, Machinery and electrical, Parts, USD bn",None,line
 "Taiwan, Exports, Broad, Japan, Machinery and electrical, USD bn","Taiwan, Exports, Broad, Japan, Machinery and electrical, USD bn",None,line
 "Taiwan, Exports, Broad, Japan, Mineral Products, USD bn","Taiwan, Exports, Broad, Japan, Mineral Products, USD bn",None,line
+"Taiwan, Exports, Broad, Japan, Prepared foodstuffs and beverages, Tobacco, USD bn","Taiwan, Exports, Broad, Japan, Prepared foodstuffs and beverages, Tobacco, USD bn",None,line
 "Taiwan, Exports, Broad, Japan, Total, USD bn","Taiwan, Exports, Broad, Japan, Total, USD bn",None,line
 "Taiwan, Exports, Broad, Korea, Machinery and electrical, Parts, USD bn","Taiwan, Exports, Broad, Korea, Machinery and electrical, Parts, USD bn",None,line
 "Taiwan, Exports, Broad, Korea, Machinery and electrical, USD bn","Taiwan, Exports, Broad, Korea, Machinery and electrical, USD bn",None,line
 "Taiwan, Exports, Broad, Korea, Mineral Products, USD bn","Taiwan, Exports, Broad, Korea, Mineral Products, USD bn",None,line
 "Taiwan, Exports, Broad, Korea, Total, USD bn","Taiwan, Exports, Broad, Korea, Total, USD bn",None,line
-"Taiwan, Exports, Broad, Korea, Vegetables, Edible, USD bn","Taiwan, Exports, Broad, Korea, Vegetables, Edible, USD bn",None,line
 "Taiwan, Exports, Broad, Korea, Vegetables, Fruit and nuts, USD bn","Taiwan, Exports, Broad, Korea, Vegetables, Fruit and nuts, USD bn",None,line
+"Taiwan, Exports, Broad, US, Base metals, USD bn","Taiwan, Exports, Broad, US, Base metals, USD bn",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, Electrical machinery, USD bn","Taiwan, Exports, Broad, US, Machinery and electrical, Electrical machinery, USD bn",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, IT products, USD bn","Taiwan, Exports, Broad, US, Machinery and electrical, IT products, USD bn",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, Machinery, USD bn","Taiwan, Exports, Broad, US, Machinery and electrical, Machinery, USD bn",None,line
@@ -491,20 +494,25 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, World, Mineral products, USD bn","Taiwan, Exports, Broad, World, Mineral products, USD bn",None,line
 "Taiwan, Exports, Broad, World, Optical and clocks, Optical and precision instruments, USD bn","Taiwan, Exports, Broad, World, Optical and clocks, Optical and precision instruments, USD bn",None,line
 "Taiwan, Exports, Broad, World, Optical and clocks, USD bn","Taiwan, Exports, Broad, World, Optical and clocks, USD bn",None,line
+"Taiwan, Exports, Broad, World, Others, USD bn","Taiwan, Exports, Broad, World, Others, USD bn",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, Plastic products, USD bn","Taiwan, Exports, Broad, World, Plastics and rubber, Plastic products, USD bn",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, Plastics, USD bn","Taiwan, Exports, Broad, World, Plastics and rubber, Plastics, USD bn",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, USD bn","Taiwan, Exports, Broad, World, Plastics and rubber, USD bn",None,line
+"Taiwan, Exports, Broad, World, Textiles, USD bn","Taiwan, Exports, Broad, World, Textiles, USD bn",None,line
 "Taiwan, Exports, Broad, World, Total, USD bn","Taiwan, Exports, Broad, World, Total, USD bn",None,line
 "Taiwan, Exports, Broad, World, Transportation, USD bn","Taiwan, Exports, Broad, World, Transportation, USD bn",None,line
-"Taiwan, Exports, Detailed, ASEAN, DRAM, USD bn","Taiwan, Exports, Detailed, ASEAN, DRAM, USD bn",None,line
+"Taiwan, Exports, Detailed, ASEAN, Photovoltaic cells, USD bn","Taiwan, Exports, Detailed, ASEAN, Photovoltaic cells, USD bn",None,line
 "Taiwan, Exports, Detailed, China and Hong Kong, DRAM, USD bn","Taiwan, Exports, Detailed, China and Hong Kong, DRAM, USD bn",None,line
 "Taiwan, Exports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, USD bn","Taiwan, Exports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, USD bn",None,line
+"Taiwan, Exports, Detailed, China and Hong Kong, Minibus, USD bn","Taiwan, Exports, Detailed, China and Hong Kong, Minibus, USD bn",None,line
+"Taiwan, Exports, Detailed, China, Minibus, USD bn","Taiwan, Exports, Detailed, China, Minibus, USD bn",None,line
 "Taiwan, Exports, Detailed, Hong Kong, DRAM, USD bn","Taiwan, Exports, Detailed, Hong Kong, DRAM, USD bn",None,line
 "Taiwan, Exports, Detailed, Hong Kong, Minibus, USD bn","Taiwan, Exports, Detailed, Hong Kong, Minibus, USD bn",None,line
+"Taiwan, Exports, Detailed, Korea, Mobile phones, USD bn","Taiwan, Exports, Detailed, Korea, Mobile phones, USD bn",None,line
 "Taiwan, Exports, Detailed, Korea, Photovoltaic cells, USD bn","Taiwan, Exports, Detailed, Korea, Photovoltaic cells, USD bn",None,line
+"Taiwan, Exports, Detailed, US, Switches and Routers, USD bn","Taiwan, Exports, Detailed, US, Switches and Routers, USD bn",None,line
 "Taiwan, Exports, Detailed, World, DRAM, USD bn","Taiwan, Exports, Detailed, World, DRAM, USD bn",None,line
 "Taiwan, Exports, Detailed, World, Electronic components excluding integrated circuits, USD bn","Taiwan, Exports, Detailed, World, Electronic components excluding integrated circuits, USD bn",None,line
-"Taiwan, Exports, Detailed, World, Parts for mobile phone and network communication products, USD bn","Taiwan, Exports, Detailed, World, Parts for mobile phone and network communication products, USD bn",None,line
 "Taiwan, Exports, Detailed, World, Storage media, USD bn","Taiwan, Exports, Detailed, World, Storage media, USD bn",None,line
 "Taiwan, Exports, Detailed, World, Switches and Routers, USD bn","Taiwan, Exports, Detailed, World, Switches and Routers, USD bn",None,line
 "Taiwan, Imports, Broad, ASEAN, Machinery and electrical, IT products, USD bn","Taiwan, Imports, Broad, ASEAN, Machinery and electrical, IT products, USD bn",None,line
@@ -513,8 +521,6 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, ASEAN, Machinery and electrical, USD bn","Taiwan, Imports, Broad, ASEAN, Machinery and electrical, USD bn",None,line
 "Taiwan, Imports, Broad, ASEAN, Mineral Products, USD bn","Taiwan, Imports, Broad, ASEAN, Mineral Products, USD bn",None,line
 "Taiwan, Imports, Broad, ASEAN, Mineral products, Petroleum, USD bn","Taiwan, Imports, Broad, ASEAN, Mineral products, Petroleum, USD bn",None,line
-"Taiwan, Imports, Broad, ASEAN, Optical and clocks, Precision instruments, USD bn","Taiwan, Imports, Broad, ASEAN, Optical and clocks, Precision instruments, USD bn",None,line
-"Taiwan, Imports, Broad, ASEAN, Optical and clocks, USD bn","Taiwan, Imports, Broad, ASEAN, Optical and clocks, USD bn",None,line
 "Taiwan, Imports, Broad, ASEAN, Total, USD bn","Taiwan, Imports, Broad, ASEAN, Total, USD bn",None,line
 "Taiwan, Imports, Broad, ASEAN, Vegetables, Soybeans, USD bn","Taiwan, Imports, Broad, ASEAN, Vegetables, Soybeans, USD bn",None,line
 "Taiwan, Imports, Broad, ASEAN, Vegetables, Wheat, USD bn","Taiwan, Imports, Broad, ASEAN, Vegetables, Wheat, USD bn",None,line
@@ -546,15 +552,13 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, EU, Mineral Products, USD bn","Taiwan, Imports, Broad, EU, Mineral Products, USD bn",None,line
 "Taiwan, Imports, Broad, EU, Mineral products, Petroleum, USD bn","Taiwan, Imports, Broad, EU, Mineral products, Petroleum, USD bn",None,line
 "Taiwan, Imports, Broad, EU, Total, USD bn","Taiwan, Imports, Broad, EU, Total, USD bn",None,line
+"Taiwan, Imports, Broad, EU, Transportation, USD bn","Taiwan, Imports, Broad, EU, Transportation, USD bn",None,line
+"Taiwan, Imports, Broad, EU, Vegetables, Wheat, USD bn","Taiwan, Imports, Broad, EU, Vegetables, Wheat, USD bn",None,line
 "Taiwan, Imports, Broad, Hong Kong, Animal and vegetable oils, USD bn","Taiwan, Imports, Broad, Hong Kong, Animal and vegetable oils, USD bn",None,line
-"Taiwan, Imports, Broad, Hong Kong, Chemicals, Organic, USD bn","Taiwan, Imports, Broad, Hong Kong, Chemicals, Organic, USD bn",None,line
-"Taiwan, Imports, Broad, Hong Kong, Footwear, USD bn","Taiwan, Imports, Broad, Hong Kong, Footwear, USD bn",None,line
-"Taiwan, Imports, Broad, Hong Kong, Machinery and electrical, Domestic appliances, USD bn","Taiwan, Imports, Broad, Hong Kong, Machinery and electrical, Domestic appliances, USD bn",None,line
 "Taiwan, Imports, Broad, Hong Kong, Mineral Products, USD bn","Taiwan, Imports, Broad, Hong Kong, Mineral Products, USD bn",None,line
 "Taiwan, Imports, Broad, Hong Kong, Mineral products, Petroleum, USD bn","Taiwan, Imports, Broad, Hong Kong, Mineral products, Petroleum, USD bn",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Maize, USD bn","Taiwan, Imports, Broad, Hong Kong, Vegetables, Maize, USD bn",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Soybeans, USD bn","Taiwan, Imports, Broad, Hong Kong, Vegetables, Soybeans, USD bn",None,line
-"Taiwan, Imports, Broad, Hong Kong, Vegetables, USD bn","Taiwan, Imports, Broad, Hong Kong, Vegetables, USD bn",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Wheat, USD bn","Taiwan, Imports, Broad, Hong Kong, Vegetables, Wheat, USD bn",None,line
 "Taiwan, Imports, Broad, Japan, Chemicals, USD bn","Taiwan, Imports, Broad, Japan, Chemicals, USD bn",None,line
 "Taiwan, Imports, Broad, Japan, Machinery and electrical, Machinery, USD bn","Taiwan, Imports, Broad, Japan, Machinery and electrical, Machinery, USD bn",None,line
@@ -564,6 +568,7 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, Japan, Mineral products, Petroleum, USD bn","Taiwan, Imports, Broad, Japan, Mineral products, Petroleum, USD bn",None,line
 "Taiwan, Imports, Broad, Japan, Total, USD bn","Taiwan, Imports, Broad, Japan, Total, USD bn",None,line
 "Taiwan, Imports, Broad, Japan, Vegetables, Maize, USD bn","Taiwan, Imports, Broad, Japan, Vegetables, Maize, USD bn",None,line
+"Taiwan, Imports, Broad, Japan, Vegetables, Soybeans, USD bn","Taiwan, Imports, Broad, Japan, Vegetables, Soybeans, USD bn",None,line
 "Taiwan, Imports, Broad, Japan, Vegetables, Wheat, USD bn","Taiwan, Imports, Broad, Japan, Vegetables, Wheat, USD bn",None,line
 "Taiwan, Imports, Broad, Korea, Machinery and electrical, Parts, USD bn","Taiwan, Imports, Broad, Korea, Machinery and electrical, Parts, USD bn",None,line
 "Taiwan, Imports, Broad, Korea, Machinery and electrical, USD bn","Taiwan, Imports, Broad, Korea, Machinery and electrical, USD bn",None,line
@@ -577,9 +582,8 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, US, Machinery and electrical, Parts, USD bn","Taiwan, Imports, Broad, US, Machinery and electrical, Parts, USD bn",None,line
 "Taiwan, Imports, Broad, US, Machinery and electrical, USD bn","Taiwan, Imports, Broad, US, Machinery and electrical, USD bn",None,line
 "Taiwan, Imports, Broad, US, Mineral Products, USD bn","Taiwan, Imports, Broad, US, Mineral Products, USD bn",None,line
-"Taiwan, Imports, Broad, US, Mineral products, Petroleum, USD bn","Taiwan, Imports, Broad, US, Mineral products, Petroleum, USD bn",None,line
-"Taiwan, Imports, Broad, US, Mineral products, USD bn","Taiwan, Imports, Broad, US, Mineral products, USD bn",None,line
 "Taiwan, Imports, Broad, US, Total, USD bn","Taiwan, Imports, Broad, US, Total, USD bn",None,line
+"Taiwan, Imports, Broad, World, Animals and Animal products, USD bn","Taiwan, Imports, Broad, World, Animals and Animal products, USD bn",None,line
 "Taiwan, Imports, Broad, World, Base metals, Copper, USD bn","Taiwan, Imports, Broad, World, Base metals, Copper, USD bn",None,line
 "Taiwan, Imports, Broad, World, Base metals, Iron and steel, USD bn","Taiwan, Imports, Broad, World, Base metals, Iron and steel, USD bn",None,line
 "Taiwan, Imports, Broad, World, Base metals, USD bn","Taiwan, Imports, Broad, World, Base metals, USD bn",None,line
@@ -596,13 +600,12 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, World, Optical and clocks, USD bn","Taiwan, Imports, Broad, World, Optical and clocks, USD bn",None,line
 "Taiwan, Imports, Broad, World, Others, USD bn","Taiwan, Imports, Broad, World, Others, USD bn",None,line
 "Taiwan, Imports, Broad, World, Plastics and rubber, USD bn","Taiwan, Imports, Broad, World, Plastics and rubber, USD bn",None,line
-"Taiwan, Imports, Broad, World, Precious stones, Gold, USD bn","Taiwan, Imports, Broad, World, Precious stones, Gold, USD bn",None,line
 "Taiwan, Imports, Broad, World, Precious stones, USD bn","Taiwan, Imports, Broad, World, Precious stones, USD bn",None,line
+"Taiwan, Imports, Broad, World, Prepared foodstuffs and beverages, USD bn","Taiwan, Imports, Broad, World, Prepared foodstuffs and beverages, USD bn",None,line
 "Taiwan, Imports, Broad, World, Total, USD bn","Taiwan, Imports, Broad, World, Total, USD bn",None,line
 "Taiwan, Imports, Broad, World, Transportation, USD bn","Taiwan, Imports, Broad, World, Transportation, USD bn",None,line
 "Taiwan, Imports, Broad, World, Vegetables, USD bn","Taiwan, Imports, Broad, World, Vegetables, USD bn",None,line
 "Taiwan, Imports, Detailed, ASEAN, Semiconductor equipment, USD bn","Taiwan, Imports, Detailed, ASEAN, Semiconductor equipment, USD bn",None,line
-"Taiwan, Imports, Detailed, ASEAN, Semiconductor manufacturing equipment, USD bn","Taiwan, Imports, Detailed, ASEAN, Semiconductor manufacturing equipment, USD bn",None,line
 "Taiwan, Imports, Detailed, ASEAN, Switches and Routers, USD bn","Taiwan, Imports, Detailed, ASEAN, Switches and Routers, USD bn",None,line
 "Taiwan, Imports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, USD bn","Taiwan, Imports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, USD bn",None,line
 "Taiwan, Imports, Detailed, China and Hong Kong, Memory, USD bn","Taiwan, Imports, Detailed, China and Hong Kong, Memory, USD bn",None,line
@@ -610,16 +613,15 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Detailed, China, Memory, USD bn","Taiwan, Imports, Detailed, China, Memory, USD bn",None,line
 "Taiwan, Imports, Detailed, EU, Semiconductor equipment, USD bn","Taiwan, Imports, Detailed, EU, Semiconductor equipment, USD bn",None,line
 "Taiwan, Imports, Detailed, EU, Semiconductor manufacturing equipment, USD bn","Taiwan, Imports, Detailed, EU, Semiconductor manufacturing equipment, USD bn",None,line
+"Taiwan, Imports, Detailed, Hong Kong, LED, USD bn","Taiwan, Imports, Detailed, Hong Kong, LED, USD bn",None,line
 "Taiwan, Imports, Detailed, Hong Kong, Laptop computers, USD bn","Taiwan, Imports, Detailed, Hong Kong, Laptop computers, USD bn",None,line
 "Taiwan, Imports, Detailed, Hong Kong, Mobile phones, USD bn","Taiwan, Imports, Detailed, Hong Kong, Mobile phones, USD bn",None,line
-"Taiwan, Imports, Detailed, Hong Kong, Motors and generators sets, USD bn","Taiwan, Imports, Detailed, Hong Kong, Motors and generators sets, USD bn",None,line
-"Taiwan, Imports, Detailed, Hong Kong, Semiconductor manufacturing equipment, USD bn","Taiwan, Imports, Detailed, Hong Kong, Semiconductor manufacturing equipment, USD bn",None,line
 "Taiwan, Imports, Detailed, Japan, Memory, USD bn","Taiwan, Imports, Detailed, Japan, Memory, USD bn",None,line
+"Taiwan, Imports, Detailed, Japan, Mobile phones, USD bn","Taiwan, Imports, Detailed, Japan, Mobile phones, USD bn",None,line
 "Taiwan, Imports, Detailed, Japan, Semiconductor equipment, USD bn","Taiwan, Imports, Detailed, Japan, Semiconductor equipment, USD bn",None,line
 "Taiwan, Imports, Detailed, Japan, Semiconductor manufacturing equipment, USD bn","Taiwan, Imports, Detailed, Japan, Semiconductor manufacturing equipment, USD bn",None,line
 "Taiwan, Imports, Detailed, Korea, Memory, USD bn","Taiwan, Imports, Detailed, Korea, Memory, USD bn",None,line
 "Taiwan, Imports, Detailed, US, Semiconductor equipment, USD bn","Taiwan, Imports, Detailed, US, Semiconductor equipment, USD bn",None,line
-"Taiwan, Imports, Detailed, US, Semiconductor manufacturing equipment, USD bn","Taiwan, Imports, Detailed, US, Semiconductor manufacturing equipment, USD bn",None,line
 "Taiwan, Imports, Detailed, World, Automatic data processing machines, USD bn","Taiwan, Imports, Detailed, World, Automatic data processing machines, USD bn",None,line
 "Taiwan, Imports, Detailed, World, Computer parts and accessories, USD bn","Taiwan, Imports, Detailed, World, Computer parts and accessories, USD bn",None,line
 "Taiwan, Imports, Detailed, World, Electronic components excluding integrated circuits, USD bn","Taiwan, Imports, Detailed, World, Electronic components excluding integrated circuits, USD bn",None,line
@@ -627,6 +629,7 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Detailed, World, Printed circuit, USD bn","Taiwan, Imports, Detailed, World, Printed circuit, USD bn",None,line
 "Taiwan, Imports, Detailed, World, Semiconductor equipment, USD bn","Taiwan, Imports, Detailed, World, Semiconductor equipment, USD bn",None,line
 "Taiwan, Imports, Detailed, World, Semiconductor manufacturing equipment, USD bn","Taiwan, Imports, Detailed, World, Semiconductor manufacturing equipment, USD bn",None,line
+"Taiwan, Imports, Detailed, World, Storage media, USD bn","Taiwan, Imports, Detailed, World, Storage media, USD bn",None,line
 "Taiwan, Imports, Detailed, World, Switches and Routers, USD bn","Taiwan, Imports, Detailed, World, Switches and Routers, USD bn",None,line
 "Taiwan, Imports, Broad, World, Food, USD bn","Taiwan, Imports, Broad, World, Food, USD bn",None,line
 "Taiwan, Imports, Broad, World, Chemicals and rubber, USD bn","Taiwan, Imports, Broad, World, Chemicals and rubber, USD bn",None,line
@@ -647,8 +650,10 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, US, Miscellaneous, USD bn","Taiwan, Imports, Broad, US, Miscellaneous, USD bn",None,line
 "Taiwan, Imports, Broad, US, Machinery and electrical excluding semi, USD bn","Taiwan, Imports, Broad, US, Machinery and electrical excluding semi, USD bn",None,line
 "Taiwan, Imports, Broad, EU, Chemicals and rubber, USD bn","Taiwan, Imports, Broad, EU, Chemicals and rubber, USD bn",None,line
+"Taiwan, Imports, Broad, EU, Miscellaneous, USD bn","Taiwan, Imports, Broad, EU, Miscellaneous, USD bn",None,line
 "Taiwan, Imports, Broad, EU, Machinery and electrical excluding semi, USD bn","Taiwan, Imports, Broad, EU, Machinery and electrical excluding semi, USD bn",None,line
 "Taiwan, Exports, Broad, World, Chemicals and rubber, USD bn","Taiwan, Exports, Broad, World, Chemicals and rubber, USD bn",None,line
+"Taiwan, Exports, Broad, World, Textiles and footwear, USD bn","Taiwan, Exports, Broad, World, Textiles and footwear, USD bn",None,line
 "Taiwan, Exports, Broad, World, Miscellaneous, USD bn","Taiwan, Exports, Broad, World, Miscellaneous, USD bn",None,line
 "Taiwan, Exports, Broad, World, Machinery and electrical excluding semi, USD bn","Taiwan, Exports, Broad, World, Machinery and electrical excluding semi, USD bn",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Chemicals and rubber, USD bn","Taiwan, Exports, Broad, China and Hong Kong, Chemicals and rubber, USD bn",None,line
@@ -679,6 +684,7 @@ name,display_name,data_type,chart_type
 "Taiwan, Trade balance, Broad, EU, Machinery and electrical, USD bn","Taiwan, Trade balance, Broad, EU, Machinery and electrical, USD bn",None,line
 "Taiwan, Trade balance, Broad, World, Machinery and electrical excluding semi, USD bn","Taiwan, Trade balance, Broad, World, Machinery and electrical excluding semi, USD bn",None,line
 "Taiwan, Trade balance, Broad, Hong Kong, Machinery and electrical excluding semi, USD bn","Taiwan, Trade balance, Broad, Hong Kong, Machinery and electrical excluding semi, USD bn",None,line
+"Taiwan, Trade balance, Broad, ASEAN, Machinery and electrical excluding semi, USD bn","Taiwan, Trade balance, Broad, ASEAN, Machinery and electrical excluding semi, USD bn",None,line
 "Taiwan, Trade balance, Broad, US, Machinery and electrical excluding semi, USD bn","Taiwan, Trade balance, Broad, US, Machinery and electrical excluding semi, USD bn",None,line
 "Taiwan, Trade balance, Broad, EU, Machinery and electrical excluding semi, USD bn","Taiwan, Trade balance, Broad, EU, Machinery and electrical excluding semi, USD bn",None,line
 "Taiwan, Exports, Detailed, ASEAN, Integrated circuit, USD bn","Taiwan, Exports, Detailed, ASEAN, Integrated circuit, USD bn",None,line
@@ -1157,21 +1163,23 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, ASEAN, Machinery and electrical, Parts, TWD bn","Taiwan, Exports, Broad, ASEAN, Machinery and electrical, Parts, TWD bn",None,line
 "Taiwan, Exports, Broad, ASEAN, Machinery and electrical, TWD bn","Taiwan, Exports, Broad, ASEAN, Machinery and electrical, TWD bn",None,line
 "Taiwan, Exports, Broad, ASEAN, Mineral Products, TWD bn","Taiwan, Exports, Broad, ASEAN, Mineral Products, TWD bn",None,line
+"Taiwan, Exports, Broad, ASEAN, Mineral products, Refined petroleum products, TWD bn","Taiwan, Exports, Broad, ASEAN, Mineral products, Refined petroleum products, TWD bn",None,line
+"Taiwan, Exports, Broad, ASEAN, Mineral products, TWD bn","Taiwan, Exports, Broad, ASEAN, Mineral products, TWD bn",None,line
 "Taiwan, Exports, Broad, ASEAN, Total, TWD bn","Taiwan, Exports, Broad, ASEAN, Total, TWD bn",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Chemicals, TWD bn","Taiwan, Exports, Broad, China and Hong Kong, Chemicals, TWD bn",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, IT products, TWD bn","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, IT products, TWD bn",None,line
-"Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Machinery, TWD bn","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Machinery, TWD bn",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Parts, TWD bn","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Parts, TWD bn",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, TWD bn","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, TWD bn",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Mineral Products, TWD bn","Taiwan, Exports, Broad, China and Hong Kong, Mineral Products, TWD bn",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Total, TWD bn","Taiwan, Exports, Broad, China and Hong Kong, Total, TWD bn",None,line
+"Taiwan, Exports, Broad, China, Chemicals, TWD bn","Taiwan, Exports, Broad, China, Chemicals, TWD bn",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, IT products, TWD bn","Taiwan, Exports, Broad, China, Machinery and electrical, IT products, TWD bn",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, Parts, TWD bn","Taiwan, Exports, Broad, China, Machinery and electrical, Parts, TWD bn",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, TWD bn","Taiwan, Exports, Broad, China, Machinery and electrical, TWD bn",None,line
 "Taiwan, Exports, Broad, China, Mineral Products, TWD bn","Taiwan, Exports, Broad, China, Mineral Products, TWD bn",None,line
+"Taiwan, Exports, Broad, China, Prepared foodstuffs and beverages, Tobacco, TWD bn","Taiwan, Exports, Broad, China, Prepared foodstuffs and beverages, Tobacco, TWD bn",None,line
 "Taiwan, Exports, Broad, China, Total, TWD bn","Taiwan, Exports, Broad, China, Total, TWD bn",None,line
 "Taiwan, Exports, Broad, China, Vegetables, Edible, TWD bn","Taiwan, Exports, Broad, China, Vegetables, Edible, TWD bn",None,line
-"Taiwan, Exports, Broad, China, Vegetables, Fruit and nuts, TWD bn","Taiwan, Exports, Broad, China, Vegetables, Fruit and nuts, TWD bn",None,line
 "Taiwan, Exports, Broad, EU, Machinery and electrical, IT products, TWD bn","Taiwan, Exports, Broad, EU, Machinery and electrical, IT products, TWD bn",None,line
 "Taiwan, Exports, Broad, EU, Machinery and electrical, TWD bn","Taiwan, Exports, Broad, EU, Machinery and electrical, TWD bn",None,line
 "Taiwan, Exports, Broad, EU, Mineral Products, TWD bn","Taiwan, Exports, Broad, EU, Mineral Products, TWD bn",None,line
@@ -1184,13 +1192,14 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, Japan, Machinery and electrical, Parts, TWD bn","Taiwan, Exports, Broad, Japan, Machinery and electrical, Parts, TWD bn",None,line
 "Taiwan, Exports, Broad, Japan, Machinery and electrical, TWD bn","Taiwan, Exports, Broad, Japan, Machinery and electrical, TWD bn",None,line
 "Taiwan, Exports, Broad, Japan, Mineral Products, TWD bn","Taiwan, Exports, Broad, Japan, Mineral Products, TWD bn",None,line
+"Taiwan, Exports, Broad, Japan, Prepared foodstuffs and beverages, Tobacco, TWD bn","Taiwan, Exports, Broad, Japan, Prepared foodstuffs and beverages, Tobacco, TWD bn",None,line
 "Taiwan, Exports, Broad, Japan, Total, TWD bn","Taiwan, Exports, Broad, Japan, Total, TWD bn",None,line
 "Taiwan, Exports, Broad, Korea, Machinery and electrical, Parts, TWD bn","Taiwan, Exports, Broad, Korea, Machinery and electrical, Parts, TWD bn",None,line
 "Taiwan, Exports, Broad, Korea, Machinery and electrical, TWD bn","Taiwan, Exports, Broad, Korea, Machinery and electrical, TWD bn",None,line
 "Taiwan, Exports, Broad, Korea, Mineral Products, TWD bn","Taiwan, Exports, Broad, Korea, Mineral Products, TWD bn",None,line
 "Taiwan, Exports, Broad, Korea, Total, TWD bn","Taiwan, Exports, Broad, Korea, Total, TWD bn",None,line
-"Taiwan, Exports, Broad, Korea, Vegetables, Edible, TWD bn","Taiwan, Exports, Broad, Korea, Vegetables, Edible, TWD bn",None,line
 "Taiwan, Exports, Broad, Korea, Vegetables, Fruit and nuts, TWD bn","Taiwan, Exports, Broad, Korea, Vegetables, Fruit and nuts, TWD bn",None,line
+"Taiwan, Exports, Broad, US, Base metals, TWD bn","Taiwan, Exports, Broad, US, Base metals, TWD bn",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, Electrical machinery, TWD bn","Taiwan, Exports, Broad, US, Machinery and electrical, Electrical machinery, TWD bn",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, IT products, TWD bn","Taiwan, Exports, Broad, US, Machinery and electrical, IT products, TWD bn",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, Machinery, TWD bn","Taiwan, Exports, Broad, US, Machinery and electrical, Machinery, TWD bn",None,line
@@ -1213,20 +1222,25 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, World, Mineral products, TWD bn","Taiwan, Exports, Broad, World, Mineral products, TWD bn",None,line
 "Taiwan, Exports, Broad, World, Optical and clocks, Optical and precision instruments, TWD bn","Taiwan, Exports, Broad, World, Optical and clocks, Optical and precision instruments, TWD bn",None,line
 "Taiwan, Exports, Broad, World, Optical and clocks, TWD bn","Taiwan, Exports, Broad, World, Optical and clocks, TWD bn",None,line
+"Taiwan, Exports, Broad, World, Others, TWD bn","Taiwan, Exports, Broad, World, Others, TWD bn",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, Plastic products, TWD bn","Taiwan, Exports, Broad, World, Plastics and rubber, Plastic products, TWD bn",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, Plastics, TWD bn","Taiwan, Exports, Broad, World, Plastics and rubber, Plastics, TWD bn",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, TWD bn","Taiwan, Exports, Broad, World, Plastics and rubber, TWD bn",None,line
+"Taiwan, Exports, Broad, World, Textiles, TWD bn","Taiwan, Exports, Broad, World, Textiles, TWD bn",None,line
 "Taiwan, Exports, Broad, World, Total, TWD bn","Taiwan, Exports, Broad, World, Total, TWD bn",None,line
 "Taiwan, Exports, Broad, World, Transportation, TWD bn","Taiwan, Exports, Broad, World, Transportation, TWD bn",None,line
-"Taiwan, Exports, Detailed, ASEAN, DRAM, TWD bn","Taiwan, Exports, Detailed, ASEAN, DRAM, TWD bn",None,line
+"Taiwan, Exports, Detailed, ASEAN, Photovoltaic cells, TWD bn","Taiwan, Exports, Detailed, ASEAN, Photovoltaic cells, TWD bn",None,line
 "Taiwan, Exports, Detailed, China and Hong Kong, DRAM, TWD bn","Taiwan, Exports, Detailed, China and Hong Kong, DRAM, TWD bn",None,line
 "Taiwan, Exports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, TWD bn","Taiwan, Exports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, TWD bn",None,line
+"Taiwan, Exports, Detailed, China and Hong Kong, Minibus, TWD bn","Taiwan, Exports, Detailed, China and Hong Kong, Minibus, TWD bn",None,line
+"Taiwan, Exports, Detailed, China, Minibus, TWD bn","Taiwan, Exports, Detailed, China, Minibus, TWD bn",None,line
 "Taiwan, Exports, Detailed, Hong Kong, DRAM, TWD bn","Taiwan, Exports, Detailed, Hong Kong, DRAM, TWD bn",None,line
 "Taiwan, Exports, Detailed, Hong Kong, Minibus, TWD bn","Taiwan, Exports, Detailed, Hong Kong, Minibus, TWD bn",None,line
+"Taiwan, Exports, Detailed, Korea, Mobile phones, TWD bn","Taiwan, Exports, Detailed, Korea, Mobile phones, TWD bn",None,line
 "Taiwan, Exports, Detailed, Korea, Photovoltaic cells, TWD bn","Taiwan, Exports, Detailed, Korea, Photovoltaic cells, TWD bn",None,line
+"Taiwan, Exports, Detailed, US, Switches and Routers, TWD bn","Taiwan, Exports, Detailed, US, Switches and Routers, TWD bn",None,line
 "Taiwan, Exports, Detailed, World, DRAM, TWD bn","Taiwan, Exports, Detailed, World, DRAM, TWD bn",None,line
 "Taiwan, Exports, Detailed, World, Electronic components excluding integrated circuits, TWD bn","Taiwan, Exports, Detailed, World, Electronic components excluding integrated circuits, TWD bn",None,line
-"Taiwan, Exports, Detailed, World, Parts for mobile phone and network communication products, TWD bn","Taiwan, Exports, Detailed, World, Parts for mobile phone and network communication products, TWD bn",None,line
 "Taiwan, Exports, Detailed, World, Storage media, TWD bn","Taiwan, Exports, Detailed, World, Storage media, TWD bn",None,line
 "Taiwan, Exports, Detailed, World, Switches and Routers, TWD bn","Taiwan, Exports, Detailed, World, Switches and Routers, TWD bn",None,line
 "Taiwan, Imports, Broad, ASEAN, Machinery and electrical, IT products, TWD bn","Taiwan, Imports, Broad, ASEAN, Machinery and electrical, IT products, TWD bn",None,line
@@ -1235,8 +1249,6 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, ASEAN, Machinery and electrical, TWD bn","Taiwan, Imports, Broad, ASEAN, Machinery and electrical, TWD bn",None,line
 "Taiwan, Imports, Broad, ASEAN, Mineral Products, TWD bn","Taiwan, Imports, Broad, ASEAN, Mineral Products, TWD bn",None,line
 "Taiwan, Imports, Broad, ASEAN, Mineral products, Petroleum, TWD bn","Taiwan, Imports, Broad, ASEAN, Mineral products, Petroleum, TWD bn",None,line
-"Taiwan, Imports, Broad, ASEAN, Optical and clocks, Precision instruments, TWD bn","Taiwan, Imports, Broad, ASEAN, Optical and clocks, Precision instruments, TWD bn",None,line
-"Taiwan, Imports, Broad, ASEAN, Optical and clocks, TWD bn","Taiwan, Imports, Broad, ASEAN, Optical and clocks, TWD bn",None,line
 "Taiwan, Imports, Broad, ASEAN, Total, TWD bn","Taiwan, Imports, Broad, ASEAN, Total, TWD bn",None,line
 "Taiwan, Imports, Broad, ASEAN, Vegetables, Soybeans, TWD bn","Taiwan, Imports, Broad, ASEAN, Vegetables, Soybeans, TWD bn",None,line
 "Taiwan, Imports, Broad, ASEAN, Vegetables, Wheat, TWD bn","Taiwan, Imports, Broad, ASEAN, Vegetables, Wheat, TWD bn",None,line
@@ -1268,15 +1280,13 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, EU, Mineral Products, TWD bn","Taiwan, Imports, Broad, EU, Mineral Products, TWD bn",None,line
 "Taiwan, Imports, Broad, EU, Mineral products, Petroleum, TWD bn","Taiwan, Imports, Broad, EU, Mineral products, Petroleum, TWD bn",None,line
 "Taiwan, Imports, Broad, EU, Total, TWD bn","Taiwan, Imports, Broad, EU, Total, TWD bn",None,line
+"Taiwan, Imports, Broad, EU, Transportation, TWD bn","Taiwan, Imports, Broad, EU, Transportation, TWD bn",None,line
+"Taiwan, Imports, Broad, EU, Vegetables, Wheat, TWD bn","Taiwan, Imports, Broad, EU, Vegetables, Wheat, TWD bn",None,line
 "Taiwan, Imports, Broad, Hong Kong, Animal and vegetable oils, TWD bn","Taiwan, Imports, Broad, Hong Kong, Animal and vegetable oils, TWD bn",None,line
-"Taiwan, Imports, Broad, Hong Kong, Chemicals, Organic, TWD bn","Taiwan, Imports, Broad, Hong Kong, Chemicals, Organic, TWD bn",None,line
-"Taiwan, Imports, Broad, Hong Kong, Footwear, TWD bn","Taiwan, Imports, Broad, Hong Kong, Footwear, TWD bn",None,line
-"Taiwan, Imports, Broad, Hong Kong, Machinery and electrical, Domestic appliances, TWD bn","Taiwan, Imports, Broad, Hong Kong, Machinery and electrical, Domestic appliances, TWD bn",None,line
 "Taiwan, Imports, Broad, Hong Kong, Mineral Products, TWD bn","Taiwan, Imports, Broad, Hong Kong, Mineral Products, TWD bn",None,line
 "Taiwan, Imports, Broad, Hong Kong, Mineral products, Petroleum, TWD bn","Taiwan, Imports, Broad, Hong Kong, Mineral products, Petroleum, TWD bn",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Maize, TWD bn","Taiwan, Imports, Broad, Hong Kong, Vegetables, Maize, TWD bn",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Soybeans, TWD bn","Taiwan, Imports, Broad, Hong Kong, Vegetables, Soybeans, TWD bn",None,line
-"Taiwan, Imports, Broad, Hong Kong, Vegetables, TWD bn","Taiwan, Imports, Broad, Hong Kong, Vegetables, TWD bn",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Wheat, TWD bn","Taiwan, Imports, Broad, Hong Kong, Vegetables, Wheat, TWD bn",None,line
 "Taiwan, Imports, Broad, Japan, Chemicals, TWD bn","Taiwan, Imports, Broad, Japan, Chemicals, TWD bn",None,line
 "Taiwan, Imports, Broad, Japan, Machinery and electrical, Machinery, TWD bn","Taiwan, Imports, Broad, Japan, Machinery and electrical, Machinery, TWD bn",None,line
@@ -1286,6 +1296,7 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, Japan, Mineral products, Petroleum, TWD bn","Taiwan, Imports, Broad, Japan, Mineral products, Petroleum, TWD bn",None,line
 "Taiwan, Imports, Broad, Japan, Total, TWD bn","Taiwan, Imports, Broad, Japan, Total, TWD bn",None,line
 "Taiwan, Imports, Broad, Japan, Vegetables, Maize, TWD bn","Taiwan, Imports, Broad, Japan, Vegetables, Maize, TWD bn",None,line
+"Taiwan, Imports, Broad, Japan, Vegetables, Soybeans, TWD bn","Taiwan, Imports, Broad, Japan, Vegetables, Soybeans, TWD bn",None,line
 "Taiwan, Imports, Broad, Japan, Vegetables, Wheat, TWD bn","Taiwan, Imports, Broad, Japan, Vegetables, Wheat, TWD bn",None,line
 "Taiwan, Imports, Broad, Korea, Machinery and electrical, Parts, TWD bn","Taiwan, Imports, Broad, Korea, Machinery and electrical, Parts, TWD bn",None,line
 "Taiwan, Imports, Broad, Korea, Machinery and electrical, TWD bn","Taiwan, Imports, Broad, Korea, Machinery and electrical, TWD bn",None,line
@@ -1299,9 +1310,8 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, US, Machinery and electrical, Parts, TWD bn","Taiwan, Imports, Broad, US, Machinery and electrical, Parts, TWD bn",None,line
 "Taiwan, Imports, Broad, US, Machinery and electrical, TWD bn","Taiwan, Imports, Broad, US, Machinery and electrical, TWD bn",None,line
 "Taiwan, Imports, Broad, US, Mineral Products, TWD bn","Taiwan, Imports, Broad, US, Mineral Products, TWD bn",None,line
-"Taiwan, Imports, Broad, US, Mineral products, Petroleum, TWD bn","Taiwan, Imports, Broad, US, Mineral products, Petroleum, TWD bn",None,line
-"Taiwan, Imports, Broad, US, Mineral products, TWD bn","Taiwan, Imports, Broad, US, Mineral products, TWD bn",None,line
 "Taiwan, Imports, Broad, US, Total, TWD bn","Taiwan, Imports, Broad, US, Total, TWD bn",None,line
+"Taiwan, Imports, Broad, World, Animals and Animal products, TWD bn","Taiwan, Imports, Broad, World, Animals and Animal products, TWD bn",None,line
 "Taiwan, Imports, Broad, World, Base metals, Copper, TWD bn","Taiwan, Imports, Broad, World, Base metals, Copper, TWD bn",None,line
 "Taiwan, Imports, Broad, World, Base metals, Iron and steel, TWD bn","Taiwan, Imports, Broad, World, Base metals, Iron and steel, TWD bn",None,line
 "Taiwan, Imports, Broad, World, Base metals, TWD bn","Taiwan, Imports, Broad, World, Base metals, TWD bn",None,line
@@ -1318,13 +1328,12 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, World, Optical and clocks, TWD bn","Taiwan, Imports, Broad, World, Optical and clocks, TWD bn",None,line
 "Taiwan, Imports, Broad, World, Others, TWD bn","Taiwan, Imports, Broad, World, Others, TWD bn",None,line
 "Taiwan, Imports, Broad, World, Plastics and rubber, TWD bn","Taiwan, Imports, Broad, World, Plastics and rubber, TWD bn",None,line
-"Taiwan, Imports, Broad, World, Precious stones, Gold, TWD bn","Taiwan, Imports, Broad, World, Precious stones, Gold, TWD bn",None,line
 "Taiwan, Imports, Broad, World, Precious stones, TWD bn","Taiwan, Imports, Broad, World, Precious stones, TWD bn",None,line
+"Taiwan, Imports, Broad, World, Prepared foodstuffs and beverages, TWD bn","Taiwan, Imports, Broad, World, Prepared foodstuffs and beverages, TWD bn",None,line
 "Taiwan, Imports, Broad, World, Total, TWD bn","Taiwan, Imports, Broad, World, Total, TWD bn",None,line
 "Taiwan, Imports, Broad, World, Transportation, TWD bn","Taiwan, Imports, Broad, World, Transportation, TWD bn",None,line
 "Taiwan, Imports, Broad, World, Vegetables, TWD bn","Taiwan, Imports, Broad, World, Vegetables, TWD bn",None,line
 "Taiwan, Imports, Detailed, ASEAN, Semiconductor equipment, TWD bn","Taiwan, Imports, Detailed, ASEAN, Semiconductor equipment, TWD bn",None,line
-"Taiwan, Imports, Detailed, ASEAN, Semiconductor manufacturing equipment, TWD bn","Taiwan, Imports, Detailed, ASEAN, Semiconductor manufacturing equipment, TWD bn",None,line
 "Taiwan, Imports, Detailed, ASEAN, Switches and Routers, TWD bn","Taiwan, Imports, Detailed, ASEAN, Switches and Routers, TWD bn",None,line
 "Taiwan, Imports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, TWD bn","Taiwan, Imports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, TWD bn",None,line
 "Taiwan, Imports, Detailed, China and Hong Kong, Memory, TWD bn","Taiwan, Imports, Detailed, China and Hong Kong, Memory, TWD bn",None,line
@@ -1332,16 +1341,15 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Detailed, China, Memory, TWD bn","Taiwan, Imports, Detailed, China, Memory, TWD bn",None,line
 "Taiwan, Imports, Detailed, EU, Semiconductor equipment, TWD bn","Taiwan, Imports, Detailed, EU, Semiconductor equipment, TWD bn",None,line
 "Taiwan, Imports, Detailed, EU, Semiconductor manufacturing equipment, TWD bn","Taiwan, Imports, Detailed, EU, Semiconductor manufacturing equipment, TWD bn",None,line
+"Taiwan, Imports, Detailed, Hong Kong, LED, TWD bn","Taiwan, Imports, Detailed, Hong Kong, LED, TWD bn",None,line
 "Taiwan, Imports, Detailed, Hong Kong, Laptop computers, TWD bn","Taiwan, Imports, Detailed, Hong Kong, Laptop computers, TWD bn",None,line
 "Taiwan, Imports, Detailed, Hong Kong, Mobile phones, TWD bn","Taiwan, Imports, Detailed, Hong Kong, Mobile phones, TWD bn",None,line
-"Taiwan, Imports, Detailed, Hong Kong, Motors and generators sets, TWD bn","Taiwan, Imports, Detailed, Hong Kong, Motors and generators sets, TWD bn",None,line
-"Taiwan, Imports, Detailed, Hong Kong, Semiconductor manufacturing equipment, TWD bn","Taiwan, Imports, Detailed, Hong Kong, Semiconductor manufacturing equipment, TWD bn",None,line
 "Taiwan, Imports, Detailed, Japan, Memory, TWD bn","Taiwan, Imports, Detailed, Japan, Memory, TWD bn",None,line
+"Taiwan, Imports, Detailed, Japan, Mobile phones, TWD bn","Taiwan, Imports, Detailed, Japan, Mobile phones, TWD bn",None,line
 "Taiwan, Imports, Detailed, Japan, Semiconductor equipment, TWD bn","Taiwan, Imports, Detailed, Japan, Semiconductor equipment, TWD bn",None,line
 "Taiwan, Imports, Detailed, Japan, Semiconductor manufacturing equipment, TWD bn","Taiwan, Imports, Detailed, Japan, Semiconductor manufacturing equipment, TWD bn",None,line
 "Taiwan, Imports, Detailed, Korea, Memory, TWD bn","Taiwan, Imports, Detailed, Korea, Memory, TWD bn",None,line
 "Taiwan, Imports, Detailed, US, Semiconductor equipment, TWD bn","Taiwan, Imports, Detailed, US, Semiconductor equipment, TWD bn",None,line
-"Taiwan, Imports, Detailed, US, Semiconductor manufacturing equipment, TWD bn","Taiwan, Imports, Detailed, US, Semiconductor manufacturing equipment, TWD bn",None,line
 "Taiwan, Imports, Detailed, World, Automatic data processing machines, TWD bn","Taiwan, Imports, Detailed, World, Automatic data processing machines, TWD bn",None,line
 "Taiwan, Imports, Detailed, World, Computer parts and accessories, TWD bn","Taiwan, Imports, Detailed, World, Computer parts and accessories, TWD bn",None,line
 "Taiwan, Imports, Detailed, World, Electronic components excluding integrated circuits, TWD bn","Taiwan, Imports, Detailed, World, Electronic components excluding integrated circuits, TWD bn",None,line
@@ -1349,6 +1357,7 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Detailed, World, Printed circuit, TWD bn","Taiwan, Imports, Detailed, World, Printed circuit, TWD bn",None,line
 "Taiwan, Imports, Detailed, World, Semiconductor equipment, TWD bn","Taiwan, Imports, Detailed, World, Semiconductor equipment, TWD bn",None,line
 "Taiwan, Imports, Detailed, World, Semiconductor manufacturing equipment, TWD bn","Taiwan, Imports, Detailed, World, Semiconductor manufacturing equipment, TWD bn",None,line
+"Taiwan, Imports, Detailed, World, Storage media, TWD bn","Taiwan, Imports, Detailed, World, Storage media, TWD bn",None,line
 "Taiwan, Imports, Detailed, World, Switches and Routers, TWD bn","Taiwan, Imports, Detailed, World, Switches and Routers, TWD bn",None,line
 "Taiwan, Imports, Broad, World, Food, TWD bn","Taiwan, Imports, Broad, World, Food, TWD bn",None,line
 "Taiwan, Imports, Broad, World, Chemicals and rubber, TWD bn","Taiwan, Imports, Broad, World, Chemicals and rubber, TWD bn",None,line
@@ -1369,8 +1378,10 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, US, Miscellaneous, TWD bn","Taiwan, Imports, Broad, US, Miscellaneous, TWD bn",None,line
 "Taiwan, Imports, Broad, US, Machinery and electrical excluding semi, TWD bn","Taiwan, Imports, Broad, US, Machinery and electrical excluding semi, TWD bn",None,line
 "Taiwan, Imports, Broad, EU, Chemicals and rubber, TWD bn","Taiwan, Imports, Broad, EU, Chemicals and rubber, TWD bn",None,line
+"Taiwan, Imports, Broad, EU, Miscellaneous, TWD bn","Taiwan, Imports, Broad, EU, Miscellaneous, TWD bn",None,line
 "Taiwan, Imports, Broad, EU, Machinery and electrical excluding semi, TWD bn","Taiwan, Imports, Broad, EU, Machinery and electrical excluding semi, TWD bn",None,line
 "Taiwan, Exports, Broad, World, Chemicals and rubber, TWD bn","Taiwan, Exports, Broad, World, Chemicals and rubber, TWD bn",None,line
+"Taiwan, Exports, Broad, World, Textiles and footwear, TWD bn","Taiwan, Exports, Broad, World, Textiles and footwear, TWD bn",None,line
 "Taiwan, Exports, Broad, World, Miscellaneous, TWD bn","Taiwan, Exports, Broad, World, Miscellaneous, TWD bn",None,line
 "Taiwan, Exports, Broad, World, Machinery and electrical excluding semi, TWD bn","Taiwan, Exports, Broad, World, Machinery and electrical excluding semi, TWD bn",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Chemicals and rubber, TWD bn","Taiwan, Exports, Broad, China and Hong Kong, Chemicals and rubber, TWD bn",None,line
@@ -1401,6 +1412,7 @@ name,display_name,data_type,chart_type
 "Taiwan, Trade balance, Broad, EU, Machinery and electrical, TWD bn","Taiwan, Trade balance, Broad, EU, Machinery and electrical, TWD bn",None,line
 "Taiwan, Trade balance, Broad, World, Machinery and electrical excluding semi, TWD bn","Taiwan, Trade balance, Broad, World, Machinery and electrical excluding semi, TWD bn",None,line
 "Taiwan, Trade balance, Broad, Hong Kong, Machinery and electrical excluding semi, TWD bn","Taiwan, Trade balance, Broad, Hong Kong, Machinery and electrical excluding semi, TWD bn",None,line
+"Taiwan, Trade balance, Broad, ASEAN, Machinery and electrical excluding semi, TWD bn","Taiwan, Trade balance, Broad, ASEAN, Machinery and electrical excluding semi, TWD bn",None,line
 "Taiwan, Trade balance, Broad, US, Machinery and electrical excluding semi, TWD bn","Taiwan, Trade balance, Broad, US, Machinery and electrical excluding semi, TWD bn",None,line
 "Taiwan, Trade balance, Broad, EU, Machinery and electrical excluding semi, TWD bn","Taiwan, Trade balance, Broad, EU, Machinery and electrical excluding semi, TWD bn",None,line
 "Taiwan, Exports, Detailed, ASEAN, Integrated circuit, TWD bn","Taiwan, Exports, Detailed, ASEAN, Integrated circuit, TWD bn",None,line
@@ -1443,25 +1455,27 @@ name,display_name,data_type,chart_type
 "Taiwan, Trade balance, China, SA, TWD bn","Taiwan, Trade balance, China, SA, TWD bn",None,line
 "Taiwan, Trade balance, EM, SA, TWD bn","Taiwan, Trade balance, EM, SA, TWD bn",None,line
 "Taiwan, Trade balance, EU, SA, TWD bn","Taiwan, Trade balance, EU, SA, TWD bn",None,line
+"Taiwan, Exports, Broad, China, Chemicals, % of destination country total","Taiwan, Exports, Broad, China, Chemicals, % of destination country total",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, IT products, % of destination country total","Taiwan, Exports, Broad, China, Machinery and electrical, IT products, % of destination country total",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, Parts, % of destination country total","Taiwan, Exports, Broad, China, Machinery and electrical, Parts, % of destination country total",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, % of destination country total","Taiwan, Exports, Broad, China, Machinery and electrical, % of destination country total",None,line
 "Taiwan, Exports, Broad, China, Mineral Products, % of destination country total","Taiwan, Exports, Broad, China, Mineral Products, % of destination country total",None,line
+"Taiwan, Exports, Broad, China, Prepared foodstuffs and beverages, Tobacco, % of destination country total","Taiwan, Exports, Broad, China, Prepared foodstuffs and beverages, Tobacco, % of destination country total",None,line
 "Taiwan, Exports, Broad, China, Total, % of destination country total","Taiwan, Exports, Broad, China, Total, % of destination country total",None,line
 "Taiwan, Exports, Broad, China, Vegetables, Edible, % of destination country total","Taiwan, Exports, Broad, China, Vegetables, Edible, % of destination country total",None,line
-"Taiwan, Exports, Broad, China, Vegetables, Fruit and nuts, % of destination country total","Taiwan, Exports, Broad, China, Vegetables, Fruit and nuts, % of destination country total",None,line
+"Taiwan, Exports, Detailed, China, Minibus, % of destination country total","Taiwan, Exports, Detailed, China, Minibus, % of destination country total",None,line
 "Taiwan, Exports, Broad, China, Chemicals and rubber, % of destination country total","Taiwan, Exports, Broad, China, Chemicals and rubber, % of destination country total",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical excluding semi, % of destination country total","Taiwan, Exports, Broad, China, Machinery and electrical excluding semi, % of destination country total",None,line
 "Taiwan, Exports, Detailed, China, Integrated circuit, % of destination country total","Taiwan, Exports, Detailed, China, Integrated circuit, % of destination country total",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Chemicals, % of destination country total","Taiwan, Exports, Broad, China and Hong Kong, Chemicals, % of destination country total",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, IT products, % of destination country total","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, IT products, % of destination country total",None,line
-"Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Machinery, % of destination country total","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Machinery, % of destination country total",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Parts, % of destination country total","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Parts, % of destination country total",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, % of destination country total","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, % of destination country total",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Mineral Products, % of destination country total","Taiwan, Exports, Broad, China and Hong Kong, Mineral Products, % of destination country total",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Total, % of destination country total","Taiwan, Exports, Broad, China and Hong Kong, Total, % of destination country total",None,line
 "Taiwan, Exports, Detailed, China and Hong Kong, DRAM, % of destination country total","Taiwan, Exports, Detailed, China and Hong Kong, DRAM, % of destination country total",None,line
 "Taiwan, Exports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, % of destination country total","Taiwan, Exports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, % of destination country total",None,line
+"Taiwan, Exports, Detailed, China and Hong Kong, Minibus, % of destination country total","Taiwan, Exports, Detailed, China and Hong Kong, Minibus, % of destination country total",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Chemicals and rubber, % of destination country total","Taiwan, Exports, Broad, China and Hong Kong, Chemicals and rubber, % of destination country total",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical excluding semi, % of destination country total","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical excluding semi, % of destination country total",None,line
 "Taiwan, Exports, Detailed, China and Hong Kong, Integrated circuit, % of destination country total","Taiwan, Exports, Detailed, China and Hong Kong, Integrated circuit, % of destination country total",None,line
@@ -1480,17 +1494,19 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, World, Mineral products, % of destination country total","Taiwan, Exports, Broad, World, Mineral products, % of destination country total",None,line
 "Taiwan, Exports, Broad, World, Optical and clocks, Optical and precision instruments, % of destination country total","Taiwan, Exports, Broad, World, Optical and clocks, Optical and precision instruments, % of destination country total",None,line
 "Taiwan, Exports, Broad, World, Optical and clocks, % of destination country total","Taiwan, Exports, Broad, World, Optical and clocks, % of destination country total",None,line
+"Taiwan, Exports, Broad, World, Others, % of destination country total","Taiwan, Exports, Broad, World, Others, % of destination country total",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, Plastic products, % of destination country total","Taiwan, Exports, Broad, World, Plastics and rubber, Plastic products, % of destination country total",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, Plastics, % of destination country total","Taiwan, Exports, Broad, World, Plastics and rubber, Plastics, % of destination country total",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, % of destination country total","Taiwan, Exports, Broad, World, Plastics and rubber, % of destination country total",None,line
+"Taiwan, Exports, Broad, World, Textiles, % of destination country total","Taiwan, Exports, Broad, World, Textiles, % of destination country total",None,line
 "Taiwan, Exports, Broad, World, Total, % of destination country total","Taiwan, Exports, Broad, World, Total, % of destination country total",None,line
 "Taiwan, Exports, Broad, World, Transportation, % of destination country total","Taiwan, Exports, Broad, World, Transportation, % of destination country total",None,line
 "Taiwan, Exports, Detailed, World, DRAM, % of destination country total","Taiwan, Exports, Detailed, World, DRAM, % of destination country total",None,line
 "Taiwan, Exports, Detailed, World, Electronic components excluding integrated circuits, % of destination country total","Taiwan, Exports, Detailed, World, Electronic components excluding integrated circuits, % of destination country total",None,line
-"Taiwan, Exports, Detailed, World, Parts for mobile phone and network communication products, % of destination country total","Taiwan, Exports, Detailed, World, Parts for mobile phone and network communication products, % of destination country total",None,line
 "Taiwan, Exports, Detailed, World, Storage media, % of destination country total","Taiwan, Exports, Detailed, World, Storage media, % of destination country total",None,line
 "Taiwan, Exports, Detailed, World, Switches and Routers, % of destination country total","Taiwan, Exports, Detailed, World, Switches and Routers, % of destination country total",None,line
 "Taiwan, Exports, Broad, World, Chemicals and rubber, % of destination country total","Taiwan, Exports, Broad, World, Chemicals and rubber, % of destination country total",None,line
+"Taiwan, Exports, Broad, World, Textiles and footwear, % of destination country total","Taiwan, Exports, Broad, World, Textiles and footwear, % of destination country total",None,line
 "Taiwan, Exports, Broad, World, Miscellaneous, % of destination country total","Taiwan, Exports, Broad, World, Miscellaneous, % of destination country total",None,line
 "Taiwan, Exports, Broad, World, Machinery and electrical excluding semi, % of destination country total","Taiwan, Exports, Broad, World, Machinery and electrical excluding semi, % of destination country total",None,line
 "Taiwan, Exports, Detailed, World, Integrated circuit, % of destination country total","Taiwan, Exports, Detailed, World, Integrated circuit, % of destination country total",None,line
@@ -1932,21 +1948,23 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, ASEAN, Machinery and electrical, Parts, % of GDP","Taiwan, Exports, Broad, ASEAN, Machinery and electrical, Parts, % of GDP",None,line
 "Taiwan, Exports, Broad, ASEAN, Machinery and electrical, % of GDP","Taiwan, Exports, Broad, ASEAN, Machinery and electrical, % of GDP",None,line
 "Taiwan, Exports, Broad, ASEAN, Mineral Products, % of GDP","Taiwan, Exports, Broad, ASEAN, Mineral Products, % of GDP",None,line
+"Taiwan, Exports, Broad, ASEAN, Mineral products, Refined petroleum products, % of GDP","Taiwan, Exports, Broad, ASEAN, Mineral products, Refined petroleum products, % of GDP",None,line
+"Taiwan, Exports, Broad, ASEAN, Mineral products, % of GDP","Taiwan, Exports, Broad, ASEAN, Mineral products, % of GDP",None,line
 "Taiwan, Exports, Broad, ASEAN, Total, % of GDP","Taiwan, Exports, Broad, ASEAN, Total, % of GDP",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Chemicals, % of GDP","Taiwan, Exports, Broad, China and Hong Kong, Chemicals, % of GDP",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, IT products, % of GDP","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, IT products, % of GDP",None,line
-"Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Machinery, % of GDP","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Machinery, % of GDP",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Parts, % of GDP","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Parts, % of GDP",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, % of GDP","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, % of GDP",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Mineral Products, % of GDP","Taiwan, Exports, Broad, China and Hong Kong, Mineral Products, % of GDP",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Total, % of GDP","Taiwan, Exports, Broad, China and Hong Kong, Total, % of GDP",None,line
+"Taiwan, Exports, Broad, China, Chemicals, % of GDP","Taiwan, Exports, Broad, China, Chemicals, % of GDP",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, IT products, % of GDP","Taiwan, Exports, Broad, China, Machinery and electrical, IT products, % of GDP",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, Parts, % of GDP","Taiwan, Exports, Broad, China, Machinery and electrical, Parts, % of GDP",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, % of GDP","Taiwan, Exports, Broad, China, Machinery and electrical, % of GDP",None,line
 "Taiwan, Exports, Broad, China, Mineral Products, % of GDP","Taiwan, Exports, Broad, China, Mineral Products, % of GDP",None,line
+"Taiwan, Exports, Broad, China, Prepared foodstuffs and beverages, Tobacco, % of GDP","Taiwan, Exports, Broad, China, Prepared foodstuffs and beverages, Tobacco, % of GDP",None,line
 "Taiwan, Exports, Broad, China, Total, % of GDP","Taiwan, Exports, Broad, China, Total, % of GDP",None,line
 "Taiwan, Exports, Broad, China, Vegetables, Edible, % of GDP","Taiwan, Exports, Broad, China, Vegetables, Edible, % of GDP",None,line
-"Taiwan, Exports, Broad, China, Vegetables, Fruit and nuts, % of GDP","Taiwan, Exports, Broad, China, Vegetables, Fruit and nuts, % of GDP",None,line
 "Taiwan, Exports, Broad, EU, Machinery and electrical, IT products, % of GDP","Taiwan, Exports, Broad, EU, Machinery and electrical, IT products, % of GDP",None,line
 "Taiwan, Exports, Broad, EU, Machinery and electrical, % of GDP","Taiwan, Exports, Broad, EU, Machinery and electrical, % of GDP",None,line
 "Taiwan, Exports, Broad, EU, Mineral Products, % of GDP","Taiwan, Exports, Broad, EU, Mineral Products, % of GDP",None,line
@@ -1959,13 +1977,14 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, Japan, Machinery and electrical, Parts, % of GDP","Taiwan, Exports, Broad, Japan, Machinery and electrical, Parts, % of GDP",None,line
 "Taiwan, Exports, Broad, Japan, Machinery and electrical, % of GDP","Taiwan, Exports, Broad, Japan, Machinery and electrical, % of GDP",None,line
 "Taiwan, Exports, Broad, Japan, Mineral Products, % of GDP","Taiwan, Exports, Broad, Japan, Mineral Products, % of GDP",None,line
+"Taiwan, Exports, Broad, Japan, Prepared foodstuffs and beverages, Tobacco, % of GDP","Taiwan, Exports, Broad, Japan, Prepared foodstuffs and beverages, Tobacco, % of GDP",None,line
 "Taiwan, Exports, Broad, Japan, Total, % of GDP","Taiwan, Exports, Broad, Japan, Total, % of GDP",None,line
 "Taiwan, Exports, Broad, Korea, Machinery and electrical, Parts, % of GDP","Taiwan, Exports, Broad, Korea, Machinery and electrical, Parts, % of GDP",None,line
 "Taiwan, Exports, Broad, Korea, Machinery and electrical, % of GDP","Taiwan, Exports, Broad, Korea, Machinery and electrical, % of GDP",None,line
 "Taiwan, Exports, Broad, Korea, Mineral Products, % of GDP","Taiwan, Exports, Broad, Korea, Mineral Products, % of GDP",None,line
 "Taiwan, Exports, Broad, Korea, Total, % of GDP","Taiwan, Exports, Broad, Korea, Total, % of GDP",None,line
-"Taiwan, Exports, Broad, Korea, Vegetables, Edible, % of GDP","Taiwan, Exports, Broad, Korea, Vegetables, Edible, % of GDP",None,line
 "Taiwan, Exports, Broad, Korea, Vegetables, Fruit and nuts, % of GDP","Taiwan, Exports, Broad, Korea, Vegetables, Fruit and nuts, % of GDP",None,line
+"Taiwan, Exports, Broad, US, Base metals, % of GDP","Taiwan, Exports, Broad, US, Base metals, % of GDP",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, Electrical machinery, % of GDP","Taiwan, Exports, Broad, US, Machinery and electrical, Electrical machinery, % of GDP",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, IT products, % of GDP","Taiwan, Exports, Broad, US, Machinery and electrical, IT products, % of GDP",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, Machinery, % of GDP","Taiwan, Exports, Broad, US, Machinery and electrical, Machinery, % of GDP",None,line
@@ -1988,20 +2007,25 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, World, Mineral products, % of GDP","Taiwan, Exports, Broad, World, Mineral products, % of GDP",None,line
 "Taiwan, Exports, Broad, World, Optical and clocks, Optical and precision instruments, % of GDP","Taiwan, Exports, Broad, World, Optical and clocks, Optical and precision instruments, % of GDP",None,line
 "Taiwan, Exports, Broad, World, Optical and clocks, % of GDP","Taiwan, Exports, Broad, World, Optical and clocks, % of GDP",None,line
+"Taiwan, Exports, Broad, World, Others, % of GDP","Taiwan, Exports, Broad, World, Others, % of GDP",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, Plastic products, % of GDP","Taiwan, Exports, Broad, World, Plastics and rubber, Plastic products, % of GDP",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, Plastics, % of GDP","Taiwan, Exports, Broad, World, Plastics and rubber, Plastics, % of GDP",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, % of GDP","Taiwan, Exports, Broad, World, Plastics and rubber, % of GDP",None,line
+"Taiwan, Exports, Broad, World, Textiles, % of GDP","Taiwan, Exports, Broad, World, Textiles, % of GDP",None,line
 "Taiwan, Exports, Broad, World, Total, % of GDP","Taiwan, Exports, Broad, World, Total, % of GDP",None,line
 "Taiwan, Exports, Broad, World, Transportation, % of GDP","Taiwan, Exports, Broad, World, Transportation, % of GDP",None,line
-"Taiwan, Exports, Detailed, ASEAN, DRAM, % of GDP","Taiwan, Exports, Detailed, ASEAN, DRAM, % of GDP",None,line
+"Taiwan, Exports, Detailed, ASEAN, Photovoltaic cells, % of GDP","Taiwan, Exports, Detailed, ASEAN, Photovoltaic cells, % of GDP",None,line
 "Taiwan, Exports, Detailed, China and Hong Kong, DRAM, % of GDP","Taiwan, Exports, Detailed, China and Hong Kong, DRAM, % of GDP",None,line
 "Taiwan, Exports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, % of GDP","Taiwan, Exports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, % of GDP",None,line
+"Taiwan, Exports, Detailed, China and Hong Kong, Minibus, % of GDP","Taiwan, Exports, Detailed, China and Hong Kong, Minibus, % of GDP",None,line
+"Taiwan, Exports, Detailed, China, Minibus, % of GDP","Taiwan, Exports, Detailed, China, Minibus, % of GDP",None,line
 "Taiwan, Exports, Detailed, Hong Kong, DRAM, % of GDP","Taiwan, Exports, Detailed, Hong Kong, DRAM, % of GDP",None,line
 "Taiwan, Exports, Detailed, Hong Kong, Minibus, % of GDP","Taiwan, Exports, Detailed, Hong Kong, Minibus, % of GDP",None,line
+"Taiwan, Exports, Detailed, Korea, Mobile phones, % of GDP","Taiwan, Exports, Detailed, Korea, Mobile phones, % of GDP",None,line
 "Taiwan, Exports, Detailed, Korea, Photovoltaic cells, % of GDP","Taiwan, Exports, Detailed, Korea, Photovoltaic cells, % of GDP",None,line
+"Taiwan, Exports, Detailed, US, Switches and Routers, % of GDP","Taiwan, Exports, Detailed, US, Switches and Routers, % of GDP",None,line
 "Taiwan, Exports, Detailed, World, DRAM, % of GDP","Taiwan, Exports, Detailed, World, DRAM, % of GDP",None,line
 "Taiwan, Exports, Detailed, World, Electronic components excluding integrated circuits, % of GDP","Taiwan, Exports, Detailed, World, Electronic components excluding integrated circuits, % of GDP",None,line
-"Taiwan, Exports, Detailed, World, Parts for mobile phone and network communication products, % of GDP","Taiwan, Exports, Detailed, World, Parts for mobile phone and network communication products, % of GDP",None,line
 "Taiwan, Exports, Detailed, World, Storage media, % of GDP","Taiwan, Exports, Detailed, World, Storage media, % of GDP",None,line
 "Taiwan, Exports, Detailed, World, Switches and Routers, % of GDP","Taiwan, Exports, Detailed, World, Switches and Routers, % of GDP",None,line
 "Taiwan, Imports, Broad, ASEAN, Machinery and electrical, IT products, % of GDP","Taiwan, Imports, Broad, ASEAN, Machinery and electrical, IT products, % of GDP",None,line
@@ -2010,8 +2034,6 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, ASEAN, Machinery and electrical, % of GDP","Taiwan, Imports, Broad, ASEAN, Machinery and electrical, % of GDP",None,line
 "Taiwan, Imports, Broad, ASEAN, Mineral Products, % of GDP","Taiwan, Imports, Broad, ASEAN, Mineral Products, % of GDP",None,line
 "Taiwan, Imports, Broad, ASEAN, Mineral products, Petroleum, % of GDP","Taiwan, Imports, Broad, ASEAN, Mineral products, Petroleum, % of GDP",None,line
-"Taiwan, Imports, Broad, ASEAN, Optical and clocks, Precision instruments, % of GDP","Taiwan, Imports, Broad, ASEAN, Optical and clocks, Precision instruments, % of GDP",None,line
-"Taiwan, Imports, Broad, ASEAN, Optical and clocks, % of GDP","Taiwan, Imports, Broad, ASEAN, Optical and clocks, % of GDP",None,line
 "Taiwan, Imports, Broad, ASEAN, Total, % of GDP","Taiwan, Imports, Broad, ASEAN, Total, % of GDP",None,line
 "Taiwan, Imports, Broad, ASEAN, Vegetables, Soybeans, % of GDP","Taiwan, Imports, Broad, ASEAN, Vegetables, Soybeans, % of GDP",None,line
 "Taiwan, Imports, Broad, ASEAN, Vegetables, Wheat, % of GDP","Taiwan, Imports, Broad, ASEAN, Vegetables, Wheat, % of GDP",None,line
@@ -2043,15 +2065,13 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, EU, Mineral Products, % of GDP","Taiwan, Imports, Broad, EU, Mineral Products, % of GDP",None,line
 "Taiwan, Imports, Broad, EU, Mineral products, Petroleum, % of GDP","Taiwan, Imports, Broad, EU, Mineral products, Petroleum, % of GDP",None,line
 "Taiwan, Imports, Broad, EU, Total, % of GDP","Taiwan, Imports, Broad, EU, Total, % of GDP",None,line
+"Taiwan, Imports, Broad, EU, Transportation, % of GDP","Taiwan, Imports, Broad, EU, Transportation, % of GDP",None,line
+"Taiwan, Imports, Broad, EU, Vegetables, Wheat, % of GDP","Taiwan, Imports, Broad, EU, Vegetables, Wheat, % of GDP",None,line
 "Taiwan, Imports, Broad, Hong Kong, Animal and vegetable oils, % of GDP","Taiwan, Imports, Broad, Hong Kong, Animal and vegetable oils, % of GDP",None,line
-"Taiwan, Imports, Broad, Hong Kong, Chemicals, Organic, % of GDP","Taiwan, Imports, Broad, Hong Kong, Chemicals, Organic, % of GDP",None,line
-"Taiwan, Imports, Broad, Hong Kong, Footwear, % of GDP","Taiwan, Imports, Broad, Hong Kong, Footwear, % of GDP",None,line
-"Taiwan, Imports, Broad, Hong Kong, Machinery and electrical, Domestic appliances, % of GDP","Taiwan, Imports, Broad, Hong Kong, Machinery and electrical, Domestic appliances, % of GDP",None,line
 "Taiwan, Imports, Broad, Hong Kong, Mineral Products, % of GDP","Taiwan, Imports, Broad, Hong Kong, Mineral Products, % of GDP",None,line
 "Taiwan, Imports, Broad, Hong Kong, Mineral products, Petroleum, % of GDP","Taiwan, Imports, Broad, Hong Kong, Mineral products, Petroleum, % of GDP",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Maize, % of GDP","Taiwan, Imports, Broad, Hong Kong, Vegetables, Maize, % of GDP",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Soybeans, % of GDP","Taiwan, Imports, Broad, Hong Kong, Vegetables, Soybeans, % of GDP",None,line
-"Taiwan, Imports, Broad, Hong Kong, Vegetables, % of GDP","Taiwan, Imports, Broad, Hong Kong, Vegetables, % of GDP",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Wheat, % of GDP","Taiwan, Imports, Broad, Hong Kong, Vegetables, Wheat, % of GDP",None,line
 "Taiwan, Imports, Broad, Japan, Chemicals, % of GDP","Taiwan, Imports, Broad, Japan, Chemicals, % of GDP",None,line
 "Taiwan, Imports, Broad, Japan, Machinery and electrical, Machinery, % of GDP","Taiwan, Imports, Broad, Japan, Machinery and electrical, Machinery, % of GDP",None,line
@@ -2061,6 +2081,7 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, Japan, Mineral products, Petroleum, % of GDP","Taiwan, Imports, Broad, Japan, Mineral products, Petroleum, % of GDP",None,line
 "Taiwan, Imports, Broad, Japan, Total, % of GDP","Taiwan, Imports, Broad, Japan, Total, % of GDP",None,line
 "Taiwan, Imports, Broad, Japan, Vegetables, Maize, % of GDP","Taiwan, Imports, Broad, Japan, Vegetables, Maize, % of GDP",None,line
+"Taiwan, Imports, Broad, Japan, Vegetables, Soybeans, % of GDP","Taiwan, Imports, Broad, Japan, Vegetables, Soybeans, % of GDP",None,line
 "Taiwan, Imports, Broad, Japan, Vegetables, Wheat, % of GDP","Taiwan, Imports, Broad, Japan, Vegetables, Wheat, % of GDP",None,line
 "Taiwan, Imports, Broad, Korea, Machinery and electrical, Parts, % of GDP","Taiwan, Imports, Broad, Korea, Machinery and electrical, Parts, % of GDP",None,line
 "Taiwan, Imports, Broad, Korea, Machinery and electrical, % of GDP","Taiwan, Imports, Broad, Korea, Machinery and electrical, % of GDP",None,line
@@ -2074,9 +2095,8 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, US, Machinery and electrical, Parts, % of GDP","Taiwan, Imports, Broad, US, Machinery and electrical, Parts, % of GDP",None,line
 "Taiwan, Imports, Broad, US, Machinery and electrical, % of GDP","Taiwan, Imports, Broad, US, Machinery and electrical, % of GDP",None,line
 "Taiwan, Imports, Broad, US, Mineral Products, % of GDP","Taiwan, Imports, Broad, US, Mineral Products, % of GDP",None,line
-"Taiwan, Imports, Broad, US, Mineral products, Petroleum, % of GDP","Taiwan, Imports, Broad, US, Mineral products, Petroleum, % of GDP",None,line
-"Taiwan, Imports, Broad, US, Mineral products, % of GDP","Taiwan, Imports, Broad, US, Mineral products, % of GDP",None,line
 "Taiwan, Imports, Broad, US, Total, % of GDP","Taiwan, Imports, Broad, US, Total, % of GDP",None,line
+"Taiwan, Imports, Broad, World, Animals and Animal products, % of GDP","Taiwan, Imports, Broad, World, Animals and Animal products, % of GDP",None,line
 "Taiwan, Imports, Broad, World, Base metals, Copper, % of GDP","Taiwan, Imports, Broad, World, Base metals, Copper, % of GDP",None,line
 "Taiwan, Imports, Broad, World, Base metals, Iron and steel, % of GDP","Taiwan, Imports, Broad, World, Base metals, Iron and steel, % of GDP",None,line
 "Taiwan, Imports, Broad, World, Base metals, % of GDP","Taiwan, Imports, Broad, World, Base metals, % of GDP",None,line
@@ -2093,13 +2113,12 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, World, Optical and clocks, % of GDP","Taiwan, Imports, Broad, World, Optical and clocks, % of GDP",None,line
 "Taiwan, Imports, Broad, World, Others, % of GDP","Taiwan, Imports, Broad, World, Others, % of GDP",None,line
 "Taiwan, Imports, Broad, World, Plastics and rubber, % of GDP","Taiwan, Imports, Broad, World, Plastics and rubber, % of GDP",None,line
-"Taiwan, Imports, Broad, World, Precious stones, Gold, % of GDP","Taiwan, Imports, Broad, World, Precious stones, Gold, % of GDP",None,line
 "Taiwan, Imports, Broad, World, Precious stones, % of GDP","Taiwan, Imports, Broad, World, Precious stones, % of GDP",None,line
+"Taiwan, Imports, Broad, World, Prepared foodstuffs and beverages, % of GDP","Taiwan, Imports, Broad, World, Prepared foodstuffs and beverages, % of GDP",None,line
 "Taiwan, Imports, Broad, World, Total, % of GDP","Taiwan, Imports, Broad, World, Total, % of GDP",None,line
 "Taiwan, Imports, Broad, World, Transportation, % of GDP","Taiwan, Imports, Broad, World, Transportation, % of GDP",None,line
 "Taiwan, Imports, Broad, World, Vegetables, % of GDP","Taiwan, Imports, Broad, World, Vegetables, % of GDP",None,line
 "Taiwan, Imports, Detailed, ASEAN, Semiconductor equipment, % of GDP","Taiwan, Imports, Detailed, ASEAN, Semiconductor equipment, % of GDP",None,line
-"Taiwan, Imports, Detailed, ASEAN, Semiconductor manufacturing equipment, % of GDP","Taiwan, Imports, Detailed, ASEAN, Semiconductor manufacturing equipment, % of GDP",None,line
 "Taiwan, Imports, Detailed, ASEAN, Switches and Routers, % of GDP","Taiwan, Imports, Detailed, ASEAN, Switches and Routers, % of GDP",None,line
 "Taiwan, Imports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, % of GDP","Taiwan, Imports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, % of GDP",None,line
 "Taiwan, Imports, Detailed, China and Hong Kong, Memory, % of GDP","Taiwan, Imports, Detailed, China and Hong Kong, Memory, % of GDP",None,line
@@ -2107,16 +2126,15 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Detailed, China, Memory, % of GDP","Taiwan, Imports, Detailed, China, Memory, % of GDP",None,line
 "Taiwan, Imports, Detailed, EU, Semiconductor equipment, % of GDP","Taiwan, Imports, Detailed, EU, Semiconductor equipment, % of GDP",None,line
 "Taiwan, Imports, Detailed, EU, Semiconductor manufacturing equipment, % of GDP","Taiwan, Imports, Detailed, EU, Semiconductor manufacturing equipment, % of GDP",None,line
+"Taiwan, Imports, Detailed, Hong Kong, LED, % of GDP","Taiwan, Imports, Detailed, Hong Kong, LED, % of GDP",None,line
 "Taiwan, Imports, Detailed, Hong Kong, Laptop computers, % of GDP","Taiwan, Imports, Detailed, Hong Kong, Laptop computers, % of GDP",None,line
 "Taiwan, Imports, Detailed, Hong Kong, Mobile phones, % of GDP","Taiwan, Imports, Detailed, Hong Kong, Mobile phones, % of GDP",None,line
-"Taiwan, Imports, Detailed, Hong Kong, Motors and generators sets, % of GDP","Taiwan, Imports, Detailed, Hong Kong, Motors and generators sets, % of GDP",None,line
-"Taiwan, Imports, Detailed, Hong Kong, Semiconductor manufacturing equipment, % of GDP","Taiwan, Imports, Detailed, Hong Kong, Semiconductor manufacturing equipment, % of GDP",None,line
 "Taiwan, Imports, Detailed, Japan, Memory, % of GDP","Taiwan, Imports, Detailed, Japan, Memory, % of GDP",None,line
+"Taiwan, Imports, Detailed, Japan, Mobile phones, % of GDP","Taiwan, Imports, Detailed, Japan, Mobile phones, % of GDP",None,line
 "Taiwan, Imports, Detailed, Japan, Semiconductor equipment, % of GDP","Taiwan, Imports, Detailed, Japan, Semiconductor equipment, % of GDP",None,line
 "Taiwan, Imports, Detailed, Japan, Semiconductor manufacturing equipment, % of GDP","Taiwan, Imports, Detailed, Japan, Semiconductor manufacturing equipment, % of GDP",None,line
 "Taiwan, Imports, Detailed, Korea, Memory, % of GDP","Taiwan, Imports, Detailed, Korea, Memory, % of GDP",None,line
 "Taiwan, Imports, Detailed, US, Semiconductor equipment, % of GDP","Taiwan, Imports, Detailed, US, Semiconductor equipment, % of GDP",None,line
-"Taiwan, Imports, Detailed, US, Semiconductor manufacturing equipment, % of GDP","Taiwan, Imports, Detailed, US, Semiconductor manufacturing equipment, % of GDP",None,line
 "Taiwan, Imports, Detailed, World, Automatic data processing machines, % of GDP","Taiwan, Imports, Detailed, World, Automatic data processing machines, % of GDP",None,line
 "Taiwan, Imports, Detailed, World, Computer parts and accessories, % of GDP","Taiwan, Imports, Detailed, World, Computer parts and accessories, % of GDP",None,line
 "Taiwan, Imports, Detailed, World, Electronic components excluding integrated circuits, % of GDP","Taiwan, Imports, Detailed, World, Electronic components excluding integrated circuits, % of GDP",None,line
@@ -2124,6 +2142,7 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Detailed, World, Printed circuit, % of GDP","Taiwan, Imports, Detailed, World, Printed circuit, % of GDP",None,line
 "Taiwan, Imports, Detailed, World, Semiconductor equipment, % of GDP","Taiwan, Imports, Detailed, World, Semiconductor equipment, % of GDP",None,line
 "Taiwan, Imports, Detailed, World, Semiconductor manufacturing equipment, % of GDP","Taiwan, Imports, Detailed, World, Semiconductor manufacturing equipment, % of GDP",None,line
+"Taiwan, Imports, Detailed, World, Storage media, % of GDP","Taiwan, Imports, Detailed, World, Storage media, % of GDP",None,line
 "Taiwan, Imports, Detailed, World, Switches and Routers, % of GDP","Taiwan, Imports, Detailed, World, Switches and Routers, % of GDP",None,line
 "Taiwan, Imports, Broad, World, Food, % of GDP","Taiwan, Imports, Broad, World, Food, % of GDP",None,line
 "Taiwan, Imports, Broad, World, Chemicals and rubber, % of GDP","Taiwan, Imports, Broad, World, Chemicals and rubber, % of GDP",None,line
@@ -2144,8 +2163,10 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, US, Miscellaneous, % of GDP","Taiwan, Imports, Broad, US, Miscellaneous, % of GDP",None,line
 "Taiwan, Imports, Broad, US, Machinery and electrical excluding semi, % of GDP","Taiwan, Imports, Broad, US, Machinery and electrical excluding semi, % of GDP",None,line
 "Taiwan, Imports, Broad, EU, Chemicals and rubber, % of GDP","Taiwan, Imports, Broad, EU, Chemicals and rubber, % of GDP",None,line
+"Taiwan, Imports, Broad, EU, Miscellaneous, % of GDP","Taiwan, Imports, Broad, EU, Miscellaneous, % of GDP",None,line
 "Taiwan, Imports, Broad, EU, Machinery and electrical excluding semi, % of GDP","Taiwan, Imports, Broad, EU, Machinery and electrical excluding semi, % of GDP",None,line
 "Taiwan, Exports, Broad, World, Chemicals and rubber, % of GDP","Taiwan, Exports, Broad, World, Chemicals and rubber, % of GDP",None,line
+"Taiwan, Exports, Broad, World, Textiles and footwear, % of GDP","Taiwan, Exports, Broad, World, Textiles and footwear, % of GDP",None,line
 "Taiwan, Exports, Broad, World, Miscellaneous, % of GDP","Taiwan, Exports, Broad, World, Miscellaneous, % of GDP",None,line
 "Taiwan, Exports, Broad, World, Machinery and electrical excluding semi, % of GDP","Taiwan, Exports, Broad, World, Machinery and electrical excluding semi, % of GDP",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Chemicals and rubber, % of GDP","Taiwan, Exports, Broad, China and Hong Kong, Chemicals and rubber, % of GDP",None,line
@@ -2176,6 +2197,7 @@ name,display_name,data_type,chart_type
 "Taiwan, Trade balance, Broad, EU, Machinery and electrical, % of GDP","Taiwan, Trade balance, Broad, EU, Machinery and electrical, % of GDP",None,line
 "Taiwan, Trade balance, Broad, World, Machinery and electrical excluding semi, % of GDP","Taiwan, Trade balance, Broad, World, Machinery and electrical excluding semi, % of GDP",None,line
 "Taiwan, Trade balance, Broad, Hong Kong, Machinery and electrical excluding semi, % of GDP","Taiwan, Trade balance, Broad, Hong Kong, Machinery and electrical excluding semi, % of GDP",None,line
+"Taiwan, Trade balance, Broad, ASEAN, Machinery and electrical excluding semi, % of GDP","Taiwan, Trade balance, Broad, ASEAN, Machinery and electrical excluding semi, % of GDP",None,line
 "Taiwan, Trade balance, Broad, US, Machinery and electrical excluding semi, % of GDP","Taiwan, Trade balance, Broad, US, Machinery and electrical excluding semi, % of GDP",None,line
 "Taiwan, Trade balance, Broad, EU, Machinery and electrical excluding semi, % of GDP","Taiwan, Trade balance, Broad, EU, Machinery and electrical excluding semi, % of GDP",None,line
 "Taiwan, Exports, Detailed, ASEAN, Integrated circuit, % of GDP","Taiwan, Exports, Detailed, ASEAN, Integrated circuit, % of GDP",None,line
@@ -2651,21 +2673,23 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, ASEAN, Machinery and electrical, Parts, USD bn, % YoY","Taiwan, Exports, Broad, ASEAN, Machinery and electrical, Parts, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, ASEAN, Machinery and electrical, USD bn, % YoY","Taiwan, Exports, Broad, ASEAN, Machinery and electrical, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, ASEAN, Mineral Products, USD bn, % YoY","Taiwan, Exports, Broad, ASEAN, Mineral Products, USD bn, % YoY",None,line
+"Taiwan, Exports, Broad, ASEAN, Mineral products, Refined petroleum products, USD bn, % YoY","Taiwan, Exports, Broad, ASEAN, Mineral products, Refined petroleum products, USD bn, % YoY",None,line
+"Taiwan, Exports, Broad, ASEAN, Mineral products, USD bn, % YoY","Taiwan, Exports, Broad, ASEAN, Mineral products, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, ASEAN, Total, USD bn, % YoY","Taiwan, Exports, Broad, ASEAN, Total, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Chemicals, USD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Chemicals, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, IT products, USD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, IT products, USD bn, % YoY",None,line
-"Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Machinery, USD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Machinery, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Parts, USD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Parts, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, USD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Mineral Products, USD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Mineral Products, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Total, USD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Total, USD bn, % YoY",None,line
+"Taiwan, Exports, Broad, China, Chemicals, USD bn, % YoY","Taiwan, Exports, Broad, China, Chemicals, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, IT products, USD bn, % YoY","Taiwan, Exports, Broad, China, Machinery and electrical, IT products, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, Parts, USD bn, % YoY","Taiwan, Exports, Broad, China, Machinery and electrical, Parts, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, USD bn, % YoY","Taiwan, Exports, Broad, China, Machinery and electrical, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China, Mineral Products, USD bn, % YoY","Taiwan, Exports, Broad, China, Mineral Products, USD bn, % YoY",None,line
+"Taiwan, Exports, Broad, China, Prepared foodstuffs and beverages, Tobacco, USD bn, % YoY","Taiwan, Exports, Broad, China, Prepared foodstuffs and beverages, Tobacco, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China, Total, USD bn, % YoY","Taiwan, Exports, Broad, China, Total, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China, Vegetables, Edible, USD bn, % YoY","Taiwan, Exports, Broad, China, Vegetables, Edible, USD bn, % YoY",None,line
-"Taiwan, Exports, Broad, China, Vegetables, Fruit and nuts, USD bn, % YoY","Taiwan, Exports, Broad, China, Vegetables, Fruit and nuts, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, EU, Machinery and electrical, IT products, USD bn, % YoY","Taiwan, Exports, Broad, EU, Machinery and electrical, IT products, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, EU, Machinery and electrical, USD bn, % YoY","Taiwan, Exports, Broad, EU, Machinery and electrical, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, EU, Mineral Products, USD bn, % YoY","Taiwan, Exports, Broad, EU, Mineral Products, USD bn, % YoY",None,line
@@ -2678,13 +2702,14 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, Japan, Machinery and electrical, Parts, USD bn, % YoY","Taiwan, Exports, Broad, Japan, Machinery and electrical, Parts, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Japan, Machinery and electrical, USD bn, % YoY","Taiwan, Exports, Broad, Japan, Machinery and electrical, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Japan, Mineral Products, USD bn, % YoY","Taiwan, Exports, Broad, Japan, Mineral Products, USD bn, % YoY",None,line
+"Taiwan, Exports, Broad, Japan, Prepared foodstuffs and beverages, Tobacco, USD bn, % YoY","Taiwan, Exports, Broad, Japan, Prepared foodstuffs and beverages, Tobacco, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Japan, Total, USD bn, % YoY","Taiwan, Exports, Broad, Japan, Total, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Korea, Machinery and electrical, Parts, USD bn, % YoY","Taiwan, Exports, Broad, Korea, Machinery and electrical, Parts, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Korea, Machinery and electrical, USD bn, % YoY","Taiwan, Exports, Broad, Korea, Machinery and electrical, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Korea, Mineral Products, USD bn, % YoY","Taiwan, Exports, Broad, Korea, Mineral Products, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Korea, Total, USD bn, % YoY","Taiwan, Exports, Broad, Korea, Total, USD bn, % YoY",None,line
-"Taiwan, Exports, Broad, Korea, Vegetables, Edible, USD bn, % YoY","Taiwan, Exports, Broad, Korea, Vegetables, Edible, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Korea, Vegetables, Fruit and nuts, USD bn, % YoY","Taiwan, Exports, Broad, Korea, Vegetables, Fruit and nuts, USD bn, % YoY",None,line
+"Taiwan, Exports, Broad, US, Base metals, USD bn, % YoY","Taiwan, Exports, Broad, US, Base metals, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, Electrical machinery, USD bn, % YoY","Taiwan, Exports, Broad, US, Machinery and electrical, Electrical machinery, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, IT products, USD bn, % YoY","Taiwan, Exports, Broad, US, Machinery and electrical, IT products, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, Machinery, USD bn, % YoY","Taiwan, Exports, Broad, US, Machinery and electrical, Machinery, USD bn, % YoY",None,line
@@ -2707,20 +2732,25 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, World, Mineral products, USD bn, % YoY","Taiwan, Exports, Broad, World, Mineral products, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Optical and clocks, Optical and precision instruments, USD bn, % YoY","Taiwan, Exports, Broad, World, Optical and clocks, Optical and precision instruments, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Optical and clocks, USD bn, % YoY","Taiwan, Exports, Broad, World, Optical and clocks, USD bn, % YoY",None,line
+"Taiwan, Exports, Broad, World, Others, USD bn, % YoY","Taiwan, Exports, Broad, World, Others, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, Plastic products, USD bn, % YoY","Taiwan, Exports, Broad, World, Plastics and rubber, Plastic products, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, Plastics, USD bn, % YoY","Taiwan, Exports, Broad, World, Plastics and rubber, Plastics, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, USD bn, % YoY","Taiwan, Exports, Broad, World, Plastics and rubber, USD bn, % YoY",None,line
+"Taiwan, Exports, Broad, World, Textiles, USD bn, % YoY","Taiwan, Exports, Broad, World, Textiles, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Total, USD bn, % YoY","Taiwan, Exports, Broad, World, Total, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Transportation, USD bn, % YoY","Taiwan, Exports, Broad, World, Transportation, USD bn, % YoY",None,line
-"Taiwan, Exports, Detailed, ASEAN, DRAM, USD bn, % YoY","Taiwan, Exports, Detailed, ASEAN, DRAM, USD bn, % YoY",None,line
+"Taiwan, Exports, Detailed, ASEAN, Photovoltaic cells, USD bn, % YoY","Taiwan, Exports, Detailed, ASEAN, Photovoltaic cells, USD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, China and Hong Kong, DRAM, USD bn, % YoY","Taiwan, Exports, Detailed, China and Hong Kong, DRAM, USD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, USD bn, % YoY","Taiwan, Exports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, USD bn, % YoY",None,line
+"Taiwan, Exports, Detailed, China and Hong Kong, Minibus, USD bn, % YoY","Taiwan, Exports, Detailed, China and Hong Kong, Minibus, USD bn, % YoY",None,line
+"Taiwan, Exports, Detailed, China, Minibus, USD bn, % YoY","Taiwan, Exports, Detailed, China, Minibus, USD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, Hong Kong, DRAM, USD bn, % YoY","Taiwan, Exports, Detailed, Hong Kong, DRAM, USD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, Hong Kong, Minibus, USD bn, % YoY","Taiwan, Exports, Detailed, Hong Kong, Minibus, USD bn, % YoY",None,line
+"Taiwan, Exports, Detailed, Korea, Mobile phones, USD bn, % YoY","Taiwan, Exports, Detailed, Korea, Mobile phones, USD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, Korea, Photovoltaic cells, USD bn, % YoY","Taiwan, Exports, Detailed, Korea, Photovoltaic cells, USD bn, % YoY",None,line
+"Taiwan, Exports, Detailed, US, Switches and Routers, USD bn, % YoY","Taiwan, Exports, Detailed, US, Switches and Routers, USD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, World, DRAM, USD bn, % YoY","Taiwan, Exports, Detailed, World, DRAM, USD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, World, Electronic components excluding integrated circuits, USD bn, % YoY","Taiwan, Exports, Detailed, World, Electronic components excluding integrated circuits, USD bn, % YoY",None,line
-"Taiwan, Exports, Detailed, World, Parts for mobile phone and network communication products, USD bn, % YoY","Taiwan, Exports, Detailed, World, Parts for mobile phone and network communication products, USD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, World, Storage media, USD bn, % YoY","Taiwan, Exports, Detailed, World, Storage media, USD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, World, Switches and Routers, USD bn, % YoY","Taiwan, Exports, Detailed, World, Switches and Routers, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, ASEAN, Machinery and electrical, IT products, USD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Machinery and electrical, IT products, USD bn, % YoY",None,line
@@ -2729,8 +2759,6 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, ASEAN, Machinery and electrical, USD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Machinery and electrical, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, ASEAN, Mineral Products, USD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Mineral Products, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, ASEAN, Mineral products, Petroleum, USD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Mineral products, Petroleum, USD bn, % YoY",None,line
-"Taiwan, Imports, Broad, ASEAN, Optical and clocks, Precision instruments, USD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Optical and clocks, Precision instruments, USD bn, % YoY",None,line
-"Taiwan, Imports, Broad, ASEAN, Optical and clocks, USD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Optical and clocks, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, ASEAN, Total, USD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Total, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, ASEAN, Vegetables, Soybeans, USD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Vegetables, Soybeans, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, ASEAN, Vegetables, Wheat, USD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Vegetables, Wheat, USD bn, % YoY",None,line
@@ -2762,15 +2790,13 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, EU, Mineral Products, USD bn, % YoY","Taiwan, Imports, Broad, EU, Mineral Products, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, EU, Mineral products, Petroleum, USD bn, % YoY","Taiwan, Imports, Broad, EU, Mineral products, Petroleum, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, EU, Total, USD bn, % YoY","Taiwan, Imports, Broad, EU, Total, USD bn, % YoY",None,line
+"Taiwan, Imports, Broad, EU, Transportation, USD bn, % YoY","Taiwan, Imports, Broad, EU, Transportation, USD bn, % YoY",None,line
+"Taiwan, Imports, Broad, EU, Vegetables, Wheat, USD bn, % YoY","Taiwan, Imports, Broad, EU, Vegetables, Wheat, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Hong Kong, Animal and vegetable oils, USD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Animal and vegetable oils, USD bn, % YoY",None,line
-"Taiwan, Imports, Broad, Hong Kong, Chemicals, Organic, USD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Chemicals, Organic, USD bn, % YoY",None,line
-"Taiwan, Imports, Broad, Hong Kong, Footwear, USD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Footwear, USD bn, % YoY",None,line
-"Taiwan, Imports, Broad, Hong Kong, Machinery and electrical, Domestic appliances, USD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Machinery and electrical, Domestic appliances, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Hong Kong, Mineral Products, USD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Mineral Products, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Hong Kong, Mineral products, Petroleum, USD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Mineral products, Petroleum, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Maize, USD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Vegetables, Maize, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Soybeans, USD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Vegetables, Soybeans, USD bn, % YoY",None,line
-"Taiwan, Imports, Broad, Hong Kong, Vegetables, USD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Vegetables, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Wheat, USD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Vegetables, Wheat, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Japan, Chemicals, USD bn, % YoY","Taiwan, Imports, Broad, Japan, Chemicals, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Japan, Machinery and electrical, Machinery, USD bn, % YoY","Taiwan, Imports, Broad, Japan, Machinery and electrical, Machinery, USD bn, % YoY",None,line
@@ -2780,6 +2806,7 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, Japan, Mineral products, Petroleum, USD bn, % YoY","Taiwan, Imports, Broad, Japan, Mineral products, Petroleum, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Japan, Total, USD bn, % YoY","Taiwan, Imports, Broad, Japan, Total, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Japan, Vegetables, Maize, USD bn, % YoY","Taiwan, Imports, Broad, Japan, Vegetables, Maize, USD bn, % YoY",None,line
+"Taiwan, Imports, Broad, Japan, Vegetables, Soybeans, USD bn, % YoY","Taiwan, Imports, Broad, Japan, Vegetables, Soybeans, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Japan, Vegetables, Wheat, USD bn, % YoY","Taiwan, Imports, Broad, Japan, Vegetables, Wheat, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Korea, Machinery and electrical, Parts, USD bn, % YoY","Taiwan, Imports, Broad, Korea, Machinery and electrical, Parts, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Korea, Machinery and electrical, USD bn, % YoY","Taiwan, Imports, Broad, Korea, Machinery and electrical, USD bn, % YoY",None,line
@@ -2793,9 +2820,8 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, US, Machinery and electrical, Parts, USD bn, % YoY","Taiwan, Imports, Broad, US, Machinery and electrical, Parts, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, US, Machinery and electrical, USD bn, % YoY","Taiwan, Imports, Broad, US, Machinery and electrical, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, US, Mineral Products, USD bn, % YoY","Taiwan, Imports, Broad, US, Mineral Products, USD bn, % YoY",None,line
-"Taiwan, Imports, Broad, US, Mineral products, Petroleum, USD bn, % YoY","Taiwan, Imports, Broad, US, Mineral products, Petroleum, USD bn, % YoY",None,line
-"Taiwan, Imports, Broad, US, Mineral products, USD bn, % YoY","Taiwan, Imports, Broad, US, Mineral products, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, US, Total, USD bn, % YoY","Taiwan, Imports, Broad, US, Total, USD bn, % YoY",None,line
+"Taiwan, Imports, Broad, World, Animals and Animal products, USD bn, % YoY","Taiwan, Imports, Broad, World, Animals and Animal products, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Base metals, Copper, USD bn, % YoY","Taiwan, Imports, Broad, World, Base metals, Copper, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Base metals, Iron and steel, USD bn, % YoY","Taiwan, Imports, Broad, World, Base metals, Iron and steel, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Base metals, USD bn, % YoY","Taiwan, Imports, Broad, World, Base metals, USD bn, % YoY",None,line
@@ -2812,13 +2838,12 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, World, Optical and clocks, USD bn, % YoY","Taiwan, Imports, Broad, World, Optical and clocks, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Others, USD bn, % YoY","Taiwan, Imports, Broad, World, Others, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Plastics and rubber, USD bn, % YoY","Taiwan, Imports, Broad, World, Plastics and rubber, USD bn, % YoY",None,line
-"Taiwan, Imports, Broad, World, Precious stones, Gold, USD bn, % YoY","Taiwan, Imports, Broad, World, Precious stones, Gold, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Precious stones, USD bn, % YoY","Taiwan, Imports, Broad, World, Precious stones, USD bn, % YoY",None,line
+"Taiwan, Imports, Broad, World, Prepared foodstuffs and beverages, USD bn, % YoY","Taiwan, Imports, Broad, World, Prepared foodstuffs and beverages, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Total, USD bn, % YoY","Taiwan, Imports, Broad, World, Total, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Transportation, USD bn, % YoY","Taiwan, Imports, Broad, World, Transportation, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Vegetables, USD bn, % YoY","Taiwan, Imports, Broad, World, Vegetables, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, ASEAN, Semiconductor equipment, USD bn, % YoY","Taiwan, Imports, Detailed, ASEAN, Semiconductor equipment, USD bn, % YoY",None,line
-"Taiwan, Imports, Detailed, ASEAN, Semiconductor manufacturing equipment, USD bn, % YoY","Taiwan, Imports, Detailed, ASEAN, Semiconductor manufacturing equipment, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, ASEAN, Switches and Routers, USD bn, % YoY","Taiwan, Imports, Detailed, ASEAN, Switches and Routers, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, USD bn, % YoY","Taiwan, Imports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, China and Hong Kong, Memory, USD bn, % YoY","Taiwan, Imports, Detailed, China and Hong Kong, Memory, USD bn, % YoY",None,line
@@ -2826,16 +2851,15 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Detailed, China, Memory, USD bn, % YoY","Taiwan, Imports, Detailed, China, Memory, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, EU, Semiconductor equipment, USD bn, % YoY","Taiwan, Imports, Detailed, EU, Semiconductor equipment, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, EU, Semiconductor manufacturing equipment, USD bn, % YoY","Taiwan, Imports, Detailed, EU, Semiconductor manufacturing equipment, USD bn, % YoY",None,line
+"Taiwan, Imports, Detailed, Hong Kong, LED, USD bn, % YoY","Taiwan, Imports, Detailed, Hong Kong, LED, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, Hong Kong, Laptop computers, USD bn, % YoY","Taiwan, Imports, Detailed, Hong Kong, Laptop computers, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, Hong Kong, Mobile phones, USD bn, % YoY","Taiwan, Imports, Detailed, Hong Kong, Mobile phones, USD bn, % YoY",None,line
-"Taiwan, Imports, Detailed, Hong Kong, Motors and generators sets, USD bn, % YoY","Taiwan, Imports, Detailed, Hong Kong, Motors and generators sets, USD bn, % YoY",None,line
-"Taiwan, Imports, Detailed, Hong Kong, Semiconductor manufacturing equipment, USD bn, % YoY","Taiwan, Imports, Detailed, Hong Kong, Semiconductor manufacturing equipment, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, Japan, Memory, USD bn, % YoY","Taiwan, Imports, Detailed, Japan, Memory, USD bn, % YoY",None,line
+"Taiwan, Imports, Detailed, Japan, Mobile phones, USD bn, % YoY","Taiwan, Imports, Detailed, Japan, Mobile phones, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, Japan, Semiconductor equipment, USD bn, % YoY","Taiwan, Imports, Detailed, Japan, Semiconductor equipment, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, Japan, Semiconductor manufacturing equipment, USD bn, % YoY","Taiwan, Imports, Detailed, Japan, Semiconductor manufacturing equipment, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, Korea, Memory, USD bn, % YoY","Taiwan, Imports, Detailed, Korea, Memory, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, US, Semiconductor equipment, USD bn, % YoY","Taiwan, Imports, Detailed, US, Semiconductor equipment, USD bn, % YoY",None,line
-"Taiwan, Imports, Detailed, US, Semiconductor manufacturing equipment, USD bn, % YoY","Taiwan, Imports, Detailed, US, Semiconductor manufacturing equipment, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, World, Automatic data processing machines, USD bn, % YoY","Taiwan, Imports, Detailed, World, Automatic data processing machines, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, World, Computer parts and accessories, USD bn, % YoY","Taiwan, Imports, Detailed, World, Computer parts and accessories, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, World, Electronic components excluding integrated circuits, USD bn, % YoY","Taiwan, Imports, Detailed, World, Electronic components excluding integrated circuits, USD bn, % YoY",None,line
@@ -2843,6 +2867,7 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Detailed, World, Printed circuit, USD bn, % YoY","Taiwan, Imports, Detailed, World, Printed circuit, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, World, Semiconductor equipment, USD bn, % YoY","Taiwan, Imports, Detailed, World, Semiconductor equipment, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, World, Semiconductor manufacturing equipment, USD bn, % YoY","Taiwan, Imports, Detailed, World, Semiconductor manufacturing equipment, USD bn, % YoY",None,line
+"Taiwan, Imports, Detailed, World, Storage media, USD bn, % YoY","Taiwan, Imports, Detailed, World, Storage media, USD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, World, Switches and Routers, USD bn, % YoY","Taiwan, Imports, Detailed, World, Switches and Routers, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Food, USD bn, % YoY","Taiwan, Imports, Broad, World, Food, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Chemicals and rubber, USD bn, % YoY","Taiwan, Imports, Broad, World, Chemicals and rubber, USD bn, % YoY",None,line
@@ -2863,8 +2888,10 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, US, Miscellaneous, USD bn, % YoY","Taiwan, Imports, Broad, US, Miscellaneous, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, US, Machinery and electrical excluding semi, USD bn, % YoY","Taiwan, Imports, Broad, US, Machinery and electrical excluding semi, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, EU, Chemicals and rubber, USD bn, % YoY","Taiwan, Imports, Broad, EU, Chemicals and rubber, USD bn, % YoY",None,line
+"Taiwan, Imports, Broad, EU, Miscellaneous, USD bn, % YoY","Taiwan, Imports, Broad, EU, Miscellaneous, USD bn, % YoY",None,line
 "Taiwan, Imports, Broad, EU, Machinery and electrical excluding semi, USD bn, % YoY","Taiwan, Imports, Broad, EU, Machinery and electrical excluding semi, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Chemicals and rubber, USD bn, % YoY","Taiwan, Exports, Broad, World, Chemicals and rubber, USD bn, % YoY",None,line
+"Taiwan, Exports, Broad, World, Textiles and footwear, USD bn, % YoY","Taiwan, Exports, Broad, World, Textiles and footwear, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Miscellaneous, USD bn, % YoY","Taiwan, Exports, Broad, World, Miscellaneous, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Machinery and electrical excluding semi, USD bn, % YoY","Taiwan, Exports, Broad, World, Machinery and electrical excluding semi, USD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Chemicals and rubber, USD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Chemicals and rubber, USD bn, % YoY",None,line
@@ -3218,21 +3245,23 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, ASEAN, Machinery and electrical, Parts, TWD bn, % YoY","Taiwan, Exports, Broad, ASEAN, Machinery and electrical, Parts, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, ASEAN, Machinery and electrical, TWD bn, % YoY","Taiwan, Exports, Broad, ASEAN, Machinery and electrical, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, ASEAN, Mineral Products, TWD bn, % YoY","Taiwan, Exports, Broad, ASEAN, Mineral Products, TWD bn, % YoY",None,line
+"Taiwan, Exports, Broad, ASEAN, Mineral products, Refined petroleum products, TWD bn, % YoY","Taiwan, Exports, Broad, ASEAN, Mineral products, Refined petroleum products, TWD bn, % YoY",None,line
+"Taiwan, Exports, Broad, ASEAN, Mineral products, TWD bn, % YoY","Taiwan, Exports, Broad, ASEAN, Mineral products, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, ASEAN, Total, TWD bn, % YoY","Taiwan, Exports, Broad, ASEAN, Total, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Chemicals, TWD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Chemicals, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, IT products, TWD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, IT products, TWD bn, % YoY",None,line
-"Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Machinery, TWD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Machinery, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Parts, TWD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, Parts, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, TWD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Machinery and electrical, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Mineral Products, TWD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Mineral Products, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Total, TWD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Total, TWD bn, % YoY",None,line
+"Taiwan, Exports, Broad, China, Chemicals, TWD bn, % YoY","Taiwan, Exports, Broad, China, Chemicals, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, IT products, TWD bn, % YoY","Taiwan, Exports, Broad, China, Machinery and electrical, IT products, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, Parts, TWD bn, % YoY","Taiwan, Exports, Broad, China, Machinery and electrical, Parts, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, TWD bn, % YoY","Taiwan, Exports, Broad, China, Machinery and electrical, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China, Mineral Products, TWD bn, % YoY","Taiwan, Exports, Broad, China, Mineral Products, TWD bn, % YoY",None,line
+"Taiwan, Exports, Broad, China, Prepared foodstuffs and beverages, Tobacco, TWD bn, % YoY","Taiwan, Exports, Broad, China, Prepared foodstuffs and beverages, Tobacco, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China, Total, TWD bn, % YoY","Taiwan, Exports, Broad, China, Total, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China, Vegetables, Edible, TWD bn, % YoY","Taiwan, Exports, Broad, China, Vegetables, Edible, TWD bn, % YoY",None,line
-"Taiwan, Exports, Broad, China, Vegetables, Fruit and nuts, TWD bn, % YoY","Taiwan, Exports, Broad, China, Vegetables, Fruit and nuts, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, EU, Machinery and electrical, IT products, TWD bn, % YoY","Taiwan, Exports, Broad, EU, Machinery and electrical, IT products, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, EU, Machinery and electrical, TWD bn, % YoY","Taiwan, Exports, Broad, EU, Machinery and electrical, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, EU, Mineral Products, TWD bn, % YoY","Taiwan, Exports, Broad, EU, Mineral Products, TWD bn, % YoY",None,line
@@ -3245,13 +3274,14 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, Japan, Machinery and electrical, Parts, TWD bn, % YoY","Taiwan, Exports, Broad, Japan, Machinery and electrical, Parts, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Japan, Machinery and electrical, TWD bn, % YoY","Taiwan, Exports, Broad, Japan, Machinery and electrical, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Japan, Mineral Products, TWD bn, % YoY","Taiwan, Exports, Broad, Japan, Mineral Products, TWD bn, % YoY",None,line
+"Taiwan, Exports, Broad, Japan, Prepared foodstuffs and beverages, Tobacco, TWD bn, % YoY","Taiwan, Exports, Broad, Japan, Prepared foodstuffs and beverages, Tobacco, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Japan, Total, TWD bn, % YoY","Taiwan, Exports, Broad, Japan, Total, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Korea, Machinery and electrical, Parts, TWD bn, % YoY","Taiwan, Exports, Broad, Korea, Machinery and electrical, Parts, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Korea, Machinery and electrical, TWD bn, % YoY","Taiwan, Exports, Broad, Korea, Machinery and electrical, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Korea, Mineral Products, TWD bn, % YoY","Taiwan, Exports, Broad, Korea, Mineral Products, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Korea, Total, TWD bn, % YoY","Taiwan, Exports, Broad, Korea, Total, TWD bn, % YoY",None,line
-"Taiwan, Exports, Broad, Korea, Vegetables, Edible, TWD bn, % YoY","Taiwan, Exports, Broad, Korea, Vegetables, Edible, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, Korea, Vegetables, Fruit and nuts, TWD bn, % YoY","Taiwan, Exports, Broad, Korea, Vegetables, Fruit and nuts, TWD bn, % YoY",None,line
+"Taiwan, Exports, Broad, US, Base metals, TWD bn, % YoY","Taiwan, Exports, Broad, US, Base metals, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, Electrical machinery, TWD bn, % YoY","Taiwan, Exports, Broad, US, Machinery and electrical, Electrical machinery, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, IT products, TWD bn, % YoY","Taiwan, Exports, Broad, US, Machinery and electrical, IT products, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, US, Machinery and electrical, Machinery, TWD bn, % YoY","Taiwan, Exports, Broad, US, Machinery and electrical, Machinery, TWD bn, % YoY",None,line
@@ -3274,20 +3304,25 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, World, Mineral products, TWD bn, % YoY","Taiwan, Exports, Broad, World, Mineral products, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Optical and clocks, Optical and precision instruments, TWD bn, % YoY","Taiwan, Exports, Broad, World, Optical and clocks, Optical and precision instruments, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Optical and clocks, TWD bn, % YoY","Taiwan, Exports, Broad, World, Optical and clocks, TWD bn, % YoY",None,line
+"Taiwan, Exports, Broad, World, Others, TWD bn, % YoY","Taiwan, Exports, Broad, World, Others, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, Plastic products, TWD bn, % YoY","Taiwan, Exports, Broad, World, Plastics and rubber, Plastic products, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, Plastics, TWD bn, % YoY","Taiwan, Exports, Broad, World, Plastics and rubber, Plastics, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Plastics and rubber, TWD bn, % YoY","Taiwan, Exports, Broad, World, Plastics and rubber, TWD bn, % YoY",None,line
+"Taiwan, Exports, Broad, World, Textiles, TWD bn, % YoY","Taiwan, Exports, Broad, World, Textiles, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Total, TWD bn, % YoY","Taiwan, Exports, Broad, World, Total, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Transportation, TWD bn, % YoY","Taiwan, Exports, Broad, World, Transportation, TWD bn, % YoY",None,line
-"Taiwan, Exports, Detailed, ASEAN, DRAM, TWD bn, % YoY","Taiwan, Exports, Detailed, ASEAN, DRAM, TWD bn, % YoY",None,line
+"Taiwan, Exports, Detailed, ASEAN, Photovoltaic cells, TWD bn, % YoY","Taiwan, Exports, Detailed, ASEAN, Photovoltaic cells, TWD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, China and Hong Kong, DRAM, TWD bn, % YoY","Taiwan, Exports, Detailed, China and Hong Kong, DRAM, TWD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, TWD bn, % YoY","Taiwan, Exports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, TWD bn, % YoY",None,line
+"Taiwan, Exports, Detailed, China and Hong Kong, Minibus, TWD bn, % YoY","Taiwan, Exports, Detailed, China and Hong Kong, Minibus, TWD bn, % YoY",None,line
+"Taiwan, Exports, Detailed, China, Minibus, TWD bn, % YoY","Taiwan, Exports, Detailed, China, Minibus, TWD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, Hong Kong, DRAM, TWD bn, % YoY","Taiwan, Exports, Detailed, Hong Kong, DRAM, TWD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, Hong Kong, Minibus, TWD bn, % YoY","Taiwan, Exports, Detailed, Hong Kong, Minibus, TWD bn, % YoY",None,line
+"Taiwan, Exports, Detailed, Korea, Mobile phones, TWD bn, % YoY","Taiwan, Exports, Detailed, Korea, Mobile phones, TWD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, Korea, Photovoltaic cells, TWD bn, % YoY","Taiwan, Exports, Detailed, Korea, Photovoltaic cells, TWD bn, % YoY",None,line
+"Taiwan, Exports, Detailed, US, Switches and Routers, TWD bn, % YoY","Taiwan, Exports, Detailed, US, Switches and Routers, TWD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, World, DRAM, TWD bn, % YoY","Taiwan, Exports, Detailed, World, DRAM, TWD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, World, Electronic components excluding integrated circuits, TWD bn, % YoY","Taiwan, Exports, Detailed, World, Electronic components excluding integrated circuits, TWD bn, % YoY",None,line
-"Taiwan, Exports, Detailed, World, Parts for mobile phone and network communication products, TWD bn, % YoY","Taiwan, Exports, Detailed, World, Parts for mobile phone and network communication products, TWD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, World, Storage media, TWD bn, % YoY","Taiwan, Exports, Detailed, World, Storage media, TWD bn, % YoY",None,line
 "Taiwan, Exports, Detailed, World, Switches and Routers, TWD bn, % YoY","Taiwan, Exports, Detailed, World, Switches and Routers, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, ASEAN, Machinery and electrical, IT products, TWD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Machinery and electrical, IT products, TWD bn, % YoY",None,line
@@ -3296,8 +3331,6 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, ASEAN, Machinery and electrical, TWD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Machinery and electrical, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, ASEAN, Mineral Products, TWD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Mineral Products, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, ASEAN, Mineral products, Petroleum, TWD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Mineral products, Petroleum, TWD bn, % YoY",None,line
-"Taiwan, Imports, Broad, ASEAN, Optical and clocks, Precision instruments, TWD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Optical and clocks, Precision instruments, TWD bn, % YoY",None,line
-"Taiwan, Imports, Broad, ASEAN, Optical and clocks, TWD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Optical and clocks, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, ASEAN, Total, TWD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Total, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, ASEAN, Vegetables, Soybeans, TWD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Vegetables, Soybeans, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, ASEAN, Vegetables, Wheat, TWD bn, % YoY","Taiwan, Imports, Broad, ASEAN, Vegetables, Wheat, TWD bn, % YoY",None,line
@@ -3329,15 +3362,13 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, EU, Mineral Products, TWD bn, % YoY","Taiwan, Imports, Broad, EU, Mineral Products, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, EU, Mineral products, Petroleum, TWD bn, % YoY","Taiwan, Imports, Broad, EU, Mineral products, Petroleum, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, EU, Total, TWD bn, % YoY","Taiwan, Imports, Broad, EU, Total, TWD bn, % YoY",None,line
+"Taiwan, Imports, Broad, EU, Transportation, TWD bn, % YoY","Taiwan, Imports, Broad, EU, Transportation, TWD bn, % YoY",None,line
+"Taiwan, Imports, Broad, EU, Vegetables, Wheat, TWD bn, % YoY","Taiwan, Imports, Broad, EU, Vegetables, Wheat, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Hong Kong, Animal and vegetable oils, TWD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Animal and vegetable oils, TWD bn, % YoY",None,line
-"Taiwan, Imports, Broad, Hong Kong, Chemicals, Organic, TWD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Chemicals, Organic, TWD bn, % YoY",None,line
-"Taiwan, Imports, Broad, Hong Kong, Footwear, TWD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Footwear, TWD bn, % YoY",None,line
-"Taiwan, Imports, Broad, Hong Kong, Machinery and electrical, Domestic appliances, TWD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Machinery and electrical, Domestic appliances, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Hong Kong, Mineral Products, TWD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Mineral Products, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Hong Kong, Mineral products, Petroleum, TWD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Mineral products, Petroleum, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Maize, TWD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Vegetables, Maize, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Soybeans, TWD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Vegetables, Soybeans, TWD bn, % YoY",None,line
-"Taiwan, Imports, Broad, Hong Kong, Vegetables, TWD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Vegetables, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Hong Kong, Vegetables, Wheat, TWD bn, % YoY","Taiwan, Imports, Broad, Hong Kong, Vegetables, Wheat, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Japan, Chemicals, TWD bn, % YoY","Taiwan, Imports, Broad, Japan, Chemicals, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Japan, Machinery and electrical, Machinery, TWD bn, % YoY","Taiwan, Imports, Broad, Japan, Machinery and electrical, Machinery, TWD bn, % YoY",None,line
@@ -3347,6 +3378,7 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, Japan, Mineral products, Petroleum, TWD bn, % YoY","Taiwan, Imports, Broad, Japan, Mineral products, Petroleum, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Japan, Total, TWD bn, % YoY","Taiwan, Imports, Broad, Japan, Total, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Japan, Vegetables, Maize, TWD bn, % YoY","Taiwan, Imports, Broad, Japan, Vegetables, Maize, TWD bn, % YoY",None,line
+"Taiwan, Imports, Broad, Japan, Vegetables, Soybeans, TWD bn, % YoY","Taiwan, Imports, Broad, Japan, Vegetables, Soybeans, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Japan, Vegetables, Wheat, TWD bn, % YoY","Taiwan, Imports, Broad, Japan, Vegetables, Wheat, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Korea, Machinery and electrical, Parts, TWD bn, % YoY","Taiwan, Imports, Broad, Korea, Machinery and electrical, Parts, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, Korea, Machinery and electrical, TWD bn, % YoY","Taiwan, Imports, Broad, Korea, Machinery and electrical, TWD bn, % YoY",None,line
@@ -3360,9 +3392,8 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, US, Machinery and electrical, Parts, TWD bn, % YoY","Taiwan, Imports, Broad, US, Machinery and electrical, Parts, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, US, Machinery and electrical, TWD bn, % YoY","Taiwan, Imports, Broad, US, Machinery and electrical, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, US, Mineral Products, TWD bn, % YoY","Taiwan, Imports, Broad, US, Mineral Products, TWD bn, % YoY",None,line
-"Taiwan, Imports, Broad, US, Mineral products, Petroleum, TWD bn, % YoY","Taiwan, Imports, Broad, US, Mineral products, Petroleum, TWD bn, % YoY",None,line
-"Taiwan, Imports, Broad, US, Mineral products, TWD bn, % YoY","Taiwan, Imports, Broad, US, Mineral products, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, US, Total, TWD bn, % YoY","Taiwan, Imports, Broad, US, Total, TWD bn, % YoY",None,line
+"Taiwan, Imports, Broad, World, Animals and Animal products, TWD bn, % YoY","Taiwan, Imports, Broad, World, Animals and Animal products, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Base metals, Copper, TWD bn, % YoY","Taiwan, Imports, Broad, World, Base metals, Copper, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Base metals, Iron and steel, TWD bn, % YoY","Taiwan, Imports, Broad, World, Base metals, Iron and steel, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Base metals, TWD bn, % YoY","Taiwan, Imports, Broad, World, Base metals, TWD bn, % YoY",None,line
@@ -3379,13 +3410,12 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, World, Optical and clocks, TWD bn, % YoY","Taiwan, Imports, Broad, World, Optical and clocks, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Others, TWD bn, % YoY","Taiwan, Imports, Broad, World, Others, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Plastics and rubber, TWD bn, % YoY","Taiwan, Imports, Broad, World, Plastics and rubber, TWD bn, % YoY",None,line
-"Taiwan, Imports, Broad, World, Precious stones, Gold, TWD bn, % YoY","Taiwan, Imports, Broad, World, Precious stones, Gold, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Precious stones, TWD bn, % YoY","Taiwan, Imports, Broad, World, Precious stones, TWD bn, % YoY",None,line
+"Taiwan, Imports, Broad, World, Prepared foodstuffs and beverages, TWD bn, % YoY","Taiwan, Imports, Broad, World, Prepared foodstuffs and beverages, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Total, TWD bn, % YoY","Taiwan, Imports, Broad, World, Total, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Transportation, TWD bn, % YoY","Taiwan, Imports, Broad, World, Transportation, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Vegetables, TWD bn, % YoY","Taiwan, Imports, Broad, World, Vegetables, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, ASEAN, Semiconductor equipment, TWD bn, % YoY","Taiwan, Imports, Detailed, ASEAN, Semiconductor equipment, TWD bn, % YoY",None,line
-"Taiwan, Imports, Detailed, ASEAN, Semiconductor manufacturing equipment, TWD bn, % YoY","Taiwan, Imports, Detailed, ASEAN, Semiconductor manufacturing equipment, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, ASEAN, Switches and Routers, TWD bn, % YoY","Taiwan, Imports, Detailed, ASEAN, Switches and Routers, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, TWD bn, % YoY","Taiwan, Imports, Detailed, China and Hong Kong, Electronic components excluding integrated circuits, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, China and Hong Kong, Memory, TWD bn, % YoY","Taiwan, Imports, Detailed, China and Hong Kong, Memory, TWD bn, % YoY",None,line
@@ -3393,16 +3423,15 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Detailed, China, Memory, TWD bn, % YoY","Taiwan, Imports, Detailed, China, Memory, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, EU, Semiconductor equipment, TWD bn, % YoY","Taiwan, Imports, Detailed, EU, Semiconductor equipment, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, EU, Semiconductor manufacturing equipment, TWD bn, % YoY","Taiwan, Imports, Detailed, EU, Semiconductor manufacturing equipment, TWD bn, % YoY",None,line
+"Taiwan, Imports, Detailed, Hong Kong, LED, TWD bn, % YoY","Taiwan, Imports, Detailed, Hong Kong, LED, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, Hong Kong, Laptop computers, TWD bn, % YoY","Taiwan, Imports, Detailed, Hong Kong, Laptop computers, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, Hong Kong, Mobile phones, TWD bn, % YoY","Taiwan, Imports, Detailed, Hong Kong, Mobile phones, TWD bn, % YoY",None,line
-"Taiwan, Imports, Detailed, Hong Kong, Motors and generators sets, TWD bn, % YoY","Taiwan, Imports, Detailed, Hong Kong, Motors and generators sets, TWD bn, % YoY",None,line
-"Taiwan, Imports, Detailed, Hong Kong, Semiconductor manufacturing equipment, TWD bn, % YoY","Taiwan, Imports, Detailed, Hong Kong, Semiconductor manufacturing equipment, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, Japan, Memory, TWD bn, % YoY","Taiwan, Imports, Detailed, Japan, Memory, TWD bn, % YoY",None,line
+"Taiwan, Imports, Detailed, Japan, Mobile phones, TWD bn, % YoY","Taiwan, Imports, Detailed, Japan, Mobile phones, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, Japan, Semiconductor equipment, TWD bn, % YoY","Taiwan, Imports, Detailed, Japan, Semiconductor equipment, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, Japan, Semiconductor manufacturing equipment, TWD bn, % YoY","Taiwan, Imports, Detailed, Japan, Semiconductor manufacturing equipment, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, Korea, Memory, TWD bn, % YoY","Taiwan, Imports, Detailed, Korea, Memory, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, US, Semiconductor equipment, TWD bn, % YoY","Taiwan, Imports, Detailed, US, Semiconductor equipment, TWD bn, % YoY",None,line
-"Taiwan, Imports, Detailed, US, Semiconductor manufacturing equipment, TWD bn, % YoY","Taiwan, Imports, Detailed, US, Semiconductor manufacturing equipment, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, World, Automatic data processing machines, TWD bn, % YoY","Taiwan, Imports, Detailed, World, Automatic data processing machines, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, World, Computer parts and accessories, TWD bn, % YoY","Taiwan, Imports, Detailed, World, Computer parts and accessories, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, World, Electronic components excluding integrated circuits, TWD bn, % YoY","Taiwan, Imports, Detailed, World, Electronic components excluding integrated circuits, TWD bn, % YoY",None,line
@@ -3410,6 +3439,7 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Detailed, World, Printed circuit, TWD bn, % YoY","Taiwan, Imports, Detailed, World, Printed circuit, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, World, Semiconductor equipment, TWD bn, % YoY","Taiwan, Imports, Detailed, World, Semiconductor equipment, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, World, Semiconductor manufacturing equipment, TWD bn, % YoY","Taiwan, Imports, Detailed, World, Semiconductor manufacturing equipment, TWD bn, % YoY",None,line
+"Taiwan, Imports, Detailed, World, Storage media, TWD bn, % YoY","Taiwan, Imports, Detailed, World, Storage media, TWD bn, % YoY",None,line
 "Taiwan, Imports, Detailed, World, Switches and Routers, TWD bn, % YoY","Taiwan, Imports, Detailed, World, Switches and Routers, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Food, TWD bn, % YoY","Taiwan, Imports, Broad, World, Food, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, World, Chemicals and rubber, TWD bn, % YoY","Taiwan, Imports, Broad, World, Chemicals and rubber, TWD bn, % YoY",None,line
@@ -3430,8 +3460,10 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, Broad, US, Miscellaneous, TWD bn, % YoY","Taiwan, Imports, Broad, US, Miscellaneous, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, US, Machinery and electrical excluding semi, TWD bn, % YoY","Taiwan, Imports, Broad, US, Machinery and electrical excluding semi, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, EU, Chemicals and rubber, TWD bn, % YoY","Taiwan, Imports, Broad, EU, Chemicals and rubber, TWD bn, % YoY",None,line
+"Taiwan, Imports, Broad, EU, Miscellaneous, TWD bn, % YoY","Taiwan, Imports, Broad, EU, Miscellaneous, TWD bn, % YoY",None,line
 "Taiwan, Imports, Broad, EU, Machinery and electrical excluding semi, TWD bn, % YoY","Taiwan, Imports, Broad, EU, Machinery and electrical excluding semi, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Chemicals and rubber, TWD bn, % YoY","Taiwan, Exports, Broad, World, Chemicals and rubber, TWD bn, % YoY",None,line
+"Taiwan, Exports, Broad, World, Textiles and footwear, TWD bn, % YoY","Taiwan, Exports, Broad, World, Textiles and footwear, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Miscellaneous, TWD bn, % YoY","Taiwan, Exports, Broad, World, Miscellaneous, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, World, Machinery and electrical excluding semi, TWD bn, % YoY","Taiwan, Exports, Broad, World, Machinery and electrical excluding semi, TWD bn, % YoY",None,line
 "Taiwan, Exports, Broad, China and Hong Kong, Chemicals and rubber, TWD bn, % YoY","Taiwan, Exports, Broad, China and Hong Kong, Chemicals and rubber, TWD bn, % YoY",None,line
