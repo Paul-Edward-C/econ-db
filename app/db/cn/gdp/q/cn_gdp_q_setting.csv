@@ -124,7 +124,13 @@ name,display_name,data_type,chart_type
 "China, RGDP, Activity, Tertiary, SA, CNY bn","China, RGDP, Activity, Tertiary, SA, CNY bn",None,line
 "China, RGDP, Activity, Primary, SA, CNY bn","China, RGDP, Activity, Primary, SA, CNY bn",None,line
 "China, RGDP, Activity, Secondary, SA, CNY bn","China, RGDP, Activity, Secondary, SA, CNY bn",None,line
+"China, Household survey, Average Monthly Income of Rural Migrant Workers","China, Household survey, Average Monthly Income of Rural Migrant Workers",None,line
+"China, Household survey, Average Monthly Income of Rural Migrant Workers, % YoY","China, Household survey, Average Monthly Income of Rural Migrant Workers, % YoY",None,line
 "China, Household survey, Migrant workers, Income, CNY","China, Household survey, Migrant workers, Income, CNY",None,line
+"China, Household survey, Migrant workers, Out of province, m","China, Household survey, Migrant workers, Out of province, m",None,line
+"China, Household survey, Migrant workers, Out of province, m, % YoY","China, Household survey, Migrant workers, Out of province, m, % YoY",None,line
+"China, Household survey, Migrant workers, Within province, m","China, Household survey, Migrant workers, Within province, m",None,line
+"China, Household survey, Migrant workers, Within province, m, % YoY","China, Household survey, Migrant workers, Within province, m, % YoY",None,line
 "China, Household survey, Migrant workers, m","China, Household survey, Migrant workers, m",,line
 "China, Household survey, Migrant workers, m, % YoY","China, Household survey, Migrant workers, m, % YoY",None,line
 "China, Household survey, National, Per capita, Expenditure, Clothing and footwear, YTD, % YoY","China, Household survey, National, Per capita, Expenditure, Clothing and footwear, YTD, % YoY",None,line
@@ -157,6 +163,130 @@ name,display_name,data_type,chart_type
 "China, Household survey, National, Per capita, Income, Transfer, YTD, CNY","China, Household survey, National, Per capita, Income, Transfer, YTD, CNY",None,line
 "China, Household survey, National, Per capita, Income, Wages, YTD, % YoY","China, Household survey, National, Per capita, Income, Wages, YTD, % YoY",None,line
 "China, Household survey, National, Per capita, Income, Wages, YTD, CNY","China, Household survey, National, Per capita, Income, Wages, YTD, CNY",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Anhui, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Anhui, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Beijing, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Beijing, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Chongqing, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Chongqing, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Fujian, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Fujian, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Gansu, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Gansu, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Guangdong, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Guangdong, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Guangxi, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Guangxi, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Guizhou, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Guizhou, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Hainan, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Hainan, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Hebei, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Hebei, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Heilongjiang, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Heilongjiang, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Henan, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Henan, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Hubei, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Hubei, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Hunan, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Hunan, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Inner Mongolia, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Inner Mongolia, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Jiangsu, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Jiangsu, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Jiangxi, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Jiangxi, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Jilin, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Jilin, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Liaoning, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Liaoning, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Ningxia, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Ningxia, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Qinghai, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Qinghai, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Shaanxi, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Shaanxi, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Shandong, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Shandong, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Shanghai, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Shanghai, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Shanxi, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Shanxi, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Sichuan, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Sichuan, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Tianjin, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Tianjin, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Tibet, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Tibet, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Xinjiang, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Xinjiang, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Yunnan, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Yunnan, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Zhejiang, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Expenditure, Zhejiang, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Anhui, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Anhui, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Beijing, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Beijing, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Chongqing, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Chongqing, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Fujian, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Fujian, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Gansu, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Gansu, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Guangdong, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Guangdong, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Guangxi, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Guangxi, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Guizhou, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Guizhou, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hainan, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hainan, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hebei, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hebei, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Heilongjiang, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Heilongjiang, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Henan, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Henan, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hubei, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hubei, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hunan, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hunan, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Inner Mongolia, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Inner Mongolia, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Jiangsu, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Jiangsu, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Jiangxi, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Jiangxi, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Jilin, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Jilin, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Liaoning, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Liaoning, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Ningxia, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Ningxia, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Qinghai, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Qinghai, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shaanxi, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shaanxi, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shandong, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shandong, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shanghai, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shanghai, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shanxi, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shanxi, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Sichuan, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Sichuan, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Tianjin, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Tianjin, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Tibet, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Tibet, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Xinjiang, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Xinjiang, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Yunnan, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Yunnan, CNY, YTD",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Zhejiang, CNY, YTD","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Zhejiang, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Anhui, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Anhui, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Beijing, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Beijing, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Chongqing, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Chongqing, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Fujian, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Fujian, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Gansu, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Gansu, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Guangdong, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Guangdong, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Guangxi, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Guangxi, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Guizhou, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Guizhou, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Hainan, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Hainan, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Hebei, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Hebei, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Heilongjiang, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Heilongjiang, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Henan, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Henan, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Hubei, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Hubei, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Hunan, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Hunan, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Inner Mongolia, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Inner Mongolia, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Jiangsu, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Jiangsu, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Jiangxi, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Jiangxi, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Jilin, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Jilin, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Liaoning, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Liaoning, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Ningxia, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Ningxia, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Qinghai, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Qinghai, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Shaanxi, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Shaanxi, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Shandong, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Shandong, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Shanghai, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Shanghai, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Shanxi, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Shanxi, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Sichuan, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Sichuan, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Tianjin, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Tianjin, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Tibet, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Tibet, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Xinjiang, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Xinjiang, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Yunnan, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Yunnan, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Zhejiang, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Expenditure, Zhejiang, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Anhui, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Anhui, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Beijing, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Beijing, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Chongqing, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Chongqing, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Fujian, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Fujian, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Gansu, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Gansu, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Guangdong, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Guangdong, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Guangxi, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Guangxi, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Guizhou, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Guizhou, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hainan, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hainan, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hebei, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hebei, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Heilongjiang, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Heilongjiang, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Henan, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Henan, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hubei, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hubei, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hunan, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hunan, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Inner Mongolia, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Inner Mongolia, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Jiangsu, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Jiangsu, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Jiangxi, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Jiangxi, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Jilin, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Jilin, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Liaoning, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Liaoning, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Ningxia, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Ningxia, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Qinghai, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Qinghai, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shaanxi, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shaanxi, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shandong, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shandong, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shanghai, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shanghai, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shanxi, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shanxi, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Sichuan, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Sichuan, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Tianjin, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Tianjin, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Tibet, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Tibet, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Xinjiang, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Xinjiang, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Yunnan, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Yunnan, CNY, YTD",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Zhejiang, CNY, YTD","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Zhejiang, CNY, YTD",None,line
 "China, Household survey, Rural, Per capita, Expenditure, Clothing and footwear, YTD, % YoY","China, Household survey, Rural, Per capita, Expenditure, Clothing and footwear, YTD, % YoY",None,line
 "China, Household survey, Rural, Per capita, Expenditure, Clothing and footwear, YTD, CNY","China, Household survey, Rural, Per capita, Expenditure, Clothing and footwear, YTD, CNY",None,line
 "China, Household survey, Rural, Per capita, Expenditure, Education, culture and recreation, YTD, % YoY","China, Household survey, Rural, Per capita, Expenditure, Education, culture and recreation, YTD, % YoY",None,line
@@ -1239,6 +1369,7 @@ name,display_name,data_type,chart_type
 "China, RGDP, Revisions, % QoQ, Dec-2024","China, RGDP, Revisions, % QoQ, Dec-2024",None,line
 "China, RGDP, Revisions, % QoQ, Mar-2025","China, RGDP, Revisions, % QoQ, Mar-2025",None,line
 "China, RGDP, Revisions, % QoQ, Jun-2025","China, RGDP, Revisions, % QoQ, Jun-2025",None,line
+"China, RGDP, Revisions, % QoQ, Dec-2025","China, RGDP, Revisions, % QoQ, Dec-2025",None,line
 "China, RGDP, Revisions, % QoQ, Sep-2025","China, RGDP, Revisions, % QoQ, Sep-2025",None,line
 "China, RGDP, Revisions, Index, Mar-2017","China, RGDP, Revisions, Index, Mar-2017",None,line
 "China, RGDP, Revisions, Index, Jun-2017","China, RGDP, Revisions, Index, Jun-2017",None,line
@@ -1274,6 +1405,7 @@ name,display_name,data_type,chart_type
 "China, RGDP, Revisions, Index, Dec-2024","China, RGDP, Revisions, Index, Dec-2024",None,line
 "China, RGDP, Revisions, Index, Mar-2025","China, RGDP, Revisions, Index, Mar-2025",None,line
 "China, RGDP, Revisions, Index, Jun-2025","China, RGDP, Revisions, Index, Jun-2025",None,line
+"China, RGDP, Revisions, Index, Dec-2025","China, RGDP, Revisions, Index, Dec-2025",None,line
 "China, RGDP, Revisions, Index, Sep-2025","China, RGDP, Revisions, Index, Sep-2025",None,line
 "China, NGDP, Activity, % YoY, 12M average","China, NGDP, Activity, % YoY, 12M average",None,line
 "China, NGDP, Activity, Primary, Agriculture, % YoY, 12M average","China, NGDP, Activity, Primary, Agriculture, % YoY, 12M average",None,line
@@ -1400,7 +1532,13 @@ name,display_name,data_type,chart_type
 "China, RGDP, Activity, Tertiary, SA, CNY bn, 12M average","China, RGDP, Activity, Tertiary, SA, CNY bn, 12M average",None,line
 "China, RGDP, Activity, Primary, SA, CNY bn, 12M average","China, RGDP, Activity, Primary, SA, CNY bn, 12M average",None,line
 "China, RGDP, Activity, Secondary, SA, CNY bn, 12M average","China, RGDP, Activity, Secondary, SA, CNY bn, 12M average",None,line
+"China, Household survey, Average Monthly Income of Rural Migrant Workers, 12M average","China, Household survey, Average Monthly Income of Rural Migrant Workers, 12M average",None,line
+"China, Household survey, Average Monthly Income of Rural Migrant Workers, % YoY, 12M average","China, Household survey, Average Monthly Income of Rural Migrant Workers, % YoY, 12M average",None,line
 "China, Household survey, Migrant workers, Income, CNY, 12M average","China, Household survey, Migrant workers, Income, CNY, 12M average",None,line
+"China, Household survey, Migrant workers, Out of province, m, 12M average","China, Household survey, Migrant workers, Out of province, m, 12M average",None,line
+"China, Household survey, Migrant workers, Out of province, m, % YoY, 12M average","China, Household survey, Migrant workers, Out of province, m, % YoY, 12M average",None,line
+"China, Household survey, Migrant workers, Within province, m, 12M average","China, Household survey, Migrant workers, Within province, m, 12M average",None,line
+"China, Household survey, Migrant workers, Within province, m, % YoY, 12M average","China, Household survey, Migrant workers, Within province, m, % YoY, 12M average",None,line
 "China, Household survey, Migrant workers, m, 12M average","China, Household survey, Migrant workers, m, 12M average",,line
 "China, Household survey, Migrant workers, m, % YoY, 12M average","China, Household survey, Migrant workers, m, % YoY, 12M average",None,line
 "China, Household survey, National, Per capita, Expenditure, Clothing and footwear, YTD, % YoY, 12M average","China, Household survey, National, Per capita, Expenditure, Clothing and footwear, YTD, % YoY, 12M average",None,line
@@ -1433,6 +1571,130 @@ name,display_name,data_type,chart_type
 "China, Household survey, National, Per capita, Income, Transfer, YTD, CNY, 12M average","China, Household survey, National, Per capita, Income, Transfer, YTD, CNY, 12M average",None,line
 "China, Household survey, National, Per capita, Income, Wages, YTD, % YoY, 12M average","China, Household survey, National, Per capita, Income, Wages, YTD, % YoY, 12M average",None,line
 "China, Household survey, National, Per capita, Income, Wages, YTD, CNY, 12M average","China, Household survey, National, Per capita, Income, Wages, YTD, CNY, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Anhui, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Anhui, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Beijing, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Beijing, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Chongqing, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Chongqing, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Fujian, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Fujian, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Gansu, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Gansu, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Guangdong, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Guangdong, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Guangxi, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Guangxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Guizhou, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Guizhou, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Hainan, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Hainan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Hebei, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Hebei, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Heilongjiang, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Heilongjiang, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Henan, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Henan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Hubei, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Hubei, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Hunan, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Hunan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Inner Mongolia, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Inner Mongolia, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Jiangsu, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Jiangsu, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Jiangxi, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Jiangxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Jilin, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Jilin, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Liaoning, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Liaoning, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Ningxia, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Ningxia, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Qinghai, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Qinghai, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Shaanxi, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Shaanxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Shandong, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Shandong, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Shanghai, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Shanghai, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Shanxi, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Shanxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Sichuan, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Sichuan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Tianjin, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Tianjin, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Tibet, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Tibet, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Xinjiang, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Xinjiang, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Yunnan, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Yunnan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Expenditure, Zhejiang, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Expenditure, Zhejiang, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Anhui, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Anhui, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Beijing, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Beijing, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Chongqing, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Chongqing, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Fujian, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Fujian, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Gansu, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Gansu, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Guangdong, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Guangdong, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Guangxi, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Guangxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Guizhou, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Guizhou, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hainan, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hainan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hebei, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hebei, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Heilongjiang, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Heilongjiang, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Henan, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Henan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hubei, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hubei, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hunan, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Hunan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Inner Mongolia, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Inner Mongolia, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Jiangsu, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Jiangsu, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Jiangxi, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Jiangxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Jilin, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Jilin, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Liaoning, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Liaoning, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Ningxia, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Ningxia, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Qinghai, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Qinghai, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shaanxi, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shaanxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shandong, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shandong, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shanghai, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shanghai, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shanxi, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Shanxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Sichuan, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Sichuan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Tianjin, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Tianjin, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Tibet, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Tibet, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Xinjiang, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Xinjiang, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Yunnan, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Yunnan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Rural, Per capita, Income, Disposable, Zhejiang, CNY, YTD, 12M average","China, Household survey, Regional, Rural, Per capita, Income, Disposable, Zhejiang, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Anhui, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Anhui, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Beijing, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Beijing, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Chongqing, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Chongqing, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Fujian, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Fujian, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Gansu, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Gansu, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Guangdong, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Guangdong, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Guangxi, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Guangxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Guizhou, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Guizhou, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Hainan, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Hainan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Hebei, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Hebei, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Heilongjiang, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Heilongjiang, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Henan, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Henan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Hubei, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Hubei, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Hunan, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Hunan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Inner Mongolia, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Inner Mongolia, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Jiangsu, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Jiangsu, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Jiangxi, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Jiangxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Jilin, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Jilin, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Liaoning, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Liaoning, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Ningxia, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Ningxia, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Qinghai, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Qinghai, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Shaanxi, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Shaanxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Shandong, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Shandong, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Shanghai, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Shanghai, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Shanxi, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Shanxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Sichuan, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Sichuan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Tianjin, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Tianjin, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Tibet, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Tibet, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Xinjiang, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Xinjiang, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Yunnan, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Yunnan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Expenditure, Zhejiang, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Expenditure, Zhejiang, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Anhui, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Anhui, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Beijing, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Beijing, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Chongqing, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Chongqing, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Fujian, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Fujian, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Gansu, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Gansu, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Guangdong, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Guangdong, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Guangxi, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Guangxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Guizhou, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Guizhou, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hainan, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hainan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hebei, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hebei, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Heilongjiang, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Heilongjiang, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Henan, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Henan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hubei, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hubei, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hunan, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Hunan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Inner Mongolia, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Inner Mongolia, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Jiangsu, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Jiangsu, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Jiangxi, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Jiangxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Jilin, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Jilin, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Liaoning, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Liaoning, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Ningxia, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Ningxia, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Qinghai, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Qinghai, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shaanxi, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shaanxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shandong, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shandong, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shanghai, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shanghai, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shanxi, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Shanxi, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Sichuan, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Sichuan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Tianjin, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Tianjin, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Tibet, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Tibet, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Xinjiang, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Xinjiang, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Yunnan, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Yunnan, CNY, YTD, 12M average",None,line
+"China, Household survey, Regional, Urban, Per capita, Income, Disposable, Zhejiang, CNY, YTD, 12M average","China, Household survey, Regional, Urban, Per capita, Income, Disposable, Zhejiang, CNY, YTD, 12M average",None,line
 "China, Household survey, Rural, Per capita, Expenditure, Clothing and footwear, YTD, % YoY, 12M average","China, Household survey, Rural, Per capita, Expenditure, Clothing and footwear, YTD, % YoY, 12M average",None,line
 "China, Household survey, Rural, Per capita, Expenditure, Clothing and footwear, YTD, CNY, 12M average","China, Household survey, Rural, Per capita, Expenditure, Clothing and footwear, YTD, CNY, 12M average",None,line
 "China, Household survey, Rural, Per capita, Expenditure, Education, culture and recreation, YTD, % YoY, 12M average","China, Household survey, Rural, Per capita, Expenditure, Education, culture and recreation, YTD, % YoY, 12M average",None,line
@@ -2515,6 +2777,7 @@ name,display_name,data_type,chart_type
 "China, RGDP, Revisions, % QoQ, Dec-2024, 12M average","China, RGDP, Revisions, % QoQ, Dec-2024, 12M average",None,line
 "China, RGDP, Revisions, % QoQ, Mar-2025, 12M average","China, RGDP, Revisions, % QoQ, Mar-2025, 12M average",None,line
 "China, RGDP, Revisions, % QoQ, Jun-2025, 12M average","China, RGDP, Revisions, % QoQ, Jun-2025, 12M average",None,line
+"China, RGDP, Revisions, % QoQ, Dec-2025, 12M average","China, RGDP, Revisions, % QoQ, Dec-2025, 12M average",None,line
 "China, RGDP, Revisions, % QoQ, Sep-2025, 12M average","China, RGDP, Revisions, % QoQ, Sep-2025, 12M average",None,line
 "China, RGDP, Revisions, Index, Mar-2017, 12M average","China, RGDP, Revisions, Index, Mar-2017, 12M average",None,line
 "China, RGDP, Revisions, Index, Jun-2017, 12M average","China, RGDP, Revisions, Index, Jun-2017, 12M average",None,line
@@ -2550,4 +2813,5 @@ name,display_name,data_type,chart_type
 "China, RGDP, Revisions, Index, Dec-2024, 12M average","China, RGDP, Revisions, Index, Dec-2024, 12M average",None,line
 "China, RGDP, Revisions, Index, Mar-2025, 12M average","China, RGDP, Revisions, Index, Mar-2025, 12M average",None,line
 "China, RGDP, Revisions, Index, Jun-2025, 12M average","China, RGDP, Revisions, Index, Jun-2025, 12M average",None,line
+"China, RGDP, Revisions, Index, Dec-2025, 12M average","China, RGDP, Revisions, Index, Dec-2025, 12M average",None,line
 "China, RGDP, Revisions, Index, Sep-2025, 12M average","China, RGDP, Revisions, Index, Sep-2025, 12M average",None,line
