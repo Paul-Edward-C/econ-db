@@ -653,6 +653,11 @@ name,display_name,data_type,chart_type
 "China, Consumer, PBC survey, Purchase intention, Tourism","China, Consumer, PBC survey, Purchase intention, Tourism",None,line
 "China, Consumer, PBC survey, Purchase intention, Insurance","China, Consumer, PBC survey, Purchase intention, Insurance",None,line
 "China, Consumer, PBC survey, Purchase intention, Car","China, Consumer, PBC survey, Purchase intention, Car",None,line
+"China, Consumer, PBC surveys, Investments, WMPs","China, Consumer, PBC surveys, Investments, WMPs",None,line
+"China, Consumer, PBC surveys, Investments, Products of fund and trust companies","China, Consumer, PBC surveys, Investments, Products of fund and trust companies",None,line
+"China, Consumer, PBC surveys, Investments, Stocks","China, Consumer, PBC surveys, Investments, Stocks",None,line
+"China, Consumer, PBC surveys, Investments, Bonds","China, Consumer, PBC surveys, Investments, Bonds",None,line
+"China, Consumer, PBC surveys, Investments, Saving-type insurance products","China, Consumer, PBC surveys, Investments, Saving-type insurance products",None,line
 "China, Consumer, PBC survey, Savings","China, Consumer, PBC survey, Savings",None,line
 "China, Consumer, PBC survey, Price expectation, SA","China, Consumer, PBC survey, Price expectation, SA",None,line
 "China, Consumer, PBC survey, Income sentiment, SA","China, Consumer, PBC survey, Income sentiment, SA",None,line
@@ -671,6 +676,9 @@ name,display_name,data_type,chart_type
 "China, Consumer, PBC survey, Purchase intention, Social Culture and Entertainment, SA","China, Consumer, PBC survey, Purchase intention, Social Culture and Entertainment, SA",None,line
 "China, Consumer, PBC survey, Purchase intention, Tourism, SA","China, Consumer, PBC survey, Purchase intention, Tourism, SA",None,line
 "China, Consumer, PBC survey, Purchase intention, Insurance, SA","China, Consumer, PBC survey, Purchase intention, Insurance, SA",None,line
+"China, Consumer, PBC surveys, Investments, WMPs, SA","China, Consumer, PBC surveys, Investments, WMPs, SA",None,line
+"China, Consumer, PBC surveys, Investments, Products of fund and trust companies, SA","China, Consumer, PBC surveys, Investments, Products of fund and trust companies, SA",None,line
+"China, Consumer, PBC surveys, Investments, Stocks, SA","China, Consumer, PBC surveys, Investments, Stocks, SA",None,line
 "China, Consumer, PBC survey, Savings, SA","China, Consumer, PBC survey, Savings, SA",None,line
 "China, Consumer, PBC survey, Willingness to invest, SA","China, Consumer, PBC survey, Willingness to invest, SA",None,line
 "China, Consumer, PBC survey, Purchase intention, Fun, SA","China, Consumer, PBC survey, Purchase intention, Fun, SA",None,line
@@ -695,6 +703,11 @@ name,display_name,data_type,chart_type
 "China, Consumer, PBC survey, Purchase intention, Tourism, 1M chg","China, Consumer, PBC survey, Purchase intention, Tourism, 1M chg",None,line
 "China, Consumer, PBC survey, Purchase intention, Insurance, 1M chg","China, Consumer, PBC survey, Purchase intention, Insurance, 1M chg",None,line
 "China, Consumer, PBC survey, Purchase intention, Car, 1M chg","China, Consumer, PBC survey, Purchase intention, Car, 1M chg",None,line
+"China, Consumer, PBC surveys, Investments, WMPs, 1M chg","China, Consumer, PBC surveys, Investments, WMPs, 1M chg",None,line
+"China, Consumer, PBC surveys, Investments, Products of fund and trust companies, 1M chg","China, Consumer, PBC surveys, Investments, Products of fund and trust companies, 1M chg",None,line
+"China, Consumer, PBC surveys, Investments, Stocks, 1M chg","China, Consumer, PBC surveys, Investments, Stocks, 1M chg",None,line
+"China, Consumer, PBC surveys, Investments, Bonds, 1M chg","China, Consumer, PBC surveys, Investments, Bonds, 1M chg",None,line
+"China, Consumer, PBC surveys, Investments, Saving-type insurance products, 1M chg","China, Consumer, PBC surveys, Investments, Saving-type insurance products, 1M chg",None,line
 "China, Consumer, PBC survey, Savings, 1M chg","China, Consumer, PBC survey, Savings, 1M chg",None,line
 "China, Consumer, PBC survey, Price expectation, SA, 1M chg","China, Consumer, PBC survey, Price expectation, SA, 1M chg",None,line
 "China, Consumer, PBC survey, Income sentiment, SA, 1M chg","China, Consumer, PBC survey, Income sentiment, SA, 1M chg",None,line
@@ -713,6 +726,9 @@ name,display_name,data_type,chart_type
 "China, Consumer, PBC survey, Purchase intention, Social Culture and Entertainment, SA, 1M chg","China, Consumer, PBC survey, Purchase intention, Social Culture and Entertainment, SA, 1M chg",None,line
 "China, Consumer, PBC survey, Purchase intention, Tourism, SA, 1M chg","China, Consumer, PBC survey, Purchase intention, Tourism, SA, 1M chg",None,line
 "China, Consumer, PBC survey, Purchase intention, Insurance, SA, 1M chg","China, Consumer, PBC survey, Purchase intention, Insurance, SA, 1M chg",None,line
+"China, Consumer, PBC surveys, Investments, WMPs, SA, 1M chg","China, Consumer, PBC surveys, Investments, WMPs, SA, 1M chg",None,line
+"China, Consumer, PBC surveys, Investments, Products of fund and trust companies, SA, 1M chg","China, Consumer, PBC surveys, Investments, Products of fund and trust companies, SA, 1M chg",None,line
+"China, Consumer, PBC surveys, Investments, Stocks, SA, 1M chg","China, Consumer, PBC surveys, Investments, Stocks, SA, 1M chg",None,line
 "China, Consumer, PBC survey, Savings, SA, 1M chg","China, Consumer, PBC survey, Savings, SA, 1M chg",None,line
 "China, Consumer, PBC survey, Willingness to invest, SA, 1M chg","China, Consumer, PBC survey, Willingness to invest, SA, 1M chg",None,line
 "China, Consumer, PBC survey, Purchase intention, Fun, SA, 1M chg","China, Consumer, PBC survey, Purchase intention, Fun, SA, 1M chg",None,line
@@ -737,6 +753,11 @@ name,display_name,data_type,chart_type
 "China, Consumer, PBC survey, Purchase intention, Tourism, YoY chg","China, Consumer, PBC survey, Purchase intention, Tourism, YoY chg",None,line
 "China, Consumer, PBC survey, Purchase intention, Insurance, YoY chg","China, Consumer, PBC survey, Purchase intention, Insurance, YoY chg",None,line
 "China, Consumer, PBC survey, Purchase intention, Car, YoY chg","China, Consumer, PBC survey, Purchase intention, Car, YoY chg",None,line
+"China, Consumer, PBC surveys, Investments, WMPs, YoY chg","China, Consumer, PBC surveys, Investments, WMPs, YoY chg",None,line
+"China, Consumer, PBC surveys, Investments, Products of fund and trust companies, YoY chg","China, Consumer, PBC surveys, Investments, Products of fund and trust companies, YoY chg",None,line
+"China, Consumer, PBC surveys, Investments, Stocks, YoY chg","China, Consumer, PBC surveys, Investments, Stocks, YoY chg",None,line
+"China, Consumer, PBC surveys, Investments, Bonds, YoY chg","China, Consumer, PBC surveys, Investments, Bonds, YoY chg",None,line
+"China, Consumer, PBC surveys, Investments, Saving-type insurance products, YoY chg","China, Consumer, PBC surveys, Investments, Saving-type insurance products, YoY chg",None,line
 "China, Consumer, PBC survey, Savings, YoY chg","China, Consumer, PBC survey, Savings, YoY chg",None,line
 "China, Consumer, PBC survey, Price expectation, SA, YoY chg","China, Consumer, PBC survey, Price expectation, SA, YoY chg",None,line
 "China, Consumer, PBC survey, Income sentiment, SA, YoY chg","China, Consumer, PBC survey, Income sentiment, SA, YoY chg",None,line
@@ -755,6 +776,9 @@ name,display_name,data_type,chart_type
 "China, Consumer, PBC survey, Purchase intention, Social Culture and Entertainment, SA, YoY chg","China, Consumer, PBC survey, Purchase intention, Social Culture and Entertainment, SA, YoY chg",None,line
 "China, Consumer, PBC survey, Purchase intention, Tourism, SA, YoY chg","China, Consumer, PBC survey, Purchase intention, Tourism, SA, YoY chg",None,line
 "China, Consumer, PBC survey, Purchase intention, Insurance, SA, YoY chg","China, Consumer, PBC survey, Purchase intention, Insurance, SA, YoY chg",None,line
+"China, Consumer, PBC surveys, Investments, WMPs, SA, YoY chg","China, Consumer, PBC surveys, Investments, WMPs, SA, YoY chg",None,line
+"China, Consumer, PBC surveys, Investments, Products of fund and trust companies, SA, YoY chg","China, Consumer, PBC surveys, Investments, Products of fund and trust companies, SA, YoY chg",None,line
+"China, Consumer, PBC surveys, Investments, Stocks, SA, YoY chg","China, Consumer, PBC surveys, Investments, Stocks, SA, YoY chg",None,line
 "China, Consumer, PBC survey, Savings, SA, YoY chg","China, Consumer, PBC survey, Savings, SA, YoY chg",None,line
 "China, Consumer, PBC survey, Willingness to invest, SA, YoY chg","China, Consumer, PBC survey, Willingness to invest, SA, YoY chg",None,line
 "China, Consumer, PBC survey, Purchase intention, Fun, SA, YoY chg","China, Consumer, PBC survey, Purchase intention, Fun, SA, YoY chg",None,line
@@ -779,6 +803,11 @@ name,display_name,data_type,chart_type
 "China, Consumer, PBC survey, Purchase intention, Tourism, 3mma","China, Consumer, PBC survey, Purchase intention, Tourism, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Insurance, 3mma","China, Consumer, PBC survey, Purchase intention, Insurance, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Car, 3mma","China, Consumer, PBC survey, Purchase intention, Car, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, WMPs, 3mma","China, Consumer, PBC surveys, Investments, WMPs, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Products of fund and trust companies, 3mma","China, Consumer, PBC surveys, Investments, Products of fund and trust companies, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Stocks, 3mma","China, Consumer, PBC surveys, Investments, Stocks, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Bonds, 3mma","China, Consumer, PBC surveys, Investments, Bonds, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Saving-type insurance products, 3mma","China, Consumer, PBC surveys, Investments, Saving-type insurance products, 3mma",None,line
 "China, Consumer, PBC survey, Savings, 3mma","China, Consumer, PBC survey, Savings, 3mma",None,line
 "China, Consumer, PBC survey, Price expectation, SA, 3mma","China, Consumer, PBC survey, Price expectation, SA, 3mma",None,line
 "China, Consumer, PBC survey, Income sentiment, SA, 3mma","China, Consumer, PBC survey, Income sentiment, SA, 3mma",None,line
@@ -797,6 +826,9 @@ name,display_name,data_type,chart_type
 "China, Consumer, PBC survey, Purchase intention, Social Culture and Entertainment, SA, 3mma","China, Consumer, PBC survey, Purchase intention, Social Culture and Entertainment, SA, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Tourism, SA, 3mma","China, Consumer, PBC survey, Purchase intention, Tourism, SA, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Insurance, SA, 3mma","China, Consumer, PBC survey, Purchase intention, Insurance, SA, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, WMPs, SA, 3mma","China, Consumer, PBC surveys, Investments, WMPs, SA, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Products of fund and trust companies, SA, 3mma","China, Consumer, PBC surveys, Investments, Products of fund and trust companies, SA, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Stocks, SA, 3mma","China, Consumer, PBC surveys, Investments, Stocks, SA, 3mma",None,line
 "China, Consumer, PBC survey, Savings, SA, 3mma","China, Consumer, PBC survey, Savings, SA, 3mma",None,line
 "China, Consumer, PBC survey, Willingness to invest, SA, 3mma","China, Consumer, PBC survey, Willingness to invest, SA, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Fun, SA, 3mma","China, Consumer, PBC survey, Purchase intention, Fun, SA, 3mma",None,line
@@ -821,6 +853,11 @@ name,display_name,data_type,chart_type
 "China, Consumer, PBC survey, Purchase intention, Tourism, 1M chg, 3mma","China, Consumer, PBC survey, Purchase intention, Tourism, 1M chg, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Insurance, 1M chg, 3mma","China, Consumer, PBC survey, Purchase intention, Insurance, 1M chg, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Car, 1M chg, 3mma","China, Consumer, PBC survey, Purchase intention, Car, 1M chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, WMPs, 1M chg, 3mma","China, Consumer, PBC surveys, Investments, WMPs, 1M chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Products of fund and trust companies, 1M chg, 3mma","China, Consumer, PBC surveys, Investments, Products of fund and trust companies, 1M chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Stocks, 1M chg, 3mma","China, Consumer, PBC surveys, Investments, Stocks, 1M chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Bonds, 1M chg, 3mma","China, Consumer, PBC surveys, Investments, Bonds, 1M chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Saving-type insurance products, 1M chg, 3mma","China, Consumer, PBC surveys, Investments, Saving-type insurance products, 1M chg, 3mma",None,line
 "China, Consumer, PBC survey, Savings, 1M chg, 3mma","China, Consumer, PBC survey, Savings, 1M chg, 3mma",None,line
 "China, Consumer, PBC survey, Price expectation, SA, 1M chg, 3mma","China, Consumer, PBC survey, Price expectation, SA, 1M chg, 3mma",None,line
 "China, Consumer, PBC survey, Income sentiment, SA, 1M chg, 3mma","China, Consumer, PBC survey, Income sentiment, SA, 1M chg, 3mma",None,line
@@ -839,6 +876,9 @@ name,display_name,data_type,chart_type
 "China, Consumer, PBC survey, Purchase intention, Social Culture and Entertainment, SA, 1M chg, 3mma","China, Consumer, PBC survey, Purchase intention, Social Culture and Entertainment, SA, 1M chg, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Tourism, SA, 1M chg, 3mma","China, Consumer, PBC survey, Purchase intention, Tourism, SA, 1M chg, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Insurance, SA, 1M chg, 3mma","China, Consumer, PBC survey, Purchase intention, Insurance, SA, 1M chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, WMPs, SA, 1M chg, 3mma","China, Consumer, PBC surveys, Investments, WMPs, SA, 1M chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Products of fund and trust companies, SA, 1M chg, 3mma","China, Consumer, PBC surveys, Investments, Products of fund and trust companies, SA, 1M chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Stocks, SA, 1M chg, 3mma","China, Consumer, PBC surveys, Investments, Stocks, SA, 1M chg, 3mma",None,line
 "China, Consumer, PBC survey, Savings, SA, 1M chg, 3mma","China, Consumer, PBC survey, Savings, SA, 1M chg, 3mma",None,line
 "China, Consumer, PBC survey, Willingness to invest, SA, 1M chg, 3mma","China, Consumer, PBC survey, Willingness to invest, SA, 1M chg, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Fun, SA, 1M chg, 3mma","China, Consumer, PBC survey, Purchase intention, Fun, SA, 1M chg, 3mma",None,line
@@ -863,6 +903,11 @@ name,display_name,data_type,chart_type
 "China, Consumer, PBC survey, Purchase intention, Tourism, YoY chg, 3mma","China, Consumer, PBC survey, Purchase intention, Tourism, YoY chg, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Insurance, YoY chg, 3mma","China, Consumer, PBC survey, Purchase intention, Insurance, YoY chg, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Car, YoY chg, 3mma","China, Consumer, PBC survey, Purchase intention, Car, YoY chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, WMPs, YoY chg, 3mma","China, Consumer, PBC surveys, Investments, WMPs, YoY chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Products of fund and trust companies, YoY chg, 3mma","China, Consumer, PBC surveys, Investments, Products of fund and trust companies, YoY chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Stocks, YoY chg, 3mma","China, Consumer, PBC surveys, Investments, Stocks, YoY chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Bonds, YoY chg, 3mma","China, Consumer, PBC surveys, Investments, Bonds, YoY chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Saving-type insurance products, YoY chg, 3mma","China, Consumer, PBC surveys, Investments, Saving-type insurance products, YoY chg, 3mma",None,line
 "China, Consumer, PBC survey, Savings, YoY chg, 3mma","China, Consumer, PBC survey, Savings, YoY chg, 3mma",None,line
 "China, Consumer, PBC survey, Price expectation, SA, YoY chg, 3mma","China, Consumer, PBC survey, Price expectation, SA, YoY chg, 3mma",None,line
 "China, Consumer, PBC survey, Income sentiment, SA, YoY chg, 3mma","China, Consumer, PBC survey, Income sentiment, SA, YoY chg, 3mma",None,line
@@ -881,6 +926,9 @@ name,display_name,data_type,chart_type
 "China, Consumer, PBC survey, Purchase intention, Social Culture and Entertainment, SA, YoY chg, 3mma","China, Consumer, PBC survey, Purchase intention, Social Culture and Entertainment, SA, YoY chg, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Tourism, SA, YoY chg, 3mma","China, Consumer, PBC survey, Purchase intention, Tourism, SA, YoY chg, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Insurance, SA, YoY chg, 3mma","China, Consumer, PBC survey, Purchase intention, Insurance, SA, YoY chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, WMPs, SA, YoY chg, 3mma","China, Consumer, PBC surveys, Investments, WMPs, SA, YoY chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Products of fund and trust companies, SA, YoY chg, 3mma","China, Consumer, PBC surveys, Investments, Products of fund and trust companies, SA, YoY chg, 3mma",None,line
+"China, Consumer, PBC surveys, Investments, Stocks, SA, YoY chg, 3mma","China, Consumer, PBC surveys, Investments, Stocks, SA, YoY chg, 3mma",None,line
 "China, Consumer, PBC survey, Savings, SA, YoY chg, 3mma","China, Consumer, PBC survey, Savings, SA, YoY chg, 3mma",None,line
 "China, Consumer, PBC survey, Willingness to invest, SA, YoY chg, 3mma","China, Consumer, PBC survey, Willingness to invest, SA, YoY chg, 3mma",None,line
 "China, Consumer, PBC survey, Purchase intention, Fun, SA, YoY chg, 3mma","China, Consumer, PBC survey, Purchase intention, Fun, SA, YoY chg, 3mma",None,line

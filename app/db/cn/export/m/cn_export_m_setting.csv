@@ -294,6 +294,7 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, Yemen, USD bn","China, Area, Exports, Country, Yemen, USD bn",None,line
 "China, Area, Exports, Country, Zambia, USD bn","China, Area, Exports, Country, Zambia, USD bn",None,line
 "China, Area, Exports, Country, Zimbabwe, USD bn","China, Area, Exports, Country, Zimbabwe, USD bn",None,line
+"China, Area, Exports, Country, nan","China, Area, Exports, Country, nan",None,line
 "China, Area, Imports, Country, Afghanistan, USD bn","China, Area, Imports, Country, Afghanistan, USD bn",None,line
 "China, Area, Imports, Country, Albania, USD bn","China, Area, Imports, Country, Albania, USD bn",None,line
 "China, Area, Imports, Country, Algeria, USD bn","China, Area, Imports, Country, Algeria, USD bn",None,line
@@ -564,6 +565,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Yemen, USD bn","China, Area, Imports, Country, Yemen, USD bn",None,line
 "China, Area, Imports, Country, Zambia, USD bn","China, Area, Imports, Country, Zambia, USD bn",None,line
 "China, Area, Imports, Country, Zimbabwe, USD bn","China, Area, Imports, Country, Zimbabwe, USD bn",None,line
+"China, Area, Imports, Country, nan","China, Area, Imports, Country, nan",None,line
 "China, Area, Exports, Region, North Asia, USD bn","China, Area, Exports, Region, North Asia, USD bn",None,line
 "China, Area, Exports, Region, Developed Europe, USD bn","China, Area, Exports, Region, Developed Europe, USD bn",None,line
 "China, Area, Exports, Region, DM excl Japan, USD bn","China, Area, Exports, Region, DM excl Japan, USD bn",None,line
