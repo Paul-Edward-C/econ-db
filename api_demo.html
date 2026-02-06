@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EAE Data API Demo</title>
+
+    <!-- BokehJS -->
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-3.3.4.min.js"></script>
+    <script src="https://cdn.bokeh.org/bokeh/release/bokeh-api-3.3.4.min.js"></script>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Georgia, 'Times New Roman', serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fafafa;
+            color: #333;
+        }
+
+        h1 {
+            color: #228B22;
+            border-bottom: 2px solid #228B22;
+            padding-bottom: 10px;
+        }
+
+        h2 {
+            color: #556B2F;
+            margin-top: 30px;
+        }
+
+        .search-container {
+            display: flex;
+            gap: 10px;
+            margin: 20px 0;
+            flex-wrap: wrap;
+        }
+
+        .search-container input[type="text"] {
+            flex: 1;
+            min-width: 200px;
+            padding: 12px 15px;
+            font-size: 16px;
+            font-family: Georgia, serif;
+            border: 2px solid #228B22;
+            border-radius: 5px;
+        }
+
+        .search-container select {
+            padding: 12px 15px;
+            font-size: 16px;
+            font-family: Georgia, serif;
+            border: 2px solid #228B22;
+            border-radius: 5px;
+            background: white;
+        }
+
+        .search-container button {
+            padding: 12px 25px;
+            font-size: 16px;
+            font-family: Georgia, serif;
+            background-color: #228B22;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        .search-container button:hover {
+            background-color: #1a6b1a;
+        }
+
+        .results-container {
+            margin: 20px 0;
+        }
+
+        .result-item {
+            padding: 12px 15px;
+            margin: 5px 0;
+            background: rgba(34, 139, 34, 0.05);
+            border-left: 4px solid #228B22;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        .result-item:hover {
+            background: rgba(34, 139, 34, 0.15);
+        }
+
+        .result-item.selected {
+            background: rgba(34, 139, 34, 0.2);
+            border-left-color: #B7410E;
+        }
+
+        .chart-container {
+            margin: 30px 0;
+            min-height: 400px;
+            background: rgba(34, 139, 34, 0.05);
+            border-radius: 5px;
+            padding: 20px;
+        }
+
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 14px;
+        }
+
+        .data-table th {
+            background: #228B22;
+            color: white;
+            padding: 10px;
+            text-align: left;
+        }
+
+        .data-table td {
+            padding: 8px 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .data-table tr:nth-child(even) {
+            background: rgba(34, 139, 34, 0.05);
+        }
+
+        .api-call {
+            background: #2d2d2d;
+            color: #98c379;
+            padding: 15px;
+            border-radius: 5px;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            overflow-x: auto;
+            margin: 10px 0;
+        }
+
+        .status {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+
+        .status.loading {
+            background: #fff3cd;
+            color: #856404;
+        }
+
+        .status.error {
+            background: #f8d7da;
+            color: #721c24;
+        }
+
+        .status.success {
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .info-box {
+            background: rgba(70, 130, 180, 0.1);
+            border-left: 4px solid #4682B4;
+            padding: 15px;
+            margin: 20px 0;
+        }
+
+        .color-palette {
+            display: flex;
+            gap: 10px;
+            margin: 10px 0;
+        }
+
+        .color-swatch {
+            width: 30px;
+            height: 30px;
+            border-radius: 3px;
+        }
+
+        #selected-series {
+            font-weight: bold;
+            color: #B7410E;
+        }
+    </style>
+</head>
+<body>
+    <h1>East Asia Economics Data API</h1>
+
+    <div class="info-box">
+        <strong>API Endpoint:</strong> <code>https://data-api-production-74e0.up.railway.app</code><br>
+        <strong>Coverage:</strong> China, Japan, Korea, Taiwan + Regional data<br>
+        <strong>Frequencies:</strong> Daily, Weekly, Monthly, Quarterly, Annual<br>
+        <strong>Access:</strong> Search is free. Data download requires <a href="https://asiaecon.ghost.io/#/portal/signup" style="color:#228B22;">subscription</a>.
+    </div>
+
+    <h2>Search for Data Series</h2>
+
+    <div class="search-container">
+        <input type="text" id="search-input" placeholder="Search (e.g., CPI, GDP, exports, inflation)..." value="CPI">
+        <select id="freq-select">
+            <option value="m">Monthly</option>
+            <option value="q">Quarterly</option>
+            <option value="a">Annual</option>
+            <option value="d">Daily</option>
+            <option value="w">Weekly</option>
+        </select>
+        <select id="country-select">
+            <option value="">All Countries</option>
+            <option value="cn">China</option>
+            <option value="jp">Japan</option>
+            <option value="kr">Korea</option>
+            <option value="tw">Taiwan</option>
+            <option value="region">Regional</option>
+        </select>
+        <button onclick="searchSeries()">Search</button>
+    </div>
+
+    <div class="api-call" id="search-api-call">
+        GET /search?q=CPI&freq=m&limit=10
+    </div>
+
+    <div id="search-status" class="status" style="display:none;"></div>
+
+    <div class="results-container" id="results-container">
+        <p><em>Enter a search term and click Search to find data series.</em></p>
+    </div>
+
+    <h2>Chart: <span id="selected-series">Select a series above</span></h2>
+
+    <div class="api-call" id="data-api-call" style="display:none;">
+        GET /series?name=...&freq=m
+    </div>
+
+    <div class="chart-container" id="chart-container">
+        <p style="text-align:center; color:#666; padding-top:150px;">
+            Click on a search result to view the chart
+        </p>
+    </div>
+
+    <h2>Recent Data</h2>
+    <div id="data-table-container">
+        <p><em>Data will appear here when you select a series.</em></p>
+    </div>
+
+    <script>
+        // Configuration
+        const API_BASE = 'https://data-api-production-74e0.up.railway.app';
+
+        // Color palette matching your Bokeh theme
+        const COLORS = [
+            '#556B2F', // dark olive green
+            '#B7410E', // rust
+            '#4682B4', // steel blue
+            '#FF7F50', // coral
+            '#228B22', // forest green
+            '#FFBF00', // amber
+            '#87CEEB', // sky blue
+            '#FFDB58'  // mustard
+        ];
+
+        let currentPlot = null;
+
+        // Search for series
+        async function searchSeries() {
+            const query = document.getElementById('search-input').value;
+            const freq = document.getElementById('freq-select').value;
+            const country = document.getElementById('country-select').value;
+
+            if (!query.trim()) {
+                showStatus('search-status', 'Please enter a search term', 'error');
+                return;
+            }
+
+            // Build URL
+            let url = `${API_BASE}/search?q=${encodeURIComponent(query)}&freq=${freq}&limit=15`;
+            if (country) {
+                url += `&country=${country}`;
+            }
+
+            // Show API call
+            document.getElementById('search-api-call').textContent =
+                `GET /search?q=${query}&freq=${freq}${country ? '&country=' + country : ''}&limit=15`;
+
+            showStatus('search-status', 'Searching...', 'loading');
+
+            try {
+                const response = await fetch(url);
+                const data = await response.json();
+
+                if (data.results && data.results.length > 0) {
+                    displayResults(data.results, freq);
+                    showStatus('search-status', `Found ${data.count} series`, 'success');
+                } else {
+                    document.getElementById('results-container').innerHTML =
+                        '<p><em>No results found. Try a different search term.</em></p>';
+                    showStatus('search-status', 'No results found', 'error');
+                }
+            } catch (error) {
+                showStatus('search-status', `Error: ${error.message}`, 'error');
+            }
+        }
+
+        // Display search results
+        function displayResults(results, freq) {
+            const container = document.getElementById('results-container');
+            container.innerHTML = results.map((name, i) =>
+                `<div class="result-item" onclick="selectSeries('${escapeHtml(name)}', '${freq}')">${name}</div>`
+            ).join('');
+        }
+
+        // Select a series and load data
+        async function selectSeries(name, freq) {
+            // Highlight selected
+            document.querySelectorAll('.result-item').forEach(el => el.classList.remove('selected'));
+            event.target.classList.add('selected');
+
+            document.getElementById('selected-series').textContent = name;
+
+            // Show API call
+            const apiCall = `GET /series?name=${encodeURIComponent(name)}&freq=${freq}`;
+            document.getElementById('data-api-call').textContent = apiCall;
+            document.getElementById('data-api-call').style.display = 'block';
+
+            // Fetch data
+            const url = `${API_BASE}/series?name=${encodeURIComponent(name)}&freq=${freq}`;
+
+            document.getElementById('chart-container').innerHTML =
+                '<p style="text-align:center; color:#666; padding-top:150px;">Loading data...</p>';
+
+            try {
+                const response = await fetch(url);
+                const data = await response.json();
+
+                if (data.data && data.data.length > 0) {
+                    plotChart(name, data.data);
+                    displayDataTable(name, data.data);
+                } else if (data.detail && data.detail.includes('Authentication')) {
+                    document.getElementById('chart-container').innerHTML = `
+                        <div style="text-align:center; padding-top:100px;">
+                            <div style="font-size:48px; margin-bottom:20px;">🔒</div>
+                            <h3 style="color:#556B2F; margin-bottom:15px;">Subscription Required</h3>
+                            <p style="color:#666; max-width:400px; margin:0 auto;">
+                                Data access requires an active subscription.
+                                Subscribe to get full access to all economic data series.
+                            </p>
+                            <a href="https://asiaecon.ghost.io/#/portal/signup"
+                               style="display:inline-block; margin-top:20px; padding:12px 25px;
+                                      background:#228B22; color:white; text-decoration:none;
+                                      border-radius:5px; font-family:Georgia,serif;">
+                                Subscribe Now
+                            </a>
+                        </div>`;
+                    document.getElementById('data-table-container').innerHTML = '';
+                } else if (data.error) {
+                    document.getElementById('chart-container').innerHTML =
+                        `<p style="text-align:center; color:#B7410E; padding-top:150px;">${data.error}</p>`;
+                } else {
+                    document.getElementById('chart-container').innerHTML =
+                        '<p style="text-align:center; color:#666; padding-top:150px;">No data available</p>';
+                }
+            } catch (error) {
+                document.getElementById('chart-container').innerHTML =
+                    `<p style="text-align:center; color:#B7410E; padding-top:150px;">Error: ${error.message}</p>`;
+            }
+        }
+
+        // Plot chart using BokehJS
+        function plotChart(seriesName, data) {
+            const container = document.getElementById('chart-container');
+            container.innerHTML = '';
+
+            // Parse dates and values
+            const dates = data.map(d => new Date(d.Date));
+            const values = data.map(d => d[seriesName]);
+
+            // Filter out nulls
+            const validData = dates.map((d, i) => ({date: d, value: values[i]}))
+                                   .filter(d => d.value !== null && d.value !== undefined);
+
+            if (validData.length === 0) {
+                container.innerHTML = '<p style="text-align:center; color:#666; padding-top:150px;">No valid data points</p>';
+                return;
+            }
+
+            const x = validData.map(d => d.date);
+            const y = validData.map(d => d.value);
+
+            // Create data source
+            const source = new Bokeh.ColumnDataSource({
+                data: { x: x, y: y }
+            });
+
+            // Create figure with theme styling
+            const plot = Bokeh.Plotting.figure({
+                title: seriesName,
+                x_axis_type: 'datetime',
+                width: container.offsetWidth - 40,
+                height: 400,
+                background_fill_color: '#228B22',
+                background_fill_alpha: 0.05,
+                tools: 'pan,wheel_zoom,box_zoom,reset,save'
+            });
+
+            // Style the plot
+            plot.title.text_font = 'Georgia';
+            plot.title.text_font_style = 'bold';
+            plot.title.text_font_size = '18px';
+
+            // Add line
+            plot.line({ x: { field: 'x' }, y: { field: 'y' }, source: source,
+                       line_color: COLORS[0], line_width: 2 });
+
+            // Add circle markers
+            plot.circle({ x: { field: 'x' }, y: { field: 'y' }, source: source,
+                         fill_color: COLORS[0], line_color: COLORS[0], size: 4 });
+
+            // Show the plot
+            Bokeh.Plotting.show(plot, container);
+        }
+
+        // Display data table
+        function displayDataTable(seriesName, data) {
+            const container = document.getElementById('data-table-container');
+
+            // Get last 20 rows
+            const recentData = data.slice(-20).reverse();
+
+            let html = `
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>${seriesName}</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+
+            recentData.forEach(row => {
+                const value = row[seriesName];
+                const formattedValue = value !== null && value !== undefined
+                    ? (typeof value === 'number' ? value.toFixed(2) : value)
+                    : '-';
+                html += `<tr><td>${row.Date}</td><td>${formattedValue}</td></tr>`;
+            });
+
+            html += '</tbody></table>';
+            html += `<p><em>Showing most recent 20 observations of ${data.length} total.</em></p>`;
+
+            container.innerHTML = html;
+        }
+
+        // Helper functions
+        function showStatus(elementId, message, type) {
+            const el = document.getElementById(elementId);
+            el.textContent = message;
+            el.className = `status ${type}`;
+            el.style.display = 'block';
+        }
+
+        function escapeHtml(text) {
+            return text.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+        }
+
+        // Search on Enter key
+        document.getElementById('search-input').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') searchSeries();
+        });
+    </script>
+</body>
+</html>
