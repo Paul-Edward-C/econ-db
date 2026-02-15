@@ -266,7 +266,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, SA, KRW bn","Korea, RGDP, Activity, Tertiary, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW bn","Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW bn",None,line
-"Korea, RGDP, Activity, Trading gains or losses, SA, KRW bn","Korea, RGDP, Activity, Trading gains or losses, SA, KRW bn",None,line
+"Korea, RGDP, Trading gains, SA, KRW bn","Korea, RGDP, Trading gains, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW bn","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW bn",None,line
@@ -429,7 +429,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, KRW bn","Korea, RGDP, Activity, Tertiary, KRW bn",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, KRW bn","Korea, RGDP, Activity, Taxes less subsidies on products, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW bn",None,line
-"Korea, RGDP, Activity, Trading gains or losses, KRW bn","Korea, RGDP, Activity, Trading gains or losses, KRW bn",None,line
+"Korea, RGDP, Trading gains, KRW bn","Korea, RGDP, Trading gains, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, KRW bn","Korea, RGDP, Activity, Tertiary, Transportation and storage, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW bn","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW bn",None,line
@@ -578,8 +578,8 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Income, Compensation per worker, KRW","Korea, NGDP, Income, Compensation per worker, KRW",None,line
 "Korea, NGDP, Income, Compensation per total hour worked, KRW","Korea, NGDP, Income, Compensation per total hour worked, KRW",None,line
 "Korea, NGDP, Income, Compensation per average hour worked, KRW","Korea, NGDP, Income, Compensation per average hour worked, KRW",None,line
-"Korea, RGDP, Activity, Trading gains or losses, Share of GDP, %","Korea, RGDP, Activity, Trading gains or losses, Share of GDP, %",None,line
-"Korea, RGDP, Activity, Trading gains or losses, Share of GDI, %","Korea, RGDP, Activity, Trading gains or losses, Share of GDI, %",None,line
+"Korea, RGDP, Trading gains, % of GDP","Korea, RGDP, Trading gains, % of GDP",None,line
+"Korea, RGDP, Trading gains, % of GDI","Korea, RGDP, Trading gains, % of GDI",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Final consumption expenditure, SA, KRW bn, 2013-19 trend","Korea, NGDP, Expenditure, Domestic demand, Final consumption expenditure, SA, KRW bn, 2013-19 trend",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Government consumption, SA, KRW bn, 2013-19 trend","Korea, NGDP, Expenditure, Domestic demand, Government consumption, SA, KRW bn, 2013-19 trend",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Gross capital formation, Gross fixed capital formation, Buildings and structures, SA, KRW bn, 2013-19 trend","Korea, NGDP, Expenditure, Domestic demand, Gross capital formation, Gross fixed capital formation, Buildings and structures, SA, KRW bn, 2013-19 trend",None,line
@@ -705,7 +705,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, SA, KRW bn, 2013-19 trend","Korea, RGDP, Activity, Tertiary, SA, KRW bn, 2013-19 trend",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW bn, 2013-19 trend","Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW bn, 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW bn, 2013-19 trend","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW bn, 2013-19 trend",None,line
-"Korea, RGDP, Activity, Trading gains or losses, SA, KRW bn, 2013-19 trend","Korea, RGDP, Activity, Trading gains or losses, SA, KRW bn, 2013-19 trend",None,line
+"Korea, RGDP, Trading gains, SA, KRW bn, 2013-19 trend","Korea, RGDP, Trading gains, SA, KRW bn, 2013-19 trend",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW bn, 2013-19 trend","Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW bn, 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW bn, 2013-19 trend","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW bn, 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW bn, 2013-19 trend","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW bn, 2013-19 trend",None,line
@@ -930,7 +930,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, SA, KRW bn, Poly 2013-19 trend","Korea, RGDP, Activity, Tertiary, SA, KRW bn, Poly 2013-19 trend",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW bn, Poly 2013-19 trend","Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW bn, Poly 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW bn, Poly 2013-19 trend","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW bn, Poly 2013-19 trend",None,line
-"Korea, RGDP, Activity, Trading gains or losses, SA, KRW bn, Poly 2013-19 trend","Korea, RGDP, Activity, Trading gains or losses, SA, KRW bn, Poly 2013-19 trend",None,line
+"Korea, RGDP, Trading gains, SA, KRW bn, Poly 2013-19 trend","Korea, RGDP, Trading gains, SA, KRW bn, Poly 2013-19 trend",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW bn, Poly 2013-19 trend","Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW bn, Poly 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW bn, Poly 2013-19 trend","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW bn, Poly 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW bn, Poly 2013-19 trend","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW bn, Poly 2013-19 trend",None,line
@@ -1280,8 +1280,8 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW bn, % of Poly 2013-19 trend","Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW bn, % of Poly 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW bn, % of 2013-19 trend","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW bn, % of 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW bn, % of Poly 2013-19 trend","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW bn, % of Poly 2013-19 trend",None,line
-"Korea, RGDP, Activity, Trading gains or losses, SA, KRW bn, % of 2013-19 trend","Korea, RGDP, Activity, Trading gains or losses, SA, KRW bn, % of 2013-19 trend",None,line
-"Korea, RGDP, Activity, Trading gains or losses, SA, KRW bn, % of Poly 2013-19 trend","Korea, RGDP, Activity, Trading gains or losses, SA, KRW bn, % of Poly 2013-19 trend",None,line
+"Korea, RGDP, Trading gains, SA, KRW bn, % of 2013-19 trend","Korea, RGDP, Trading gains, SA, KRW bn, % of 2013-19 trend",None,line
+"Korea, RGDP, Trading gains, SA, KRW bn, % of Poly 2013-19 trend","Korea, RGDP, Trading gains, SA, KRW bn, % of Poly 2013-19 trend",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW bn, % of 2013-19 trend","Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW bn, % of 2013-19 trend",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW bn, % of Poly 2013-19 trend","Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW bn, % of Poly 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW bn, % of 2013-19 trend","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW bn, % of 2013-19 trend",None,line
@@ -1591,7 +1591,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, SA, % YoY","Korea, RGDP, Activity, Tertiary, SA, % YoY",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, SA, % YoY","Korea, RGDP, Activity, Taxes less subsidies on products, SA, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, % YoY",None,line
-"Korea, RGDP, Activity, Trading gains or losses, SA, % YoY","Korea, RGDP, Activity, Trading gains or losses, SA, % YoY",None,line
+"Korea, RGDP, Trading gains, SA, % YoY","Korea, RGDP, Trading gains, SA, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, % YoY","Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, % YoY","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, % YoY",None,line
@@ -1648,7 +1648,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, % YoY","Korea, RGDP, Activity, Tertiary, % YoY",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, % YoY","Korea, RGDP, Activity, Taxes less subsidies on products, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, % YoY",None,line
-"Korea, RGDP, Activity, Trading gains or losses, % YoY","Korea, RGDP, Activity, Trading gains or losses, % YoY",None,line
+"Korea, RGDP, Trading gains, % YoY","Korea, RGDP, Trading gains, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, % YoY","Korea, RGDP, Activity, Tertiary, Transportation and storage, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, % YoY","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, % YoY",None,line
@@ -1781,7 +1781,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, SA, % QoQ","Korea, RGDP, Activity, Tertiary, SA, % QoQ",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, SA, % QoQ","Korea, RGDP, Activity, Taxes less subsidies on products, SA, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, % QoQ",None,line
-"Korea, RGDP, Activity, Trading gains or losses, SA, % QoQ","Korea, RGDP, Activity, Trading gains or losses, SA, % QoQ",None,line
+"Korea, RGDP, Trading gains, SA, % QoQ","Korea, RGDP, Trading gains, SA, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, % QoQ","Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, % QoQ","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, % QoQ",None,line
@@ -1838,7 +1838,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, % QoQ","Korea, RGDP, Activity, Tertiary, % QoQ",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, % QoQ","Korea, RGDP, Activity, Taxes less subsidies on products, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, % QoQ",None,line
-"Korea, RGDP, Activity, Trading gains or losses, % QoQ","Korea, RGDP, Activity, Trading gains or losses, % QoQ",None,line
+"Korea, RGDP, Trading gains, % QoQ","Korea, RGDP, Trading gains, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, % QoQ","Korea, RGDP, Activity, Tertiary, Transportation and storage, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, % QoQ","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, % QoQ",None,line
@@ -2707,7 +2707,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, SA, KRW tn","Korea, RGDP, Activity, Tertiary, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW tn","Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW tn",None,line
-"Korea, RGDP, Activity, Trading gains or losses, SA, KRW tn","Korea, RGDP, Activity, Trading gains or losses, SA, KRW tn",None,line
+"Korea, RGDP, Trading gains, SA, KRW tn","Korea, RGDP, Trading gains, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW tn","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW tn",None,line
@@ -2870,7 +2870,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, KRW tn","Korea, RGDP, Activity, Tertiary, KRW tn",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, KRW tn","Korea, RGDP, Activity, Taxes less subsidies on products, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW tn",None,line
-"Korea, RGDP, Activity, Trading gains or losses, KRW tn","Korea, RGDP, Activity, Trading gains or losses, KRW tn",None,line
+"Korea, RGDP, Trading gains, KRW tn","Korea, RGDP, Trading gains, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, KRW tn","Korea, RGDP, Activity, Tertiary, Transportation and storage, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW tn","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW tn",None,line
@@ -3023,7 +3023,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, SA, KRW tn, 2013-19 trend","Korea, RGDP, Activity, Tertiary, SA, KRW tn, 2013-19 trend",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW tn, 2013-19 trend","Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW tn, 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW tn, 2013-19 trend","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW tn, 2013-19 trend",None,line
-"Korea, RGDP, Activity, Trading gains or losses, SA, KRW tn, 2013-19 trend","Korea, RGDP, Activity, Trading gains or losses, SA, KRW tn, 2013-19 trend",None,line
+"Korea, RGDP, Trading gains, SA, KRW tn, 2013-19 trend","Korea, RGDP, Trading gains, SA, KRW tn, 2013-19 trend",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW tn, 2013-19 trend","Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW tn, 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW tn, 2013-19 trend","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW tn, 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW tn, 2013-19 trend","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW tn, 2013-19 trend",None,line
@@ -3226,7 +3226,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, SA, KRW tn, Poly 2013-19 trend","Korea, RGDP, Activity, Tertiary, SA, KRW tn, Poly 2013-19 trend",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW tn, Poly 2013-19 trend","Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW tn, Poly 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW tn, Poly 2013-19 trend","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW tn, Poly 2013-19 trend",None,line
-"Korea, RGDP, Activity, Trading gains or losses, SA, KRW tn, Poly 2013-19 trend","Korea, RGDP, Activity, Trading gains or losses, SA, KRW tn, Poly 2013-19 trend",None,line
+"Korea, RGDP, Trading gains, SA, KRW tn, Poly 2013-19 trend","Korea, RGDP, Trading gains, SA, KRW tn, Poly 2013-19 trend",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW tn, Poly 2013-19 trend","Korea, RGDP, Activity, Tertiary, Transportation and storage, SA, KRW tn, Poly 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW tn, Poly 2013-19 trend","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW tn, Poly 2013-19 trend",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW tn, Poly 2013-19 trend","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW tn, Poly 2013-19 trend",None,line

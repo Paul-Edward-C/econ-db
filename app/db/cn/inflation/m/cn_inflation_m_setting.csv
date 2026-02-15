@@ -93,8 +93,12 @@ name,display_name,data_type,chart_type
 "China, CPI, Transport and communication, Maintenance, % YoY","China, CPI, Transport and communication, Maintenance, % YoY",None,line
 "China, CPI, Transport and communication, Postal services, % MoM","China, CPI, Transport and communication, Postal services, % MoM",None,line
 "China, CPI, Transport and communication, Postal services, % YoY","China, CPI, Transport and communication, Postal services, % YoY",None,line
+"China, CPI, Transport and communication, Small car, % MoM","China, CPI, Transport and communication, Small car, % MoM",None,line
+"China, CPI, Transport and communication, Small car, % YoY","China, CPI, Transport and communication, Small car, % YoY",None,line
 "China, CPI, Transport and communication, Transport facility, % MoM","China, CPI, Transport and communication, Transport facility, % MoM",None,line
 "China, CPI, Transport and communication, Transport facility, % YoY","China, CPI, Transport and communication, Transport facility, % YoY",None,line
+"China, CPI, Travel and tourism, % MoM","China, CPI, Travel and tourism, % MoM",None,line
+"China, CPI, Travel and tourism, % YoY","China, CPI, Travel and tourism, % YoY",None,line
 "China, CPI, Urban, % MoM","China, CPI, Urban, % MoM",None,line
 "China, CPI, Urban, % YoY","China, CPI, Urban, % YoY",None,line
 "China, CPI, All items, Index, SA","China, CPI, All items, Index, SA",None,line
@@ -164,15 +168,15 @@ name,display_name,data_type,chart_type
 "China, CPI, Transport and communication, Fuels, Index","China, CPI, Transport and communication, Fuels, Index",None,line
 "China, CPI, Transport and communication, Maintenance, Index","China, CPI, Transport and communication, Maintenance, Index",None,line
 "China, CPI, Transport and communication, Postal services, Index","China, CPI, Transport and communication, Postal services, Index",None,line
+"China, CPI, Transport and communication, Small car, Index","China, CPI, Transport and communication, Small car, Index",None,line
 "China, CPI, Transport and communication, Transport facility, Index","China, CPI, Transport and communication, Transport facility, Index",None,line
+"China, CPI, Travel and tourism, Index","China, CPI, Travel and tourism, Index",None,line
 "China, CPI, Urban, Index","China, CPI, Urban, Index",None,line
 "China, CPI, All items weighted by group, % YoY, Calculated","China, CPI, All items weighted by group, % YoY, Calculated",None,line
 "China, CPI, Core weighted by group, % YoY, Calculated","China, CPI, Core weighted by group, % YoY, Calculated",None,line
 "China, CPI, All items weighted by goods and services, % YoY, Calculated","China, CPI, All items weighted by goods and services, % YoY, Calculated",None,line
 "China, CPI, Goods excluding food including alcohol and tobacco, % YoY","China, CPI, Goods excluding food including alcohol and tobacco, % YoY",None,line
 "China, CPI, Goods weighted by food and other, % YoY, Calculated","China, CPI, Goods weighted by food and other, % YoY, Calculated",None,line
-"China, CPI, 2021-25 basket, Energy, % YoY","China, CPI, 2021-25 basket, Energy, % YoY",None,line
-"China, CPI, 2021-25 basket, All items, Weighted average of food, energy and core, % YoY, Calculated","China, CPI, 2021-25 basket, All items, Weighted average of food, energy and core, % YoY, Calculated",None,line
 "China, CPI, 2021-25 basket, All items, Broad trimmed mean, % YoY","China, CPI, 2021-25 basket, All items, Broad trimmed mean, % YoY",None,line
 "China, CPI, 2021-25 basket, All items, Narrow trimmed mean, % YoY","China, CPI, 2021-25 basket, All items, Narrow trimmed mean, % YoY",None,line
 "China, CPI, Food including alcohol and tobacco, Contribution to % YoY change in all items, ppts","China, CPI, Food including alcohol and tobacco, Contribution to % YoY change in all items, ppts",None,bar
@@ -191,15 +195,15 @@ name,display_name,data_type,chart_type
 "China, CPI, Healthcare, Contribution to % YoY change in all items excluding food, ppts","China, CPI, Healthcare, Contribution to % YoY change in all items excluding food, ppts",None,bar
 "China, CPI, Miscellanous goods and services, Contribution to % YoY change in all items excluding food, ppts","China, CPI, Miscellanous goods and services, Contribution to % YoY change in all items excluding food, ppts",None,bar
 "China, CPI, Clothing and footwear, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Clothing and footwear, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
-"China, CPI, Residence, Rental, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Residence, Rental, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
+"China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
+"China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
 "China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
+"China, CPI, Residence, Rental, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Residence, Rental, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
 "China, CPI, Transport and communication, Communication goods, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Transport and communication, Communication goods, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
 "China, CPI, Transport and communication, Communication services, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Transport and communication, Communication services, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
 "China, CPI, Transport and communication, Maintenance, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Transport and communication, Maintenance, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
 "China, CPI, Transport and communication, Postal services, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Transport and communication, Postal services, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
 "China, CPI, Transport and communication, Transport facility, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Transport and communication, Transport facility, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
-"China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
-"China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
 "China, CPI, All items excluding food and energy and miscellaneous, % YoY","China, CPI, All items excluding food and energy and miscellaneous, % YoY",None,line
 "China, CPI, 2016-20 basket, All items, Broad trimmed mean, % YoY","China, CPI, 2016-20 basket, All items, Broad trimmed mean, % YoY",None,line
 "China, CPI, 2016-20 basket, All items, Narrow trimmed mean, % YoY","China, CPI, 2016-20 basket, All items, Narrow trimmed mean, % YoY",None,line
@@ -311,8 +315,12 @@ name,display_name,data_type,chart_type
 "China, CPI, Transport and communication, Maintenance, % YoY, 3mma","China, CPI, Transport and communication, Maintenance, % YoY, 3mma",None,line
 "China, CPI, Transport and communication, Postal services, % MoM, 3mma","China, CPI, Transport and communication, Postal services, % MoM, 3mma",None,line
 "China, CPI, Transport and communication, Postal services, % YoY, 3mma","China, CPI, Transport and communication, Postal services, % YoY, 3mma",None,line
+"China, CPI, Transport and communication, Small car, % MoM, 3mma","China, CPI, Transport and communication, Small car, % MoM, 3mma",None,line
+"China, CPI, Transport and communication, Small car, % YoY, 3mma","China, CPI, Transport and communication, Small car, % YoY, 3mma",None,line
 "China, CPI, Transport and communication, Transport facility, % MoM, 3mma","China, CPI, Transport and communication, Transport facility, % MoM, 3mma",None,line
 "China, CPI, Transport and communication, Transport facility, % YoY, 3mma","China, CPI, Transport and communication, Transport facility, % YoY, 3mma",None,line
+"China, CPI, Travel and tourism, % MoM, 3mma","China, CPI, Travel and tourism, % MoM, 3mma",None,line
+"China, CPI, Travel and tourism, % YoY, 3mma","China, CPI, Travel and tourism, % YoY, 3mma",None,line
 "China, CPI, Urban, % MoM, 3mma","China, CPI, Urban, % MoM, 3mma",None,line
 "China, CPI, Urban, % YoY, 3mma","China, CPI, Urban, % YoY, 3mma",None,line
 "China, CPI, All items, Index, SA, 3mma","China, CPI, All items, Index, SA, 3mma",None,line
@@ -382,15 +390,15 @@ name,display_name,data_type,chart_type
 "China, CPI, Transport and communication, Fuels, Index, 3mma","China, CPI, Transport and communication, Fuels, Index, 3mma",None,line
 "China, CPI, Transport and communication, Maintenance, Index, 3mma","China, CPI, Transport and communication, Maintenance, Index, 3mma",None,line
 "China, CPI, Transport and communication, Postal services, Index, 3mma","China, CPI, Transport and communication, Postal services, Index, 3mma",None,line
+"China, CPI, Transport and communication, Small car, Index, 3mma","China, CPI, Transport and communication, Small car, Index, 3mma",None,line
 "China, CPI, Transport and communication, Transport facility, Index, 3mma","China, CPI, Transport and communication, Transport facility, Index, 3mma",None,line
+"China, CPI, Travel and tourism, Index, 3mma","China, CPI, Travel and tourism, Index, 3mma",None,line
 "China, CPI, Urban, Index, 3mma","China, CPI, Urban, Index, 3mma",None,line
 "China, CPI, All items weighted by group, % YoY, Calculated, 3mma","China, CPI, All items weighted by group, % YoY, Calculated, 3mma",None,line
 "China, CPI, Core weighted by group, % YoY, Calculated, 3mma","China, CPI, Core weighted by group, % YoY, Calculated, 3mma",None,line
 "China, CPI, All items weighted by goods and services, % YoY, Calculated, 3mma","China, CPI, All items weighted by goods and services, % YoY, Calculated, 3mma",None,line
 "China, CPI, Goods excluding food including alcohol and tobacco, % YoY, 3mma","China, CPI, Goods excluding food including alcohol and tobacco, % YoY, 3mma",None,line
 "China, CPI, Goods weighted by food and other, % YoY, Calculated, 3mma","China, CPI, Goods weighted by food and other, % YoY, Calculated, 3mma",None,line
-"China, CPI, 2021-25 basket, Energy, % YoY, 3mma","China, CPI, 2021-25 basket, Energy, % YoY, 3mma",None,line
-"China, CPI, 2021-25 basket, All items, Weighted average of food, energy and core, % YoY, Calculated, 3mma","China, CPI, 2021-25 basket, All items, Weighted average of food, energy and core, % YoY, Calculated, 3mma",None,line
 "China, CPI, 2021-25 basket, All items, Broad trimmed mean, % YoY, 3mma","China, CPI, 2021-25 basket, All items, Broad trimmed mean, % YoY, 3mma",None,line
 "China, CPI, 2021-25 basket, All items, Narrow trimmed mean, % YoY, 3mma","China, CPI, 2021-25 basket, All items, Narrow trimmed mean, % YoY, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, Contribution to % YoY change in all items, ppts, 3mma","China, CPI, Food including alcohol and tobacco, Contribution to % YoY change in all items, ppts, 3mma",None,bar
@@ -409,15 +417,15 @@ name,display_name,data_type,chart_type
 "China, CPI, Healthcare, Contribution to % YoY change in all items excluding food, ppts, 3mma","China, CPI, Healthcare, Contribution to % YoY change in all items excluding food, ppts, 3mma",None,bar
 "China, CPI, Miscellanous goods and services, Contribution to % YoY change in all items excluding food, ppts, 3mma","China, CPI, Miscellanous goods and services, Contribution to % YoY change in all items excluding food, ppts, 3mma",None,bar
 "China, CPI, Clothing and footwear, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Clothing and footwear, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
-"China, CPI, Residence, Rental, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Residence, Rental, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
+"China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
+"China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
 "China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
+"China, CPI, Residence, Rental, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Residence, Rental, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
 "China, CPI, Transport and communication, Communication goods, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Transport and communication, Communication goods, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
 "China, CPI, Transport and communication, Communication services, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Transport and communication, Communication services, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
 "China, CPI, Transport and communication, Maintenance, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Transport and communication, Maintenance, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
 "China, CPI, Transport and communication, Postal services, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Transport and communication, Postal services, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
 "China, CPI, Transport and communication, Transport facility, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Transport and communication, Transport facility, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
-"China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
-"China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
 "China, CPI, All items excluding food and energy and miscellaneous, % YoY, 3mma","China, CPI, All items excluding food and energy and miscellaneous, % YoY, 3mma",None,line
 "China, CPI, 2016-20 basket, All items, Broad trimmed mean, % YoY, 3mma","China, CPI, 2016-20 basket, All items, Broad trimmed mean, % YoY, 3mma",None,line
 "China, CPI, 2016-20 basket, All items, Narrow trimmed mean, % YoY, 3mma","China, CPI, 2016-20 basket, All items, Narrow trimmed mean, % YoY, 3mma",None,line
