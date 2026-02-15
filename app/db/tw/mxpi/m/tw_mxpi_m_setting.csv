@@ -25,12 +25,11 @@ name,display_name,data_type,chart_type
 "Taiwan, EPI, USD basis, Wood pulp and paper, Wood pulp, Index","Taiwan, EPI, USD basis, Wood pulp and paper, Wood pulp, Index",None,line
 "Taiwan, EPI, USD basis, Wood pulp and paper, Paper, Index","Taiwan, EPI, USD basis, Wood pulp and paper, Paper, Index",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Index","Taiwan, EPI, USD basis, Textiles and textile articles, Index",None,line
-"Taiwan, EPI, USD basis, Textiles and textile articles, Cotton, Index","Taiwan, EPI, USD basis, Textiles and textile articles, Cotton, Index",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Manmade filaments, Index","Taiwan, EPI, USD basis, Textiles and textile articles, Manmade filaments, Index",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Manmade staple fibres, Index","Taiwan, EPI, USD basis, Textiles and textile articles, Manmade staple fibres, Index",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Lace and narrow woven fabrics, Index","Taiwan, EPI, USD basis, Textiles and textile articles, Lace and narrow woven fabrics, Index",None,line
-"Taiwan, EPI, USD basis, Textiles and textile articles, Impregnated and coated fabrics, Index","Taiwan, EPI, USD basis, Textiles and textile articles, Impregnated and coated fabrics, Index",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Knitted or crocheted fabrics, Index","Taiwan, EPI, USD basis, Textiles and textile articles, Knitted or crocheted fabrics, Index",None,line
+"Taiwan, EPI, USD basis, Nan, Index","Taiwan, EPI, USD basis, Nan, Index",None,line
 "Taiwan, EPI, USD basis, Stone materials and glass, Index","Taiwan, EPI, USD basis, Stone materials and glass, Index",None,line
 "Taiwan, EPI, USD basis, Stone materials and glass, Glass, Index","Taiwan, EPI, USD basis, Stone materials and glass, Glass, Index",None,line
 "Taiwan, EPI, USD basis, Base metals, Index","Taiwan, EPI, USD basis, Base metals, Index",None,line
@@ -79,12 +78,11 @@ name,display_name,data_type,chart_type
 "Taiwan, EPI, TWD basis, Wood pulp and paper, Wood pulp, Index","Taiwan, EPI, TWD basis, Wood pulp and paper, Wood pulp, Index",None,line
 "Taiwan, EPI, TWD basis, Wood pulp and paper, Paper, Index","Taiwan, EPI, TWD basis, Wood pulp and paper, Paper, Index",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Index","Taiwan, EPI, TWD basis, Textiles and textile articles, Index",None,line
-"Taiwan, EPI, TWD basis, Textiles and textile articles, Cotton, Index","Taiwan, EPI, TWD basis, Textiles and textile articles, Cotton, Index",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade filaments, Index","Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade filaments, Index",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade staple fibres, Index","Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade staple fibres, Index",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Lace and narrow woven fabrics, Index","Taiwan, EPI, TWD basis, Textiles and textile articles, Lace and narrow woven fabrics, Index",None,line
-"Taiwan, EPI, TWD basis, Textiles and textile articles, Impregnated and coated fabrics, Index","Taiwan, EPI, TWD basis, Textiles and textile articles, Impregnated and coated fabrics, Index",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Knitted or crocheted fabrics, Index","Taiwan, EPI, TWD basis, Textiles and textile articles, Knitted or crocheted fabrics, Index",None,line
+"Taiwan, EPI, TWD basis, Nan, Index","Taiwan, EPI, TWD basis, Nan, Index",None,line
 "Taiwan, EPI, TWD basis, Stone materials and glass, Index","Taiwan, EPI, TWD basis, Stone materials and glass, Index",None,line
 "Taiwan, EPI, TWD basis, Stone materials and glass, Glass, Index","Taiwan, EPI, TWD basis, Stone materials and glass, Glass, Index",None,line
 "Taiwan, EPI, TWD basis, Base metals, Index","Taiwan, EPI, TWD basis, Base metals, Index",None,line
@@ -152,12 +150,11 @@ name,display_name,data_type,chart_type
 "Taiwan, EPI, USD basis, Wood pulp and paper, Wood pulp, % YoY","Taiwan, EPI, USD basis, Wood pulp and paper, Wood pulp, % YoY",None,line
 "Taiwan, EPI, USD basis, Wood pulp and paper, Paper, % YoY","Taiwan, EPI, USD basis, Wood pulp and paper, Paper, % YoY",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, % YoY","Taiwan, EPI, USD basis, Textiles and textile articles, % YoY",None,line
-"Taiwan, EPI, USD basis, Textiles and textile articles, Cotton, % YoY","Taiwan, EPI, USD basis, Textiles and textile articles, Cotton, % YoY",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Manmade filaments, % YoY","Taiwan, EPI, USD basis, Textiles and textile articles, Manmade filaments, % YoY",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Manmade staple fibres, % YoY","Taiwan, EPI, USD basis, Textiles and textile articles, Manmade staple fibres, % YoY",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Lace and narrow woven fabrics, % YoY","Taiwan, EPI, USD basis, Textiles and textile articles, Lace and narrow woven fabrics, % YoY",None,line
-"Taiwan, EPI, USD basis, Textiles and textile articles, Impregnated and coated fabrics, % YoY","Taiwan, EPI, USD basis, Textiles and textile articles, Impregnated and coated fabrics, % YoY",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Knitted or crocheted fabrics, % YoY","Taiwan, EPI, USD basis, Textiles and textile articles, Knitted or crocheted fabrics, % YoY",None,line
+"Taiwan, EPI, USD basis, Nan, % YoY","Taiwan, EPI, USD basis, Nan, % YoY",None,line
 "Taiwan, EPI, USD basis, Stone materials and glass, % YoY","Taiwan, EPI, USD basis, Stone materials and glass, % YoY",None,line
 "Taiwan, EPI, USD basis, Stone materials and glass, Glass, % YoY","Taiwan, EPI, USD basis, Stone materials and glass, Glass, % YoY",None,line
 "Taiwan, EPI, USD basis, Base metals, % YoY","Taiwan, EPI, USD basis, Base metals, % YoY",None,line
@@ -206,12 +203,11 @@ name,display_name,data_type,chart_type
 "Taiwan, EPI, TWD basis, Wood pulp and paper, Wood pulp, % YoY","Taiwan, EPI, TWD basis, Wood pulp and paper, Wood pulp, % YoY",None,line
 "Taiwan, EPI, TWD basis, Wood pulp and paper, Paper, % YoY","Taiwan, EPI, TWD basis, Wood pulp and paper, Paper, % YoY",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, % YoY","Taiwan, EPI, TWD basis, Textiles and textile articles, % YoY",None,line
-"Taiwan, EPI, TWD basis, Textiles and textile articles, Cotton, % YoY","Taiwan, EPI, TWD basis, Textiles and textile articles, Cotton, % YoY",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade filaments, % YoY","Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade filaments, % YoY",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade staple fibres, % YoY","Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade staple fibres, % YoY",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Lace and narrow woven fabrics, % YoY","Taiwan, EPI, TWD basis, Textiles and textile articles, Lace and narrow woven fabrics, % YoY",None,line
-"Taiwan, EPI, TWD basis, Textiles and textile articles, Impregnated and coated fabrics, % YoY","Taiwan, EPI, TWD basis, Textiles and textile articles, Impregnated and coated fabrics, % YoY",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Knitted or crocheted fabrics, % YoY","Taiwan, EPI, TWD basis, Textiles and textile articles, Knitted or crocheted fabrics, % YoY",None,line
+"Taiwan, EPI, TWD basis, Nan, % YoY","Taiwan, EPI, TWD basis, Nan, % YoY",None,line
 "Taiwan, EPI, TWD basis, Stone materials and glass, % YoY","Taiwan, EPI, TWD basis, Stone materials and glass, % YoY",None,line
 "Taiwan, EPI, TWD basis, Stone materials and glass, Glass, % YoY","Taiwan, EPI, TWD basis, Stone materials and glass, Glass, % YoY",None,line
 "Taiwan, EPI, TWD basis, Base metals, % YoY","Taiwan, EPI, TWD basis, Base metals, % YoY",None,line
@@ -289,12 +285,11 @@ name,display_name,data_type,chart_type
 "Taiwan, EPI, USD basis, Wood pulp and paper, Wood pulp, Index, 3mma","Taiwan, EPI, USD basis, Wood pulp and paper, Wood pulp, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Wood pulp and paper, Paper, Index, 3mma","Taiwan, EPI, USD basis, Wood pulp and paper, Paper, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Index, 3mma","Taiwan, EPI, USD basis, Textiles and textile articles, Index, 3mma",None,line
-"Taiwan, EPI, USD basis, Textiles and textile articles, Cotton, Index, 3mma","Taiwan, EPI, USD basis, Textiles and textile articles, Cotton, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Manmade filaments, Index, 3mma","Taiwan, EPI, USD basis, Textiles and textile articles, Manmade filaments, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Manmade staple fibres, Index, 3mma","Taiwan, EPI, USD basis, Textiles and textile articles, Manmade staple fibres, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Lace and narrow woven fabrics, Index, 3mma","Taiwan, EPI, USD basis, Textiles and textile articles, Lace and narrow woven fabrics, Index, 3mma",None,line
-"Taiwan, EPI, USD basis, Textiles and textile articles, Impregnated and coated fabrics, Index, 3mma","Taiwan, EPI, USD basis, Textiles and textile articles, Impregnated and coated fabrics, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Knitted or crocheted fabrics, Index, 3mma","Taiwan, EPI, USD basis, Textiles and textile articles, Knitted or crocheted fabrics, Index, 3mma",None,line
+"Taiwan, EPI, USD basis, Nan, Index, 3mma","Taiwan, EPI, USD basis, Nan, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Stone materials and glass, Index, 3mma","Taiwan, EPI, USD basis, Stone materials and glass, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Stone materials and glass, Glass, Index, 3mma","Taiwan, EPI, USD basis, Stone materials and glass, Glass, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Base metals, Index, 3mma","Taiwan, EPI, USD basis, Base metals, Index, 3mma",None,line
@@ -343,12 +338,11 @@ name,display_name,data_type,chart_type
 "Taiwan, EPI, TWD basis, Wood pulp and paper, Wood pulp, Index, 3mma","Taiwan, EPI, TWD basis, Wood pulp and paper, Wood pulp, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Wood pulp and paper, Paper, Index, 3mma","Taiwan, EPI, TWD basis, Wood pulp and paper, Paper, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Index, 3mma","Taiwan, EPI, TWD basis, Textiles and textile articles, Index, 3mma",None,line
-"Taiwan, EPI, TWD basis, Textiles and textile articles, Cotton, Index, 3mma","Taiwan, EPI, TWD basis, Textiles and textile articles, Cotton, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade filaments, Index, 3mma","Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade filaments, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade staple fibres, Index, 3mma","Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade staple fibres, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Lace and narrow woven fabrics, Index, 3mma","Taiwan, EPI, TWD basis, Textiles and textile articles, Lace and narrow woven fabrics, Index, 3mma",None,line
-"Taiwan, EPI, TWD basis, Textiles and textile articles, Impregnated and coated fabrics, Index, 3mma","Taiwan, EPI, TWD basis, Textiles and textile articles, Impregnated and coated fabrics, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Knitted or crocheted fabrics, Index, 3mma","Taiwan, EPI, TWD basis, Textiles and textile articles, Knitted or crocheted fabrics, Index, 3mma",None,line
+"Taiwan, EPI, TWD basis, Nan, Index, 3mma","Taiwan, EPI, TWD basis, Nan, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Stone materials and glass, Index, 3mma","Taiwan, EPI, TWD basis, Stone materials and glass, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Stone materials and glass, Glass, Index, 3mma","Taiwan, EPI, TWD basis, Stone materials and glass, Glass, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Base metals, Index, 3mma","Taiwan, EPI, TWD basis, Base metals, Index, 3mma",None,line
@@ -416,12 +410,11 @@ name,display_name,data_type,chart_type
 "Taiwan, EPI, USD basis, Wood pulp and paper, Wood pulp, % YoY, 3mma","Taiwan, EPI, USD basis, Wood pulp and paper, Wood pulp, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Wood pulp and paper, Paper, % YoY, 3mma","Taiwan, EPI, USD basis, Wood pulp and paper, Paper, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, % YoY, 3mma","Taiwan, EPI, USD basis, Textiles and textile articles, % YoY, 3mma",None,line
-"Taiwan, EPI, USD basis, Textiles and textile articles, Cotton, % YoY, 3mma","Taiwan, EPI, USD basis, Textiles and textile articles, Cotton, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Manmade filaments, % YoY, 3mma","Taiwan, EPI, USD basis, Textiles and textile articles, Manmade filaments, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Manmade staple fibres, % YoY, 3mma","Taiwan, EPI, USD basis, Textiles and textile articles, Manmade staple fibres, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Lace and narrow woven fabrics, % YoY, 3mma","Taiwan, EPI, USD basis, Textiles and textile articles, Lace and narrow woven fabrics, % YoY, 3mma",None,line
-"Taiwan, EPI, USD basis, Textiles and textile articles, Impregnated and coated fabrics, % YoY, 3mma","Taiwan, EPI, USD basis, Textiles and textile articles, Impregnated and coated fabrics, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Textiles and textile articles, Knitted or crocheted fabrics, % YoY, 3mma","Taiwan, EPI, USD basis, Textiles and textile articles, Knitted or crocheted fabrics, % YoY, 3mma",None,line
+"Taiwan, EPI, USD basis, Nan, % YoY, 3mma","Taiwan, EPI, USD basis, Nan, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Stone materials and glass, % YoY, 3mma","Taiwan, EPI, USD basis, Stone materials and glass, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Stone materials and glass, Glass, % YoY, 3mma","Taiwan, EPI, USD basis, Stone materials and glass, Glass, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Base metals, % YoY, 3mma","Taiwan, EPI, USD basis, Base metals, % YoY, 3mma",None,line
@@ -470,12 +463,11 @@ name,display_name,data_type,chart_type
 "Taiwan, EPI, TWD basis, Wood pulp and paper, Wood pulp, % YoY, 3mma","Taiwan, EPI, TWD basis, Wood pulp and paper, Wood pulp, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Wood pulp and paper, Paper, % YoY, 3mma","Taiwan, EPI, TWD basis, Wood pulp and paper, Paper, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, % YoY, 3mma","Taiwan, EPI, TWD basis, Textiles and textile articles, % YoY, 3mma",None,line
-"Taiwan, EPI, TWD basis, Textiles and textile articles, Cotton, % YoY, 3mma","Taiwan, EPI, TWD basis, Textiles and textile articles, Cotton, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade filaments, % YoY, 3mma","Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade filaments, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade staple fibres, % YoY, 3mma","Taiwan, EPI, TWD basis, Textiles and textile articles, Manmade staple fibres, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Lace and narrow woven fabrics, % YoY, 3mma","Taiwan, EPI, TWD basis, Textiles and textile articles, Lace and narrow woven fabrics, % YoY, 3mma",None,line
-"Taiwan, EPI, TWD basis, Textiles and textile articles, Impregnated and coated fabrics, % YoY, 3mma","Taiwan, EPI, TWD basis, Textiles and textile articles, Impregnated and coated fabrics, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Textiles and textile articles, Knitted or crocheted fabrics, % YoY, 3mma","Taiwan, EPI, TWD basis, Textiles and textile articles, Knitted or crocheted fabrics, % YoY, 3mma",None,line
+"Taiwan, EPI, TWD basis, Nan, % YoY, 3mma","Taiwan, EPI, TWD basis, Nan, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Stone materials and glass, % YoY, 3mma","Taiwan, EPI, TWD basis, Stone materials and glass, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Stone materials and glass, Glass, % YoY, 3mma","Taiwan, EPI, TWD basis, Stone materials and glass, Glass, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Base metals, % YoY, 3mma","Taiwan, EPI, TWD basis, Base metals, % YoY, 3mma",None,line
