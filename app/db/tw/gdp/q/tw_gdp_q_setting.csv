@@ -1131,6 +1131,8 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Expenditure, DGBAS forecast, 2025Q4, Net exports of goods and services, TWD, % YoY","Taiwan, NGDP, Expenditure, DGBAS forecast, 2025Q4, Net exports of goods and services, TWD, % YoY",None,line
 "Taiwan, NGDP, Expenditure, DGBAS forecast, 2025Q4, Net exports of goods and services, Exports of goods and services, TWD, % YoY","Taiwan, NGDP, Expenditure, DGBAS forecast, 2025Q4, Net exports of goods and services, Exports of goods and services, TWD, % YoY",None,line
 "Taiwan, NGDP, Expenditure, DGBAS forecast, 2025Q4, Net exports of goods and services, Less: imports of goods and services, TWD, % YoY","Taiwan, NGDP, Expenditure, DGBAS forecast, 2025Q4, Net exports of goods and services, Less: imports of goods and services, TWD, % YoY",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q4, TWD, % YoY","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q4, TWD, % YoY",None,line
+"Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q4, TWD, SA, % QoQ","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q4, TWD, SA, % QoQ",None,line
 "Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q3, SA, TWD bn","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q3, SA, TWD bn",None,line
 "Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q3, Domestic demand, SA, TWD bn","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q3, Domestic demand, SA, TWD bn",None,line
 "Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q3, Domestic demand, Private final consumption, SA, TWD bn","Taiwan, RGDP, Expenditure, DGBAS forecast, 2025Q3, Domestic demand, Private final consumption, SA, TWD bn",None,line

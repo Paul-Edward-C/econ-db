@@ -1605,11 +1605,11 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Expenditure, Employee compensation, % YoY","Japan, NGDP, Expenditure, Employee compensation, % YoY",None,line
 "Japan, NGDP, Expenditure, Employee compensation, SAAR, JPY bn","Japan, NGDP, Expenditure, Employee compensation, SAAR, JPY bn",None,line
 "Japan, NGDP, Expenditure, Employee compensation, % SAAR","Japan, NGDP, Expenditure, Employee compensation, % SAAR",None,line
-"Japan, Real (Chained (2015) Yen, using Consumption of Households (excluding Imputed Rent and FISIM) Deflator),Original Series","Japan, Real (Chained (2015) Yen, using Consumption of Households (excluding Imputed Rent and FISIM) Deflator),Original Series",None,line
+"Japan, Real (Chained (2020) Yen, using Consumption of Households (excluding Imputed Rent and FISIM) Deflator),Original Series","Japan, Real (Chained (2020) Yen, using Consumption of Households (excluding Imputed Rent and FISIM) Deflator),Original Series",None,line
 "Japan, RGDP, Expenditure, Employee compensation, % YoY","Japan, RGDP, Expenditure, Employee compensation, % YoY",None,line
 "Japan, RGDP, Expenditure, Employee compensation, SAAR, JPY bn","Japan, RGDP, Expenditure, Employee compensation, SAAR, JPY bn",None,line
 "Japan, RGDP, Expenditure, Employee compensation, % SAAR","Japan, RGDP, Expenditure, Employee compensation, % SAAR",None,line
-"Japan, Real (Chained (2015) Yen, using Consumption of Households Deflator),Original Series","Japan, Real (Chained (2015) Yen, using Consumption of Households Deflator),Original Series",None,line
+"Japan, Real (Chained (2020) Yen, using Consumption of Households Deflator),Original Series","Japan, Real (Chained (2020) Yen, using Consumption of Households Deflator),Original Series",None,line
 "Japan, Unnamed: 10_level_0,Unnamed: 10_level_1","Japan, Unnamed: 10_level_0,Unnamed: 10_level_1",None,line
 "Japan, Unnamed: 11_level_0,Seasonally Adjusted Series","Japan, Unnamed: 11_level_0,Seasonally Adjusted Series",None,line
 "Japan, Unnamed: 12_level_0,Unnamed: 12_level_1","Japan, Unnamed: 12_level_0,Unnamed: 12_level_1",None,line
@@ -1732,6 +1732,8 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, SAAR, JPY bn, % of Poly 2013-19 trend","Japan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, SAAR, JPY bn, % of Poly 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Services, Per capita, JPY, % of 2013-19 trend","Japan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Services, Per capita, JPY, % of 2013-19 trend",None,line
 "Japan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Services, Per capita, JPY, % of Poly 2013-19 trend","Japan, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Services, Per capita, JPY, % of Poly 2013-19 trend",None,line
+"Japan, RGDP, Expenditure, Trading gains, Proxy, % QoQ","Japan, RGDP, Expenditure, Trading gains, Proxy, % QoQ",None,line
+"Japan, RGDP, Expenditure, Trading gains, Proxy, % YoY","Japan, RGDP, Expenditure, Trading gains, Proxy, % YoY",None,line
 "Japan, NGDP, Excess savings, JPY bn","Japan, NGDP, Excess savings, JPY bn",None,line
 "Japan, NGDP, Excess savings, JPY bn, based on trend income","Japan, NGDP, Excess savings, JPY bn, based on trend income",None,line
 "Japan, NGDP, Post-covid excess savings, JPY bn","Japan, NGDP, Post-covid excess savings, JPY bn",None,line

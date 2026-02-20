@@ -3053,3 +3053,5 @@ name,display_name,data_type,chart_type
 "China, RGDP, Expenditure, Domestic Demand, Final Consumption Expenditure, CNY tn, YoY chg, 12M average","China, RGDP, Expenditure, Domestic Demand, Final Consumption Expenditure, CNY tn, YoY chg, 12M average",None,line
 "China, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, CNY tn, YoY chg, 12M average","China, RGDP, Expenditure, Domestic Demand, Gross Capital Formation, CNY tn, YoY chg, 12M average",None,line
 "China, RGDP, Expenditure, Net Exports of Goods and Services, CNY tn, YoY chg, 12M average","China, RGDP, Expenditure, Net Exports of Goods and Services, CNY tn, YoY chg, 12M average",None,line
+"China, RGDP, Activity, Actual and forecast, SA, CNY bn","China, RGDP, Activity, Actual and forecast, SA, CNY bn",None,line
+"China, RGDP, Activity, Actual and forecast, SA, CNY, Index","China, RGDP, Activity, Actual and forecast, SA, CNY, Index",None,line

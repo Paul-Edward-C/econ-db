@@ -123,7 +123,8 @@ name,display_name,data_type,chart_type
 "Taiwan, MPI, TWD basis, Consumer goods, Index","Taiwan, MPI, TWD basis, Consumer goods, Index",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Nondurable, Index","Taiwan, MPI, TWD basis, Consumer goods, Nondurable, Index",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Durable, Index","Taiwan, MPI, TWD basis, Consumer goods, Durable, Index",None,line
-"Taiwan, Terms of trade, Index","Taiwan, Terms of trade, Index",None,line
+"Taiwan, TOT, USD basis, Index","Taiwan, TOT, USD basis, Index",None,line
+"Taiwan, TOT, TWD basis, Index","Taiwan, TOT, TWD basis, Index",None,line
 "Taiwan, EPI, USD basis, % YoY","Taiwan, EPI, USD basis, % YoY",None,line
 "Taiwan, EPI, USD basis, Animal products, % YoY","Taiwan, EPI, USD basis, Animal products, % YoY",None,line
 "Taiwan, EPI, USD basis, Animal products, Fish and crustaceans, % YoY","Taiwan, EPI, USD basis, Animal products, Fish and crustaceans, % YoY",None,line
@@ -248,17 +249,23 @@ name,display_name,data_type,chart_type
 "Taiwan, MPI, TWD basis, Consumer goods, % YoY","Taiwan, MPI, TWD basis, Consumer goods, % YoY",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Nondurable, % YoY","Taiwan, MPI, TWD basis, Consumer goods, Nondurable, % YoY",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Durable, % YoY","Taiwan, MPI, TWD basis, Consumer goods, Durable, % YoY",None,line
-"Taiwan, Terms of trade, % YoY","Taiwan, Terms of trade, % YoY",None,line
+"Taiwan, TOT, USD basis, % YoY","Taiwan, TOT, USD basis, % YoY",None,line
+"Taiwan, TOT, TWD basis, % YoY","Taiwan, TOT, TWD basis, % YoY",None,line
 "Taiwan, MPI, TWD basis, Index, SA","Taiwan, MPI, TWD basis, Index, SA",None,line
 "Taiwan, MPI, USD basis, Index, SA","Taiwan, MPI, USD basis, Index, SA",None,line
 "Taiwan, EPI, TWD basis, Index, SA","Taiwan, EPI, TWD basis, Index, SA",None,line
 "Taiwan, EPI, USD basis, Index, SA","Taiwan, EPI, USD basis, Index, SA",None,line
-"Taiwan, Terms of trade, Index, SA","Taiwan, Terms of trade, Index, SA",None,line
 "Taiwan, MPI, TWD basis, Index, SA, % MoM annualised","Taiwan, MPI, TWD basis, Index, SA, % MoM annualised",None,line
 "Taiwan, MPI, USD basis, Index, SA, % MoM annualised","Taiwan, MPI, USD basis, Index, SA, % MoM annualised",None,line
 "Taiwan, EPI, TWD basis, Index, SA, % MoM annualised","Taiwan, EPI, TWD basis, Index, SA, % MoM annualised",None,line
 "Taiwan, EPI, USD basis, Index, SA, % MoM annualised","Taiwan, EPI, USD basis, Index, SA, % MoM annualised",None,line
-"Taiwan, Terms of trade, Index, SA, % MoM annualised","Taiwan, Terms of trade, Index, SA, % MoM annualised",None,line
+"Taiwan, EPI, Contribution to % YoY chg in TOT, ppts","Taiwan, EPI, Contribution to % YoY chg in TOT, ppts",None,bar
+"Taiwan, MPI, Contribution to % YoY chg in TOT, ppts","Taiwan, MPI, Contribution to % YoY chg in TOT, ppts",None,bar
+"Taiwan, FX, Contribution to % YoY chg in TOT, ppts","Taiwan, FX, Contribution to % YoY chg in TOT, ppts",None,bar
+"Taiwan, EPI, FX component, Contribution to % YoY chg in TOT, ppts","Taiwan, EPI, FX component, Contribution to % YoY chg in TOT, ppts",None,bar
+"Taiwan, MPI, FX component, Contribution to % YoY chg in TOT, ppts","Taiwan, MPI, FX component, Contribution to % YoY chg in TOT, ppts",None,bar
+"Taiwan, TOT, TWD basis, % YoY, Sum of components","Taiwan, TOT, TWD basis, % YoY, Sum of components",None,line
+"Taiwan, TOT, TWD basis, % YoY, Published","Taiwan, TOT, TWD basis, % YoY, Published",None,line
 "Taiwan, EPI, USD basis, Index, 3mma","Taiwan, EPI, USD basis, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Animal products, Index, 3mma","Taiwan, EPI, USD basis, Animal products, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Animal products, Fish and crustaceans, Index, 3mma","Taiwan, EPI, USD basis, Animal products, Fish and crustaceans, Index, 3mma",None,line
@@ -383,7 +390,8 @@ name,display_name,data_type,chart_type
 "Taiwan, MPI, TWD basis, Consumer goods, Index, 3mma","Taiwan, MPI, TWD basis, Consumer goods, Index, 3mma",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Nondurable, Index, 3mma","Taiwan, MPI, TWD basis, Consumer goods, Nondurable, Index, 3mma",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Durable, Index, 3mma","Taiwan, MPI, TWD basis, Consumer goods, Durable, Index, 3mma",None,line
-"Taiwan, Terms of trade, Index, 3mma","Taiwan, Terms of trade, Index, 3mma",None,line
+"Taiwan, TOT, USD basis, Index, 3mma","Taiwan, TOT, USD basis, Index, 3mma",None,line
+"Taiwan, TOT, TWD basis, Index, 3mma","Taiwan, TOT, TWD basis, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, % YoY, 3mma","Taiwan, EPI, USD basis, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Animal products, % YoY, 3mma","Taiwan, EPI, USD basis, Animal products, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Animal products, Fish and crustaceans, % YoY, 3mma","Taiwan, EPI, USD basis, Animal products, Fish and crustaceans, % YoY, 3mma",None,line
@@ -508,14 +516,20 @@ name,display_name,data_type,chart_type
 "Taiwan, MPI, TWD basis, Consumer goods, % YoY, 3mma","Taiwan, MPI, TWD basis, Consumer goods, % YoY, 3mma",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Nondurable, % YoY, 3mma","Taiwan, MPI, TWD basis, Consumer goods, Nondurable, % YoY, 3mma",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Durable, % YoY, 3mma","Taiwan, MPI, TWD basis, Consumer goods, Durable, % YoY, 3mma",None,line
-"Taiwan, Terms of trade, % YoY, 3mma","Taiwan, Terms of trade, % YoY, 3mma",None,line
+"Taiwan, TOT, USD basis, % YoY, 3mma","Taiwan, TOT, USD basis, % YoY, 3mma",None,line
+"Taiwan, TOT, TWD basis, % YoY, 3mma","Taiwan, TOT, TWD basis, % YoY, 3mma",None,line
 "Taiwan, MPI, TWD basis, Index, SA, 3mma","Taiwan, MPI, TWD basis, Index, SA, 3mma",None,line
 "Taiwan, MPI, USD basis, Index, SA, 3mma","Taiwan, MPI, USD basis, Index, SA, 3mma",None,line
 "Taiwan, EPI, TWD basis, Index, SA, 3mma","Taiwan, EPI, TWD basis, Index, SA, 3mma",None,line
 "Taiwan, EPI, USD basis, Index, SA, 3mma","Taiwan, EPI, USD basis, Index, SA, 3mma",None,line
-"Taiwan, Terms of trade, Index, SA, 3mma","Taiwan, Terms of trade, Index, SA, 3mma",None,line
 "Taiwan, MPI, TWD basis, Index, SA, % MoM annualised, 3mma","Taiwan, MPI, TWD basis, Index, SA, % MoM annualised, 3mma",None,line
 "Taiwan, MPI, USD basis, Index, SA, % MoM annualised, 3mma","Taiwan, MPI, USD basis, Index, SA, % MoM annualised, 3mma",None,line
 "Taiwan, EPI, TWD basis, Index, SA, % MoM annualised, 3mma","Taiwan, EPI, TWD basis, Index, SA, % MoM annualised, 3mma",None,line
 "Taiwan, EPI, USD basis, Index, SA, % MoM annualised, 3mma","Taiwan, EPI, USD basis, Index, SA, % MoM annualised, 3mma",None,line
-"Taiwan, Terms of trade, Index, SA, % MoM annualised, 3mma","Taiwan, Terms of trade, Index, SA, % MoM annualised, 3mma",None,line
+"Taiwan, EPI, Contribution to % YoY chg in TOT, ppts, 3mma","Taiwan, EPI, Contribution to % YoY chg in TOT, ppts, 3mma",None,bar
+"Taiwan, MPI, Contribution to % YoY chg in TOT, ppts, 3mma","Taiwan, MPI, Contribution to % YoY chg in TOT, ppts, 3mma",None,bar
+"Taiwan, FX, Contribution to % YoY chg in TOT, ppts, 3mma","Taiwan, FX, Contribution to % YoY chg in TOT, ppts, 3mma",None,bar
+"Taiwan, EPI, FX component, Contribution to % YoY chg in TOT, ppts, 3mma","Taiwan, EPI, FX component, Contribution to % YoY chg in TOT, ppts, 3mma",None,bar
+"Taiwan, MPI, FX component, Contribution to % YoY chg in TOT, ppts, 3mma","Taiwan, MPI, FX component, Contribution to % YoY chg in TOT, ppts, 3mma",None,bar
+"Taiwan, TOT, TWD basis, % YoY, Sum of components, 3mma","Taiwan, TOT, TWD basis, % YoY, Sum of components, 3mma",None,line
+"Taiwan, TOT, TWD basis, % YoY, Published, 3mma","Taiwan, TOT, TWD basis, % YoY, Published, 3mma",None,line
