@@ -140,6 +140,7 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Miscellaneous goods and services, Personal care, Hairdressing salons and personal grooming establishments, Index","Korea, CPI, Miscellaneous goods and services, Personal care, Hairdressing salons and personal grooming establishments, Index",None,line
 "Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, Index","Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, Index",None,line
 "Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, Index","Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, Index",None,line
+"Korea, CPI, All items excluding food, Index","Korea, CPI, All items excluding food, Index",None,line
 "Korea, CPI, All items, % YoY","Korea, CPI, All items, % YoY",None,line
 "Korea, CPI, All items excluding food and energy, % YoY","Korea, CPI, All items excluding food and energy, % YoY",None,line
 "Korea, CPI, Food & Energy, % YoY","Korea, CPI, Food & Energy, % YoY",None,line
@@ -281,6 +282,7 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Miscellaneous goods and services, Personal care, Hairdressing salons and personal grooming establishments, % YoY","Korea, CPI, Miscellaneous goods and services, Personal care, Hairdressing salons and personal grooming establishments, % YoY",None,line
 "Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, % YoY","Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, % YoY",None,line
 "Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, % YoY","Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, % YoY",None,line
+"Korea, CPI, All items excluding food, % YoY","Korea, CPI, All items excluding food, % YoY",None,line
 "Korea, CPI, Goods, Contribution to YoY change, ppts","Korea, CPI, Goods, Contribution to YoY change, ppts",None,bar
 "Korea, CPI, Goods, Agricultural and marine products, Contribution to YoY change, ppts","Korea, CPI, Goods, Agricultural and marine products, Contribution to YoY change, ppts",None,bar
 "Korea, CPI, Goods, Industrial products, Contribution to YoY change, ppts","Korea, CPI, Goods, Industrial products, Contribution to YoY change, ppts",None,bar
@@ -1524,6 +1526,7 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Miscellaneous goods and services, Personal care, Hairdressing salons and personal grooming establishments, Index, 3mma","Korea, CPI, Miscellaneous goods and services, Personal care, Hairdressing salons and personal grooming establishments, Index, 3mma",None,line
 "Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, Index, 3mma","Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, Index, 3mma",None,line
 "Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, Index, 3mma","Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, Index, 3mma",None,line
+"Korea, CPI, All items excluding food, Index, 3mma","Korea, CPI, All items excluding food, Index, 3mma",None,line
 "Korea, CPI, All items, % YoY, 3mma","Korea, CPI, All items, % YoY, 3mma",None,line
 "Korea, CPI, All items excluding food and energy, % YoY, 3mma","Korea, CPI, All items excluding food and energy, % YoY, 3mma",None,line
 "Korea, CPI, Food & Energy, % YoY, 3mma","Korea, CPI, Food & Energy, % YoY, 3mma",None,line
@@ -1665,6 +1668,7 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Miscellaneous goods and services, Personal care, Hairdressing salons and personal grooming establishments, % YoY, 3mma","Korea, CPI, Miscellaneous goods and services, Personal care, Hairdressing salons and personal grooming establishments, % YoY, 3mma",None,line
 "Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, % YoY, 3mma","Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, % YoY, 3mma",None,line
 "Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, % YoY, 3mma","Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, % YoY, 3mma",None,line
+"Korea, CPI, All items excluding food, % YoY, 3mma","Korea, CPI, All items excluding food, % YoY, 3mma",None,line
 "Korea, CPI, Goods, Contribution to YoY change, ppts, 3mma","Korea, CPI, Goods, Contribution to YoY change, ppts, 3mma",None,bar
 "Korea, CPI, Goods, Agricultural and marine products, Contribution to YoY change, ppts, 3mma","Korea, CPI, Goods, Agricultural and marine products, Contribution to YoY change, ppts, 3mma",None,bar
 "Korea, CPI, Goods, Industrial products, Contribution to YoY change, ppts, 3mma","Korea, CPI, Goods, Industrial products, Contribution to YoY change, ppts, 3mma",None,bar
