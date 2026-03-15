@@ -75,7 +75,6 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, SA, JPY bn","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, SA, JPY bn",None,line
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, SA, JPY bn","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, SA, JPY bn",None,line
 "Japan, RGDP, Expenditure, GNI, SA, JPY bn","Japan, RGDP, Expenditure, GNI, SA, JPY bn",None,line
-"Japan, NGDP, Income, General government, GNI, JPY bn","Japan, NGDP, Income, General government, GNI, JPY bn",None,line
 "Japan, NGDP, Expenditure, Domestic demand, JPY, % YoY","Japan, NGDP, Expenditure, Domestic demand, JPY, % YoY",None,line
 "Japan, NGDP, Expenditure, JPY, % YoY","Japan, NGDP, Expenditure, JPY, % YoY",None,line
 "Japan, NGDP, Expenditure, Domestic demand, Private consumption, JPY, % YoY","Japan, NGDP, Expenditure, Domestic demand, Private consumption, JPY, % YoY",None,line
@@ -1234,6 +1233,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, JPY bn","Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, JPY bn",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, JPY bn","Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, JPY bn",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, JPY bn","Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, JPY bn",None,line
+"Japan, NGDP, Income, General government, NDI, JPY bn","Japan, NGDP, Income, General government, NDI, JPY bn",None,line
 "Japan, NGDP, Income, General government, GDI, JPY bn","Japan, NGDP, Income, General government, GDI, JPY bn",None,line
 "Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, JPY bn","Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, JPY bn",None,line
 "Japan, NGDP, Income, General government, Secondary distribution of income, Uses, JPY bn","Japan, NGDP, Income, General government, Secondary distribution of income, Uses, JPY bn",None,line
@@ -1259,7 +1259,6 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Adjusted GDI, JPY bn","Japan, NGDP, Income, General government, Adjusted GDI, JPY bn",None,line
 "Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, JPY bn","Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, JPY bn",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, JPY bn","Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, JPY bn",None,line
-"Japan, NGDP, Income, General government, NDI, JPY bn","Japan, NGDP, Income, General government, NDI, JPY bn",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, JPY bn","Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, JPY bn",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, JPY bn","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, JPY bn",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, JPY bn","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, JPY bn",None,line
@@ -1883,7 +1882,6 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, SA, JPY tn","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, SA, JPY tn",None,line
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, SA, JPY tn","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, SA, JPY tn",None,line
 "Japan, RGDP, Expenditure, GNI, SA, JPY tn","Japan, RGDP, Expenditure, GNI, SA, JPY tn",None,line
-"Japan, NGDP, Income, General government, GNI, JPY tn","Japan, NGDP, Income, General government, GNI, JPY tn",None,line
 "Japan, NGDP, Expenditure, Domestic demand, JPY tn","Japan, NGDP, Expenditure, Domestic demand, JPY tn",None,line
 "Japan, NGDP, Expenditure, JPY tn","Japan, NGDP, Expenditure, JPY tn",None,line
 "Japan, NGDP, Expenditure, Domestic demand, Private consumption, JPY tn","Japan, NGDP, Expenditure, Domestic demand, Private consumption, JPY tn",None,line
@@ -2295,6 +2293,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, JPY tn","Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, JPY tn",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, JPY tn","Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, JPY tn",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, JPY tn","Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, JPY tn",None,line
+"Japan, NGDP, Income, General government, NDI, JPY tn","Japan, NGDP, Income, General government, NDI, JPY tn",None,line
 "Japan, NGDP, Income, General government, GDI, JPY tn","Japan, NGDP, Income, General government, GDI, JPY tn",None,line
 "Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, JPY tn","Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, JPY tn",None,line
 "Japan, NGDP, Income, General government, Secondary distribution of income, Uses, JPY tn","Japan, NGDP, Income, General government, Secondary distribution of income, Uses, JPY tn",None,line
@@ -2320,7 +2319,6 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Adjusted GDI, JPY tn","Japan, NGDP, Income, General government, Adjusted GDI, JPY tn",None,line
 "Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, JPY tn","Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, JPY tn",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, JPY tn","Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, JPY tn",None,line
-"Japan, NGDP, Income, General government, NDI, JPY tn","Japan, NGDP, Income, General government, NDI, JPY tn",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, JPY tn","Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, JPY tn",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, JPY tn","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, JPY tn",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, JPY tn","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, JPY tn",None,line
@@ -2472,7 +2470,6 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, SA, USD bn","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, SA, USD bn",None,line
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, SA, USD bn","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, SA, USD bn",None,line
 "Japan, RGDP, Expenditure, GNI, SA, USD bn","Japan, RGDP, Expenditure, GNI, SA, USD bn",None,line
-"Japan, NGDP, Income, General government, GNI, USD bn","Japan, NGDP, Income, General government, GNI, USD bn",None,line
 "Japan, NGDP, Expenditure, Domestic demand, USD bn","Japan, NGDP, Expenditure, Domestic demand, USD bn",None,line
 "Japan, NGDP, Expenditure, USD bn","Japan, NGDP, Expenditure, USD bn",None,line
 "Japan, NGDP, Expenditure, Domestic demand, Private consumption, USD bn","Japan, NGDP, Expenditure, Domestic demand, Private consumption, USD bn",None,line
@@ -2884,6 +2881,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, USD bn","Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, USD bn",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, USD bn","Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, USD bn",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, USD bn","Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, USD bn",None,line
+"Japan, NGDP, Income, General government, NDI, USD bn","Japan, NGDP, Income, General government, NDI, USD bn",None,line
 "Japan, NGDP, Income, General government, GDI, USD bn","Japan, NGDP, Income, General government, GDI, USD bn",None,line
 "Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, USD bn","Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, USD bn",None,line
 "Japan, NGDP, Income, General government, Secondary distribution of income, Uses, USD bn","Japan, NGDP, Income, General government, Secondary distribution of income, Uses, USD bn",None,line
@@ -2909,7 +2907,6 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Adjusted GDI, USD bn","Japan, NGDP, Income, General government, Adjusted GDI, USD bn",None,line
 "Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, USD bn","Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, USD bn",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, USD bn","Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, USD bn",None,line
-"Japan, NGDP, Income, General government, NDI, USD bn","Japan, NGDP, Income, General government, NDI, USD bn",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, USD bn","Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, USD bn",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, USD bn","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, USD bn",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, USD bn","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, USD bn",None,line
@@ -3118,7 +3115,6 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, SA, USD tn","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, SA, USD tn",None,line
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, SA, USD tn","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, SA, USD tn",None,line
 "Japan, RGDP, Expenditure, GNI, SA, USD tn","Japan, RGDP, Expenditure, GNI, SA, USD tn",None,line
-"Japan, NGDP, Income, General government, GNI, USD tn","Japan, NGDP, Income, General government, GNI, USD tn",None,line
 "Japan, NGDP, Expenditure, Domestic demand, USD tn","Japan, NGDP, Expenditure, Domestic demand, USD tn",None,line
 "Japan, NGDP, Expenditure, USD tn","Japan, NGDP, Expenditure, USD tn",None,line
 "Japan, NGDP, Expenditure, Domestic demand, Private consumption, USD tn","Japan, NGDP, Expenditure, Domestic demand, Private consumption, USD tn",None,line
@@ -3530,6 +3526,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, USD tn","Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, USD tn",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, USD tn","Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, USD tn",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, USD tn","Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, USD tn",None,line
+"Japan, NGDP, Income, General government, NDI, USD tn","Japan, NGDP, Income, General government, NDI, USD tn",None,line
 "Japan, NGDP, Income, General government, GDI, USD tn","Japan, NGDP, Income, General government, GDI, USD tn",None,line
 "Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, USD tn","Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, USD tn",None,line
 "Japan, NGDP, Income, General government, Secondary distribution of income, Uses, USD tn","Japan, NGDP, Income, General government, Secondary distribution of income, Uses, USD tn",None,line
@@ -3555,7 +3552,6 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Adjusted GDI, USD tn","Japan, NGDP, Income, General government, Adjusted GDI, USD tn",None,line
 "Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, USD tn","Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, USD tn",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, USD tn","Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, USD tn",None,line
-"Japan, NGDP, Income, General government, NDI, USD tn","Japan, NGDP, Income, General government, NDI, USD tn",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, USD tn","Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, USD tn",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, USD tn","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, USD tn",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, USD tn","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, USD tn",None,line
@@ -3689,7 +3685,6 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, JPY bn, 12M sum","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, JPY bn, 12M sum",None,line
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, JPY bn, 12M sum","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, JPY bn, 12M sum",None,line
 "Japan, RGDP, Expenditure, GNI, JPY bn, 12M sum","Japan, RGDP, Expenditure, GNI, JPY bn, 12M sum",None,line
-"Japan, NGDP, Income, General government, GNI, JPY bn, 12M sum","Japan, NGDP, Income, General government, GNI, JPY bn, 12M sum",None,line
 "Japan, NGDP, Expenditure, Domestic demand, JPY bn, 12M sum","Japan, NGDP, Expenditure, Domestic demand, JPY bn, 12M sum",None,line
 "Japan, NGDP, Expenditure, JPY bn, 12M sum","Japan, NGDP, Expenditure, JPY bn, 12M sum",None,line
 "Japan, NGDP, Expenditure, Domestic demand, Private consumption, JPY bn, 12M sum","Japan, NGDP, Expenditure, Domestic demand, Private consumption, JPY bn, 12M sum",None,line
@@ -3875,6 +3870,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, JPY bn, 12M sum","Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, JPY bn, 12M sum","Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, JPY bn, 12M sum","Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, JPY bn, 12M sum",None,line
+"Japan, NGDP, Income, General government, NDI, JPY bn, 12M sum","Japan, NGDP, Income, General government, NDI, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, GDI, JPY bn, 12M sum","Japan, NGDP, Income, General government, GDI, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, JPY bn, 12M sum","Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Secondary distribution of income, Uses, JPY bn, 12M sum","Japan, NGDP, Income, General government, Secondary distribution of income, Uses, JPY bn, 12M sum",None,line
@@ -3900,7 +3896,6 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Adjusted GDI, JPY bn, 12M sum","Japan, NGDP, Income, General government, Adjusted GDI, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, JPY bn, 12M sum","Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, JPY bn, 12M sum","Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, JPY bn, 12M sum",None,line
-"Japan, NGDP, Income, General government, NDI, JPY bn, 12M sum","Japan, NGDP, Income, General government, NDI, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, JPY bn, 12M sum","Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, JPY bn, 12M sum","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, JPY bn, 12M sum","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, JPY bn, 12M sum",None,line
@@ -3942,7 +3937,6 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, JPY tn, 12M sum","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, JPY tn, 12M sum",None,line
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, JPY tn, 12M sum","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, JPY tn, 12M sum",None,line
 "Japan, RGDP, Expenditure, GNI, JPY tn, 12M sum","Japan, RGDP, Expenditure, GNI, JPY tn, 12M sum",None,line
-"Japan, NGDP, Income, General government, GNI, JPY tn, 12M sum","Japan, NGDP, Income, General government, GNI, JPY tn, 12M sum",None,line
 "Japan, NGDP, Expenditure, Domestic demand, JPY tn, 12M sum","Japan, NGDP, Expenditure, Domestic demand, JPY tn, 12M sum",None,line
 "Japan, NGDP, Expenditure, JPY tn, 12M sum","Japan, NGDP, Expenditure, JPY tn, 12M sum",None,line
 "Japan, NGDP, Expenditure, Domestic demand, Private consumption, JPY tn, 12M sum","Japan, NGDP, Expenditure, Domestic demand, Private consumption, JPY tn, 12M sum",None,line
@@ -4128,6 +4122,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, JPY tn, 12M sum","Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, JPY tn, 12M sum","Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, JPY tn, 12M sum","Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, JPY tn, 12M sum",None,line
+"Japan, NGDP, Income, General government, NDI, JPY tn, 12M sum","Japan, NGDP, Income, General government, NDI, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, GDI, JPY tn, 12M sum","Japan, NGDP, Income, General government, GDI, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, JPY tn, 12M sum","Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Secondary distribution of income, Uses, JPY tn, 12M sum","Japan, NGDP, Income, General government, Secondary distribution of income, Uses, JPY tn, 12M sum",None,line
@@ -4153,7 +4148,6 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Adjusted GDI, JPY tn, 12M sum","Japan, NGDP, Income, General government, Adjusted GDI, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, JPY tn, 12M sum","Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, JPY tn, 12M sum","Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, JPY tn, 12M sum",None,line
-"Japan, NGDP, Income, General government, NDI, JPY tn, 12M sum","Japan, NGDP, Income, General government, NDI, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, JPY tn, 12M sum","Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, JPY tn, 12M sum","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, JPY tn, 12M sum","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, JPY tn, 12M sum",None,line
@@ -4195,7 +4189,6 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, USD bn, 12M sum","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, USD bn, 12M sum",None,line
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, USD bn, 12M sum","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, USD bn, 12M sum",None,line
 "Japan, RGDP, Expenditure, GNI, USD bn, 12M sum","Japan, RGDP, Expenditure, GNI, USD bn, 12M sum",None,line
-"Japan, NGDP, Income, General government, GNI, USD bn, 12M sum","Japan, NGDP, Income, General government, GNI, USD bn, 12M sum",None,line
 "Japan, NGDP, Expenditure, Domestic demand, USD bn, 12M sum","Japan, NGDP, Expenditure, Domestic demand, USD bn, 12M sum",None,line
 "Japan, NGDP, Expenditure, USD bn, 12M sum","Japan, NGDP, Expenditure, USD bn, 12M sum",None,line
 "Japan, NGDP, Expenditure, Domestic demand, Private consumption, USD bn, 12M sum","Japan, NGDP, Expenditure, Domestic demand, Private consumption, USD bn, 12M sum",None,line
@@ -4381,6 +4374,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, USD bn, 12M sum","Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, USD bn, 12M sum","Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, USD bn, 12M sum","Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, USD bn, 12M sum",None,line
+"Japan, NGDP, Income, General government, NDI, USD bn, 12M sum","Japan, NGDP, Income, General government, NDI, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, GDI, USD bn, 12M sum","Japan, NGDP, Income, General government, GDI, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, USD bn, 12M sum","Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Secondary distribution of income, Uses, USD bn, 12M sum","Japan, NGDP, Income, General government, Secondary distribution of income, Uses, USD bn, 12M sum",None,line
@@ -4406,7 +4400,6 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Adjusted GDI, USD bn, 12M sum","Japan, NGDP, Income, General government, Adjusted GDI, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, USD bn, 12M sum","Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, USD bn, 12M sum","Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, USD bn, 12M sum",None,line
-"Japan, NGDP, Income, General government, NDI, USD bn, 12M sum","Japan, NGDP, Income, General government, NDI, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, USD bn, 12M sum","Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, USD bn, 12M sum","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, USD bn, 12M sum","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, USD bn, 12M sum",None,line
@@ -4448,7 +4441,6 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, USD tn, 12M sum","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Receipt, USD tn, 12M sum",None,line
 "Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, USD tn, 12M sum","Japan, RGDP, Expenditure, Net factor income from the rest of the world, Payment, USD tn, 12M sum",None,line
 "Japan, RGDP, Expenditure, GNI, USD tn, 12M sum","Japan, RGDP, Expenditure, GNI, USD tn, 12M sum",None,line
-"Japan, NGDP, Income, General government, GNI, USD tn, 12M sum","Japan, NGDP, Income, General government, GNI, USD tn, 12M sum",None,line
 "Japan, NGDP, Expenditure, Domestic demand, USD tn, 12M sum","Japan, NGDP, Expenditure, Domestic demand, USD tn, 12M sum",None,line
 "Japan, NGDP, Expenditure, USD tn, 12M sum","Japan, NGDP, Expenditure, USD tn, 12M sum",None,line
 "Japan, NGDP, Expenditure, Domestic demand, Private consumption, USD tn, 12M sum","Japan, NGDP, Expenditure, Domestic demand, Private consumption, USD tn, 12M sum",None,line
@@ -4634,6 +4626,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, USD tn, 12M sum","Japan, NGDP, Income, General government, Uses, Other current transfers, Current transfers within general government, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, USD tn, 12M sum","Japan, NGDP, Income, General government, Uses, Other current transfers, Current international cooperation, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, USD tn, 12M sum","Japan, NGDP, Income, General government, Uses, Other current transfers, Miscellanous, USD tn, 12M sum",None,line
+"Japan, NGDP, Income, General government, NDI, USD tn, 12M sum","Japan, NGDP, Income, General government, NDI, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, GDI, USD tn, 12M sum","Japan, NGDP, Income, General government, GDI, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, USD tn, 12M sum","Japan, NGDP, Income, General government, GDI, Consumption of fixed capital, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Secondary distribution of income, Uses, USD tn, 12M sum","Japan, NGDP, Income, General government, Secondary distribution of income, Uses, USD tn, 12M sum",None,line
@@ -4659,7 +4652,6 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, General government, Adjusted GDI, USD tn, 12M sum","Japan, NGDP, Income, General government, Adjusted GDI, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, USD tn, 12M sum","Japan, NGDP, Income, General government, Adjusted GDI, Consumption of fixed capital, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, USD tn, 12M sum","Japan, NGDP, Income, General government, Redistribution of income in kind, Uses, USD tn, 12M sum",None,line
-"Japan, NGDP, Income, General government, NDI, USD tn, 12M sum","Japan, NGDP, Income, General government, NDI, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, USD tn, 12M sum","Japan, NGDP, Income, General government, Redistribution of income in kind, Sources, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, USD tn, 12M sum","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, USD tn, 12M sum","Japan, NGDP, Income, General government, Uses, Final consumption expenditure, Individual consumption expenditure, USD tn, 12M sum",None,line
