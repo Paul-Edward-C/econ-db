@@ -178,7 +178,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, JPY, % YoY","Japan, NGDP, Activity, Tertiary, Education, JPY, % YoY",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, JPY, % YoY","Japan, NGDP, Activity, Tertiary, Human health and social work, JPY, % YoY",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, JPY, % YoY","Japan, NGDP, Activity, Tertiary, Other service, JPY, % YoY",None,line
-"Japan, NGDP, Activity, Sub-total, JPY, % YoY","Japan, NGDP, Activity, Sub-total, JPY, % YoY",None,line
+"Japan, NGDP, Activity, All, JPY, % YoY","Japan, NGDP, Activity, All, JPY, % YoY",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY, % YoY","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY, % YoY",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, JPY, % YoY","Japan, NGDP, Activity, Statistical discrepancy, JPY, % YoY",None,line
 "Japan, NGDP, Activity, JPY, % YoY","Japan, NGDP, Activity, JPY, % YoY",None,line
@@ -215,7 +215,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, Education, JPY, % YoY","Japan, RGDP, Activity, Tertiary, Education, JPY, % YoY",None,line
 "Japan, RGDP, Activity, Tertiary, Human health and social work, JPY, % YoY","Japan, RGDP, Activity, Tertiary, Human health and social work, JPY, % YoY",None,line
 "Japan, RGDP, Activity, Tertiary, Other service, JPY, % YoY","Japan, RGDP, Activity, Tertiary, Other service, JPY, % YoY",None,line
-"Japan, RGDP, Activity, Sub-total, JPY, % YoY","Japan, RGDP, Activity, Sub-total, JPY, % YoY",None,line
+"Japan, RGDP, Activity, All, JPY, % YoY","Japan, RGDP, Activity, All, JPY, % YoY",None,line
 "Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY, % YoY","Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY, % YoY",None,line
 "Japan, RGDP, Activity, Statistical discrepancy, JPY, % YoY","Japan, RGDP, Activity, Statistical discrepancy, JPY, % YoY",None,line
 "Japan, RGDP, Activity, JPY, % YoY","Japan, RGDP, Activity, JPY, % YoY",None,line
@@ -934,7 +934,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, SA % QoQ","Japan, NGDP, Activity, Tertiary, Education, SA % QoQ",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, SA % QoQ","Japan, NGDP, Activity, Tertiary, Human health and social work, SA % QoQ",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, SA % QoQ","Japan, NGDP, Activity, Tertiary, Other service, SA % QoQ",None,line
-"Japan, NGDP, Activity, Sub-total, SA % QoQ","Japan, NGDP, Activity, Sub-total, SA % QoQ",None,line
+"Japan, NGDP, Activity, All, SA % QoQ","Japan, NGDP, Activity, All, SA % QoQ",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), SA % QoQ","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), SA % QoQ",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, SA % QoQ","Japan, NGDP, Activity, Statistical discrepancy, SA % QoQ",None,line
 "Japan, NGDP, Activity, SA % QoQ","Japan, NGDP, Activity, SA % QoQ",None,line
@@ -971,7 +971,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, Education, SA % QoQ","Japan, RGDP, Activity, Tertiary, Education, SA % QoQ",None,line
 "Japan, RGDP, Activity, Tertiary, Human health and social work, SA % QoQ","Japan, RGDP, Activity, Tertiary, Human health and social work, SA % QoQ",None,line
 "Japan, RGDP, Activity, Tertiary, Other service, SA % QoQ","Japan, RGDP, Activity, Tertiary, Other service, SA % QoQ",None,line
-"Japan, RGDP, Activity, Sub-total, SA % QoQ","Japan, RGDP, Activity, Sub-total, SA % QoQ",None,line
+"Japan, RGDP, Activity, All, SA % QoQ","Japan, RGDP, Activity, All, SA % QoQ",None,line
 "Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), SA % QoQ","Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), SA % QoQ",None,line
 "Japan, RGDP, Activity, Statistical discrepancy, SA % QoQ","Japan, RGDP, Activity, Statistical discrepancy, SA % QoQ",None,line
 "Japan, RGDP, Activity, SA % QoQ","Japan, RGDP, Activity, SA % QoQ",None,line
@@ -1008,7 +1008,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Education, SA, Contribution to % QoQ, ppts","Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Education, SA, Contribution to % QoQ, ppts",None,bar
 "Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Human health and social work, SA, Contribution to % QoQ, ppts","Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Human health and social work, SA, Contribution to % QoQ, ppts",None,bar
 "Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Other service, SA, Contribution to % QoQ, ppts","Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Other service, SA, Contribution to % QoQ, ppts",None,bar
-"Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Sub-total, SA, Contribution to % QoQ, ppts","Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Sub-total, SA, Contribution to % QoQ, ppts",None,bar
+"Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), All, SA, Contribution to % QoQ, ppts","Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), All, SA, Contribution to % QoQ, ppts",None,bar
 "Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Gross domestic product (not including statistical discrepancy), SA, Contribution to % QoQ, ppts","Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Gross domestic product (not including statistical discrepancy), SA, Contribution to % QoQ, ppts",None,bar
 "Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Statistical discrepancy, SA, Contribution to % QoQ, ppts","Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Statistical discrepancy, SA, Contribution to % QoQ, ppts",None,bar
 "Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), SA, Contribution to % QoQ, ppts","Japan, NGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), SA, Contribution to % QoQ, ppts",None,bar
@@ -1045,7 +1045,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Education, SA, Contribution to % QoQ, ppts","Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Education, SA, Contribution to % QoQ, ppts",None,bar
 "Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Human health and social work, SA, Contribution to % QoQ, ppts","Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Human health and social work, SA, Contribution to % QoQ, ppts",None,bar
 "Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Other service, SA, Contribution to % QoQ, ppts","Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Tertiary, Other service, SA, Contribution to % QoQ, ppts",None,bar
-"Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Sub-total, SA, Contribution to % QoQ, ppts","Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Sub-total, SA, Contribution to % QoQ, ppts",None,bar
+"Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), All, SA, Contribution to % QoQ, ppts","Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), All, SA, Contribution to % QoQ, ppts",None,bar
 "Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Gross domestic product (not including statistical discrepancy), SA, Contribution to % QoQ, ppts","Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Gross domestic product (not including statistical discrepancy), SA, Contribution to % QoQ, ppts",None,bar
 "Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Statistical discrepancy, SA, Contribution to % QoQ, ppts","Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), Statistical discrepancy, SA, Contribution to % QoQ, ppts",None,bar
 "Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), SA, Contribution to % QoQ, ppts","Japan, RGDP, Activity, (Contributions to Quarter-to-Quarter Percent Change in GDP (not including statistical discrepancy)), SA, Contribution to % QoQ, ppts",None,bar
@@ -1082,7 +1082,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, JPY bn","Japan, NGDP, Activity, Tertiary, Education, JPY bn",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, JPY bn","Japan, NGDP, Activity, Tertiary, Human health and social work, JPY bn",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, JPY bn","Japan, NGDP, Activity, Tertiary, Other service, JPY bn",None,line
-"Japan, NGDP, Activity, Sub-total, JPY bn","Japan, NGDP, Activity, Sub-total, JPY bn",None,line
+"Japan, NGDP, Activity, All, JPY bn","Japan, NGDP, Activity, All, JPY bn",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY bn","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY bn",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, JPY bn","Japan, NGDP, Activity, Statistical discrepancy, JPY bn",None,line
 "Japan, NGDP, Activity, JPY bn","Japan, NGDP, Activity, JPY bn",None,line
@@ -1119,7 +1119,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, Education, JPY bn","Japan, RGDP, Activity, Tertiary, Education, JPY bn",None,line
 "Japan, RGDP, Activity, Tertiary, Human health and social work, JPY bn","Japan, RGDP, Activity, Tertiary, Human health and social work, JPY bn",None,line
 "Japan, RGDP, Activity, Tertiary, Other service, JPY bn","Japan, RGDP, Activity, Tertiary, Other service, JPY bn",None,line
-"Japan, RGDP, Activity, Sub-total, JPY bn","Japan, RGDP, Activity, Sub-total, JPY bn",None,line
+"Japan, RGDP, Activity, All, JPY bn","Japan, RGDP, Activity, All, JPY bn",None,line
 "Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY bn","Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY bn",None,line
 "Japan, RGDP, Activity, Statistical discrepancy, JPY bn","Japan, RGDP, Activity, Statistical discrepancy, JPY bn",None,line
 "Japan, RGDP, Activity, JPY bn","Japan, RGDP, Activity, JPY bn",None,line
@@ -1156,7 +1156,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, SA, JPY bn","Japan, NGDP, Activity, Tertiary, Education, SA, JPY bn",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, SA, JPY bn","Japan, NGDP, Activity, Tertiary, Human health and social work, SA, JPY bn",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, SA, JPY bn","Japan, NGDP, Activity, Tertiary, Other service, SA, JPY bn",None,line
-"Japan, NGDP, Activity, Sub-total, SA, JPY bn","Japan, NGDP, Activity, Sub-total, SA, JPY bn",None,line
+"Japan, NGDP, Activity, All, SA, JPY bn","Japan, NGDP, Activity, All, SA, JPY bn",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, JPY bn","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, JPY bn",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, SA, JPY bn","Japan, NGDP, Activity, Statistical discrepancy, SA, JPY bn",None,line
 "Japan, NGDP, Activity, SA, JPY bn","Japan, NGDP, Activity, SA, JPY bn",None,line
@@ -1193,7 +1193,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, Education, SA, JPY bn","Japan, RGDP, Activity, Tertiary, Education, SA, JPY bn",None,line
 "Japan, RGDP, Activity, Tertiary, Human health and social work, SA, JPY bn","Japan, RGDP, Activity, Tertiary, Human health and social work, SA, JPY bn",None,line
 "Japan, RGDP, Activity, Tertiary, Other service, SA, JPY bn","Japan, RGDP, Activity, Tertiary, Other service, SA, JPY bn",None,line
-"Japan, RGDP, Activity, Sub-total, SA, JPY bn","Japan, RGDP, Activity, Sub-total, SA, JPY bn",None,line
+"Japan, RGDP, Activity, All, SA, JPY bn","Japan, RGDP, Activity, All, SA, JPY bn",None,line
 "Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, JPY bn","Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, JPY bn",None,line
 "Japan, RGDP, Activity, Statistical discrepancy, SA, JPY bn","Japan, RGDP, Activity, Statistical discrepancy, SA, JPY bn",None,line
 "Japan, RGDP, Activity, SA, JPY bn","Japan, RGDP, Activity, SA, JPY bn",None,line
@@ -1358,7 +1358,7 @@ name,display_name,data_type,chart_type
 "Japan, Deflator, Activity, Tertiary, Education, Index","Japan, Deflator, Activity, Tertiary, Education, Index",None,line
 "Japan, Deflator, Activity, Tertiary, Human health and social work, Index","Japan, Deflator, Activity, Tertiary, Human health and social work, Index",None,line
 "Japan, Deflator, Activity, Tertiary, Other service, Index","Japan, Deflator, Activity, Tertiary, Other service, Index",None,line
-"Japan, Deflator, Activity, Sub-total, Index","Japan, Deflator, Activity, Sub-total, Index",None,line
+"Japan, Deflator, Activity, All, Index","Japan, Deflator, Activity, All, Index",None,line
 "Japan, Deflator, Activity, Index","Japan, Deflator, Activity, Index",None,line
 "Japan, Deflator, Activity, Primary, Index","Japan, Deflator, Activity, Primary, Index",None,line
 "Japan, Deflator, Activity, Secondary, Index","Japan, Deflator, Activity, Secondary, Index",None,line
@@ -1434,7 +1434,7 @@ name,display_name,data_type,chart_type
 "Japan, Deflator, Activity, Tertiary, Education, % YoY","Japan, Deflator, Activity, Tertiary, Education, % YoY",None,line
 "Japan, Deflator, Activity, Tertiary, Human health and social work, % YoY","Japan, Deflator, Activity, Tertiary, Human health and social work, % YoY",None,line
 "Japan, Deflator, Activity, Tertiary, Other service, % YoY","Japan, Deflator, Activity, Tertiary, Other service, % YoY",None,line
-"Japan, Deflator, Activity, Sub-total, % YoY","Japan, Deflator, Activity, Sub-total, % YoY",None,line
+"Japan, Deflator, Activity, All, % YoY","Japan, Deflator, Activity, All, % YoY",None,line
 "Japan, Deflator, Activity, % YoY","Japan, Deflator, Activity, % YoY",None,line
 "Japan, Deflator, Activity, Primary, % YoY","Japan, Deflator, Activity, Primary, % YoY",None,line
 "Japan, Deflator, Activity, Secondary, % YoY","Japan, Deflator, Activity, Secondary, % YoY",None,line
@@ -1510,7 +1510,7 @@ name,display_name,data_type,chart_type
 "Japan, Deflator, Activity, Tertiary, Education, SA, Index","Japan, Deflator, Activity, Tertiary, Education, SA, Index",None,line
 "Japan, Deflator, Activity, Tertiary, Human health and social work, SA, Index","Japan, Deflator, Activity, Tertiary, Human health and social work, SA, Index",None,line
 "Japan, Deflator, Activity, Tertiary, Other service, SA, Index","Japan, Deflator, Activity, Tertiary, Other service, SA, Index",None,line
-"Japan, Deflator, Activity, Sub-total, SA, Index","Japan, Deflator, Activity, Sub-total, SA, Index",None,line
+"Japan, Deflator, Activity, All, SA, Index","Japan, Deflator, Activity, All, SA, Index",None,line
 "Japan, Deflator, Activity, SA, Index","Japan, Deflator, Activity, SA, Index",None,line
 "Japan, Deflator, Activity, Primary, SA, Index","Japan, Deflator, Activity, Primary, SA, Index",None,line
 "Japan, Deflator, Activity, Secondary, SA, Index","Japan, Deflator, Activity, Secondary, SA, Index",None,line
@@ -1767,7 +1767,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, % of GDP","Japan, NGDP, Activity, Tertiary, Education, % of GDP",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, % of GDP","Japan, NGDP, Activity, Tertiary, Human health and social work, % of GDP",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, % of GDP","Japan, NGDP, Activity, Tertiary, Other service, % of GDP",None,line
-"Japan, NGDP, Activity, Sub-total, % of GDP","Japan, NGDP, Activity, Sub-total, % of GDP",None,line
+"Japan, NGDP, Activity, All, % of GDP","Japan, NGDP, Activity, All, % of GDP",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), % of GDP","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), % of GDP",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, % of GDP","Japan, NGDP, Activity, Statistical discrepancy, % of GDP",None,line
 "Japan, NGDP, Activity, % of GDP","Japan, NGDP, Activity, % of GDP",None,line
@@ -2142,7 +2142,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, JPY tn","Japan, NGDP, Activity, Tertiary, Education, JPY tn",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, JPY tn","Japan, NGDP, Activity, Tertiary, Human health and social work, JPY tn",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, JPY tn","Japan, NGDP, Activity, Tertiary, Other service, JPY tn",None,line
-"Japan, NGDP, Activity, Sub-total, JPY tn","Japan, NGDP, Activity, Sub-total, JPY tn",None,line
+"Japan, NGDP, Activity, All, JPY tn","Japan, NGDP, Activity, All, JPY tn",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY tn","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY tn",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, JPY tn","Japan, NGDP, Activity, Statistical discrepancy, JPY tn",None,line
 "Japan, NGDP, Activity, JPY tn","Japan, NGDP, Activity, JPY tn",None,line
@@ -2179,7 +2179,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, Education, JPY tn","Japan, RGDP, Activity, Tertiary, Education, JPY tn",None,line
 "Japan, RGDP, Activity, Tertiary, Human health and social work, JPY tn","Japan, RGDP, Activity, Tertiary, Human health and social work, JPY tn",None,line
 "Japan, RGDP, Activity, Tertiary, Other service, JPY tn","Japan, RGDP, Activity, Tertiary, Other service, JPY tn",None,line
-"Japan, RGDP, Activity, Sub-total, JPY tn","Japan, RGDP, Activity, Sub-total, JPY tn",None,line
+"Japan, RGDP, Activity, All, JPY tn","Japan, RGDP, Activity, All, JPY tn",None,line
 "Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY tn","Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY tn",None,line
 "Japan, RGDP, Activity, Statistical discrepancy, JPY tn","Japan, RGDP, Activity, Statistical discrepancy, JPY tn",None,line
 "Japan, RGDP, Activity, JPY tn","Japan, RGDP, Activity, JPY tn",None,line
@@ -2216,7 +2216,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, SA, JPY tn","Japan, NGDP, Activity, Tertiary, Education, SA, JPY tn",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, SA, JPY tn","Japan, NGDP, Activity, Tertiary, Human health and social work, SA, JPY tn",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, SA, JPY tn","Japan, NGDP, Activity, Tertiary, Other service, SA, JPY tn",None,line
-"Japan, NGDP, Activity, Sub-total, SA, JPY tn","Japan, NGDP, Activity, Sub-total, SA, JPY tn",None,line
+"Japan, NGDP, Activity, All, SA, JPY tn","Japan, NGDP, Activity, All, SA, JPY tn",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, JPY tn","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, JPY tn",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, SA, JPY tn","Japan, NGDP, Activity, Statistical discrepancy, SA, JPY tn",None,line
 "Japan, NGDP, Activity, SA, JPY tn","Japan, NGDP, Activity, SA, JPY tn",None,line
@@ -2253,7 +2253,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, Education, SA, JPY tn","Japan, RGDP, Activity, Tertiary, Education, SA, JPY tn",None,line
 "Japan, RGDP, Activity, Tertiary, Human health and social work, SA, JPY tn","Japan, RGDP, Activity, Tertiary, Human health and social work, SA, JPY tn",None,line
 "Japan, RGDP, Activity, Tertiary, Other service, SA, JPY tn","Japan, RGDP, Activity, Tertiary, Other service, SA, JPY tn",None,line
-"Japan, RGDP, Activity, Sub-total, SA, JPY tn","Japan, RGDP, Activity, Sub-total, SA, JPY tn",None,line
+"Japan, RGDP, Activity, All, SA, JPY tn","Japan, RGDP, Activity, All, SA, JPY tn",None,line
 "Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, JPY tn","Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, JPY tn",None,line
 "Japan, RGDP, Activity, Statistical discrepancy, SA, JPY tn","Japan, RGDP, Activity, Statistical discrepancy, SA, JPY tn",None,line
 "Japan, RGDP, Activity, SA, JPY tn","Japan, RGDP, Activity, SA, JPY tn",None,line
@@ -2730,7 +2730,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, USD bn","Japan, NGDP, Activity, Tertiary, Education, USD bn",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, USD bn","Japan, NGDP, Activity, Tertiary, Human health and social work, USD bn",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, USD bn","Japan, NGDP, Activity, Tertiary, Other service, USD bn",None,line
-"Japan, NGDP, Activity, Sub-total, USD bn","Japan, NGDP, Activity, Sub-total, USD bn",None,line
+"Japan, NGDP, Activity, All, USD bn","Japan, NGDP, Activity, All, USD bn",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), USD bn","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), USD bn",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, USD bn","Japan, NGDP, Activity, Statistical discrepancy, USD bn",None,line
 "Japan, NGDP, Activity, USD bn","Japan, NGDP, Activity, USD bn",None,line
@@ -2767,7 +2767,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, Education, USD bn","Japan, RGDP, Activity, Tertiary, Education, USD bn",None,line
 "Japan, RGDP, Activity, Tertiary, Human health and social work, USD bn","Japan, RGDP, Activity, Tertiary, Human health and social work, USD bn",None,line
 "Japan, RGDP, Activity, Tertiary, Other service, USD bn","Japan, RGDP, Activity, Tertiary, Other service, USD bn",None,line
-"Japan, RGDP, Activity, Sub-total, USD bn","Japan, RGDP, Activity, Sub-total, USD bn",None,line
+"Japan, RGDP, Activity, All, USD bn","Japan, RGDP, Activity, All, USD bn",None,line
 "Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), USD bn","Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), USD bn",None,line
 "Japan, RGDP, Activity, Statistical discrepancy, USD bn","Japan, RGDP, Activity, Statistical discrepancy, USD bn",None,line
 "Japan, RGDP, Activity, USD bn","Japan, RGDP, Activity, USD bn",None,line
@@ -2804,7 +2804,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, SA, USD bn","Japan, NGDP, Activity, Tertiary, Education, SA, USD bn",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, SA, USD bn","Japan, NGDP, Activity, Tertiary, Human health and social work, SA, USD bn",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, SA, USD bn","Japan, NGDP, Activity, Tertiary, Other service, SA, USD bn",None,line
-"Japan, NGDP, Activity, Sub-total, SA, USD bn","Japan, NGDP, Activity, Sub-total, SA, USD bn",None,line
+"Japan, NGDP, Activity, All, SA, USD bn","Japan, NGDP, Activity, All, SA, USD bn",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, USD bn","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, USD bn",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, SA, USD bn","Japan, NGDP, Activity, Statistical discrepancy, SA, USD bn",None,line
 "Japan, NGDP, Activity, SA, USD bn","Japan, NGDP, Activity, SA, USD bn",None,line
@@ -2841,7 +2841,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, Education, SA, USD bn","Japan, RGDP, Activity, Tertiary, Education, SA, USD bn",None,line
 "Japan, RGDP, Activity, Tertiary, Human health and social work, SA, USD bn","Japan, RGDP, Activity, Tertiary, Human health and social work, SA, USD bn",None,line
 "Japan, RGDP, Activity, Tertiary, Other service, SA, USD bn","Japan, RGDP, Activity, Tertiary, Other service, SA, USD bn",None,line
-"Japan, RGDP, Activity, Sub-total, SA, USD bn","Japan, RGDP, Activity, Sub-total, SA, USD bn",None,line
+"Japan, RGDP, Activity, All, SA, USD bn","Japan, RGDP, Activity, All, SA, USD bn",None,line
 "Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, USD bn","Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, USD bn",None,line
 "Japan, RGDP, Activity, Statistical discrepancy, SA, USD bn","Japan, RGDP, Activity, Statistical discrepancy, SA, USD bn",None,line
 "Japan, RGDP, Activity, SA, USD bn","Japan, RGDP, Activity, SA, USD bn",None,line
@@ -3375,7 +3375,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, USD tn","Japan, NGDP, Activity, Tertiary, Education, USD tn",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, USD tn","Japan, NGDP, Activity, Tertiary, Human health and social work, USD tn",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, USD tn","Japan, NGDP, Activity, Tertiary, Other service, USD tn",None,line
-"Japan, NGDP, Activity, Sub-total, USD tn","Japan, NGDP, Activity, Sub-total, USD tn",None,line
+"Japan, NGDP, Activity, All, USD tn","Japan, NGDP, Activity, All, USD tn",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), USD tn","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), USD tn",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, USD tn","Japan, NGDP, Activity, Statistical discrepancy, USD tn",None,line
 "Japan, NGDP, Activity, USD tn","Japan, NGDP, Activity, USD tn",None,line
@@ -3412,7 +3412,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, Education, USD tn","Japan, RGDP, Activity, Tertiary, Education, USD tn",None,line
 "Japan, RGDP, Activity, Tertiary, Human health and social work, USD tn","Japan, RGDP, Activity, Tertiary, Human health and social work, USD tn",None,line
 "Japan, RGDP, Activity, Tertiary, Other service, USD tn","Japan, RGDP, Activity, Tertiary, Other service, USD tn",None,line
-"Japan, RGDP, Activity, Sub-total, USD tn","Japan, RGDP, Activity, Sub-total, USD tn",None,line
+"Japan, RGDP, Activity, All, USD tn","Japan, RGDP, Activity, All, USD tn",None,line
 "Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), USD tn","Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), USD tn",None,line
 "Japan, RGDP, Activity, Statistical discrepancy, USD tn","Japan, RGDP, Activity, Statistical discrepancy, USD tn",None,line
 "Japan, RGDP, Activity, USD tn","Japan, RGDP, Activity, USD tn",None,line
@@ -3449,7 +3449,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, SA, USD tn","Japan, NGDP, Activity, Tertiary, Education, SA, USD tn",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, SA, USD tn","Japan, NGDP, Activity, Tertiary, Human health and social work, SA, USD tn",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, SA, USD tn","Japan, NGDP, Activity, Tertiary, Other service, SA, USD tn",None,line
-"Japan, NGDP, Activity, Sub-total, SA, USD tn","Japan, NGDP, Activity, Sub-total, SA, USD tn",None,line
+"Japan, NGDP, Activity, All, SA, USD tn","Japan, NGDP, Activity, All, SA, USD tn",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, USD tn","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, USD tn",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, SA, USD tn","Japan, NGDP, Activity, Statistical discrepancy, SA, USD tn",None,line
 "Japan, NGDP, Activity, SA, USD tn","Japan, NGDP, Activity, SA, USD tn",None,line
@@ -3486,7 +3486,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, Education, SA, USD tn","Japan, RGDP, Activity, Tertiary, Education, SA, USD tn",None,line
 "Japan, RGDP, Activity, Tertiary, Human health and social work, SA, USD tn","Japan, RGDP, Activity, Tertiary, Human health and social work, SA, USD tn",None,line
 "Japan, RGDP, Activity, Tertiary, Other service, SA, USD tn","Japan, RGDP, Activity, Tertiary, Other service, SA, USD tn",None,line
-"Japan, RGDP, Activity, Sub-total, SA, USD tn","Japan, RGDP, Activity, Sub-total, SA, USD tn",None,line
+"Japan, RGDP, Activity, All, SA, USD tn","Japan, RGDP, Activity, All, SA, USD tn",None,line
 "Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, USD tn","Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), SA, USD tn",None,line
 "Japan, RGDP, Activity, Statistical discrepancy, SA, USD tn","Japan, RGDP, Activity, Statistical discrepancy, SA, USD tn",None,line
 "Japan, RGDP, Activity, SA, USD tn","Japan, RGDP, Activity, SA, USD tn",None,line
@@ -3793,7 +3793,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, JPY bn, 12M sum","Japan, NGDP, Activity, Tertiary, Education, JPY bn, 12M sum",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, JPY bn, 12M sum","Japan, NGDP, Activity, Tertiary, Human health and social work, JPY bn, 12M sum",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, JPY bn, 12M sum","Japan, NGDP, Activity, Tertiary, Other service, JPY bn, 12M sum",None,line
-"Japan, NGDP, Activity, Sub-total, JPY bn, 12M sum","Japan, NGDP, Activity, Sub-total, JPY bn, 12M sum",None,line
+"Japan, NGDP, Activity, All, JPY bn, 12M sum","Japan, NGDP, Activity, All, JPY bn, 12M sum",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY bn, 12M sum","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY bn, 12M sum",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, JPY bn, 12M sum","Japan, NGDP, Activity, Statistical discrepancy, JPY bn, 12M sum",None,line
 "Japan, NGDP, Activity, JPY bn, 12M sum","Japan, NGDP, Activity, JPY bn, 12M sum",None,line
@@ -3830,7 +3830,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, Education, JPY bn, 12M sum","Japan, RGDP, Activity, Tertiary, Education, JPY bn, 12M sum",None,line
 "Japan, RGDP, Activity, Tertiary, Human health and social work, JPY bn, 12M sum","Japan, RGDP, Activity, Tertiary, Human health and social work, JPY bn, 12M sum",None,line
 "Japan, RGDP, Activity, Tertiary, Other service, JPY bn, 12M sum","Japan, RGDP, Activity, Tertiary, Other service, JPY bn, 12M sum",None,line
-"Japan, RGDP, Activity, Sub-total, JPY bn, 12M sum","Japan, RGDP, Activity, Sub-total, JPY bn, 12M sum",None,line
+"Japan, RGDP, Activity, All, JPY bn, 12M sum","Japan, RGDP, Activity, All, JPY bn, 12M sum",None,line
 "Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY bn, 12M sum","Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY bn, 12M sum",None,line
 "Japan, RGDP, Activity, Statistical discrepancy, JPY bn, 12M sum","Japan, RGDP, Activity, Statistical discrepancy, JPY bn, 12M sum",None,line
 "Japan, RGDP, Activity, JPY bn, 12M sum","Japan, RGDP, Activity, JPY bn, 12M sum",None,line
@@ -4045,7 +4045,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, JPY tn, 12M sum","Japan, NGDP, Activity, Tertiary, Education, JPY tn, 12M sum",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, JPY tn, 12M sum","Japan, NGDP, Activity, Tertiary, Human health and social work, JPY tn, 12M sum",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, JPY tn, 12M sum","Japan, NGDP, Activity, Tertiary, Other service, JPY tn, 12M sum",None,line
-"Japan, NGDP, Activity, Sub-total, JPY tn, 12M sum","Japan, NGDP, Activity, Sub-total, JPY tn, 12M sum",None,line
+"Japan, NGDP, Activity, All, JPY tn, 12M sum","Japan, NGDP, Activity, All, JPY tn, 12M sum",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY tn, 12M sum","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY tn, 12M sum",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, JPY tn, 12M sum","Japan, NGDP, Activity, Statistical discrepancy, JPY tn, 12M sum",None,line
 "Japan, NGDP, Activity, JPY tn, 12M sum","Japan, NGDP, Activity, JPY tn, 12M sum",None,line
@@ -4082,7 +4082,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, Education, JPY tn, 12M sum","Japan, RGDP, Activity, Tertiary, Education, JPY tn, 12M sum",None,line
 "Japan, RGDP, Activity, Tertiary, Human health and social work, JPY tn, 12M sum","Japan, RGDP, Activity, Tertiary, Human health and social work, JPY tn, 12M sum",None,line
 "Japan, RGDP, Activity, Tertiary, Other service, JPY tn, 12M sum","Japan, RGDP, Activity, Tertiary, Other service, JPY tn, 12M sum",None,line
-"Japan, RGDP, Activity, Sub-total, JPY tn, 12M sum","Japan, RGDP, Activity, Sub-total, JPY tn, 12M sum",None,line
+"Japan, RGDP, Activity, All, JPY tn, 12M sum","Japan, RGDP, Activity, All, JPY tn, 12M sum",None,line
 "Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY tn, 12M sum","Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), JPY tn, 12M sum",None,line
 "Japan, RGDP, Activity, Statistical discrepancy, JPY tn, 12M sum","Japan, RGDP, Activity, Statistical discrepancy, JPY tn, 12M sum",None,line
 "Japan, RGDP, Activity, JPY tn, 12M sum","Japan, RGDP, Activity, JPY tn, 12M sum",None,line
@@ -4297,7 +4297,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, USD bn, 12M sum","Japan, NGDP, Activity, Tertiary, Education, USD bn, 12M sum",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, USD bn, 12M sum","Japan, NGDP, Activity, Tertiary, Human health and social work, USD bn, 12M sum",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, USD bn, 12M sum","Japan, NGDP, Activity, Tertiary, Other service, USD bn, 12M sum",None,line
-"Japan, NGDP, Activity, Sub-total, USD bn, 12M sum","Japan, NGDP, Activity, Sub-total, USD bn, 12M sum",None,line
+"Japan, NGDP, Activity, All, USD bn, 12M sum","Japan, NGDP, Activity, All, USD bn, 12M sum",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), USD bn, 12M sum","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), USD bn, 12M sum",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, USD bn, 12M sum","Japan, NGDP, Activity, Statistical discrepancy, USD bn, 12M sum",None,line
 "Japan, NGDP, Activity, USD bn, 12M sum","Japan, NGDP, Activity, USD bn, 12M sum",None,line
@@ -4334,7 +4334,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, Education, USD bn, 12M sum","Japan, RGDP, Activity, Tertiary, Education, USD bn, 12M sum",None,line
 "Japan, RGDP, Activity, Tertiary, Human health and social work, USD bn, 12M sum","Japan, RGDP, Activity, Tertiary, Human health and social work, USD bn, 12M sum",None,line
 "Japan, RGDP, Activity, Tertiary, Other service, USD bn, 12M sum","Japan, RGDP, Activity, Tertiary, Other service, USD bn, 12M sum",None,line
-"Japan, RGDP, Activity, Sub-total, USD bn, 12M sum","Japan, RGDP, Activity, Sub-total, USD bn, 12M sum",None,line
+"Japan, RGDP, Activity, All, USD bn, 12M sum","Japan, RGDP, Activity, All, USD bn, 12M sum",None,line
 "Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), USD bn, 12M sum","Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), USD bn, 12M sum",None,line
 "Japan, RGDP, Activity, Statistical discrepancy, USD bn, 12M sum","Japan, RGDP, Activity, Statistical discrepancy, USD bn, 12M sum",None,line
 "Japan, RGDP, Activity, USD bn, 12M sum","Japan, RGDP, Activity, USD bn, 12M sum",None,line
@@ -4549,7 +4549,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Activity, Tertiary, Education, USD tn, 12M sum","Japan, NGDP, Activity, Tertiary, Education, USD tn, 12M sum",None,line
 "Japan, NGDP, Activity, Tertiary, Human health and social work, USD tn, 12M sum","Japan, NGDP, Activity, Tertiary, Human health and social work, USD tn, 12M sum",None,line
 "Japan, NGDP, Activity, Tertiary, Other service, USD tn, 12M sum","Japan, NGDP, Activity, Tertiary, Other service, USD tn, 12M sum",None,line
-"Japan, NGDP, Activity, Sub-total, USD tn, 12M sum","Japan, NGDP, Activity, Sub-total, USD tn, 12M sum",None,line
+"Japan, NGDP, Activity, All, USD tn, 12M sum","Japan, NGDP, Activity, All, USD tn, 12M sum",None,line
 "Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), USD tn, 12M sum","Japan, NGDP, Activity, Gross domestic product (not including statistical discrepancy), USD tn, 12M sum",None,line
 "Japan, NGDP, Activity, Statistical discrepancy, USD tn, 12M sum","Japan, NGDP, Activity, Statistical discrepancy, USD tn, 12M sum",None,line
 "Japan, NGDP, Activity, USD tn, 12M sum","Japan, NGDP, Activity, USD tn, 12M sum",None,line
@@ -4586,7 +4586,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Activity, Tertiary, Education, USD tn, 12M sum","Japan, RGDP, Activity, Tertiary, Education, USD tn, 12M sum",None,line
 "Japan, RGDP, Activity, Tertiary, Human health and social work, USD tn, 12M sum","Japan, RGDP, Activity, Tertiary, Human health and social work, USD tn, 12M sum",None,line
 "Japan, RGDP, Activity, Tertiary, Other service, USD tn, 12M sum","Japan, RGDP, Activity, Tertiary, Other service, USD tn, 12M sum",None,line
-"Japan, RGDP, Activity, Sub-total, USD tn, 12M sum","Japan, RGDP, Activity, Sub-total, USD tn, 12M sum",None,line
+"Japan, RGDP, Activity, All, USD tn, 12M sum","Japan, RGDP, Activity, All, USD tn, 12M sum",None,line
 "Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), USD tn, 12M sum","Japan, RGDP, Activity, Gross domestic product (not including statistical discrepancy), USD tn, 12M sum",None,line
 "Japan, RGDP, Activity, Statistical discrepancy, USD tn, 12M sum","Japan, RGDP, Activity, Statistical discrepancy, USD tn, 12M sum",None,line
 "Japan, RGDP, Activity, USD tn, 12M sum","Japan, RGDP, Activity, USD tn, 12M sum",None,line

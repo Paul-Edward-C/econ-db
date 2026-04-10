@@ -2010,9 +2010,11 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Region, RCEP, USD bn, % YoY","China, Area, Imports, Region, RCEP, USD bn, % YoY",None,line
 "China, Area, Imports, Region, TOTAL, USD bn, % YoY","China, Area, Imports, Region, TOTAL, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Afghanistan, USD bn, % YoY","China, Area, Exports, Country, Afghanistan, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Aland Islands, USD bn, % YoY","China, Area, Exports, Country, Aland Islands, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Albania, USD bn, % YoY","China, Area, Exports, Country, Albania, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Algeria, USD bn, % YoY","China, Area, Exports, Country, Algeria, USD bn, % YoY",None,line
 "China, Area, Exports, Country, American Samoa, USD bn, % YoY","China, Area, Exports, Country, American Samoa, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Andorra, USD bn, % YoY","China, Area, Exports, Country, Andorra, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Angola, USD bn, % YoY","China, Area, Exports, Country, Angola, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Anguilla, USD bn, % YoY","China, Area, Exports, Country, Anguilla, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Antigua and Barbuda, USD bn, % YoY","China, Area, Exports, Country, Antigua and Barbuda, USD bn, % YoY",None,line
@@ -2033,9 +2035,12 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, Bermuda, USD bn, % YoY","China, Area, Exports, Country, Bermuda, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Bhutan, USD bn, % YoY","China, Area, Exports, Country, Bhutan, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Bolivia, USD bn, % YoY","China, Area, Exports, Country, Bolivia, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Bonaire, USD bn, % YoY","China, Area, Exports, Country, Bonaire, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Bosnia and Herzegovina, USD bn, % YoY","China, Area, Exports, Country, Bosnia and Herzegovina, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Botswana, USD bn, % YoY","China, Area, Exports, Country, Botswana, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Brazil, USD bn, % YoY","China, Area, Exports, Country, Brazil, USD bn, % YoY",None,line
+"China, Area, Exports, Country, British Virgin Islands, USD bn, % YoY","China, Area, Exports, Country, British Virgin Islands, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Brunei Darussalam, USD bn, % YoY","China, Area, Exports, Country, Brunei Darussalam, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Brunei, USD bn, % YoY","China, Area, Exports, Country, Brunei, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Bulgaria, USD bn, % YoY","China, Area, Exports, Country, Bulgaria, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Burkina Faso, USD bn, % YoY","China, Area, Exports, Country, Burkina Faso, USD bn, % YoY",None,line
@@ -2044,17 +2049,25 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, Cambodia, USD bn, % YoY","China, Area, Exports, Country, Cambodia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Cameroon, USD bn, % YoY","China, Area, Exports, Country, Cameroon, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Canada, USD bn, % YoY","China, Area, Exports, Country, Canada, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Canary Islands, USD bn, % YoY","China, Area, Exports, Country, Canary Islands, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Cape Verde, USD bn, % YoY","China, Area, Exports, Country, Cape Verde, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Cayman Islands, USD bn, % YoY","China, Area, Exports, Country, Cayman Islands, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Central African Republic, USD bn, % YoY","China, Area, Exports, Country, Central African Republic, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Chad, USD bn, % YoY","China, Area, Exports, Country, Chad, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Chile, USD bn, % YoY","China, Area, Exports, Country, Chile, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Colombia, USD bn, % YoY","China, Area, Exports, Country, Colombia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Comoros, USD bn, % YoY","China, Area, Exports, Country, Comoros, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Congo, USD bn, % YoY","China, Area, Exports, Country, Congo, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Cook Islands, USD bn, % YoY","China, Area, Exports, Country, Cook Islands, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Costa Rica, USD bn, % YoY","China, Area, Exports, Country, Costa Rica, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Cote d'Ivoire, USD bn, % YoY","China, Area, Exports, Country, Cote d'Ivoire, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Countries unknown, USD bn, % YoY","China, Area, Exports, Country, Countries unknown, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Croatia, USD bn, % YoY","China, Area, Exports, Country, Croatia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Cuba, USD bn, % YoY","China, Area, Exports, Country, Cuba, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Curacao, USD bn, % YoY","China, Area, Exports, Country, Curacao, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Curaçao, USD bn, % YoY","China, Area, Exports, Country, Curaçao, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Cyprus, USD bn, % YoY","China, Area, Exports, Country, Cyprus, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Czech Republic, USD bn, % YoY","China, Area, Exports, Country, Czech Republic, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Czechia, USD bn, % YoY","China, Area, Exports, Country, Czechia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Côte d'Ivoire, USD bn, % YoY","China, Area, Exports, Country, Côte d'Ivoire, USD bn, % YoY",None,line
 "China, Area, Exports, Country, DPRK, USD bn, % YoY","China, Area, Exports, Country, DPRK, USD bn, % YoY",None,line
@@ -2072,10 +2085,12 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, Eswatini, USD bn, % YoY","China, Area, Exports, Country, Eswatini, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Ethiopia, USD bn, % YoY","China, Area, Exports, Country, Ethiopia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Falkland Islands (Malvinas), USD bn, % YoY","China, Area, Exports, Country, Falkland Islands (Malvinas), USD bn, % YoY",None,line
+"China, Area, Exports, Country, Falkland Islands, USD bn, % YoY","China, Area, Exports, Country, Falkland Islands, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Faroe Islands, USD bn, % YoY","China, Area, Exports, Country, Faroe Islands, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Fiji, USD bn, % YoY","China, Area, Exports, Country, Fiji, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Finland, USD bn, % YoY","China, Area, Exports, Country, Finland, USD bn, % YoY",None,line
 "China, Area, Exports, Country, France, USD bn, % YoY","China, Area, Exports, Country, France, USD bn, % YoY",None,line
+"China, Area, Exports, Country, French Guiana, USD bn, % YoY","China, Area, Exports, Country, French Guiana, USD bn, % YoY",None,line
 "China, Area, Exports, Country, French Polynesia, USD bn, % YoY","China, Area, Exports, Country, French Polynesia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Gabon, USD bn, % YoY","China, Area, Exports, Country, Gabon, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Gambia, USD bn, % YoY","China, Area, Exports, Country, Gambia, USD bn, % YoY",None,line
@@ -2085,8 +2100,10 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, Greece, USD bn, % YoY","China, Area, Exports, Country, Greece, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Greenland, USD bn, % YoY","China, Area, Exports, Country, Greenland, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Grenada, USD bn, % YoY","China, Area, Exports, Country, Grenada, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Guadeloupe, USD bn, % YoY","China, Area, Exports, Country, Guadeloupe, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Guam, USD bn, % YoY","China, Area, Exports, Country, Guam, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Guatemala, USD bn, % YoY","China, Area, Exports, Country, Guatemala, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Guernsey, USD bn, % YoY","China, Area, Exports, Country, Guernsey, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Guinea, USD bn, % YoY","China, Area, Exports, Country, Guinea, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Guinea-Bissau, USD bn, % YoY","China, Area, Exports, Country, Guinea-Bissau, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Guyana, USD bn, % YoY","China, Area, Exports, Country, Guyana, USD bn, % YoY",None,line
@@ -2101,10 +2118,12 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, Iran, USD bn, % YoY","China, Area, Exports, Country, Iran, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Iraq, USD bn, % YoY","China, Area, Exports, Country, Iraq, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Ireland, USD bn, % YoY","China, Area, Exports, Country, Ireland, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Isle of Man, USD bn, % YoY","China, Area, Exports, Country, Isle of Man, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Israel, USD bn, % YoY","China, Area, Exports, Country, Israel, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Italy, USD bn, % YoY","China, Area, Exports, Country, Italy, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Jamaica, USD bn, % YoY","China, Area, Exports, Country, Jamaica, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Japan, USD bn, % YoY","China, Area, Exports, Country, Japan, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Jersey, USD bn, % YoY","China, Area, Exports, Country, Jersey, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Jordan, USD bn, % YoY","China, Area, Exports, Country, Jordan, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Kazakhstan, USD bn, % YoY","China, Area, Exports, Country, Kazakhstan, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Kenya, USD bn, % YoY","China, Area, Exports, Country, Kenya, USD bn, % YoY",None,line
@@ -2112,12 +2131,14 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, Korea, USD bn, % YoY","China, Area, Exports, Country, Korea, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Kuwait, USD bn, % YoY","China, Area, Exports, Country, Kuwait, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Kyrgyzstan, USD bn, % YoY","China, Area, Exports, Country, Kyrgyzstan, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Lao, USD bn, % YoY","China, Area, Exports, Country, Lao, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Laos, USD bn, % YoY","China, Area, Exports, Country, Laos, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Latvia, USD bn, % YoY","China, Area, Exports, Country, Latvia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Lebanon, USD bn, % YoY","China, Area, Exports, Country, Lebanon, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Lesotho, USD bn, % YoY","China, Area, Exports, Country, Lesotho, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Liberia, USD bn, % YoY","China, Area, Exports, Country, Liberia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Libya, USD bn, % YoY","China, Area, Exports, Country, Libya, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Liechtenstein, USD bn, % YoY","China, Area, Exports, Country, Liechtenstein, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Lithuania, USD bn, % YoY","China, Area, Exports, Country, Lithuania, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Luxembourg, USD bn, % YoY","China, Area, Exports, Country, Luxembourg, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Macao, USD bn, % YoY","China, Area, Exports, Country, Macao, USD bn, % YoY",None,line
@@ -2128,17 +2149,22 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, Mali, USD bn, % YoY","China, Area, Exports, Country, Mali, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Malta, USD bn, % YoY","China, Area, Exports, Country, Malta, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Marshall Islands, USD bn, % YoY","China, Area, Exports, Country, Marshall Islands, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Martinique, USD bn, % YoY","China, Area, Exports, Country, Martinique, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Mauritania, USD bn, % YoY","China, Area, Exports, Country, Mauritania, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Mauritius, USD bn, % YoY","China, Area, Exports, Country, Mauritius, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Mayotte, USD bn, % YoY","China, Area, Exports, Country, Mayotte, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Melilla, USD bn, % YoY","China, Area, Exports, Country, Melilla, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Mexico, USD bn, % YoY","China, Area, Exports, Country, Mexico, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Micronesia, USD bn, % YoY","China, Area, Exports, Country, Micronesia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Moldova, USD bn, % YoY","China, Area, Exports, Country, Moldova, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Monaco, USD bn, % YoY","China, Area, Exports, Country, Monaco, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Mongolia, USD bn, % YoY","China, Area, Exports, Country, Mongolia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Montenegro, USD bn, % YoY","China, Area, Exports, Country, Montenegro, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Montserrat, USD bn, % YoY","China, Area, Exports, Country, Montserrat, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Morocco, USD bn, % YoY","China, Area, Exports, Country, Morocco, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Mozambique, USD bn, % YoY","China, Area, Exports, Country, Mozambique, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Myanmar, USD bn, % YoY","China, Area, Exports, Country, Myanmar, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Namibia, USD bn, % YoY","China, Area, Exports, Country, Namibia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, NamibiaUSD bn, % YoY","China, Area, Exports, Country, NamibiaUSD bn, % YoY",None,line
 "China, Area, Exports, Country, Nauru, USD bn, % YoY","China, Area, Exports, Country, Nauru, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Nepal, USD bn, % YoY","China, Area, Exports, Country, Nepal, USD bn, % YoY",None,line
@@ -2148,9 +2174,16 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, Nicaragua, USD bn, % YoY","China, Area, Exports, Country, Nicaragua, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Niger, USD bn, % YoY","China, Area, Exports, Country, Niger, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Nigeria, USD bn, % YoY","China, Area, Exports, Country, Nigeria, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Niue, USD bn, % YoY","China, Area, Exports, Country, Niue, USD bn, % YoY",None,line
 "China, Area, Exports, Country, North Macedonia, USD bn, % YoY","China, Area, Exports, Country, North Macedonia, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Northern Mariana Islands, USD bn, % YoY","China, Area, Exports, Country, Northern Mariana Islands, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Norway, USD bn, % YoY","China, Area, Exports, Country, Norway, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Oman, USD bn, % YoY","China, Area, Exports, Country, Oman, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Other Africa, USD bn, % YoY","China, Area, Exports, Country, Other Africa, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Other Europe, USD bn, % YoY","China, Area, Exports, Country, Other Europe, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Other Latin America, USD bn, % YoY","China, Area, Exports, Country, Other Latin America, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Other North America, USD bn, % YoY","China, Area, Exports, Country, Other North America, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Other Oceania, USD bn, % YoY","China, Area, Exports, Country, Other Oceania, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Pakistan, USD bn, % YoY","China, Area, Exports, Country, Pakistan, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Palau, USD bn, % YoY","China, Area, Exports, Country, Palau, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Palestine, USD bn, % YoY","China, Area, Exports, Country, Palestine, USD bn, % YoY",None,line
@@ -2161,12 +2194,17 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, Philippines, USD bn, % YoY","China, Area, Exports, Country, Philippines, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Poland, USD bn, % YoY","China, Area, Exports, Country, Poland, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Portugal, USD bn, % YoY","China, Area, Exports, Country, Portugal, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Puerto Rico, USD bn, % YoY","China, Area, Exports, Country, Puerto Rico, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Qatar, USD bn, % YoY","China, Area, Exports, Country, Qatar, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Republic of North Macedonia, USD bn, % YoY","China, Area, Exports, Country, Republic of North Macedonia, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Reunion, USD bn, % YoY","China, Area, Exports, Country, Reunion, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Romania, USD bn, % YoY","China, Area, Exports, Country, Romania, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Russia, USD bn, % YoY","China, Area, Exports, Country, Russia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Rwanda, USD bn, % YoY","China, Area, Exports, Country, Rwanda, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Saint Bartholomew, USD bn, % YoY","China, Area, Exports, Country, Saint Bartholomew, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Saint Kitts and Nevis, USD bn, % YoY","China, Area, Exports, Country, Saint Kitts and Nevis, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Saint Lucia, USD bn, % YoY","China, Area, Exports, Country, Saint Lucia, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Saint Martin, USD bn, % YoY","China, Area, Exports, Country, Saint Martin, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Saint Vincent and the Grenadines, USD bn, % YoY","China, Area, Exports, Country, Saint Vincent and the Grenadines, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Samoa, USD bn, % YoY","China, Area, Exports, Country, Samoa, USD bn, % YoY",None,line
 "China, Area, Exports, Country, San Marino, USD bn, % YoY","China, Area, Exports, Country, San Marino, USD bn, % YoY",None,line
@@ -2186,8 +2224,14 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, South Sudan, USD bn, % YoY","China, Area, Exports, Country, South Sudan, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Spain, USD bn, % YoY","China, Area, Exports, Country, Spain, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Sri Lanka, USD bn, % YoY","China, Area, Exports, Country, Sri Lanka, USD bn, % YoY",None,line
+"China, Area, Exports, Country, St Helena, USD bn, % YoY","China, Area, Exports, Country, St Helena, USD bn, % YoY",None,line
+"China, Area, Exports, Country, St Kitts and Nevis, USD bn, % YoY","China, Area, Exports, Country, St Kitts and Nevis, USD bn, % YoY",None,line
+"China, Area, Exports, Country, St Martin, USD bn, % YoY","China, Area, Exports, Country, St Martin, USD bn, % YoY",None,line
+"China, Area, Exports, Country, St Pierre and Miquelon, USD bn, % YoY","China, Area, Exports, Country, St Pierre and Miquelon, USD bn, % YoY",None,line
+"China, Area, Exports, Country, St Vincent and Grenadines, USD bn, % YoY","China, Area, Exports, Country, St Vincent and Grenadines, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Sudan, USD bn, % YoY","China, Area, Exports, Country, Sudan, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Suriname, USD bn, % YoY","China, Area, Exports, Country, Suriname, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Swaziland, USD bn, % YoY","China, Area, Exports, Country, Swaziland, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Sweden, USD bn, % YoY","China, Area, Exports, Country, Sweden, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Switzerland, USD bn, % YoY","China, Area, Exports, Country, Switzerland, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Syria, USD bn, % YoY","China, Area, Exports, Country, Syria, USD bn, % YoY",None,line
@@ -2202,17 +2246,23 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, Tunisia, USD bn, % YoY","China, Area, Exports, Country, Tunisia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Turkey, USD bn, % YoY","China, Area, Exports, Country, Turkey, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Turkmenistan, USD bn, % YoY","China, Area, Exports, Country, Turkmenistan, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Turks and Caicos Islands, USD bn, % YoY","China, Area, Exports, Country, Turks and Caicos Islands, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Tuvalu, USD bn, % YoY","China, Area, Exports, Country, Tuvalu, USD bn, % YoY",None,line
 "China, Area, Exports, Country, UAE, USD bn, % YoY","China, Area, Exports, Country, UAE, USD bn, % YoY",None,line
 "China, Area, Exports, Country, UK, USD bn, % YoY","China, Area, Exports, Country, UK, USD bn, % YoY",None,line
+"China, Area, Exports, Country, US Minor Outlying Islands, USD bn, % YoY","China, Area, Exports, Country, US Minor Outlying Islands, USD bn, % YoY",None,line
+"China, Area, Exports, Country, US Virgin Islands, USD bn, % YoY","China, Area, Exports, Country, US Virgin Islands, USD bn, % YoY",None,line
 "China, Area, Exports, Country, US, USD bn, % YoY","China, Area, Exports, Country, US, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Uganda, USD bn, % YoY","China, Area, Exports, Country, Uganda, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Ukraine, USD bn, % YoY","China, Area, Exports, Country, Ukraine, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Uruguay, USD bn, % YoY","China, Area, Exports, Country, Uruguay, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Uzbekistan, USD bn, % YoY","China, Area, Exports, Country, Uzbekistan, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Vanuatu, USD bn, % YoY","China, Area, Exports, Country, Vanuatu, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Vatican, USD bn, % YoY","China, Area, Exports, Country, Vatican, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Venezuela, USD bn, % YoY","China, Area, Exports, Country, Venezuela, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Vietnam, USD bn, % YoY","China, Area, Exports, Country, Vietnam, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Wallis and Futuna, USD bn, % YoY","China, Area, Exports, Country, Wallis and Futuna, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Western Sahara, USD bn, % YoY","China, Area, Exports, Country, Western Sahara, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Yemen, USD bn, % YoY","China, Area, Exports, Country, Yemen, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Zambia, USD bn, % YoY","China, Area, Exports, Country, Zambia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Zimbabwe, USD bn, % YoY","China, Area, Exports, Country, Zimbabwe, USD bn, % YoY",None,line
@@ -2220,6 +2270,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Albania, USD bn, % YoY","China, Area, Imports, Country, Albania, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Algeria, USD bn, % YoY","China, Area, Imports, Country, Algeria, USD bn, % YoY",None,line
 "China, Area, Imports, Country, American Samoa, USD bn, % YoY","China, Area, Imports, Country, American Samoa, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Andorra, USD bn, % YoY","China, Area, Imports, Country, Andorra, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Angola, USD bn, % YoY","China, Area, Imports, Country, Angola, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Anguilla, USD bn, % YoY","China, Area, Imports, Country, Anguilla, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Antigua and Barbuda, USD bn, % YoY","China, Area, Imports, Country, Antigua and Barbuda, USD bn, % YoY",None,line
@@ -2240,9 +2291,12 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Bermuda, USD bn, % YoY","China, Area, Imports, Country, Bermuda, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Bhutan, USD bn, % YoY","China, Area, Imports, Country, Bhutan, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Bolivia, USD bn, % YoY","China, Area, Imports, Country, Bolivia, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Bonaire, USD bn, % YoY","China, Area, Imports, Country, Bonaire, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Bosnia and Herzegovina, USD bn, % YoY","China, Area, Imports, Country, Bosnia and Herzegovina, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Botswana, USD bn, % YoY","China, Area, Imports, Country, Botswana, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Brazil, USD bn, % YoY","China, Area, Imports, Country, Brazil, USD bn, % YoY",None,line
+"China, Area, Imports, Country, British Virgin Islands, USD bn, % YoY","China, Area, Imports, Country, British Virgin Islands, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Brunei Darussalam, USD bn, % YoY","China, Area, Imports, Country, Brunei Darussalam, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Brunei, USD bn, % YoY","China, Area, Imports, Country, Brunei, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Bulgaria, USD bn, % YoY","China, Area, Imports, Country, Bulgaria, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Burkina Faso, USD bn, % YoY","China, Area, Imports, Country, Burkina Faso, USD bn, % YoY",None,line
@@ -2251,17 +2305,27 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Cambodia, USD bn, % YoY","China, Area, Imports, Country, Cambodia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Cameroon, USD bn, % YoY","China, Area, Imports, Country, Cameroon, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Canada, USD bn, % YoY","China, Area, Imports, Country, Canada, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Canary Islands, USD bn, % YoY","China, Area, Imports, Country, Canary Islands, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Cape Verde, USD bn, % YoY","China, Area, Imports, Country, Cape Verde, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Cayman Islands, USD bn, % YoY","China, Area, Imports, Country, Cayman Islands, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Central African Republic, USD bn, % YoY","China, Area, Imports, Country, Central African Republic, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Chad, USD bn, % YoY","China, Area, Imports, Country, Chad, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Chile, USD bn, % YoY","China, Area, Imports, Country, Chile, USD bn, % YoY",None,line
+"China, Area, Imports, Country, China, USD bn, % YoY","China, Area, Imports, Country, China, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Christmas Island, USD bn, % YoY","China, Area, Imports, Country, Christmas Island, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Colombia, USD bn, % YoY","China, Area, Imports, Country, Colombia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Comoros, USD bn, % YoY","China, Area, Imports, Country, Comoros, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Congo, USD bn, % YoY","China, Area, Imports, Country, Congo, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Cook Islands, USD bn, % YoY","China, Area, Imports, Country, Cook Islands, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Costa Rica, USD bn, % YoY","China, Area, Imports, Country, Costa Rica, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Cote d'Ivoire, USD bn, % YoY","China, Area, Imports, Country, Cote d'Ivoire, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Countries unknown, USD bn, % YoY","China, Area, Imports, Country, Countries unknown, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Croatia, USD bn, % YoY","China, Area, Imports, Country, Croatia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Cuba, USD bn, % YoY","China, Area, Imports, Country, Cuba, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Curacao, USD bn, % YoY","China, Area, Imports, Country, Curacao, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Curaçao, USD bn, % YoY","China, Area, Imports, Country, Curaçao, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Cyprus, USD bn, % YoY","China, Area, Imports, Country, Cyprus, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Czech Republic, USD bn, % YoY","China, Area, Imports, Country, Czech Republic, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Czechia, USD bn, % YoY","China, Area, Imports, Country, Czechia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Côte d'Ivoire, USD bn, % YoY","China, Area, Imports, Country, Côte d'Ivoire, USD bn, % YoY",None,line
 "China, Area, Imports, Country, DPRK, USD bn, % YoY","China, Area, Imports, Country, DPRK, USD bn, % YoY",None,line
@@ -2283,7 +2347,9 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Fiji, USD bn, % YoY","China, Area, Imports, Country, Fiji, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Finland, USD bn, % YoY","China, Area, Imports, Country, Finland, USD bn, % YoY",None,line
 "China, Area, Imports, Country, France, USD bn, % YoY","China, Area, Imports, Country, France, USD bn, % YoY",None,line
+"China, Area, Imports, Country, French Guiana, USD bn, % YoY","China, Area, Imports, Country, French Guiana, USD bn, % YoY",None,line
 "China, Area, Imports, Country, French Polynesia, USD bn, % YoY","China, Area, Imports, Country, French Polynesia, USD bn, % YoY",None,line
+"China, Area, Imports, Country, French Southern Territories, USD bn, % YoY","China, Area, Imports, Country, French Southern Territories, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Gabon, USD bn, % YoY","China, Area, Imports, Country, Gabon, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Gambia, USD bn, % YoY","China, Area, Imports, Country, Gambia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Georgia, USD bn, % YoY","China, Area, Imports, Country, Georgia, USD bn, % YoY",None,line
@@ -2292,6 +2358,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Greece, USD bn, % YoY","China, Area, Imports, Country, Greece, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Greenland, USD bn, % YoY","China, Area, Imports, Country, Greenland, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Grenada, USD bn, % YoY","China, Area, Imports, Country, Grenada, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Guadeloupe, USD bn, % YoY","China, Area, Imports, Country, Guadeloupe, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Guam, USD bn, % YoY","China, Area, Imports, Country, Guam, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Guatemala, USD bn, % YoY","China, Area, Imports, Country, Guatemala, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Guinea, USD bn, % YoY","China, Area, Imports, Country, Guinea, USD bn, % YoY",None,line
@@ -2308,10 +2375,12 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Iran, USD bn, % YoY","China, Area, Imports, Country, Iran, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Iraq, USD bn, % YoY","China, Area, Imports, Country, Iraq, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Ireland, USD bn, % YoY","China, Area, Imports, Country, Ireland, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Isle of Man, USD bn, % YoY","China, Area, Imports, Country, Isle of Man, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Israel, USD bn, % YoY","China, Area, Imports, Country, Israel, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Italy, USD bn, % YoY","China, Area, Imports, Country, Italy, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Jamaica, USD bn, % YoY","China, Area, Imports, Country, Jamaica, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Japan, USD bn, % YoY","China, Area, Imports, Country, Japan, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Jersey, USD bn, % YoY","China, Area, Imports, Country, Jersey, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Jordan, USD bn, % YoY","China, Area, Imports, Country, Jordan, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Kazakhstan, USD bn, % YoY","China, Area, Imports, Country, Kazakhstan, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Kenya, USD bn, % YoY","China, Area, Imports, Country, Kenya, USD bn, % YoY",None,line
@@ -2319,12 +2388,14 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Korea, USD bn, % YoY","China, Area, Imports, Country, Korea, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Kuwait, USD bn, % YoY","China, Area, Imports, Country, Kuwait, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Kyrgyzstan, USD bn, % YoY","China, Area, Imports, Country, Kyrgyzstan, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Lao, USD bn, % YoY","China, Area, Imports, Country, Lao, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Laos, USD bn, % YoY","China, Area, Imports, Country, Laos, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Latvia, USD bn, % YoY","China, Area, Imports, Country, Latvia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Lebanon, USD bn, % YoY","China, Area, Imports, Country, Lebanon, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Lesotho, USD bn, % YoY","China, Area, Imports, Country, Lesotho, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Liberia, USD bn, % YoY","China, Area, Imports, Country, Liberia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Libya, USD bn, % YoY","China, Area, Imports, Country, Libya, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Liechtenstein, USD bn, % YoY","China, Area, Imports, Country, Liechtenstein, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Lithuania, USD bn, % YoY","China, Area, Imports, Country, Lithuania, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Luxembourg, USD bn, % YoY","China, Area, Imports, Country, Luxembourg, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Macao, USD bn, % YoY","China, Area, Imports, Country, Macao, USD bn, % YoY",None,line
@@ -2335,17 +2406,22 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Mali, USD bn, % YoY","China, Area, Imports, Country, Mali, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Malta, USD bn, % YoY","China, Area, Imports, Country, Malta, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Marshall Islands, USD bn, % YoY","China, Area, Imports, Country, Marshall Islands, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Martinique, USD bn, % YoY","China, Area, Imports, Country, Martinique, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Mauritania, USD bn, % YoY","China, Area, Imports, Country, Mauritania, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Mauritius, USD bn, % YoY","China, Area, Imports, Country, Mauritius, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Mayotte, USD bn, % YoY","China, Area, Imports, Country, Mayotte, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Melilla, USD bn, % YoY","China, Area, Imports, Country, Melilla, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Mexico, USD bn, % YoY","China, Area, Imports, Country, Mexico, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Micronesia, USD bn, % YoY","China, Area, Imports, Country, Micronesia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Moldova, USD bn, % YoY","China, Area, Imports, Country, Moldova, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Monaco, USD bn, % YoY","China, Area, Imports, Country, Monaco, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Mongolia, USD bn, % YoY","China, Area, Imports, Country, Mongolia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Montenegro, USD bn, % YoY","China, Area, Imports, Country, Montenegro, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Montserrat, USD bn, % YoY","China, Area, Imports, Country, Montserrat, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Morocco, USD bn, % YoY","China, Area, Imports, Country, Morocco, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Mozambique, USD bn, % YoY","China, Area, Imports, Country, Mozambique, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Myanmar, USD bn, % YoY","China, Area, Imports, Country, Myanmar, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Namibia, USD bn, % YoY","China, Area, Imports, Country, Namibia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, NamibiaUSD bn, % YoY","China, Area, Imports, Country, NamibiaUSD bn, % YoY",None,line
 "China, Area, Imports, Country, Nauru, USD bn, % YoY","China, Area, Imports, Country, Nauru, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Nepal, USD bn, % YoY","China, Area, Imports, Country, Nepal, USD bn, % YoY",None,line
@@ -2355,9 +2431,16 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Nicaragua, USD bn, % YoY","China, Area, Imports, Country, Nicaragua, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Niger, USD bn, % YoY","China, Area, Imports, Country, Niger, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Nigeria, USD bn, % YoY","China, Area, Imports, Country, Nigeria, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Niue, USD bn, % YoY","China, Area, Imports, Country, Niue, USD bn, % YoY",None,line
 "China, Area, Imports, Country, North Macedonia, USD bn, % YoY","China, Area, Imports, Country, North Macedonia, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Northern Mariana Islands, USD bn, % YoY","China, Area, Imports, Country, Northern Mariana Islands, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Norway, USD bn, % YoY","China, Area, Imports, Country, Norway, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Oman, USD bn, % YoY","China, Area, Imports, Country, Oman, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Other Africa, USD bn, % YoY","China, Area, Imports, Country, Other Africa, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Other Europe, USD bn, % YoY","China, Area, Imports, Country, Other Europe, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Other Latin America, USD bn, % YoY","China, Area, Imports, Country, Other Latin America, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Other North America, USD bn, % YoY","China, Area, Imports, Country, Other North America, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Other Oceania, USD bn, % YoY","China, Area, Imports, Country, Other Oceania, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Pakistan, USD bn, % YoY","China, Area, Imports, Country, Pakistan, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Palau, USD bn, % YoY","China, Area, Imports, Country, Palau, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Palestine, USD bn, % YoY","China, Area, Imports, Country, Palestine, USD bn, % YoY",None,line
@@ -2368,10 +2451,14 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Philippines, USD bn, % YoY","China, Area, Imports, Country, Philippines, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Poland, USD bn, % YoY","China, Area, Imports, Country, Poland, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Portugal, USD bn, % YoY","China, Area, Imports, Country, Portugal, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Puerto Rico, USD bn, % YoY","China, Area, Imports, Country, Puerto Rico, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Qatar, USD bn, % YoY","China, Area, Imports, Country, Qatar, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Republic of North Macedonia, USD bn, % YoY","China, Area, Imports, Country, Republic of North Macedonia, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Reunion, USD bn, % YoY","China, Area, Imports, Country, Reunion, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Romania, USD bn, % YoY","China, Area, Imports, Country, Romania, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Russia, USD bn, % YoY","China, Area, Imports, Country, Russia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Rwanda, USD bn, % YoY","China, Area, Imports, Country, Rwanda, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Saint Bartholomew, USD bn, % YoY","China, Area, Imports, Country, Saint Bartholomew, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Saint Kitts and Nevis, USD bn, % YoY","China, Area, Imports, Country, Saint Kitts and Nevis, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Saint Lucia, USD bn, % YoY","China, Area, Imports, Country, Saint Lucia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Saint Vincent and the Grenadines, USD bn, % YoY","China, Area, Imports, Country, Saint Vincent and the Grenadines, USD bn, % YoY",None,line
@@ -2393,8 +2480,11 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, South Sudan, USD bn, % YoY","China, Area, Imports, Country, South Sudan, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Spain, USD bn, % YoY","China, Area, Imports, Country, Spain, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Sri Lanka, USD bn, % YoY","China, Area, Imports, Country, Sri Lanka, USD bn, % YoY",None,line
+"China, Area, Imports, Country, St Kitts and Nevis, USD bn, % YoY","China, Area, Imports, Country, St Kitts and Nevis, USD bn, % YoY",None,line
+"China, Area, Imports, Country, St Martin, USD bn, % YoY","China, Area, Imports, Country, St Martin, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Sudan, USD bn, % YoY","China, Area, Imports, Country, Sudan, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Suriname, USD bn, % YoY","China, Area, Imports, Country, Suriname, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Swaziland, USD bn, % YoY","China, Area, Imports, Country, Swaziland, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Sweden, USD bn, % YoY","China, Area, Imports, Country, Sweden, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Switzerland, USD bn, % YoY","China, Area, Imports, Country, Switzerland, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Syria, USD bn, % YoY","China, Area, Imports, Country, Syria, USD bn, % YoY",None,line
@@ -2409,9 +2499,12 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Tunisia, USD bn, % YoY","China, Area, Imports, Country, Tunisia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Turkey, USD bn, % YoY","China, Area, Imports, Country, Turkey, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Turkmenistan, USD bn, % YoY","China, Area, Imports, Country, Turkmenistan, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Turks and Caicos Islands, USD bn, % YoY","China, Area, Imports, Country, Turks and Caicos Islands, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Tuvalu, USD bn, % YoY","China, Area, Imports, Country, Tuvalu, USD bn, % YoY",None,line
 "China, Area, Imports, Country, UAE, USD bn, % YoY","China, Area, Imports, Country, UAE, USD bn, % YoY",None,line
 "China, Area, Imports, Country, UK, USD bn, % YoY","China, Area, Imports, Country, UK, USD bn, % YoY",None,line
+"China, Area, Imports, Country, US Minor Outlying Islands, USD bn, % YoY","China, Area, Imports, Country, US Minor Outlying Islands, USD bn, % YoY",None,line
+"China, Area, Imports, Country, US Virgin Islands, USD bn, % YoY","China, Area, Imports, Country, US Virgin Islands, USD bn, % YoY",None,line
 "China, Area, Imports, Country, US, USD bn, % YoY","China, Area, Imports, Country, US, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Uganda, USD bn, % YoY","China, Area, Imports, Country, Uganda, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Ukraine, USD bn, % YoY","China, Area, Imports, Country, Ukraine, USD bn, % YoY",None,line
@@ -2420,6 +2513,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Vanuatu, USD bn, % YoY","China, Area, Imports, Country, Vanuatu, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Venezuela, USD bn, % YoY","China, Area, Imports, Country, Venezuela, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Vietnam, USD bn, % YoY","China, Area, Imports, Country, Vietnam, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Western Sahara, USD bn, % YoY","China, Area, Imports, Country, Western Sahara, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Yemen, USD bn, % YoY","China, Area, Imports, Country, Yemen, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Zambia, USD bn, % YoY","China, Area, Imports, Country, Zambia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Zimbabwe, USD bn, % YoY","China, Area, Imports, Country, Zimbabwe, USD bn, % YoY",None,line

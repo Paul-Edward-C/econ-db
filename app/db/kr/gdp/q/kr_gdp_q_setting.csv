@@ -577,7 +577,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Goods, Per capita, SA, KRW m","Korea, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Goods, Per capita, SA, KRW m",None,line
 "Korea, NGDP, Income, Compensation per worker, KRW","Korea, NGDP, Income, Compensation per worker, KRW",None,line
 "Korea, NGDP, Income, Compensation per total hour worked, KRW","Korea, NGDP, Income, Compensation per total hour worked, KRW",None,line
-"Korea, NGDP, Income, Compensation per average hour worked, KRW","Korea, NGDP, Income, Compensation per average hour worked, KRW",None,line
+"Korea, NGDP, Income, Compensation per total hour worked, Smoothed, KRW","Korea, NGDP, Income, Compensation per total hour worked, Smoothed, KRW",None,line
 "Korea, RGDP, Trading gains, % of GDP","Korea, RGDP, Trading gains, % of GDP",None,line
 "Korea, RGDP, Trading gains, % of GDI","Korea, RGDP, Trading gains, % of GDI",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Final consumption expenditure, SA, KRW bn, 2013-19 trend","Korea, NGDP, Expenditure, Domestic demand, Final consumption expenditure, SA, KRW bn, 2013-19 trend",None,line
@@ -2067,7 +2067,7 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Goods, Per capita, SA, KRW, % YoY m","Korea, NGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Goods, Per capita, SA, KRW, % YoY m",None,line
 "Korea, NGDP, Income, Compensation per worker, KRW, % YoY","Korea, NGDP, Income, Compensation per worker, KRW, % YoY",None,line
 "Korea, NGDP, Income, Compensation per total hour worked, KRW, % YoY","Korea, NGDP, Income, Compensation per total hour worked, KRW, % YoY",None,line
-"Korea, NGDP, Income, Compensation per average hour worked, KRW, % YoY","Korea, NGDP, Income, Compensation per average hour worked, KRW, % YoY",None,line
+"Korea, NGDP, Income, Compensation per total hour worked, Smoothed, KRW, % YoY","Korea, NGDP, Income, Compensation per total hour worked, Smoothed, KRW, % YoY",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Final consumption expenditure, KRW, % QoQ","Korea, NGDP, Expenditure, Domestic demand, Final consumption expenditure, KRW, % QoQ",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Final consumption expenditure, SA, KRW, % QoQ","Korea, NGDP, Expenditure, Domestic demand, Final consumption expenditure, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Government consumption, KRW, % QoQ","Korea, NGDP, Expenditure, Domestic demand, Government consumption, KRW, % QoQ",None,line
@@ -2262,7 +2262,7 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Goods, Per capita, SA, KRW, % QoQ m","Korea, NGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Goods, Per capita, SA, KRW, % QoQ m",None,line
 "Korea, NGDP, Income, Compensation per worker, KRW, % QoQ","Korea, NGDP, Income, Compensation per worker, KRW, % QoQ",None,line
 "Korea, NGDP, Income, Compensation per total hour worked, KRW, % QoQ","Korea, NGDP, Income, Compensation per total hour worked, KRW, % QoQ",None,line
-"Korea, NGDP, Income, Compensation per average hour worked, KRW, % QoQ","Korea, NGDP, Income, Compensation per average hour worked, KRW, % QoQ",None,line
+"Korea, NGDP, Income, Compensation per total hour worked, Smoothed, KRW, % QoQ","Korea, NGDP, Income, Compensation per total hour worked, Smoothed, KRW, % QoQ",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Final consumption expenditure, SA, % of GDP","Korea, NGDP, Expenditure, Domestic demand, Final consumption expenditure, SA, % of GDP",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Government consumption, SA, % of GDP","Korea, NGDP, Expenditure, Domestic demand, Government consumption, SA, % of GDP",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Gross capital formation, Gross fixed capital formation, Buildings and structures, SA, % of GDP","Korea, NGDP, Expenditure, Domestic demand, Gross capital formation, Gross fixed capital formation, Buildings and structures, SA, % of GDP",None,line
@@ -3310,3 +3310,4 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Expenditure, Domestic demand, Private, Excluding inventories, SA, KRW tn, Poly 2013-19 trend","Korea, RGDP, Expenditure, Domestic demand, Private, Excluding inventories, SA, KRW tn, Poly 2013-19 trend",None,line
 "Korea, RGDP, Expenditure, Domestic demand, Public, Excluding inventories, SA, KRW tn, Poly 2013-19 trend","Korea, RGDP, Expenditure, Domestic demand, Public, Excluding inventories, SA, KRW tn, Poly 2013-19 trend",None,line
 "Korea, RGDP, Expenditure, SA, KRW, % QoQ, 12mma","Korea, RGDP, Expenditure, SA, KRW, % QoQ, 12mma",None,line
+"Korea, RGDP, Potential, KRW, % YoY","Korea, RGDP, Potential, KRW, % YoY",None,line

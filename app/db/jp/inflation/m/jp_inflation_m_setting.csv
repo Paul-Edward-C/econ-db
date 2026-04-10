@@ -50,12 +50,15 @@ name,display_name,data_type,chart_type
 "Japan, CPI, Goods, less fresh food, % YoY","Japan, CPI, Goods, less fresh food, % YoY",None,line
 "Japan, CPI, Services, Public services, Other services, % YoY","Japan, CPI, Services, Public services, Other services, % YoY",None,line
 "Japan, CPI, Services, Other services, % YoY","Japan, CPI, Services, Other services, % YoY",None,line
-"Japan, CPI, BOJ, Trimmed mean, % YoY","Japan, CPI, BOJ, Trimmed mean, % YoY",None,line
-"Japan, CPI, BOJ, Weighted median, % YoY","Japan, CPI, BOJ, Weighted median, % YoY",None,line
-"Japan, CPI, BOJ, Mode, % YoY","Japan, CPI, BOJ, Mode, % YoY",None,line
-"Japan, CPI, BOJ, Share of increasing items(%)","Japan, CPI, BOJ, Share of increasing items(%)",None,line
-"Japan, CPI, BOJ, Share of decreasing items(%)","Japan, CPI, BOJ, Share of decreasing items(%)",None,line
-"Japan, CPI, BOJ, Diffusion index","Japan, CPI, BOJ, Diffusion index",None,line
+"Japan, CPI, All items excluding fresh food and institutional factors, % YoY","Japan, CPI, All items excluding fresh food and institutional factors, % YoY",None,line
+"Japan, CPI, All items excluding fresh food and energy and institutional factors, % YoY","Japan, CPI, All items excluding fresh food and energy and institutional factors, % YoY",None,line
+"Japan, CPI, All items excluding food and energy and institutional factors, % YoY","Japan, CPI, All items excluding food and energy and institutional factors, % YoY",None,line
+"Japan, CPI, Trimmed mean, % YoY","Japan, CPI, Trimmed mean, % YoY",None,line
+"Japan, CPI, Weighted median, % YoY","Japan, CPI, Weighted median, % YoY",None,line
+"Japan, CPI, Mode, % YoY","Japan, CPI, Mode, % YoY",None,line
+"Japan, CPI, Share of increasing items, %","Japan, CPI, Share of increasing items, %",None,line
+"Japan, CPI, Share of decreasing items, %","Japan, CPI, Share of decreasing items, %",None,line
+"Japan, CPI, Diffusion index, ppts","Japan, CPI, Diffusion index, ppts",None,line
 "Japan, CPI, Crude oil, JPY","Japan, CPI, Crude oil, JPY",None,line
 "Japan, CPI, Crude oil, JPY, % YoY","Japan, CPI, Crude oil, JPY, % YoY",None,line
 "Japan, CPI, Services, cntr to YoY chg in CPI, ppts","Japan, CPI, Services, cntr to YoY chg in CPI, ppts",None,line
@@ -1888,19 +1891,19 @@ name,display_name,data_type,chart_type
 "Japan, CPI, Services, Public services, Services related to culture & recreation, New, Index","Japan, CPI, Services, Public services, Services related to culture & recreation, New, Index",None,line
 "Japan, CPI, Services, General services, Meals outside the home, New, Index","Japan, CPI, Services, General services, Meals outside the home, New, Index",None,line
 "Japan, CPI, All items excluding food and energy, New, % YoY","Japan, CPI, All items excluding food and energy, New, % YoY",None,line
-"Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items excluding food and energy, ppts","Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items excluding food and energy, ppts",None,bar
 "Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to YoY chg in all items excluding food and energy, ppts","Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to YoY chg in all items excluding food and energy, ppts",None,bar
 "Japan, CPI, Rent, New, Contribution to YoY chg in all items excluding food and energy, ppts","Japan, CPI, Rent, New, Contribution to YoY chg in all items excluding food and energy, ppts",None,bar
 "Japan, CPI, Volatile items, New, Contribution to YoY chg in all items excluding food and energy, ppts","Japan, CPI, Volatile items, New, Contribution to YoY chg in all items excluding food and energy, ppts",None,bar
+"Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items excluding food and energy, ppts","Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items excluding food and energy, ppts",None,bar
 "Japan, CPI, Core public services, New, Contribution to YoY chg in all items excluding food and energy, ppts","Japan, CPI, Core public services, New, Contribution to YoY chg in all items excluding food and energy, ppts",None,bar
 "Japan, CPI, All items, New, % YoY","Japan, CPI, All items, New, % YoY",None,line
 "Japan, CPI, Petroleum and utilities, New, Contribution to YoY chg in all items, ppts","Japan, CPI, Petroleum and utilities, New, Contribution to YoY chg in all items, ppts",None,bar
-"Japan, CPI, Meals, New, Contribution to YoY chg in all items, ppts","Japan, CPI, Meals, New, Contribution to YoY chg in all items, ppts",None,bar
-"Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items, ppts","Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items, ppts",None,bar
 "Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to YoY chg in all items, ppts","Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to YoY chg in all items, ppts",None,bar
-"Japan, CPI, Food excluding fresh, New, Contribution to YoY chg in all items, ppts","Japan, CPI, Food excluding fresh, New, Contribution to YoY chg in all items, ppts",None,bar
+"Japan, CPI, Meals, New, Contribution to YoY chg in all items, ppts","Japan, CPI, Meals, New, Contribution to YoY chg in all items, ppts",None,bar
 "Japan, CPI, Rent, New, Contribution to YoY chg in all items, ppts","Japan, CPI, Rent, New, Contribution to YoY chg in all items, ppts",None,bar
+"Japan, CPI, Food excluding fresh, New, Contribution to YoY chg in all items, ppts","Japan, CPI, Food excluding fresh, New, Contribution to YoY chg in all items, ppts",None,bar
 "Japan, CPI, Volatile items, New, Contribution to YoY chg in all items, ppts","Japan, CPI, Volatile items, New, Contribution to YoY chg in all items, ppts",None,bar
+"Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items, ppts","Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items, ppts",None,bar
 "Japan, CPI, Core public services, New, Contribution to YoY chg in all items, ppts","Japan, CPI, Core public services, New, Contribution to YoY chg in all items, ppts",None,bar
 "Japan, CPI, Fresh food, New, Contribution to YoY chg in all items, ppts","Japan, CPI, Fresh food, New, Contribution to YoY chg in all items, ppts",None,bar
 "Japan, CPI, Energy, New, Index, SA","Japan, CPI, Energy, New, Index, SA",None,line
@@ -1942,19 +1945,19 @@ name,display_name,data_type,chart_type
 "Japan, CPI, Culture & recreation, Recreational services, Hotel charges, Hotel charges, SA, % MoM annualised","Japan, CPI, Culture & recreation, Recreational services, Hotel charges, Hotel charges, SA, % MoM annualised",None,line
 "Japan, CPI, Culture & recreation, Recreational services, Charges for package tours, Charges for package tours to overseas, SA, % MoM annualised","Japan, CPI, Culture & recreation, Recreational services, Charges for package tours, Charges for package tours to overseas, SA, % MoM annualised",None,line
 "Japan, CPI, All items excluding food and energy, New, % MoM","Japan, CPI, All items excluding food and energy, New, % MoM",None,line
-"Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items excluding food and energy, ppts","Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items excluding food and energy, ppts",None,bar
 "Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to MoM chg in all items excluding food and energy, ppts","Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to MoM chg in all items excluding food and energy, ppts",None,bar
 "Japan, CPI, Rent, New, Contribution to MoM chg in all items excluding food and energy, ppts","Japan, CPI, Rent, New, Contribution to MoM chg in all items excluding food and energy, ppts",None,bar
 "Japan, CPI, Volatile items, New, Contribution to MoM chg in all items excluding food and energy, ppts","Japan, CPI, Volatile items, New, Contribution to MoM chg in all items excluding food and energy, ppts",None,bar
+"Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items excluding food and energy, ppts","Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items excluding food and energy, ppts",None,bar
 "Japan, CPI, Core public services, New, Contribution to MoM chg in all items excluding food and energy, ppts","Japan, CPI, Core public services, New, Contribution to MoM chg in all items excluding food and energy, ppts",None,bar
 "Japan, CPI, All items, New, % MoM","Japan, CPI, All items, New, % MoM",None,line
 "Japan, CPI, Petroleum and utilities, New, Contribution to MoM chg in all items, ppts","Japan, CPI, Petroleum and utilities, New, Contribution to MoM chg in all items, ppts",None,bar
-"Japan, CPI, Meals, New, Contribution to MoM chg in all items, ppts","Japan, CPI, Meals, New, Contribution to MoM chg in all items, ppts",None,bar
-"Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items, ppts","Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items, ppts",None,bar
 "Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to MoM chg in all items, ppts","Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to MoM chg in all items, ppts",None,bar
-"Japan, CPI, Food excluding fresh, New, Contribution to MoM chg in all items, ppts","Japan, CPI, Food excluding fresh, New, Contribution to MoM chg in all items, ppts",None,bar
+"Japan, CPI, Meals, New, Contribution to MoM chg in all items, ppts","Japan, CPI, Meals, New, Contribution to MoM chg in all items, ppts",None,bar
 "Japan, CPI, Rent, New, Contribution to MoM chg in all items, ppts","Japan, CPI, Rent, New, Contribution to MoM chg in all items, ppts",None,bar
+"Japan, CPI, Food excluding fresh, New, Contribution to MoM chg in all items, ppts","Japan, CPI, Food excluding fresh, New, Contribution to MoM chg in all items, ppts",None,bar
 "Japan, CPI, Volatile items, New, Contribution to MoM chg in all items, ppts","Japan, CPI, Volatile items, New, Contribution to MoM chg in all items, ppts",None,bar
+"Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items, ppts","Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items, ppts",None,bar
 "Japan, CPI, Core public services, New, Contribution to MoM chg in all items, ppts","Japan, CPI, Core public services, New, Contribution to MoM chg in all items, ppts",None,bar
 "Japan, CPI, Fresh food, New, Contribution to MoM chg in all items, ppts","Japan, CPI, Fresh food, New, Contribution to MoM chg in all items, ppts",None,bar
 "Japan, CPI, All items, Contribution to % MoM chg, ppts","Japan, CPI, All items, Contribution to % MoM chg, ppts",None,bar
@@ -3901,6 +3904,17 @@ name,display_name,data_type,chart_type
 "Japan, CPI, Transportation & communication, Public transportation, Railway fares excluding JR, ordinary fares, Contribution to % YoY chg, ppts","Japan, CPI, Transportation & communication, Public transportation, Railway fares excluding JR, ordinary fares, Contribution to % YoY chg, ppts",None,bar
 "Japan, CPI, Transportation & communication, Public transportation, Railway fares excluding JR, students' season tickets, Contribution to % MoM chg, ppts","Japan, CPI, Transportation & communication, Public transportation, Railway fares excluding JR, students' season tickets, Contribution to % MoM chg, ppts",None,bar
 "Japan, CPI, Transportation & communication, Public transportation, Railway fares excluding JR, students' season tickets, Contribution to % YoY chg, ppts","Japan, CPI, Transportation & communication, Public transportation, Railway fares excluding JR, students' season tickets, Contribution to % YoY chg, ppts",None,bar
+"Japan, CPI, Electricity excluding subsidies, % YoY","Japan, CPI, Electricity excluding subsidies, % YoY",None,line
+"Japan, CPI, City gas excluding subsidies, % YoY","Japan, CPI, City gas excluding subsidies, % YoY",None,line
+"Japan, CPI, Gasoline excluding subsidies, % YoY","Japan, CPI, Gasoline excluding subsidies, % YoY",None,line
+"Japan, CPI, Kerosene excluding subsidies, % YoY","Japan, CPI, Kerosene excluding subsidies, % YoY",None,line
+"Japan, CPI, Electricity excluding subsidies, Index","Japan, CPI, Electricity excluding subsidies, Index",None,line
+"Japan, CPI, City gas excluding subsidies, Index","Japan, CPI, City gas excluding subsidies, Index",None,line
+"Japan, CPI, Gasoline excluding subsidies, Index","Japan, CPI, Gasoline excluding subsidies, Index",None,line
+"Japan, CPI, Kerosene excluding subsidies, Index","Japan, CPI, Kerosene excluding subsidies, Index",None,line
+"Japan, CPI, Energy excluding subsidies, % YoY","Japan, CPI, Energy excluding subsidies, % YoY",None,line
+"Japan, CPI, All items excluding energy subsidies, % YoY","Japan, CPI, All items excluding energy subsidies, % YoY",None,line
+"Japan, CPI, Energy subsidy suppression of CPI, ppts","Japan, CPI, Energy subsidy suppression of CPI, ppts",None,line
 "Japan, CPI, All items, % YoY, 3mma","Japan, CPI, All items, % YoY, 3mma",None,line
 "Japan, CPI, All items excluding fresh food, % YoY, 3mma","Japan, CPI, All items excluding fresh food, % YoY, 3mma",None,line
 "Japan, CPI, All items excluding fresh food and energy, % YoY, 3mma","Japan, CPI, All items excluding fresh food and energy, % YoY, 3mma",None,line
@@ -3952,12 +3966,15 @@ name,display_name,data_type,chart_type
 "Japan, CPI, Goods, less fresh food, % YoY, 3mma","Japan, CPI, Goods, less fresh food, % YoY, 3mma",None,line
 "Japan, CPI, Services, Public services, Other services, % YoY, 3mma","Japan, CPI, Services, Public services, Other services, % YoY, 3mma",None,line
 "Japan, CPI, Services, Other services, % YoY, 3mma","Japan, CPI, Services, Other services, % YoY, 3mma",None,line
-"Japan, CPI, BOJ, Trimmed mean, % YoY, 3mma","Japan, CPI, BOJ, Trimmed mean, % YoY, 3mma",None,line
-"Japan, CPI, BOJ, Weighted median, % YoY, 3mma","Japan, CPI, BOJ, Weighted median, % YoY, 3mma",None,line
-"Japan, CPI, BOJ, Mode, % YoY, 3mma","Japan, CPI, BOJ, Mode, % YoY, 3mma",None,line
-"Japan, CPI, BOJ, Share of increasing items(%), 3mma","Japan, CPI, BOJ, Share of increasing items(%), 3mma",None,line
-"Japan, CPI, BOJ, Share of decreasing items(%), 3mma","Japan, CPI, BOJ, Share of decreasing items(%), 3mma",None,line
-"Japan, CPI, BOJ, Diffusion index, 3mma","Japan, CPI, BOJ, Diffusion index, 3mma",None,line
+"Japan, CPI, All items excluding fresh food and institutional factors, % YoY, 3mma","Japan, CPI, All items excluding fresh food and institutional factors, % YoY, 3mma",None,line
+"Japan, CPI, All items excluding fresh food and energy and institutional factors, % YoY, 3mma","Japan, CPI, All items excluding fresh food and energy and institutional factors, % YoY, 3mma",None,line
+"Japan, CPI, All items excluding food and energy and institutional factors, % YoY, 3mma","Japan, CPI, All items excluding food and energy and institutional factors, % YoY, 3mma",None,line
+"Japan, CPI, Trimmed mean, % YoY, 3mma","Japan, CPI, Trimmed mean, % YoY, 3mma",None,line
+"Japan, CPI, Weighted median, % YoY, 3mma","Japan, CPI, Weighted median, % YoY, 3mma",None,line
+"Japan, CPI, Mode, % YoY, 3mma","Japan, CPI, Mode, % YoY, 3mma",None,line
+"Japan, CPI, Share of increasing items, %, 3mma","Japan, CPI, Share of increasing items, %, 3mma",None,line
+"Japan, CPI, Share of decreasing items, %, 3mma","Japan, CPI, Share of decreasing items, %, 3mma",None,line
+"Japan, CPI, Diffusion index, ppts, 3mma","Japan, CPI, Diffusion index, ppts, 3mma",None,line
 "Japan, CPI, Crude oil, JPY, 3mma","Japan, CPI, Crude oil, JPY, 3mma",None,line
 "Japan, CPI, Crude oil, JPY, % YoY, 3mma","Japan, CPI, Crude oil, JPY, % YoY, 3mma",None,line
 "Japan, CPI, Services, cntr to YoY chg in CPI, ppts, 3mma","Japan, CPI, Services, cntr to YoY chg in CPI, ppts, 3mma",None,line
@@ -5790,19 +5807,19 @@ name,display_name,data_type,chart_type
 "Japan, CPI, Services, Public services, Services related to culture & recreation, New, Index, 3mma","Japan, CPI, Services, Public services, Services related to culture & recreation, New, Index, 3mma",None,line
 "Japan, CPI, Services, General services, Meals outside the home, New, Index, 3mma","Japan, CPI, Services, General services, Meals outside the home, New, Index, 3mma",None,line
 "Japan, CPI, All items excluding food and energy, New, % YoY, 3mma","Japan, CPI, All items excluding food and energy, New, % YoY, 3mma",None,line
-"Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items excluding food and energy, ppts, 3mma","Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items excluding food and energy, ppts, 3mma",None,bar
 "Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to YoY chg in all items excluding food and energy, ppts, 3mma","Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to YoY chg in all items excluding food and energy, ppts, 3mma",None,bar
 "Japan, CPI, Rent, New, Contribution to YoY chg in all items excluding food and energy, ppts, 3mma","Japan, CPI, Rent, New, Contribution to YoY chg in all items excluding food and energy, ppts, 3mma",None,bar
 "Japan, CPI, Volatile items, New, Contribution to YoY chg in all items excluding food and energy, ppts, 3mma","Japan, CPI, Volatile items, New, Contribution to YoY chg in all items excluding food and energy, ppts, 3mma",None,bar
+"Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items excluding food and energy, ppts, 3mma","Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items excluding food and energy, ppts, 3mma",None,bar
 "Japan, CPI, Core public services, New, Contribution to YoY chg in all items excluding food and energy, ppts, 3mma","Japan, CPI, Core public services, New, Contribution to YoY chg in all items excluding food and energy, ppts, 3mma",None,bar
 "Japan, CPI, All items, New, % YoY, 3mma","Japan, CPI, All items, New, % YoY, 3mma",None,line
 "Japan, CPI, Petroleum and utilities, New, Contribution to YoY chg in all items, ppts, 3mma","Japan, CPI, Petroleum and utilities, New, Contribution to YoY chg in all items, ppts, 3mma",None,bar
-"Japan, CPI, Meals, New, Contribution to YoY chg in all items, ppts, 3mma","Japan, CPI, Meals, New, Contribution to YoY chg in all items, ppts, 3mma",None,bar
-"Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items, ppts, 3mma","Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items, ppts, 3mma",None,bar
 "Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to YoY chg in all items, ppts, 3mma","Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to YoY chg in all items, ppts, 3mma",None,bar
-"Japan, CPI, Food excluding fresh, New, Contribution to YoY chg in all items, ppts, 3mma","Japan, CPI, Food excluding fresh, New, Contribution to YoY chg in all items, ppts, 3mma",None,bar
+"Japan, CPI, Meals, New, Contribution to YoY chg in all items, ppts, 3mma","Japan, CPI, Meals, New, Contribution to YoY chg in all items, ppts, 3mma",None,bar
 "Japan, CPI, Rent, New, Contribution to YoY chg in all items, ppts, 3mma","Japan, CPI, Rent, New, Contribution to YoY chg in all items, ppts, 3mma",None,bar
+"Japan, CPI, Food excluding fresh, New, Contribution to YoY chg in all items, ppts, 3mma","Japan, CPI, Food excluding fresh, New, Contribution to YoY chg in all items, ppts, 3mma",None,bar
 "Japan, CPI, Volatile items, New, Contribution to YoY chg in all items, ppts, 3mma","Japan, CPI, Volatile items, New, Contribution to YoY chg in all items, ppts, 3mma",None,bar
+"Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items, ppts, 3mma","Japan, CPI, Industrial goods and services, New, Contribution to YoY chg in all items, ppts, 3mma",None,bar
 "Japan, CPI, Core public services, New, Contribution to YoY chg in all items, ppts, 3mma","Japan, CPI, Core public services, New, Contribution to YoY chg in all items, ppts, 3mma",None,bar
 "Japan, CPI, Fresh food, New, Contribution to YoY chg in all items, ppts, 3mma","Japan, CPI, Fresh food, New, Contribution to YoY chg in all items, ppts, 3mma",None,bar
 "Japan, CPI, Energy, New, Index, SA, 3mma","Japan, CPI, Energy, New, Index, SA, 3mma",None,line
@@ -5844,19 +5861,19 @@ name,display_name,data_type,chart_type
 "Japan, CPI, Culture & recreation, Recreational services, Hotel charges, Hotel charges, SA, % MoM annualised, 3mma","Japan, CPI, Culture & recreation, Recreational services, Hotel charges, Hotel charges, SA, % MoM annualised, 3mma",None,line
 "Japan, CPI, Culture & recreation, Recreational services, Charges for package tours, Charges for package tours to overseas, SA, % MoM annualised, 3mma","Japan, CPI, Culture & recreation, Recreational services, Charges for package tours, Charges for package tours to overseas, SA, % MoM annualised, 3mma",None,line
 "Japan, CPI, All items excluding food and energy, New, % MoM, 3mma","Japan, CPI, All items excluding food and energy, New, % MoM, 3mma",None,line
-"Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items excluding food and energy, ppts, 3mma","Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items excluding food and energy, ppts, 3mma",None,bar
 "Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to MoM chg in all items excluding food and energy, ppts, 3mma","Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to MoM chg in all items excluding food and energy, ppts, 3mma",None,bar
 "Japan, CPI, Rent, New, Contribution to MoM chg in all items excluding food and energy, ppts, 3mma","Japan, CPI, Rent, New, Contribution to MoM chg in all items excluding food and energy, ppts, 3mma",None,bar
 "Japan, CPI, Volatile items, New, Contribution to MoM chg in all items excluding food and energy, ppts, 3mma","Japan, CPI, Volatile items, New, Contribution to MoM chg in all items excluding food and energy, ppts, 3mma",None,bar
+"Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items excluding food and energy, ppts, 3mma","Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items excluding food and energy, ppts, 3mma",None,bar
 "Japan, CPI, Core public services, New, Contribution to MoM chg in all items excluding food and energy, ppts, 3mma","Japan, CPI, Core public services, New, Contribution to MoM chg in all items excluding food and energy, ppts, 3mma",None,bar
 "Japan, CPI, All items, New, % MoM, 3mma","Japan, CPI, All items, New, % MoM, 3mma",None,line
 "Japan, CPI, Petroleum and utilities, New, Contribution to MoM chg in all items, ppts, 3mma","Japan, CPI, Petroleum and utilities, New, Contribution to MoM chg in all items, ppts, 3mma",None,bar
-"Japan, CPI, Meals, New, Contribution to MoM chg in all items, ppts, 3mma","Japan, CPI, Meals, New, Contribution to MoM chg in all items, ppts, 3mma",None,bar
-"Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items, ppts, 3mma","Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items, ppts, 3mma",None,bar
 "Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to MoM chg in all items, ppts, 3mma","Japan, CPI, Core private services excluding hotel and mobile and school and package, New, Contribution to MoM chg in all items, ppts, 3mma",None,bar
-"Japan, CPI, Food excluding fresh, New, Contribution to MoM chg in all items, ppts, 3mma","Japan, CPI, Food excluding fresh, New, Contribution to MoM chg in all items, ppts, 3mma",None,bar
+"Japan, CPI, Meals, New, Contribution to MoM chg in all items, ppts, 3mma","Japan, CPI, Meals, New, Contribution to MoM chg in all items, ppts, 3mma",None,bar
 "Japan, CPI, Rent, New, Contribution to MoM chg in all items, ppts, 3mma","Japan, CPI, Rent, New, Contribution to MoM chg in all items, ppts, 3mma",None,bar
+"Japan, CPI, Food excluding fresh, New, Contribution to MoM chg in all items, ppts, 3mma","Japan, CPI, Food excluding fresh, New, Contribution to MoM chg in all items, ppts, 3mma",None,bar
 "Japan, CPI, Volatile items, New, Contribution to MoM chg in all items, ppts, 3mma","Japan, CPI, Volatile items, New, Contribution to MoM chg in all items, ppts, 3mma",None,bar
+"Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items, ppts, 3mma","Japan, CPI, Industrial goods and services, New, Contribution to MoM chg in all items, ppts, 3mma",None,bar
 "Japan, CPI, Core public services, New, Contribution to MoM chg in all items, ppts, 3mma","Japan, CPI, Core public services, New, Contribution to MoM chg in all items, ppts, 3mma",None,bar
 "Japan, CPI, Fresh food, New, Contribution to MoM chg in all items, ppts, 3mma","Japan, CPI, Fresh food, New, Contribution to MoM chg in all items, ppts, 3mma",None,bar
 "Japan, CPI, All items, Contribution to % MoM chg, ppts, 3mma","Japan, CPI, All items, Contribution to % MoM chg, ppts, 3mma",None,bar
@@ -7803,3 +7820,14 @@ name,display_name,data_type,chart_type
 "Japan, CPI, Transportation & communication, Public transportation, Railway fares excluding JR, ordinary fares, Contribution to % YoY chg, ppts, 3mma","Japan, CPI, Transportation & communication, Public transportation, Railway fares excluding JR, ordinary fares, Contribution to % YoY chg, ppts, 3mma",None,bar
 "Japan, CPI, Transportation & communication, Public transportation, Railway fares excluding JR, students' season tickets, Contribution to % MoM chg, ppts, 3mma","Japan, CPI, Transportation & communication, Public transportation, Railway fares excluding JR, students' season tickets, Contribution to % MoM chg, ppts, 3mma",None,bar
 "Japan, CPI, Transportation & communication, Public transportation, Railway fares excluding JR, students' season tickets, Contribution to % YoY chg, ppts, 3mma","Japan, CPI, Transportation & communication, Public transportation, Railway fares excluding JR, students' season tickets, Contribution to % YoY chg, ppts, 3mma",None,bar
+"Japan, CPI, Electricity excluding subsidies, % YoY, 3mma","Japan, CPI, Electricity excluding subsidies, % YoY, 3mma",None,line
+"Japan, CPI, City gas excluding subsidies, % YoY, 3mma","Japan, CPI, City gas excluding subsidies, % YoY, 3mma",None,line
+"Japan, CPI, Gasoline excluding subsidies, % YoY, 3mma","Japan, CPI, Gasoline excluding subsidies, % YoY, 3mma",None,line
+"Japan, CPI, Kerosene excluding subsidies, % YoY, 3mma","Japan, CPI, Kerosene excluding subsidies, % YoY, 3mma",None,line
+"Japan, CPI, Electricity excluding subsidies, Index, 3mma","Japan, CPI, Electricity excluding subsidies, Index, 3mma",None,line
+"Japan, CPI, City gas excluding subsidies, Index, 3mma","Japan, CPI, City gas excluding subsidies, Index, 3mma",None,line
+"Japan, CPI, Gasoline excluding subsidies, Index, 3mma","Japan, CPI, Gasoline excluding subsidies, Index, 3mma",None,line
+"Japan, CPI, Kerosene excluding subsidies, Index, 3mma","Japan, CPI, Kerosene excluding subsidies, Index, 3mma",None,line
+"Japan, CPI, Energy excluding subsidies, % YoY, 3mma","Japan, CPI, Energy excluding subsidies, % YoY, 3mma",None,line
+"Japan, CPI, All items excluding energy subsidies, % YoY, 3mma","Japan, CPI, All items excluding energy subsidies, % YoY, 3mma",None,line
+"Japan, CPI, Energy subsidy suppression of CPI, ppts, 3mma","Japan, CPI, Energy subsidy suppression of CPI, ppts, 3mma",None,line

@@ -1083,6 +1083,9 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDP, Expenditure, HP filter, cycle","Taiwan, RGDP, Expenditure, HP filter, cycle",None,line
 "Taiwan, RGDP, Expenditure, HP filter, trend","Taiwan, RGDP, Expenditure, HP filter, trend",None,line
 "Taiwan, RGDP, Expenditure, HP filter, output gap","Taiwan, RGDP, Expenditure, HP filter, output gap",None,line
+"Taiwan, RGDP, Expenditure, Hamilton filter, Trend","Taiwan, RGDP, Expenditure, Hamilton filter, Trend",None,line
+"Taiwan, RGDP, Expenditure, Hamilton filter, Cycle","Taiwan, RGDP, Expenditure, Hamilton filter, Cycle",None,line
+"Taiwan, RGDP, Expenditure, Hamilton filter, Output gap","Taiwan, RGDP, Expenditure, Hamilton filter, Output gap",None,line
 "Taiwan, NGDP, Expenditure, Domestic demand, Government consumption, SA, % of GDP","Taiwan, NGDP, Expenditure, Domestic demand, Government consumption, SA, % of GDP",None,line
 "Taiwan, NGDP, Expenditure, Domestic demand, Gross capital formation, Gross fixed capital formation, Private, SA, % of GDP","Taiwan, NGDP, Expenditure, Domestic demand, Gross capital formation, Gross fixed capital formation, Private, SA, % of GDP",None,line
 "Taiwan, NGDP, Expenditure, Domestic demand, Gross capital formation, Gross fixed capital formation, Public, Other machinery and equipment, SA, % of GDP","Taiwan, NGDP, Expenditure, Domestic demand, Gross capital formation, Gross fixed capital formation, Public, Other machinery and equipment, SA, % of GDP",None,line
@@ -3300,6 +3303,9 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDP, Expenditure, HP filter, cycle, 12mma","Taiwan, RGDP, Expenditure, HP filter, cycle, 12mma",None,line
 "Taiwan, RGDP, Expenditure, HP filter, trend, 12mma","Taiwan, RGDP, Expenditure, HP filter, trend, 12mma",None,line
 "Taiwan, RGDP, Expenditure, HP filter, output gap, 12mma","Taiwan, RGDP, Expenditure, HP filter, output gap, 12mma",None,line
+"Taiwan, RGDP, Expenditure, Hamilton filter, Trend, 12mma","Taiwan, RGDP, Expenditure, Hamilton filter, Trend, 12mma",None,line
+"Taiwan, RGDP, Expenditure, Hamilton filter, Cycle, 12mma","Taiwan, RGDP, Expenditure, Hamilton filter, Cycle, 12mma",None,line
+"Taiwan, RGDP, Expenditure, Hamilton filter, Output gap, 12mma","Taiwan, RGDP, Expenditure, Hamilton filter, Output gap, 12mma",None,line
 "Taiwan, NGDP, Expenditure, Domestic demand, Government consumption, SA, % of GDP, 12mma","Taiwan, NGDP, Expenditure, Domestic demand, Government consumption, SA, % of GDP, 12mma",None,line
 "Taiwan, NGDP, Expenditure, Domestic demand, Gross capital formation, Gross fixed capital formation, Private, SA, % of GDP, 12mma","Taiwan, NGDP, Expenditure, Domestic demand, Gross capital formation, Gross fixed capital formation, Private, SA, % of GDP, 12mma",None,line
 "Taiwan, NGDP, Expenditure, Domestic demand, Gross capital formation, Gross fixed capital formation, Public, Other machinery and equipment, SA, % of GDP, 12mma","Taiwan, NGDP, Expenditure, Domestic demand, Gross capital formation, Gross fixed capital formation, Public, Other machinery and equipment, SA, % of GDP, 12mma",None,line
