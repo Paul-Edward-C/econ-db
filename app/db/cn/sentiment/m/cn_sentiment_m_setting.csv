@@ -19,6 +19,7 @@ name,display_name,data_type,chart_type
 "China, Business, NBS PMI, Manufacturing, In hand orders","China, Business, NBS PMI, Manufacturing, In hand orders",None,line
 "China, Business, NBS PMI, Manufacturing, Input prices","China, Business, NBS PMI, Manufacturing, Input prices",None,line
 "China, Business, NBS PMI, Manufacturing, Orders","China, Business, NBS PMI, Manufacturing, Orders",None,line
+"China, Business, NBS PMI, Manufacturing, Orders minus inventories","China, Business, NBS PMI, Manufacturing, Orders minus inventories",None,line
 "China, Business, NBS PMI, Manufacturing, Orders, Export","China, Business, NBS PMI, Manufacturing, Orders, Export",None,line
 "China, Business, NBS PMI, Manufacturing, Outlook","China, Business, NBS PMI, Manufacturing, Outlook",None,line
 "China, Business, NBS PMI, Manufacturing, Output","China, Business, NBS PMI, Manufacturing, Output",None,line
@@ -26,7 +27,6 @@ name,display_name,data_type,chart_type
 "China, Business, NBS PMI, Manufacturing, Purchasing volume","China, Business, NBS PMI, Manufacturing, Purchasing volume",None,line
 "China, Business, NBS PMI, Manufacturing, Raw materials inventory","China, Business, NBS PMI, Manufacturing, Raw materials inventory",None,line
 "China, Business, NBS PMI, Manufacturing, Supplier delivery time","China, Business, NBS PMI, Manufacturing, Supplier delivery time",None,line
-"China, Business, NBS PMI, Manufacturing, Orders minus inventories","China, Business, NBS PMI, Manufacturing, Orders minus inventories",None,line
 "China, Business, S&P PMI, Manufacturing","China, Business, S&P PMI, Manufacturing",None,line
 "China, Business, NBS PMI, Composite, Output prices","China, Business, NBS PMI, Composite, Output prices",None,line
 "China, Business, NBS PMI, Composite, Input prices","China, Business, NBS PMI, Composite, Input prices",None,line
@@ -121,6 +121,7 @@ name,display_name,data_type,chart_type
 "China, Business, NBS PMI, Manufacturing, In hand orders, 1M chg","China, Business, NBS PMI, Manufacturing, In hand orders, 1M chg",None,line
 "China, Business, NBS PMI, Manufacturing, Input prices, 1M chg","China, Business, NBS PMI, Manufacturing, Input prices, 1M chg",None,line
 "China, Business, NBS PMI, Manufacturing, Orders, 1M chg","China, Business, NBS PMI, Manufacturing, Orders, 1M chg",None,line
+"China, Business, NBS PMI, Manufacturing, Orders minus inventories, 1M chg","China, Business, NBS PMI, Manufacturing, Orders minus inventories, 1M chg",None,line
 "China, Business, NBS PMI, Manufacturing, Orders, Export, 1M chg","China, Business, NBS PMI, Manufacturing, Orders, Export, 1M chg",None,line
 "China, Business, NBS PMI, Manufacturing, Outlook, 1M chg","China, Business, NBS PMI, Manufacturing, Outlook, 1M chg",None,line
 "China, Business, NBS PMI, Manufacturing, Output, 1M chg","China, Business, NBS PMI, Manufacturing, Output, 1M chg",None,line
@@ -128,7 +129,6 @@ name,display_name,data_type,chart_type
 "China, Business, NBS PMI, Manufacturing, Purchasing volume, 1M chg","China, Business, NBS PMI, Manufacturing, Purchasing volume, 1M chg",None,line
 "China, Business, NBS PMI, Manufacturing, Raw materials inventory, 1M chg","China, Business, NBS PMI, Manufacturing, Raw materials inventory, 1M chg",None,line
 "China, Business, NBS PMI, Manufacturing, Supplier delivery time, 1M chg","China, Business, NBS PMI, Manufacturing, Supplier delivery time, 1M chg",None,line
-"China, Business, NBS PMI, Manufacturing, Orders minus inventories, 1M chg","China, Business, NBS PMI, Manufacturing, Orders minus inventories, 1M chg",None,line
 "China, Business, S&P PMI, Manufacturing, 1M chg","China, Business, S&P PMI, Manufacturing, 1M chg",None,line
 "China, Business, NBS PMI, Composite, Output prices, 1M chg","China, Business, NBS PMI, Composite, Output prices, 1M chg",None,line
 "China, Business, NBS PMI, Composite, Input prices, 1M chg","China, Business, NBS PMI, Composite, Input prices, 1M chg",None,line
@@ -223,6 +223,7 @@ name,display_name,data_type,chart_type
 "China, Business, NBS PMI, Manufacturing, In hand orders, YoY chg","China, Business, NBS PMI, Manufacturing, In hand orders, YoY chg",None,line
 "China, Business, NBS PMI, Manufacturing, Input prices, YoY chg","China, Business, NBS PMI, Manufacturing, Input prices, YoY chg",None,line
 "China, Business, NBS PMI, Manufacturing, Orders, YoY chg","China, Business, NBS PMI, Manufacturing, Orders, YoY chg",None,line
+"China, Business, NBS PMI, Manufacturing, Orders minus inventories, YoY chg","China, Business, NBS PMI, Manufacturing, Orders minus inventories, YoY chg",None,line
 "China, Business, NBS PMI, Manufacturing, Orders, Export, YoY chg","China, Business, NBS PMI, Manufacturing, Orders, Export, YoY chg",None,line
 "China, Business, NBS PMI, Manufacturing, Outlook, YoY chg","China, Business, NBS PMI, Manufacturing, Outlook, YoY chg",None,line
 "China, Business, NBS PMI, Manufacturing, Output, YoY chg","China, Business, NBS PMI, Manufacturing, Output, YoY chg",None,line
@@ -230,7 +231,6 @@ name,display_name,data_type,chart_type
 "China, Business, NBS PMI, Manufacturing, Purchasing volume, YoY chg","China, Business, NBS PMI, Manufacturing, Purchasing volume, YoY chg",None,line
 "China, Business, NBS PMI, Manufacturing, Raw materials inventory, YoY chg","China, Business, NBS PMI, Manufacturing, Raw materials inventory, YoY chg",None,line
 "China, Business, NBS PMI, Manufacturing, Supplier delivery time, YoY chg","China, Business, NBS PMI, Manufacturing, Supplier delivery time, YoY chg",None,line
-"China, Business, NBS PMI, Manufacturing, Orders minus inventories, YoY chg","China, Business, NBS PMI, Manufacturing, Orders minus inventories, YoY chg",None,line
 "China, Business, S&P PMI, Manufacturing, YoY chg","China, Business, S&P PMI, Manufacturing, YoY chg",None,line
 "China, Business, NBS PMI, Composite, Output prices, YoY chg","China, Business, NBS PMI, Composite, Output prices, YoY chg",None,line
 "China, Business, NBS PMI, Composite, Input prices, YoY chg","China, Business, NBS PMI, Composite, Input prices, YoY chg",None,line
@@ -326,6 +326,7 @@ name,display_name,data_type,chart_type
 "China, Business, NBS PMI, Manufacturing, In hand orders, 3mma","China, Business, NBS PMI, Manufacturing, In hand orders, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Input prices, 3mma","China, Business, NBS PMI, Manufacturing, Input prices, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Orders, 3mma","China, Business, NBS PMI, Manufacturing, Orders, 3mma",None,line
+"China, Business, NBS PMI, Manufacturing, Orders minus inventories, 3mma","China, Business, NBS PMI, Manufacturing, Orders minus inventories, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Orders, Export, 3mma","China, Business, NBS PMI, Manufacturing, Orders, Export, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Outlook, 3mma","China, Business, NBS PMI, Manufacturing, Outlook, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Output, 3mma","China, Business, NBS PMI, Manufacturing, Output, 3mma",None,line
@@ -333,7 +334,6 @@ name,display_name,data_type,chart_type
 "China, Business, NBS PMI, Manufacturing, Purchasing volume, 3mma","China, Business, NBS PMI, Manufacturing, Purchasing volume, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Raw materials inventory, 3mma","China, Business, NBS PMI, Manufacturing, Raw materials inventory, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Supplier delivery time, 3mma","China, Business, NBS PMI, Manufacturing, Supplier delivery time, 3mma",None,line
-"China, Business, NBS PMI, Manufacturing, Orders minus inventories, 3mma","China, Business, NBS PMI, Manufacturing, Orders minus inventories, 3mma",None,line
 "China, Business, S&P PMI, Manufacturing, 3mma","China, Business, S&P PMI, Manufacturing, 3mma",None,line
 "China, Business, NBS PMI, Composite, Output prices, 3mma","China, Business, NBS PMI, Composite, Output prices, 3mma",None,line
 "China, Business, NBS PMI, Composite, Input prices, 3mma","China, Business, NBS PMI, Composite, Input prices, 3mma",None,line
@@ -428,6 +428,7 @@ name,display_name,data_type,chart_type
 "China, Business, NBS PMI, Manufacturing, In hand orders, 1M chg, 3mma","China, Business, NBS PMI, Manufacturing, In hand orders, 1M chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Input prices, 1M chg, 3mma","China, Business, NBS PMI, Manufacturing, Input prices, 1M chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Orders, 1M chg, 3mma","China, Business, NBS PMI, Manufacturing, Orders, 1M chg, 3mma",None,line
+"China, Business, NBS PMI, Manufacturing, Orders minus inventories, 1M chg, 3mma","China, Business, NBS PMI, Manufacturing, Orders minus inventories, 1M chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Orders, Export, 1M chg, 3mma","China, Business, NBS PMI, Manufacturing, Orders, Export, 1M chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Outlook, 1M chg, 3mma","China, Business, NBS PMI, Manufacturing, Outlook, 1M chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Output, 1M chg, 3mma","China, Business, NBS PMI, Manufacturing, Output, 1M chg, 3mma",None,line
@@ -435,7 +436,6 @@ name,display_name,data_type,chart_type
 "China, Business, NBS PMI, Manufacturing, Purchasing volume, 1M chg, 3mma","China, Business, NBS PMI, Manufacturing, Purchasing volume, 1M chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Raw materials inventory, 1M chg, 3mma","China, Business, NBS PMI, Manufacturing, Raw materials inventory, 1M chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Supplier delivery time, 1M chg, 3mma","China, Business, NBS PMI, Manufacturing, Supplier delivery time, 1M chg, 3mma",None,line
-"China, Business, NBS PMI, Manufacturing, Orders minus inventories, 1M chg, 3mma","China, Business, NBS PMI, Manufacturing, Orders minus inventories, 1M chg, 3mma",None,line
 "China, Business, S&P PMI, Manufacturing, 1M chg, 3mma","China, Business, S&P PMI, Manufacturing, 1M chg, 3mma",None,line
 "China, Business, NBS PMI, Composite, Output prices, 1M chg, 3mma","China, Business, NBS PMI, Composite, Output prices, 1M chg, 3mma",None,line
 "China, Business, NBS PMI, Composite, Input prices, 1M chg, 3mma","China, Business, NBS PMI, Composite, Input prices, 1M chg, 3mma",None,line
@@ -530,6 +530,7 @@ name,display_name,data_type,chart_type
 "China, Business, NBS PMI, Manufacturing, In hand orders, YoY chg, 3mma","China, Business, NBS PMI, Manufacturing, In hand orders, YoY chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Input prices, YoY chg, 3mma","China, Business, NBS PMI, Manufacturing, Input prices, YoY chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Orders, YoY chg, 3mma","China, Business, NBS PMI, Manufacturing, Orders, YoY chg, 3mma",None,line
+"China, Business, NBS PMI, Manufacturing, Orders minus inventories, YoY chg, 3mma","China, Business, NBS PMI, Manufacturing, Orders minus inventories, YoY chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Orders, Export, YoY chg, 3mma","China, Business, NBS PMI, Manufacturing, Orders, Export, YoY chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Outlook, YoY chg, 3mma","China, Business, NBS PMI, Manufacturing, Outlook, YoY chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Output, YoY chg, 3mma","China, Business, NBS PMI, Manufacturing, Output, YoY chg, 3mma",None,line
@@ -537,7 +538,6 @@ name,display_name,data_type,chart_type
 "China, Business, NBS PMI, Manufacturing, Purchasing volume, YoY chg, 3mma","China, Business, NBS PMI, Manufacturing, Purchasing volume, YoY chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Raw materials inventory, YoY chg, 3mma","China, Business, NBS PMI, Manufacturing, Raw materials inventory, YoY chg, 3mma",None,line
 "China, Business, NBS PMI, Manufacturing, Supplier delivery time, YoY chg, 3mma","China, Business, NBS PMI, Manufacturing, Supplier delivery time, YoY chg, 3mma",None,line
-"China, Business, NBS PMI, Manufacturing, Orders minus inventories, YoY chg, 3mma","China, Business, NBS PMI, Manufacturing, Orders minus inventories, YoY chg, 3mma",None,line
 "China, Business, S&P PMI, Manufacturing, YoY chg, 3mma","China, Business, S&P PMI, Manufacturing, YoY chg, 3mma",None,line
 "China, Business, NBS PMI, Composite, Output prices, YoY chg, 3mma","China, Business, NBS PMI, Composite, Output prices, YoY chg, 3mma",None,line
 "China, Business, NBS PMI, Composite, Input prices, YoY chg, 3mma","China, Business, NBS PMI, Composite, Input prices, YoY chg, 3mma",None,line
