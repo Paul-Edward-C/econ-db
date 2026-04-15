@@ -2827,9 +2827,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Washing machines, USD bn","China, Major product, Exports, Washing machines, USD bn",None,line
 "China, Major product, Exports, LCD module, USD bn","China, Major product, Exports, LCD module, USD bn",None,line
 "China, Major product, Exports, LCD panel, USD bn","China, Major product, Exports, LCD panel, USD bn",None,line
-"China, Major product, Exports, LCD televisions
-, USD bn","China, Major product, Exports, LCD televisions
-, USD bn",None,line
+"China, Major product, Exports, LCD televisions, USD bn","China, Major product, Exports, LCD televisions, USD bn",None,line
 "China, Major product, Exports, LCD monitors, USD bn","China, Major product, Exports, LCD monitors, USD bn",None,line
 "China, Major product, Exports, Tankers, USD bn","China, Major product, Exports, Tankers, USD bn",None,line
 "China, Major product, Exports, Hybrid Electric buses with ten seats or more, USD bn","China, Major product, Exports, Hybrid Electric buses with ten seats or more, USD bn",None,line
@@ -2854,9 +2852,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Electrical control devices, USD bn","China, Major product, Exports, Electrical control devices, USD bn",None,line
 "China, Major product, Exports, Insulated wires and cables, USD bn","China, Major product, Exports, Insulated wires and cables, USD bn",None,line
 "China, Major product, Exports, Television cameras, digital cameras and video camera recorders, USD bn","China, Major product, Exports, Television cameras, digital cameras and video camera recorders, USD bn",None,line
-"China, Major product, Exports, Televisions
-, USD bn","China, Major product, Exports, Televisions
-, USD bn",None,line
+"China, Major product, Exports, Televisions, USD bn","China, Major product, Exports, Televisions, USD bn",None,line
 "China, Major product, Exports, Leather, fur and articles thereof, USD bn","China, Major product, Exports, Leather, fur and articles thereof, USD bn",None,line
 "China, Major product, Exports, Leather suit-cases and similar containers, USD bn","China, Major product, Exports, Leather suit-cases and similar containers, USD bn",None,line
 "China, Major product, Exports, Spectacles and parts thereof, USD bn","China, Major product, Exports, Spectacles and parts thereof, USD bn",None,line
@@ -2902,7 +2898,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Canned vegetables, USD bn","China, Major product, Exports, Canned vegetables, USD bn",None,line
 "China, Major product, Exports, Fur garments, USD bn","China, Major product, Exports, Fur garments, USD bn",None,line
 "China, Major product, Exports, Angles, shapes and sections, of steel or iron, USD bn","China, Major product, Exports, Angles, shapes and sections, of steel or iron, USD bn",None,line
-"China, Major product, Exports, Computer and telecomunications technology, USD bn","China, Major product, Exports, Computer and telecomunications technology, USD bn",None,line
+"China, Major product, Exports, Computer and telecommunications technology, USD bn","China, Major product, Exports, Computer and telecommunications technology, USD bn",None,line
 "China, Major product, Exports, Computer integrated manufacturing technology, USD bn","China, Major product, Exports, Computer integrated manufacturing technology, USD bn",None,line
 "China, Major product, Exports, Measuring or checking instruments, USD bn","China, Major product, Exports, Measuring or checking instruments, USD bn",None,line
 "China, Major product, Exports, Trucks, USD bn","China, Major product, Exports, Trucks, USD bn",None,line
@@ -2934,17 +2930,17 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, High voltage switches and control devices, USD bn","China, Major product, Exports, High voltage switches and control devices, USD bn",None,line
 "China, Major product, Exports, Hi-tech products, USD bn","China, Major product, Exports, Hi-tech products, USD bn",None,line
 "China, Major product, Exports, Fresh or chilled vegetables, USD bn","China, Major product, Exports, Fresh or chilled vegetables, USD bn",None,line
-"China, Major product, Imports, Aircraft, USD bn","China, Major product, Imports, Aircraft, USD bn",None,line
+"China, Major product, Imports, Special purpose motor vehicles, USD bn","China, Major product, Imports, Special purpose motor vehicles, USD bn",None,line
 "China, Major product, Imports, Central processing units, USD bn","China, Major product, Imports, Central processing units, USD bn",None,line
 "China, Major product, Imports, Crude medicinal materials of Chinese type, USD bn","China, Major product, Imports, Crude medicinal materials of Chinese type, USD bn",None,line
-"China, Major product, Imports, Parts and accessories of vehicle, USD bn","China, Major product, Imports, Parts and accessories of vehicle, USD bn",None,line
+"China, Major product, Imports, Passenger cars, USD bn","China, Major product, Imports, Passenger cars, USD bn",None,line
 "China, Major product, Imports, Ethylene glycol, USD bn","China, Major product, Imports, Ethylene glycol, USD bn",None,line
 "China, Major product, Imports, Dairy products, USD bn","China, Major product, Imports, Dairy products, USD bn",None,line
-"China, Major product, Imports, Diode and similar semiconductor, USD bn","China, Major product, Imports, Diode and similar semiconductor, USD bn",None,line
+"China, Major product, Imports, Diodes and similar semiconductors, USD bn","China, Major product, Imports, Diodes and similar semiconductors, USD bn",None,line
 "China, Major product, Imports, Xylenes, USD bn","China, Major product, Imports, Xylenes, USD bn",None,line
 "China, Major product, Imports, Vaccines for human medicine, USD bn","China, Major product, Imports, Vaccines for human medicine, USD bn",None,line
-"China, Major product, Imports, Material technology, USD bn","China, Major product, Imports, Material technology, USD bn",None,line
-"China, Major product, Imports, Non-plug-in hybrid electric passenger cars, USD bn","China, Major product, Imports, Non-plug-in hybrid electric passenger cars, USD bn",None,line
+"China, Major product, Imports, Opto-electronics technology, USD bn","China, Major product, Imports, Opto-electronics technology, USD bn",None,line
+"China, Major product, Imports, Other technologies, USD bn","China, Major product, Imports, Other technologies, USD bn",None,line
 "China, Major product, Imports, Agricultural machinery, USD bn","China, Major product, Imports, Agricultural machinery, USD bn",None,line
 "China, Major product, Imports, Agriculture products, USD bn","China, Major product, Imports, Agriculture products, USD bn",None,line
 "China, Major product, Imports, Frozen fish, USD bn","China, Major product, Imports, Frozen fish, USD bn",None,line
@@ -2955,18 +2951,18 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Machinery for manufacturing boules or wafers, USD bn","China, Major product, Imports, Machinery for manufacturing boules or wafers, USD bn",None,line
 "China, Major product, Imports, Machinery for manufacturing flat panel displays, USD bn","China, Major product, Imports, Machinery for manufacturing flat panel displays, USD bn",None,line
 "China, Major product, Imports, Packaging machinery, USD bn","China, Major product, Imports, Packaging machinery, USD bn",None,line
-"China, Major product, Imports, Mechanical wrist-watches, USD bn","China, Major product, Imports, Mechanical wrist-watches, USD bn",None,line
+"China, Major product, Imports, Medical or surgical instruments and apparatuses, USD bn","China, Major product, Imports, Medical or surgical instruments and apparatuses, USD bn",None,line
 "China, Major product, Imports, Medicinal materials and pharmaceutical products, USD bn","China, Major product, Imports, Medicinal materials and pharmaceutical products, USD bn",None,line
 "China, Major product, Imports, Semiconductor Manufacturing Equipments, USD bn","China, Major product, Imports, Semiconductor Manufacturing Equipments, USD bn",None,line
 "China, Major product, Imports, Printing or book-binding machines and parts thereof, USD bn","China, Major product, Imports, Printing or book-binding machines and parts thereof, USD bn",None,line
-"China, Major product, Imports, Electronic integrated circuits, USD bn","China, Major product, Imports, Electronic integrated circuits, USD bn",None,line
+"China, Major product, Imports, Printed circuits, USD bn","China, Major product, Imports, Printed circuits, USD bn",None,line
 "China, Major product, Imports, Compressors, USD bn","China, Major product, Imports, Compressors, USD bn",None,line
 "China, Major product, Imports, Wood in the rough, USD bn","China, Major product, Imports, Wood in the rough, USD bn",None,line
-"China, Major product, Imports, Wood in the rough, USD bn.1","China, Major product, Imports, Wood in the rough, USD bn.1",None,line
+"China, Major product, Imports, Wood in the rough and sawn wood, USD bn","China, Major product, Imports, Wood in the rough and sawn wood, USD bn",None,line
 "China, Major product, Imports, Crude petroleum oils, USD bn","China, Major product, Imports, Crude petroleum oils, USD bn",None,line
 "China, Major product, Imports, Transformers, USD bn","China, Major product, Imports, Transformers, USD bn",None,line
 "China, Major product, Imports, Yarn of synthetic fibres, USD bn","China, Major product, Imports, Yarn of synthetic fibres, USD bn",None,line
-"China, Major product, Imports, Vehicle engines, USD bn","China, Major product, Imports, Vehicle engines, USD bn",None,line
+"China, Major product, Imports, Commercial vehicles, USD bn","China, Major product, Imports, Commercial vehicles, USD bn",None,line
 "China, Major product, Imports, Beers, USD bn","China, Major product, Imports, Beers, USD bn",None,line
 "China, Major product, Imports, Basic organic chemicals, USD bn","China, Major product, Imports, Basic organic chemicals, USD bn",None,line
 "China, Major product, Imports, Plastic articles, USD bn","China, Major product, Imports, Plastic articles, USD bn",None,line
@@ -2981,21 +2977,21 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Wheat, USD bn","China, Major product, Imports, Wheat, USD bn",None,line
 "China, Major product, Imports, Fresh or dried fruit and nuts, USD bn","China, Major product, Imports, Fresh or dried fruit and nuts, USD bn",None,line
 "China, Major product, Imports, Refined petroleum products, USD bn","China, Major product, Imports, Refined petroleum products, USD bn",None,line
-"China, Major product, Imports, Biotechnology, USD bn","China, Major product, Imports, Biotechnology, USD bn",None,line
+"China, Major product, Imports, Wrist-watches, USD bn","China, Major product, Imports, Wrist-watches, USD bn",None,line
 "China, Major product, Imports, Printers and duplicators, including multifunctional printers, USD bn","China, Major product, Imports, Printers and duplicators, including multifunctional printers, USD bn",None,line
 "China, Major product, Imports, Tractors, USD bn","China, Major product, Imports, Tractors, USD bn",None,line
-"China, Major product, Imports, Rare-earth ore, metals, compounds, USD bn","China, Major product, Imports, Rare-earth ore, metals, compounds, USD bn",None,line
+"China, Major product, Imports, Plug-in hybrid electric passenger cars, USD bn","China, Major product, Imports, Plug-in hybrid electric passenger cars, USD bn",None,line
 "China, Major product, Imports, Harvesting machinery, USD bn","China, Major product, Imports, Harvesting machinery, USD bn",None,line
-"China, Major product, Imports, Cultureproducts*, USD bn","China, Major product, Imports, Cultureproducts*, USD bn",None,line
+"China, Major product, Imports, Culture products, USD bn","China, Major product, Imports, Culture products, USD bn",None,line
 "China, Major product, Imports, Garments and clothing accessories, USD bn","China, Major product, Imports, Garments and clothing accessories, USD bn",None,line
 "China, Major product, Imports, Wood and articles thereof, USD bn","China, Major product, Imports, Wood and articles thereof, USD bn",None,line
 "China, Major product, Imports, Unwrought copper and copper products, USD bn","China, Major product, Imports, Unwrought copper and copper products, USD bn",None,line
 "China, Major product, Imports, Unwrought aluminium and aluminium products, USD bn","China, Major product, Imports, Unwrought aluminium and aluminium products, USD bn",None,line
 "China, Major product, Imports, Machine-tools, USD bn","China, Major product, Imports, Machine-tools, USD bn",None,line
 "China, Major product, Imports, Basic components of machinery, USD bn","China, Major product, Imports, Basic components of machinery, USD bn",None,line
-"China, Major product, Imports, Opto-electronics technology, USD bn","China, Major product, Imports, Opto-electronics technology, USD bn",None,line
+"China, Major product, Imports, Mechanical wrist-watches, USD bn","China, Major product, Imports, Mechanical wrist-watches, USD bn",None,line
 "China, Major product, Imports, Mechanical and electrical products, USD bn","China, Major product, Imports, Mechanical and electrical products, USD bn",None,line
-"China, Major product, Imports, Hybrid Electric buses with ten seats or more, USD bn","China, Major product, Imports, Hybrid Electric buses with ten seats or more, USD bn",None,line
+"China, Major product, Imports, Material technology, USD bn","China, Major product, Imports, Material technology, USD bn",None,line
 "China, Major product, Imports, Cotton yarn, USD bn","China, Major product, Imports, Cotton yarn, USD bn",None,line
 "China, Major product, Imports, Cotton, USD bn","China, Major product, Imports, Cotton, USD bn",None,line
 "China, Major product, Imports, Palm oil and its fractions, USD bn","China, Major product, Imports, Palm oil and its fractions, USD bn",None,line
@@ -3003,17 +2999,15 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Compound fertilizers, USD bn","China, Major product, Imports, Compound fertilizers, USD bn",None,line
 "China, Major product, Imports, Potassium chloride, USD bn","China, Major product, Imports, Potassium chloride, USD bn",None,line
 "China, Major product, Imports, Aquatic products, USD bn","China, Major product, Imports, Aquatic products, USD bn",None,line
-"China, Major product, Imports, Special purpose motor vehicles, USD bn","China, Major product, Imports, Special purpose motor vehicles, USD bn",None,line
-"China, Major product, Imports, Turbo-jets, USD bn","China, Major product, Imports, Turbo-jets, USD bn",None,line
-"China, Major product, Imports, Aircraft of an unladen weight exceeding 2T, USD bn","China, Major product, Imports, Aircraft of an unladen weight exceeding 2T, USD bn",None,line
+"China, Major product, Imports, Motor vehicles including chassis fitted with engines, USD bn","China, Major product, Imports, Motor vehicles including chassis fitted with engines, USD bn",None,line
+"China, Major product, Imports, Vehicle tyres, USD bn","China, Major product, Imports, Vehicle tyres, USD bn",None,line
+"China, Major product, Imports, Parts and accessories of vehicle, USD bn","China, Major product, Imports, Parts and accessories of vehicle, USD bn",None,line
 "China, Major product, Imports, Pumps, USD bn","China, Major product, Imports, Pumps, USD bn",None,line
-"China, Major product, Imports, LCD module, USD bn","China, Major product, Imports, LCD module, USD bn",None,line
-"China, Major product, Imports, Measuring or checking instruments, USD bn","China, Major product, Imports, Measuring or checking instruments, USD bn",None,line
+"China, Major product, Imports, Turbo-jets, USD bn","China, Major product, Imports, Turbo-jets, USD bn",None,line
+"China, Major product, Imports, Turbo-propellers, USD bn","China, Major product, Imports, Turbo-propellers, USD bn",None,line
 "China, Major product, Imports, Natural gases in liquefied state, USD bn","China, Major product, Imports, Natural gases in liquefied state, USD bn",None,line
-"China, Major product, Imports, Wrist-watches, USD bn","China, Major product, Imports, Wrist-watches, USD bn",None,line
-"China, Major product, Imports, LCD televisions
-, USD bn","China, Major product, Imports, LCD televisions
-, USD bn",None,line
+"China, Major product, Imports, LCD module, USD bn","China, Major product, Imports, LCD module, USD bn",None,line
+"China, Major product, Imports, LCD televisions, USD bn","China, Major product, Imports, LCD televisions, USD bn",None,line
 "China, Major product, Imports, Coal and lignite, USD bn","China, Major product, Imports, Coal and lignite, USD bn",None,line
 "China, Major product, Imports, Bovine or equine leather, USD bn","China, Major product, Imports, Bovine or equine leather, USD bn",None,line
 "China, Major product, Imports, Meat of bovine animals, USD bn","China, Major product, Imports, Meat of bovine animals, USD bn",None,line
@@ -3024,29 +3018,27 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Glasses and articles thereof, USD bn","China, Major product, Imports, Glasses and articles thereof, USD bn",None,line
 "China, Major product, Imports, Glass fibres and articles thereof, USD bn","China, Major product, Imports, Glass fibres and articles thereof, USD bn",None,line
 "China, Major product, Imports, Pearls, precious and semi-precious stones, USD bn","China, Major product, Imports, Pearls, precious and semi-precious stones, USD bn",None,line
-"China, Major product, Imports, Computer integrated manufacturing technology, USD bn","China, Major product, Imports, Computer integrated manufacturing technology, USD bn",None,line
-"China, Major product, Imports, Electronic technology, USD bn","China, Major product, Imports, Electronic technology, USD bn",None,line
 "China, Major product, Imports, Life science and technology, USD bn","China, Major product, Imports, Life science and technology, USD bn",None,line
-"China, Major product, Imports, Plug-in hybrid electric passenger cars, USD bn","China, Major product, Imports, Plug-in hybrid electric passenger cars, USD bn",None,line
+"China, Major product, Imports, Biotechnology, USD bn","China, Major product, Imports, Biotechnology, USD bn",None,line
+"China, Major product, Imports, Wrist-watches, electrically operated, USD bn","China, Major product, Imports, Wrist-watches, electrically operated, USD bn",None,line
+"China, Major product, Imports, Electric vehicles for transport of persons, USD bn","China, Major product, Imports, Electric vehicles for transport of persons, USD bn",None,line
 "China, Major product, Imports, Electronic components, USD bn","China, Major product, Imports, Electronic components, USD bn",None,line
-"China, Major product, Imports, Other technologies, USD bn","China, Major product, Imports, Other technologies, USD bn",None,line
-"China, Major product, Imports, Printed circuits, USD bn","China, Major product, Imports, Printed circuits, USD bn",None,line
+"China, Major product, Imports, Electronic technology, USD bn","China, Major product, Imports, Electronic technology, USD bn",None,line
+"China, Major product, Imports, Electrical capacitors, USD bn","China, Major product, Imports, Electrical capacitors, USD bn",None,line
 "China, Major product, Imports, Electrical equipments, USD bn","China, Major product, Imports, Electrical equipments, USD bn",None,line
 "China, Major product, Imports, Electrical control devices, USD bn","China, Major product, Imports, Electrical control devices, USD bn",None,line
 "China, Major product, Imports, Insulated wires and cables, USD bn","China, Major product, Imports, Insulated wires and cables, USD bn",None,line
 "China, Major product, Imports, Television cameras, digital cameras and video camera recorders, USD bn","China, Major product, Imports, Television cameras, digital cameras and video camera recorders, USD bn",None,line
-"China, Major product, Imports, Televisions
-, USD bn","China, Major product, Imports, Televisions
-, USD bn",None,line
+"China, Major product, Imports, Televisions, USD bn","China, Major product, Imports, Televisions, USD bn",None,line
 "China, Major product, Imports, Leather, fur and articles thereof, USD bn","China, Major product, Imports, Leather, fur and articles thereof, USD bn",None,line
 "China, Major product, Imports, Naphtha, USD bn","China, Major product, Imports, Naphtha, USD bn",None,line
 "China, Major product, Imports, Meat of poultry, USD bn","China, Major product, Imports, Meat of poultry, USD bn",None,line
-"China, Major product, Imports, Rare-earthore,metals,compounds, USD bn","China, Major product, Imports, Rare-earthore,metals,compounds, USD bn",None,line
+"China, Major product, Imports, Rare-earth ore, metals, compounds, USD bn","China, Major product, Imports, Rare-earth ore, metals, compounds, USD bn",None,line
 "China, Major product, Imports, Rice, USD bn","China, Major product, Imports, Rice, USD bn",None,line
-"China, Major product, Imports, Ships, USD bn","China, Major product, Imports, Ships, USD bn",None,line
+"China, Major product, Imports, Aircraft of an unladen weight exceeding 2T, USD bn","China, Major product, Imports, Aircraft of an unladen weight exceeding 2T, USD bn",None,line
 "China, Major product, Imports, Grain food, USD bn","China, Major product, Imports, Grain food, USD bn",None,line
-"China, Major product, Imports, Batteryelectricpassengercars, USD bn","China, Major product, Imports, Batteryelectricpassengercars, USD bn",None,line
-"China, Major product, Imports, Culture products, USD bn","China, Major product, Imports, Culture products, USD bn",None,line
+"China, Major product, Imports, Battery electric passenger cars, USD bn","China, Major product, Imports, Battery electric passenger cars, USD bn",None,line
+"China, Major product, Imports, Battery electric buses with ten seats or more, USD bn","China, Major product, Imports, Battery electric buses with ten seats or more, USD bn",None,line
 "China, Major product, Imports, Paper pulp, USD bn","China, Major product, Imports, Paper pulp, USD bn",None,line
 "China, Major product, Imports, Paper pulp, paper and articles thereof, USD bn","China, Major product, Imports, Paper pulp, paper and articles thereof, USD bn",None,line
 "China, Major product, Imports, Textile raw materials, USD bn","China, Major product, Imports, Textile raw materials, USD bn",None,line
@@ -3055,31 +3047,31 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Wool and carded or combed wool, USD bn","China, Major product, Imports, Wool and carded or combed wool, USD bn",None,line
 "China, Major product, Imports, Meat of sheep or goats, USD bn","China, Major product, Imports, Meat of sheep or goats, USD bn",None,line
 "China, Major product, Imports, Preparations for make-up and personal care, USD bn","China, Major product, Imports, Preparations for make-up and personal care, USD bn",None,line
-"China, Major product, Imports, Meat(including meat offal), USD bn","China, Major product, Imports, Meat(including meat offal), USD bn",None,line
+"China, Major product, Imports, Meat (including meat offal), USD bn","China, Major product, Imports, Meat (including meat offal), USD bn",None,line
 "China, Major product, Imports, Fertilizers, USD bn","China, Major product, Imports, Fertilizers, USD bn",None,line
 "China, Major product, Imports, Automatic data processing machines, USD bn","China, Major product, Imports, Automatic data processing machines, USD bn",None,line
 "China, Major product, Imports, Automatic data processing machines and parts thereof, USD bn","China, Major product, Imports, Automatic data processing machines and parts thereof, USD bn",None,line
 "China, Major product, Imports, Parts and accessories of automatic data processing machines, USD bn","China, Major product, Imports, Parts and accessories of automatic data processing machines, USD bn",None,line
-"China, Major product, Imports, LCD panel, USD bn","China, Major product, Imports, LCD panel, USD bn",None,line
+"China, Major product, Imports, Parts and accessories of aircraft, USD bn","China, Major product, Imports, Parts and accessories of aircraft, USD bn",None,line
 "China, Major product, Imports, Aviation kerosene, USD bn","China, Major product, Imports, Aviation kerosene, USD bn",None,line
-"China, Major product, Imports, Battery electric buses with ten seats or more, USD bn","China, Major product, Imports, Battery electric buses with ten seats or more, USD bn",None,line
-"China, Major product, Imports, Medical or surgical instruments and apparatuses, USD bn","China, Major product, Imports, Medical or surgical instruments and apparatuses, USD bn",None,line
+"China, Major product, Imports, Aerospace technology, USD bn","China, Major product, Imports, Aerospace technology, USD bn",None,line
+"China, Major product, Imports, Ships, USD bn","China, Major product, Imports, Ships, USD bn",None,line
 "China, Major product, Imports, Rape or mustard oil and its fractions, USD bn","China, Major product, Imports, Rape or mustard oil and its fractions, USD bn",None,line
 "China, Major product, Imports, Wine and other liquors made of grape, USD bn","China, Major product, Imports, Wine and other liquors made of grape, USD bn",None,line
 "China, Major product, Imports, Electric accumulators, USD bn","China, Major product, Imports, Electric accumulators, USD bn",None,line
 "China, Major product, Imports, Potatoes,cassava and sweet potatoes, USD bn","China, Major product, Imports, Potatoes,cassava and sweet potatoes, USD bn",None,line
-"China, Major product, Imports, Aerospace technology, USD bn","China, Major product, Imports, Aerospace technology, USD bn",None,line
-"China, Major product, Imports, Elecric vehicles for transport of persons, USD bn","China, Major product, Imports, Elecric vehicles for transport of persons, USD bn",None,line
-"China, Major product, Imports, Wrist-watches, electrically operated, USD bn","China, Major product, Imports, Wrist-watches, electrically operated, USD bn",None,line
+"China, Major product, Imports, Computer and telecommunications technology, USD bn","China, Major product, Imports, Computer and telecommunications technology, USD bn",None,line
+"China, Major product, Imports, Computer integrated manufacturing technology, USD bn","China, Major product, Imports, Computer integrated manufacturing technology, USD bn",None,line
+"China, Major product, Imports, Measuring or checking instruments, USD bn","China, Major product, Imports, Measuring or checking instruments, USD bn",None,line
 "China, Major product, Imports, Cereals and cereal flour, USD bn","China, Major product, Imports, Cereals and cereal flour, USD bn",None,line
 "China, Major product, Imports, Soya bean oil and its fractions, USD bn","China, Major product, Imports, Soya bean oil and its fractions, USD bn",None,line
 "China, Major product, Imports, Beans, USD bn","China, Major product, Imports, Beans, USD bn",None,line
-"China, Major product, Imports, Vehicle tyres, USD bn","China, Major product, Imports, Vehicle tyres, USD bn",None,line
-"China, Major product, Imports, Parts and accessories of aircraft, USD bn","China, Major product, Imports, Parts and accessories of aircraft, USD bn",None,line
+"China, Major product, Imports, Trucks, USD bn","China, Major product, Imports, Trucks, USD bn",None,line
+"China, Major product, Imports, Vehicle engines, USD bn","China, Major product, Imports, Vehicle engines, USD bn",None,line
 "China, Major product, Imports, General machines, USD bn","China, Major product, Imports, General machines, USD bn",None,line
 "China, Major product, Imports, Liquors and beverages, USD bn","China, Major product, Imports, Liquors and beverages, USD bn",None,line
 "China, Major product, Imports, Metal mines and ores, USD bn","China, Major product, Imports, Metal mines and ores, USD bn",None,line
-"China, Major product, Imports, Hi-tech products, USD bn","China, Major product, Imports, Hi-tech products, USD bn",None,line
+"China, Major product, Imports, Clocks and watches and parts thereof, USD bn","China, Major product, Imports, Clocks and watches and parts thereof, USD bn",None,line
 "China, Major product, Imports, Steel products, USD bn","China, Major product, Imports, Steel products, USD bn",None,line
 "China, Major product, Imports, Diamonds, USD bn","China, Major product, Imports, Diamonds, USD bn",None,line
 "China, Major product, Imports, Iron ores and concentrates, USD bn","China, Major product, Imports, Iron ores and concentrates, USD bn",None,line
@@ -3088,18 +3080,18 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Lithium-ion batteries, USD bn","China, Major product, Imports, Lithium-ion batteries, USD bn",None,line
 "China, Major product, Imports, Wood sawn lengthwise,sliced or peeled, USD bn","China, Major product, Imports, Wood sawn lengthwise,sliced or peeled, USD bn",None,line
 "China, Major product, Imports, Valves and similar appliances, USD bn","China, Major product, Imports, Valves and similar appliances, USD bn",None,line
-"China, Major product, Imports, Electronic Integrated Circuit, USD bn","China, Major product, Imports, Electronic Integrated Circuit, USD bn",None,line
-"China, Major product, Imports, Food, USD bn","China, Major product, Imports, Food, USD bn",None,line
+"China, Major product, Imports, Electronic integrated circuits, USD bn","China, Major product, Imports, Electronic integrated circuits, USD bn",None,line
+"China, Major product, Imports, Non-plug-in hybrid electric passenger cars, USD bn","China, Major product, Imports, Non-plug-in hybrid electric passenger cars, USD bn",None,line
 "China, Major product, Imports, Audio or video devices and parts thereof, USD bn","China, Major product, Imports, Audio or video devices and parts thereof, USD bn",None,line
 "China, Major product, Imports, Parts of audio or video devices, USD bn","China, Major product, Imports, Parts of audio or video devices, USD bn",None,line
-"China, Major product, Imports, Turbo-propellers, USD bn","China, Major product, Imports, Turbo-propellers, USD bn",None,line
-"China, Major product, Imports, Food*, USD bn","China, Major product, Imports, Food*, USD bn",None,line
+"China, Major product, Imports, Aircraft, USD bn","China, Major product, Imports, Aircraft, USD bn",None,line
+"China, Major product, Imports, Food, USD bn","China, Major product, Imports, Food, USD bn",None,line
 "China, Major product, Imports, Food processing machines, USD bn","China, Major product, Imports, Food processing machines, USD bn",None,line
 "China, Major product, Imports, Edible vegetable oil, USD bn","China, Major product, Imports, Edible vegetable oil, USD bn",None,line
 "China, Major product, Imports, Edible aquatic products, USD bn","China, Major product, Imports, Edible aquatic products, USD bn",None,line
 "China, Major product, Imports, Edible oil, USD bn","China, Major product, Imports, Edible oil, USD bn",None,line
 "China, Major product, Imports, Sugars, USD bn","China, Major product, Imports, Sugars, USD bn",None,line
-"China, Major product, Imports, Computer and telecomunications technology, USD bn","China, Major product, Imports, Computer and telecomunications technology, USD bn",None,line
+"China, Major product, Imports, Hi-tech products, USD bn","China, Major product, Imports, Hi-tech products, USD bn",None,line
 "China, Major product, Imports, Grain sorghum, USD bn","China, Major product, Imports, Grain sorghum, USD bn",None,line
 "China, Major product, Exports, Machines for additive manufacturing, 10000N","China, Major product, Exports, Machines for additive manufacturing, 10000N",None,line
 "China, Major product, Exports, Special purpose motor vehicles, N","China, Major product, Exports, Special purpose motor vehicles, N",None,line
@@ -3762,7 +3754,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Traditional labour-intensive sectors, SA, USD bn","China, Major product, Exports, Traditional labour-intensive sectors, SA, USD bn",None,line
 "China, Major product, Exports, Commodities, SA, USD bn","China, Major product, Exports, Commodities, SA, USD bn",None,line
 "China, Major product, Imports, Energy, SA, USD bn","China, Major product, Imports, Energy, SA, USD bn",None,line
-"China, Major product, Imports, Electronic Integrated Circuit, SA, USD bn","China, Major product, Imports, Electronic Integrated Circuit, SA, USD bn",None,line
+"China, Major product, Imports, Electronic integrated circuits, SA, USD bn","China, Major product, Imports, Electronic integrated circuits, SA, USD bn",None,line
 "China, Major product, Exports, Passenger cars, SA, USD bn","China, Major product, Exports, Passenger cars, SA, USD bn",None,line
 "China, Major product, Exports, Mobile phones, SA, USD bn","China, Major product, Exports, Mobile phones, SA, USD bn",None,line
 "China, Method, Imports, Processing, SA, USD bn","China, Method, Imports, Processing, SA, USD bn",None,line
@@ -3984,9 +3976,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Washing machines, % of GDP","China, Major product, Exports, Washing machines, % of GDP",None,line
 "China, Major product, Exports, LCD module, % of GDP","China, Major product, Exports, LCD module, % of GDP",None,line
 "China, Major product, Exports, LCD panel, % of GDP","China, Major product, Exports, LCD panel, % of GDP",None,line
-"China, Major product, Exports, LCD televisions
-, % of GDP","China, Major product, Exports, LCD televisions
-, % of GDP",None,line
+"China, Major product, Exports, LCD televisions, % of GDP","China, Major product, Exports, LCD televisions, % of GDP",None,line
 "China, Major product, Exports, LCD monitors, % of GDP","China, Major product, Exports, LCD monitors, % of GDP",None,line
 "China, Major product, Exports, Tankers, % of GDP","China, Major product, Exports, Tankers, % of GDP",None,line
 "China, Major product, Exports, Hybrid Electric buses with ten seats or more, % of GDP","China, Major product, Exports, Hybrid Electric buses with ten seats or more, % of GDP",None,line
@@ -4011,9 +4001,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Electrical control devices, % of GDP","China, Major product, Exports, Electrical control devices, % of GDP",None,line
 "China, Major product, Exports, Insulated wires and cables, % of GDP","China, Major product, Exports, Insulated wires and cables, % of GDP",None,line
 "China, Major product, Exports, Television cameras, digital cameras and video camera recorders, % of GDP","China, Major product, Exports, Television cameras, digital cameras and video camera recorders, % of GDP",None,line
-"China, Major product, Exports, Televisions
-, % of GDP","China, Major product, Exports, Televisions
-, % of GDP",None,line
+"China, Major product, Exports, Televisions, % of GDP","China, Major product, Exports, Televisions, % of GDP",None,line
 "China, Major product, Exports, Leather, fur and articles thereof, % of GDP","China, Major product, Exports, Leather, fur and articles thereof, % of GDP",None,line
 "China, Major product, Exports, Leather suit-cases and similar containers, % of GDP","China, Major product, Exports, Leather suit-cases and similar containers, % of GDP",None,line
 "China, Major product, Exports, Spectacles and parts thereof, % of GDP","China, Major product, Exports, Spectacles and parts thereof, % of GDP",None,line
@@ -4059,7 +4047,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Canned vegetables, % of GDP","China, Major product, Exports, Canned vegetables, % of GDP",None,line
 "China, Major product, Exports, Fur garments, % of GDP","China, Major product, Exports, Fur garments, % of GDP",None,line
 "China, Major product, Exports, Angles, shapes and sections, of steel or iron, % of GDP","China, Major product, Exports, Angles, shapes and sections, of steel or iron, % of GDP",None,line
-"China, Major product, Exports, Computer and telecomunications technology, % of GDP","China, Major product, Exports, Computer and telecomunications technology, % of GDP",None,line
+"China, Major product, Exports, Computer and telecommunications technology, % of GDP","China, Major product, Exports, Computer and telecommunications technology, % of GDP",None,line
 "China, Major product, Exports, Computer integrated manufacturing technology, % of GDP","China, Major product, Exports, Computer integrated manufacturing technology, % of GDP",None,line
 "China, Major product, Exports, Measuring or checking instruments, % of GDP","China, Major product, Exports, Measuring or checking instruments, % of GDP",None,line
 "China, Major product, Exports, Trucks, % of GDP","China, Major product, Exports, Trucks, % of GDP",None,line
@@ -4091,17 +4079,17 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, High voltage switches and control devices, % of GDP","China, Major product, Exports, High voltage switches and control devices, % of GDP",None,line
 "China, Major product, Exports, Hi-tech products, % of GDP","China, Major product, Exports, Hi-tech products, % of GDP",None,line
 "China, Major product, Exports, Fresh or chilled vegetables, % of GDP","China, Major product, Exports, Fresh or chilled vegetables, % of GDP",None,line
-"China, Major product, Imports, Aircraft, % of GDP","China, Major product, Imports, Aircraft, % of GDP",None,line
+"China, Major product, Imports, Special purpose motor vehicles, % of GDP","China, Major product, Imports, Special purpose motor vehicles, % of GDP",None,line
 "China, Major product, Imports, Central processing units, % of GDP","China, Major product, Imports, Central processing units, % of GDP",None,line
 "China, Major product, Imports, Crude medicinal materials of Chinese type, % of GDP","China, Major product, Imports, Crude medicinal materials of Chinese type, % of GDP",None,line
-"China, Major product, Imports, Parts and accessories of vehicle, % of GDP","China, Major product, Imports, Parts and accessories of vehicle, % of GDP",None,line
+"China, Major product, Imports, Passenger cars, % of GDP","China, Major product, Imports, Passenger cars, % of GDP",None,line
 "China, Major product, Imports, Ethylene glycol, % of GDP","China, Major product, Imports, Ethylene glycol, % of GDP",None,line
 "China, Major product, Imports, Dairy products, % of GDP","China, Major product, Imports, Dairy products, % of GDP",None,line
-"China, Major product, Imports, Diode and similar semiconductor, % of GDP","China, Major product, Imports, Diode and similar semiconductor, % of GDP",None,line
+"China, Major product, Imports, Diodes and similar semiconductors, % of GDP","China, Major product, Imports, Diodes and similar semiconductors, % of GDP",None,line
 "China, Major product, Imports, Xylenes, % of GDP","China, Major product, Imports, Xylenes, % of GDP",None,line
 "China, Major product, Imports, Vaccines for human medicine, % of GDP","China, Major product, Imports, Vaccines for human medicine, % of GDP",None,line
-"China, Major product, Imports, Material technology, % of GDP","China, Major product, Imports, Material technology, % of GDP",None,line
-"China, Major product, Imports, Non-plug-in hybrid electric passenger cars, % of GDP","China, Major product, Imports, Non-plug-in hybrid electric passenger cars, % of GDP",None,line
+"China, Major product, Imports, Opto-electronics technology, % of GDP","China, Major product, Imports, Opto-electronics technology, % of GDP",None,line
+"China, Major product, Imports, Other technologies, % of GDP","China, Major product, Imports, Other technologies, % of GDP",None,line
 "China, Major product, Imports, Agricultural machinery, % of GDP","China, Major product, Imports, Agricultural machinery, % of GDP",None,line
 "China, Major product, Imports, Agriculture products, % of GDP","China, Major product, Imports, Agriculture products, % of GDP",None,line
 "China, Major product, Imports, Frozen fish, % of GDP","China, Major product, Imports, Frozen fish, % of GDP",None,line
@@ -4112,17 +4100,18 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Machinery for manufacturing boules or wafers, % of GDP","China, Major product, Imports, Machinery for manufacturing boules or wafers, % of GDP",None,line
 "China, Major product, Imports, Machinery for manufacturing flat panel displays, % of GDP","China, Major product, Imports, Machinery for manufacturing flat panel displays, % of GDP",None,line
 "China, Major product, Imports, Packaging machinery, % of GDP","China, Major product, Imports, Packaging machinery, % of GDP",None,line
-"China, Major product, Imports, Mechanical wrist-watches, % of GDP","China, Major product, Imports, Mechanical wrist-watches, % of GDP",None,line
+"China, Major product, Imports, Medical or surgical instruments and apparatuses, % of GDP","China, Major product, Imports, Medical or surgical instruments and apparatuses, % of GDP",None,line
 "China, Major product, Imports, Medicinal materials and pharmaceutical products, % of GDP","China, Major product, Imports, Medicinal materials and pharmaceutical products, % of GDP",None,line
 "China, Major product, Imports, Semiconductor Manufacturing Equipments, % of GDP","China, Major product, Imports, Semiconductor Manufacturing Equipments, % of GDP",None,line
 "China, Major product, Imports, Printing or book-binding machines and parts thereof, % of GDP","China, Major product, Imports, Printing or book-binding machines and parts thereof, % of GDP",None,line
-"China, Major product, Imports, Electronic integrated circuits, % of GDP","China, Major product, Imports, Electronic integrated circuits, % of GDP",None,line
+"China, Major product, Imports, Printed circuits, % of GDP","China, Major product, Imports, Printed circuits, % of GDP",None,line
 "China, Major product, Imports, Compressors, % of GDP","China, Major product, Imports, Compressors, % of GDP",None,line
 "China, Major product, Imports, Wood in the rough, % of GDP","China, Major product, Imports, Wood in the rough, % of GDP",None,line
+"China, Major product, Imports, Wood in the rough and sawn wood, % of GDP","China, Major product, Imports, Wood in the rough and sawn wood, % of GDP",None,line
 "China, Major product, Imports, Crude petroleum oils, % of GDP","China, Major product, Imports, Crude petroleum oils, % of GDP",None,line
 "China, Major product, Imports, Transformers, % of GDP","China, Major product, Imports, Transformers, % of GDP",None,line
 "China, Major product, Imports, Yarn of synthetic fibres, % of GDP","China, Major product, Imports, Yarn of synthetic fibres, % of GDP",None,line
-"China, Major product, Imports, Vehicle engines, % of GDP","China, Major product, Imports, Vehicle engines, % of GDP",None,line
+"China, Major product, Imports, Commercial vehicles, % of GDP","China, Major product, Imports, Commercial vehicles, % of GDP",None,line
 "China, Major product, Imports, Beers, % of GDP","China, Major product, Imports, Beers, % of GDP",None,line
 "China, Major product, Imports, Basic organic chemicals, % of GDP","China, Major product, Imports, Basic organic chemicals, % of GDP",None,line
 "China, Major product, Imports, Plastic articles, % of GDP","China, Major product, Imports, Plastic articles, % of GDP",None,line
@@ -4137,21 +4126,21 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Wheat, % of GDP","China, Major product, Imports, Wheat, % of GDP",None,line
 "China, Major product, Imports, Fresh or dried fruit and nuts, % of GDP","China, Major product, Imports, Fresh or dried fruit and nuts, % of GDP",None,line
 "China, Major product, Imports, Refined petroleum products, % of GDP","China, Major product, Imports, Refined petroleum products, % of GDP",None,line
-"China, Major product, Imports, Biotechnology, % of GDP","China, Major product, Imports, Biotechnology, % of GDP",None,line
+"China, Major product, Imports, Wrist-watches, % of GDP","China, Major product, Imports, Wrist-watches, % of GDP",None,line
 "China, Major product, Imports, Printers and duplicators, including multifunctional printers, % of GDP","China, Major product, Imports, Printers and duplicators, including multifunctional printers, % of GDP",None,line
 "China, Major product, Imports, Tractors, % of GDP","China, Major product, Imports, Tractors, % of GDP",None,line
-"China, Major product, Imports, Rare-earth ore, metals, compounds, % of GDP","China, Major product, Imports, Rare-earth ore, metals, compounds, % of GDP",None,line
+"China, Major product, Imports, Plug-in hybrid electric passenger cars, % of GDP","China, Major product, Imports, Plug-in hybrid electric passenger cars, % of GDP",None,line
 "China, Major product, Imports, Harvesting machinery, % of GDP","China, Major product, Imports, Harvesting machinery, % of GDP",None,line
-"China, Major product, Imports, Cultureproducts*, % of GDP","China, Major product, Imports, Cultureproducts*, % of GDP",None,line
+"China, Major product, Imports, Culture products, % of GDP","China, Major product, Imports, Culture products, % of GDP",None,line
 "China, Major product, Imports, Garments and clothing accessories, % of GDP","China, Major product, Imports, Garments and clothing accessories, % of GDP",None,line
 "China, Major product, Imports, Wood and articles thereof, % of GDP","China, Major product, Imports, Wood and articles thereof, % of GDP",None,line
 "China, Major product, Imports, Unwrought copper and copper products, % of GDP","China, Major product, Imports, Unwrought copper and copper products, % of GDP",None,line
 "China, Major product, Imports, Unwrought aluminium and aluminium products, % of GDP","China, Major product, Imports, Unwrought aluminium and aluminium products, % of GDP",None,line
 "China, Major product, Imports, Machine-tools, % of GDP","China, Major product, Imports, Machine-tools, % of GDP",None,line
 "China, Major product, Imports, Basic components of machinery, % of GDP","China, Major product, Imports, Basic components of machinery, % of GDP",None,line
-"China, Major product, Imports, Opto-electronics technology, % of GDP","China, Major product, Imports, Opto-electronics technology, % of GDP",None,line
+"China, Major product, Imports, Mechanical wrist-watches, % of GDP","China, Major product, Imports, Mechanical wrist-watches, % of GDP",None,line
 "China, Major product, Imports, Mechanical and electrical products, % of GDP","China, Major product, Imports, Mechanical and electrical products, % of GDP",None,line
-"China, Major product, Imports, Hybrid Electric buses with ten seats or more, % of GDP","China, Major product, Imports, Hybrid Electric buses with ten seats or more, % of GDP",None,line
+"China, Major product, Imports, Material technology, % of GDP","China, Major product, Imports, Material technology, % of GDP",None,line
 "China, Major product, Imports, Cotton yarn, % of GDP","China, Major product, Imports, Cotton yarn, % of GDP",None,line
 "China, Major product, Imports, Cotton, % of GDP","China, Major product, Imports, Cotton, % of GDP",None,line
 "China, Major product, Imports, Palm oil and its fractions, % of GDP","China, Major product, Imports, Palm oil and its fractions, % of GDP",None,line
@@ -4159,17 +4148,15 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Compound fertilizers, % of GDP","China, Major product, Imports, Compound fertilizers, % of GDP",None,line
 "China, Major product, Imports, Potassium chloride, % of GDP","China, Major product, Imports, Potassium chloride, % of GDP",None,line
 "China, Major product, Imports, Aquatic products, % of GDP","China, Major product, Imports, Aquatic products, % of GDP",None,line
-"China, Major product, Imports, Special purpose motor vehicles, % of GDP","China, Major product, Imports, Special purpose motor vehicles, % of GDP",None,line
-"China, Major product, Imports, Turbo-jets, % of GDP","China, Major product, Imports, Turbo-jets, % of GDP",None,line
-"China, Major product, Imports, Aircraft of an unladen weight exceeding 2T, % of GDP","China, Major product, Imports, Aircraft of an unladen weight exceeding 2T, % of GDP",None,line
+"China, Major product, Imports, Motor vehicles including chassis fitted with engines, % of GDP","China, Major product, Imports, Motor vehicles including chassis fitted with engines, % of GDP",None,line
+"China, Major product, Imports, Vehicle tyres, % of GDP","China, Major product, Imports, Vehicle tyres, % of GDP",None,line
+"China, Major product, Imports, Parts and accessories of vehicle, % of GDP","China, Major product, Imports, Parts and accessories of vehicle, % of GDP",None,line
 "China, Major product, Imports, Pumps, % of GDP","China, Major product, Imports, Pumps, % of GDP",None,line
-"China, Major product, Imports, LCD module, % of GDP","China, Major product, Imports, LCD module, % of GDP",None,line
-"China, Major product, Imports, Measuring or checking instruments, % of GDP","China, Major product, Imports, Measuring or checking instruments, % of GDP",None,line
+"China, Major product, Imports, Turbo-jets, % of GDP","China, Major product, Imports, Turbo-jets, % of GDP",None,line
+"China, Major product, Imports, Turbo-propellers, % of GDP","China, Major product, Imports, Turbo-propellers, % of GDP",None,line
 "China, Major product, Imports, Natural gases in liquefied state, % of GDP","China, Major product, Imports, Natural gases in liquefied state, % of GDP",None,line
-"China, Major product, Imports, Wrist-watches, % of GDP","China, Major product, Imports, Wrist-watches, % of GDP",None,line
-"China, Major product, Imports, LCD televisions
-, % of GDP","China, Major product, Imports, LCD televisions
-, % of GDP",None,line
+"China, Major product, Imports, LCD module, % of GDP","China, Major product, Imports, LCD module, % of GDP",None,line
+"China, Major product, Imports, LCD televisions, % of GDP","China, Major product, Imports, LCD televisions, % of GDP",None,line
 "China, Major product, Imports, Coal and lignite, % of GDP","China, Major product, Imports, Coal and lignite, % of GDP",None,line
 "China, Major product, Imports, Bovine or equine leather, % of GDP","China, Major product, Imports, Bovine or equine leather, % of GDP",None,line
 "China, Major product, Imports, Meat of bovine animals, % of GDP","China, Major product, Imports, Meat of bovine animals, % of GDP",None,line
@@ -4180,29 +4167,27 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Glasses and articles thereof, % of GDP","China, Major product, Imports, Glasses and articles thereof, % of GDP",None,line
 "China, Major product, Imports, Glass fibres and articles thereof, % of GDP","China, Major product, Imports, Glass fibres and articles thereof, % of GDP",None,line
 "China, Major product, Imports, Pearls, precious and semi-precious stones, % of GDP","China, Major product, Imports, Pearls, precious and semi-precious stones, % of GDP",None,line
-"China, Major product, Imports, Computer integrated manufacturing technology, % of GDP","China, Major product, Imports, Computer integrated manufacturing technology, % of GDP",None,line
-"China, Major product, Imports, Electronic technology, % of GDP","China, Major product, Imports, Electronic technology, % of GDP",None,line
 "China, Major product, Imports, Life science and technology, % of GDP","China, Major product, Imports, Life science and technology, % of GDP",None,line
-"China, Major product, Imports, Plug-in hybrid electric passenger cars, % of GDP","China, Major product, Imports, Plug-in hybrid electric passenger cars, % of GDP",None,line
+"China, Major product, Imports, Biotechnology, % of GDP","China, Major product, Imports, Biotechnology, % of GDP",None,line
+"China, Major product, Imports, Wrist-watches, electrically operated, % of GDP","China, Major product, Imports, Wrist-watches, electrically operated, % of GDP",None,line
+"China, Major product, Imports, Electric vehicles for transport of persons, % of GDP","China, Major product, Imports, Electric vehicles for transport of persons, % of GDP",None,line
 "China, Major product, Imports, Electronic components, % of GDP","China, Major product, Imports, Electronic components, % of GDP",None,line
-"China, Major product, Imports, Other technologies, % of GDP","China, Major product, Imports, Other technologies, % of GDP",None,line
-"China, Major product, Imports, Printed circuits, % of GDP","China, Major product, Imports, Printed circuits, % of GDP",None,line
+"China, Major product, Imports, Electronic technology, % of GDP","China, Major product, Imports, Electronic technology, % of GDP",None,line
+"China, Major product, Imports, Electrical capacitors, % of GDP","China, Major product, Imports, Electrical capacitors, % of GDP",None,line
 "China, Major product, Imports, Electrical equipments, % of GDP","China, Major product, Imports, Electrical equipments, % of GDP",None,line
 "China, Major product, Imports, Electrical control devices, % of GDP","China, Major product, Imports, Electrical control devices, % of GDP",None,line
 "China, Major product, Imports, Insulated wires and cables, % of GDP","China, Major product, Imports, Insulated wires and cables, % of GDP",None,line
 "China, Major product, Imports, Television cameras, digital cameras and video camera recorders, % of GDP","China, Major product, Imports, Television cameras, digital cameras and video camera recorders, % of GDP",None,line
-"China, Major product, Imports, Televisions
-, % of GDP","China, Major product, Imports, Televisions
-, % of GDP",None,line
+"China, Major product, Imports, Televisions, % of GDP","China, Major product, Imports, Televisions, % of GDP",None,line
 "China, Major product, Imports, Leather, fur and articles thereof, % of GDP","China, Major product, Imports, Leather, fur and articles thereof, % of GDP",None,line
 "China, Major product, Imports, Naphtha, % of GDP","China, Major product, Imports, Naphtha, % of GDP",None,line
 "China, Major product, Imports, Meat of poultry, % of GDP","China, Major product, Imports, Meat of poultry, % of GDP",None,line
-"China, Major product, Imports, Rare-earthore,metals,compounds, % of GDP","China, Major product, Imports, Rare-earthore,metals,compounds, % of GDP",None,line
+"China, Major product, Imports, Rare-earth ore, metals, compounds, % of GDP","China, Major product, Imports, Rare-earth ore, metals, compounds, % of GDP",None,line
 "China, Major product, Imports, Rice, % of GDP","China, Major product, Imports, Rice, % of GDP",None,line
-"China, Major product, Imports, Ships, % of GDP","China, Major product, Imports, Ships, % of GDP",None,line
+"China, Major product, Imports, Aircraft of an unladen weight exceeding 2T, % of GDP","China, Major product, Imports, Aircraft of an unladen weight exceeding 2T, % of GDP",None,line
 "China, Major product, Imports, Grain food, % of GDP","China, Major product, Imports, Grain food, % of GDP",None,line
-"China, Major product, Imports, Batteryelectricpassengercars, % of GDP","China, Major product, Imports, Batteryelectricpassengercars, % of GDP",None,line
-"China, Major product, Imports, Culture products, % of GDP","China, Major product, Imports, Culture products, % of GDP",None,line
+"China, Major product, Imports, Battery electric passenger cars, % of GDP","China, Major product, Imports, Battery electric passenger cars, % of GDP",None,line
+"China, Major product, Imports, Battery electric buses with ten seats or more, % of GDP","China, Major product, Imports, Battery electric buses with ten seats or more, % of GDP",None,line
 "China, Major product, Imports, Paper pulp, % of GDP","China, Major product, Imports, Paper pulp, % of GDP",None,line
 "China, Major product, Imports, Paper pulp, paper and articles thereof, % of GDP","China, Major product, Imports, Paper pulp, paper and articles thereof, % of GDP",None,line
 "China, Major product, Imports, Textile raw materials, % of GDP","China, Major product, Imports, Textile raw materials, % of GDP",None,line
@@ -4211,31 +4196,31 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Wool and carded or combed wool, % of GDP","China, Major product, Imports, Wool and carded or combed wool, % of GDP",None,line
 "China, Major product, Imports, Meat of sheep or goats, % of GDP","China, Major product, Imports, Meat of sheep or goats, % of GDP",None,line
 "China, Major product, Imports, Preparations for make-up and personal care, % of GDP","China, Major product, Imports, Preparations for make-up and personal care, % of GDP",None,line
-"China, Major product, Imports, Meat(including meat offal), % of GDP","China, Major product, Imports, Meat(including meat offal), % of GDP",None,line
+"China, Major product, Imports, Meat (including meat offal), % of GDP","China, Major product, Imports, Meat (including meat offal), % of GDP",None,line
 "China, Major product, Imports, Fertilizers, % of GDP","China, Major product, Imports, Fertilizers, % of GDP",None,line
 "China, Major product, Imports, Automatic data processing machines, % of GDP","China, Major product, Imports, Automatic data processing machines, % of GDP",None,line
 "China, Major product, Imports, Automatic data processing machines and parts thereof, % of GDP","China, Major product, Imports, Automatic data processing machines and parts thereof, % of GDP",None,line
 "China, Major product, Imports, Parts and accessories of automatic data processing machines, % of GDP","China, Major product, Imports, Parts and accessories of automatic data processing machines, % of GDP",None,line
-"China, Major product, Imports, LCD panel, % of GDP","China, Major product, Imports, LCD panel, % of GDP",None,line
+"China, Major product, Imports, Parts and accessories of aircraft, % of GDP","China, Major product, Imports, Parts and accessories of aircraft, % of GDP",None,line
 "China, Major product, Imports, Aviation kerosene, % of GDP","China, Major product, Imports, Aviation kerosene, % of GDP",None,line
-"China, Major product, Imports, Battery electric buses with ten seats or more, % of GDP","China, Major product, Imports, Battery electric buses with ten seats or more, % of GDP",None,line
-"China, Major product, Imports, Medical or surgical instruments and apparatuses, % of GDP","China, Major product, Imports, Medical or surgical instruments and apparatuses, % of GDP",None,line
+"China, Major product, Imports, Aerospace technology, % of GDP","China, Major product, Imports, Aerospace technology, % of GDP",None,line
+"China, Major product, Imports, Ships, % of GDP","China, Major product, Imports, Ships, % of GDP",None,line
 "China, Major product, Imports, Rape or mustard oil and its fractions, % of GDP","China, Major product, Imports, Rape or mustard oil and its fractions, % of GDP",None,line
 "China, Major product, Imports, Wine and other liquors made of grape, % of GDP","China, Major product, Imports, Wine and other liquors made of grape, % of GDP",None,line
 "China, Major product, Imports, Electric accumulators, % of GDP","China, Major product, Imports, Electric accumulators, % of GDP",None,line
 "China, Major product, Imports, Potatoes,cassava and sweet potatoes, % of GDP","China, Major product, Imports, Potatoes,cassava and sweet potatoes, % of GDP",None,line
-"China, Major product, Imports, Aerospace technology, % of GDP","China, Major product, Imports, Aerospace technology, % of GDP",None,line
-"China, Major product, Imports, Elecric vehicles for transport of persons, % of GDP","China, Major product, Imports, Elecric vehicles for transport of persons, % of GDP",None,line
-"China, Major product, Imports, Wrist-watches, electrically operated, % of GDP","China, Major product, Imports, Wrist-watches, electrically operated, % of GDP",None,line
+"China, Major product, Imports, Computer and telecommunications technology, % of GDP","China, Major product, Imports, Computer and telecommunications technology, % of GDP",None,line
+"China, Major product, Imports, Computer integrated manufacturing technology, % of GDP","China, Major product, Imports, Computer integrated manufacturing technology, % of GDP",None,line
+"China, Major product, Imports, Measuring or checking instruments, % of GDP","China, Major product, Imports, Measuring or checking instruments, % of GDP",None,line
 "China, Major product, Imports, Cereals and cereal flour, % of GDP","China, Major product, Imports, Cereals and cereal flour, % of GDP",None,line
 "China, Major product, Imports, Soya bean oil and its fractions, % of GDP","China, Major product, Imports, Soya bean oil and its fractions, % of GDP",None,line
 "China, Major product, Imports, Beans, % of GDP","China, Major product, Imports, Beans, % of GDP",None,line
-"China, Major product, Imports, Vehicle tyres, % of GDP","China, Major product, Imports, Vehicle tyres, % of GDP",None,line
-"China, Major product, Imports, Parts and accessories of aircraft, % of GDP","China, Major product, Imports, Parts and accessories of aircraft, % of GDP",None,line
+"China, Major product, Imports, Trucks, % of GDP","China, Major product, Imports, Trucks, % of GDP",None,line
+"China, Major product, Imports, Vehicle engines, % of GDP","China, Major product, Imports, Vehicle engines, % of GDP",None,line
 "China, Major product, Imports, General machines, % of GDP","China, Major product, Imports, General machines, % of GDP",None,line
 "China, Major product, Imports, Liquors and beverages, % of GDP","China, Major product, Imports, Liquors and beverages, % of GDP",None,line
 "China, Major product, Imports, Metal mines and ores, % of GDP","China, Major product, Imports, Metal mines and ores, % of GDP",None,line
-"China, Major product, Imports, Hi-tech products, % of GDP","China, Major product, Imports, Hi-tech products, % of GDP",None,line
+"China, Major product, Imports, Clocks and watches and parts thereof, % of GDP","China, Major product, Imports, Clocks and watches and parts thereof, % of GDP",None,line
 "China, Major product, Imports, Steel products, % of GDP","China, Major product, Imports, Steel products, % of GDP",None,line
 "China, Major product, Imports, Diamonds, % of GDP","China, Major product, Imports, Diamonds, % of GDP",None,line
 "China, Major product, Imports, Iron ores and concentrates, % of GDP","China, Major product, Imports, Iron ores and concentrates, % of GDP",None,line
@@ -4244,18 +4229,18 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Lithium-ion batteries, % of GDP","China, Major product, Imports, Lithium-ion batteries, % of GDP",None,line
 "China, Major product, Imports, Wood sawn lengthwise,sliced or peeled, % of GDP","China, Major product, Imports, Wood sawn lengthwise,sliced or peeled, % of GDP",None,line
 "China, Major product, Imports, Valves and similar appliances, % of GDP","China, Major product, Imports, Valves and similar appliances, % of GDP",None,line
-"China, Major product, Imports, Electronic Integrated Circuit, % of GDP","China, Major product, Imports, Electronic Integrated Circuit, % of GDP",None,line
-"China, Major product, Imports, Food, % of GDP","China, Major product, Imports, Food, % of GDP",None,line
+"China, Major product, Imports, Electronic integrated circuits, % of GDP","China, Major product, Imports, Electronic integrated circuits, % of GDP",None,line
+"China, Major product, Imports, Non-plug-in hybrid electric passenger cars, % of GDP","China, Major product, Imports, Non-plug-in hybrid electric passenger cars, % of GDP",None,line
 "China, Major product, Imports, Audio or video devices and parts thereof, % of GDP","China, Major product, Imports, Audio or video devices and parts thereof, % of GDP",None,line
 "China, Major product, Imports, Parts of audio or video devices, % of GDP","China, Major product, Imports, Parts of audio or video devices, % of GDP",None,line
-"China, Major product, Imports, Turbo-propellers, % of GDP","China, Major product, Imports, Turbo-propellers, % of GDP",None,line
-"China, Major product, Imports, Food*, % of GDP","China, Major product, Imports, Food*, % of GDP",None,line
+"China, Major product, Imports, Aircraft, % of GDP","China, Major product, Imports, Aircraft, % of GDP",None,line
+"China, Major product, Imports, Food, % of GDP","China, Major product, Imports, Food, % of GDP",None,line
 "China, Major product, Imports, Food processing machines, % of GDP","China, Major product, Imports, Food processing machines, % of GDP",None,line
 "China, Major product, Imports, Edible vegetable oil, % of GDP","China, Major product, Imports, Edible vegetable oil, % of GDP",None,line
 "China, Major product, Imports, Edible aquatic products, % of GDP","China, Major product, Imports, Edible aquatic products, % of GDP",None,line
 "China, Major product, Imports, Edible oil, % of GDP","China, Major product, Imports, Edible oil, % of GDP",None,line
 "China, Major product, Imports, Sugars, % of GDP","China, Major product, Imports, Sugars, % of GDP",None,line
-"China, Major product, Imports, Computer and telecomunications technology, % of GDP","China, Major product, Imports, Computer and telecomunications technology, % of GDP",None,line
+"China, Major product, Imports, Hi-tech products, % of GDP","China, Major product, Imports, Hi-tech products, % of GDP",None,line
 "China, Major product, Imports, Grain sorghum, % of GDP","China, Major product, Imports, Grain sorghum, % of GDP",None,line
 "China, Major product, Exports, Traditional labour-intensive sectors, % of GDP","China, Major product, Exports, Traditional labour-intensive sectors, % of GDP",None,line
 "China, Major product, Imports, Energy, % of GDP","China, Major product, Imports, Energy, % of GDP",None,line
@@ -4625,7 +4610,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Traditional labour-intensive sectors, SA, % of GDP","China, Major product, Exports, Traditional labour-intensive sectors, SA, % of GDP",None,line
 "China, Major product, Exports, Commodities, SA, % of GDP","China, Major product, Exports, Commodities, SA, % of GDP",None,line
 "China, Major product, Imports, Energy, SA, % of GDP","China, Major product, Imports, Energy, SA, % of GDP",None,line
-"China, Major product, Imports, Electronic Integrated Circuit, SA, % of GDP","China, Major product, Imports, Electronic Integrated Circuit, SA, % of GDP",None,line
+"China, Major product, Imports, Electronic integrated circuits, SA, % of GDP","China, Major product, Imports, Electronic integrated circuits, SA, % of GDP",None,line
 "China, Major product, Exports, Passenger cars, SA, % of GDP","China, Major product, Exports, Passenger cars, SA, % of GDP",None,line
 "China, Major product, Exports, Mobile phones, SA, % of GDP","China, Major product, Exports, Mobile phones, SA, % of GDP",None,line
 "China, Method, Imports, Processing, SA, % of GDP","China, Method, Imports, Processing, SA, % of GDP",None,line
@@ -4819,9 +4804,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Washing machines, USD bn, % YoY","China, Major product, Exports, Washing machines, USD bn, % YoY",None,line
 "China, Major product, Exports, LCD module, USD bn, % YoY","China, Major product, Exports, LCD module, USD bn, % YoY",None,line
 "China, Major product, Exports, LCD panel, USD bn, % YoY","China, Major product, Exports, LCD panel, USD bn, % YoY",None,line
-"China, Major product, Exports, LCD televisions
-, USD bn, % YoY","China, Major product, Exports, LCD televisions
-, USD bn, % YoY",None,line
+"China, Major product, Exports, LCD televisions, USD bn, % YoY","China, Major product, Exports, LCD televisions, USD bn, % YoY",None,line
 "China, Major product, Exports, LCD monitors, USD bn, % YoY","China, Major product, Exports, LCD monitors, USD bn, % YoY",None,line
 "China, Major product, Exports, Tankers, USD bn, % YoY","China, Major product, Exports, Tankers, USD bn, % YoY",None,line
 "China, Major product, Exports, Hybrid Electric buses with ten seats or more, USD bn, % YoY","China, Major product, Exports, Hybrid Electric buses with ten seats or more, USD bn, % YoY",None,line
@@ -4846,9 +4829,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Electrical control devices, USD bn, % YoY","China, Major product, Exports, Electrical control devices, USD bn, % YoY",None,line
 "China, Major product, Exports, Insulated wires and cables, USD bn, % YoY","China, Major product, Exports, Insulated wires and cables, USD bn, % YoY",None,line
 "China, Major product, Exports, Television cameras, digital cameras and video camera recorders, USD bn, % YoY","China, Major product, Exports, Television cameras, digital cameras and video camera recorders, USD bn, % YoY",None,line
-"China, Major product, Exports, Televisions
-, USD bn, % YoY","China, Major product, Exports, Televisions
-, USD bn, % YoY",None,line
+"China, Major product, Exports, Televisions, USD bn, % YoY","China, Major product, Exports, Televisions, USD bn, % YoY",None,line
 "China, Major product, Exports, Leather, fur and articles thereof, USD bn, % YoY","China, Major product, Exports, Leather, fur and articles thereof, USD bn, % YoY",None,line
 "China, Major product, Exports, Leather suit-cases and similar containers, USD bn, % YoY","China, Major product, Exports, Leather suit-cases and similar containers, USD bn, % YoY",None,line
 "China, Major product, Exports, Spectacles and parts thereof, USD bn, % YoY","China, Major product, Exports, Spectacles and parts thereof, USD bn, % YoY",None,line
@@ -4894,7 +4875,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Canned vegetables, USD bn, % YoY","China, Major product, Exports, Canned vegetables, USD bn, % YoY",None,line
 "China, Major product, Exports, Fur garments, USD bn, % YoY","China, Major product, Exports, Fur garments, USD bn, % YoY",None,line
 "China, Major product, Exports, Angles, shapes and sections, of steel or iron, USD bn, % YoY","China, Major product, Exports, Angles, shapes and sections, of steel or iron, USD bn, % YoY",None,line
-"China, Major product, Exports, Computer and telecomunications technology, USD bn, % YoY","China, Major product, Exports, Computer and telecomunications technology, USD bn, % YoY",None,line
+"China, Major product, Exports, Computer and telecommunications technology, USD bn, % YoY","China, Major product, Exports, Computer and telecommunications technology, USD bn, % YoY",None,line
 "China, Major product, Exports, Computer integrated manufacturing technology, USD bn, % YoY","China, Major product, Exports, Computer integrated manufacturing technology, USD bn, % YoY",None,line
 "China, Major product, Exports, Measuring or checking instruments, USD bn, % YoY","China, Major product, Exports, Measuring or checking instruments, USD bn, % YoY",None,line
 "China, Major product, Exports, Trucks, USD bn, % YoY","China, Major product, Exports, Trucks, USD bn, % YoY",None,line
@@ -4926,17 +4907,17 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, High voltage switches and control devices, USD bn, % YoY","China, Major product, Exports, High voltage switches and control devices, USD bn, % YoY",None,line
 "China, Major product, Exports, Hi-tech products, USD bn, % YoY","China, Major product, Exports, Hi-tech products, USD bn, % YoY",None,line
 "China, Major product, Exports, Fresh or chilled vegetables, USD bn, % YoY","China, Major product, Exports, Fresh or chilled vegetables, USD bn, % YoY",None,line
-"China, Major product, Imports, Aircraft, USD bn, % YoY","China, Major product, Imports, Aircraft, USD bn, % YoY",None,line
+"China, Major product, Imports, Special purpose motor vehicles, USD bn, % YoY","China, Major product, Imports, Special purpose motor vehicles, USD bn, % YoY",None,line
 "China, Major product, Imports, Central processing units, USD bn, % YoY","China, Major product, Imports, Central processing units, USD bn, % YoY",None,line
 "China, Major product, Imports, Crude medicinal materials of Chinese type, USD bn, % YoY","China, Major product, Imports, Crude medicinal materials of Chinese type, USD bn, % YoY",None,line
-"China, Major product, Imports, Parts and accessories of vehicle, USD bn, % YoY","China, Major product, Imports, Parts and accessories of vehicle, USD bn, % YoY",None,line
+"China, Major product, Imports, Passenger cars, USD bn, % YoY","China, Major product, Imports, Passenger cars, USD bn, % YoY",None,line
 "China, Major product, Imports, Ethylene glycol, USD bn, % YoY","China, Major product, Imports, Ethylene glycol, USD bn, % YoY",None,line
 "China, Major product, Imports, Dairy products, USD bn, % YoY","China, Major product, Imports, Dairy products, USD bn, % YoY",None,line
-"China, Major product, Imports, Diode and similar semiconductor, USD bn, % YoY","China, Major product, Imports, Diode and similar semiconductor, USD bn, % YoY",None,line
+"China, Major product, Imports, Diodes and similar semiconductors, USD bn, % YoY","China, Major product, Imports, Diodes and similar semiconductors, USD bn, % YoY",None,line
 "China, Major product, Imports, Xylenes, USD bn, % YoY","China, Major product, Imports, Xylenes, USD bn, % YoY",None,line
 "China, Major product, Imports, Vaccines for human medicine, USD bn, % YoY","China, Major product, Imports, Vaccines for human medicine, USD bn, % YoY",None,line
-"China, Major product, Imports, Material technology, USD bn, % YoY","China, Major product, Imports, Material technology, USD bn, % YoY",None,line
-"China, Major product, Imports, Non-plug-in hybrid electric passenger cars, USD bn, % YoY","China, Major product, Imports, Non-plug-in hybrid electric passenger cars, USD bn, % YoY",None,line
+"China, Major product, Imports, Opto-electronics technology, USD bn, % YoY","China, Major product, Imports, Opto-electronics technology, USD bn, % YoY",None,line
+"China, Major product, Imports, Other technologies, USD bn, % YoY","China, Major product, Imports, Other technologies, USD bn, % YoY",None,line
 "China, Major product, Imports, Agricultural machinery, USD bn, % YoY","China, Major product, Imports, Agricultural machinery, USD bn, % YoY",None,line
 "China, Major product, Imports, Agriculture products, USD bn, % YoY","China, Major product, Imports, Agriculture products, USD bn, % YoY",None,line
 "China, Major product, Imports, Frozen fish, USD bn, % YoY","China, Major product, Imports, Frozen fish, USD bn, % YoY",None,line
@@ -4947,17 +4928,17 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Machinery for manufacturing boules or wafers, USD bn, % YoY","China, Major product, Imports, Machinery for manufacturing boules or wafers, USD bn, % YoY",None,line
 "China, Major product, Imports, Machinery for manufacturing flat panel displays, USD bn, % YoY","China, Major product, Imports, Machinery for manufacturing flat panel displays, USD bn, % YoY",None,line
 "China, Major product, Imports, Packaging machinery, USD bn, % YoY","China, Major product, Imports, Packaging machinery, USD bn, % YoY",None,line
-"China, Major product, Imports, Mechanical wrist-watches, USD bn, % YoY","China, Major product, Imports, Mechanical wrist-watches, USD bn, % YoY",None,line
+"China, Major product, Imports, Medical or surgical instruments and apparatuses, USD bn, % YoY","China, Major product, Imports, Medical or surgical instruments and apparatuses, USD bn, % YoY",None,line
 "China, Major product, Imports, Medicinal materials and pharmaceutical products, USD bn, % YoY","China, Major product, Imports, Medicinal materials and pharmaceutical products, USD bn, % YoY",None,line
 "China, Major product, Imports, Semiconductor Manufacturing Equipments, USD bn, % YoY","China, Major product, Imports, Semiconductor Manufacturing Equipments, USD bn, % YoY",None,line
 "China, Major product, Imports, Printing or book-binding machines and parts thereof, USD bn, % YoY","China, Major product, Imports, Printing or book-binding machines and parts thereof, USD bn, % YoY",None,line
-"China, Major product, Imports, Electronic integrated circuits, USD bn, % YoY","China, Major product, Imports, Electronic integrated circuits, USD bn, % YoY",None,line
+"China, Major product, Imports, Printed circuits, USD bn, % YoY","China, Major product, Imports, Printed circuits, USD bn, % YoY",None,line
 "China, Major product, Imports, Compressors, USD bn, % YoY","China, Major product, Imports, Compressors, USD bn, % YoY",None,line
 "China, Major product, Imports, Wood in the rough, USD bn, % YoY","China, Major product, Imports, Wood in the rough, USD bn, % YoY",None,line
 "China, Major product, Imports, Crude petroleum oils, USD bn, % YoY","China, Major product, Imports, Crude petroleum oils, USD bn, % YoY",None,line
 "China, Major product, Imports, Transformers, USD bn, % YoY","China, Major product, Imports, Transformers, USD bn, % YoY",None,line
 "China, Major product, Imports, Yarn of synthetic fibres, USD bn, % YoY","China, Major product, Imports, Yarn of synthetic fibres, USD bn, % YoY",None,line
-"China, Major product, Imports, Vehicle engines, USD bn, % YoY","China, Major product, Imports, Vehicle engines, USD bn, % YoY",None,line
+"China, Major product, Imports, Commercial vehicles, USD bn, % YoY","China, Major product, Imports, Commercial vehicles, USD bn, % YoY",None,line
 "China, Major product, Imports, Beers, USD bn, % YoY","China, Major product, Imports, Beers, USD bn, % YoY",None,line
 "China, Major product, Imports, Basic organic chemicals, USD bn, % YoY","China, Major product, Imports, Basic organic chemicals, USD bn, % YoY",None,line
 "China, Major product, Imports, Plastic articles, USD bn, % YoY","China, Major product, Imports, Plastic articles, USD bn, % YoY",None,line
@@ -4972,21 +4953,21 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Wheat, USD bn, % YoY","China, Major product, Imports, Wheat, USD bn, % YoY",None,line
 "China, Major product, Imports, Fresh or dried fruit and nuts, USD bn, % YoY","China, Major product, Imports, Fresh or dried fruit and nuts, USD bn, % YoY",None,line
 "China, Major product, Imports, Refined petroleum products, USD bn, % YoY","China, Major product, Imports, Refined petroleum products, USD bn, % YoY",None,line
-"China, Major product, Imports, Biotechnology, USD bn, % YoY","China, Major product, Imports, Biotechnology, USD bn, % YoY",None,line
+"China, Major product, Imports, Wrist-watches, USD bn, % YoY","China, Major product, Imports, Wrist-watches, USD bn, % YoY",None,line
 "China, Major product, Imports, Printers and duplicators, including multifunctional printers, USD bn, % YoY","China, Major product, Imports, Printers and duplicators, including multifunctional printers, USD bn, % YoY",None,line
 "China, Major product, Imports, Tractors, USD bn, % YoY","China, Major product, Imports, Tractors, USD bn, % YoY",None,line
-"China, Major product, Imports, Rare-earth ore, metals, compounds, USD bn, % YoY","China, Major product, Imports, Rare-earth ore, metals, compounds, USD bn, % YoY",None,line
+"China, Major product, Imports, Plug-in hybrid electric passenger cars, USD bn, % YoY","China, Major product, Imports, Plug-in hybrid electric passenger cars, USD bn, % YoY",None,line
 "China, Major product, Imports, Harvesting machinery, USD bn, % YoY","China, Major product, Imports, Harvesting machinery, USD bn, % YoY",None,line
-"China, Major product, Imports, Cultureproducts*, USD bn, % YoY","China, Major product, Imports, Cultureproducts*, USD bn, % YoY",None,line
+"China, Major product, Imports, Culture products, USD bn, % YoY","China, Major product, Imports, Culture products, USD bn, % YoY",None,line
 "China, Major product, Imports, Garments and clothing accessories, USD bn, % YoY","China, Major product, Imports, Garments and clothing accessories, USD bn, % YoY",None,line
 "China, Major product, Imports, Wood and articles thereof, USD bn, % YoY","China, Major product, Imports, Wood and articles thereof, USD bn, % YoY",None,line
 "China, Major product, Imports, Unwrought copper and copper products, USD bn, % YoY","China, Major product, Imports, Unwrought copper and copper products, USD bn, % YoY",None,line
 "China, Major product, Imports, Unwrought aluminium and aluminium products, USD bn, % YoY","China, Major product, Imports, Unwrought aluminium and aluminium products, USD bn, % YoY",None,line
 "China, Major product, Imports, Machine-tools, USD bn, % YoY","China, Major product, Imports, Machine-tools, USD bn, % YoY",None,line
 "China, Major product, Imports, Basic components of machinery, USD bn, % YoY","China, Major product, Imports, Basic components of machinery, USD bn, % YoY",None,line
-"China, Major product, Imports, Opto-electronics technology, USD bn, % YoY","China, Major product, Imports, Opto-electronics technology, USD bn, % YoY",None,line
+"China, Major product, Imports, Mechanical wrist-watches, USD bn, % YoY","China, Major product, Imports, Mechanical wrist-watches, USD bn, % YoY",None,line
 "China, Major product, Imports, Mechanical and electrical products, USD bn, % YoY","China, Major product, Imports, Mechanical and electrical products, USD bn, % YoY",None,line
-"China, Major product, Imports, Hybrid Electric buses with ten seats or more, USD bn, % YoY","China, Major product, Imports, Hybrid Electric buses with ten seats or more, USD bn, % YoY",None,line
+"China, Major product, Imports, Material technology, USD bn, % YoY","China, Major product, Imports, Material technology, USD bn, % YoY",None,line
 "China, Major product, Imports, Cotton yarn, USD bn, % YoY","China, Major product, Imports, Cotton yarn, USD bn, % YoY",None,line
 "China, Major product, Imports, Cotton, USD bn, % YoY","China, Major product, Imports, Cotton, USD bn, % YoY",None,line
 "China, Major product, Imports, Palm oil and its fractions, USD bn, % YoY","China, Major product, Imports, Palm oil and its fractions, USD bn, % YoY",None,line
@@ -4994,17 +4975,15 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Compound fertilizers, USD bn, % YoY","China, Major product, Imports, Compound fertilizers, USD bn, % YoY",None,line
 "China, Major product, Imports, Potassium chloride, USD bn, % YoY","China, Major product, Imports, Potassium chloride, USD bn, % YoY",None,line
 "China, Major product, Imports, Aquatic products, USD bn, % YoY","China, Major product, Imports, Aquatic products, USD bn, % YoY",None,line
-"China, Major product, Imports, Special purpose motor vehicles, USD bn, % YoY","China, Major product, Imports, Special purpose motor vehicles, USD bn, % YoY",None,line
-"China, Major product, Imports, Turbo-jets, USD bn, % YoY","China, Major product, Imports, Turbo-jets, USD bn, % YoY",None,line
-"China, Major product, Imports, Aircraft of an unladen weight exceeding 2T, USD bn, % YoY","China, Major product, Imports, Aircraft of an unladen weight exceeding 2T, USD bn, % YoY",None,line
+"China, Major product, Imports, Motor vehicles including chassis fitted with engines, USD bn, % YoY","China, Major product, Imports, Motor vehicles including chassis fitted with engines, USD bn, % YoY",None,line
+"China, Major product, Imports, Vehicle tyres, USD bn, % YoY","China, Major product, Imports, Vehicle tyres, USD bn, % YoY",None,line
+"China, Major product, Imports, Parts and accessories of vehicle, USD bn, % YoY","China, Major product, Imports, Parts and accessories of vehicle, USD bn, % YoY",None,line
 "China, Major product, Imports, Pumps, USD bn, % YoY","China, Major product, Imports, Pumps, USD bn, % YoY",None,line
-"China, Major product, Imports, LCD module, USD bn, % YoY","China, Major product, Imports, LCD module, USD bn, % YoY",None,line
-"China, Major product, Imports, Measuring or checking instruments, USD bn, % YoY","China, Major product, Imports, Measuring or checking instruments, USD bn, % YoY",None,line
+"China, Major product, Imports, Turbo-jets, USD bn, % YoY","China, Major product, Imports, Turbo-jets, USD bn, % YoY",None,line
+"China, Major product, Imports, Turbo-propellers, USD bn, % YoY","China, Major product, Imports, Turbo-propellers, USD bn, % YoY",None,line
 "China, Major product, Imports, Natural gases in liquefied state, USD bn, % YoY","China, Major product, Imports, Natural gases in liquefied state, USD bn, % YoY",None,line
-"China, Major product, Imports, Wrist-watches, USD bn, % YoY","China, Major product, Imports, Wrist-watches, USD bn, % YoY",None,line
-"China, Major product, Imports, LCD televisions
-, USD bn, % YoY","China, Major product, Imports, LCD televisions
-, USD bn, % YoY",None,line
+"China, Major product, Imports, LCD module, USD bn, % YoY","China, Major product, Imports, LCD module, USD bn, % YoY",None,line
+"China, Major product, Imports, LCD televisions, USD bn, % YoY","China, Major product, Imports, LCD televisions, USD bn, % YoY",None,line
 "China, Major product, Imports, Coal and lignite, USD bn, % YoY","China, Major product, Imports, Coal and lignite, USD bn, % YoY",None,line
 "China, Major product, Imports, Bovine or equine leather, USD bn, % YoY","China, Major product, Imports, Bovine or equine leather, USD bn, % YoY",None,line
 "China, Major product, Imports, Meat of bovine animals, USD bn, % YoY","China, Major product, Imports, Meat of bovine animals, USD bn, % YoY",None,line
@@ -5015,28 +4994,26 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Glasses and articles thereof, USD bn, % YoY","China, Major product, Imports, Glasses and articles thereof, USD bn, % YoY",None,line
 "China, Major product, Imports, Glass fibres and articles thereof, USD bn, % YoY","China, Major product, Imports, Glass fibres and articles thereof, USD bn, % YoY",None,line
 "China, Major product, Imports, Pearls, precious and semi-precious stones, USD bn, % YoY","China, Major product, Imports, Pearls, precious and semi-precious stones, USD bn, % YoY",None,line
-"China, Major product, Imports, Computer integrated manufacturing technology, USD bn, % YoY","China, Major product, Imports, Computer integrated manufacturing technology, USD bn, % YoY",None,line
-"China, Major product, Imports, Electronic technology, USD bn, % YoY","China, Major product, Imports, Electronic technology, USD bn, % YoY",None,line
 "China, Major product, Imports, Life science and technology, USD bn, % YoY","China, Major product, Imports, Life science and technology, USD bn, % YoY",None,line
-"China, Major product, Imports, Plug-in hybrid electric passenger cars, USD bn, % YoY","China, Major product, Imports, Plug-in hybrid electric passenger cars, USD bn, % YoY",None,line
+"China, Major product, Imports, Biotechnology, USD bn, % YoY","China, Major product, Imports, Biotechnology, USD bn, % YoY",None,line
+"China, Major product, Imports, Wrist-watches, electrically operated, USD bn, % YoY","China, Major product, Imports, Wrist-watches, electrically operated, USD bn, % YoY",None,line
+"China, Major product, Imports, Electric vehicles for transport of persons, USD bn, % YoY","China, Major product, Imports, Electric vehicles for transport of persons, USD bn, % YoY",None,line
 "China, Major product, Imports, Electronic components, USD bn, % YoY","China, Major product, Imports, Electronic components, USD bn, % YoY",None,line
-"China, Major product, Imports, Other technologies, USD bn, % YoY","China, Major product, Imports, Other technologies, USD bn, % YoY",None,line
-"China, Major product, Imports, Printed circuits, USD bn, % YoY","China, Major product, Imports, Printed circuits, USD bn, % YoY",None,line
+"China, Major product, Imports, Electronic technology, USD bn, % YoY","China, Major product, Imports, Electronic technology, USD bn, % YoY",None,line
+"China, Major product, Imports, Electrical capacitors, USD bn, % YoY","China, Major product, Imports, Electrical capacitors, USD bn, % YoY",None,line
 "China, Major product, Imports, Electrical equipments, USD bn, % YoY","China, Major product, Imports, Electrical equipments, USD bn, % YoY",None,line
 "China, Major product, Imports, Electrical control devices, USD bn, % YoY","China, Major product, Imports, Electrical control devices, USD bn, % YoY",None,line
 "China, Major product, Imports, Insulated wires and cables, USD bn, % YoY","China, Major product, Imports, Insulated wires and cables, USD bn, % YoY",None,line
 "China, Major product, Imports, Television cameras, digital cameras and video camera recorders, USD bn, % YoY","China, Major product, Imports, Television cameras, digital cameras and video camera recorders, USD bn, % YoY",None,line
-"China, Major product, Imports, Televisions
-, USD bn, % YoY","China, Major product, Imports, Televisions
-, USD bn, % YoY",None,line
+"China, Major product, Imports, Televisions, USD bn, % YoY","China, Major product, Imports, Televisions, USD bn, % YoY",None,line
 "China, Major product, Imports, Leather, fur and articles thereof, USD bn, % YoY","China, Major product, Imports, Leather, fur and articles thereof, USD bn, % YoY",None,line
 "China, Major product, Imports, Naphtha, USD bn, % YoY","China, Major product, Imports, Naphtha, USD bn, % YoY",None,line
 "China, Major product, Imports, Meat of poultry, USD bn, % YoY","China, Major product, Imports, Meat of poultry, USD bn, % YoY",None,line
-"China, Major product, Imports, Rare-earthore,metals,compounds, USD bn, % YoY","China, Major product, Imports, Rare-earthore,metals,compounds, USD bn, % YoY",None,line
+"China, Major product, Imports, Rare-earth ore, metals, compounds, USD bn, % YoY","China, Major product, Imports, Rare-earth ore, metals, compounds, USD bn, % YoY",None,line
 "China, Major product, Imports, Rice, USD bn, % YoY","China, Major product, Imports, Rice, USD bn, % YoY",None,line
-"China, Major product, Imports, Ships, USD bn, % YoY","China, Major product, Imports, Ships, USD bn, % YoY",None,line
+"China, Major product, Imports, Aircraft of an unladen weight exceeding 2T, USD bn, % YoY","China, Major product, Imports, Aircraft of an unladen weight exceeding 2T, USD bn, % YoY",None,line
 "China, Major product, Imports, Grain food, USD bn, % YoY","China, Major product, Imports, Grain food, USD bn, % YoY",None,line
-"China, Major product, Imports, Batteryelectricpassengercars, USD bn, % YoY","China, Major product, Imports, Batteryelectricpassengercars, USD bn, % YoY",None,line
+"China, Major product, Imports, Battery electric passenger cars, USD bn, % YoY","China, Major product, Imports, Battery electric passenger cars, USD bn, % YoY",None,line
 "China, Major product, Imports, Paper pulp, USD bn, % YoY","China, Major product, Imports, Paper pulp, USD bn, % YoY",None,line
 "China, Major product, Imports, Paper pulp, paper and articles thereof, USD bn, % YoY","China, Major product, Imports, Paper pulp, paper and articles thereof, USD bn, % YoY",None,line
 "China, Major product, Imports, Textile raw materials, USD bn, % YoY","China, Major product, Imports, Textile raw materials, USD bn, % YoY",None,line
@@ -5045,31 +5022,31 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Wool and carded or combed wool, USD bn, % YoY","China, Major product, Imports, Wool and carded or combed wool, USD bn, % YoY",None,line
 "China, Major product, Imports, Meat of sheep or goats, USD bn, % YoY","China, Major product, Imports, Meat of sheep or goats, USD bn, % YoY",None,line
 "China, Major product, Imports, Preparations for make-up and personal care, USD bn, % YoY","China, Major product, Imports, Preparations for make-up and personal care, USD bn, % YoY",None,line
-"China, Major product, Imports, Meat(including meat offal), USD bn, % YoY","China, Major product, Imports, Meat(including meat offal), USD bn, % YoY",None,line
+"China, Major product, Imports, Meat (including meat offal), USD bn, % YoY","China, Major product, Imports, Meat (including meat offal), USD bn, % YoY",None,line
 "China, Major product, Imports, Fertilizers, USD bn, % YoY","China, Major product, Imports, Fertilizers, USD bn, % YoY",None,line
 "China, Major product, Imports, Automatic data processing machines, USD bn, % YoY","China, Major product, Imports, Automatic data processing machines, USD bn, % YoY",None,line
 "China, Major product, Imports, Automatic data processing machines and parts thereof, USD bn, % YoY","China, Major product, Imports, Automatic data processing machines and parts thereof, USD bn, % YoY",None,line
 "China, Major product, Imports, Parts and accessories of automatic data processing machines, USD bn, % YoY","China, Major product, Imports, Parts and accessories of automatic data processing machines, USD bn, % YoY",None,line
-"China, Major product, Imports, LCD panel, USD bn, % YoY","China, Major product, Imports, LCD panel, USD bn, % YoY",None,line
+"China, Major product, Imports, Parts and accessories of aircraft, USD bn, % YoY","China, Major product, Imports, Parts and accessories of aircraft, USD bn, % YoY",None,line
 "China, Major product, Imports, Aviation kerosene, USD bn, % YoY","China, Major product, Imports, Aviation kerosene, USD bn, % YoY",None,line
-"China, Major product, Imports, Battery electric buses with ten seats or more, USD bn, % YoY","China, Major product, Imports, Battery electric buses with ten seats or more, USD bn, % YoY",None,line
-"China, Major product, Imports, Medical or surgical instruments and apparatuses, USD bn, % YoY","China, Major product, Imports, Medical or surgical instruments and apparatuses, USD bn, % YoY",None,line
+"China, Major product, Imports, Aerospace technology, USD bn, % YoY","China, Major product, Imports, Aerospace technology, USD bn, % YoY",None,line
+"China, Major product, Imports, Ships, USD bn, % YoY","China, Major product, Imports, Ships, USD bn, % YoY",None,line
 "China, Major product, Imports, Rape or mustard oil and its fractions, USD bn, % YoY","China, Major product, Imports, Rape or mustard oil and its fractions, USD bn, % YoY",None,line
 "China, Major product, Imports, Wine and other liquors made of grape, USD bn, % YoY","China, Major product, Imports, Wine and other liquors made of grape, USD bn, % YoY",None,line
 "China, Major product, Imports, Electric accumulators, USD bn, % YoY","China, Major product, Imports, Electric accumulators, USD bn, % YoY",None,line
 "China, Major product, Imports, Potatoes,cassava and sweet potatoes, USD bn, % YoY","China, Major product, Imports, Potatoes,cassava and sweet potatoes, USD bn, % YoY",None,line
-"China, Major product, Imports, Aerospace technology, USD bn, % YoY","China, Major product, Imports, Aerospace technology, USD bn, % YoY",None,line
-"China, Major product, Imports, Elecric vehicles for transport of persons, USD bn, % YoY","China, Major product, Imports, Elecric vehicles for transport of persons, USD bn, % YoY",None,line
-"China, Major product, Imports, Wrist-watches, electrically operated, USD bn, % YoY","China, Major product, Imports, Wrist-watches, electrically operated, USD bn, % YoY",None,line
+"China, Major product, Imports, Computer and telecommunications technology, USD bn, % YoY","China, Major product, Imports, Computer and telecommunications technology, USD bn, % YoY",None,line
+"China, Major product, Imports, Computer integrated manufacturing technology, USD bn, % YoY","China, Major product, Imports, Computer integrated manufacturing technology, USD bn, % YoY",None,line
+"China, Major product, Imports, Measuring or checking instruments, USD bn, % YoY","China, Major product, Imports, Measuring or checking instruments, USD bn, % YoY",None,line
 "China, Major product, Imports, Cereals and cereal flour, USD bn, % YoY","China, Major product, Imports, Cereals and cereal flour, USD bn, % YoY",None,line
 "China, Major product, Imports, Soya bean oil and its fractions, USD bn, % YoY","China, Major product, Imports, Soya bean oil and its fractions, USD bn, % YoY",None,line
 "China, Major product, Imports, Beans, USD bn, % YoY","China, Major product, Imports, Beans, USD bn, % YoY",None,line
-"China, Major product, Imports, Vehicle tyres, USD bn, % YoY","China, Major product, Imports, Vehicle tyres, USD bn, % YoY",None,line
-"China, Major product, Imports, Parts and accessories of aircraft, USD bn, % YoY","China, Major product, Imports, Parts and accessories of aircraft, USD bn, % YoY",None,line
+"China, Major product, Imports, Trucks, USD bn, % YoY","China, Major product, Imports, Trucks, USD bn, % YoY",None,line
+"China, Major product, Imports, Vehicle engines, USD bn, % YoY","China, Major product, Imports, Vehicle engines, USD bn, % YoY",None,line
 "China, Major product, Imports, General machines, USD bn, % YoY","China, Major product, Imports, General machines, USD bn, % YoY",None,line
 "China, Major product, Imports, Liquors and beverages, USD bn, % YoY","China, Major product, Imports, Liquors and beverages, USD bn, % YoY",None,line
 "China, Major product, Imports, Metal mines and ores, USD bn, % YoY","China, Major product, Imports, Metal mines and ores, USD bn, % YoY",None,line
-"China, Major product, Imports, Hi-tech products, USD bn, % YoY","China, Major product, Imports, Hi-tech products, USD bn, % YoY",None,line
+"China, Major product, Imports, Clocks and watches and parts thereof, USD bn, % YoY","China, Major product, Imports, Clocks and watches and parts thereof, USD bn, % YoY",None,line
 "China, Major product, Imports, Steel products, USD bn, % YoY","China, Major product, Imports, Steel products, USD bn, % YoY",None,line
 "China, Major product, Imports, Diamonds, USD bn, % YoY","China, Major product, Imports, Diamonds, USD bn, % YoY",None,line
 "China, Major product, Imports, Iron ores and concentrates, USD bn, % YoY","China, Major product, Imports, Iron ores and concentrates, USD bn, % YoY",None,line
@@ -5078,18 +5055,18 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Lithium-ion batteries, USD bn, % YoY","China, Major product, Imports, Lithium-ion batteries, USD bn, % YoY",None,line
 "China, Major product, Imports, Wood sawn lengthwise,sliced or peeled, USD bn, % YoY","China, Major product, Imports, Wood sawn lengthwise,sliced or peeled, USD bn, % YoY",None,line
 "China, Major product, Imports, Valves and similar appliances, USD bn, % YoY","China, Major product, Imports, Valves and similar appliances, USD bn, % YoY",None,line
-"China, Major product, Imports, Electronic Integrated Circuit, USD bn, % YoY","China, Major product, Imports, Electronic Integrated Circuit, USD bn, % YoY",None,line
-"China, Major product, Imports, Food, USD bn, % YoY","China, Major product, Imports, Food, USD bn, % YoY",None,line
+"China, Major product, Imports, Electronic integrated circuits, USD bn, % YoY","China, Major product, Imports, Electronic integrated circuits, USD bn, % YoY",None,line
+"China, Major product, Imports, Non-plug-in hybrid electric passenger cars, USD bn, % YoY","China, Major product, Imports, Non-plug-in hybrid electric passenger cars, USD bn, % YoY",None,line
 "China, Major product, Imports, Audio or video devices and parts thereof, USD bn, % YoY","China, Major product, Imports, Audio or video devices and parts thereof, USD bn, % YoY",None,line
 "China, Major product, Imports, Parts of audio or video devices, USD bn, % YoY","China, Major product, Imports, Parts of audio or video devices, USD bn, % YoY",None,line
-"China, Major product, Imports, Turbo-propellers, USD bn, % YoY","China, Major product, Imports, Turbo-propellers, USD bn, % YoY",None,line
-"China, Major product, Imports, Food*, USD bn, % YoY","China, Major product, Imports, Food*, USD bn, % YoY",None,line
+"China, Major product, Imports, Aircraft, USD bn, % YoY","China, Major product, Imports, Aircraft, USD bn, % YoY",None,line
+"China, Major product, Imports, Food, USD bn, % YoY","China, Major product, Imports, Food, USD bn, % YoY",None,line
 "China, Major product, Imports, Food processing machines, USD bn, % YoY","China, Major product, Imports, Food processing machines, USD bn, % YoY",None,line
 "China, Major product, Imports, Edible vegetable oil, USD bn, % YoY","China, Major product, Imports, Edible vegetable oil, USD bn, % YoY",None,line
 "China, Major product, Imports, Edible aquatic products, USD bn, % YoY","China, Major product, Imports, Edible aquatic products, USD bn, % YoY",None,line
 "China, Major product, Imports, Edible oil, USD bn, % YoY","China, Major product, Imports, Edible oil, USD bn, % YoY",None,line
 "China, Major product, Imports, Sugars, USD bn, % YoY","China, Major product, Imports, Sugars, USD bn, % YoY",None,line
-"China, Major product, Imports, Computer and telecomunications technology, USD bn, % YoY","China, Major product, Imports, Computer and telecomunications technology, USD bn, % YoY",None,line
+"China, Major product, Imports, Hi-tech products, USD bn, % YoY","China, Major product, Imports, Hi-tech products, USD bn, % YoY",None,line
 "China, Major product, Imports, Grain sorghum, USD bn, % YoY","China, Major product, Imports, Grain sorghum, USD bn, % YoY",None,line
 "China, Major product, Exports, Machines for additive manufacturing, 10000N, % YoY","China, Major product, Exports, Machines for additive manufacturing, 10000N, % YoY",None,line
 "China, Major product, Exports, Special purpose motor vehicles, N, % YoY","China, Major product, Exports, Special purpose motor vehicles, N, % YoY",None,line
@@ -5742,7 +5719,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Traditional labour-intensive sectors, SA, USD bn, % MoM","China, Major product, Exports, Traditional labour-intensive sectors, SA, USD bn, % MoM",None,line
 "China, Major product, Exports, Commodities, SA, USD bn, % MoM","China, Major product, Exports, Commodities, SA, USD bn, % MoM",None,line
 "China, Major product, Imports, Energy, SA, USD bn, % MoM","China, Major product, Imports, Energy, SA, USD bn, % MoM",None,line
-"China, Major product, Imports, Electronic Integrated Circuit, SA, USD bn, % MoM","China, Major product, Imports, Electronic Integrated Circuit, SA, USD bn, % MoM",None,line
+"China, Major product, Imports, Electronic integrated circuits, SA, USD bn, % MoM","China, Major product, Imports, Electronic integrated circuits, SA, USD bn, % MoM",None,line
 "China, Major product, Exports, Passenger cars, SA, USD bn, % MoM","China, Major product, Exports, Passenger cars, SA, USD bn, % MoM",None,line
 "China, Major product, Exports, Mobile phones, SA, USD bn, % MoM","China, Major product, Exports, Mobile phones, SA, USD bn, % MoM",None,line
 "China, Method, Imports, Processing, SA, USD bn, % MoM","China, Method, Imports, Processing, SA, USD bn, % MoM",None,line
@@ -5802,7 +5779,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Traditional labour-intensive sectors, SA, USD bn, MoM chg","China, Major product, Exports, Traditional labour-intensive sectors, SA, USD bn, MoM chg",None,line
 "China, Major product, Exports, Commodities, SA, USD bn, MoM chg","China, Major product, Exports, Commodities, SA, USD bn, MoM chg",None,line
 "China, Major product, Imports, Energy, SA, USD bn, MoM chg","China, Major product, Imports, Energy, SA, USD bn, MoM chg",None,line
-"China, Major product, Imports, Electronic Integrated Circuit, SA, USD bn, MoM chg","China, Major product, Imports, Electronic Integrated Circuit, SA, USD bn, MoM chg",None,line
+"China, Major product, Imports, Electronic integrated circuits, SA, USD bn, MoM chg","China, Major product, Imports, Electronic integrated circuits, SA, USD bn, MoM chg",None,line
 "China, Major product, Exports, Passenger cars, SA, USD bn, MoM chg","China, Major product, Exports, Passenger cars, SA, USD bn, MoM chg",None,line
 "China, Major product, Exports, Mobile phones, SA, USD bn, MoM chg","China, Major product, Exports, Mobile phones, SA, USD bn, MoM chg",None,line
 "China, Method, Imports, Processing, SA, USD bn, MoM chg","China, Method, Imports, Processing, SA, USD bn, MoM chg",None,line
@@ -5902,6 +5879,38 @@ name,display_name,data_type,chart_type
 "China, Ownership, Other firms, Exports, Contribution to YoY % chg, ppts","China, Ownership, Other firms, Exports, Contribution to YoY % chg, ppts",None,bar
 "China, SITC, Trade balance, Positive cats, Share of total, %","China, SITC, Trade balance, Positive cats, Share of total, %",None,line
 "China, SITC, Trade balance, Manufacturers, Positive cats, Share of total, %","China, SITC, Trade balance, Manufacturers, Positive cats, Share of total, %",None,line
+"China, Major product, Imports, Meat (including meat offal), Contribution to % YoY, ppts","China, Major product, Imports, Meat (including meat offal), Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Fresh or dried fruit and nuts, Contribution to % YoY, ppts","China, Major product, Imports, Fresh or dried fruit and nuts, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Grain food, Contribution to % YoY, ppts","China, Major product, Imports, Grain food, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Soya beans, Contribution to % YoY, ppts","China, Major product, Imports, Soya beans, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Edible vegetable oil, Contribution to % YoY, ppts","China, Major product, Imports, Edible vegetable oil, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Iron ores and concentrates, Contribution to % YoY, ppts","China, Major product, Imports, Iron ores and concentrates, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Copper ores and concentrates, Contribution to % YoY, ppts","China, Major product, Imports, Copper ores and concentrates, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Coal and lignite, Contribution to % YoY, ppts","China, Major product, Imports, Coal and lignite, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Crude petroleum oils, Contribution to % YoY, ppts","China, Major product, Imports, Crude petroleum oils, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Refined petroleum products, Contribution to % YoY, ppts","China, Major product, Imports, Refined petroleum products, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Natural gases, Contribution to % YoY, ppts","China, Major product, Imports, Natural gases, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Rare-earth ore, metals, compounds, Contribution to % YoY, ppts","China, Major product, Imports, Rare-earth ore, metals, compounds, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Medicinal materials and pharmaceutical products, Contribution to % YoY, ppts","China, Major product, Imports, Medicinal materials and pharmaceutical products, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Fertilizers, Contribution to % YoY, ppts","China, Major product, Imports, Fertilizers, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Preparations for make-up and personal care, Contribution to % YoY, ppts","China, Major product, Imports, Preparations for make-up and personal care, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Plastics in primary forms, Contribution to % YoY, ppts","China, Major product, Imports, Plastics in primary forms, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Natural and synthetic rubber(including Latex), Contribution to % YoY, ppts","China, Major product, Imports, Natural and synthetic rubber(including Latex), Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Paper pulp, Contribution to % YoY, ppts","China, Major product, Imports, Paper pulp, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Textile yarn, fabrics and articles thereof, Contribution to % YoY, ppts","China, Major product, Imports, Textile yarn, fabrics and articles thereof, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Steel products, Contribution to % YoY, ppts","China, Major product, Imports, Steel products, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Unwrought copper and copper products, Contribution to % YoY, ppts","China, Major product, Imports, Unwrought copper and copper products, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Machine-tools, Contribution to % YoY, ppts","China, Major product, Imports, Machine-tools, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Automatic data processing machines and parts thereof, Contribution to % YoY, ppts","China, Major product, Imports, Automatic data processing machines and parts thereof, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Diodes and similar semiconductors, Contribution to % YoY, ppts","China, Major product, Imports, Diodes and similar semiconductors, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Electronic integrated circuits, Contribution to % YoY, ppts","China, Major product, Imports, Electronic integrated circuits, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Motor vehicles including chassis fitted with engines, Contribution to % YoY, ppts","China, Major product, Imports, Motor vehicles including chassis fitted with engines, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Parts and accessories of vehicle, Contribution to % YoY, ppts","China, Major product, Imports, Parts and accessories of vehicle, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Aircraft of an unladen weight exceeding 2T, Contribution to % YoY, ppts","China, Major product, Imports, Aircraft of an unladen weight exceeding 2T, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, LCD module, Contribution to % YoY, ppts","China, Major product, Imports, LCD module, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Medical or surgical instruments and apparatuses, Contribution to % YoY, ppts","China, Major product, Imports, Medical or surgical instruments and apparatuses, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Energy, Contribution to % YoY, ppts","China, Major product, Imports, Energy, Contribution to % YoY, ppts",None,bar
+"China, Major product, Imports, Ores, Contribution to % YoY, ppts","China, Major product, Imports, Ores, Contribution to % YoY, ppts",None,bar
 "China, Auto exports, Myanmar, USD m","China, Auto exports, Myanmar, USD m",None,line
 "China, Auto exports, Hong Kong, USD m","China, Auto exports, Hong Kong, USD m",None,line
 "China, Auto exports, India, USD m","China, Auto exports, India, USD m",None,line
