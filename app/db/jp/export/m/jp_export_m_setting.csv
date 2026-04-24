@@ -1297,6 +1297,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, China excluding semicon machinery, SA, JPY bn","Japan, Exports, China excluding semicon machinery, SA, JPY bn",None,line
 "Japan, Exports, Semicon machinery, SA, JPY bn","Japan, Exports, Semicon machinery, SA, JPY bn",None,line
 "Japan, Exports, Semiconductors, SA, JPY bn","Japan, Exports, Semiconductors, SA, JPY bn",None,line
+"Japan, Imports, Semiconductors, SA, JPY bn","Japan, Imports, Semiconductors, SA, JPY bn",None,line
 "Japan, Exports, Semiconductors and semicon machinery, SA, JPY bn","Japan, Exports, Semiconductors and semicon machinery, SA, JPY bn",None,line
 "Japan, Imports, Group, Mineral fuels, SA, JPY bn","Japan, Imports, Group, Mineral fuels, SA, JPY bn",None,line
 "Japan, Exports, Asean, Total, Quantum, Index, SA","Japan, Exports, Asean, Total, Quantum, Index, SA",None,line
@@ -1651,6 +1652,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, China excluding semicon machinery, SA, USD bn","Japan, Exports, China excluding semicon machinery, SA, USD bn",None,line
 "Japan, Exports, Semicon machinery, SA, USD bn","Japan, Exports, Semicon machinery, SA, USD bn",None,line
 "Japan, Exports, Semiconductors, SA, USD bn","Japan, Exports, Semiconductors, SA, USD bn",None,line
+"Japan, Imports, Semiconductors, SA, USD bn","Japan, Imports, Semiconductors, SA, USD bn",None,line
 "Japan, Exports, Semiconductors and semicon machinery, SA, USD bn","Japan, Exports, Semiconductors and semicon machinery, SA, USD bn",None,line
 "Japan, Imports, Group, Mineral fuels, SA, USD bn","Japan, Imports, Group, Mineral fuels, SA, USD bn",None,line
 "Japan, Exports, Asean, Chemicals, Unit value, Index, USD","Japan, Exports, Asean, Chemicals, Unit value, Index, USD",None,line
@@ -2281,6 +2283,8 @@ name,display_name,data_type,chart_type
 "Japan, Trade balance, DM excl Japan, SA, USD bn","Japan, Trade balance, DM excl Japan, SA, USD bn",None,line
 "Japan, Trade balance, ROW, SA, JPY bn","Japan, Trade balance, ROW, SA, JPY bn",None,line
 "Japan, Trade balance, ROW, SA, USD bn","Japan, Trade balance, ROW, SA, USD bn",None,line
+"Japan, Trade balance, Semiconductors, SA, JPY bn","Japan, Trade balance, Semiconductors, SA, JPY bn",None,line
+"Japan, Trade balance, Semiconductors, SA, USD bn","Japan, Trade balance, Semiconductors, SA, USD bn",None,line
 "Japan, Imports, DM excl Japan, SA, % of total","Japan, Imports, DM excl Japan, SA, % of total",None,line
 "Japan, Imports, North Asia, SA, % of total","Japan, Imports, North Asia, SA, % of total",None,line
 "Japan, Imports, US, SA, % of total","Japan, Imports, US, SA, % of total",None,line
@@ -2475,6 +2479,9 @@ name,display_name,data_type,chart_type
 "Japan, BOJ, Exports, Volume, IT-related goods, Index, SA","Japan, BOJ, Exports, Volume, IT-related goods, Index, SA",None,line
 "Japan, BOJ, Exports, Volume, Capital goods, Index, SA","Japan, BOJ, Exports, Volume, Capital goods, Index, SA",None,line
 "Japan, BOJ, Exports, Volume, Other goods, Index, SA","Japan, BOJ, Exports, Volume, Other goods, Index, SA",None,line
+"Japan, Exports, Semicon machinery, SA, % of total","Japan, Exports, Semicon machinery, SA, % of total",None,line
+"Japan, Exports, Semiconductors, SA, % of total","Japan, Exports, Semiconductors, SA, % of total",None,line
+"Japan, Exports, Semiconductors and semicon machinery, SA, % of total","Japan, Exports, Semiconductors and semicon machinery, SA, % of total",None,line
 "Japan, Exports, All, % of GDP","Japan, Exports, All, % of GDP",None,line
 "Japan, Imports, All, % of GDP","Japan, Imports, All, % of GDP",None,line
 "Japan, Imports, Group, Chemicals, % of GDP","Japan, Imports, Group, Chemicals, % of GDP",None,line
@@ -2776,6 +2783,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, China excluding semicon machinery, SA, % of GDP","Japan, Exports, China excluding semicon machinery, SA, % of GDP",None,line
 "Japan, Exports, Semicon machinery, SA, % of GDP","Japan, Exports, Semicon machinery, SA, % of GDP",None,line
 "Japan, Exports, Semiconductors, SA, % of GDP","Japan, Exports, Semiconductors, SA, % of GDP",None,line
+"Japan, Imports, Semiconductors, SA, % of GDP","Japan, Imports, Semiconductors, SA, % of GDP",None,line
 "Japan, Exports, Semiconductors and semicon machinery, SA, % of GDP","Japan, Exports, Semiconductors and semicon machinery, SA, % of GDP",None,line
 "Japan, Imports, Group, Mineral fuels, SA, % of GDP","Japan, Imports, Group, Mineral fuels, SA, % of GDP",None,line
 "Japan, Trade balance, All, SA, % of GDP","Japan, Trade balance, All, SA, % of GDP",None,line
@@ -2788,6 +2796,7 @@ name,display_name,data_type,chart_type
 "Japan, Trade balance, Developed Europe, SA, % of GDP","Japan, Trade balance, Developed Europe, SA, % of GDP",None,line
 "Japan, Trade balance, DM excl Japan, SA, % of GDP","Japan, Trade balance, DM excl Japan, SA, % of GDP",None,line
 "Japan, Trade balance, ROW, SA, % of GDP","Japan, Trade balance, ROW, SA, % of GDP",None,line
+"Japan, Trade balance, Semiconductors, SA, % of GDP","Japan, Trade balance, Semiconductors, SA, % of GDP",None,line
 "Japan, Exports, All, JPY bn, % YoY","Japan, Exports, All, JPY bn, % YoY",None,line
 "Japan, Imports, All, JPY bn, % YoY","Japan, Imports, All, JPY bn, % YoY",None,line
 "Japan, Imports, Group, Chemicals, JPY bn, % YoY","Japan, Imports, Group, Chemicals, JPY bn, % YoY",None,line
@@ -4019,6 +4028,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, China excluding semicon machinery, SA, JPY bn, % YoY","Japan, Exports, China excluding semicon machinery, SA, JPY bn, % YoY",None,line
 "Japan, Exports, Semicon machinery, SA, JPY bn, % YoY","Japan, Exports, Semicon machinery, SA, JPY bn, % YoY",None,line
 "Japan, Exports, Semiconductors, SA, JPY bn, % YoY","Japan, Exports, Semiconductors, SA, JPY bn, % YoY",None,line
+"Japan, Imports, Semiconductors, SA, JPY bn, % YoY","Japan, Imports, Semiconductors, SA, JPY bn, % YoY",None,line
 "Japan, Exports, Semiconductors and semicon machinery, SA, JPY bn, % YoY","Japan, Exports, Semiconductors and semicon machinery, SA, JPY bn, % YoY",None,line
 "Japan, Imports, Group, Mineral fuels, SA, JPY bn, % YoY","Japan, Imports, Group, Mineral fuels, SA, JPY bn, % YoY",None,line
 "Japan, Exports, Asean, Total, Quantum, Index, SA, % YoY","Japan, Exports, Asean, Total, Quantum, Index, SA, % YoY",None,line
@@ -4309,6 +4319,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, China excluding semicon machinery, SA, USD bn, % YoY","Japan, Exports, China excluding semicon machinery, SA, USD bn, % YoY",None,line
 "Japan, Exports, Semicon machinery, SA, USD bn, % YoY","Japan, Exports, Semicon machinery, SA, USD bn, % YoY",None,line
 "Japan, Exports, Semiconductors, SA, USD bn, % YoY","Japan, Exports, Semiconductors, SA, USD bn, % YoY",None,line
+"Japan, Imports, Semiconductors, SA, USD bn, % YoY","Japan, Imports, Semiconductors, SA, USD bn, % YoY",None,line
 "Japan, Exports, Semiconductors and semicon machinery, SA, USD bn, % YoY","Japan, Exports, Semiconductors and semicon machinery, SA, USD bn, % YoY",None,line
 "Japan, Imports, Group, Mineral fuels, SA, USD bn, % YoY","Japan, Imports, Group, Mineral fuels, SA, USD bn, % YoY",None,line
 "Japan, Exports, Asean, Chemicals, Unit value, Index, USD, % YoY","Japan, Exports, Asean, Chemicals, Unit value, Index, USD, % YoY",None,line
@@ -4955,6 +4966,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, China excluding semicon machinery, SA, JPY bn, % MoM","Japan, Exports, China excluding semicon machinery, SA, JPY bn, % MoM",None,line
 "Japan, Exports, Semicon machinery, SA, JPY bn, % MoM","Japan, Exports, Semicon machinery, SA, JPY bn, % MoM",None,line
 "Japan, Exports, Semiconductors, SA, JPY bn, % MoM","Japan, Exports, Semiconductors, SA, JPY bn, % MoM",None,line
+"Japan, Imports, Semiconductors, SA, JPY bn, % MoM","Japan, Imports, Semiconductors, SA, JPY bn, % MoM",None,line
 "Japan, Exports, Semiconductors and semicon machinery, SA, JPY bn, % MoM","Japan, Exports, Semiconductors and semicon machinery, SA, JPY bn, % MoM",None,line
 "Japan, Imports, Group, Mineral fuels, SA, JPY bn, % MoM","Japan, Imports, Group, Mineral fuels, SA, JPY bn, % MoM",None,line
 "Japan, Exports, Asean, Total, Quantum, Index, SA, % MoM","Japan, Exports, Asean, Total, Quantum, Index, SA, % MoM",None,line
@@ -4992,6 +5004,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, China excluding semicon machinery, SA, USD bn, % MoM","Japan, Exports, China excluding semicon machinery, SA, USD bn, % MoM",None,line
 "Japan, Exports, Semicon machinery, SA, USD bn, % MoM","Japan, Exports, Semicon machinery, SA, USD bn, % MoM",None,line
 "Japan, Exports, Semiconductors, SA, USD bn, % MoM","Japan, Exports, Semiconductors, SA, USD bn, % MoM",None,line
+"Japan, Imports, Semiconductors, SA, USD bn, % MoM","Japan, Imports, Semiconductors, SA, USD bn, % MoM",None,line
 "Japan, Exports, Semiconductors and semicon machinery, SA, USD bn, % MoM","Japan, Exports, Semiconductors and semicon machinery, SA, USD bn, % MoM",None,line
 "Japan, Imports, Group, Mineral fuels, SA, USD bn, % MoM","Japan, Imports, Group, Mineral fuels, SA, USD bn, % MoM",None,line
 "Japan, BOJ, Exports, All, Volume, Index, SA, % MoM","Japan, BOJ, Exports, All, Volume, Index, SA, % MoM",None,line

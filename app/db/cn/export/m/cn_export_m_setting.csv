@@ -516,6 +516,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Solomon Islands, USD bn","China, Area, Imports, Country, Solomon Islands, USD bn",None,line
 "China, Area, Imports, Country, Somalia, USD bn","China, Area, Imports, Country, Somalia, USD bn",None,line
 "China, Area, Imports, Country, South Africa, USD bn","China, Area, Imports, Country, South Africa, USD bn",None,line
+"China, Area, Imports, Country, South Georgia Island and South Sandwich Islands, USD bn","China, Area, Imports, Country, South Georgia Island and South Sandwich Islands, USD bn",None,line
 "China, Area, Imports, Country, South Sudan, USD bn","China, Area, Imports, Country, South Sudan, USD bn",None,line
 "China, Area, Imports, Country, Spain, USD bn","China, Area, Imports, Country, Spain, USD bn",None,line
 "China, Area, Imports, Country, Sri Lanka, USD bn","China, Area, Imports, Country, Sri Lanka, USD bn",None,line
@@ -961,6 +962,7 @@ name,display_name,data_type,chart_type
 "China, Area, Trade balance, Country, Solomon Islands, USD bn","China, Area, Trade balance, Country, Solomon Islands, USD bn",None,line
 "China, Area, Trade balance, Country, Somalia, USD bn","China, Area, Trade balance, Country, Somalia, USD bn",None,line
 "China, Area, Trade balance, Country, South Africa, USD bn","China, Area, Trade balance, Country, South Africa, USD bn",None,line
+"China, Area, Trade balance, Country, South Georgia Island and South Sandwich Islands, USD bn","China, Area, Trade balance, Country, South Georgia Island and South Sandwich Islands, USD bn",None,line
 "China, Area, Trade balance, Country, South Sudan, USD bn","China, Area, Trade balance, Country, South Sudan, USD bn",None,line
 "China, Area, Trade balance, Country, Spain, USD bn","China, Area, Trade balance, Country, Spain, USD bn",None,line
 "China, Area, Trade balance, Country, Sri Lanka, USD bn","China, Area, Trade balance, Country, Sri Lanka, USD bn",None,line
@@ -1537,6 +1539,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Solomon Islands, % of GDP","China, Area, Imports, Country, Solomon Islands, % of GDP",None,line
 "China, Area, Imports, Country, Somalia, % of GDP","China, Area, Imports, Country, Somalia, % of GDP",None,line
 "China, Area, Imports, Country, South Africa, % of GDP","China, Area, Imports, Country, South Africa, % of GDP",None,line
+"China, Area, Imports, Country, South Georgia Island and South Sandwich Islands, % of GDP","China, Area, Imports, Country, South Georgia Island and South Sandwich Islands, % of GDP",None,line
 "China, Area, Imports, Country, South Sudan, % of GDP","China, Area, Imports, Country, South Sudan, % of GDP",None,line
 "China, Area, Imports, Country, Spain, % of GDP","China, Area, Imports, Country, Spain, % of GDP",None,line
 "China, Area, Imports, Country, Sri Lanka, % of GDP","China, Area, Imports, Country, Sri Lanka, % of GDP",None,line
@@ -1926,6 +1929,7 @@ name,display_name,data_type,chart_type
 "China, Area, Trade balance, Country, Solomon Islands, % of GDP","China, Area, Trade balance, Country, Solomon Islands, % of GDP",None,line
 "China, Area, Trade balance, Country, Somalia, % of GDP","China, Area, Trade balance, Country, Somalia, % of GDP",None,line
 "China, Area, Trade balance, Country, South Africa, % of GDP","China, Area, Trade balance, Country, South Africa, % of GDP",None,line
+"China, Area, Trade balance, Country, South Georgia Island and South Sandwich Islands, % of GDP","China, Area, Trade balance, Country, South Georgia Island and South Sandwich Islands, % of GDP",None,line
 "China, Area, Trade balance, Country, South Sudan, % of GDP","China, Area, Trade balance, Country, South Sudan, % of GDP",None,line
 "China, Area, Trade balance, Country, Spain, % of GDP","China, Area, Trade balance, Country, Spain, % of GDP",None,line
 "China, Area, Trade balance, Country, Sri Lanka, % of GDP","China, Area, Trade balance, Country, Sri Lanka, % of GDP",None,line
@@ -2175,6 +2179,7 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, Niger, USD bn, % YoY","China, Area, Exports, Country, Niger, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Nigeria, USD bn, % YoY","China, Area, Exports, Country, Nigeria, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Niue, USD bn, % YoY","China, Area, Exports, Country, Niue, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Norfolk Island, USD bn, % YoY","China, Area, Exports, Country, Norfolk Island, USD bn, % YoY",None,line
 "China, Area, Exports, Country, North Macedonia, USD bn, % YoY","China, Area, Exports, Country, North Macedonia, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Northern Mariana Islands, USD bn, % YoY","China, Area, Exports, Country, Northern Mariana Islands, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Norway, USD bn, % YoY","China, Area, Exports, Country, Norway, USD bn, % YoY",None,line
@@ -2241,6 +2246,7 @@ name,display_name,data_type,chart_type
 "China, Area, Exports, Country, Thailand, USD bn, % YoY","China, Area, Exports, Country, Thailand, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Timor-Leste, USD bn, % YoY","China, Area, Exports, Country, Timor-Leste, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Togo, USD bn, % YoY","China, Area, Exports, Country, Togo, USD bn, % YoY",None,line
+"China, Area, Exports, Country, Tokelau, USD bn, % YoY","China, Area, Exports, Country, Tokelau, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Tonga, USD bn, % YoY","China, Area, Exports, Country, Tonga, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Trinidad and Tobago, USD bn, % YoY","China, Area, Exports, Country, Trinidad and Tobago, USD bn, % YoY",None,line
 "China, Area, Exports, Country, Tunisia, USD bn, % YoY","China, Area, Exports, Country, Tunisia, USD bn, % YoY",None,line
@@ -2437,6 +2443,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Norway, USD bn, % YoY","China, Area, Imports, Country, Norway, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Oman, USD bn, % YoY","China, Area, Imports, Country, Oman, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Other Africa, USD bn, % YoY","China, Area, Imports, Country, Other Africa, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Other Asia, USD bn, % YoY","China, Area, Imports, Country, Other Asia, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Other Europe, USD bn, % YoY","China, Area, Imports, Country, Other Europe, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Other Latin America, USD bn, % YoY","China, Area, Imports, Country, Other Latin America, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Other North America, USD bn, % YoY","China, Area, Imports, Country, Other North America, USD bn, % YoY",None,line
@@ -2449,6 +2456,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Paraguay, USD bn, % YoY","China, Area, Imports, Country, Paraguay, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Peru, USD bn, % YoY","China, Area, Imports, Country, Peru, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Philippines, USD bn, % YoY","China, Area, Imports, Country, Philippines, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Pitcairn, USD bn, % YoY","China, Area, Imports, Country, Pitcairn, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Poland, USD bn, % YoY","China, Area, Imports, Country, Poland, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Portugal, USD bn, % YoY","China, Area, Imports, Country, Portugal, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Puerto Rico, USD bn, % YoY","China, Area, Imports, Country, Puerto Rico, USD bn, % YoY",None,line
@@ -2482,6 +2490,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Sri Lanka, USD bn, % YoY","China, Area, Imports, Country, Sri Lanka, USD bn, % YoY",None,line
 "China, Area, Imports, Country, St Kitts and Nevis, USD bn, % YoY","China, Area, Imports, Country, St Kitts and Nevis, USD bn, % YoY",None,line
 "China, Area, Imports, Country, St Martin, USD bn, % YoY","China, Area, Imports, Country, St Martin, USD bn, % YoY",None,line
+"China, Area, Imports, Country, St Vincent and Grenadines, USD bn, % YoY","China, Area, Imports, Country, St Vincent and Grenadines, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Sudan, USD bn, % YoY","China, Area, Imports, Country, Sudan, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Suriname, USD bn, % YoY","China, Area, Imports, Country, Suriname, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Swaziland, USD bn, % YoY","China, Area, Imports, Country, Swaziland, USD bn, % YoY",None,line
@@ -2494,6 +2503,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Thailand, USD bn, % YoY","China, Area, Imports, Country, Thailand, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Timor-Leste, USD bn, % YoY","China, Area, Imports, Country, Timor-Leste, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Togo, USD bn, % YoY","China, Area, Imports, Country, Togo, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Tokelau, USD bn, % YoY","China, Area, Imports, Country, Tokelau, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Tonga, USD bn, % YoY","China, Area, Imports, Country, Tonga, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Trinidad and Tobago, USD bn, % YoY","China, Area, Imports, Country, Trinidad and Tobago, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Tunisia, USD bn, % YoY","China, Area, Imports, Country, Tunisia, USD bn, % YoY",None,line
@@ -2511,6 +2521,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Uruguay, USD bn, % YoY","China, Area, Imports, Country, Uruguay, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Uzbekistan, USD bn, % YoY","China, Area, Imports, Country, Uzbekistan, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Vanuatu, USD bn, % YoY","China, Area, Imports, Country, Vanuatu, USD bn, % YoY",None,line
+"China, Area, Imports, Country, Vatican, USD bn, % YoY","China, Area, Imports, Country, Vatican, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Venezuela, USD bn, % YoY","China, Area, Imports, Country, Venezuela, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Vietnam, USD bn, % YoY","China, Area, Imports, Country, Vietnam, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Western Sahara, USD bn, % YoY","China, Area, Imports, Country, Western Sahara, USD bn, % YoY",None,line
@@ -3757,6 +3768,11 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Electronic integrated circuits, SA, USD bn","China, Major product, Imports, Electronic integrated circuits, SA, USD bn",None,line
 "China, Major product, Exports, Passenger cars, SA, USD bn","China, Major product, Exports, Passenger cars, SA, USD bn",None,line
 "China, Major product, Exports, Mobile phones, SA, USD bn","China, Major product, Exports, Mobile phones, SA, USD bn",None,line
+"China, Major product, Exports, ICE, SA, USD bn","China, Major product, Exports, ICE, SA, USD bn",None,line
+"China, Major product, Exports, Battery electric passenger cars, SA, USD bn","China, Major product, Exports, Battery electric passenger cars, SA, USD bn",None,line
+"China, Major product, Exports, Hybrid, SA, USD bn","China, Major product, Exports, Hybrid, SA, USD bn",None,line
+"China, Major product, Exports, Lithium-ion batteries, SA, USD bn","China, Major product, Exports, Lithium-ion batteries, SA, USD bn",None,line
+"China, Major product, Exports, Solar cells, SA, USD bn","China, Major product, Exports, Solar cells, SA, USD bn",None,line
 "China, Method, Imports, Processing, SA, USD bn","China, Method, Imports, Processing, SA, USD bn",None,line
 "China, Method, Imports, Ordinary, SA, USD bn","China, Method, Imports, Ordinary, SA, USD bn",None,line
 "China, Ownership, Exports, State firms, SA, USD bn","China, Ownership, Exports, State firms, SA, USD bn",None,line
@@ -3845,6 +3861,8 @@ name,display_name,data_type,chart_type
 "China, Ownership, Exports, Foreign firms, SA, % of total","China, Ownership, Exports, Foreign firms, SA, % of total",None,line
 "China, Ownership, Exports, Private firms, SA, % of total","China, Ownership, Exports, Private firms, SA, % of total",None,line
 "China, Ownership, Exports, Other firms, SA, % of total","China, Ownership, Exports, Other firms, SA, % of total",None,line
+"China, Major product, Trade balance, Electronic integrated circuits, USD bn","China, Major product, Trade balance, Electronic integrated circuits, USD bn",None,line
+"China, Major product, Trade balance, Electronic integrated circuits, SA, USD bn","China, Major product, Trade balance, Electronic integrated circuits, SA, USD bn",None,line
 "China, Exports, % of world, CCA","China, Exports, % of world, CCA",None,line
 "China, Ownership, Exports, Other firms, % of world, CCA","China, Ownership, Exports, Other firms, % of world, CCA",None,line
 "China, HS, Imports, 8541 and 8542, Korea, Share of total, %","China, HS, Imports, 8541 and 8542, Korea, Share of total, %",None,line
@@ -4613,6 +4631,11 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Electronic integrated circuits, SA, % of GDP","China, Major product, Imports, Electronic integrated circuits, SA, % of GDP",None,line
 "China, Major product, Exports, Passenger cars, SA, % of GDP","China, Major product, Exports, Passenger cars, SA, % of GDP",None,line
 "China, Major product, Exports, Mobile phones, SA, % of GDP","China, Major product, Exports, Mobile phones, SA, % of GDP",None,line
+"China, Major product, Exports, ICE, SA, % of GDP","China, Major product, Exports, ICE, SA, % of GDP",None,line
+"China, Major product, Exports, Battery electric passenger cars, SA, % of GDP","China, Major product, Exports, Battery electric passenger cars, SA, % of GDP",None,line
+"China, Major product, Exports, Hybrid, SA, % of GDP","China, Major product, Exports, Hybrid, SA, % of GDP",None,line
+"China, Major product, Exports, Lithium-ion batteries, SA, % of GDP","China, Major product, Exports, Lithium-ion batteries, SA, % of GDP",None,line
+"China, Major product, Exports, Solar cells, SA, % of GDP","China, Major product, Exports, Solar cells, SA, % of GDP",None,line
 "China, Method, Imports, Processing, SA, % of GDP","China, Method, Imports, Processing, SA, % of GDP",None,line
 "China, Method, Imports, Ordinary, SA, % of GDP","China, Method, Imports, Ordinary, SA, % of GDP",None,line
 "China, Ownership, Exports, State firms, SA, % of GDP","China, Ownership, Exports, State firms, SA, % of GDP",None,line
@@ -4670,6 +4693,9 @@ name,display_name,data_type,chart_type
 "China, SITC, Trade balance, Metals, SA, % of GDP","China, SITC, Trade balance, Metals, SA, % of GDP",None,line
 "China, SITC, Trade balance, Intermediates, SA, % of GDP","China, SITC, Trade balance, Intermediates, SA, % of GDP",None,line
 "China, SITC, Trade balance, Machinery, SA, % of GDP","China, SITC, Trade balance, Machinery, SA, % of GDP",None,line
+"China, Major product, Trade balance, Electronic integrated circuits, % of GDP","China, Major product, Trade balance, Electronic integrated circuits, % of GDP",None,line
+"China, Major product, Trade balance, Electronic integrated circuits, SA, % of GDP","China, Major product, Trade balance, Electronic integrated circuits, SA, % of GDP",None,line
+"China, Major product, Exports, Electronic integrated circuits, SA, % of total","China, Major product, Exports, Electronic integrated circuits, SA, % of total",None,line
 "China, HS, Imports, Excluding semi mfg machinery, SA, USD bn","China, HS, Imports, Excluding semi mfg machinery, SA, USD bn",None,line
 "China, HS, Imports, Excluding semi and semi mfg machinery, SA, USD bn","China, HS, Imports, Excluding semi and semi mfg machinery, SA, USD bn",None,line
 "China, Balance, CNY bn, % YoY","China, Balance, CNY bn, % YoY",None,line
@@ -5722,6 +5748,11 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Electronic integrated circuits, SA, USD bn, % MoM","China, Major product, Imports, Electronic integrated circuits, SA, USD bn, % MoM",None,line
 "China, Major product, Exports, Passenger cars, SA, USD bn, % MoM","China, Major product, Exports, Passenger cars, SA, USD bn, % MoM",None,line
 "China, Major product, Exports, Mobile phones, SA, USD bn, % MoM","China, Major product, Exports, Mobile phones, SA, USD bn, % MoM",None,line
+"China, Major product, Exports, ICE, SA, USD bn, % MoM","China, Major product, Exports, ICE, SA, USD bn, % MoM",None,line
+"China, Major product, Exports, Battery electric passenger cars, SA, USD bn, % MoM","China, Major product, Exports, Battery electric passenger cars, SA, USD bn, % MoM",None,line
+"China, Major product, Exports, Hybrid, SA, USD bn, % MoM","China, Major product, Exports, Hybrid, SA, USD bn, % MoM",None,line
+"China, Major product, Exports, Lithium-ion batteries, SA, USD bn, % MoM","China, Major product, Exports, Lithium-ion batteries, SA, USD bn, % MoM",None,line
+"China, Major product, Exports, Solar cells, SA, USD bn, % MoM","China, Major product, Exports, Solar cells, SA, USD bn, % MoM",None,line
 "China, Method, Imports, Processing, SA, USD bn, % MoM","China, Method, Imports, Processing, SA, USD bn, % MoM",None,line
 "China, Method, Imports, Ordinary, SA, USD bn, % MoM","China, Method, Imports, Ordinary, SA, USD bn, % MoM",None,line
 "China, Ownership, Exports, State firms, SA, USD bn, % MoM","China, Ownership, Exports, State firms, SA, USD bn, % MoM",None,line
@@ -5782,6 +5813,11 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Electronic integrated circuits, SA, USD bn, MoM chg","China, Major product, Imports, Electronic integrated circuits, SA, USD bn, MoM chg",None,line
 "China, Major product, Exports, Passenger cars, SA, USD bn, MoM chg","China, Major product, Exports, Passenger cars, SA, USD bn, MoM chg",None,line
 "China, Major product, Exports, Mobile phones, SA, USD bn, MoM chg","China, Major product, Exports, Mobile phones, SA, USD bn, MoM chg",None,line
+"China, Major product, Exports, ICE, SA, USD bn, MoM chg","China, Major product, Exports, ICE, SA, USD bn, MoM chg",None,line
+"China, Major product, Exports, Battery electric passenger cars, SA, USD bn, MoM chg","China, Major product, Exports, Battery electric passenger cars, SA, USD bn, MoM chg",None,line
+"China, Major product, Exports, Hybrid, SA, USD bn, MoM chg","China, Major product, Exports, Hybrid, SA, USD bn, MoM chg",None,line
+"China, Major product, Exports, Lithium-ion batteries, SA, USD bn, MoM chg","China, Major product, Exports, Lithium-ion batteries, SA, USD bn, MoM chg",None,line
+"China, Major product, Exports, Solar cells, SA, USD bn, MoM chg","China, Major product, Exports, Solar cells, SA, USD bn, MoM chg",None,line
 "China, Method, Imports, Processing, SA, USD bn, MoM chg","China, Method, Imports, Processing, SA, USD bn, MoM chg",None,line
 "China, Method, Imports, Ordinary, SA, USD bn, MoM chg","China, Method, Imports, Ordinary, SA, USD bn, MoM chg",None,line
 "China, Ownership, Exports, State firms, SA, USD bn, MoM chg","China, Ownership, Exports, State firms, SA, USD bn, MoM chg",None,line
@@ -5966,12 +6002,12 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Passenger cars, Unit price, USD","China, Major product, Exports, Passenger cars, Unit price, USD",None,line
 "China, Major product, Exports, Plug-in hybrid electric passenger cars, Unit price, USD","China, Major product, Exports, Plug-in hybrid electric passenger cars, Unit price, USD",None,line
 "China, Major product, Exports, Solar cells, Unit price, USD","China, Major product, Exports, Solar cells, Unit price, USD",None,line
-"China, Major product, Exports, Passenger cars, Volume, th, SA","China, Major product, Exports, Passenger cars, Volume, th, SA",None,line
-"China, Major product, Exports, ICE, Volume, th, SA","China, Major product, Exports, ICE, Volume, th, SA",None,line
-"China, Major product, Exports, Hybrid, Volume, th, SA","China, Major product, Exports, Hybrid, Volume, th, SA",None,line
-"China, Major product, Exports, Non-plug-in hybrid electric passenger cars, Volume, th, SA","China, Major product, Exports, Non-plug-in hybrid electric passenger cars, Volume, th, SA",None,line
-"China, Major product, Exports, Plug-in hybrid electric passenger cars, Volume, th, SA","China, Major product, Exports, Plug-in hybrid electric passenger cars, Volume, th, SA",None,line
-"China, Major product, Exports, Battery electric passenger cars, Volume, th, SA","China, Major product, Exports, Battery electric passenger cars, Volume, th, SA",None,line
-"China, Major product, Exports, Lithium-ion batteries, Volume, th, SA","China, Major product, Exports, Lithium-ion batteries, Volume, th, SA",None,line
-"China, Major product, Exports, Solar cells, Volume, th, SA","China, Major product, Exports, Solar cells, Volume, th, SA",None,line
-"China, Major product, Exports, Motor vehicles including chassis fitted with engines, Volume, th, SA","China, Major product, Exports, Motor vehicles including chassis fitted with engines, Volume, th, SA",None,line
+"China, Major product, Exports, Passenger cars, Volume, SA, th","China, Major product, Exports, Passenger cars, Volume, SA, th",None,line
+"China, Major product, Exports, ICE, Volume, SA, th","China, Major product, Exports, ICE, Volume, SA, th",None,line
+"China, Major product, Exports, Hybrid, Volume, SA, th","China, Major product, Exports, Hybrid, Volume, SA, th",None,line
+"China, Major product, Exports, Non-plug-in hybrid electric passenger cars, Volume, SA, th","China, Major product, Exports, Non-plug-in hybrid electric passenger cars, Volume, SA, th",None,line
+"China, Major product, Exports, Plug-in hybrid electric passenger cars, Volume, SA, th","China, Major product, Exports, Plug-in hybrid electric passenger cars, Volume, SA, th",None,line
+"China, Major product, Exports, Battery electric passenger cars, Volume, SA, th","China, Major product, Exports, Battery electric passenger cars, Volume, SA, th",None,line
+"China, Major product, Exports, Lithium-ion batteries, Volume, SA, th","China, Major product, Exports, Lithium-ion batteries, Volume, SA, th",None,line
+"China, Major product, Exports, Solar cells, Volume, SA, th","China, Major product, Exports, Solar cells, Volume, SA, th",None,line
+"China, Major product, Exports, Motor vehicles including chassis fitted with engines, Volume, SA, th","China, Major product, Exports, Motor vehicles including chassis fitted with engines, Volume, SA, th",None,line

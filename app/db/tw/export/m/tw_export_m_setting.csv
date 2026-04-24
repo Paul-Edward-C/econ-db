@@ -32,10 +32,13 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, SITC, 3, SA, USD bn","Taiwan, Imports, SITC, 3, SA, USD bn",None,line
 "Taiwan, Imports, BEC, Investment, SA, USD bn","Taiwan, Imports, BEC, Investment, SA, USD bn",None,line
 "Taiwan, Exports, HS, 8541 and 8542, SA, USD bn","Taiwan, Exports, HS, 8541 and 8542, SA, USD bn",None,line
+"Taiwan, Imports, HS, 8541 and 8542, SA, USD bn","Taiwan, Imports, HS, 8541 and 8542, SA, USD bn",None,line
 "Taiwan, Exports, HS, 8541 and 8542 and 8471, SA, USD bn","Taiwan, Exports, HS, 8541 and 8542 and 8471, SA, USD bn",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 8471, SA, USD bn","Taiwan, Imports, HS, 8541 and 8542 and 8471, SA, USD bn",None,line
 "Taiwan, Exports, HS, Excluding 8541 and 8542, SA, USD bn","Taiwan, Exports, HS, Excluding 8541 and 8542, SA, USD bn",None,line
 "Taiwan, Exports, HS, Excluding 8541 and 8542 and 8471, SA, USD bn","Taiwan, Exports, HS, Excluding 8541 and 8542 and 8471, SA, USD bn",None,line
-"Taiwan, Exports, HS, 8541 and 8542 and 847180, SA, USD bn","Taiwan, Exports, HS, 8541 and 8542 and 847180, SA, USD bn",None,line
+"Taiwan, Exports, HS, 8541 and 8542 and 847150, SA, USD bn","Taiwan, Exports, HS, 8541 and 8542 and 847150, SA, USD bn",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 847150, SA, USD bn","Taiwan, Imports, HS, 8541 and 8542 and 847150, SA, USD bn",None,line
 "Taiwan, Exports, All, SA, USD bn","Taiwan, Exports, All, SA, USD bn",None,line
 "Taiwan, Imports, All, SA, USD bn","Taiwan, Imports, All, SA, USD bn",None,line
 "Taiwan, Exports, All, USD bn","Taiwan, Exports, All, USD bn",None,line
@@ -57,8 +60,10 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, HS, 87, USD bn","Taiwan, Exports, HS, 87, USD bn",None,line
 "Taiwan, Exports, HS, 88, USD bn","Taiwan, Exports, HS, 88, USD bn",None,line
 "Taiwan, Exports, HS, 89, USD bn","Taiwan, Exports, HS, 89, USD bn",None,line
+"Taiwan, Exports, HS, 847150, USD bn","Taiwan, Exports, HS, 847150, USD bn",None,line
 "Taiwan, Exports, HS, 847180, USD bn","Taiwan, Exports, HS, 847180, USD bn",None,line
 "Taiwan, Exports, HS, 848620, USD bn","Taiwan, Exports, HS, 848620, USD bn",None,line
+"Taiwan, Imports, HS, 847150, USD bn","Taiwan, Imports, HS, 847150, USD bn",None,line
 "Taiwan, Imports, HS, 847180, USD bn","Taiwan, Imports, HS, 847180, USD bn",None,line
 "Taiwan, Imports, HS, 848620, USD bn","Taiwan, Imports, HS, 848620, USD bn",None,line
 "Taiwan, Exports, HS, 8401, USD bn","Taiwan, Exports, HS, 8401, USD bn",None,line
@@ -196,10 +201,285 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, HS, 8547, USD bn","Taiwan, Exports, HS, 8547, USD bn",None,line
 "Taiwan, Exports, HS, 8548, USD bn","Taiwan, Exports, HS, 8548, USD bn",None,line
 "Taiwan, Exports, HS, 8549, USD bn","Taiwan, Exports, HS, 8549, USD bn",None,line
-"Taiwan, Exports, HS, Impo, USD bn","Taiwan, Exports, HS, Impo, USD bn",None,line
 "Taiwan, Exports, HS, 8541 and 8542, USD bn","Taiwan, Exports, HS, 8541 and 8542, USD bn",None,line
 "Taiwan, Exports, HS, 8541 and 8542 and 8471, USD bn","Taiwan, Exports, HS, 8541 and 8542 and 8471, USD bn",None,line
-"Taiwan, Exports, HS, 8541 and 8542 and 847180, USD bn","Taiwan, Exports, HS, 8541 and 8542 and 847180, USD bn",None,line
+"Taiwan, Exports, HS, 8541 and 8542 and 847150, USD bn","Taiwan, Exports, HS, 8541 and 8542 and 847150, USD bn",None,line
+"Taiwan, Imports, HS, 8401, USD bn","Taiwan, Imports, HS, 8401, USD bn",None,line
+"Taiwan, Imports, HS, 8402, USD bn","Taiwan, Imports, HS, 8402, USD bn",None,line
+"Taiwan, Imports, HS, 8403, USD bn","Taiwan, Imports, HS, 8403, USD bn",None,line
+"Taiwan, Imports, HS, 8404, USD bn","Taiwan, Imports, HS, 8404, USD bn",None,line
+"Taiwan, Imports, HS, 8405, USD bn","Taiwan, Imports, HS, 8405, USD bn",None,line
+"Taiwan, Imports, HS, 8406, USD bn","Taiwan, Imports, HS, 8406, USD bn",None,line
+"Taiwan, Imports, HS, 8407, USD bn","Taiwan, Imports, HS, 8407, USD bn",None,line
+"Taiwan, Imports, HS, 8408, USD bn","Taiwan, Imports, HS, 8408, USD bn",None,line
+"Taiwan, Imports, HS, 8409, USD bn","Taiwan, Imports, HS, 8409, USD bn",None,line
+"Taiwan, Imports, HS, 8410, USD bn","Taiwan, Imports, HS, 8410, USD bn",None,line
+"Taiwan, Imports, HS, 8411, USD bn","Taiwan, Imports, HS, 8411, USD bn",None,line
+"Taiwan, Imports, HS, 8412, USD bn","Taiwan, Imports, HS, 8412, USD bn",None,line
+"Taiwan, Imports, HS, 8413, USD bn","Taiwan, Imports, HS, 8413, USD bn",None,line
+"Taiwan, Imports, HS, 8414, USD bn","Taiwan, Imports, HS, 8414, USD bn",None,line
+"Taiwan, Imports, HS, 8415, USD bn","Taiwan, Imports, HS, 8415, USD bn",None,line
+"Taiwan, Imports, HS, 8416, USD bn","Taiwan, Imports, HS, 8416, USD bn",None,line
+"Taiwan, Imports, HS, 8417, USD bn","Taiwan, Imports, HS, 8417, USD bn",None,line
+"Taiwan, Imports, HS, 8418, USD bn","Taiwan, Imports, HS, 8418, USD bn",None,line
+"Taiwan, Imports, HS, 8419, USD bn","Taiwan, Imports, HS, 8419, USD bn",None,line
+"Taiwan, Imports, HS, 8420, USD bn","Taiwan, Imports, HS, 8420, USD bn",None,line
+"Taiwan, Imports, HS, 8421, USD bn","Taiwan, Imports, HS, 8421, USD bn",None,line
+"Taiwan, Imports, HS, 8422, USD bn","Taiwan, Imports, HS, 8422, USD bn",None,line
+"Taiwan, Imports, HS, 8423, USD bn","Taiwan, Imports, HS, 8423, USD bn",None,line
+"Taiwan, Imports, HS, 8424, USD bn","Taiwan, Imports, HS, 8424, USD bn",None,line
+"Taiwan, Imports, HS, 8425, USD bn","Taiwan, Imports, HS, 8425, USD bn",None,line
+"Taiwan, Imports, HS, 8426, USD bn","Taiwan, Imports, HS, 8426, USD bn",None,line
+"Taiwan, Imports, HS, 8427, USD bn","Taiwan, Imports, HS, 8427, USD bn",None,line
+"Taiwan, Imports, HS, 8428, USD bn","Taiwan, Imports, HS, 8428, USD bn",None,line
+"Taiwan, Imports, HS, 8429, USD bn","Taiwan, Imports, HS, 8429, USD bn",None,line
+"Taiwan, Imports, HS, 8430, USD bn","Taiwan, Imports, HS, 8430, USD bn",None,line
+"Taiwan, Imports, HS, 8431, USD bn","Taiwan, Imports, HS, 8431, USD bn",None,line
+"Taiwan, Imports, HS, 8432, USD bn","Taiwan, Imports, HS, 8432, USD bn",None,line
+"Taiwan, Imports, HS, 8433, USD bn","Taiwan, Imports, HS, 8433, USD bn",None,line
+"Taiwan, Imports, HS, 8434, USD bn","Taiwan, Imports, HS, 8434, USD bn",None,line
+"Taiwan, Imports, HS, 8435, USD bn","Taiwan, Imports, HS, 8435, USD bn",None,line
+"Taiwan, Imports, HS, 8436, USD bn","Taiwan, Imports, HS, 8436, USD bn",None,line
+"Taiwan, Imports, HS, 8437, USD bn","Taiwan, Imports, HS, 8437, USD bn",None,line
+"Taiwan, Imports, HS, 8438, USD bn","Taiwan, Imports, HS, 8438, USD bn",None,line
+"Taiwan, Imports, HS, 8439, USD bn","Taiwan, Imports, HS, 8439, USD bn",None,line
+"Taiwan, Imports, HS, 8440, USD bn","Taiwan, Imports, HS, 8440, USD bn",None,line
+"Taiwan, Imports, HS, 8441, USD bn","Taiwan, Imports, HS, 8441, USD bn",None,line
+"Taiwan, Imports, HS, 8442, USD bn","Taiwan, Imports, HS, 8442, USD bn",None,line
+"Taiwan, Imports, HS, 8443, USD bn","Taiwan, Imports, HS, 8443, USD bn",None,line
+"Taiwan, Imports, HS, 8444, USD bn","Taiwan, Imports, HS, 8444, USD bn",None,line
+"Taiwan, Imports, HS, 8445, USD bn","Taiwan, Imports, HS, 8445, USD bn",None,line
+"Taiwan, Imports, HS, 8446, USD bn","Taiwan, Imports, HS, 8446, USD bn",None,line
+"Taiwan, Imports, HS, 8447, USD bn","Taiwan, Imports, HS, 8447, USD bn",None,line
+"Taiwan, Imports, HS, 8448, USD bn","Taiwan, Imports, HS, 8448, USD bn",None,line
+"Taiwan, Imports, HS, 8449, USD bn","Taiwan, Imports, HS, 8449, USD bn",None,line
+"Taiwan, Imports, HS, 8450, USD bn","Taiwan, Imports, HS, 8450, USD bn",None,line
+"Taiwan, Imports, HS, 8451, USD bn","Taiwan, Imports, HS, 8451, USD bn",None,line
+"Taiwan, Imports, HS, 8452, USD bn","Taiwan, Imports, HS, 8452, USD bn",None,line
+"Taiwan, Imports, HS, 8453, USD bn","Taiwan, Imports, HS, 8453, USD bn",None,line
+"Taiwan, Imports, HS, 8454, USD bn","Taiwan, Imports, HS, 8454, USD bn",None,line
+"Taiwan, Imports, HS, 8455, USD bn","Taiwan, Imports, HS, 8455, USD bn",None,line
+"Taiwan, Imports, HS, 8456, USD bn","Taiwan, Imports, HS, 8456, USD bn",None,line
+"Taiwan, Imports, HS, 8457, USD bn","Taiwan, Imports, HS, 8457, USD bn",None,line
+"Taiwan, Imports, HS, 8458, USD bn","Taiwan, Imports, HS, 8458, USD bn",None,line
+"Taiwan, Imports, HS, 8459, USD bn","Taiwan, Imports, HS, 8459, USD bn",None,line
+"Taiwan, Imports, HS, 8460, USD bn","Taiwan, Imports, HS, 8460, USD bn",None,line
+"Taiwan, Imports, HS, 8461, USD bn","Taiwan, Imports, HS, 8461, USD bn",None,line
+"Taiwan, Imports, HS, 8462, USD bn","Taiwan, Imports, HS, 8462, USD bn",None,line
+"Taiwan, Imports, HS, 8463, USD bn","Taiwan, Imports, HS, 8463, USD bn",None,line
+"Taiwan, Imports, HS, 8464, USD bn","Taiwan, Imports, HS, 8464, USD bn",None,line
+"Taiwan, Imports, HS, 8465, USD bn","Taiwan, Imports, HS, 8465, USD bn",None,line
+"Taiwan, Imports, HS, 8466, USD bn","Taiwan, Imports, HS, 8466, USD bn",None,line
+"Taiwan, Imports, HS, 8467, USD bn","Taiwan, Imports, HS, 8467, USD bn",None,line
+"Taiwan, Imports, HS, 8468, USD bn","Taiwan, Imports, HS, 8468, USD bn",None,line
+"Taiwan, Imports, HS, 8469, USD bn","Taiwan, Imports, HS, 8469, USD bn",None,line
+"Taiwan, Imports, HS, 8470, USD bn","Taiwan, Imports, HS, 8470, USD bn",None,line
+"Taiwan, Imports, HS, 8471, USD bn","Taiwan, Imports, HS, 8471, USD bn",None,line
+"Taiwan, Imports, HS, 8472, USD bn","Taiwan, Imports, HS, 8472, USD bn",None,line
+"Taiwan, Imports, HS, 8473, USD bn","Taiwan, Imports, HS, 8473, USD bn",None,line
+"Taiwan, Imports, HS, 8474, USD bn","Taiwan, Imports, HS, 8474, USD bn",None,line
+"Taiwan, Imports, HS, 8475, USD bn","Taiwan, Imports, HS, 8475, USD bn",None,line
+"Taiwan, Imports, HS, 8476, USD bn","Taiwan, Imports, HS, 8476, USD bn",None,line
+"Taiwan, Imports, HS, 8477, USD bn","Taiwan, Imports, HS, 8477, USD bn",None,line
+"Taiwan, Imports, HS, 8478, USD bn","Taiwan, Imports, HS, 8478, USD bn",None,line
+"Taiwan, Imports, HS, 8479, USD bn","Taiwan, Imports, HS, 8479, USD bn",None,line
+"Taiwan, Imports, HS, 8480, USD bn","Taiwan, Imports, HS, 8480, USD bn",None,line
+"Taiwan, Imports, HS, 8481, USD bn","Taiwan, Imports, HS, 8481, USD bn",None,line
+"Taiwan, Imports, HS, 8482, USD bn","Taiwan, Imports, HS, 8482, USD bn",None,line
+"Taiwan, Imports, HS, 8483, USD bn","Taiwan, Imports, HS, 8483, USD bn",None,line
+"Taiwan, Imports, HS, 8484, USD bn","Taiwan, Imports, HS, 8484, USD bn",None,line
+"Taiwan, Imports, HS, 8485, USD bn","Taiwan, Imports, HS, 8485, USD bn",None,line
+"Taiwan, Imports, HS, 8486, USD bn","Taiwan, Imports, HS, 8486, USD bn",None,line
+"Taiwan, Imports, HS, 8487, USD bn","Taiwan, Imports, HS, 8487, USD bn",None,line
+"Taiwan, Imports, HS, 8501, USD bn","Taiwan, Imports, HS, 8501, USD bn",None,line
+"Taiwan, Imports, HS, 8502, USD bn","Taiwan, Imports, HS, 8502, USD bn",None,line
+"Taiwan, Imports, HS, 8503, USD bn","Taiwan, Imports, HS, 8503, USD bn",None,line
+"Taiwan, Imports, HS, 8504, USD bn","Taiwan, Imports, HS, 8504, USD bn",None,line
+"Taiwan, Imports, HS, 8505, USD bn","Taiwan, Imports, HS, 8505, USD bn",None,line
+"Taiwan, Imports, HS, 8506, USD bn","Taiwan, Imports, HS, 8506, USD bn",None,line
+"Taiwan, Imports, HS, 8507, USD bn","Taiwan, Imports, HS, 8507, USD bn",None,line
+"Taiwan, Imports, HS, 8508, USD bn","Taiwan, Imports, HS, 8508, USD bn",None,line
+"Taiwan, Imports, HS, 8509, USD bn","Taiwan, Imports, HS, 8509, USD bn",None,line
+"Taiwan, Imports, HS, 8510, USD bn","Taiwan, Imports, HS, 8510, USD bn",None,line
+"Taiwan, Imports, HS, 8511, USD bn","Taiwan, Imports, HS, 8511, USD bn",None,line
+"Taiwan, Imports, HS, 8512, USD bn","Taiwan, Imports, HS, 8512, USD bn",None,line
+"Taiwan, Imports, HS, 8513, USD bn","Taiwan, Imports, HS, 8513, USD bn",None,line
+"Taiwan, Imports, HS, 8514, USD bn","Taiwan, Imports, HS, 8514, USD bn",None,line
+"Taiwan, Imports, HS, 8515, USD bn","Taiwan, Imports, HS, 8515, USD bn",None,line
+"Taiwan, Imports, HS, 8516, USD bn","Taiwan, Imports, HS, 8516, USD bn",None,line
+"Taiwan, Imports, HS, 8517, USD bn","Taiwan, Imports, HS, 8517, USD bn",None,line
+"Taiwan, Imports, HS, 8518, USD bn","Taiwan, Imports, HS, 8518, USD bn",None,line
+"Taiwan, Imports, HS, 8519, USD bn","Taiwan, Imports, HS, 8519, USD bn",None,line
+"Taiwan, Imports, HS, 8521, USD bn","Taiwan, Imports, HS, 8521, USD bn",None,line
+"Taiwan, Imports, HS, 8522, USD bn","Taiwan, Imports, HS, 8522, USD bn",None,line
+"Taiwan, Imports, HS, 8523, USD bn","Taiwan, Imports, HS, 8523, USD bn",None,line
+"Taiwan, Imports, HS, 8524, USD bn","Taiwan, Imports, HS, 8524, USD bn",None,line
+"Taiwan, Imports, HS, 8525, USD bn","Taiwan, Imports, HS, 8525, USD bn",None,line
+"Taiwan, Imports, HS, 8526, USD bn","Taiwan, Imports, HS, 8526, USD bn",None,line
+"Taiwan, Imports, HS, 8527, USD bn","Taiwan, Imports, HS, 8527, USD bn",None,line
+"Taiwan, Imports, HS, 8528, USD bn","Taiwan, Imports, HS, 8528, USD bn",None,line
+"Taiwan, Imports, HS, 8529, USD bn","Taiwan, Imports, HS, 8529, USD bn",None,line
+"Taiwan, Imports, HS, 8530, USD bn","Taiwan, Imports, HS, 8530, USD bn",None,line
+"Taiwan, Imports, HS, 8531, USD bn","Taiwan, Imports, HS, 8531, USD bn",None,line
+"Taiwan, Imports, HS, 8532, USD bn","Taiwan, Imports, HS, 8532, USD bn",None,line
+"Taiwan, Imports, HS, 8533, USD bn","Taiwan, Imports, HS, 8533, USD bn",None,line
+"Taiwan, Imports, HS, 8534, USD bn","Taiwan, Imports, HS, 8534, USD bn",None,line
+"Taiwan, Imports, HS, 8535, USD bn","Taiwan, Imports, HS, 8535, USD bn",None,line
+"Taiwan, Imports, HS, 8536, USD bn","Taiwan, Imports, HS, 8536, USD bn",None,line
+"Taiwan, Imports, HS, 8537, USD bn","Taiwan, Imports, HS, 8537, USD bn",None,line
+"Taiwan, Imports, HS, 8538, USD bn","Taiwan, Imports, HS, 8538, USD bn",None,line
+"Taiwan, Imports, HS, 8539, USD bn","Taiwan, Imports, HS, 8539, USD bn",None,line
+"Taiwan, Imports, HS, 8540, USD bn","Taiwan, Imports, HS, 8540, USD bn",None,line
+"Taiwan, Imports, HS, 8541, USD bn","Taiwan, Imports, HS, 8541, USD bn",None,line
+"Taiwan, Imports, HS, 8542, USD bn","Taiwan, Imports, HS, 8542, USD bn",None,line
+"Taiwan, Imports, HS, 8543, USD bn","Taiwan, Imports, HS, 8543, USD bn",None,line
+"Taiwan, Imports, HS, 8544, USD bn","Taiwan, Imports, HS, 8544, USD bn",None,line
+"Taiwan, Imports, HS, 8545, USD bn","Taiwan, Imports, HS, 8545, USD bn",None,line
+"Taiwan, Imports, HS, 8546, USD bn","Taiwan, Imports, HS, 8546, USD bn",None,line
+"Taiwan, Imports, HS, 8547, USD bn","Taiwan, Imports, HS, 8547, USD bn",None,line
+"Taiwan, Imports, HS, 8548, USD bn","Taiwan, Imports, HS, 8548, USD bn",None,line
+"Taiwan, Imports, HS, 8549, USD bn","Taiwan, Imports, HS, 8549, USD bn",None,line
+"Taiwan, Imports, HS, 8541 and 8542, USD bn","Taiwan, Imports, HS, 8541 and 8542, USD bn",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 8471, USD bn","Taiwan, Imports, HS, 8541 and 8542 and 8471, USD bn",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 847150, USD bn","Taiwan, Imports, HS, 8541 and 8542 and 847150, USD bn",None,line
+"Taiwan, Trade balance, HS, 8401, USD bn","Taiwan, Trade balance, HS, 8401, USD bn",None,line
+"Taiwan, Trade balance, HS, 8402, USD bn","Taiwan, Trade balance, HS, 8402, USD bn",None,line
+"Taiwan, Trade balance, HS, 8403, USD bn","Taiwan, Trade balance, HS, 8403, USD bn",None,line
+"Taiwan, Trade balance, HS, 8404, USD bn","Taiwan, Trade balance, HS, 8404, USD bn",None,line
+"Taiwan, Trade balance, HS, 8405, USD bn","Taiwan, Trade balance, HS, 8405, USD bn",None,line
+"Taiwan, Trade balance, HS, 8406, USD bn","Taiwan, Trade balance, HS, 8406, USD bn",None,line
+"Taiwan, Trade balance, HS, 8407, USD bn","Taiwan, Trade balance, HS, 8407, USD bn",None,line
+"Taiwan, Trade balance, HS, 8408, USD bn","Taiwan, Trade balance, HS, 8408, USD bn",None,line
+"Taiwan, Trade balance, HS, 8409, USD bn","Taiwan, Trade balance, HS, 8409, USD bn",None,line
+"Taiwan, Trade balance, HS, 8410, USD bn","Taiwan, Trade balance, HS, 8410, USD bn",None,line
+"Taiwan, Trade balance, HS, 8411, USD bn","Taiwan, Trade balance, HS, 8411, USD bn",None,line
+"Taiwan, Trade balance, HS, 8412, USD bn","Taiwan, Trade balance, HS, 8412, USD bn",None,line
+"Taiwan, Trade balance, HS, 8413, USD bn","Taiwan, Trade balance, HS, 8413, USD bn",None,line
+"Taiwan, Trade balance, HS, 8414, USD bn","Taiwan, Trade balance, HS, 8414, USD bn",None,line
+"Taiwan, Trade balance, HS, 8415, USD bn","Taiwan, Trade balance, HS, 8415, USD bn",None,line
+"Taiwan, Trade balance, HS, 8416, USD bn","Taiwan, Trade balance, HS, 8416, USD bn",None,line
+"Taiwan, Trade balance, HS, 8417, USD bn","Taiwan, Trade balance, HS, 8417, USD bn",None,line
+"Taiwan, Trade balance, HS, 8418, USD bn","Taiwan, Trade balance, HS, 8418, USD bn",None,line
+"Taiwan, Trade balance, HS, 8419, USD bn","Taiwan, Trade balance, HS, 8419, USD bn",None,line
+"Taiwan, Trade balance, HS, 8420, USD bn","Taiwan, Trade balance, HS, 8420, USD bn",None,line
+"Taiwan, Trade balance, HS, 8421, USD bn","Taiwan, Trade balance, HS, 8421, USD bn",None,line
+"Taiwan, Trade balance, HS, 8422, USD bn","Taiwan, Trade balance, HS, 8422, USD bn",None,line
+"Taiwan, Trade balance, HS, 8423, USD bn","Taiwan, Trade balance, HS, 8423, USD bn",None,line
+"Taiwan, Trade balance, HS, 8424, USD bn","Taiwan, Trade balance, HS, 8424, USD bn",None,line
+"Taiwan, Trade balance, HS, 8425, USD bn","Taiwan, Trade balance, HS, 8425, USD bn",None,line
+"Taiwan, Trade balance, HS, 8426, USD bn","Taiwan, Trade balance, HS, 8426, USD bn",None,line
+"Taiwan, Trade balance, HS, 8427, USD bn","Taiwan, Trade balance, HS, 8427, USD bn",None,line
+"Taiwan, Trade balance, HS, 8428, USD bn","Taiwan, Trade balance, HS, 8428, USD bn",None,line
+"Taiwan, Trade balance, HS, 8429, USD bn","Taiwan, Trade balance, HS, 8429, USD bn",None,line
+"Taiwan, Trade balance, HS, 8430, USD bn","Taiwan, Trade balance, HS, 8430, USD bn",None,line
+"Taiwan, Trade balance, HS, 8431, USD bn","Taiwan, Trade balance, HS, 8431, USD bn",None,line
+"Taiwan, Trade balance, HS, 8432, USD bn","Taiwan, Trade balance, HS, 8432, USD bn",None,line
+"Taiwan, Trade balance, HS, 8433, USD bn","Taiwan, Trade balance, HS, 8433, USD bn",None,line
+"Taiwan, Trade balance, HS, 8434, USD bn","Taiwan, Trade balance, HS, 8434, USD bn",None,line
+"Taiwan, Trade balance, HS, 8435, USD bn","Taiwan, Trade balance, HS, 8435, USD bn",None,line
+"Taiwan, Trade balance, HS, 8436, USD bn","Taiwan, Trade balance, HS, 8436, USD bn",None,line
+"Taiwan, Trade balance, HS, 8437, USD bn","Taiwan, Trade balance, HS, 8437, USD bn",None,line
+"Taiwan, Trade balance, HS, 8438, USD bn","Taiwan, Trade balance, HS, 8438, USD bn",None,line
+"Taiwan, Trade balance, HS, 8439, USD bn","Taiwan, Trade balance, HS, 8439, USD bn",None,line
+"Taiwan, Trade balance, HS, 8440, USD bn","Taiwan, Trade balance, HS, 8440, USD bn",None,line
+"Taiwan, Trade balance, HS, 8441, USD bn","Taiwan, Trade balance, HS, 8441, USD bn",None,line
+"Taiwan, Trade balance, HS, 8442, USD bn","Taiwan, Trade balance, HS, 8442, USD bn",None,line
+"Taiwan, Trade balance, HS, 8443, USD bn","Taiwan, Trade balance, HS, 8443, USD bn",None,line
+"Taiwan, Trade balance, HS, 8444, USD bn","Taiwan, Trade balance, HS, 8444, USD bn",None,line
+"Taiwan, Trade balance, HS, 8445, USD bn","Taiwan, Trade balance, HS, 8445, USD bn",None,line
+"Taiwan, Trade balance, HS, 8446, USD bn","Taiwan, Trade balance, HS, 8446, USD bn",None,line
+"Taiwan, Trade balance, HS, 8447, USD bn","Taiwan, Trade balance, HS, 8447, USD bn",None,line
+"Taiwan, Trade balance, HS, 8448, USD bn","Taiwan, Trade balance, HS, 8448, USD bn",None,line
+"Taiwan, Trade balance, HS, 8449, USD bn","Taiwan, Trade balance, HS, 8449, USD bn",None,line
+"Taiwan, Trade balance, HS, 8450, USD bn","Taiwan, Trade balance, HS, 8450, USD bn",None,line
+"Taiwan, Trade balance, HS, 8451, USD bn","Taiwan, Trade balance, HS, 8451, USD bn",None,line
+"Taiwan, Trade balance, HS, 8452, USD bn","Taiwan, Trade balance, HS, 8452, USD bn",None,line
+"Taiwan, Trade balance, HS, 8453, USD bn","Taiwan, Trade balance, HS, 8453, USD bn",None,line
+"Taiwan, Trade balance, HS, 8454, USD bn","Taiwan, Trade balance, HS, 8454, USD bn",None,line
+"Taiwan, Trade balance, HS, 8455, USD bn","Taiwan, Trade balance, HS, 8455, USD bn",None,line
+"Taiwan, Trade balance, HS, 8456, USD bn","Taiwan, Trade balance, HS, 8456, USD bn",None,line
+"Taiwan, Trade balance, HS, 8457, USD bn","Taiwan, Trade balance, HS, 8457, USD bn",None,line
+"Taiwan, Trade balance, HS, 8458, USD bn","Taiwan, Trade balance, HS, 8458, USD bn",None,line
+"Taiwan, Trade balance, HS, 8459, USD bn","Taiwan, Trade balance, HS, 8459, USD bn",None,line
+"Taiwan, Trade balance, HS, 8460, USD bn","Taiwan, Trade balance, HS, 8460, USD bn",None,line
+"Taiwan, Trade balance, HS, 8461, USD bn","Taiwan, Trade balance, HS, 8461, USD bn",None,line
+"Taiwan, Trade balance, HS, 8462, USD bn","Taiwan, Trade balance, HS, 8462, USD bn",None,line
+"Taiwan, Trade balance, HS, 8463, USD bn","Taiwan, Trade balance, HS, 8463, USD bn",None,line
+"Taiwan, Trade balance, HS, 8464, USD bn","Taiwan, Trade balance, HS, 8464, USD bn",None,line
+"Taiwan, Trade balance, HS, 8465, USD bn","Taiwan, Trade balance, HS, 8465, USD bn",None,line
+"Taiwan, Trade balance, HS, 8466, USD bn","Taiwan, Trade balance, HS, 8466, USD bn",None,line
+"Taiwan, Trade balance, HS, 8467, USD bn","Taiwan, Trade balance, HS, 8467, USD bn",None,line
+"Taiwan, Trade balance, HS, 8468, USD bn","Taiwan, Trade balance, HS, 8468, USD bn",None,line
+"Taiwan, Trade balance, HS, 8469, USD bn","Taiwan, Trade balance, HS, 8469, USD bn",None,line
+"Taiwan, Trade balance, HS, 8470, USD bn","Taiwan, Trade balance, HS, 8470, USD bn",None,line
+"Taiwan, Trade balance, HS, 8471, USD bn","Taiwan, Trade balance, HS, 8471, USD bn",None,line
+"Taiwan, Trade balance, HS, 8472, USD bn","Taiwan, Trade balance, HS, 8472, USD bn",None,line
+"Taiwan, Trade balance, HS, 8473, USD bn","Taiwan, Trade balance, HS, 8473, USD bn",None,line
+"Taiwan, Trade balance, HS, 8474, USD bn","Taiwan, Trade balance, HS, 8474, USD bn",None,line
+"Taiwan, Trade balance, HS, 8475, USD bn","Taiwan, Trade balance, HS, 8475, USD bn",None,line
+"Taiwan, Trade balance, HS, 8476, USD bn","Taiwan, Trade balance, HS, 8476, USD bn",None,line
+"Taiwan, Trade balance, HS, 8477, USD bn","Taiwan, Trade balance, HS, 8477, USD bn",None,line
+"Taiwan, Trade balance, HS, 8478, USD bn","Taiwan, Trade balance, HS, 8478, USD bn",None,line
+"Taiwan, Trade balance, HS, 8479, USD bn","Taiwan, Trade balance, HS, 8479, USD bn",None,line
+"Taiwan, Trade balance, HS, 8480, USD bn","Taiwan, Trade balance, HS, 8480, USD bn",None,line
+"Taiwan, Trade balance, HS, 8481, USD bn","Taiwan, Trade balance, HS, 8481, USD bn",None,line
+"Taiwan, Trade balance, HS, 8482, USD bn","Taiwan, Trade balance, HS, 8482, USD bn",None,line
+"Taiwan, Trade balance, HS, 8483, USD bn","Taiwan, Trade balance, HS, 8483, USD bn",None,line
+"Taiwan, Trade balance, HS, 8484, USD bn","Taiwan, Trade balance, HS, 8484, USD bn",None,line
+"Taiwan, Trade balance, HS, 8485, USD bn","Taiwan, Trade balance, HS, 8485, USD bn",None,line
+"Taiwan, Trade balance, HS, 8486, USD bn","Taiwan, Trade balance, HS, 8486, USD bn",None,line
+"Taiwan, Trade balance, HS, 8487, USD bn","Taiwan, Trade balance, HS, 8487, USD bn",None,line
+"Taiwan, Trade balance, HS, 8501, USD bn","Taiwan, Trade balance, HS, 8501, USD bn",None,line
+"Taiwan, Trade balance, HS, 8502, USD bn","Taiwan, Trade balance, HS, 8502, USD bn",None,line
+"Taiwan, Trade balance, HS, 8503, USD bn","Taiwan, Trade balance, HS, 8503, USD bn",None,line
+"Taiwan, Trade balance, HS, 8504, USD bn","Taiwan, Trade balance, HS, 8504, USD bn",None,line
+"Taiwan, Trade balance, HS, 8505, USD bn","Taiwan, Trade balance, HS, 8505, USD bn",None,line
+"Taiwan, Trade balance, HS, 8506, USD bn","Taiwan, Trade balance, HS, 8506, USD bn",None,line
+"Taiwan, Trade balance, HS, 8507, USD bn","Taiwan, Trade balance, HS, 8507, USD bn",None,line
+"Taiwan, Trade balance, HS, 8508, USD bn","Taiwan, Trade balance, HS, 8508, USD bn",None,line
+"Taiwan, Trade balance, HS, 8509, USD bn","Taiwan, Trade balance, HS, 8509, USD bn",None,line
+"Taiwan, Trade balance, HS, 8510, USD bn","Taiwan, Trade balance, HS, 8510, USD bn",None,line
+"Taiwan, Trade balance, HS, 8511, USD bn","Taiwan, Trade balance, HS, 8511, USD bn",None,line
+"Taiwan, Trade balance, HS, 8512, USD bn","Taiwan, Trade balance, HS, 8512, USD bn",None,line
+"Taiwan, Trade balance, HS, 8513, USD bn","Taiwan, Trade balance, HS, 8513, USD bn",None,line
+"Taiwan, Trade balance, HS, 8514, USD bn","Taiwan, Trade balance, HS, 8514, USD bn",None,line
+"Taiwan, Trade balance, HS, 8515, USD bn","Taiwan, Trade balance, HS, 8515, USD bn",None,line
+"Taiwan, Trade balance, HS, 8516, USD bn","Taiwan, Trade balance, HS, 8516, USD bn",None,line
+"Taiwan, Trade balance, HS, 8517, USD bn","Taiwan, Trade balance, HS, 8517, USD bn",None,line
+"Taiwan, Trade balance, HS, 8518, USD bn","Taiwan, Trade balance, HS, 8518, USD bn",None,line
+"Taiwan, Trade balance, HS, 8519, USD bn","Taiwan, Trade balance, HS, 8519, USD bn",None,line
+"Taiwan, Trade balance, HS, 8521, USD bn","Taiwan, Trade balance, HS, 8521, USD bn",None,line
+"Taiwan, Trade balance, HS, 8522, USD bn","Taiwan, Trade balance, HS, 8522, USD bn",None,line
+"Taiwan, Trade balance, HS, 8523, USD bn","Taiwan, Trade balance, HS, 8523, USD bn",None,line
+"Taiwan, Trade balance, HS, 8524, USD bn","Taiwan, Trade balance, HS, 8524, USD bn",None,line
+"Taiwan, Trade balance, HS, 8525, USD bn","Taiwan, Trade balance, HS, 8525, USD bn",None,line
+"Taiwan, Trade balance, HS, 8526, USD bn","Taiwan, Trade balance, HS, 8526, USD bn",None,line
+"Taiwan, Trade balance, HS, 8527, USD bn","Taiwan, Trade balance, HS, 8527, USD bn",None,line
+"Taiwan, Trade balance, HS, 8528, USD bn","Taiwan, Trade balance, HS, 8528, USD bn",None,line
+"Taiwan, Trade balance, HS, 8529, USD bn","Taiwan, Trade balance, HS, 8529, USD bn",None,line
+"Taiwan, Trade balance, HS, 8530, USD bn","Taiwan, Trade balance, HS, 8530, USD bn",None,line
+"Taiwan, Trade balance, HS, 8531, USD bn","Taiwan, Trade balance, HS, 8531, USD bn",None,line
+"Taiwan, Trade balance, HS, 8532, USD bn","Taiwan, Trade balance, HS, 8532, USD bn",None,line
+"Taiwan, Trade balance, HS, 8533, USD bn","Taiwan, Trade balance, HS, 8533, USD bn",None,line
+"Taiwan, Trade balance, HS, 8534, USD bn","Taiwan, Trade balance, HS, 8534, USD bn",None,line
+"Taiwan, Trade balance, HS, 8535, USD bn","Taiwan, Trade balance, HS, 8535, USD bn",None,line
+"Taiwan, Trade balance, HS, 8536, USD bn","Taiwan, Trade balance, HS, 8536, USD bn",None,line
+"Taiwan, Trade balance, HS, 8537, USD bn","Taiwan, Trade balance, HS, 8537, USD bn",None,line
+"Taiwan, Trade balance, HS, 8538, USD bn","Taiwan, Trade balance, HS, 8538, USD bn",None,line
+"Taiwan, Trade balance, HS, 8539, USD bn","Taiwan, Trade balance, HS, 8539, USD bn",None,line
+"Taiwan, Trade balance, HS, 8540, USD bn","Taiwan, Trade balance, HS, 8540, USD bn",None,line
+"Taiwan, Trade balance, HS, 8541, USD bn","Taiwan, Trade balance, HS, 8541, USD bn",None,line
+"Taiwan, Trade balance, HS, 8542, USD bn","Taiwan, Trade balance, HS, 8542, USD bn",None,line
+"Taiwan, Trade balance, HS, 8543, USD bn","Taiwan, Trade balance, HS, 8543, USD bn",None,line
+"Taiwan, Trade balance, HS, 8544, USD bn","Taiwan, Trade balance, HS, 8544, USD bn",None,line
+"Taiwan, Trade balance, HS, 8545, USD bn","Taiwan, Trade balance, HS, 8545, USD bn",None,line
+"Taiwan, Trade balance, HS, 8546, USD bn","Taiwan, Trade balance, HS, 8546, USD bn",None,line
+"Taiwan, Trade balance, HS, 8547, USD bn","Taiwan, Trade balance, HS, 8547, USD bn",None,line
+"Taiwan, Trade balance, HS, 8548, USD bn","Taiwan, Trade balance, HS, 8548, USD bn",None,line
+"Taiwan, Trade balance, HS, 8549, USD bn","Taiwan, Trade balance, HS, 8549, USD bn",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542, USD bn","Taiwan, Trade balance, HS, 8541 and 8542, USD bn",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542 and 8471, USD bn","Taiwan, Trade balance, HS, 8541 and 8542 and 8471, USD bn",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542 and 847150, USD bn","Taiwan, Trade balance, HS, 8541 and 8542 and 847150, USD bn",None,line
 "Taiwan, Exports, Africa, USD bn","Taiwan, Exports, Africa, USD bn",None,line
 "Taiwan, Exports, Albania, USD bn","Taiwan, Exports, Albania, USD bn",None,line
 "Taiwan, Exports, Asia, USD bn","Taiwan, Exports, Asia, USD bn",None,line
@@ -876,6 +1156,9 @@ name,display_name,data_type,chart_type
 "Taiwan, Trade balance, China, SA, USD bn","Taiwan, Trade balance, China, SA, USD bn",None,line
 "Taiwan, Trade balance, EM, SA, USD bn","Taiwan, Trade balance, EM, SA, USD bn",None,line
 "Taiwan, Trade balance, EU, SA, USD bn","Taiwan, Trade balance, EU, SA, USD bn",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542, SA, USD bn","Taiwan, Trade balance, HS, 8541 and 8542, SA, USD bn",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542 and 8471, SA, USD bn","Taiwan, Trade balance, HS, 8541 and 8542 and 8471, SA, USD bn",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542 and 847150, SA, USD bn","Taiwan, Trade balance, HS, 8541 and 8542 and 847150, SA, USD bn",None,line
 "Taiwan, Exports, All, SA, Calculated, TWD bn","Taiwan, Exports, All, SA, Calculated, TWD bn",None,line
 "Taiwan, Imports, All, SA, Calculated, TWD bn","Taiwan, Imports, All, SA, Calculated, TWD bn",None,line
 "Taiwan, Exports, China, SA, TWD bn","Taiwan, Exports, China, SA, TWD bn",None,line
@@ -909,10 +1192,13 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, SITC, 3, SA, TWD bn","Taiwan, Imports, SITC, 3, SA, TWD bn",None,line
 "Taiwan, Imports, BEC, Investment, SA, TWD bn","Taiwan, Imports, BEC, Investment, SA, TWD bn",None,line
 "Taiwan, Exports, HS, 8541 and 8542, SA, TWD bn","Taiwan, Exports, HS, 8541 and 8542, SA, TWD bn",None,line
+"Taiwan, Imports, HS, 8541 and 8542, SA, TWD bn","Taiwan, Imports, HS, 8541 and 8542, SA, TWD bn",None,line
 "Taiwan, Exports, HS, 8541 and 8542 and 8471, SA, TWD bn","Taiwan, Exports, HS, 8541 and 8542 and 8471, SA, TWD bn",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 8471, SA, TWD bn","Taiwan, Imports, HS, 8541 and 8542 and 8471, SA, TWD bn",None,line
 "Taiwan, Exports, HS, Excluding 8541 and 8542, SA, TWD bn","Taiwan, Exports, HS, Excluding 8541 and 8542, SA, TWD bn",None,line
 "Taiwan, Exports, HS, Excluding 8541 and 8542 and 8471, SA, TWD bn","Taiwan, Exports, HS, Excluding 8541 and 8542 and 8471, SA, TWD bn",None,line
-"Taiwan, Exports, HS, 8541 and 8542 and 847180, SA, TWD bn","Taiwan, Exports, HS, 8541 and 8542 and 847180, SA, TWD bn",None,line
+"Taiwan, Exports, HS, 8541 and 8542 and 847150, SA, TWD bn","Taiwan, Exports, HS, 8541 and 8542 and 847150, SA, TWD bn",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 847150, SA, TWD bn","Taiwan, Imports, HS, 8541 and 8542 and 847150, SA, TWD bn",None,line
 "Taiwan, Exports, All, SA, TWD bn","Taiwan, Exports, All, SA, TWD bn",None,line
 "Taiwan, Imports, All, SA, TWD bn","Taiwan, Imports, All, SA, TWD bn",None,line
 "Taiwan, Exports, All, TWD bn","Taiwan, Exports, All, TWD bn",None,line
@@ -934,8 +1220,10 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, HS, 87, TWD bn","Taiwan, Exports, HS, 87, TWD bn",None,line
 "Taiwan, Exports, HS, 88, TWD bn","Taiwan, Exports, HS, 88, TWD bn",None,line
 "Taiwan, Exports, HS, 89, TWD bn","Taiwan, Exports, HS, 89, TWD bn",None,line
+"Taiwan, Exports, HS, 847150, TWD bn","Taiwan, Exports, HS, 847150, TWD bn",None,line
 "Taiwan, Exports, HS, 847180, TWD bn","Taiwan, Exports, HS, 847180, TWD bn",None,line
 "Taiwan, Exports, HS, 848620, TWD bn","Taiwan, Exports, HS, 848620, TWD bn",None,line
+"Taiwan, Imports, HS, 847150, TWD bn","Taiwan, Imports, HS, 847150, TWD bn",None,line
 "Taiwan, Imports, HS, 847180, TWD bn","Taiwan, Imports, HS, 847180, TWD bn",None,line
 "Taiwan, Imports, HS, 848620, TWD bn","Taiwan, Imports, HS, 848620, TWD bn",None,line
 "Taiwan, Exports, HS, 8401, TWD bn","Taiwan, Exports, HS, 8401, TWD bn",None,line
@@ -1073,10 +1361,285 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, HS, 8547, TWD bn","Taiwan, Exports, HS, 8547, TWD bn",None,line
 "Taiwan, Exports, HS, 8548, TWD bn","Taiwan, Exports, HS, 8548, TWD bn",None,line
 "Taiwan, Exports, HS, 8549, TWD bn","Taiwan, Exports, HS, 8549, TWD bn",None,line
-"Taiwan, Exports, HS, Impo, TWD bn","Taiwan, Exports, HS, Impo, TWD bn",None,line
 "Taiwan, Exports, HS, 8541 and 8542, TWD bn","Taiwan, Exports, HS, 8541 and 8542, TWD bn",None,line
 "Taiwan, Exports, HS, 8541 and 8542 and 8471, TWD bn","Taiwan, Exports, HS, 8541 and 8542 and 8471, TWD bn",None,line
-"Taiwan, Exports, HS, 8541 and 8542 and 847180, TWD bn","Taiwan, Exports, HS, 8541 and 8542 and 847180, TWD bn",None,line
+"Taiwan, Exports, HS, 8541 and 8542 and 847150, TWD bn","Taiwan, Exports, HS, 8541 and 8542 and 847150, TWD bn",None,line
+"Taiwan, Imports, HS, 8401, TWD bn","Taiwan, Imports, HS, 8401, TWD bn",None,line
+"Taiwan, Imports, HS, 8402, TWD bn","Taiwan, Imports, HS, 8402, TWD bn",None,line
+"Taiwan, Imports, HS, 8403, TWD bn","Taiwan, Imports, HS, 8403, TWD bn",None,line
+"Taiwan, Imports, HS, 8404, TWD bn","Taiwan, Imports, HS, 8404, TWD bn",None,line
+"Taiwan, Imports, HS, 8405, TWD bn","Taiwan, Imports, HS, 8405, TWD bn",None,line
+"Taiwan, Imports, HS, 8406, TWD bn","Taiwan, Imports, HS, 8406, TWD bn",None,line
+"Taiwan, Imports, HS, 8407, TWD bn","Taiwan, Imports, HS, 8407, TWD bn",None,line
+"Taiwan, Imports, HS, 8408, TWD bn","Taiwan, Imports, HS, 8408, TWD bn",None,line
+"Taiwan, Imports, HS, 8409, TWD bn","Taiwan, Imports, HS, 8409, TWD bn",None,line
+"Taiwan, Imports, HS, 8410, TWD bn","Taiwan, Imports, HS, 8410, TWD bn",None,line
+"Taiwan, Imports, HS, 8411, TWD bn","Taiwan, Imports, HS, 8411, TWD bn",None,line
+"Taiwan, Imports, HS, 8412, TWD bn","Taiwan, Imports, HS, 8412, TWD bn",None,line
+"Taiwan, Imports, HS, 8413, TWD bn","Taiwan, Imports, HS, 8413, TWD bn",None,line
+"Taiwan, Imports, HS, 8414, TWD bn","Taiwan, Imports, HS, 8414, TWD bn",None,line
+"Taiwan, Imports, HS, 8415, TWD bn","Taiwan, Imports, HS, 8415, TWD bn",None,line
+"Taiwan, Imports, HS, 8416, TWD bn","Taiwan, Imports, HS, 8416, TWD bn",None,line
+"Taiwan, Imports, HS, 8417, TWD bn","Taiwan, Imports, HS, 8417, TWD bn",None,line
+"Taiwan, Imports, HS, 8418, TWD bn","Taiwan, Imports, HS, 8418, TWD bn",None,line
+"Taiwan, Imports, HS, 8419, TWD bn","Taiwan, Imports, HS, 8419, TWD bn",None,line
+"Taiwan, Imports, HS, 8420, TWD bn","Taiwan, Imports, HS, 8420, TWD bn",None,line
+"Taiwan, Imports, HS, 8421, TWD bn","Taiwan, Imports, HS, 8421, TWD bn",None,line
+"Taiwan, Imports, HS, 8422, TWD bn","Taiwan, Imports, HS, 8422, TWD bn",None,line
+"Taiwan, Imports, HS, 8423, TWD bn","Taiwan, Imports, HS, 8423, TWD bn",None,line
+"Taiwan, Imports, HS, 8424, TWD bn","Taiwan, Imports, HS, 8424, TWD bn",None,line
+"Taiwan, Imports, HS, 8425, TWD bn","Taiwan, Imports, HS, 8425, TWD bn",None,line
+"Taiwan, Imports, HS, 8426, TWD bn","Taiwan, Imports, HS, 8426, TWD bn",None,line
+"Taiwan, Imports, HS, 8427, TWD bn","Taiwan, Imports, HS, 8427, TWD bn",None,line
+"Taiwan, Imports, HS, 8428, TWD bn","Taiwan, Imports, HS, 8428, TWD bn",None,line
+"Taiwan, Imports, HS, 8429, TWD bn","Taiwan, Imports, HS, 8429, TWD bn",None,line
+"Taiwan, Imports, HS, 8430, TWD bn","Taiwan, Imports, HS, 8430, TWD bn",None,line
+"Taiwan, Imports, HS, 8431, TWD bn","Taiwan, Imports, HS, 8431, TWD bn",None,line
+"Taiwan, Imports, HS, 8432, TWD bn","Taiwan, Imports, HS, 8432, TWD bn",None,line
+"Taiwan, Imports, HS, 8433, TWD bn","Taiwan, Imports, HS, 8433, TWD bn",None,line
+"Taiwan, Imports, HS, 8434, TWD bn","Taiwan, Imports, HS, 8434, TWD bn",None,line
+"Taiwan, Imports, HS, 8435, TWD bn","Taiwan, Imports, HS, 8435, TWD bn",None,line
+"Taiwan, Imports, HS, 8436, TWD bn","Taiwan, Imports, HS, 8436, TWD bn",None,line
+"Taiwan, Imports, HS, 8437, TWD bn","Taiwan, Imports, HS, 8437, TWD bn",None,line
+"Taiwan, Imports, HS, 8438, TWD bn","Taiwan, Imports, HS, 8438, TWD bn",None,line
+"Taiwan, Imports, HS, 8439, TWD bn","Taiwan, Imports, HS, 8439, TWD bn",None,line
+"Taiwan, Imports, HS, 8440, TWD bn","Taiwan, Imports, HS, 8440, TWD bn",None,line
+"Taiwan, Imports, HS, 8441, TWD bn","Taiwan, Imports, HS, 8441, TWD bn",None,line
+"Taiwan, Imports, HS, 8442, TWD bn","Taiwan, Imports, HS, 8442, TWD bn",None,line
+"Taiwan, Imports, HS, 8443, TWD bn","Taiwan, Imports, HS, 8443, TWD bn",None,line
+"Taiwan, Imports, HS, 8444, TWD bn","Taiwan, Imports, HS, 8444, TWD bn",None,line
+"Taiwan, Imports, HS, 8445, TWD bn","Taiwan, Imports, HS, 8445, TWD bn",None,line
+"Taiwan, Imports, HS, 8446, TWD bn","Taiwan, Imports, HS, 8446, TWD bn",None,line
+"Taiwan, Imports, HS, 8447, TWD bn","Taiwan, Imports, HS, 8447, TWD bn",None,line
+"Taiwan, Imports, HS, 8448, TWD bn","Taiwan, Imports, HS, 8448, TWD bn",None,line
+"Taiwan, Imports, HS, 8449, TWD bn","Taiwan, Imports, HS, 8449, TWD bn",None,line
+"Taiwan, Imports, HS, 8450, TWD bn","Taiwan, Imports, HS, 8450, TWD bn",None,line
+"Taiwan, Imports, HS, 8451, TWD bn","Taiwan, Imports, HS, 8451, TWD bn",None,line
+"Taiwan, Imports, HS, 8452, TWD bn","Taiwan, Imports, HS, 8452, TWD bn",None,line
+"Taiwan, Imports, HS, 8453, TWD bn","Taiwan, Imports, HS, 8453, TWD bn",None,line
+"Taiwan, Imports, HS, 8454, TWD bn","Taiwan, Imports, HS, 8454, TWD bn",None,line
+"Taiwan, Imports, HS, 8455, TWD bn","Taiwan, Imports, HS, 8455, TWD bn",None,line
+"Taiwan, Imports, HS, 8456, TWD bn","Taiwan, Imports, HS, 8456, TWD bn",None,line
+"Taiwan, Imports, HS, 8457, TWD bn","Taiwan, Imports, HS, 8457, TWD bn",None,line
+"Taiwan, Imports, HS, 8458, TWD bn","Taiwan, Imports, HS, 8458, TWD bn",None,line
+"Taiwan, Imports, HS, 8459, TWD bn","Taiwan, Imports, HS, 8459, TWD bn",None,line
+"Taiwan, Imports, HS, 8460, TWD bn","Taiwan, Imports, HS, 8460, TWD bn",None,line
+"Taiwan, Imports, HS, 8461, TWD bn","Taiwan, Imports, HS, 8461, TWD bn",None,line
+"Taiwan, Imports, HS, 8462, TWD bn","Taiwan, Imports, HS, 8462, TWD bn",None,line
+"Taiwan, Imports, HS, 8463, TWD bn","Taiwan, Imports, HS, 8463, TWD bn",None,line
+"Taiwan, Imports, HS, 8464, TWD bn","Taiwan, Imports, HS, 8464, TWD bn",None,line
+"Taiwan, Imports, HS, 8465, TWD bn","Taiwan, Imports, HS, 8465, TWD bn",None,line
+"Taiwan, Imports, HS, 8466, TWD bn","Taiwan, Imports, HS, 8466, TWD bn",None,line
+"Taiwan, Imports, HS, 8467, TWD bn","Taiwan, Imports, HS, 8467, TWD bn",None,line
+"Taiwan, Imports, HS, 8468, TWD bn","Taiwan, Imports, HS, 8468, TWD bn",None,line
+"Taiwan, Imports, HS, 8469, TWD bn","Taiwan, Imports, HS, 8469, TWD bn",None,line
+"Taiwan, Imports, HS, 8470, TWD bn","Taiwan, Imports, HS, 8470, TWD bn",None,line
+"Taiwan, Imports, HS, 8471, TWD bn","Taiwan, Imports, HS, 8471, TWD bn",None,line
+"Taiwan, Imports, HS, 8472, TWD bn","Taiwan, Imports, HS, 8472, TWD bn",None,line
+"Taiwan, Imports, HS, 8473, TWD bn","Taiwan, Imports, HS, 8473, TWD bn",None,line
+"Taiwan, Imports, HS, 8474, TWD bn","Taiwan, Imports, HS, 8474, TWD bn",None,line
+"Taiwan, Imports, HS, 8475, TWD bn","Taiwan, Imports, HS, 8475, TWD bn",None,line
+"Taiwan, Imports, HS, 8476, TWD bn","Taiwan, Imports, HS, 8476, TWD bn",None,line
+"Taiwan, Imports, HS, 8477, TWD bn","Taiwan, Imports, HS, 8477, TWD bn",None,line
+"Taiwan, Imports, HS, 8478, TWD bn","Taiwan, Imports, HS, 8478, TWD bn",None,line
+"Taiwan, Imports, HS, 8479, TWD bn","Taiwan, Imports, HS, 8479, TWD bn",None,line
+"Taiwan, Imports, HS, 8480, TWD bn","Taiwan, Imports, HS, 8480, TWD bn",None,line
+"Taiwan, Imports, HS, 8481, TWD bn","Taiwan, Imports, HS, 8481, TWD bn",None,line
+"Taiwan, Imports, HS, 8482, TWD bn","Taiwan, Imports, HS, 8482, TWD bn",None,line
+"Taiwan, Imports, HS, 8483, TWD bn","Taiwan, Imports, HS, 8483, TWD bn",None,line
+"Taiwan, Imports, HS, 8484, TWD bn","Taiwan, Imports, HS, 8484, TWD bn",None,line
+"Taiwan, Imports, HS, 8485, TWD bn","Taiwan, Imports, HS, 8485, TWD bn",None,line
+"Taiwan, Imports, HS, 8486, TWD bn","Taiwan, Imports, HS, 8486, TWD bn",None,line
+"Taiwan, Imports, HS, 8487, TWD bn","Taiwan, Imports, HS, 8487, TWD bn",None,line
+"Taiwan, Imports, HS, 8501, TWD bn","Taiwan, Imports, HS, 8501, TWD bn",None,line
+"Taiwan, Imports, HS, 8502, TWD bn","Taiwan, Imports, HS, 8502, TWD bn",None,line
+"Taiwan, Imports, HS, 8503, TWD bn","Taiwan, Imports, HS, 8503, TWD bn",None,line
+"Taiwan, Imports, HS, 8504, TWD bn","Taiwan, Imports, HS, 8504, TWD bn",None,line
+"Taiwan, Imports, HS, 8505, TWD bn","Taiwan, Imports, HS, 8505, TWD bn",None,line
+"Taiwan, Imports, HS, 8506, TWD bn","Taiwan, Imports, HS, 8506, TWD bn",None,line
+"Taiwan, Imports, HS, 8507, TWD bn","Taiwan, Imports, HS, 8507, TWD bn",None,line
+"Taiwan, Imports, HS, 8508, TWD bn","Taiwan, Imports, HS, 8508, TWD bn",None,line
+"Taiwan, Imports, HS, 8509, TWD bn","Taiwan, Imports, HS, 8509, TWD bn",None,line
+"Taiwan, Imports, HS, 8510, TWD bn","Taiwan, Imports, HS, 8510, TWD bn",None,line
+"Taiwan, Imports, HS, 8511, TWD bn","Taiwan, Imports, HS, 8511, TWD bn",None,line
+"Taiwan, Imports, HS, 8512, TWD bn","Taiwan, Imports, HS, 8512, TWD bn",None,line
+"Taiwan, Imports, HS, 8513, TWD bn","Taiwan, Imports, HS, 8513, TWD bn",None,line
+"Taiwan, Imports, HS, 8514, TWD bn","Taiwan, Imports, HS, 8514, TWD bn",None,line
+"Taiwan, Imports, HS, 8515, TWD bn","Taiwan, Imports, HS, 8515, TWD bn",None,line
+"Taiwan, Imports, HS, 8516, TWD bn","Taiwan, Imports, HS, 8516, TWD bn",None,line
+"Taiwan, Imports, HS, 8517, TWD bn","Taiwan, Imports, HS, 8517, TWD bn",None,line
+"Taiwan, Imports, HS, 8518, TWD bn","Taiwan, Imports, HS, 8518, TWD bn",None,line
+"Taiwan, Imports, HS, 8519, TWD bn","Taiwan, Imports, HS, 8519, TWD bn",None,line
+"Taiwan, Imports, HS, 8521, TWD bn","Taiwan, Imports, HS, 8521, TWD bn",None,line
+"Taiwan, Imports, HS, 8522, TWD bn","Taiwan, Imports, HS, 8522, TWD bn",None,line
+"Taiwan, Imports, HS, 8523, TWD bn","Taiwan, Imports, HS, 8523, TWD bn",None,line
+"Taiwan, Imports, HS, 8524, TWD bn","Taiwan, Imports, HS, 8524, TWD bn",None,line
+"Taiwan, Imports, HS, 8525, TWD bn","Taiwan, Imports, HS, 8525, TWD bn",None,line
+"Taiwan, Imports, HS, 8526, TWD bn","Taiwan, Imports, HS, 8526, TWD bn",None,line
+"Taiwan, Imports, HS, 8527, TWD bn","Taiwan, Imports, HS, 8527, TWD bn",None,line
+"Taiwan, Imports, HS, 8528, TWD bn","Taiwan, Imports, HS, 8528, TWD bn",None,line
+"Taiwan, Imports, HS, 8529, TWD bn","Taiwan, Imports, HS, 8529, TWD bn",None,line
+"Taiwan, Imports, HS, 8530, TWD bn","Taiwan, Imports, HS, 8530, TWD bn",None,line
+"Taiwan, Imports, HS, 8531, TWD bn","Taiwan, Imports, HS, 8531, TWD bn",None,line
+"Taiwan, Imports, HS, 8532, TWD bn","Taiwan, Imports, HS, 8532, TWD bn",None,line
+"Taiwan, Imports, HS, 8533, TWD bn","Taiwan, Imports, HS, 8533, TWD bn",None,line
+"Taiwan, Imports, HS, 8534, TWD bn","Taiwan, Imports, HS, 8534, TWD bn",None,line
+"Taiwan, Imports, HS, 8535, TWD bn","Taiwan, Imports, HS, 8535, TWD bn",None,line
+"Taiwan, Imports, HS, 8536, TWD bn","Taiwan, Imports, HS, 8536, TWD bn",None,line
+"Taiwan, Imports, HS, 8537, TWD bn","Taiwan, Imports, HS, 8537, TWD bn",None,line
+"Taiwan, Imports, HS, 8538, TWD bn","Taiwan, Imports, HS, 8538, TWD bn",None,line
+"Taiwan, Imports, HS, 8539, TWD bn","Taiwan, Imports, HS, 8539, TWD bn",None,line
+"Taiwan, Imports, HS, 8540, TWD bn","Taiwan, Imports, HS, 8540, TWD bn",None,line
+"Taiwan, Imports, HS, 8541, TWD bn","Taiwan, Imports, HS, 8541, TWD bn",None,line
+"Taiwan, Imports, HS, 8542, TWD bn","Taiwan, Imports, HS, 8542, TWD bn",None,line
+"Taiwan, Imports, HS, 8543, TWD bn","Taiwan, Imports, HS, 8543, TWD bn",None,line
+"Taiwan, Imports, HS, 8544, TWD bn","Taiwan, Imports, HS, 8544, TWD bn",None,line
+"Taiwan, Imports, HS, 8545, TWD bn","Taiwan, Imports, HS, 8545, TWD bn",None,line
+"Taiwan, Imports, HS, 8546, TWD bn","Taiwan, Imports, HS, 8546, TWD bn",None,line
+"Taiwan, Imports, HS, 8547, TWD bn","Taiwan, Imports, HS, 8547, TWD bn",None,line
+"Taiwan, Imports, HS, 8548, TWD bn","Taiwan, Imports, HS, 8548, TWD bn",None,line
+"Taiwan, Imports, HS, 8549, TWD bn","Taiwan, Imports, HS, 8549, TWD bn",None,line
+"Taiwan, Imports, HS, 8541 and 8542, TWD bn","Taiwan, Imports, HS, 8541 and 8542, TWD bn",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 8471, TWD bn","Taiwan, Imports, HS, 8541 and 8542 and 8471, TWD bn",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 847150, TWD bn","Taiwan, Imports, HS, 8541 and 8542 and 847150, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8401, TWD bn","Taiwan, Trade balance, HS, 8401, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8402, TWD bn","Taiwan, Trade balance, HS, 8402, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8403, TWD bn","Taiwan, Trade balance, HS, 8403, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8404, TWD bn","Taiwan, Trade balance, HS, 8404, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8405, TWD bn","Taiwan, Trade balance, HS, 8405, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8406, TWD bn","Taiwan, Trade balance, HS, 8406, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8407, TWD bn","Taiwan, Trade balance, HS, 8407, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8408, TWD bn","Taiwan, Trade balance, HS, 8408, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8409, TWD bn","Taiwan, Trade balance, HS, 8409, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8410, TWD bn","Taiwan, Trade balance, HS, 8410, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8411, TWD bn","Taiwan, Trade balance, HS, 8411, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8412, TWD bn","Taiwan, Trade balance, HS, 8412, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8413, TWD bn","Taiwan, Trade balance, HS, 8413, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8414, TWD bn","Taiwan, Trade balance, HS, 8414, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8415, TWD bn","Taiwan, Trade balance, HS, 8415, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8416, TWD bn","Taiwan, Trade balance, HS, 8416, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8417, TWD bn","Taiwan, Trade balance, HS, 8417, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8418, TWD bn","Taiwan, Trade balance, HS, 8418, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8419, TWD bn","Taiwan, Trade balance, HS, 8419, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8420, TWD bn","Taiwan, Trade balance, HS, 8420, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8421, TWD bn","Taiwan, Trade balance, HS, 8421, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8422, TWD bn","Taiwan, Trade balance, HS, 8422, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8423, TWD bn","Taiwan, Trade balance, HS, 8423, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8424, TWD bn","Taiwan, Trade balance, HS, 8424, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8425, TWD bn","Taiwan, Trade balance, HS, 8425, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8426, TWD bn","Taiwan, Trade balance, HS, 8426, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8427, TWD bn","Taiwan, Trade balance, HS, 8427, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8428, TWD bn","Taiwan, Trade balance, HS, 8428, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8429, TWD bn","Taiwan, Trade balance, HS, 8429, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8430, TWD bn","Taiwan, Trade balance, HS, 8430, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8431, TWD bn","Taiwan, Trade balance, HS, 8431, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8432, TWD bn","Taiwan, Trade balance, HS, 8432, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8433, TWD bn","Taiwan, Trade balance, HS, 8433, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8434, TWD bn","Taiwan, Trade balance, HS, 8434, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8435, TWD bn","Taiwan, Trade balance, HS, 8435, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8436, TWD bn","Taiwan, Trade balance, HS, 8436, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8437, TWD bn","Taiwan, Trade balance, HS, 8437, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8438, TWD bn","Taiwan, Trade balance, HS, 8438, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8439, TWD bn","Taiwan, Trade balance, HS, 8439, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8440, TWD bn","Taiwan, Trade balance, HS, 8440, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8441, TWD bn","Taiwan, Trade balance, HS, 8441, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8442, TWD bn","Taiwan, Trade balance, HS, 8442, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8443, TWD bn","Taiwan, Trade balance, HS, 8443, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8444, TWD bn","Taiwan, Trade balance, HS, 8444, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8445, TWD bn","Taiwan, Trade balance, HS, 8445, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8446, TWD bn","Taiwan, Trade balance, HS, 8446, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8447, TWD bn","Taiwan, Trade balance, HS, 8447, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8448, TWD bn","Taiwan, Trade balance, HS, 8448, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8449, TWD bn","Taiwan, Trade balance, HS, 8449, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8450, TWD bn","Taiwan, Trade balance, HS, 8450, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8451, TWD bn","Taiwan, Trade balance, HS, 8451, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8452, TWD bn","Taiwan, Trade balance, HS, 8452, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8453, TWD bn","Taiwan, Trade balance, HS, 8453, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8454, TWD bn","Taiwan, Trade balance, HS, 8454, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8455, TWD bn","Taiwan, Trade balance, HS, 8455, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8456, TWD bn","Taiwan, Trade balance, HS, 8456, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8457, TWD bn","Taiwan, Trade balance, HS, 8457, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8458, TWD bn","Taiwan, Trade balance, HS, 8458, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8459, TWD bn","Taiwan, Trade balance, HS, 8459, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8460, TWD bn","Taiwan, Trade balance, HS, 8460, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8461, TWD bn","Taiwan, Trade balance, HS, 8461, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8462, TWD bn","Taiwan, Trade balance, HS, 8462, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8463, TWD bn","Taiwan, Trade balance, HS, 8463, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8464, TWD bn","Taiwan, Trade balance, HS, 8464, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8465, TWD bn","Taiwan, Trade balance, HS, 8465, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8466, TWD bn","Taiwan, Trade balance, HS, 8466, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8467, TWD bn","Taiwan, Trade balance, HS, 8467, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8468, TWD bn","Taiwan, Trade balance, HS, 8468, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8469, TWD bn","Taiwan, Trade balance, HS, 8469, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8470, TWD bn","Taiwan, Trade balance, HS, 8470, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8471, TWD bn","Taiwan, Trade balance, HS, 8471, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8472, TWD bn","Taiwan, Trade balance, HS, 8472, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8473, TWD bn","Taiwan, Trade balance, HS, 8473, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8474, TWD bn","Taiwan, Trade balance, HS, 8474, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8475, TWD bn","Taiwan, Trade balance, HS, 8475, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8476, TWD bn","Taiwan, Trade balance, HS, 8476, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8477, TWD bn","Taiwan, Trade balance, HS, 8477, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8478, TWD bn","Taiwan, Trade balance, HS, 8478, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8479, TWD bn","Taiwan, Trade balance, HS, 8479, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8480, TWD bn","Taiwan, Trade balance, HS, 8480, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8481, TWD bn","Taiwan, Trade balance, HS, 8481, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8482, TWD bn","Taiwan, Trade balance, HS, 8482, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8483, TWD bn","Taiwan, Trade balance, HS, 8483, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8484, TWD bn","Taiwan, Trade balance, HS, 8484, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8485, TWD bn","Taiwan, Trade balance, HS, 8485, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8486, TWD bn","Taiwan, Trade balance, HS, 8486, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8487, TWD bn","Taiwan, Trade balance, HS, 8487, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8501, TWD bn","Taiwan, Trade balance, HS, 8501, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8502, TWD bn","Taiwan, Trade balance, HS, 8502, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8503, TWD bn","Taiwan, Trade balance, HS, 8503, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8504, TWD bn","Taiwan, Trade balance, HS, 8504, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8505, TWD bn","Taiwan, Trade balance, HS, 8505, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8506, TWD bn","Taiwan, Trade balance, HS, 8506, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8507, TWD bn","Taiwan, Trade balance, HS, 8507, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8508, TWD bn","Taiwan, Trade balance, HS, 8508, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8509, TWD bn","Taiwan, Trade balance, HS, 8509, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8510, TWD bn","Taiwan, Trade balance, HS, 8510, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8511, TWD bn","Taiwan, Trade balance, HS, 8511, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8512, TWD bn","Taiwan, Trade balance, HS, 8512, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8513, TWD bn","Taiwan, Trade balance, HS, 8513, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8514, TWD bn","Taiwan, Trade balance, HS, 8514, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8515, TWD bn","Taiwan, Trade balance, HS, 8515, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8516, TWD bn","Taiwan, Trade balance, HS, 8516, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8517, TWD bn","Taiwan, Trade balance, HS, 8517, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8518, TWD bn","Taiwan, Trade balance, HS, 8518, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8519, TWD bn","Taiwan, Trade balance, HS, 8519, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8521, TWD bn","Taiwan, Trade balance, HS, 8521, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8522, TWD bn","Taiwan, Trade balance, HS, 8522, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8523, TWD bn","Taiwan, Trade balance, HS, 8523, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8524, TWD bn","Taiwan, Trade balance, HS, 8524, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8525, TWD bn","Taiwan, Trade balance, HS, 8525, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8526, TWD bn","Taiwan, Trade balance, HS, 8526, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8527, TWD bn","Taiwan, Trade balance, HS, 8527, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8528, TWD bn","Taiwan, Trade balance, HS, 8528, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8529, TWD bn","Taiwan, Trade balance, HS, 8529, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8530, TWD bn","Taiwan, Trade balance, HS, 8530, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8531, TWD bn","Taiwan, Trade balance, HS, 8531, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8532, TWD bn","Taiwan, Trade balance, HS, 8532, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8533, TWD bn","Taiwan, Trade balance, HS, 8533, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8534, TWD bn","Taiwan, Trade balance, HS, 8534, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8535, TWD bn","Taiwan, Trade balance, HS, 8535, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8536, TWD bn","Taiwan, Trade balance, HS, 8536, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8537, TWD bn","Taiwan, Trade balance, HS, 8537, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8538, TWD bn","Taiwan, Trade balance, HS, 8538, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8539, TWD bn","Taiwan, Trade balance, HS, 8539, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8540, TWD bn","Taiwan, Trade balance, HS, 8540, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8541, TWD bn","Taiwan, Trade balance, HS, 8541, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8542, TWD bn","Taiwan, Trade balance, HS, 8542, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8543, TWD bn","Taiwan, Trade balance, HS, 8543, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8544, TWD bn","Taiwan, Trade balance, HS, 8544, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8545, TWD bn","Taiwan, Trade balance, HS, 8545, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8546, TWD bn","Taiwan, Trade balance, HS, 8546, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8547, TWD bn","Taiwan, Trade balance, HS, 8547, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8548, TWD bn","Taiwan, Trade balance, HS, 8548, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8549, TWD bn","Taiwan, Trade balance, HS, 8549, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542, TWD bn","Taiwan, Trade balance, HS, 8541 and 8542, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542 and 8471, TWD bn","Taiwan, Trade balance, HS, 8541 and 8542 and 8471, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542 and 847150, TWD bn","Taiwan, Trade balance, HS, 8541 and 8542 and 847150, TWD bn",None,line
 "Taiwan, Exports, Africa, TWD bn","Taiwan, Exports, Africa, TWD bn",None,line
 "Taiwan, Exports, Albania, TWD bn","Taiwan, Exports, Albania, TWD bn",None,line
 "Taiwan, Exports, Asia, TWD bn","Taiwan, Exports, Asia, TWD bn",None,line
@@ -1753,6 +2316,9 @@ name,display_name,data_type,chart_type
 "Taiwan, Trade balance, China, SA, TWD bn","Taiwan, Trade balance, China, SA, TWD bn",None,line
 "Taiwan, Trade balance, EM, SA, TWD bn","Taiwan, Trade balance, EM, SA, TWD bn",None,line
 "Taiwan, Trade balance, EU, SA, TWD bn","Taiwan, Trade balance, EU, SA, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542, SA, TWD bn","Taiwan, Trade balance, HS, 8541 and 8542, SA, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542 and 8471, SA, TWD bn","Taiwan, Trade balance, HS, 8541 and 8542 and 8471, SA, TWD bn",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542 and 847150, SA, TWD bn","Taiwan, Trade balance, HS, 8541 and 8542 and 847150, SA, TWD bn",None,line
 "Taiwan, Exports, Broad, China, Chemicals, % of destination country total","Taiwan, Exports, Broad, China, Chemicals, % of destination country total",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, IT products, % of destination country total","Taiwan, Exports, Broad, China, Machinery and electrical, IT products, % of destination country total",None,line
 "Taiwan, Exports, Broad, China, Machinery and electrical, Parts, % of destination country total","Taiwan, Exports, Broad, China, Machinery and electrical, Parts, % of destination country total",None,line
@@ -1808,8 +2374,9 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, Broad, World, Miscellaneous, % of destination country total","Taiwan, Exports, Broad, World, Miscellaneous, % of destination country total",None,line
 "Taiwan, Exports, Broad, World, Machinery and electrical excluding semi, % of destination country total","Taiwan, Exports, Broad, World, Machinery and electrical excluding semi, % of destination country total",None,line
 "Taiwan, Exports, Detailed, World, Integrated circuit, % of destination country total","Taiwan, Exports, Detailed, World, Integrated circuit, % of destination country total",None,line
-"Taiwan, Exports, HS, Excluding 8541 and 8542 and 8471, Share of total, %","Taiwan, Exports, HS, Excluding 8541 and 8542 and 8471, Share of total, %",None,line
-"Taiwan, Exports, HS, 8541 and 8542 and 8471, Share of total, %","Taiwan, Exports, HS, 8541 and 8542 and 8471, Share of total, %",None,line
+"Taiwan, Exports, HS, Excluding 8541 and 8542 and 8471, % of total","Taiwan, Exports, HS, Excluding 8541 and 8542 and 8471, % of total",None,line
+"Taiwan, Exports, HS, 8541 and 8542 and 8471, % of total","Taiwan, Exports, HS, 8541 and 8542 and 8471, % of total",None,line
+"Taiwan, Exports, HS, 8541 and 8542 and 847150, % of total","Taiwan, Exports, HS, 8541 and 8542 and 847150, % of total",None,line
 "Taiwan, Exports, All, SA, Calculated, % of GDP","Taiwan, Exports, All, SA, Calculated, % of GDP",None,line
 "Taiwan, Imports, All, SA, Calculated, % of GDP","Taiwan, Imports, All, SA, Calculated, % of GDP",None,line
 "Taiwan, Exports, China, SA, % of GDP","Taiwan, Exports, China, SA, % of GDP",None,line
@@ -1843,10 +2410,13 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, SITC, 3, SA, % of GDP","Taiwan, Imports, SITC, 3, SA, % of GDP",None,line
 "Taiwan, Imports, BEC, Investment, SA, % of GDP","Taiwan, Imports, BEC, Investment, SA, % of GDP",None,line
 "Taiwan, Exports, HS, 8541 and 8542, SA, % of GDP","Taiwan, Exports, HS, 8541 and 8542, SA, % of GDP",None,line
+"Taiwan, Imports, HS, 8541 and 8542, SA, % of GDP","Taiwan, Imports, HS, 8541 and 8542, SA, % of GDP",None,line
 "Taiwan, Exports, HS, 8541 and 8542 and 8471, SA, % of GDP","Taiwan, Exports, HS, 8541 and 8542 and 8471, SA, % of GDP",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 8471, SA, % of GDP","Taiwan, Imports, HS, 8541 and 8542 and 8471, SA, % of GDP",None,line
 "Taiwan, Exports, HS, Excluding 8541 and 8542, SA, % of GDP","Taiwan, Exports, HS, Excluding 8541 and 8542, SA, % of GDP",None,line
 "Taiwan, Exports, HS, Excluding 8541 and 8542 and 8471, SA, % of GDP","Taiwan, Exports, HS, Excluding 8541 and 8542 and 8471, SA, % of GDP",None,line
-"Taiwan, Exports, HS, 8541 and 8542 and 847180, SA, % of GDP","Taiwan, Exports, HS, 8541 and 8542 and 847180, SA, % of GDP",None,line
+"Taiwan, Exports, HS, 8541 and 8542 and 847150, SA, % of GDP","Taiwan, Exports, HS, 8541 and 8542 and 847150, SA, % of GDP",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 847150, SA, % of GDP","Taiwan, Imports, HS, 8541 and 8542 and 847150, SA, % of GDP",None,line
 "Taiwan, Exports, All, SA, % of GDP","Taiwan, Exports, All, SA, % of GDP",None,line
 "Taiwan, Imports, All, SA, % of GDP","Taiwan, Imports, All, SA, % of GDP",None,line
 "Taiwan, Exports, All, % of GDP","Taiwan, Exports, All, % of GDP",None,line
@@ -1868,8 +2438,10 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, HS, 87, % of GDP","Taiwan, Exports, HS, 87, % of GDP",None,line
 "Taiwan, Exports, HS, 88, % of GDP","Taiwan, Exports, HS, 88, % of GDP",None,line
 "Taiwan, Exports, HS, 89, % of GDP","Taiwan, Exports, HS, 89, % of GDP",None,line
+"Taiwan, Exports, HS, 847150, % of GDP","Taiwan, Exports, HS, 847150, % of GDP",None,line
 "Taiwan, Exports, HS, 847180, % of GDP","Taiwan, Exports, HS, 847180, % of GDP",None,line
 "Taiwan, Exports, HS, 848620, % of GDP","Taiwan, Exports, HS, 848620, % of GDP",None,line
+"Taiwan, Imports, HS, 847150, % of GDP","Taiwan, Imports, HS, 847150, % of GDP",None,line
 "Taiwan, Imports, HS, 847180, % of GDP","Taiwan, Imports, HS, 847180, % of GDP",None,line
 "Taiwan, Imports, HS, 848620, % of GDP","Taiwan, Imports, HS, 848620, % of GDP",None,line
 "Taiwan, Exports, HS, 8401, % of GDP","Taiwan, Exports, HS, 8401, % of GDP",None,line
@@ -2007,10 +2579,285 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, HS, 8547, % of GDP","Taiwan, Exports, HS, 8547, % of GDP",None,line
 "Taiwan, Exports, HS, 8548, % of GDP","Taiwan, Exports, HS, 8548, % of GDP",None,line
 "Taiwan, Exports, HS, 8549, % of GDP","Taiwan, Exports, HS, 8549, % of GDP",None,line
-"Taiwan, Exports, HS, Impo, % of GDP","Taiwan, Exports, HS, Impo, % of GDP",None,line
 "Taiwan, Exports, HS, 8541 and 8542, % of GDP","Taiwan, Exports, HS, 8541 and 8542, % of GDP",None,line
 "Taiwan, Exports, HS, 8541 and 8542 and 8471, % of GDP","Taiwan, Exports, HS, 8541 and 8542 and 8471, % of GDP",None,line
-"Taiwan, Exports, HS, 8541 and 8542 and 847180, % of GDP","Taiwan, Exports, HS, 8541 and 8542 and 847180, % of GDP",None,line
+"Taiwan, Exports, HS, 8541 and 8542 and 847150, % of GDP","Taiwan, Exports, HS, 8541 and 8542 and 847150, % of GDP",None,line
+"Taiwan, Imports, HS, 8401, % of GDP","Taiwan, Imports, HS, 8401, % of GDP",None,line
+"Taiwan, Imports, HS, 8402, % of GDP","Taiwan, Imports, HS, 8402, % of GDP",None,line
+"Taiwan, Imports, HS, 8403, % of GDP","Taiwan, Imports, HS, 8403, % of GDP",None,line
+"Taiwan, Imports, HS, 8404, % of GDP","Taiwan, Imports, HS, 8404, % of GDP",None,line
+"Taiwan, Imports, HS, 8405, % of GDP","Taiwan, Imports, HS, 8405, % of GDP",None,line
+"Taiwan, Imports, HS, 8406, % of GDP","Taiwan, Imports, HS, 8406, % of GDP",None,line
+"Taiwan, Imports, HS, 8407, % of GDP","Taiwan, Imports, HS, 8407, % of GDP",None,line
+"Taiwan, Imports, HS, 8408, % of GDP","Taiwan, Imports, HS, 8408, % of GDP",None,line
+"Taiwan, Imports, HS, 8409, % of GDP","Taiwan, Imports, HS, 8409, % of GDP",None,line
+"Taiwan, Imports, HS, 8410, % of GDP","Taiwan, Imports, HS, 8410, % of GDP",None,line
+"Taiwan, Imports, HS, 8411, % of GDP","Taiwan, Imports, HS, 8411, % of GDP",None,line
+"Taiwan, Imports, HS, 8412, % of GDP","Taiwan, Imports, HS, 8412, % of GDP",None,line
+"Taiwan, Imports, HS, 8413, % of GDP","Taiwan, Imports, HS, 8413, % of GDP",None,line
+"Taiwan, Imports, HS, 8414, % of GDP","Taiwan, Imports, HS, 8414, % of GDP",None,line
+"Taiwan, Imports, HS, 8415, % of GDP","Taiwan, Imports, HS, 8415, % of GDP",None,line
+"Taiwan, Imports, HS, 8416, % of GDP","Taiwan, Imports, HS, 8416, % of GDP",None,line
+"Taiwan, Imports, HS, 8417, % of GDP","Taiwan, Imports, HS, 8417, % of GDP",None,line
+"Taiwan, Imports, HS, 8418, % of GDP","Taiwan, Imports, HS, 8418, % of GDP",None,line
+"Taiwan, Imports, HS, 8419, % of GDP","Taiwan, Imports, HS, 8419, % of GDP",None,line
+"Taiwan, Imports, HS, 8420, % of GDP","Taiwan, Imports, HS, 8420, % of GDP",None,line
+"Taiwan, Imports, HS, 8421, % of GDP","Taiwan, Imports, HS, 8421, % of GDP",None,line
+"Taiwan, Imports, HS, 8422, % of GDP","Taiwan, Imports, HS, 8422, % of GDP",None,line
+"Taiwan, Imports, HS, 8423, % of GDP","Taiwan, Imports, HS, 8423, % of GDP",None,line
+"Taiwan, Imports, HS, 8424, % of GDP","Taiwan, Imports, HS, 8424, % of GDP",None,line
+"Taiwan, Imports, HS, 8425, % of GDP","Taiwan, Imports, HS, 8425, % of GDP",None,line
+"Taiwan, Imports, HS, 8426, % of GDP","Taiwan, Imports, HS, 8426, % of GDP",None,line
+"Taiwan, Imports, HS, 8427, % of GDP","Taiwan, Imports, HS, 8427, % of GDP",None,line
+"Taiwan, Imports, HS, 8428, % of GDP","Taiwan, Imports, HS, 8428, % of GDP",None,line
+"Taiwan, Imports, HS, 8429, % of GDP","Taiwan, Imports, HS, 8429, % of GDP",None,line
+"Taiwan, Imports, HS, 8430, % of GDP","Taiwan, Imports, HS, 8430, % of GDP",None,line
+"Taiwan, Imports, HS, 8431, % of GDP","Taiwan, Imports, HS, 8431, % of GDP",None,line
+"Taiwan, Imports, HS, 8432, % of GDP","Taiwan, Imports, HS, 8432, % of GDP",None,line
+"Taiwan, Imports, HS, 8433, % of GDP","Taiwan, Imports, HS, 8433, % of GDP",None,line
+"Taiwan, Imports, HS, 8434, % of GDP","Taiwan, Imports, HS, 8434, % of GDP",None,line
+"Taiwan, Imports, HS, 8435, % of GDP","Taiwan, Imports, HS, 8435, % of GDP",None,line
+"Taiwan, Imports, HS, 8436, % of GDP","Taiwan, Imports, HS, 8436, % of GDP",None,line
+"Taiwan, Imports, HS, 8437, % of GDP","Taiwan, Imports, HS, 8437, % of GDP",None,line
+"Taiwan, Imports, HS, 8438, % of GDP","Taiwan, Imports, HS, 8438, % of GDP",None,line
+"Taiwan, Imports, HS, 8439, % of GDP","Taiwan, Imports, HS, 8439, % of GDP",None,line
+"Taiwan, Imports, HS, 8440, % of GDP","Taiwan, Imports, HS, 8440, % of GDP",None,line
+"Taiwan, Imports, HS, 8441, % of GDP","Taiwan, Imports, HS, 8441, % of GDP",None,line
+"Taiwan, Imports, HS, 8442, % of GDP","Taiwan, Imports, HS, 8442, % of GDP",None,line
+"Taiwan, Imports, HS, 8443, % of GDP","Taiwan, Imports, HS, 8443, % of GDP",None,line
+"Taiwan, Imports, HS, 8444, % of GDP","Taiwan, Imports, HS, 8444, % of GDP",None,line
+"Taiwan, Imports, HS, 8445, % of GDP","Taiwan, Imports, HS, 8445, % of GDP",None,line
+"Taiwan, Imports, HS, 8446, % of GDP","Taiwan, Imports, HS, 8446, % of GDP",None,line
+"Taiwan, Imports, HS, 8447, % of GDP","Taiwan, Imports, HS, 8447, % of GDP",None,line
+"Taiwan, Imports, HS, 8448, % of GDP","Taiwan, Imports, HS, 8448, % of GDP",None,line
+"Taiwan, Imports, HS, 8449, % of GDP","Taiwan, Imports, HS, 8449, % of GDP",None,line
+"Taiwan, Imports, HS, 8450, % of GDP","Taiwan, Imports, HS, 8450, % of GDP",None,line
+"Taiwan, Imports, HS, 8451, % of GDP","Taiwan, Imports, HS, 8451, % of GDP",None,line
+"Taiwan, Imports, HS, 8452, % of GDP","Taiwan, Imports, HS, 8452, % of GDP",None,line
+"Taiwan, Imports, HS, 8453, % of GDP","Taiwan, Imports, HS, 8453, % of GDP",None,line
+"Taiwan, Imports, HS, 8454, % of GDP","Taiwan, Imports, HS, 8454, % of GDP",None,line
+"Taiwan, Imports, HS, 8455, % of GDP","Taiwan, Imports, HS, 8455, % of GDP",None,line
+"Taiwan, Imports, HS, 8456, % of GDP","Taiwan, Imports, HS, 8456, % of GDP",None,line
+"Taiwan, Imports, HS, 8457, % of GDP","Taiwan, Imports, HS, 8457, % of GDP",None,line
+"Taiwan, Imports, HS, 8458, % of GDP","Taiwan, Imports, HS, 8458, % of GDP",None,line
+"Taiwan, Imports, HS, 8459, % of GDP","Taiwan, Imports, HS, 8459, % of GDP",None,line
+"Taiwan, Imports, HS, 8460, % of GDP","Taiwan, Imports, HS, 8460, % of GDP",None,line
+"Taiwan, Imports, HS, 8461, % of GDP","Taiwan, Imports, HS, 8461, % of GDP",None,line
+"Taiwan, Imports, HS, 8462, % of GDP","Taiwan, Imports, HS, 8462, % of GDP",None,line
+"Taiwan, Imports, HS, 8463, % of GDP","Taiwan, Imports, HS, 8463, % of GDP",None,line
+"Taiwan, Imports, HS, 8464, % of GDP","Taiwan, Imports, HS, 8464, % of GDP",None,line
+"Taiwan, Imports, HS, 8465, % of GDP","Taiwan, Imports, HS, 8465, % of GDP",None,line
+"Taiwan, Imports, HS, 8466, % of GDP","Taiwan, Imports, HS, 8466, % of GDP",None,line
+"Taiwan, Imports, HS, 8467, % of GDP","Taiwan, Imports, HS, 8467, % of GDP",None,line
+"Taiwan, Imports, HS, 8468, % of GDP","Taiwan, Imports, HS, 8468, % of GDP",None,line
+"Taiwan, Imports, HS, 8469, % of GDP","Taiwan, Imports, HS, 8469, % of GDP",None,line
+"Taiwan, Imports, HS, 8470, % of GDP","Taiwan, Imports, HS, 8470, % of GDP",None,line
+"Taiwan, Imports, HS, 8471, % of GDP","Taiwan, Imports, HS, 8471, % of GDP",None,line
+"Taiwan, Imports, HS, 8472, % of GDP","Taiwan, Imports, HS, 8472, % of GDP",None,line
+"Taiwan, Imports, HS, 8473, % of GDP","Taiwan, Imports, HS, 8473, % of GDP",None,line
+"Taiwan, Imports, HS, 8474, % of GDP","Taiwan, Imports, HS, 8474, % of GDP",None,line
+"Taiwan, Imports, HS, 8475, % of GDP","Taiwan, Imports, HS, 8475, % of GDP",None,line
+"Taiwan, Imports, HS, 8476, % of GDP","Taiwan, Imports, HS, 8476, % of GDP",None,line
+"Taiwan, Imports, HS, 8477, % of GDP","Taiwan, Imports, HS, 8477, % of GDP",None,line
+"Taiwan, Imports, HS, 8478, % of GDP","Taiwan, Imports, HS, 8478, % of GDP",None,line
+"Taiwan, Imports, HS, 8479, % of GDP","Taiwan, Imports, HS, 8479, % of GDP",None,line
+"Taiwan, Imports, HS, 8480, % of GDP","Taiwan, Imports, HS, 8480, % of GDP",None,line
+"Taiwan, Imports, HS, 8481, % of GDP","Taiwan, Imports, HS, 8481, % of GDP",None,line
+"Taiwan, Imports, HS, 8482, % of GDP","Taiwan, Imports, HS, 8482, % of GDP",None,line
+"Taiwan, Imports, HS, 8483, % of GDP","Taiwan, Imports, HS, 8483, % of GDP",None,line
+"Taiwan, Imports, HS, 8484, % of GDP","Taiwan, Imports, HS, 8484, % of GDP",None,line
+"Taiwan, Imports, HS, 8485, % of GDP","Taiwan, Imports, HS, 8485, % of GDP",None,line
+"Taiwan, Imports, HS, 8486, % of GDP","Taiwan, Imports, HS, 8486, % of GDP",None,line
+"Taiwan, Imports, HS, 8487, % of GDP","Taiwan, Imports, HS, 8487, % of GDP",None,line
+"Taiwan, Imports, HS, 8501, % of GDP","Taiwan, Imports, HS, 8501, % of GDP",None,line
+"Taiwan, Imports, HS, 8502, % of GDP","Taiwan, Imports, HS, 8502, % of GDP",None,line
+"Taiwan, Imports, HS, 8503, % of GDP","Taiwan, Imports, HS, 8503, % of GDP",None,line
+"Taiwan, Imports, HS, 8504, % of GDP","Taiwan, Imports, HS, 8504, % of GDP",None,line
+"Taiwan, Imports, HS, 8505, % of GDP","Taiwan, Imports, HS, 8505, % of GDP",None,line
+"Taiwan, Imports, HS, 8506, % of GDP","Taiwan, Imports, HS, 8506, % of GDP",None,line
+"Taiwan, Imports, HS, 8507, % of GDP","Taiwan, Imports, HS, 8507, % of GDP",None,line
+"Taiwan, Imports, HS, 8508, % of GDP","Taiwan, Imports, HS, 8508, % of GDP",None,line
+"Taiwan, Imports, HS, 8509, % of GDP","Taiwan, Imports, HS, 8509, % of GDP",None,line
+"Taiwan, Imports, HS, 8510, % of GDP","Taiwan, Imports, HS, 8510, % of GDP",None,line
+"Taiwan, Imports, HS, 8511, % of GDP","Taiwan, Imports, HS, 8511, % of GDP",None,line
+"Taiwan, Imports, HS, 8512, % of GDP","Taiwan, Imports, HS, 8512, % of GDP",None,line
+"Taiwan, Imports, HS, 8513, % of GDP","Taiwan, Imports, HS, 8513, % of GDP",None,line
+"Taiwan, Imports, HS, 8514, % of GDP","Taiwan, Imports, HS, 8514, % of GDP",None,line
+"Taiwan, Imports, HS, 8515, % of GDP","Taiwan, Imports, HS, 8515, % of GDP",None,line
+"Taiwan, Imports, HS, 8516, % of GDP","Taiwan, Imports, HS, 8516, % of GDP",None,line
+"Taiwan, Imports, HS, 8517, % of GDP","Taiwan, Imports, HS, 8517, % of GDP",None,line
+"Taiwan, Imports, HS, 8518, % of GDP","Taiwan, Imports, HS, 8518, % of GDP",None,line
+"Taiwan, Imports, HS, 8519, % of GDP","Taiwan, Imports, HS, 8519, % of GDP",None,line
+"Taiwan, Imports, HS, 8521, % of GDP","Taiwan, Imports, HS, 8521, % of GDP",None,line
+"Taiwan, Imports, HS, 8522, % of GDP","Taiwan, Imports, HS, 8522, % of GDP",None,line
+"Taiwan, Imports, HS, 8523, % of GDP","Taiwan, Imports, HS, 8523, % of GDP",None,line
+"Taiwan, Imports, HS, 8524, % of GDP","Taiwan, Imports, HS, 8524, % of GDP",None,line
+"Taiwan, Imports, HS, 8525, % of GDP","Taiwan, Imports, HS, 8525, % of GDP",None,line
+"Taiwan, Imports, HS, 8526, % of GDP","Taiwan, Imports, HS, 8526, % of GDP",None,line
+"Taiwan, Imports, HS, 8527, % of GDP","Taiwan, Imports, HS, 8527, % of GDP",None,line
+"Taiwan, Imports, HS, 8528, % of GDP","Taiwan, Imports, HS, 8528, % of GDP",None,line
+"Taiwan, Imports, HS, 8529, % of GDP","Taiwan, Imports, HS, 8529, % of GDP",None,line
+"Taiwan, Imports, HS, 8530, % of GDP","Taiwan, Imports, HS, 8530, % of GDP",None,line
+"Taiwan, Imports, HS, 8531, % of GDP","Taiwan, Imports, HS, 8531, % of GDP",None,line
+"Taiwan, Imports, HS, 8532, % of GDP","Taiwan, Imports, HS, 8532, % of GDP",None,line
+"Taiwan, Imports, HS, 8533, % of GDP","Taiwan, Imports, HS, 8533, % of GDP",None,line
+"Taiwan, Imports, HS, 8534, % of GDP","Taiwan, Imports, HS, 8534, % of GDP",None,line
+"Taiwan, Imports, HS, 8535, % of GDP","Taiwan, Imports, HS, 8535, % of GDP",None,line
+"Taiwan, Imports, HS, 8536, % of GDP","Taiwan, Imports, HS, 8536, % of GDP",None,line
+"Taiwan, Imports, HS, 8537, % of GDP","Taiwan, Imports, HS, 8537, % of GDP",None,line
+"Taiwan, Imports, HS, 8538, % of GDP","Taiwan, Imports, HS, 8538, % of GDP",None,line
+"Taiwan, Imports, HS, 8539, % of GDP","Taiwan, Imports, HS, 8539, % of GDP",None,line
+"Taiwan, Imports, HS, 8540, % of GDP","Taiwan, Imports, HS, 8540, % of GDP",None,line
+"Taiwan, Imports, HS, 8541, % of GDP","Taiwan, Imports, HS, 8541, % of GDP",None,line
+"Taiwan, Imports, HS, 8542, % of GDP","Taiwan, Imports, HS, 8542, % of GDP",None,line
+"Taiwan, Imports, HS, 8543, % of GDP","Taiwan, Imports, HS, 8543, % of GDP",None,line
+"Taiwan, Imports, HS, 8544, % of GDP","Taiwan, Imports, HS, 8544, % of GDP",None,line
+"Taiwan, Imports, HS, 8545, % of GDP","Taiwan, Imports, HS, 8545, % of GDP",None,line
+"Taiwan, Imports, HS, 8546, % of GDP","Taiwan, Imports, HS, 8546, % of GDP",None,line
+"Taiwan, Imports, HS, 8547, % of GDP","Taiwan, Imports, HS, 8547, % of GDP",None,line
+"Taiwan, Imports, HS, 8548, % of GDP","Taiwan, Imports, HS, 8548, % of GDP",None,line
+"Taiwan, Imports, HS, 8549, % of GDP","Taiwan, Imports, HS, 8549, % of GDP",None,line
+"Taiwan, Imports, HS, 8541 and 8542, % of GDP","Taiwan, Imports, HS, 8541 and 8542, % of GDP",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 8471, % of GDP","Taiwan, Imports, HS, 8541 and 8542 and 8471, % of GDP",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 847150, % of GDP","Taiwan, Imports, HS, 8541 and 8542 and 847150, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8401, % of GDP","Taiwan, Trade balance, HS, 8401, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8402, % of GDP","Taiwan, Trade balance, HS, 8402, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8403, % of GDP","Taiwan, Trade balance, HS, 8403, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8404, % of GDP","Taiwan, Trade balance, HS, 8404, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8405, % of GDP","Taiwan, Trade balance, HS, 8405, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8406, % of GDP","Taiwan, Trade balance, HS, 8406, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8407, % of GDP","Taiwan, Trade balance, HS, 8407, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8408, % of GDP","Taiwan, Trade balance, HS, 8408, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8409, % of GDP","Taiwan, Trade balance, HS, 8409, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8410, % of GDP","Taiwan, Trade balance, HS, 8410, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8411, % of GDP","Taiwan, Trade balance, HS, 8411, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8412, % of GDP","Taiwan, Trade balance, HS, 8412, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8413, % of GDP","Taiwan, Trade balance, HS, 8413, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8414, % of GDP","Taiwan, Trade balance, HS, 8414, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8415, % of GDP","Taiwan, Trade balance, HS, 8415, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8416, % of GDP","Taiwan, Trade balance, HS, 8416, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8417, % of GDP","Taiwan, Trade balance, HS, 8417, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8418, % of GDP","Taiwan, Trade balance, HS, 8418, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8419, % of GDP","Taiwan, Trade balance, HS, 8419, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8420, % of GDP","Taiwan, Trade balance, HS, 8420, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8421, % of GDP","Taiwan, Trade balance, HS, 8421, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8422, % of GDP","Taiwan, Trade balance, HS, 8422, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8423, % of GDP","Taiwan, Trade balance, HS, 8423, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8424, % of GDP","Taiwan, Trade balance, HS, 8424, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8425, % of GDP","Taiwan, Trade balance, HS, 8425, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8426, % of GDP","Taiwan, Trade balance, HS, 8426, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8427, % of GDP","Taiwan, Trade balance, HS, 8427, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8428, % of GDP","Taiwan, Trade balance, HS, 8428, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8429, % of GDP","Taiwan, Trade balance, HS, 8429, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8430, % of GDP","Taiwan, Trade balance, HS, 8430, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8431, % of GDP","Taiwan, Trade balance, HS, 8431, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8432, % of GDP","Taiwan, Trade balance, HS, 8432, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8433, % of GDP","Taiwan, Trade balance, HS, 8433, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8434, % of GDP","Taiwan, Trade balance, HS, 8434, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8435, % of GDP","Taiwan, Trade balance, HS, 8435, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8436, % of GDP","Taiwan, Trade balance, HS, 8436, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8437, % of GDP","Taiwan, Trade balance, HS, 8437, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8438, % of GDP","Taiwan, Trade balance, HS, 8438, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8439, % of GDP","Taiwan, Trade balance, HS, 8439, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8440, % of GDP","Taiwan, Trade balance, HS, 8440, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8441, % of GDP","Taiwan, Trade balance, HS, 8441, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8442, % of GDP","Taiwan, Trade balance, HS, 8442, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8443, % of GDP","Taiwan, Trade balance, HS, 8443, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8444, % of GDP","Taiwan, Trade balance, HS, 8444, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8445, % of GDP","Taiwan, Trade balance, HS, 8445, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8446, % of GDP","Taiwan, Trade balance, HS, 8446, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8447, % of GDP","Taiwan, Trade balance, HS, 8447, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8448, % of GDP","Taiwan, Trade balance, HS, 8448, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8449, % of GDP","Taiwan, Trade balance, HS, 8449, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8450, % of GDP","Taiwan, Trade balance, HS, 8450, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8451, % of GDP","Taiwan, Trade balance, HS, 8451, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8452, % of GDP","Taiwan, Trade balance, HS, 8452, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8453, % of GDP","Taiwan, Trade balance, HS, 8453, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8454, % of GDP","Taiwan, Trade balance, HS, 8454, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8455, % of GDP","Taiwan, Trade balance, HS, 8455, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8456, % of GDP","Taiwan, Trade balance, HS, 8456, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8457, % of GDP","Taiwan, Trade balance, HS, 8457, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8458, % of GDP","Taiwan, Trade balance, HS, 8458, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8459, % of GDP","Taiwan, Trade balance, HS, 8459, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8460, % of GDP","Taiwan, Trade balance, HS, 8460, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8461, % of GDP","Taiwan, Trade balance, HS, 8461, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8462, % of GDP","Taiwan, Trade balance, HS, 8462, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8463, % of GDP","Taiwan, Trade balance, HS, 8463, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8464, % of GDP","Taiwan, Trade balance, HS, 8464, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8465, % of GDP","Taiwan, Trade balance, HS, 8465, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8466, % of GDP","Taiwan, Trade balance, HS, 8466, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8467, % of GDP","Taiwan, Trade balance, HS, 8467, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8468, % of GDP","Taiwan, Trade balance, HS, 8468, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8469, % of GDP","Taiwan, Trade balance, HS, 8469, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8470, % of GDP","Taiwan, Trade balance, HS, 8470, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8471, % of GDP","Taiwan, Trade balance, HS, 8471, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8472, % of GDP","Taiwan, Trade balance, HS, 8472, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8473, % of GDP","Taiwan, Trade balance, HS, 8473, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8474, % of GDP","Taiwan, Trade balance, HS, 8474, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8475, % of GDP","Taiwan, Trade balance, HS, 8475, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8476, % of GDP","Taiwan, Trade balance, HS, 8476, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8477, % of GDP","Taiwan, Trade balance, HS, 8477, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8478, % of GDP","Taiwan, Trade balance, HS, 8478, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8479, % of GDP","Taiwan, Trade balance, HS, 8479, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8480, % of GDP","Taiwan, Trade balance, HS, 8480, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8481, % of GDP","Taiwan, Trade balance, HS, 8481, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8482, % of GDP","Taiwan, Trade balance, HS, 8482, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8483, % of GDP","Taiwan, Trade balance, HS, 8483, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8484, % of GDP","Taiwan, Trade balance, HS, 8484, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8485, % of GDP","Taiwan, Trade balance, HS, 8485, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8486, % of GDP","Taiwan, Trade balance, HS, 8486, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8487, % of GDP","Taiwan, Trade balance, HS, 8487, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8501, % of GDP","Taiwan, Trade balance, HS, 8501, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8502, % of GDP","Taiwan, Trade balance, HS, 8502, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8503, % of GDP","Taiwan, Trade balance, HS, 8503, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8504, % of GDP","Taiwan, Trade balance, HS, 8504, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8505, % of GDP","Taiwan, Trade balance, HS, 8505, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8506, % of GDP","Taiwan, Trade balance, HS, 8506, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8507, % of GDP","Taiwan, Trade balance, HS, 8507, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8508, % of GDP","Taiwan, Trade balance, HS, 8508, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8509, % of GDP","Taiwan, Trade balance, HS, 8509, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8510, % of GDP","Taiwan, Trade balance, HS, 8510, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8511, % of GDP","Taiwan, Trade balance, HS, 8511, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8512, % of GDP","Taiwan, Trade balance, HS, 8512, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8513, % of GDP","Taiwan, Trade balance, HS, 8513, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8514, % of GDP","Taiwan, Trade balance, HS, 8514, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8515, % of GDP","Taiwan, Trade balance, HS, 8515, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8516, % of GDP","Taiwan, Trade balance, HS, 8516, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8517, % of GDP","Taiwan, Trade balance, HS, 8517, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8518, % of GDP","Taiwan, Trade balance, HS, 8518, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8519, % of GDP","Taiwan, Trade balance, HS, 8519, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8521, % of GDP","Taiwan, Trade balance, HS, 8521, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8522, % of GDP","Taiwan, Trade balance, HS, 8522, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8523, % of GDP","Taiwan, Trade balance, HS, 8523, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8524, % of GDP","Taiwan, Trade balance, HS, 8524, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8525, % of GDP","Taiwan, Trade balance, HS, 8525, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8526, % of GDP","Taiwan, Trade balance, HS, 8526, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8527, % of GDP","Taiwan, Trade balance, HS, 8527, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8528, % of GDP","Taiwan, Trade balance, HS, 8528, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8529, % of GDP","Taiwan, Trade balance, HS, 8529, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8530, % of GDP","Taiwan, Trade balance, HS, 8530, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8531, % of GDP","Taiwan, Trade balance, HS, 8531, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8532, % of GDP","Taiwan, Trade balance, HS, 8532, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8533, % of GDP","Taiwan, Trade balance, HS, 8533, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8534, % of GDP","Taiwan, Trade balance, HS, 8534, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8535, % of GDP","Taiwan, Trade balance, HS, 8535, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8536, % of GDP","Taiwan, Trade balance, HS, 8536, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8537, % of GDP","Taiwan, Trade balance, HS, 8537, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8538, % of GDP","Taiwan, Trade balance, HS, 8538, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8539, % of GDP","Taiwan, Trade balance, HS, 8539, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8540, % of GDP","Taiwan, Trade balance, HS, 8540, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8541, % of GDP","Taiwan, Trade balance, HS, 8541, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8542, % of GDP","Taiwan, Trade balance, HS, 8542, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8543, % of GDP","Taiwan, Trade balance, HS, 8543, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8544, % of GDP","Taiwan, Trade balance, HS, 8544, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8545, % of GDP","Taiwan, Trade balance, HS, 8545, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8546, % of GDP","Taiwan, Trade balance, HS, 8546, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8547, % of GDP","Taiwan, Trade balance, HS, 8547, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8548, % of GDP","Taiwan, Trade balance, HS, 8548, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8549, % of GDP","Taiwan, Trade balance, HS, 8549, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542, % of GDP","Taiwan, Trade balance, HS, 8541 and 8542, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542 and 8471, % of GDP","Taiwan, Trade balance, HS, 8541 and 8542 and 8471, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542 and 847150, % of GDP","Taiwan, Trade balance, HS, 8541 and 8542 and 847150, % of GDP",None,line
 "Taiwan, Exports, Africa, % of GDP","Taiwan, Exports, Africa, % of GDP",None,line
 "Taiwan, Exports, Albania, % of GDP","Taiwan, Exports, Albania, % of GDP",None,line
 "Taiwan, Exports, Asia, % of GDP","Taiwan, Exports, Asia, % of GDP",None,line
@@ -2687,6 +3534,9 @@ name,display_name,data_type,chart_type
 "Taiwan, Trade balance, China, SA, % of GDP","Taiwan, Trade balance, China, SA, % of GDP",None,line
 "Taiwan, Trade balance, EM, SA, % of GDP","Taiwan, Trade balance, EM, SA, % of GDP",None,line
 "Taiwan, Trade balance, EU, SA, % of GDP","Taiwan, Trade balance, EU, SA, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542, SA, % of GDP","Taiwan, Trade balance, HS, 8541 and 8542, SA, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542 and 8471, SA, % of GDP","Taiwan, Trade balance, HS, 8541 and 8542 and 8471, SA, % of GDP",None,line
+"Taiwan, Trade balance, HS, 8541 and 8542 and 847150, SA, % of GDP","Taiwan, Trade balance, HS, 8541 and 8542 and 847150, SA, % of GDP",None,line
 "Taiwan, Imports, DM excl Japan, SA, % of total","Taiwan, Imports, DM excl Japan, SA, % of total",None,line
 "Taiwan, Imports, North Asia, SA, % of total","Taiwan, Imports, North Asia, SA, % of total",None,line
 "Taiwan, Imports, US, SA, % of total","Taiwan, Imports, US, SA, % of total",None,line
@@ -2755,10 +3605,13 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, SITC, 3, SA, USD bn, % MoM","Taiwan, Imports, SITC, 3, SA, USD bn, % MoM",None,line
 "Taiwan, Imports, BEC, Investment, SA, USD bn, % MoM","Taiwan, Imports, BEC, Investment, SA, USD bn, % MoM",None,line
 "Taiwan, Exports, HS, 8541 and 8542, SA, USD bn, % MoM","Taiwan, Exports, HS, 8541 and 8542, SA, USD bn, % MoM",None,line
+"Taiwan, Imports, HS, 8541 and 8542, SA, USD bn, % MoM","Taiwan, Imports, HS, 8541 and 8542, SA, USD bn, % MoM",None,line
 "Taiwan, Exports, HS, 8541 and 8542 and 8471, SA, USD bn, % MoM","Taiwan, Exports, HS, 8541 and 8542 and 8471, SA, USD bn, % MoM",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 8471, SA, USD bn, % MoM","Taiwan, Imports, HS, 8541 and 8542 and 8471, SA, USD bn, % MoM",None,line
 "Taiwan, Exports, HS, Excluding 8541 and 8542, SA, USD bn, % MoM","Taiwan, Exports, HS, Excluding 8541 and 8542, SA, USD bn, % MoM",None,line
 "Taiwan, Exports, HS, Excluding 8541 and 8542 and 8471, SA, USD bn, % MoM","Taiwan, Exports, HS, Excluding 8541 and 8542 and 8471, SA, USD bn, % MoM",None,line
-"Taiwan, Exports, HS, 8541 and 8542 and 847180, SA, USD bn, % MoM","Taiwan, Exports, HS, 8541 and 8542 and 847180, SA, USD bn, % MoM",None,line
+"Taiwan, Exports, HS, 8541 and 8542 and 847150, SA, USD bn, % MoM","Taiwan, Exports, HS, 8541 and 8542 and 847150, SA, USD bn, % MoM",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 847150, SA, USD bn, % MoM","Taiwan, Imports, HS, 8541 and 8542 and 847150, SA, USD bn, % MoM",None,line
 "Taiwan, Exports, All, SA, USD bn, % MoM","Taiwan, Exports, All, SA, USD bn, % MoM",None,line
 "Taiwan, Imports, All, SA, USD bn, % MoM","Taiwan, Imports, All, SA, USD bn, % MoM",None,line
 "Taiwan, Exports, All, SA, Calculated, USD bn, % 3m/3m","Taiwan, Exports, All, SA, Calculated, USD bn, % 3m/3m",None,line
@@ -2794,10 +3647,13 @@ name,display_name,data_type,chart_type
 "Taiwan, Imports, SITC, 3, SA, USD bn, % 3m/3m","Taiwan, Imports, SITC, 3, SA, USD bn, % 3m/3m",None,line
 "Taiwan, Imports, BEC, Investment, SA, USD bn, % 3m/3m","Taiwan, Imports, BEC, Investment, SA, USD bn, % 3m/3m",None,line
 "Taiwan, Exports, HS, 8541 and 8542, SA, USD bn, % 3m/3m","Taiwan, Exports, HS, 8541 and 8542, SA, USD bn, % 3m/3m",None,line
+"Taiwan, Imports, HS, 8541 and 8542, SA, USD bn, % 3m/3m","Taiwan, Imports, HS, 8541 and 8542, SA, USD bn, % 3m/3m",None,line
 "Taiwan, Exports, HS, 8541 and 8542 and 8471, SA, USD bn, % 3m/3m","Taiwan, Exports, HS, 8541 and 8542 and 8471, SA, USD bn, % 3m/3m",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 8471, SA, USD bn, % 3m/3m","Taiwan, Imports, HS, 8541 and 8542 and 8471, SA, USD bn, % 3m/3m",None,line
 "Taiwan, Exports, HS, Excluding 8541 and 8542, SA, USD bn, % 3m/3m","Taiwan, Exports, HS, Excluding 8541 and 8542, SA, USD bn, % 3m/3m",None,line
 "Taiwan, Exports, HS, Excluding 8541 and 8542 and 8471, SA, USD bn, % 3m/3m","Taiwan, Exports, HS, Excluding 8541 and 8542 and 8471, SA, USD bn, % 3m/3m",None,line
-"Taiwan, Exports, HS, 8541 and 8542 and 847180, SA, USD bn, % 3m/3m","Taiwan, Exports, HS, 8541 and 8542 and 847180, SA, USD bn, % 3m/3m",None,line
+"Taiwan, Exports, HS, 8541 and 8542 and 847150, SA, USD bn, % 3m/3m","Taiwan, Exports, HS, 8541 and 8542 and 847150, SA, USD bn, % 3m/3m",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 847150, SA, USD bn, % 3m/3m","Taiwan, Imports, HS, 8541 and 8542 and 847150, SA, USD bn, % 3m/3m",None,line
 "Taiwan, Exports, All, SA, USD bn, % 3m/3m","Taiwan, Exports, All, SA, USD bn, % 3m/3m",None,line
 "Taiwan, Imports, All, SA, USD bn, % 3m/3m","Taiwan, Imports, All, SA, USD bn, % 3m/3m",None,line
 "Taiwan, Exports, All, USD bn, % YoY","Taiwan, Exports, All, USD bn, % YoY",None,line
@@ -2818,8 +3674,10 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, HS, 87, USD bn, % YoY","Taiwan, Exports, HS, 87, USD bn, % YoY",None,line
 "Taiwan, Exports, HS, 88, USD bn, % YoY","Taiwan, Exports, HS, 88, USD bn, % YoY",None,line
 "Taiwan, Exports, HS, 89, USD bn, % YoY","Taiwan, Exports, HS, 89, USD bn, % YoY",None,line
+"Taiwan, Exports, HS, 847150, USD bn, % YoY","Taiwan, Exports, HS, 847150, USD bn, % YoY",None,line
 "Taiwan, Exports, HS, 847180, USD bn, % YoY","Taiwan, Exports, HS, 847180, USD bn, % YoY",None,line
 "Taiwan, Exports, HS, 848620, USD bn, % YoY","Taiwan, Exports, HS, 848620, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 847150, USD bn, % YoY","Taiwan, Imports, HS, 847150, USD bn, % YoY",None,line
 "Taiwan, Imports, HS, 847180, USD bn, % YoY","Taiwan, Imports, HS, 847180, USD bn, % YoY",None,line
 "Taiwan, Imports, HS, 848620, USD bn, % YoY","Taiwan, Imports, HS, 848620, USD bn, % YoY",None,line
 "Taiwan, Exports, HS, 8401, USD bn, % YoY","Taiwan, Exports, HS, 8401, USD bn, % YoY",None,line
@@ -2957,10 +3815,147 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, HS, 8547, USD bn, % YoY","Taiwan, Exports, HS, 8547, USD bn, % YoY",None,line
 "Taiwan, Exports, HS, 8548, USD bn, % YoY","Taiwan, Exports, HS, 8548, USD bn, % YoY",None,line
 "Taiwan, Exports, HS, 8549, USD bn, % YoY","Taiwan, Exports, HS, 8549, USD bn, % YoY",None,line
-"Taiwan, Exports, HS, Impo, USD bn, % YoY","Taiwan, Exports, HS, Impo, USD bn, % YoY",None,line
 "Taiwan, Exports, HS, 8541 and 8542, USD bn, % YoY","Taiwan, Exports, HS, 8541 and 8542, USD bn, % YoY",None,line
 "Taiwan, Exports, HS, 8541 and 8542 and 8471, USD bn, % YoY","Taiwan, Exports, HS, 8541 and 8542 and 8471, USD bn, % YoY",None,line
-"Taiwan, Exports, HS, 8541 and 8542 and 847180, USD bn, % YoY","Taiwan, Exports, HS, 8541 and 8542 and 847180, USD bn, % YoY",None,line
+"Taiwan, Exports, HS, 8541 and 8542 and 847150, USD bn, % YoY","Taiwan, Exports, HS, 8541 and 8542 and 847150, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8401, USD bn, % YoY","Taiwan, Imports, HS, 8401, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8402, USD bn, % YoY","Taiwan, Imports, HS, 8402, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8403, USD bn, % YoY","Taiwan, Imports, HS, 8403, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8404, USD bn, % YoY","Taiwan, Imports, HS, 8404, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8405, USD bn, % YoY","Taiwan, Imports, HS, 8405, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8406, USD bn, % YoY","Taiwan, Imports, HS, 8406, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8407, USD bn, % YoY","Taiwan, Imports, HS, 8407, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8408, USD bn, % YoY","Taiwan, Imports, HS, 8408, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8409, USD bn, % YoY","Taiwan, Imports, HS, 8409, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8410, USD bn, % YoY","Taiwan, Imports, HS, 8410, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8411, USD bn, % YoY","Taiwan, Imports, HS, 8411, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8412, USD bn, % YoY","Taiwan, Imports, HS, 8412, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8413, USD bn, % YoY","Taiwan, Imports, HS, 8413, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8414, USD bn, % YoY","Taiwan, Imports, HS, 8414, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8415, USD bn, % YoY","Taiwan, Imports, HS, 8415, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8416, USD bn, % YoY","Taiwan, Imports, HS, 8416, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8417, USD bn, % YoY","Taiwan, Imports, HS, 8417, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8418, USD bn, % YoY","Taiwan, Imports, HS, 8418, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8419, USD bn, % YoY","Taiwan, Imports, HS, 8419, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8420, USD bn, % YoY","Taiwan, Imports, HS, 8420, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8421, USD bn, % YoY","Taiwan, Imports, HS, 8421, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8422, USD bn, % YoY","Taiwan, Imports, HS, 8422, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8423, USD bn, % YoY","Taiwan, Imports, HS, 8423, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8424, USD bn, % YoY","Taiwan, Imports, HS, 8424, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8425, USD bn, % YoY","Taiwan, Imports, HS, 8425, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8426, USD bn, % YoY","Taiwan, Imports, HS, 8426, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8427, USD bn, % YoY","Taiwan, Imports, HS, 8427, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8428, USD bn, % YoY","Taiwan, Imports, HS, 8428, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8429, USD bn, % YoY","Taiwan, Imports, HS, 8429, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8430, USD bn, % YoY","Taiwan, Imports, HS, 8430, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8431, USD bn, % YoY","Taiwan, Imports, HS, 8431, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8432, USD bn, % YoY","Taiwan, Imports, HS, 8432, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8433, USD bn, % YoY","Taiwan, Imports, HS, 8433, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8434, USD bn, % YoY","Taiwan, Imports, HS, 8434, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8435, USD bn, % YoY","Taiwan, Imports, HS, 8435, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8436, USD bn, % YoY","Taiwan, Imports, HS, 8436, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8437, USD bn, % YoY","Taiwan, Imports, HS, 8437, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8438, USD bn, % YoY","Taiwan, Imports, HS, 8438, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8439, USD bn, % YoY","Taiwan, Imports, HS, 8439, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8440, USD bn, % YoY","Taiwan, Imports, HS, 8440, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8441, USD bn, % YoY","Taiwan, Imports, HS, 8441, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8442, USD bn, % YoY","Taiwan, Imports, HS, 8442, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8443, USD bn, % YoY","Taiwan, Imports, HS, 8443, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8444, USD bn, % YoY","Taiwan, Imports, HS, 8444, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8445, USD bn, % YoY","Taiwan, Imports, HS, 8445, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8446, USD bn, % YoY","Taiwan, Imports, HS, 8446, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8447, USD bn, % YoY","Taiwan, Imports, HS, 8447, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8448, USD bn, % YoY","Taiwan, Imports, HS, 8448, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8449, USD bn, % YoY","Taiwan, Imports, HS, 8449, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8450, USD bn, % YoY","Taiwan, Imports, HS, 8450, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8451, USD bn, % YoY","Taiwan, Imports, HS, 8451, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8452, USD bn, % YoY","Taiwan, Imports, HS, 8452, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8453, USD bn, % YoY","Taiwan, Imports, HS, 8453, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8454, USD bn, % YoY","Taiwan, Imports, HS, 8454, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8455, USD bn, % YoY","Taiwan, Imports, HS, 8455, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8456, USD bn, % YoY","Taiwan, Imports, HS, 8456, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8457, USD bn, % YoY","Taiwan, Imports, HS, 8457, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8458, USD bn, % YoY","Taiwan, Imports, HS, 8458, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8459, USD bn, % YoY","Taiwan, Imports, HS, 8459, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8460, USD bn, % YoY","Taiwan, Imports, HS, 8460, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8461, USD bn, % YoY","Taiwan, Imports, HS, 8461, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8462, USD bn, % YoY","Taiwan, Imports, HS, 8462, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8463, USD bn, % YoY","Taiwan, Imports, HS, 8463, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8464, USD bn, % YoY","Taiwan, Imports, HS, 8464, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8465, USD bn, % YoY","Taiwan, Imports, HS, 8465, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8466, USD bn, % YoY","Taiwan, Imports, HS, 8466, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8467, USD bn, % YoY","Taiwan, Imports, HS, 8467, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8468, USD bn, % YoY","Taiwan, Imports, HS, 8468, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8469, USD bn, % YoY","Taiwan, Imports, HS, 8469, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8470, USD bn, % YoY","Taiwan, Imports, HS, 8470, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8471, USD bn, % YoY","Taiwan, Imports, HS, 8471, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8472, USD bn, % YoY","Taiwan, Imports, HS, 8472, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8473, USD bn, % YoY","Taiwan, Imports, HS, 8473, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8474, USD bn, % YoY","Taiwan, Imports, HS, 8474, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8475, USD bn, % YoY","Taiwan, Imports, HS, 8475, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8476, USD bn, % YoY","Taiwan, Imports, HS, 8476, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8477, USD bn, % YoY","Taiwan, Imports, HS, 8477, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8478, USD bn, % YoY","Taiwan, Imports, HS, 8478, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8479, USD bn, % YoY","Taiwan, Imports, HS, 8479, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8480, USD bn, % YoY","Taiwan, Imports, HS, 8480, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8481, USD bn, % YoY","Taiwan, Imports, HS, 8481, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8482, USD bn, % YoY","Taiwan, Imports, HS, 8482, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8483, USD bn, % YoY","Taiwan, Imports, HS, 8483, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8484, USD bn, % YoY","Taiwan, Imports, HS, 8484, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8485, USD bn, % YoY","Taiwan, Imports, HS, 8485, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8486, USD bn, % YoY","Taiwan, Imports, HS, 8486, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8487, USD bn, % YoY","Taiwan, Imports, HS, 8487, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8501, USD bn, % YoY","Taiwan, Imports, HS, 8501, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8502, USD bn, % YoY","Taiwan, Imports, HS, 8502, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8503, USD bn, % YoY","Taiwan, Imports, HS, 8503, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8504, USD bn, % YoY","Taiwan, Imports, HS, 8504, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8505, USD bn, % YoY","Taiwan, Imports, HS, 8505, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8506, USD bn, % YoY","Taiwan, Imports, HS, 8506, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8507, USD bn, % YoY","Taiwan, Imports, HS, 8507, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8508, USD bn, % YoY","Taiwan, Imports, HS, 8508, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8509, USD bn, % YoY","Taiwan, Imports, HS, 8509, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8510, USD bn, % YoY","Taiwan, Imports, HS, 8510, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8511, USD bn, % YoY","Taiwan, Imports, HS, 8511, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8512, USD bn, % YoY","Taiwan, Imports, HS, 8512, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8513, USD bn, % YoY","Taiwan, Imports, HS, 8513, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8514, USD bn, % YoY","Taiwan, Imports, HS, 8514, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8515, USD bn, % YoY","Taiwan, Imports, HS, 8515, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8516, USD bn, % YoY","Taiwan, Imports, HS, 8516, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8517, USD bn, % YoY","Taiwan, Imports, HS, 8517, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8518, USD bn, % YoY","Taiwan, Imports, HS, 8518, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8519, USD bn, % YoY","Taiwan, Imports, HS, 8519, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8521, USD bn, % YoY","Taiwan, Imports, HS, 8521, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8522, USD bn, % YoY","Taiwan, Imports, HS, 8522, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8523, USD bn, % YoY","Taiwan, Imports, HS, 8523, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8524, USD bn, % YoY","Taiwan, Imports, HS, 8524, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8525, USD bn, % YoY","Taiwan, Imports, HS, 8525, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8526, USD bn, % YoY","Taiwan, Imports, HS, 8526, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8527, USD bn, % YoY","Taiwan, Imports, HS, 8527, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8528, USD bn, % YoY","Taiwan, Imports, HS, 8528, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8529, USD bn, % YoY","Taiwan, Imports, HS, 8529, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8530, USD bn, % YoY","Taiwan, Imports, HS, 8530, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8531, USD bn, % YoY","Taiwan, Imports, HS, 8531, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8532, USD bn, % YoY","Taiwan, Imports, HS, 8532, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8533, USD bn, % YoY","Taiwan, Imports, HS, 8533, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8534, USD bn, % YoY","Taiwan, Imports, HS, 8534, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8535, USD bn, % YoY","Taiwan, Imports, HS, 8535, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8536, USD bn, % YoY","Taiwan, Imports, HS, 8536, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8537, USD bn, % YoY","Taiwan, Imports, HS, 8537, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8538, USD bn, % YoY","Taiwan, Imports, HS, 8538, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8539, USD bn, % YoY","Taiwan, Imports, HS, 8539, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8540, USD bn, % YoY","Taiwan, Imports, HS, 8540, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8541, USD bn, % YoY","Taiwan, Imports, HS, 8541, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8542, USD bn, % YoY","Taiwan, Imports, HS, 8542, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8543, USD bn, % YoY","Taiwan, Imports, HS, 8543, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8544, USD bn, % YoY","Taiwan, Imports, HS, 8544, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8545, USD bn, % YoY","Taiwan, Imports, HS, 8545, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8546, USD bn, % YoY","Taiwan, Imports, HS, 8546, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8547, USD bn, % YoY","Taiwan, Imports, HS, 8547, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8548, USD bn, % YoY","Taiwan, Imports, HS, 8548, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8549, USD bn, % YoY","Taiwan, Imports, HS, 8549, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8541 and 8542, USD bn, % YoY","Taiwan, Imports, HS, 8541 and 8542, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 8471, USD bn, % YoY","Taiwan, Imports, HS, 8541 and 8542 and 8471, USD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 847150, USD bn, % YoY","Taiwan, Imports, HS, 8541 and 8542 and 847150, USD bn, % YoY",None,line
 "Taiwan, Exports, Africa, USD bn, % YoY","Taiwan, Exports, Africa, USD bn, % YoY",None,line
 "Taiwan, Exports, Albania, USD bn, % YoY","Taiwan, Exports, Albania, USD bn, % YoY",None,line
 "Taiwan, Exports, Asia, USD bn, % YoY","Taiwan, Exports, Asia, USD bn, % YoY",None,line
@@ -3540,8 +4535,10 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, HS, 87, TWD bn, % YoY","Taiwan, Exports, HS, 87, TWD bn, % YoY",None,line
 "Taiwan, Exports, HS, 88, TWD bn, % YoY","Taiwan, Exports, HS, 88, TWD bn, % YoY",None,line
 "Taiwan, Exports, HS, 89, TWD bn, % YoY","Taiwan, Exports, HS, 89, TWD bn, % YoY",None,line
+"Taiwan, Exports, HS, 847150, TWD bn, % YoY","Taiwan, Exports, HS, 847150, TWD bn, % YoY",None,line
 "Taiwan, Exports, HS, 847180, TWD bn, % YoY","Taiwan, Exports, HS, 847180, TWD bn, % YoY",None,line
 "Taiwan, Exports, HS, 848620, TWD bn, % YoY","Taiwan, Exports, HS, 848620, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 847150, TWD bn, % YoY","Taiwan, Imports, HS, 847150, TWD bn, % YoY",None,line
 "Taiwan, Imports, HS, 847180, TWD bn, % YoY","Taiwan, Imports, HS, 847180, TWD bn, % YoY",None,line
 "Taiwan, Imports, HS, 848620, TWD bn, % YoY","Taiwan, Imports, HS, 848620, TWD bn, % YoY",None,line
 "Taiwan, Exports, HS, 8401, TWD bn, % YoY","Taiwan, Exports, HS, 8401, TWD bn, % YoY",None,line
@@ -3679,10 +4676,147 @@ name,display_name,data_type,chart_type
 "Taiwan, Exports, HS, 8547, TWD bn, % YoY","Taiwan, Exports, HS, 8547, TWD bn, % YoY",None,line
 "Taiwan, Exports, HS, 8548, TWD bn, % YoY","Taiwan, Exports, HS, 8548, TWD bn, % YoY",None,line
 "Taiwan, Exports, HS, 8549, TWD bn, % YoY","Taiwan, Exports, HS, 8549, TWD bn, % YoY",None,line
-"Taiwan, Exports, HS, Impo, TWD bn, % YoY","Taiwan, Exports, HS, Impo, TWD bn, % YoY",None,line
 "Taiwan, Exports, HS, 8541 and 8542, TWD bn, % YoY","Taiwan, Exports, HS, 8541 and 8542, TWD bn, % YoY",None,line
 "Taiwan, Exports, HS, 8541 and 8542 and 8471, TWD bn, % YoY","Taiwan, Exports, HS, 8541 and 8542 and 8471, TWD bn, % YoY",None,line
-"Taiwan, Exports, HS, 8541 and 8542 and 847180, TWD bn, % YoY","Taiwan, Exports, HS, 8541 and 8542 and 847180, TWD bn, % YoY",None,line
+"Taiwan, Exports, HS, 8541 and 8542 and 847150, TWD bn, % YoY","Taiwan, Exports, HS, 8541 and 8542 and 847150, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8401, TWD bn, % YoY","Taiwan, Imports, HS, 8401, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8402, TWD bn, % YoY","Taiwan, Imports, HS, 8402, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8403, TWD bn, % YoY","Taiwan, Imports, HS, 8403, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8404, TWD bn, % YoY","Taiwan, Imports, HS, 8404, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8405, TWD bn, % YoY","Taiwan, Imports, HS, 8405, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8406, TWD bn, % YoY","Taiwan, Imports, HS, 8406, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8407, TWD bn, % YoY","Taiwan, Imports, HS, 8407, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8408, TWD bn, % YoY","Taiwan, Imports, HS, 8408, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8409, TWD bn, % YoY","Taiwan, Imports, HS, 8409, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8410, TWD bn, % YoY","Taiwan, Imports, HS, 8410, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8411, TWD bn, % YoY","Taiwan, Imports, HS, 8411, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8412, TWD bn, % YoY","Taiwan, Imports, HS, 8412, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8413, TWD bn, % YoY","Taiwan, Imports, HS, 8413, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8414, TWD bn, % YoY","Taiwan, Imports, HS, 8414, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8415, TWD bn, % YoY","Taiwan, Imports, HS, 8415, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8416, TWD bn, % YoY","Taiwan, Imports, HS, 8416, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8417, TWD bn, % YoY","Taiwan, Imports, HS, 8417, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8418, TWD bn, % YoY","Taiwan, Imports, HS, 8418, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8419, TWD bn, % YoY","Taiwan, Imports, HS, 8419, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8420, TWD bn, % YoY","Taiwan, Imports, HS, 8420, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8421, TWD bn, % YoY","Taiwan, Imports, HS, 8421, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8422, TWD bn, % YoY","Taiwan, Imports, HS, 8422, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8423, TWD bn, % YoY","Taiwan, Imports, HS, 8423, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8424, TWD bn, % YoY","Taiwan, Imports, HS, 8424, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8425, TWD bn, % YoY","Taiwan, Imports, HS, 8425, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8426, TWD bn, % YoY","Taiwan, Imports, HS, 8426, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8427, TWD bn, % YoY","Taiwan, Imports, HS, 8427, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8428, TWD bn, % YoY","Taiwan, Imports, HS, 8428, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8429, TWD bn, % YoY","Taiwan, Imports, HS, 8429, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8430, TWD bn, % YoY","Taiwan, Imports, HS, 8430, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8431, TWD bn, % YoY","Taiwan, Imports, HS, 8431, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8432, TWD bn, % YoY","Taiwan, Imports, HS, 8432, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8433, TWD bn, % YoY","Taiwan, Imports, HS, 8433, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8434, TWD bn, % YoY","Taiwan, Imports, HS, 8434, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8435, TWD bn, % YoY","Taiwan, Imports, HS, 8435, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8436, TWD bn, % YoY","Taiwan, Imports, HS, 8436, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8437, TWD bn, % YoY","Taiwan, Imports, HS, 8437, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8438, TWD bn, % YoY","Taiwan, Imports, HS, 8438, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8439, TWD bn, % YoY","Taiwan, Imports, HS, 8439, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8440, TWD bn, % YoY","Taiwan, Imports, HS, 8440, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8441, TWD bn, % YoY","Taiwan, Imports, HS, 8441, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8442, TWD bn, % YoY","Taiwan, Imports, HS, 8442, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8443, TWD bn, % YoY","Taiwan, Imports, HS, 8443, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8444, TWD bn, % YoY","Taiwan, Imports, HS, 8444, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8445, TWD bn, % YoY","Taiwan, Imports, HS, 8445, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8446, TWD bn, % YoY","Taiwan, Imports, HS, 8446, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8447, TWD bn, % YoY","Taiwan, Imports, HS, 8447, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8448, TWD bn, % YoY","Taiwan, Imports, HS, 8448, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8449, TWD bn, % YoY","Taiwan, Imports, HS, 8449, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8450, TWD bn, % YoY","Taiwan, Imports, HS, 8450, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8451, TWD bn, % YoY","Taiwan, Imports, HS, 8451, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8452, TWD bn, % YoY","Taiwan, Imports, HS, 8452, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8453, TWD bn, % YoY","Taiwan, Imports, HS, 8453, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8454, TWD bn, % YoY","Taiwan, Imports, HS, 8454, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8455, TWD bn, % YoY","Taiwan, Imports, HS, 8455, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8456, TWD bn, % YoY","Taiwan, Imports, HS, 8456, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8457, TWD bn, % YoY","Taiwan, Imports, HS, 8457, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8458, TWD bn, % YoY","Taiwan, Imports, HS, 8458, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8459, TWD bn, % YoY","Taiwan, Imports, HS, 8459, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8460, TWD bn, % YoY","Taiwan, Imports, HS, 8460, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8461, TWD bn, % YoY","Taiwan, Imports, HS, 8461, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8462, TWD bn, % YoY","Taiwan, Imports, HS, 8462, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8463, TWD bn, % YoY","Taiwan, Imports, HS, 8463, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8464, TWD bn, % YoY","Taiwan, Imports, HS, 8464, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8465, TWD bn, % YoY","Taiwan, Imports, HS, 8465, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8466, TWD bn, % YoY","Taiwan, Imports, HS, 8466, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8467, TWD bn, % YoY","Taiwan, Imports, HS, 8467, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8468, TWD bn, % YoY","Taiwan, Imports, HS, 8468, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8469, TWD bn, % YoY","Taiwan, Imports, HS, 8469, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8470, TWD bn, % YoY","Taiwan, Imports, HS, 8470, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8471, TWD bn, % YoY","Taiwan, Imports, HS, 8471, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8472, TWD bn, % YoY","Taiwan, Imports, HS, 8472, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8473, TWD bn, % YoY","Taiwan, Imports, HS, 8473, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8474, TWD bn, % YoY","Taiwan, Imports, HS, 8474, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8475, TWD bn, % YoY","Taiwan, Imports, HS, 8475, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8476, TWD bn, % YoY","Taiwan, Imports, HS, 8476, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8477, TWD bn, % YoY","Taiwan, Imports, HS, 8477, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8478, TWD bn, % YoY","Taiwan, Imports, HS, 8478, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8479, TWD bn, % YoY","Taiwan, Imports, HS, 8479, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8480, TWD bn, % YoY","Taiwan, Imports, HS, 8480, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8481, TWD bn, % YoY","Taiwan, Imports, HS, 8481, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8482, TWD bn, % YoY","Taiwan, Imports, HS, 8482, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8483, TWD bn, % YoY","Taiwan, Imports, HS, 8483, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8484, TWD bn, % YoY","Taiwan, Imports, HS, 8484, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8485, TWD bn, % YoY","Taiwan, Imports, HS, 8485, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8486, TWD bn, % YoY","Taiwan, Imports, HS, 8486, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8487, TWD bn, % YoY","Taiwan, Imports, HS, 8487, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8501, TWD bn, % YoY","Taiwan, Imports, HS, 8501, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8502, TWD bn, % YoY","Taiwan, Imports, HS, 8502, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8503, TWD bn, % YoY","Taiwan, Imports, HS, 8503, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8504, TWD bn, % YoY","Taiwan, Imports, HS, 8504, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8505, TWD bn, % YoY","Taiwan, Imports, HS, 8505, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8506, TWD bn, % YoY","Taiwan, Imports, HS, 8506, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8507, TWD bn, % YoY","Taiwan, Imports, HS, 8507, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8508, TWD bn, % YoY","Taiwan, Imports, HS, 8508, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8509, TWD bn, % YoY","Taiwan, Imports, HS, 8509, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8510, TWD bn, % YoY","Taiwan, Imports, HS, 8510, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8511, TWD bn, % YoY","Taiwan, Imports, HS, 8511, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8512, TWD bn, % YoY","Taiwan, Imports, HS, 8512, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8513, TWD bn, % YoY","Taiwan, Imports, HS, 8513, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8514, TWD bn, % YoY","Taiwan, Imports, HS, 8514, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8515, TWD bn, % YoY","Taiwan, Imports, HS, 8515, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8516, TWD bn, % YoY","Taiwan, Imports, HS, 8516, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8517, TWD bn, % YoY","Taiwan, Imports, HS, 8517, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8518, TWD bn, % YoY","Taiwan, Imports, HS, 8518, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8519, TWD bn, % YoY","Taiwan, Imports, HS, 8519, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8521, TWD bn, % YoY","Taiwan, Imports, HS, 8521, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8522, TWD bn, % YoY","Taiwan, Imports, HS, 8522, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8523, TWD bn, % YoY","Taiwan, Imports, HS, 8523, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8524, TWD bn, % YoY","Taiwan, Imports, HS, 8524, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8525, TWD bn, % YoY","Taiwan, Imports, HS, 8525, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8526, TWD bn, % YoY","Taiwan, Imports, HS, 8526, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8527, TWD bn, % YoY","Taiwan, Imports, HS, 8527, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8528, TWD bn, % YoY","Taiwan, Imports, HS, 8528, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8529, TWD bn, % YoY","Taiwan, Imports, HS, 8529, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8530, TWD bn, % YoY","Taiwan, Imports, HS, 8530, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8531, TWD bn, % YoY","Taiwan, Imports, HS, 8531, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8532, TWD bn, % YoY","Taiwan, Imports, HS, 8532, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8533, TWD bn, % YoY","Taiwan, Imports, HS, 8533, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8534, TWD bn, % YoY","Taiwan, Imports, HS, 8534, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8535, TWD bn, % YoY","Taiwan, Imports, HS, 8535, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8536, TWD bn, % YoY","Taiwan, Imports, HS, 8536, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8537, TWD bn, % YoY","Taiwan, Imports, HS, 8537, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8538, TWD bn, % YoY","Taiwan, Imports, HS, 8538, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8539, TWD bn, % YoY","Taiwan, Imports, HS, 8539, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8540, TWD bn, % YoY","Taiwan, Imports, HS, 8540, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8541, TWD bn, % YoY","Taiwan, Imports, HS, 8541, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8542, TWD bn, % YoY","Taiwan, Imports, HS, 8542, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8543, TWD bn, % YoY","Taiwan, Imports, HS, 8543, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8544, TWD bn, % YoY","Taiwan, Imports, HS, 8544, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8545, TWD bn, % YoY","Taiwan, Imports, HS, 8545, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8546, TWD bn, % YoY","Taiwan, Imports, HS, 8546, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8547, TWD bn, % YoY","Taiwan, Imports, HS, 8547, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8548, TWD bn, % YoY","Taiwan, Imports, HS, 8548, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8549, TWD bn, % YoY","Taiwan, Imports, HS, 8549, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8541 and 8542, TWD bn, % YoY","Taiwan, Imports, HS, 8541 and 8542, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 8471, TWD bn, % YoY","Taiwan, Imports, HS, 8541 and 8542 and 8471, TWD bn, % YoY",None,line
+"Taiwan, Imports, HS, 8541 and 8542 and 847150, TWD bn, % YoY","Taiwan, Imports, HS, 8541 and 8542 and 847150, TWD bn, % YoY",None,line
 "Taiwan, Exports, Africa, TWD bn, % YoY","Taiwan, Exports, Africa, TWD bn, % YoY",None,line
 "Taiwan, Exports, Albania, TWD bn, % YoY","Taiwan, Exports, Albania, TWD bn, % YoY",None,line
 "Taiwan, Exports, Asia, TWD bn, % YoY","Taiwan, Exports, Asia, TWD bn, % YoY",None,line

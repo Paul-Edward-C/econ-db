@@ -141,6 +141,15 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, Index","Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, Index",None,line
 "Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, Index","Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, Index",None,line
 "Korea, CPI, All items excluding food, Index","Korea, CPI, All items excluding food, Index",None,line
+"Korea, CPI, All items excluding administered, Index","Korea, CPI, All items excluding administered, Index",None,line
+"Korea, CPI, Administered prices, Index","Korea, CPI, Administered prices, Index",None,line
+"Korea, CPI, All items excluding insurance services, Index","Korea, CPI, All items excluding insurance services, Index",None,line
+"Korea, CPI, All items excluding food and energy and administered, Index","Korea, CPI, All items excluding food and energy and administered, Index",None,line
+"Korea, CPI, All items excluding food and energy and insurance services, Index","Korea, CPI, All items excluding food and energy and insurance services, Index",None,line
+"Korea, CPI, All items excluding food and energy and administered except insurance, Index","Korea, CPI, All items excluding food and energy and administered except insurance, Index",None,line
+"Korea, CPI, Services, Private services, Other excluding administered, Index","Korea, CPI, Services, Private services, Other excluding administered, Index",None,line
+"Korea, CPI, Services, Private services, Other excluding administered except insurance, Index","Korea, CPI, Services, Private services, Other excluding administered except insurance, Index",None,line
+"Korea, CPI, Services, Private services, Other excluding insurance services, Index","Korea, CPI, Services, Private services, Other excluding insurance services, Index",None,line
 "Korea, CPI, All items, % YoY","Korea, CPI, All items, % YoY",None,line
 "Korea, CPI, All items excluding food and energy, % YoY","Korea, CPI, All items excluding food and energy, % YoY",None,line
 "Korea, CPI, Food & Energy, % YoY","Korea, CPI, Food & Energy, % YoY",None,line
@@ -283,6 +292,15 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, % YoY","Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, % YoY",None,line
 "Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, % YoY","Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, % YoY",None,line
 "Korea, CPI, All items excluding food, % YoY","Korea, CPI, All items excluding food, % YoY",None,line
+"Korea, CPI, All items excluding administered, % YoY","Korea, CPI, All items excluding administered, % YoY",None,line
+"Korea, CPI, Administered prices, % YoY","Korea, CPI, Administered prices, % YoY",None,line
+"Korea, CPI, All items excluding insurance services, % YoY","Korea, CPI, All items excluding insurance services, % YoY",None,line
+"Korea, CPI, All items excluding food and energy and administered, % YoY","Korea, CPI, All items excluding food and energy and administered, % YoY",None,line
+"Korea, CPI, All items excluding food and energy and insurance services, % YoY","Korea, CPI, All items excluding food and energy and insurance services, % YoY",None,line
+"Korea, CPI, All items excluding food and energy and administered except insurance, % YoY","Korea, CPI, All items excluding food and energy and administered except insurance, % YoY",None,line
+"Korea, CPI, Services, Private services, Other excluding administered, % YoY","Korea, CPI, Services, Private services, Other excluding administered, % YoY",None,line
+"Korea, CPI, Services, Private services, Other excluding administered except insurance, % YoY","Korea, CPI, Services, Private services, Other excluding administered except insurance, % YoY",None,line
+"Korea, CPI, Services, Private services, Other excluding insurance services, % YoY","Korea, CPI, Services, Private services, Other excluding insurance services, % YoY",None,line
 "Korea, CPI, Goods, Contribution to YoY change, ppts","Korea, CPI, Goods, Contribution to YoY change, ppts",None,bar
 "Korea, CPI, Goods, Agricultural and marine products, Contribution to YoY change, ppts","Korea, CPI, Goods, Agricultural and marine products, Contribution to YoY change, ppts",None,bar
 "Korea, CPI, Goods, Industrial products, Contribution to YoY change, ppts","Korea, CPI, Goods, Industrial products, Contribution to YoY change, ppts",None,bar
@@ -314,6 +332,8 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Calculated median, % YoY","Korea, CPI, Calculated median, % YoY",None,line
 "Korea, CPI, All items, Broad trimmed mean, % YoY","Korea, CPI, All items, Broad trimmed mean, % YoY",None,line
 "Korea, CPI, All items, Narrow trimmed mean, % YoY","Korea, CPI, All items, Narrow trimmed mean, % YoY",None,line
+"Korea, CPI, Services, Private services, Other, Narrow trimmed mean, % YoY","Korea, CPI, Services, Private services, Other, Narrow trimmed mean, % YoY",None,line
+"Korea, CPI, Services, Private services, Other, Broad trimmed mean, % YoY","Korea, CPI, Services, Private services, Other, Broad trimmed mean, % YoY",None,line
 "Korea, CPI, Food and non-alcoholic beverages, Food, Bread and cereals, White rice, % YoY","Korea, CPI, Food and non-alcoholic beverages, Food, Bread and cereals, White rice, % YoY",None,line
 "Korea, CPI, Food and non-alcoholic beverages, Food, Bread and cereals, Brown rice, % YoY","Korea, CPI, Food and non-alcoholic beverages, Food, Bread and cereals, Brown rice, % YoY",None,line
 "Korea, CPI, Food and non-alcoholic beverages, Food, Bread and cereals, Glutinous rice, % YoY","Korea, CPI, Food and non-alcoholic beverages, Food, Bread and cereals, Glutinous rice, % YoY",None,line
@@ -1281,7 +1301,6 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Private services, Housing including maintenance, Index","Korea, CPI, Private services, Housing including maintenance, Index",None,line
 "Korea, CPI, Private services, Transport and communication, Index","Korea, CPI, Private services, Transport and communication, Index",None,line
 "Korea, CPI, Private services, Entertainment, Index","Korea, CPI, Private services, Entertainment, Index",None,line
-"Korea, CPI, Services, Private services, Other, Trimmed mean 20%, % YoY","Korea, CPI, Services, Private services, Other, Trimmed mean 20%, % YoY",None,line
 "Korea, CPI, Core excluding mobile phone charges, Index","Korea, CPI, Core excluding mobile phone charges, Index",None,line
 "Korea, CPI, Core excluding mobile phone charges, % YoY","Korea, CPI, Core excluding mobile phone charges, % YoY",None,line
 "Korea, CPI, Services, Public services, Mobile phone charges, % YoY","Korea, CPI, Services, Public services, Mobile phone charges, % YoY",None,line
@@ -1528,6 +1547,15 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, Index, 3mma","Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, Index, 3mma",None,line
 "Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, Index, 3mma","Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, Index, 3mma",None,line
 "Korea, CPI, All items excluding food, Index, 3mma","Korea, CPI, All items excluding food, Index, 3mma",None,line
+"Korea, CPI, All items excluding administered, Index, 3mma","Korea, CPI, All items excluding administered, Index, 3mma",None,line
+"Korea, CPI, Administered prices, Index, 3mma","Korea, CPI, Administered prices, Index, 3mma",None,line
+"Korea, CPI, All items excluding insurance services, Index, 3mma","Korea, CPI, All items excluding insurance services, Index, 3mma",None,line
+"Korea, CPI, All items excluding food and energy and administered, Index, 3mma","Korea, CPI, All items excluding food and energy and administered, Index, 3mma",None,line
+"Korea, CPI, All items excluding food and energy and insurance services, Index, 3mma","Korea, CPI, All items excluding food and energy and insurance services, Index, 3mma",None,line
+"Korea, CPI, All items excluding food and energy and administered except insurance, Index, 3mma","Korea, CPI, All items excluding food and energy and administered except insurance, Index, 3mma",None,line
+"Korea, CPI, Services, Private services, Other excluding administered, Index, 3mma","Korea, CPI, Services, Private services, Other excluding administered, Index, 3mma",None,line
+"Korea, CPI, Services, Private services, Other excluding administered except insurance, Index, 3mma","Korea, CPI, Services, Private services, Other excluding administered except insurance, Index, 3mma",None,line
+"Korea, CPI, Services, Private services, Other excluding insurance services, Index, 3mma","Korea, CPI, Services, Private services, Other excluding insurance services, Index, 3mma",None,line
 "Korea, CPI, All items, % YoY, 3mma","Korea, CPI, All items, % YoY, 3mma",None,line
 "Korea, CPI, All items excluding food and energy, % YoY, 3mma","Korea, CPI, All items excluding food and energy, % YoY, 3mma",None,line
 "Korea, CPI, Food & Energy, % YoY, 3mma","Korea, CPI, Food & Energy, % YoY, 3mma",None,line
@@ -1670,6 +1698,15 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, % YoY, 3mma","Korea, CPI, Miscellaneous goods and services, Personal care, Electric appliances & other appliances, articles and products  for personal care, % YoY, 3mma",None,line
 "Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, % YoY, 3mma","Korea, CPI, Miscellaneous goods and services, ~7 Other services, Other services, % YoY, 3mma",None,line
 "Korea, CPI, All items excluding food, % YoY, 3mma","Korea, CPI, All items excluding food, % YoY, 3mma",None,line
+"Korea, CPI, All items excluding administered, % YoY, 3mma","Korea, CPI, All items excluding administered, % YoY, 3mma",None,line
+"Korea, CPI, Administered prices, % YoY, 3mma","Korea, CPI, Administered prices, % YoY, 3mma",None,line
+"Korea, CPI, All items excluding insurance services, % YoY, 3mma","Korea, CPI, All items excluding insurance services, % YoY, 3mma",None,line
+"Korea, CPI, All items excluding food and energy and administered, % YoY, 3mma","Korea, CPI, All items excluding food and energy and administered, % YoY, 3mma",None,line
+"Korea, CPI, All items excluding food and energy and insurance services, % YoY, 3mma","Korea, CPI, All items excluding food and energy and insurance services, % YoY, 3mma",None,line
+"Korea, CPI, All items excluding food and energy and administered except insurance, % YoY, 3mma","Korea, CPI, All items excluding food and energy and administered except insurance, % YoY, 3mma",None,line
+"Korea, CPI, Services, Private services, Other excluding administered, % YoY, 3mma","Korea, CPI, Services, Private services, Other excluding administered, % YoY, 3mma",None,line
+"Korea, CPI, Services, Private services, Other excluding administered except insurance, % YoY, 3mma","Korea, CPI, Services, Private services, Other excluding administered except insurance, % YoY, 3mma",None,line
+"Korea, CPI, Services, Private services, Other excluding insurance services, % YoY, 3mma","Korea, CPI, Services, Private services, Other excluding insurance services, % YoY, 3mma",None,line
 "Korea, CPI, Goods, Contribution to YoY change, ppts, 3mma","Korea, CPI, Goods, Contribution to YoY change, ppts, 3mma",None,bar
 "Korea, CPI, Goods, Agricultural and marine products, Contribution to YoY change, ppts, 3mma","Korea, CPI, Goods, Agricultural and marine products, Contribution to YoY change, ppts, 3mma",None,bar
 "Korea, CPI, Goods, Industrial products, Contribution to YoY change, ppts, 3mma","Korea, CPI, Goods, Industrial products, Contribution to YoY change, ppts, 3mma",None,bar
@@ -1701,6 +1738,8 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Calculated median, % YoY, 3mma","Korea, CPI, Calculated median, % YoY, 3mma",None,line
 "Korea, CPI, All items, Broad trimmed mean, % YoY, 3mma","Korea, CPI, All items, Broad trimmed mean, % YoY, 3mma",None,line
 "Korea, CPI, All items, Narrow trimmed mean, % YoY, 3mma","Korea, CPI, All items, Narrow trimmed mean, % YoY, 3mma",None,line
+"Korea, CPI, Services, Private services, Other, Narrow trimmed mean, % YoY, 3mma","Korea, CPI, Services, Private services, Other, Narrow trimmed mean, % YoY, 3mma",None,line
+"Korea, CPI, Services, Private services, Other, Broad trimmed mean, % YoY, 3mma","Korea, CPI, Services, Private services, Other, Broad trimmed mean, % YoY, 3mma",None,line
 "Korea, CPI, Food and non-alcoholic beverages, Food, Bread and cereals, White rice, % YoY, 3mma","Korea, CPI, Food and non-alcoholic beverages, Food, Bread and cereals, White rice, % YoY, 3mma",None,line
 "Korea, CPI, Food and non-alcoholic beverages, Food, Bread and cereals, Brown rice, % YoY, 3mma","Korea, CPI, Food and non-alcoholic beverages, Food, Bread and cereals, Brown rice, % YoY, 3mma",None,line
 "Korea, CPI, Food and non-alcoholic beverages, Food, Bread and cereals, Glutinous rice, % YoY, 3mma","Korea, CPI, Food and non-alcoholic beverages, Food, Bread and cereals, Glutinous rice, % YoY, 3mma",None,line
@@ -2668,7 +2707,6 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Private services, Housing including maintenance, Index, 3mma","Korea, CPI, Private services, Housing including maintenance, Index, 3mma",None,line
 "Korea, CPI, Private services, Transport and communication, Index, 3mma","Korea, CPI, Private services, Transport and communication, Index, 3mma",None,line
 "Korea, CPI, Private services, Entertainment, Index, 3mma","Korea, CPI, Private services, Entertainment, Index, 3mma",None,line
-"Korea, CPI, Services, Private services, Other, Trimmed mean 20%, % YoY, 3mma","Korea, CPI, Services, Private services, Other, Trimmed mean 20%, % YoY, 3mma",None,line
 "Korea, CPI, Core excluding mobile phone charges, Index, 3mma","Korea, CPI, Core excluding mobile phone charges, Index, 3mma",None,line
 "Korea, CPI, Core excluding mobile phone charges, % YoY, 3mma","Korea, CPI, Core excluding mobile phone charges, % YoY, 3mma",None,line
 "Korea, CPI, Services, Public services, Mobile phone charges, % YoY, 3mma","Korea, CPI, Services, Public services, Mobile phone charges, % YoY, 3mma",None,line
@@ -3235,20 +3273,6 @@ name,display_name,data_type,chart_type
 "Korea, CPI, All items, % YoY, momentum, 3mma","Korea, CPI, All items, % YoY, momentum, 3mma",None,line
 "Korea, CPI, Model, CPI momentum","Korea, CPI, Model, CPI momentum",None,line
 "Korea, CPI, Model, based on BSI prices, % YoY, 3mma","Korea, CPI, Model, based on BSI prices, % YoY, 3mma",None,line
-"Korea, CPI, All items excluding administered, % YoY","Korea, CPI, All items excluding administered, % YoY",None,line
-"Korea, CPI, Administered prices, % YoY","Korea, CPI, Administered prices, % YoY",None,line
-"Korea, CPI, Services, Private services, Other excluding administered, % YoY","Korea, CPI, Services, Private services, Other excluding administered, % YoY",None,line
-"Korea, CPI, Services, Private services, Other, Administered, Contribution to YoY change, ppts","Korea, CPI, Services, Private services, Other, Administered, Contribution to YoY change, ppts",None,bar
-"Korea, CPI, Services, Private services, Other excluding administered except insurance, % YoY","Korea, CPI, Services, Private services, Other excluding administered except insurance, % YoY",None,line
-"Korea, CPI, Services, Private services, Other excluding administered except insurance, % YoY, 3mma","Korea, CPI, Services, Private services, Other excluding administered except insurance, % YoY, 3mma",None,line
-"Korea, CPI, Services, Private services, Other, Dental prostheses, Contribution to YoY change, ppts","Korea, CPI, Services, Private services, Other, Dental prostheses, Contribution to YoY change, ppts",None,bar
-"Korea, CPI, Services, Private services, Other, Medical examination, Contribution to YoY change, ppts","Korea, CPI, Services, Private services, Other, Medical examination, Contribution to YoY change, ppts",None,bar
-"Korea, CPI, Services, Private services, Other, School boarding fees, Contribution to YoY change, ppts","Korea, CPI, Services, Private services, Other, School boarding fees, Contribution to YoY change, ppts",None,bar
-"Korea, CPI, Services, Private services, Other, Insurance services, Contribution to YoY change, ppts","Korea, CPI, Services, Private services, Other, Insurance services, Contribution to YoY change, ppts",None,bar
-"Korea, CPI, Services, Private services, Other, Non-administered, Contribution to YoY change, ppts","Korea, CPI, Services, Private services, Other, Non-administered, Contribution to YoY change, ppts",None,bar
-"Korea, CPI, Services excluding administered, % YoY","Korea, CPI, Services excluding administered, % YoY",None,line
-"Korea, CPI, All items excluding food and energy and administered, Index","Korea, CPI, All items excluding food and energy and administered, Index",None,line
-"Korea, CPI, All items excluding food and energy and administered, % YoY","Korea, CPI, All items excluding food and energy and administered, % YoY",None,line
 "Korea, CPI, Administered prices, Rolling beta (60m)","Korea, CPI, Administered prices, Rolling beta (60m)",None,line
 "Korea, CPI, Administered prices, Rolling R2 (60m)","Korea, CPI, Administered prices, Rolling R2 (60m)",None,line
 "Korea, CPI, Services, Private services, Other excluding administered impact, % YoY","Korea, CPI, Services, Private services, Other excluding administered impact, % YoY",None,line
