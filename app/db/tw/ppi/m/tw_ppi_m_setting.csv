@@ -1,33 +1,61 @@
 name,display_name,data_type,chart_type
-"Taiwan, WPI, All items","Taiwan, WPI, All items",None,line
-"Taiwan, WPI, Agriculture, Forestry, Fishing and animal husbandry products","Taiwan, WPI, Agriculture, Forestry, Fishing and animal husbandry products",None,line
-"Taiwan, WPI, Quarrying and mining products","Taiwan, WPI, Quarrying and mining products",None,line
-"Taiwan, WPI, Manufacturing products","Taiwan, WPI, Manufacturing products",None,line
-"Taiwan, WPI, Electronic parts and components","Taiwan, WPI, Electronic parts and components",None,line
-"Taiwan, WPI, (semi-conductors","Taiwan, WPI, (semi-conductors",None,line
-"Taiwan, WPI, Computers, Electronic and optical products","Taiwan, WPI, Computers, Electronic and optical products",None,line
-"Taiwan, WPI, Water, Electricity & gas supply","Taiwan, WPI, Water, Electricity & gas supply",None,line
-"Taiwan, WPI, All items, % YoY","Taiwan, WPI, All items, % YoY",None,line
-"Taiwan, WPI, Agriculture, Forestry, Fishing and animal husbandry products, % YoY","Taiwan, WPI, Agriculture, Forestry, Fishing and animal husbandry products, % YoY",None,line
-"Taiwan, WPI, Quarrying and mining products, % YoY","Taiwan, WPI, Quarrying and mining products, % YoY",None,line
-"Taiwan, WPI, Manufacturing products, % YoY","Taiwan, WPI, Manufacturing products, % YoY",None,line
-"Taiwan, WPI, Electronic parts and components, % YoY","Taiwan, WPI, Electronic parts and components, % YoY",None,line
-"Taiwan, WPI, (semi-conductors, % YoY","Taiwan, WPI, (semi-conductors, % YoY",None,line
-"Taiwan, WPI, Computers, Electronic and optical products, % YoY","Taiwan, WPI, Computers, Electronic and optical products, % YoY",None,line
-"Taiwan, WPI, Water, Electricity & gas supply, % YoY","Taiwan, WPI, Water, Electricity & gas supply, % YoY",None,line
-"Taiwan, WPI, All items, 3mma","Taiwan, WPI, All items, 3mma",None,line
-"Taiwan, WPI, Agriculture, Forestry, Fishing and animal husbandry products, 3mma","Taiwan, WPI, Agriculture, Forestry, Fishing and animal husbandry products, 3mma",None,line
-"Taiwan, WPI, Quarrying and mining products, 3mma","Taiwan, WPI, Quarrying and mining products, 3mma",None,line
-"Taiwan, WPI, Manufacturing products, 3mma","Taiwan, WPI, Manufacturing products, 3mma",None,line
-"Taiwan, WPI, Electronic parts and components, 3mma","Taiwan, WPI, Electronic parts and components, 3mma",None,line
-"Taiwan, WPI, (semi-conductors, 3mma","Taiwan, WPI, (semi-conductors, 3mma",None,line
-"Taiwan, WPI, Computers, Electronic and optical products, 3mma","Taiwan, WPI, Computers, Electronic and optical products, 3mma",None,line
-"Taiwan, WPI, Water, Electricity & gas supply, 3mma","Taiwan, WPI, Water, Electricity & gas supply, 3mma",None,line
-"Taiwan, WPI, All items, % YoY, 3mma","Taiwan, WPI, All items, % YoY, 3mma",None,line
-"Taiwan, WPI, Agriculture, Forestry, Fishing and animal husbandry products, % YoY, 3mma","Taiwan, WPI, Agriculture, Forestry, Fishing and animal husbandry products, % YoY, 3mma",None,line
-"Taiwan, WPI, Quarrying and mining products, % YoY, 3mma","Taiwan, WPI, Quarrying and mining products, % YoY, 3mma",None,line
-"Taiwan, WPI, Manufacturing products, % YoY, 3mma","Taiwan, WPI, Manufacturing products, % YoY, 3mma",None,line
-"Taiwan, WPI, Electronic parts and components, % YoY, 3mma","Taiwan, WPI, Electronic parts and components, % YoY, 3mma",None,line
-"Taiwan, WPI, (semi-conductors, % YoY, 3mma","Taiwan, WPI, (semi-conductors, % YoY, 3mma",None,line
-"Taiwan, WPI, Computers, Electronic and optical products, % YoY, 3mma","Taiwan, WPI, Computers, Electronic and optical products, % YoY, 3mma",None,line
-"Taiwan, WPI, Water, Electricity & gas supply, % YoY, 3mma","Taiwan, WPI, Water, Electricity & gas supply, % YoY, 3mma",None,line
+"Taiwan, PPI, Goods, All items","Taiwan, PPI, Goods, All items",None,line
+"Taiwan, PPI, Goods, Agriculture, Forestry, Fishing and animal husbandry products","Taiwan, PPI, Goods, Agriculture, Forestry, Fishing and animal husbandry products",None,line
+"Taiwan, PPI, Goods, Quarrying and mining products","Taiwan, PPI, Goods, Quarrying and mining products",None,line
+"Taiwan, PPI, Goods, Manufacturing products","Taiwan, PPI, Goods, Manufacturing products",None,line
+"Taiwan, PPI, Goods, Electronic parts and components","Taiwan, PPI, Goods, Electronic parts and components",None,line
+"Taiwan, PPI, Goods, (semi-conductors","Taiwan, PPI, Goods, (semi-conductors",None,line
+"Taiwan, PPI, Goods, Computers, Electronic and optical products","Taiwan, PPI, Goods, Computers, Electronic and optical products",None,line
+"Taiwan, PPI, Goods, Water, Electricity & gas supply","Taiwan, PPI, Goods, Water, Electricity & gas supply",None,line
+"Taiwan, PPI, Services, Warehousing and storage","Taiwan, PPI, Services, Warehousing and storage",None,line
+"Taiwan, PPI, Services, Postal and courier","Taiwan, PPI, Services, Postal and courier",None,line
+"Taiwan, PPI, Services, Accomodation","Taiwan, PPI, Services, Accomodation",None,line
+"Taiwan, PPI, Services, Food and beverage","Taiwan, PPI, Services, Food and beverage",None,line
+"Taiwan, PPI, Services, Banking","Taiwan, PPI, Services, Banking",None,line
+"Taiwan, PPI, Services, Insurance","Taiwan, PPI, Services, Insurance",None,line
+"Taiwan, PPI, Services, Securities","Taiwan, PPI, Services, Securities",None,line
+"Taiwan, PPI, Goods, All items, % YoY","Taiwan, PPI, Goods, All items, % YoY",None,line
+"Taiwan, PPI, Goods, Agriculture, Forestry, Fishing and animal husbandry products, % YoY","Taiwan, PPI, Goods, Agriculture, Forestry, Fishing and animal husbandry products, % YoY",None,line
+"Taiwan, PPI, Goods, Quarrying and mining products, % YoY","Taiwan, PPI, Goods, Quarrying and mining products, % YoY",None,line
+"Taiwan, PPI, Goods, Manufacturing products, % YoY","Taiwan, PPI, Goods, Manufacturing products, % YoY",None,line
+"Taiwan, PPI, Goods, Electronic parts and components, % YoY","Taiwan, PPI, Goods, Electronic parts and components, % YoY",None,line
+"Taiwan, PPI, Goods, (semi-conductors, % YoY","Taiwan, PPI, Goods, (semi-conductors, % YoY",None,line
+"Taiwan, PPI, Goods, Computers, Electronic and optical products, % YoY","Taiwan, PPI, Goods, Computers, Electronic and optical products, % YoY",None,line
+"Taiwan, PPI, Goods, Water, Electricity & gas supply, % YoY","Taiwan, PPI, Goods, Water, Electricity & gas supply, % YoY",None,line
+"Taiwan, PPI, Services, Warehousing and storage, % YoY","Taiwan, PPI, Services, Warehousing and storage, % YoY",None,line
+"Taiwan, PPI, Services, Postal and courier, % YoY","Taiwan, PPI, Services, Postal and courier, % YoY",None,line
+"Taiwan, PPI, Services, Accomodation, % YoY","Taiwan, PPI, Services, Accomodation, % YoY",None,line
+"Taiwan, PPI, Services, Food and beverage, % YoY","Taiwan, PPI, Services, Food and beverage, % YoY",None,line
+"Taiwan, PPI, Services, Banking, % YoY","Taiwan, PPI, Services, Banking, % YoY",None,line
+"Taiwan, PPI, Services, Insurance, % YoY","Taiwan, PPI, Services, Insurance, % YoY",None,line
+"Taiwan, PPI, Services, Securities, % YoY","Taiwan, PPI, Services, Securities, % YoY",None,line
+"Taiwan, PPI, Goods, All items, 3mma","Taiwan, PPI, Goods, All items, 3mma",None,line
+"Taiwan, PPI, Goods, Agriculture, Forestry, Fishing and animal husbandry products, 3mma","Taiwan, PPI, Goods, Agriculture, Forestry, Fishing and animal husbandry products, 3mma",None,line
+"Taiwan, PPI, Goods, Quarrying and mining products, 3mma","Taiwan, PPI, Goods, Quarrying and mining products, 3mma",None,line
+"Taiwan, PPI, Goods, Manufacturing products, 3mma","Taiwan, PPI, Goods, Manufacturing products, 3mma",None,line
+"Taiwan, PPI, Goods, Electronic parts and components, 3mma","Taiwan, PPI, Goods, Electronic parts and components, 3mma",None,line
+"Taiwan, PPI, Goods, (semi-conductors, 3mma","Taiwan, PPI, Goods, (semi-conductors, 3mma",None,line
+"Taiwan, PPI, Goods, Computers, Electronic and optical products, 3mma","Taiwan, PPI, Goods, Computers, Electronic and optical products, 3mma",None,line
+"Taiwan, PPI, Goods, Water, Electricity & gas supply, 3mma","Taiwan, PPI, Goods, Water, Electricity & gas supply, 3mma",None,line
+"Taiwan, PPI, Services, Warehousing and storage, 3mma","Taiwan, PPI, Services, Warehousing and storage, 3mma",None,line
+"Taiwan, PPI, Services, Postal and courier, 3mma","Taiwan, PPI, Services, Postal and courier, 3mma",None,line
+"Taiwan, PPI, Services, Accomodation, 3mma","Taiwan, PPI, Services, Accomodation, 3mma",None,line
+"Taiwan, PPI, Services, Food and beverage, 3mma","Taiwan, PPI, Services, Food and beverage, 3mma",None,line
+"Taiwan, PPI, Services, Banking, 3mma","Taiwan, PPI, Services, Banking, 3mma",None,line
+"Taiwan, PPI, Services, Insurance, 3mma","Taiwan, PPI, Services, Insurance, 3mma",None,line
+"Taiwan, PPI, Services, Securities, 3mma","Taiwan, PPI, Services, Securities, 3mma",None,line
+"Taiwan, PPI, Goods, All items, % YoY, 3mma","Taiwan, PPI, Goods, All items, % YoY, 3mma",None,line
+"Taiwan, PPI, Goods, Agriculture, Forestry, Fishing and animal husbandry products, % YoY, 3mma","Taiwan, PPI, Goods, Agriculture, Forestry, Fishing and animal husbandry products, % YoY, 3mma",None,line
+"Taiwan, PPI, Goods, Quarrying and mining products, % YoY, 3mma","Taiwan, PPI, Goods, Quarrying and mining products, % YoY, 3mma",None,line
+"Taiwan, PPI, Goods, Manufacturing products, % YoY, 3mma","Taiwan, PPI, Goods, Manufacturing products, % YoY, 3mma",None,line
+"Taiwan, PPI, Goods, Electronic parts and components, % YoY, 3mma","Taiwan, PPI, Goods, Electronic parts and components, % YoY, 3mma",None,line
+"Taiwan, PPI, Goods, (semi-conductors, % YoY, 3mma","Taiwan, PPI, Goods, (semi-conductors, % YoY, 3mma",None,line
+"Taiwan, PPI, Goods, Computers, Electronic and optical products, % YoY, 3mma","Taiwan, PPI, Goods, Computers, Electronic and optical products, % YoY, 3mma",None,line
+"Taiwan, PPI, Goods, Water, Electricity & gas supply, % YoY, 3mma","Taiwan, PPI, Goods, Water, Electricity & gas supply, % YoY, 3mma",None,line
+"Taiwan, PPI, Services, Warehousing and storage, % YoY, 3mma","Taiwan, PPI, Services, Warehousing and storage, % YoY, 3mma",None,line
+"Taiwan, PPI, Services, Postal and courier, % YoY, 3mma","Taiwan, PPI, Services, Postal and courier, % YoY, 3mma",None,line
+"Taiwan, PPI, Services, Accomodation, % YoY, 3mma","Taiwan, PPI, Services, Accomodation, % YoY, 3mma",None,line
+"Taiwan, PPI, Services, Food and beverage, % YoY, 3mma","Taiwan, PPI, Services, Food and beverage, % YoY, 3mma",None,line
+"Taiwan, PPI, Services, Banking, % YoY, 3mma","Taiwan, PPI, Services, Banking, % YoY, 3mma",None,line
+"Taiwan, PPI, Services, Insurance, % YoY, 3mma","Taiwan, PPI, Services, Insurance, % YoY, 3mma",None,line
+"Taiwan, PPI, Services, Securities, % YoY, 3mma","Taiwan, PPI, Services, Securities, % YoY, 3mma",None,line

@@ -157,35 +157,33 @@ name,display_name,data_type,chart_type
 "Taiwan, CPI, Services, % YoY, 36mma","Taiwan, CPI, Services, % YoY, 36mma",None,line
 "Taiwan, CPI, All items, % YoY, YoY chg","Taiwan, CPI, All items, % YoY, YoY chg",None,line
 "Taiwan, CPI, All items excluding food and energy, % YoY, YoY chg","Taiwan, CPI, All items excluding food and energy, % YoY, YoY chg",None,line
-"Taiwan, CPI, All items excluding food and energy, SA","Taiwan, CPI, All items excluding food and energy, SA",None,line
 "Taiwan, CPI, Entertainment Expenses, SA","Taiwan, CPI, Entertainment Expenses, SA",None,line
 "Taiwan, CPI, Services, Entertainment, SA","Taiwan, CPI, Services, Entertainment, SA",None,line
 "Taiwan, CPI, Services, Excluding food away from home, SA","Taiwan, CPI, Services, Excluding food away from home, SA",None,line
 "Taiwan, CPI, Food, SA","Taiwan, CPI, Food, SA",None,line
 "Taiwan, CPI, Goods, SA","Taiwan, CPI, Goods, SA",None,line
 "Taiwan, CPI, All items, SA","Taiwan, CPI, All items, SA",None,line
-"Taiwan, CPI, Imports, Price, TWD, SA","Taiwan, CPI, Imports, Price, TWD, SA",None,line
-"Taiwan, CPI, Imports, Price, USD, SA","Taiwan, CPI, Imports, Price, USD, SA",None,line
-"Taiwan, CPI, Exports, Price, TWD, SA","Taiwan, CPI, Exports, Price, TWD, SA",None,line
-"Taiwan, CPI, Exports, Price, USD, SA","Taiwan, CPI, Exports, Price, USD, SA",None,line
-"Taiwan, CPI, All items excluding food and energy, SA, % MoM annualised","Taiwan, CPI, All items excluding food and energy, SA, % MoM annualised",None,line
+"Taiwan, CPI, All items excluding food and energy, SA","Taiwan, CPI, All items excluding food and energy, SA",None,line
 "Taiwan, CPI, Entertainment Expenses, SA, % MoM annualised","Taiwan, CPI, Entertainment Expenses, SA, % MoM annualised",None,line
 "Taiwan, CPI, Services, Entertainment, SA, % MoM annualised","Taiwan, CPI, Services, Entertainment, SA, % MoM annualised",None,line
 "Taiwan, CPI, Services, Excluding food away from home, SA, % MoM annualised","Taiwan, CPI, Services, Excluding food away from home, SA, % MoM annualised",None,line
 "Taiwan, CPI, Food, SA, % MoM annualised","Taiwan, CPI, Food, SA, % MoM annualised",None,line
 "Taiwan, CPI, Goods, SA, % MoM annualised","Taiwan, CPI, Goods, SA, % MoM annualised",None,line
 "Taiwan, CPI, All items, SA, % MoM annualised","Taiwan, CPI, All items, SA, % MoM annualised",None,line
-"Taiwan, CPI, Imports, Price, TWD, SA, % MoM annualised","Taiwan, CPI, Imports, Price, TWD, SA, % MoM annualised",None,line
-"Taiwan, CPI, Imports, Price, USD, SA, % MoM annualised","Taiwan, CPI, Imports, Price, USD, SA, % MoM annualised",None,line
-"Taiwan, CPI, Exports, Price, TWD, SA, % MoM annualised","Taiwan, CPI, Exports, Price, TWD, SA, % MoM annualised",None,line
-"Taiwan, CPI, Exports, Price, USD, SA, % MoM annualised","Taiwan, CPI, Exports, Price, USD, SA, % MoM annualised",None,line
+"Taiwan, CPI, All items excluding food and energy, SA, % MoM annualised","Taiwan, CPI, All items excluding food and energy, SA, % MoM annualised",None,line
 "Taiwan, CPI, Services, % YoY, Contribution to % YoY chg, ppts","Taiwan, CPI, Services, % YoY, Contribution to % YoY chg, ppts",None,bar
 "Taiwan, CPI, Services, Entertainment, % YoY, Contribution to % YoY chg, ppts","Taiwan, CPI, Services, Entertainment, % YoY, Contribution to % YoY chg, ppts",None,bar
 "Taiwan, CPI, Services, Excl recreation services, Contribution to % YoY chg, ppts","Taiwan, CPI, Services, Excl recreation services, Contribution to % YoY chg, ppts",None,bar
 "Taiwan, CPI, Goods, Contribution to % YoY chg, ppts","Taiwan, CPI, Goods, Contribution to % YoY chg, ppts",None,bar
 "Taiwan, CPI, All items, Ten pc Trimmed mean, % YoY","Taiwan, CPI, All items, Ten pc Trimmed mean, % YoY",None,line
 "Taiwan, CPI, All items, Twenty pc Trimmed mean, % YoY","Taiwan, CPI, All items, Twenty pc Trimmed mean, % YoY",None,line
-"Taiwan, CPI, All items excluding food and energy, SA, % MoM annualised, Jan-Feb average","Taiwan, CPI, All items excluding food and energy, SA, % MoM annualised, Jan-Feb average",None,line
+"Taiwan, CPI, Electricity subsidy, Contribution to % YoY, ppts","Taiwan, CPI, Electricity subsidy, Contribution to % YoY, ppts",None,bar
+"Taiwan, CPI, Fuel subsidy, Contribution to % YoY, ppts","Taiwan, CPI, Fuel subsidy, Contribution to % YoY, ppts",None,bar
+"Taiwan, CPI, LPG subsidy, Contribution to % YoY, ppts","Taiwan, CPI, LPG subsidy, Contribution to % YoY, ppts",None,bar
+"Taiwan, CPI, Piped gas subsidy, Contribution to % YoY, ppts","Taiwan, CPI, Piped gas subsidy, Contribution to % YoY, ppts",None,bar
+"Taiwan, CPI, Total energy subsidy, Contribution to % YoY, ppts","Taiwan, CPI, Total energy subsidy, Contribution to % YoY, ppts",None,bar
+"Taiwan, CPI, All items excl energy subsidies, % YoY","Taiwan, CPI, All items excl energy subsidies, % YoY",None,line
+"Taiwan, CPI, All items, SA, Jan-Feb average","Taiwan, CPI, All items, SA, Jan-Feb average",None,line
 "Taiwan, CPI, All items, 3mma","Taiwan, CPI, All items, 3mma",None,line
 "Taiwan, CPI, Food, 3mma","Taiwan, CPI, Food, 3mma",None,line
 "Taiwan, CPI, Cereals & Cereal Products, 3mma","Taiwan, CPI, Cereals & Cereal Products, 3mma",None,line
@@ -344,32 +342,30 @@ name,display_name,data_type,chart_type
 "Taiwan, CPI, Services, % YoY, 36mma, 3mma","Taiwan, CPI, Services, % YoY, 36mma, 3mma",None,line
 "Taiwan, CPI, All items, % YoY, YoY chg, 3mma","Taiwan, CPI, All items, % YoY, YoY chg, 3mma",None,line
 "Taiwan, CPI, All items excluding food and energy, % YoY, YoY chg, 3mma","Taiwan, CPI, All items excluding food and energy, % YoY, YoY chg, 3mma",None,line
-"Taiwan, CPI, All items excluding food and energy, SA, 3mma","Taiwan, CPI, All items excluding food and energy, SA, 3mma",None,line
 "Taiwan, CPI, Entertainment Expenses, SA, 3mma","Taiwan, CPI, Entertainment Expenses, SA, 3mma",None,line
 "Taiwan, CPI, Services, Entertainment, SA, 3mma","Taiwan, CPI, Services, Entertainment, SA, 3mma",None,line
 "Taiwan, CPI, Services, Excluding food away from home, SA, 3mma","Taiwan, CPI, Services, Excluding food away from home, SA, 3mma",None,line
 "Taiwan, CPI, Food, SA, 3mma","Taiwan, CPI, Food, SA, 3mma",None,line
 "Taiwan, CPI, Goods, SA, 3mma","Taiwan, CPI, Goods, SA, 3mma",None,line
 "Taiwan, CPI, All items, SA, 3mma","Taiwan, CPI, All items, SA, 3mma",None,line
-"Taiwan, CPI, Imports, Price, TWD, SA, 3mma","Taiwan, CPI, Imports, Price, TWD, SA, 3mma",None,line
-"Taiwan, CPI, Imports, Price, USD, SA, 3mma","Taiwan, CPI, Imports, Price, USD, SA, 3mma",None,line
-"Taiwan, CPI, Exports, Price, TWD, SA, 3mma","Taiwan, CPI, Exports, Price, TWD, SA, 3mma",None,line
-"Taiwan, CPI, Exports, Price, USD, SA, 3mma","Taiwan, CPI, Exports, Price, USD, SA, 3mma",None,line
-"Taiwan, CPI, All items excluding food and energy, SA, % MoM annualised, 3mma","Taiwan, CPI, All items excluding food and energy, SA, % MoM annualised, 3mma",None,line
+"Taiwan, CPI, All items excluding food and energy, SA, 3mma","Taiwan, CPI, All items excluding food and energy, SA, 3mma",None,line
 "Taiwan, CPI, Entertainment Expenses, SA, % MoM annualised, 3mma","Taiwan, CPI, Entertainment Expenses, SA, % MoM annualised, 3mma",None,line
 "Taiwan, CPI, Services, Entertainment, SA, % MoM annualised, 3mma","Taiwan, CPI, Services, Entertainment, SA, % MoM annualised, 3mma",None,line
 "Taiwan, CPI, Services, Excluding food away from home, SA, % MoM annualised, 3mma","Taiwan, CPI, Services, Excluding food away from home, SA, % MoM annualised, 3mma",None,line
 "Taiwan, CPI, Food, SA, % MoM annualised, 3mma","Taiwan, CPI, Food, SA, % MoM annualised, 3mma",None,line
 "Taiwan, CPI, Goods, SA, % MoM annualised, 3mma","Taiwan, CPI, Goods, SA, % MoM annualised, 3mma",None,line
 "Taiwan, CPI, All items, SA, % MoM annualised, 3mma","Taiwan, CPI, All items, SA, % MoM annualised, 3mma",None,line
-"Taiwan, CPI, Imports, Price, TWD, SA, % MoM annualised, 3mma","Taiwan, CPI, Imports, Price, TWD, SA, % MoM annualised, 3mma",None,line
-"Taiwan, CPI, Imports, Price, USD, SA, % MoM annualised, 3mma","Taiwan, CPI, Imports, Price, USD, SA, % MoM annualised, 3mma",None,line
-"Taiwan, CPI, Exports, Price, TWD, SA, % MoM annualised, 3mma","Taiwan, CPI, Exports, Price, TWD, SA, % MoM annualised, 3mma",None,line
-"Taiwan, CPI, Exports, Price, USD, SA, % MoM annualised, 3mma","Taiwan, CPI, Exports, Price, USD, SA, % MoM annualised, 3mma",None,line
+"Taiwan, CPI, All items excluding food and energy, SA, % MoM annualised, 3mma","Taiwan, CPI, All items excluding food and energy, SA, % MoM annualised, 3mma",None,line
 "Taiwan, CPI, Services, % YoY, Contribution to % YoY chg, ppts, 3mma","Taiwan, CPI, Services, % YoY, Contribution to % YoY chg, ppts, 3mma",None,bar
 "Taiwan, CPI, Services, Entertainment, % YoY, Contribution to % YoY chg, ppts, 3mma","Taiwan, CPI, Services, Entertainment, % YoY, Contribution to % YoY chg, ppts, 3mma",None,bar
 "Taiwan, CPI, Services, Excl recreation services, Contribution to % YoY chg, ppts, 3mma","Taiwan, CPI, Services, Excl recreation services, Contribution to % YoY chg, ppts, 3mma",None,bar
 "Taiwan, CPI, Goods, Contribution to % YoY chg, ppts, 3mma","Taiwan, CPI, Goods, Contribution to % YoY chg, ppts, 3mma",None,bar
 "Taiwan, CPI, All items, Ten pc Trimmed mean, % YoY, 3mma","Taiwan, CPI, All items, Ten pc Trimmed mean, % YoY, 3mma",None,line
 "Taiwan, CPI, All items, Twenty pc Trimmed mean, % YoY, 3mma","Taiwan, CPI, All items, Twenty pc Trimmed mean, % YoY, 3mma",None,line
-"Taiwan, CPI, All items excluding food and energy, SA, % MoM annualised, Jan-Feb average, 3mma","Taiwan, CPI, All items excluding food and energy, SA, % MoM annualised, Jan-Feb average, 3mma",None,line
+"Taiwan, CPI, Electricity subsidy, Contribution to % YoY, ppts, 3mma","Taiwan, CPI, Electricity subsidy, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, CPI, Fuel subsidy, Contribution to % YoY, ppts, 3mma","Taiwan, CPI, Fuel subsidy, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, CPI, LPG subsidy, Contribution to % YoY, ppts, 3mma","Taiwan, CPI, LPG subsidy, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, CPI, Piped gas subsidy, Contribution to % YoY, ppts, 3mma","Taiwan, CPI, Piped gas subsidy, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, CPI, Total energy subsidy, Contribution to % YoY, ppts, 3mma","Taiwan, CPI, Total energy subsidy, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, CPI, All items excl energy subsidies, % YoY, 3mma","Taiwan, CPI, All items excl energy subsidies, % YoY, 3mma",None,line
+"Taiwan, CPI, All items, SA, Jan-Feb average, 3mma","Taiwan, CPI, All items, SA, Jan-Feb average, 3mma",None,line
