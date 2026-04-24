@@ -22,7 +22,7 @@ Or, without the alias:
 
 ### What it does, step by step
 
-1. **Guards** — aborts if the working tree has uncommitted changes (so in-flight edits can never be swallowed).
+1. **Guards** — aborts only if there are uncommitted changes **outside `app/db/`** (so in-flight script/config edits can never be swallowed). Dirty files under `app/db/` are expected — that's where raw CSVs are dropped between runs — and are carried into the new branch.
 2. **Syncs `main`** — `git fetch origin main`, switches to `main`, fast-forwards. Fails loudly if local `main` has diverged from `origin`.
 3. **Creates a new branch** off `main`: `data-update-YYYY-MM-DD`. If that branch name already exists (local or remote), it appends `-HHMM` so same-day reruns still work.
 4. **Verifies the loader** exists at `app/load_new_v2.py`.
@@ -44,7 +44,7 @@ Or, without the alias:
 
 | Symptom | Cause / fix |
 |---|---|
-| `ERROR: uncommitted changes in …` | Commit, stash, or `git restore .` the listed files, then rerun. |
+| `ERROR: uncommitted changes outside app/db/ in …` | You have in-flight edits to scripts/config. Commit, stash, or `git restore .` the listed files, then rerun. Raw-CSV changes under `app/db/` don't trigger this. |
 | `fatal: Not possible to fast-forward` | Local `main` has commits that aren't on `origin/main`. Investigate manually — this should never happen in the normal data-refresh flow. |
 | Loader prints a Python traceback and script exits non-zero | Run `python app/load_new_v2.py` manually inside the repo for the full trace. The script has already cleaned up its branch. |
 | `No changes produced by load_new_v2.py` | Expected if the loader already ran recently or there's no new data upstream. No PR is created. |

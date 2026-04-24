@@ -4,9 +4,10 @@
 # Usage:  scripts/update_and_pr.sh ["commit message"]
 #
 # Defaults the commit message to "Data update YYYY-MM-DD".
-# Refuses to run if the working tree is dirty. Branches off the latest
-# origin/main, runs load_new_v2.py, commits any changes, pushes, and
-# opens a PR via the gh CLI.
+# Refuses to run only if there are uncommitted changes OUTSIDE app/db/
+# (raw CSVs dropped under app/db/ are the expected input to this script).
+# Branches off the latest origin/main, runs load_new_v2.py, commits any
+# changes, pushes, and opens a PR via the gh CLI.
 
 set -euo pipefail
 
@@ -16,10 +17,12 @@ MSG="${1:-Data update $(date +%Y-%m-%d)}"
 
 cd "$REPO"
 
-# 1. Refuse if working tree is dirty
-if ! git diff --quiet || ! git diff --cached --quiet; then
-    echo "ERROR: uncommitted changes in $REPO" >&2
-    git status --short >&2
+# 1. Refuse if there are uncommitted changes outside app/db/
+#    (app/db/ is where raw CSVs are dropped between runs — expected to be dirty)
+DIRTY_OUTSIDE=$(git status --porcelain -- . ':!app/db')
+if [[ -n "$DIRTY_OUTSIDE" ]]; then
+    echo "ERROR: uncommitted changes outside app/db/ in $REPO" >&2
+    echo "$DIRTY_OUTSIDE" >&2
     echo >&2
     echo "Stash or commit them before running this script." >&2
     exit 1

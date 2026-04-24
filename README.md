@@ -15,7 +15,7 @@ econ-db-update "Refresh KR + JP data"   # or supply your own
 
 What it does:
 
-1. Refuses to run if the working tree is dirty (prints the offending files — clean them up first).
+1. Refuses to run only if there are uncommitted changes **outside `app/db/`** (prints the offending files — clean them up first). Raw-CSV changes under `app/db/` are expected and carried into the new branch.
 2. Fetches `origin`, switches to `main`, fast-forwards.
 3. Creates `data-update-YYYY-MM-DD` (appends `-HHMM` if that branch already exists, so same-day reruns work).
 4. Runs `app/load_new_v2.py`.
@@ -36,7 +36,7 @@ Equivalent without the alias:
 
 Troubleshooting:
 - **Loader fails** → `cd app && python load_new_v2.py` to see the full traceback.
-- **Script refuses to start ("uncommitted changes")** → commit, `git stash`, or `git restore .` the listed files, then rerun.
+- **Script refuses to start ("uncommitted changes outside app/db/")** → you have in-flight script/config edits. Commit, `git stash`, or `git restore .` the listed files, then rerun. Raw-CSV dirt under `app/db/` is fine.
 - **PR opens with an unexpected diff** → `git log --oneline main..HEAD`; if the base is stale, make sure `origin/main` is current before rerunning.
 
 Full walk-through in `scripts/README.md`.
