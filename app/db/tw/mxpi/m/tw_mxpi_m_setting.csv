@@ -533,3 +533,5 @@ name,display_name,data_type,chart_type
 "Taiwan, MPI, FX component, Contribution to % YoY chg in TOT, ppts, 3mma","Taiwan, MPI, FX component, Contribution to % YoY chg in TOT, ppts, 3mma",None,bar
 "Taiwan, TOT, TWD basis, % YoY, Sum of components, 3mma","Taiwan, TOT, TWD basis, % YoY, Sum of components, 3mma",None,line
 "Taiwan, TOT, TWD basis, % YoY, Published, 3mma","Taiwan, TOT, TWD basis, % YoY, Published, 3mma",None,line
+"Taiwan, EPI, USD basis, Index, 60mma","Taiwan, EPI, USD basis, Index, 60mma",None,line
+"Taiwan, EPI, TWD basis, Index, 60mma","Taiwan, EPI, TWD basis, Index, 60mma",None,line
