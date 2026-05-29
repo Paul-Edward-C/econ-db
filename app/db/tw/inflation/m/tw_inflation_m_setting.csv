@@ -75,6 +75,8 @@ name,display_name,data_type,chart_type
 "Taiwan, CPI, All items excluding food and energy","Taiwan, CPI, All items excluding food and energy",None,line
 "Taiwan, CPI, All items excluding fruits and vegetables and fish and seafood and energy","Taiwan, CPI, All items excluding fruits and vegetables and fish and seafood and energy",None,line
 "Taiwan, CPI, All items excluding imputed rent","Taiwan, CPI, All items excluding imputed rent",None,line
+"Taiwan, CPI, Educational equipment and supplies, Index","Taiwan, CPI, Educational equipment and supplies, Index",None,line
+"Taiwan, CPI, Computers and mobile phones, Index","Taiwan, CPI, Computers and mobile phones, Index",None,line
 "Taiwan, CPI, All items, % YoY","Taiwan, CPI, All items, % YoY",None,line
 "Taiwan, CPI, Food, % YoY","Taiwan, CPI, Food, % YoY",None,line
 "Taiwan, CPI, Cereals & Cereal Products, % YoY","Taiwan, CPI, Cereals & Cereal Products, % YoY",None,line
@@ -151,6 +153,8 @@ name,display_name,data_type,chart_type
 "Taiwan, CPI, All items excluding food and energy, % YoY","Taiwan, CPI, All items excluding food and energy, % YoY",None,line
 "Taiwan, CPI, All items excluding fruits and vegetables and fish and seafood and energy, % YoY","Taiwan, CPI, All items excluding fruits and vegetables and fish and seafood and energy, % YoY",None,line
 "Taiwan, CPI, All items excluding imputed rent, % YoY","Taiwan, CPI, All items excluding imputed rent, % YoY",None,line
+"Taiwan, CPI, Educational equipment and supplies, % YoY","Taiwan, CPI, Educational equipment and supplies, % YoY",None,line
+"Taiwan, CPI, Computers and mobile phones, % YoY","Taiwan, CPI, Computers and mobile phones, % YoY",None,line
 "Taiwan, CPI, All items, % YoY, 36mma","Taiwan, CPI, All items, % YoY, 36mma",None,line
 "Taiwan, CPI, All items excluding food and energy, % YoY, 36mma","Taiwan, CPI, All items excluding food and energy, % YoY, 36mma",None,line
 "Taiwan, CPI, All items excluding food, % YoY, 36mma","Taiwan, CPI, All items excluding food, % YoY, 36mma",None,line
@@ -260,6 +264,8 @@ name,display_name,data_type,chart_type
 "Taiwan, CPI, All items excluding food and energy, 3mma","Taiwan, CPI, All items excluding food and energy, 3mma",None,line
 "Taiwan, CPI, All items excluding fruits and vegetables and fish and seafood and energy, 3mma","Taiwan, CPI, All items excluding fruits and vegetables and fish and seafood and energy, 3mma",None,line
 "Taiwan, CPI, All items excluding imputed rent, 3mma","Taiwan, CPI, All items excluding imputed rent, 3mma",None,line
+"Taiwan, CPI, Educational equipment and supplies, Index, 3mma","Taiwan, CPI, Educational equipment and supplies, Index, 3mma",None,line
+"Taiwan, CPI, Computers and mobile phones, Index, 3mma","Taiwan, CPI, Computers and mobile phones, Index, 3mma",None,line
 "Taiwan, CPI, All items, % YoY, 3mma","Taiwan, CPI, All items, % YoY, 3mma",None,line
 "Taiwan, CPI, Food, % YoY, 3mma","Taiwan, CPI, Food, % YoY, 3mma",None,line
 "Taiwan, CPI, Cereals & Cereal Products, % YoY, 3mma","Taiwan, CPI, Cereals & Cereal Products, % YoY, 3mma",None,line
@@ -336,6 +342,8 @@ name,display_name,data_type,chart_type
 "Taiwan, CPI, All items excluding food and energy, % YoY, 3mma","Taiwan, CPI, All items excluding food and energy, % YoY, 3mma",None,line
 "Taiwan, CPI, All items excluding fruits and vegetables and fish and seafood and energy, % YoY, 3mma","Taiwan, CPI, All items excluding fruits and vegetables and fish and seafood and energy, % YoY, 3mma",None,line
 "Taiwan, CPI, All items excluding imputed rent, % YoY, 3mma","Taiwan, CPI, All items excluding imputed rent, % YoY, 3mma",None,line
+"Taiwan, CPI, Educational equipment and supplies, % YoY, 3mma","Taiwan, CPI, Educational equipment and supplies, % YoY, 3mma",None,line
+"Taiwan, CPI, Computers and mobile phones, % YoY, 3mma","Taiwan, CPI, Computers and mobile phones, % YoY, 3mma",None,line
 "Taiwan, CPI, All items, % YoY, 36mma, 3mma","Taiwan, CPI, All items, % YoY, 36mma, 3mma",None,line
 "Taiwan, CPI, All items excluding food and energy, % YoY, 36mma, 3mma","Taiwan, CPI, All items excluding food and energy, % YoY, 36mma, 3mma",None,line
 "Taiwan, CPI, All items excluding food, % YoY, 36mma, 3mma","Taiwan, CPI, All items excluding food, % YoY, 36mma, 3mma",None,line
