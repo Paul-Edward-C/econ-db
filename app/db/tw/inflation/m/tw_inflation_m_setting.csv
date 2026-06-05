@@ -188,6 +188,10 @@ name,display_name,data_type,chart_type
 "Taiwan, CPI, Total energy subsidy, Contribution to % YoY, ppts","Taiwan, CPI, Total energy subsidy, Contribution to % YoY, ppts",None,bar
 "Taiwan, CPI, All items excl energy subsidies, % YoY","Taiwan, CPI, All items excl energy subsidies, % YoY",None,line
 "Taiwan, CPI, All items, SA, Jan-Feb average","Taiwan, CPI, All items, SA, Jan-Feb average",None,line
+"Taiwan, CPI, Broad energy incl international travel, % YoY","Taiwan, CPI, Broad energy incl international travel, % YoY",None,line
+"Taiwan, CPI, Broad energy incl international travel, Contribution to % YoY, ppts","Taiwan, CPI, Broad energy incl international travel, Contribution to % YoY, ppts",None,bar
+"Taiwan, CPI, All items excluding broad energy, % YoY","Taiwan, CPI, All items excluding broad energy, % YoY",None,line
+"Taiwan, CPI, All items excluding broad energy, Contribution to % YoY, ppts","Taiwan, CPI, All items excluding broad energy, Contribution to % YoY, ppts",None,bar
 "Taiwan, CPI, All items, 3mma","Taiwan, CPI, All items, 3mma",None,line
 "Taiwan, CPI, Food, 3mma","Taiwan, CPI, Food, 3mma",None,line
 "Taiwan, CPI, Cereals & Cereal Products, 3mma","Taiwan, CPI, Cereals & Cereal Products, 3mma",None,line
@@ -377,3 +381,7 @@ name,display_name,data_type,chart_type
 "Taiwan, CPI, Total energy subsidy, Contribution to % YoY, ppts, 3mma","Taiwan, CPI, Total energy subsidy, Contribution to % YoY, ppts, 3mma",None,bar
 "Taiwan, CPI, All items excl energy subsidies, % YoY, 3mma","Taiwan, CPI, All items excl energy subsidies, % YoY, 3mma",None,line
 "Taiwan, CPI, All items, SA, Jan-Feb average, 3mma","Taiwan, CPI, All items, SA, Jan-Feb average, 3mma",None,line
+"Taiwan, CPI, Broad energy incl international travel, % YoY, 3mma","Taiwan, CPI, Broad energy incl international travel, % YoY, 3mma",None,line
+"Taiwan, CPI, Broad energy incl international travel, Contribution to % YoY, ppts, 3mma","Taiwan, CPI, Broad energy incl international travel, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, CPI, All items excluding broad energy, % YoY, 3mma","Taiwan, CPI, All items excluding broad energy, % YoY, 3mma",None,line
+"Taiwan, CPI, All items excluding broad energy, Contribution to % YoY, ppts, 3mma","Taiwan, CPI, All items excluding broad energy, Contribution to % YoY, ppts, 3mma",None,bar

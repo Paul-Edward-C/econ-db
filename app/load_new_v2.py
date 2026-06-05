@@ -9,14 +9,20 @@ def main():
         "db/kr/gdp/q", "db/kr/export/m", "db/kr/inflation/m","db/kr/ppi/m", "db/kr/mxpi/m", "db/kr/sentiment/m",
         "db/tw/gdp/q", "db/tw/export/m", "db/tw/inflation/m", "db/tw/ppi/m", "db/tw/mxpi/m", "db/tw/sentiment/m",
     ]
+    # NOTE: both pipeline steps expect these exact strings. clean_raw_data.py's
+    # cleaner_map and data_setting_generator's normalisation key ppi/mxpi/sentiment
+    # in lower case; passing the upper-case forms makes cleaning + setting
+    # regeneration silently fail (os.system swallows the KeyError). "gdp" -> "GDP"
+    # builds the dropdown pickle correctly via the structure key; its cleaning step
+    # is a separate pre-existing GdpCleaner mismatch ('National Accounts' vs 'GDP').
     category_map = {
         "gdp": "GDP",
         "export": "Trade",
         "trade": "Trade",
         "inflation": "Inflation",
-        "ppi" : 'PPI',
-        "mxpi" : "MXPI",
-        "sentiment": "Sentiment"
+        "ppi": "ppi",
+        "mxpi": "mxpi",
+        "sentiment": "sentiment",
     }
 
     for path in db_paths:
