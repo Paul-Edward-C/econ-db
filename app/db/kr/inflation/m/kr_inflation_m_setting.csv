@@ -1401,6 +1401,9 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Transport and communication, Contribution to MoM annualised change, ppts","Korea, CPI, Transport and communication, Contribution to MoM annualised change, ppts",None,bar
 "Korea, CPI, Other services, Contribution to MoM annualised change, ppts","Korea, CPI, Other services, Contribution to MoM annualised change, ppts",None,bar
 "Korea, CPI, Private Services, SA, % MoM annualised, Check","Korea, CPI, Private Services, SA, % MoM annualised, Check",None,line
+"Korea, CPI, Broad energy, Contribution to YoY change, ppts","Korea, CPI, Broad energy, Contribution to YoY change, ppts",None,bar
+"Korea, CPI, All items excluding broad energy, Contribution to YoY change, ppts","Korea, CPI, All items excluding broad energy, Contribution to YoY change, ppts",None,bar
+"Korea, CPI, All items, Implied YoY from basic items, %","Korea, CPI, All items, Implied YoY from basic items, %",None,line
 "Korea, CPI, Headline, gap over target, ppts","Korea, CPI, Headline, gap over target, ppts",None,line
 "Korea, CPI, Core, gap over target, ppts","Korea, CPI, Core, gap over target, ppts",None,line
 "Korea, CPI, Headline SA, % annualised, gap over target, ppts","Korea, CPI, Headline SA, % annualised, gap over target, ppts",None,line
@@ -2807,6 +2810,9 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Transport and communication, Contribution to MoM annualised change, ppts, 3mma","Korea, CPI, Transport and communication, Contribution to MoM annualised change, ppts, 3mma",None,bar
 "Korea, CPI, Other services, Contribution to MoM annualised change, ppts, 3mma","Korea, CPI, Other services, Contribution to MoM annualised change, ppts, 3mma",None,bar
 "Korea, CPI, Private Services, SA, % MoM annualised, Check, 3mma","Korea, CPI, Private Services, SA, % MoM annualised, Check, 3mma",None,line
+"Korea, CPI, Broad energy, Contribution to YoY change, ppts, 3mma","Korea, CPI, Broad energy, Contribution to YoY change, ppts, 3mma",None,bar
+"Korea, CPI, All items excluding broad energy, Contribution to YoY change, ppts, 3mma","Korea, CPI, All items excluding broad energy, Contribution to YoY change, ppts, 3mma",None,bar
+"Korea, CPI, All items, Implied YoY from basic items, %, 3mma","Korea, CPI, All items, Implied YoY from basic items, %, 3mma",None,line
 "Korea, CPI, Headline, gap over target, ppts, 3mma","Korea, CPI, Headline, gap over target, ppts, 3mma",None,line
 "Korea, CPI, Core, gap over target, ppts, 3mma","Korea, CPI, Core, gap over target, ppts, 3mma",None,line
 "Korea, CPI, Headline SA, % annualised, gap over target, ppts, 3mma","Korea, CPI, Headline SA, % annualised, gap over target, ppts, 3mma",None,line

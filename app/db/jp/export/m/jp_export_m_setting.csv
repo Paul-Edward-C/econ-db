@@ -12,7 +12,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, Group, Transport equipment, JPY bn","Japan, Imports, Group, Transport equipment, JPY bn",None,line
 "Japan, Imports, IC, JPY bn","Japan, Imports, IC, JPY bn",None,line
 "Japan, Imports, Semiconductors, JPY bn","Japan, Imports, Semiconductors, JPY bn",None,line
-"Japan, Exports, Passenger cars, JPY bn","Japan, Exports, Passenger cars, JPY bn",None,line
 "Japan, Exports, Group, Chemicals, JPY bn","Japan, Exports, Group, Chemicals, JPY bn",None,line
 "Japan, Exports, Group, Electrical machinery, JPY bn","Japan, Exports, Group, Electrical machinery, JPY bn",None,line
 "Japan, Exports, Group, Foodstuffs, JPY bn","Japan, Exports, Group, Foodstuffs, JPY bn",None,line
@@ -60,7 +59,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, Vietnam, JPY bn","Japan, Imports, Vietnam, JPY bn",None,line
 "Japan, Imports, World, JPY bn","Japan, Imports, World, JPY bn",None,line
 "Japan, Imports, nan, JPY bn","Japan, Imports, nan, JPY bn",None,line
-"Japan, Exports, China, Passenger cars, JPY bn","Japan, Exports, China, Passenger cars, JPY bn",None,line
 "Japan, Exports, China, Group, Chemicals, JPY bn","Japan, Exports, China, Group, Chemicals, JPY bn",None,line
 "Japan, Exports, China, Group, Electrical machinery, JPY bn","Japan, Exports, China, Group, Electrical machinery, JPY bn",None,line
 "Japan, Exports, China, Group, Foodstuffs, JPY bn","Japan, Exports, China, Group, Foodstuffs, JPY bn",None,line
@@ -87,8 +85,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, China, IC, JPY bn","Japan, Imports, China, IC, JPY bn",None,line
 "Japan, Imports, China, Semiconductors, JPY bn","Japan, Imports, China, Semiconductors, JPY bn",None,line
 "Japan, Imports, China, Total, JPY bn","Japan, Imports, China, Total, JPY bn",None,line
-"Japan, Exports, US, Passenger cars, JPY bn","Japan, Exports, US, Passenger cars, JPY bn",None,line
-"Japan, Exports, US, Passenger cars, Volume, mn","Japan, Exports, US, Passenger cars, Volume, mn",None,line
 "Japan, Exports, US, Group, Chemicals, JPY bn","Japan, Exports, US, Group, Chemicals, JPY bn",None,line
 "Japan, Exports, US, Group, Electrical machinery, JPY bn","Japan, Exports, US, Group, Electrical machinery, JPY bn",None,line
 "Japan, Exports, US, Group, Foodstuffs, JPY bn","Japan, Exports, US, Group, Foodstuffs, JPY bn",None,line
@@ -322,12 +318,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, World, Buses, Tracks, Quantum, Index","Japan, Exports, World, Buses, Tracks, Quantum, Index",None,line
 "Japan, Exports, World, Buses, Tracks, Unit value, Index","Japan, Exports, World, Buses, Tracks, Unit value, Index",None,line
 "Japan, Exports, World, Buses, Tracks, Value, Index","Japan, Exports, World, Buses, Tracks, Value, Index",None,line
-"Japan, Exports, World, Passenger carsgo Motor Passenger carss, Quantum, Index","Japan, Exports, World, Passenger carsgo Motor Passenger carss, Quantum, Index",None,line
-"Japan, Exports, World, Passenger carsgo Motor Passenger carss, Unit value, Index","Japan, Exports, World, Passenger carsgo Motor Passenger carss, Unit value, Index",None,line
-"Japan, Exports, World, Passenger carsgo Motor Passenger carss, Value, Index","Japan, Exports, World, Passenger carsgo Motor Passenger carss, Value, Index",None,line
-"Japan, Exports, World, Passenger carsgo Ships, Quantum, Index","Japan, Exports, World, Passenger carsgo Ships, Quantum, Index",None,line
-"Japan, Exports, World, Passenger carsgo Ships, Unit value, Index","Japan, Exports, World, Passenger carsgo Ships, Unit value, Index",None,line
-"Japan, Exports, World, Passenger carsgo Ships, Value, Index","Japan, Exports, World, Passenger carsgo Ships, Value, Index",None,line
 "Japan, Exports, World, Chemicals, Quantum, Index","Japan, Exports, World, Chemicals, Quantum, Index",None,line
 "Japan, Exports, World, Chemicals, Unit value, Index","Japan, Exports, World, Chemicals, Unit value, Index",None,line
 "Japan, Exports, World, Chemicals, Value, Index","Japan, Exports, World, Chemicals, Value, Index",None,line
@@ -484,9 +474,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, World, Parts of Motor Vehicles, Quantum, Index","Japan, Exports, World, Parts of Motor Vehicles, Quantum, Index",None,line
 "Japan, Exports, World, Parts of Motor Vehicles, Unit value, Index","Japan, Exports, World, Parts of Motor Vehicles, Unit value, Index",None,line
 "Japan, Exports, World, Parts of Motor Vehicles, Value, Index","Japan, Exports, World, Parts of Motor Vehicles, Value, Index",None,line
-"Japan, Exports, World, Passenger Motor Passenger cars, Quantum, Index","Japan, Exports, World, Passenger Motor Passenger cars, Quantum, Index",None,line
-"Japan, Exports, World, Passenger Motor Passenger cars, Unit value, Index","Japan, Exports, World, Passenger Motor Passenger cars, Unit value, Index",None,line
-"Japan, Exports, World, Passenger Motor Passenger cars, Value, Index","Japan, Exports, World, Passenger Motor Passenger cars, Value, Index",None,line
 "Japan, Exports, World, Photographic Supplies, Quantum, Index","Japan, Exports, World, Photographic Supplies, Quantum, Index",None,line
 "Japan, Exports, World, Photographic Supplies, Unit value, Index","Japan, Exports, World, Photographic Supplies, Unit value, Index",None,line
 "Japan, Exports, World, Photographic Supplies, Value, Index","Japan, Exports, World, Photographic Supplies, Value, Index",None,line
@@ -574,9 +561,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, World, Transport Equipments, Quantum, Index","Japan, Exports, World, Transport Equipments, Quantum, Index",None,line
 "Japan, Exports, World, Transport Equipments, Unit value, Index","Japan, Exports, World, Transport Equipments, Unit value, Index",None,line
 "Japan, Exports, World, Transport Equipments, Value, Index","Japan, Exports, World, Transport Equipments, Value, Index",None,line
-"Japan, Exports, World, Used Passenger Motor Passenger cars, Quantum, Index","Japan, Exports, World, Used Passenger Motor Passenger cars, Quantum, Index",None,line
-"Japan, Exports, World, Used Passenger Motor Passenger cars, Unit value, Index","Japan, Exports, World, Used Passenger Motor Passenger cars, Unit value, Index",None,line
-"Japan, Exports, World, Used Passenger Motor Passenger cars, Value, Index","Japan, Exports, World, Used Passenger Motor Passenger cars, Value, Index",None,line
 "Japan, Exports, World, Vehicles Engines, Quantum, Index","Japan, Exports, World, Vehicles Engines, Quantum, Index",None,line
 "Japan, Exports, World, Vehicles Engines, Unit value, Index","Japan, Exports, World, Vehicles Engines, Unit value, Index",None,line
 "Japan, Exports, World, Vehicles Engines, Value, Index","Japan, Exports, World, Vehicles Engines, Value, Index",None,line
@@ -952,9 +936,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, World, Parts of Computer, Quantum, Index","Japan, Imports, World, Parts of Computer, Quantum, Index",None,line
 "Japan, Imports, World, Parts of Computer, Unit value, Index","Japan, Imports, World, Parts of Computer, Unit value, Index",None,line
 "Japan, Imports, World, Parts of Computer, Value, Index","Japan, Imports, World, Parts of Computer, Value, Index",None,line
-"Japan, Imports, World, Passenger Motor Passenger carss, Quantum, Index","Japan, Imports, World, Passenger Motor Passenger carss, Quantum, Index",None,line
-"Japan, Imports, World, Passenger Motor Passenger carss, Unit value, Index","Japan, Imports, World, Passenger Motor Passenger carss, Unit value, Index",None,line
-"Japan, Imports, World, Passenger Motor Passenger carss, Value, Index","Japan, Imports, World, Passenger Motor Passenger carss, Value, Index",None,line
 "Japan, Imports, World, Plastic Materials, Quantum, Index","Japan, Imports, World, Plastic Materials, Quantum, Index",None,line
 "Japan, Imports, World, Plastic Materials, Unit value, Index","Japan, Imports, World, Plastic Materials, Unit value, Index",None,line
 "Japan, Imports, World, Plastic Materials, Value, Index","Japan, Imports, World, Plastic Materials, Value, Index",None,line
@@ -1054,378 +1035,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, World, Woman's & Girl's Dress, Quantum, Index","Japan, Imports, World, Woman's & Girl's Dress, Quantum, Index",None,line
 "Japan, Imports, World, Woman's & Girl's Dress, Unit value, Index","Japan, Imports, World, Woman's & Girl's Dress, Unit value, Index",None,line
 "Japan, Imports, World, Woman's & Girl's Dress, Value, Index","Japan, Imports, World, Woman's & Girl's Dress, Value, Index",None,line
-"Japan, Exports, Afghanistan, Passenger cars, JPY bn","Japan, Exports, Afghanistan, Passenger cars, JPY bn",None,line
-"Japan, Exports, Afghanistan, Passenger cars, Units mn","Japan, Exports, Afghanistan, Passenger cars, Units mn",None,line
-"Japan, Exports, Afghanistan, Passenger cars, Units th","Japan, Exports, Afghanistan, Passenger cars, Units th",None,line
-"Japan, Exports, Bhutan, Passenger cars, JPY bn","Japan, Exports, Bhutan, Passenger cars, JPY bn",None,line
-"Japan, Exports, Bhutan, Passenger cars, Units mn","Japan, Exports, Bhutan, Passenger cars, Units mn",None,line
-"Japan, Exports, Bhutan, Passenger cars, Units th","Japan, Exports, Bhutan, Passenger cars, Units th",None,line
-"Japan, Exports, Bosnia and Herzegovina, Passenger cars, JPY bn","Japan, Exports, Bosnia and Herzegovina, Passenger cars, JPY bn",None,line
-"Japan, Exports, Bosnia and Herzegovina, Passenger cars, Units mn","Japan, Exports, Bosnia and Herzegovina, Passenger cars, Units mn",None,line
-"Japan, Exports, Bosnia and Herzegovina, Passenger cars, Units th","Japan, Exports, Bosnia and Herzegovina, Passenger cars, Units th",None,line
-"Japan, Exports, British Anguilla, Passenger cars, JPY bn","Japan, Exports, British Anguilla, Passenger cars, JPY bn",None,line
-"Japan, Exports, British Anguilla, Passenger cars, Units mn","Japan, Exports, British Anguilla, Passenger cars, Units mn",None,line
-"Japan, Exports, British Anguilla, Passenger cars, Units th","Japan, Exports, British Anguilla, Passenger cars, Units th",None,line
-"Japan, Exports, British Antarctic Territory, Passenger cars, JPY bn","Japan, Exports, British Antarctic Territory, Passenger cars, JPY bn",None,line
-"Japan, Exports, British Antarctic Territory, Passenger cars, Units mn","Japan, Exports, British Antarctic Territory, Passenger cars, Units mn",None,line
-"Japan, Exports, British Antarctic Territory, Passenger cars, Units th","Japan, Exports, British Antarctic Territory, Passenger cars, Units th",None,line
-"Japan, Exports, British indian Ocean Territories, Passenger cars, JPY bn","Japan, Exports, British indian Ocean Territories, Passenger cars, JPY bn",None,line
-"Japan, Exports, British indian Ocean Territories, Passenger cars, Units mn","Japan, Exports, British indian Ocean Territories, Passenger cars, Units mn",None,line
-"Japan, Exports, British indian Ocean Territories, Passenger cars, Units th","Japan, Exports, British indian Ocean Territories, Passenger cars, Units th",None,line
-"Japan, Exports, Central Africa, Passenger cars, JPY bn","Japan, Exports, Central Africa, Passenger cars, JPY bn",None,line
-"Japan, Exports, Central Africa, Passenger cars, Units mn","Japan, Exports, Central Africa, Passenger cars, Units mn",None,line
-"Japan, Exports, Central Africa, Passenger cars, Units th","Japan, Exports, Central Africa, Passenger cars, Units th",None,line
-"Japan, Exports, China, Passenger cars, Units mn","Japan, Exports, China, Passenger cars, Units mn",None,line
-"Japan, Exports, China, Passenger cars, Units th","Japan, Exports, China, Passenger cars, Units th",None,line
-"Japan, Exports, Colombia, Passenger cars, JPY bn","Japan, Exports, Colombia, Passenger cars, JPY bn",None,line
-"Japan, Exports, Colombia, Passenger cars, Units mn","Japan, Exports, Colombia, Passenger cars, Units mn",None,line
-"Japan, Exports, Colombia, Passenger cars, Units th","Japan, Exports, Colombia, Passenger cars, Units th",None,line
-"Japan, Exports, Cook, Passenger cars, JPY bn","Japan, Exports, Cook, Passenger cars, JPY bn",None,line
-"Japan, Exports, Cook, Passenger cars, Units mn","Japan, Exports, Cook, Passenger cars, Units mn",None,line
-"Japan, Exports, Cook, Passenger cars, Units th","Japan, Exports, Cook, Passenger cars, Units th",None,line
-"Japan, Exports, Democratic Republic of Congo, Passenger cars, JPY bn","Japan, Exports, Democratic Republic of Congo, Passenger cars, JPY bn",None,line
-"Japan, Exports, Democratic Republic of Congo, Passenger cars, Units mn","Japan, Exports, Democratic Republic of Congo, Passenger cars, Units mn",None,line
-"Japan, Exports, Democratic Republic of Congo, Passenger cars, Units th","Japan, Exports, Democratic Republic of Congo, Passenger cars, Units th",None,line
-"Japan, Exports, Dominica, Passenger cars, JPY bn","Japan, Exports, Dominica, Passenger cars, JPY bn",None,line
-"Japan, Exports, Dominica, Passenger cars, Units mn","Japan, Exports, Dominica, Passenger cars, Units mn",None,line
-"Japan, Exports, Dominica, Passenger cars, Units th","Japan, Exports, Dominica, Passenger cars, Units th",None,line
-"Japan, Exports, Dominican Republic, Passenger cars, JPY bn","Japan, Exports, Dominican Republic, Passenger cars, JPY bn",None,line
-"Japan, Exports, Dominican Republic, Passenger cars, Units mn","Japan, Exports, Dominican Republic, Passenger cars, Units mn",None,line
-"Japan, Exports, Dominican Republic, Passenger cars, Units th","Japan, Exports, Dominican Republic, Passenger cars, Units th",None,line
-"Japan, Exports, For Order, Passenger cars, JPY bn","Japan, Exports, For Order, Passenger cars, JPY bn",None,line
-"Japan, Exports, For Order, Passenger cars, Units mn","Japan, Exports, For Order, Passenger cars, Units mn",None,line
-"Japan, Exports, For Order, Passenger cars, Units th","Japan, Exports, For Order, Passenger cars, Units th",None,line
-"Japan, Exports, French West Indies, Passenger cars, JPY bn","Japan, Exports, French West Indies, Passenger cars, JPY bn",None,line
-"Japan, Exports, French West Indies, Passenger cars, Units mn","Japan, Exports, French West Indies, Passenger cars, Units mn",None,line
-"Japan, Exports, French West Indies, Passenger cars, Units th","Japan, Exports, French West Indies, Passenger cars, Units th",None,line
-"Japan, Exports, Guatemala, Passenger cars, JPY bn","Japan, Exports, Guatemala, Passenger cars, JPY bn",None,line
-"Japan, Exports, Guatemala, Passenger cars, Units mn","Japan, Exports, Guatemala, Passenger cars, Units mn",None,line
-"Japan, Exports, Guatemala, Passenger cars, Units th","Japan, Exports, Guatemala, Passenger cars, Units th",None,line
-"Japan, Exports, Hong Kong, Passenger cars, JPY bn","Japan, Exports, Hong Kong, Passenger cars, JPY bn",None,line
-"Japan, Exports, Hong Kong, Passenger cars, Units mn","Japan, Exports, Hong Kong, Passenger cars, Units mn",None,line
-"Japan, Exports, Hong Kong, Passenger cars, Units th","Japan, Exports, Hong Kong, Passenger cars, Units th",None,line
-"Japan, Exports, Kyrgyz, Passenger cars, JPY bn","Japan, Exports, Kyrgyz, Passenger cars, JPY bn",None,line
-"Japan, Exports, Kyrgyz, Passenger cars, Units mn","Japan, Exports, Kyrgyz, Passenger cars, Units mn",None,line
-"Japan, Exports, Kyrgyz, Passenger cars, Units th","Japan, Exports, Kyrgyz, Passenger cars, Units th",None,line
-"Japan, Exports, Luxembourg, Passenger cars, JPY bn","Japan, Exports, Luxembourg, Passenger cars, JPY bn",None,line
-"Japan, Exports, Luxembourg, Passenger cars, Units mn","Japan, Exports, Luxembourg, Passenger cars, Units mn",None,line
-"Japan, Exports, Luxembourg, Passenger cars, Units th","Japan, Exports, Luxembourg, Passenger cars, Units th",None,line
-"Japan, Exports, Marshall, Passenger cars, JPY bn","Japan, Exports, Marshall, Passenger cars, JPY bn",None,line
-"Japan, Exports, Marshall, Passenger cars, Units mn","Japan, Exports, Marshall, Passenger cars, Units mn",None,line
-"Japan, Exports, Marshall, Passenger cars, Units th","Japan, Exports, Marshall, Passenger cars, Units th",None,line
-"Japan, Exports, Mauritania, Passenger cars, JPY bn","Japan, Exports, Mauritania, Passenger cars, JPY bn",None,line
-"Japan, Exports, Mauritania, Passenger cars, Units mn","Japan, Exports, Mauritania, Passenger cars, Units mn",None,line
-"Japan, Exports, Mauritania, Passenger cars, Units th","Japan, Exports, Mauritania, Passenger cars, Units th",None,line
-"Japan, Exports, Nauru, Passenger cars, JPY bn","Japan, Exports, Nauru, Passenger cars, JPY bn",None,line
-"Japan, Exports, Nauru, Passenger cars, Units mn","Japan, Exports, Nauru, Passenger cars, Units mn",None,line
-"Japan, Exports, Nauru, Passenger cars, Units th","Japan, Exports, Nauru, Passenger cars, Units th",None,line
-"Japan, Exports, Netherlands Antilles, Passenger cars, JPY bn","Japan, Exports, Netherlands Antilles, Passenger cars, JPY bn",None,line
-"Japan, Exports, Netherlands Antilles, Passenger cars, Units mn","Japan, Exports, Netherlands Antilles, Passenger cars, Units mn",None,line
-"Japan, Exports, Netherlands Antilles, Passenger cars, Units th","Japan, Exports, Netherlands Antilles, Passenger cars, Units th",None,line
-"Japan, Exports, Netherlands, Passenger cars, JPY bn","Japan, Exports, Netherlands, Passenger cars, JPY bn",None,line
-"Japan, Exports, Netherlands, Passenger cars, Units mn","Japan, Exports, Netherlands, Passenger cars, Units mn",None,line
-"Japan, Exports, Netherlands, Passenger cars, Units th","Japan, Exports, Netherlands, Passenger cars, Units th",None,line
-"Japan, Exports, North Macedonia, Passenger cars, JPY bn","Japan, Exports, North Macedonia, Passenger cars, JPY bn",None,line
-"Japan, Exports, North Macedonia, Passenger cars, Units mn","Japan, Exports, North Macedonia, Passenger cars, Units mn",None,line
-"Japan, Exports, North Macedonia, Passenger cars, Units th","Japan, Exports, North Macedonia, Passenger cars, Units th",None,line
-"Japan, Exports, Pakistan, Passenger cars, JPY bn","Japan, Exports, Pakistan, Passenger cars, JPY bn",None,line
-"Japan, Exports, Pakistan, Passenger cars, Units mn","Japan, Exports, Pakistan, Passenger cars, Units mn",None,line
-"Japan, Exports, Pakistan, Passenger cars, Units th","Japan, Exports, Pakistan, Passenger cars, Units th",None,line
-"Japan, Exports, Portugal, Passenger cars, JPY bn","Japan, Exports, Portugal, Passenger cars, JPY bn",None,line
-"Japan, Exports, Portugal, Passenger cars, Units mn","Japan, Exports, Portugal, Passenger cars, Units mn",None,line
-"Japan, Exports, Portugal, Passenger cars, Units th","Japan, Exports, Portugal, Passenger cars, Units th",None,line
-"Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, JPY bn","Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, JPY bn",None,line
-"Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Units mn","Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Units mn",None,line
-"Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Units th","Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Units th",None,line
-"Japan, Exports, Republic of Congo, Passenger cars, JPY bn","Japan, Exports, Republic of Congo, Passenger cars, JPY bn",None,line
-"Japan, Exports, Republic of Congo, Passenger cars, Units mn","Japan, Exports, Republic of Congo, Passenger cars, Units mn",None,line
-"Japan, Exports, Republic of Congo, Passenger cars, Units th","Japan, Exports, Republic of Congo, Passenger cars, Units th",None,line
-"Japan, Exports, Sao Tome and Principe, Passenger cars, JPY bn","Japan, Exports, Sao Tome and Principe, Passenger cars, JPY bn",None,line
-"Japan, Exports, Sao Tome and Principe, Passenger cars, Units mn","Japan, Exports, Sao Tome and Principe, Passenger cars, Units mn",None,line
-"Japan, Exports, Sao Tome and Principe, Passenger cars, Units th","Japan, Exports, Sao Tome and Principe, Passenger cars, Units th",None,line
-"Japan, Exports, Sri Lanka, Passenger cars, JPY bn","Japan, Exports, Sri Lanka, Passenger cars, JPY bn",None,line
-"Japan, Exports, Sri Lanka, Passenger cars, Units mn","Japan, Exports, Sri Lanka, Passenger cars, Units mn",None,line
-"Japan, Exports, Sri Lanka, Passenger cars, Units th","Japan, Exports, Sri Lanka, Passenger cars, Units th",None,line
-"Japan, Exports, St.Christopher and Nevis, Passenger cars, JPY bn","Japan, Exports, St.Christopher and Nevis, Passenger cars, JPY bn",None,line
-"Japan, Exports, St.Christopher and Nevis, Passenger cars, Units mn","Japan, Exports, St.Christopher and Nevis, Passenger cars, Units mn",None,line
-"Japan, Exports, St.Christopher and Nevis, Passenger cars, Units th","Japan, Exports, St.Christopher and Nevis, Passenger cars, Units th",None,line
-"Japan, Exports, St.Lucia, Passenger cars, JPY bn","Japan, Exports, St.Lucia, Passenger cars, JPY bn",None,line
-"Japan, Exports, St.Lucia, Passenger cars, Units mn","Japan, Exports, St.Lucia, Passenger cars, Units mn",None,line
-"Japan, Exports, St.Lucia, Passenger cars, Units th","Japan, Exports, St.Lucia, Passenger cars, Units th",None,line
-"Japan, Exports, St.Vincent, Passenger cars, JPY bn","Japan, Exports, St.Vincent, Passenger cars, JPY bn",None,line
-"Japan, Exports, St.Vincent, Passenger cars, Units mn","Japan, Exports, St.Vincent, Passenger cars, Units mn",None,line
-"Japan, Exports, St.Vincent, Passenger cars, Units th","Japan, Exports, St.Vincent, Passenger cars, Units th",None,line
-"Japan, Exports, Switzerland, Passenger cars, JPY bn","Japan, Exports, Switzerland, Passenger cars, JPY bn",None,line
-"Japan, Exports, Switzerland, Passenger cars, Units mn","Japan, Exports, Switzerland, Passenger cars, Units mn",None,line
-"Japan, Exports, Switzerland, Passenger cars, Units th","Japan, Exports, Switzerland, Passenger cars, Units th",None,line
-"Japan, Exports, Taiwan, Passenger cars, JPY bn","Japan, Exports, Taiwan, Passenger cars, JPY bn",None,line
-"Japan, Exports, Taiwan, Passenger cars, Units mn","Japan, Exports, Taiwan, Passenger cars, Units mn",None,line
-"Japan, Exports, Taiwan, Passenger cars, Units th","Japan, Exports, Taiwan, Passenger cars, Units th",None,line
-"Japan, Exports, The West Bank and Gaza Strip, Passenger cars, JPY bn","Japan, Exports, The West Bank and Gaza Strip, Passenger cars, JPY bn",None,line
-"Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Units mn","Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Units mn",None,line
-"Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Units th","Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Units th",None,line
-"Japan, Exports, Timor-Leste, Passenger cars, JPY bn","Japan, Exports, Timor-Leste, Passenger cars, JPY bn",None,line
-"Japan, Exports, Timor-Leste, Passenger cars, Units mn","Japan, Exports, Timor-Leste, Passenger cars, Units mn",None,line
-"Japan, Exports, Timor-Leste, Passenger cars, Units th","Japan, Exports, Timor-Leste, Passenger cars, Units th",None,line
-"Japan, Exports, Turkmenistan, Passenger cars, JPY bn","Japan, Exports, Turkmenistan, Passenger cars, JPY bn",None,line
-"Japan, Exports, Turkmenistan, Passenger cars, Units mn","Japan, Exports, Turkmenistan, Passenger cars, Units mn",None,line
-"Japan, Exports, Turkmenistan, Passenger cars, Units th","Japan, Exports, Turkmenistan, Passenger cars, Units th",None,line
-"Japan, Exports, US Virgin Islands, Passenger cars, JPY bn","Japan, Exports, US Virgin Islands, Passenger cars, JPY bn",None,line
-"Japan, Exports, US Virgin Islands, Passenger cars, Units mn","Japan, Exports, US Virgin Islands, Passenger cars, Units mn",None,line
-"Japan, Exports, US Virgin Islands, Passenger cars, Units th","Japan, Exports, US Virgin Islands, Passenger cars, Units th",None,line
-"Japan, Exports, US, Passenger cars, Units mn","Japan, Exports, US, Passenger cars, Units mn",None,line
-"Japan, Exports, US, Passenger cars, Units th","Japan, Exports, US, Passenger cars, Units th",None,line
-"Japan, Exports, United Arab Emirates, Passenger cars, JPY bn","Japan, Exports, United Arab Emirates, Passenger cars, JPY bn",None,line
-"Japan, Exports, United Arab Emirates, Passenger cars, Units mn","Japan, Exports, United Arab Emirates, Passenger cars, Units mn",None,line
-"Japan, Exports, United Arab Emirates, Passenger cars, Units th","Japan, Exports, United Arab Emirates, Passenger cars, Units th",None,line
-"Japan, Exports, Viet Nam, Passenger cars, JPY bn","Japan, Exports, Viet Nam, Passenger cars, JPY bn",None,line
-"Japan, Exports, Viet Nam, Passenger cars, Units mn","Japan, Exports, Viet Nam, Passenger cars, Units mn",None,line
-"Japan, Exports, Viet Nam, Passenger cars, Units th","Japan, Exports, Viet Nam, Passenger cars, Units th",None,line
-"Japan, Exports, West Sahara, Passenger cars, JPY bn","Japan, Exports, West Sahara, Passenger cars, JPY bn",None,line
-"Japan, Exports, West Sahara, Passenger cars, Units mn","Japan, Exports, West Sahara, Passenger cars, Units mn",None,line
-"Japan, Exports, West Sahara, Passenger cars, Units th","Japan, Exports, West Sahara, Passenger cars, Units th",None,line
-"Japan, Imports, China, Passenger cars, JPY bn","Japan, Imports, China, Passenger cars, JPY bn",None,line
-"Japan, Imports, China, Passenger cars, Units mn","Japan, Imports, China, Passenger cars, Units mn",None,line
-"Japan, Imports, China, Passenger cars, Units th","Japan, Imports, China, Passenger cars, Units th",None,line
-"Japan, Imports, Colombia, Passenger cars, JPY bn","Japan, Imports, Colombia, Passenger cars, JPY bn",None,line
-"Japan, Imports, Colombia, Passenger cars, Units mn","Japan, Imports, Colombia, Passenger cars, Units mn",None,line
-"Japan, Imports, Colombia, Passenger cars, Units th","Japan, Imports, Colombia, Passenger cars, Units th",None,line
-"Japan, Imports, Dominican Republic, Passenger cars, JPY bn","Japan, Imports, Dominican Republic, Passenger cars, JPY bn",None,line
-"Japan, Imports, Dominican Republic, Passenger cars, Units mn","Japan, Imports, Dominican Republic, Passenger cars, Units mn",None,line
-"Japan, Imports, Dominican Republic, Passenger cars, Units th","Japan, Imports, Dominican Republic, Passenger cars, Units th",None,line
-"Japan, Imports, French West Indies, Passenger cars, JPY bn","Japan, Imports, French West Indies, Passenger cars, JPY bn",None,line
-"Japan, Imports, French West Indies, Passenger cars, Units mn","Japan, Imports, French West Indies, Passenger cars, Units mn",None,line
-"Japan, Imports, French West Indies, Passenger cars, Units th","Japan, Imports, French West Indies, Passenger cars, Units th",None,line
-"Japan, Imports, Hong Kong, Passenger cars, JPY bn","Japan, Imports, Hong Kong, Passenger cars, JPY bn",None,line
-"Japan, Imports, Hong Kong, Passenger cars, Units mn","Japan, Imports, Hong Kong, Passenger cars, Units mn",None,line
-"Japan, Imports, Hong Kong, Passenger cars, Units th","Japan, Imports, Hong Kong, Passenger cars, Units th",None,line
-"Japan, Imports, Kyrgyz, Passenger cars, JPY bn","Japan, Imports, Kyrgyz, Passenger cars, JPY bn",None,line
-"Japan, Imports, Kyrgyz, Passenger cars, Units mn","Japan, Imports, Kyrgyz, Passenger cars, Units mn",None,line
-"Japan, Imports, Kyrgyz, Passenger cars, Units th","Japan, Imports, Kyrgyz, Passenger cars, Units th",None,line
-"Japan, Imports, Luxembourg, Passenger cars, JPY bn","Japan, Imports, Luxembourg, Passenger cars, JPY bn",None,line
-"Japan, Imports, Luxembourg, Passenger cars, Units mn","Japan, Imports, Luxembourg, Passenger cars, Units mn",None,line
-"Japan, Imports, Luxembourg, Passenger cars, Units th","Japan, Imports, Luxembourg, Passenger cars, Units th",None,line
-"Japan, Imports, Netherlands, Passenger cars, JPY bn","Japan, Imports, Netherlands, Passenger cars, JPY bn",None,line
-"Japan, Imports, Netherlands, Passenger cars, Units mn","Japan, Imports, Netherlands, Passenger cars, Units mn",None,line
-"Japan, Imports, Netherlands, Passenger cars, Units th","Japan, Imports, Netherlands, Passenger cars, Units th",None,line
-"Japan, Imports, Pakistan, Passenger cars, JPY bn","Japan, Imports, Pakistan, Passenger cars, JPY bn",None,line
-"Japan, Imports, Pakistan, Passenger cars, Units mn","Japan, Imports, Pakistan, Passenger cars, Units mn",None,line
-"Japan, Imports, Pakistan, Passenger cars, Units th","Japan, Imports, Pakistan, Passenger cars, Units th",None,line
-"Japan, Imports, Portugal, Passenger cars, JPY bn","Japan, Imports, Portugal, Passenger cars, JPY bn",None,line
-"Japan, Imports, Portugal, Passenger cars, Units mn","Japan, Imports, Portugal, Passenger cars, Units mn",None,line
-"Japan, Imports, Portugal, Passenger cars, Units th","Japan, Imports, Portugal, Passenger cars, Units th",None,line
-"Japan, Imports, Sri Lanka, Passenger cars, JPY bn","Japan, Imports, Sri Lanka, Passenger cars, JPY bn",None,line
-"Japan, Imports, Sri Lanka, Passenger cars, Units mn","Japan, Imports, Sri Lanka, Passenger cars, Units mn",None,line
-"Japan, Imports, Sri Lanka, Passenger cars, Units th","Japan, Imports, Sri Lanka, Passenger cars, Units th",None,line
-"Japan, Imports, Switzerland, Passenger cars, JPY bn","Japan, Imports, Switzerland, Passenger cars, JPY bn",None,line
-"Japan, Imports, Switzerland, Passenger cars, Units mn","Japan, Imports, Switzerland, Passenger cars, Units mn",None,line
-"Japan, Imports, Switzerland, Passenger cars, Units th","Japan, Imports, Switzerland, Passenger cars, Units th",None,line
-"Japan, Imports, Taiwan, Passenger cars, JPY bn","Japan, Imports, Taiwan, Passenger cars, JPY bn",None,line
-"Japan, Imports, Taiwan, Passenger cars, Units mn","Japan, Imports, Taiwan, Passenger cars, Units mn",None,line
-"Japan, Imports, Taiwan, Passenger cars, Units th","Japan, Imports, Taiwan, Passenger cars, Units th",None,line
-"Japan, Imports, US, Passenger cars, JPY bn","Japan, Imports, US, Passenger cars, JPY bn",None,line
-"Japan, Imports, US, Passenger cars, Units mn","Japan, Imports, US, Passenger cars, Units mn",None,line
-"Japan, Imports, US, Passenger cars, Units th","Japan, Imports, US, Passenger cars, Units th",None,line
-"Japan, Imports, United Arab Emirates, Passenger cars, JPY bn","Japan, Imports, United Arab Emirates, Passenger cars, JPY bn",None,line
-"Japan, Imports, United Arab Emirates, Passenger cars, Units mn","Japan, Imports, United Arab Emirates, Passenger cars, Units mn",None,line
-"Japan, Imports, United Arab Emirates, Passenger cars, Units th","Japan, Imports, United Arab Emirates, Passenger cars, Units th",None,line
-"Japan, Imports, Unknown, Passenger cars, JPY bn","Japan, Imports, Unknown, Passenger cars, JPY bn",None,line
-"Japan, Imports, Unknown, Passenger cars, Units mn","Japan, Imports, Unknown, Passenger cars, Units mn",None,line
-"Japan, Imports, Unknown, Passenger cars, Units th","Japan, Imports, Unknown, Passenger cars, Units th",None,line
-"Japan, Imports, Viet Nam, Passenger cars, JPY bn","Japan, Imports, Viet Nam, Passenger cars, JPY bn",None,line
-"Japan, Imports, Viet Nam, Passenger cars, Units mn","Japan, Imports, Viet Nam, Passenger cars, Units mn",None,line
-"Japan, Imports, Viet Nam, Passenger cars, Units th","Japan, Imports, Viet Nam, Passenger cars, Units th",None,line
-"Japan, Exports, ASEAN, Passenger cars, JPY bn","Japan, Exports, ASEAN, Passenger cars, JPY bn",None,line
-"Japan, Exports, ASEAN, Passenger cars, Units mn","Japan, Exports, ASEAN, Passenger cars, Units mn",None,line
-"Japan, Exports, ASEAN, Passenger cars, Units th","Japan, Exports, ASEAN, Passenger cars, Units th",None,line
-"Japan, Imports, ASEAN, Passenger cars, JPY bn","Japan, Imports, ASEAN, Passenger cars, JPY bn",None,line
-"Japan, Imports, ASEAN, Passenger cars, Units mn","Japan, Imports, ASEAN, Passenger cars, Units mn",None,line
-"Japan, Imports, ASEAN, Passenger cars, Units th","Japan, Imports, ASEAN, Passenger cars, Units th",None,line
-"Japan, Trade balance, ASEAN, Passenger cars, JPY bn","Japan, Trade balance, ASEAN, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, ASEAN, Passenger cars, Units mn","Japan, Trade balance, ASEAN, Passenger cars, Units mn",None,line
-"Japan, Trade balance, ASEAN, Passenger cars, Units th","Japan, Trade balance, ASEAN, Passenger cars, Units th",None,line
-"Japan, Trade balance, Afghanistan, Passenger cars, JPY bn","Japan, Trade balance, Afghanistan, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Afghanistan, Passenger cars, Units mn","Japan, Trade balance, Afghanistan, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Afghanistan, Passenger cars, Units th","Japan, Trade balance, Afghanistan, Passenger cars, Units th",None,line
-"Japan, Trade balance, Bhutan, Passenger cars, JPY bn","Japan, Trade balance, Bhutan, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Bhutan, Passenger cars, Units mn","Japan, Trade balance, Bhutan, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Bhutan, Passenger cars, Units th","Japan, Trade balance, Bhutan, Passenger cars, Units th",None,line
-"Japan, Trade balance, Bosnia and Herzegovina, Passenger cars, JPY bn","Japan, Trade balance, Bosnia and Herzegovina, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Bosnia and Herzegovina, Passenger cars, Units mn","Japan, Trade balance, Bosnia and Herzegovina, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Bosnia and Herzegovina, Passenger cars, Units th","Japan, Trade balance, Bosnia and Herzegovina, Passenger cars, Units th",None,line
-"Japan, Trade balance, British Anguilla, Passenger cars, JPY bn","Japan, Trade balance, British Anguilla, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, British Anguilla, Passenger cars, Units mn","Japan, Trade balance, British Anguilla, Passenger cars, Units mn",None,line
-"Japan, Trade balance, British Anguilla, Passenger cars, Units th","Japan, Trade balance, British Anguilla, Passenger cars, Units th",None,line
-"Japan, Trade balance, British Antarctic Territory, Passenger cars, JPY bn","Japan, Trade balance, British Antarctic Territory, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, British Antarctic Territory, Passenger cars, Units mn","Japan, Trade balance, British Antarctic Territory, Passenger cars, Units mn",None,line
-"Japan, Trade balance, British Antarctic Territory, Passenger cars, Units th","Japan, Trade balance, British Antarctic Territory, Passenger cars, Units th",None,line
-"Japan, Trade balance, British indian Ocean Territories, Passenger cars, JPY bn","Japan, Trade balance, British indian Ocean Territories, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, British indian Ocean Territories, Passenger cars, Units mn","Japan, Trade balance, British indian Ocean Territories, Passenger cars, Units mn",None,line
-"Japan, Trade balance, British indian Ocean Territories, Passenger cars, Units th","Japan, Trade balance, British indian Ocean Territories, Passenger cars, Units th",None,line
-"Japan, Trade balance, Passenger cars, JPY bn","Japan, Trade balance, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Central Africa, Passenger cars, JPY bn","Japan, Trade balance, Central Africa, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Central Africa, Passenger cars, Units mn","Japan, Trade balance, Central Africa, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Central Africa, Passenger cars, Units th","Japan, Trade balance, Central Africa, Passenger cars, Units th",None,line
-"Japan, Trade balance, China, Passenger cars, JPY bn","Japan, Trade balance, China, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, China, Passenger cars, Units mn","Japan, Trade balance, China, Passenger cars, Units mn",None,line
-"Japan, Trade balance, China, Passenger cars, Units th","Japan, Trade balance, China, Passenger cars, Units th",None,line
-"Japan, Trade balance, Colombia, Passenger cars, JPY bn","Japan, Trade balance, Colombia, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Colombia, Passenger cars, Units mn","Japan, Trade balance, Colombia, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Colombia, Passenger cars, Units th","Japan, Trade balance, Colombia, Passenger cars, Units th",None,line
-"Japan, Trade balance, Cook, Passenger cars, JPY bn","Japan, Trade balance, Cook, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Cook, Passenger cars, Units mn","Japan, Trade balance, Cook, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Cook, Passenger cars, Units th","Japan, Trade balance, Cook, Passenger cars, Units th",None,line
-"Japan, Trade balance, Democratic Republic of Congo, Passenger cars, JPY bn","Japan, Trade balance, Democratic Republic of Congo, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Democratic Republic of Congo, Passenger cars, Units mn","Japan, Trade balance, Democratic Republic of Congo, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Democratic Republic of Congo, Passenger cars, Units th","Japan, Trade balance, Democratic Republic of Congo, Passenger cars, Units th",None,line
-"Japan, Trade balance, Dominica, Passenger cars, JPY bn","Japan, Trade balance, Dominica, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Dominica, Passenger cars, Units mn","Japan, Trade balance, Dominica, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Dominica, Passenger cars, Units th","Japan, Trade balance, Dominica, Passenger cars, Units th",None,line
-"Japan, Trade balance, Dominican Republic, Passenger cars, JPY bn","Japan, Trade balance, Dominican Republic, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Dominican Republic, Passenger cars, Units mn","Japan, Trade balance, Dominican Republic, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Dominican Republic, Passenger cars, Units th","Japan, Trade balance, Dominican Republic, Passenger cars, Units th",None,line
-"Japan, Trade balance, For Order, Passenger cars, JPY bn","Japan, Trade balance, For Order, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, For Order, Passenger cars, Units mn","Japan, Trade balance, For Order, Passenger cars, Units mn",None,line
-"Japan, Trade balance, For Order, Passenger cars, Units th","Japan, Trade balance, For Order, Passenger cars, Units th",None,line
-"Japan, Trade balance, French West Indies, Passenger cars, JPY bn","Japan, Trade balance, French West Indies, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, French West Indies, Passenger cars, Units mn","Japan, Trade balance, French West Indies, Passenger cars, Units mn",None,line
-"Japan, Trade balance, French West Indies, Passenger cars, Units th","Japan, Trade balance, French West Indies, Passenger cars, Units th",None,line
-"Japan, Trade balance, Guatemala, Passenger cars, JPY bn","Japan, Trade balance, Guatemala, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Guatemala, Passenger cars, Units mn","Japan, Trade balance, Guatemala, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Guatemala, Passenger cars, Units th","Japan, Trade balance, Guatemala, Passenger cars, Units th",None,line
-"Japan, Trade balance, Hong Kong, Passenger cars, JPY bn","Japan, Trade balance, Hong Kong, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Hong Kong, Passenger cars, Units mn","Japan, Trade balance, Hong Kong, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Hong Kong, Passenger cars, Units th","Japan, Trade balance, Hong Kong, Passenger cars, Units th",None,line
-"Japan, Trade balance, Kyrgyz, Passenger cars, JPY bn","Japan, Trade balance, Kyrgyz, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Kyrgyz, Passenger cars, Units mn","Japan, Trade balance, Kyrgyz, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Kyrgyz, Passenger cars, Units th","Japan, Trade balance, Kyrgyz, Passenger cars, Units th",None,line
-"Japan, Trade balance, Luxembourg, Passenger cars, JPY bn","Japan, Trade balance, Luxembourg, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Luxembourg, Passenger cars, Units mn","Japan, Trade balance, Luxembourg, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Luxembourg, Passenger cars, Units th","Japan, Trade balance, Luxembourg, Passenger cars, Units th",None,line
-"Japan, Trade balance, Marshall, Passenger cars, JPY bn","Japan, Trade balance, Marshall, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Marshall, Passenger cars, Units mn","Japan, Trade balance, Marshall, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Marshall, Passenger cars, Units th","Japan, Trade balance, Marshall, Passenger cars, Units th",None,line
-"Japan, Trade balance, Mauritania, Passenger cars, JPY bn","Japan, Trade balance, Mauritania, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Mauritania, Passenger cars, Units mn","Japan, Trade balance, Mauritania, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Mauritania, Passenger cars, Units th","Japan, Trade balance, Mauritania, Passenger cars, Units th",None,line
-"Japan, Trade balance, Nauru, Passenger cars, JPY bn","Japan, Trade balance, Nauru, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Nauru, Passenger cars, Units mn","Japan, Trade balance, Nauru, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Nauru, Passenger cars, Units th","Japan, Trade balance, Nauru, Passenger cars, Units th",None,line
-"Japan, Trade balance, Netherlands Antilles, Passenger cars, JPY bn","Japan, Trade balance, Netherlands Antilles, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Netherlands Antilles, Passenger cars, Units mn","Japan, Trade balance, Netherlands Antilles, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Netherlands Antilles, Passenger cars, Units th","Japan, Trade balance, Netherlands Antilles, Passenger cars, Units th",None,line
-"Japan, Trade balance, Netherlands, Passenger cars, JPY bn","Japan, Trade balance, Netherlands, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Netherlands, Passenger cars, Units mn","Japan, Trade balance, Netherlands, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Netherlands, Passenger cars, Units th","Japan, Trade balance, Netherlands, Passenger cars, Units th",None,line
-"Japan, Trade balance, North Macedonia, Passenger cars, JPY bn","Japan, Trade balance, North Macedonia, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, North Macedonia, Passenger cars, Units mn","Japan, Trade balance, North Macedonia, Passenger cars, Units mn",None,line
-"Japan, Trade balance, North Macedonia, Passenger cars, Units th","Japan, Trade balance, North Macedonia, Passenger cars, Units th",None,line
-"Japan, Trade balance, Pakistan, Passenger cars, JPY bn","Japan, Trade balance, Pakistan, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Pakistan, Passenger cars, Units mn","Japan, Trade balance, Pakistan, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Pakistan, Passenger cars, Units th","Japan, Trade balance, Pakistan, Passenger cars, Units th",None,line
-"Japan, Trade balance, Portugal, Passenger cars, JPY bn","Japan, Trade balance, Portugal, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Portugal, Passenger cars, Units mn","Japan, Trade balance, Portugal, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Portugal, Passenger cars, Units th","Japan, Trade balance, Portugal, Passenger cars, Units th",None,line
-"Japan, Trade balance, Rep. of Cote d'Ivoire, Passenger cars, JPY bn","Japan, Trade balance, Rep. of Cote d'Ivoire, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Rep. of Cote d'Ivoire, Passenger cars, Units mn","Japan, Trade balance, Rep. of Cote d'Ivoire, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Rep. of Cote d'Ivoire, Passenger cars, Units th","Japan, Trade balance, Rep. of Cote d'Ivoire, Passenger cars, Units th",None,line
-"Japan, Trade balance, Republic of Congo, Passenger cars, JPY bn","Japan, Trade balance, Republic of Congo, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Republic of Congo, Passenger cars, Units mn","Japan, Trade balance, Republic of Congo, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Republic of Congo, Passenger cars, Units th","Japan, Trade balance, Republic of Congo, Passenger cars, Units th",None,line
-"Japan, Trade balance, Sao Tome and Principe, Passenger cars, JPY bn","Japan, Trade balance, Sao Tome and Principe, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Sao Tome and Principe, Passenger cars, Units mn","Japan, Trade balance, Sao Tome and Principe, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Sao Tome and Principe, Passenger cars, Units th","Japan, Trade balance, Sao Tome and Principe, Passenger cars, Units th",None,line
-"Japan, Trade balance, Sri Lanka, Passenger cars, JPY bn","Japan, Trade balance, Sri Lanka, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Sri Lanka, Passenger cars, Units mn","Japan, Trade balance, Sri Lanka, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Sri Lanka, Passenger cars, Units th","Japan, Trade balance, Sri Lanka, Passenger cars, Units th",None,line
-"Japan, Trade balance, St.Christopher and Nevis, Passenger cars, JPY bn","Japan, Trade balance, St.Christopher and Nevis, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, St.Christopher and Nevis, Passenger cars, Units mn","Japan, Trade balance, St.Christopher and Nevis, Passenger cars, Units mn",None,line
-"Japan, Trade balance, St.Christopher and Nevis, Passenger cars, Units th","Japan, Trade balance, St.Christopher and Nevis, Passenger cars, Units th",None,line
-"Japan, Trade balance, St.Lucia, Passenger cars, JPY bn","Japan, Trade balance, St.Lucia, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, St.Lucia, Passenger cars, Units mn","Japan, Trade balance, St.Lucia, Passenger cars, Units mn",None,line
-"Japan, Trade balance, St.Lucia, Passenger cars, Units th","Japan, Trade balance, St.Lucia, Passenger cars, Units th",None,line
-"Japan, Trade balance, St.Vincent, Passenger cars, JPY bn","Japan, Trade balance, St.Vincent, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, St.Vincent, Passenger cars, Units mn","Japan, Trade balance, St.Vincent, Passenger cars, Units mn",None,line
-"Japan, Trade balance, St.Vincent, Passenger cars, Units th","Japan, Trade balance, St.Vincent, Passenger cars, Units th",None,line
-"Japan, Trade balance, Switzerland, Passenger cars, JPY bn","Japan, Trade balance, Switzerland, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Switzerland, Passenger cars, Units mn","Japan, Trade balance, Switzerland, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Switzerland, Passenger cars, Units th","Japan, Trade balance, Switzerland, Passenger cars, Units th",None,line
-"Japan, Trade balance, Taiwan, Passenger cars, JPY bn","Japan, Trade balance, Taiwan, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Taiwan, Passenger cars, Units mn","Japan, Trade balance, Taiwan, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Taiwan, Passenger cars, Units th","Japan, Trade balance, Taiwan, Passenger cars, Units th",None,line
-"Japan, Trade balance, The West Bank and Gaza Strip, Passenger cars, JPY bn","Japan, Trade balance, The West Bank and Gaza Strip, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, The West Bank and Gaza Strip, Passenger cars, Units mn","Japan, Trade balance, The West Bank and Gaza Strip, Passenger cars, Units mn",None,line
-"Japan, Trade balance, The West Bank and Gaza Strip, Passenger cars, Units th","Japan, Trade balance, The West Bank and Gaza Strip, Passenger cars, Units th",None,line
-"Japan, Trade balance, Timor-Leste, Passenger cars, JPY bn","Japan, Trade balance, Timor-Leste, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Timor-Leste, Passenger cars, Units mn","Japan, Trade balance, Timor-Leste, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Timor-Leste, Passenger cars, Units th","Japan, Trade balance, Timor-Leste, Passenger cars, Units th",None,line
-"Japan, Trade balance, Turkmenistan, Passenger cars, JPY bn","Japan, Trade balance, Turkmenistan, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Turkmenistan, Passenger cars, Units mn","Japan, Trade balance, Turkmenistan, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Turkmenistan, Passenger cars, Units th","Japan, Trade balance, Turkmenistan, Passenger cars, Units th",None,line
-"Japan, Trade balance, US Virgin Islands, Passenger cars, JPY bn","Japan, Trade balance, US Virgin Islands, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, US Virgin Islands, Passenger cars, Units mn","Japan, Trade balance, US Virgin Islands, Passenger cars, Units mn",None,line
-"Japan, Trade balance, US Virgin Islands, Passenger cars, Units th","Japan, Trade balance, US Virgin Islands, Passenger cars, Units th",None,line
-"Japan, Trade balance, US, Passenger cars, JPY bn","Japan, Trade balance, US, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, US, Passenger cars, Units mn","Japan, Trade balance, US, Passenger cars, Units mn",None,line
-"Japan, Trade balance, US, Passenger cars, Units th","Japan, Trade balance, US, Passenger cars, Units th",None,line
-"Japan, Trade balance, US, Passenger cars, Volume, mn","Japan, Trade balance, US, Passenger cars, Volume, mn",None,line
-"Japan, Trade balance, United Arab Emirates, Passenger cars, JPY bn","Japan, Trade balance, United Arab Emirates, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, United Arab Emirates, Passenger cars, Units mn","Japan, Trade balance, United Arab Emirates, Passenger cars, Units mn",None,line
-"Japan, Trade balance, United Arab Emirates, Passenger cars, Units th","Japan, Trade balance, United Arab Emirates, Passenger cars, Units th",None,line
-"Japan, Trade balance, Unknown, Passenger cars, JPY bn","Japan, Trade balance, Unknown, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Unknown, Passenger cars, Units mn","Japan, Trade balance, Unknown, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Unknown, Passenger cars, Units th","Japan, Trade balance, Unknown, Passenger cars, Units th",None,line
-"Japan, Trade balance, Viet Nam, Passenger cars, JPY bn","Japan, Trade balance, Viet Nam, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, Viet Nam, Passenger cars, Units mn","Japan, Trade balance, Viet Nam, Passenger cars, Units mn",None,line
-"Japan, Trade balance, Viet Nam, Passenger cars, Units th","Japan, Trade balance, Viet Nam, Passenger cars, Units th",None,line
-"Japan, Trade balance, West Sahara, Passenger cars, JPY bn","Japan, Trade balance, West Sahara, Passenger cars, JPY bn",None,line
-"Japan, Trade balance, West Sahara, Passenger cars, Units mn","Japan, Trade balance, West Sahara, Passenger cars, Units mn",None,line
-"Japan, Trade balance, West Sahara, Passenger cars, Units th","Japan, Trade balance, West Sahara, Passenger cars, Units th",None,line
-"Japan, Exports, China, Passenger cars, Unit price, JPY th","Japan, Exports, China, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, US, Passenger cars, Unit price, JPY th","Japan, Exports, US, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Afghanistan, Passenger cars, Unit price, JPY th","Japan, Exports, Afghanistan, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Bhutan, Passenger cars, Unit price, JPY th","Japan, Exports, Bhutan, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Bosnia and Herzegovina, Passenger cars, Unit price, JPY th","Japan, Exports, Bosnia and Herzegovina, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, British Anguilla, Passenger cars, Unit price, JPY th","Japan, Exports, British Anguilla, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, British Antarctic Territory, Passenger cars, Unit price, JPY th","Japan, Exports, British Antarctic Territory, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, British indian Ocean Territories, Passenger cars, Unit price, JPY th","Japan, Exports, British indian Ocean Territories, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Central Africa, Passenger cars, Unit price, JPY th","Japan, Exports, Central Africa, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Colombia, Passenger cars, Unit price, JPY th","Japan, Exports, Colombia, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Cook, Passenger cars, Unit price, JPY th","Japan, Exports, Cook, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Democratic Republic of Congo, Passenger cars, Unit price, JPY th","Japan, Exports, Democratic Republic of Congo, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Dominica, Passenger cars, Unit price, JPY th","Japan, Exports, Dominica, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Dominican Republic, Passenger cars, Unit price, JPY th","Japan, Exports, Dominican Republic, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, For Order, Passenger cars, Unit price, JPY th","Japan, Exports, For Order, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, French West Indies, Passenger cars, Unit price, JPY th","Japan, Exports, French West Indies, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Guatemala, Passenger cars, Unit price, JPY th","Japan, Exports, Guatemala, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Hong Kong, Passenger cars, Unit price, JPY th","Japan, Exports, Hong Kong, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Kyrgyz, Passenger cars, Unit price, JPY th","Japan, Exports, Kyrgyz, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Luxembourg, Passenger cars, Unit price, JPY th","Japan, Exports, Luxembourg, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Marshall, Passenger cars, Unit price, JPY th","Japan, Exports, Marshall, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Mauritania, Passenger cars, Unit price, JPY th","Japan, Exports, Mauritania, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Nauru, Passenger cars, Unit price, JPY th","Japan, Exports, Nauru, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Netherlands Antilles, Passenger cars, Unit price, JPY th","Japan, Exports, Netherlands Antilles, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Netherlands, Passenger cars, Unit price, JPY th","Japan, Exports, Netherlands, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, North Macedonia, Passenger cars, Unit price, JPY th","Japan, Exports, North Macedonia, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Pakistan, Passenger cars, Unit price, JPY th","Japan, Exports, Pakistan, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Portugal, Passenger cars, Unit price, JPY th","Japan, Exports, Portugal, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Unit price, JPY th","Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Republic of Congo, Passenger cars, Unit price, JPY th","Japan, Exports, Republic of Congo, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Sao Tome and Principe, Passenger cars, Unit price, JPY th","Japan, Exports, Sao Tome and Principe, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Sri Lanka, Passenger cars, Unit price, JPY th","Japan, Exports, Sri Lanka, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, St.Christopher and Nevis, Passenger cars, Unit price, JPY th","Japan, Exports, St.Christopher and Nevis, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, St.Lucia, Passenger cars, Unit price, JPY th","Japan, Exports, St.Lucia, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, St.Vincent, Passenger cars, Unit price, JPY th","Japan, Exports, St.Vincent, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Switzerland, Passenger cars, Unit price, JPY th","Japan, Exports, Switzerland, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Taiwan, Passenger cars, Unit price, JPY th","Japan, Exports, Taiwan, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Unit price, JPY th","Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Timor-Leste, Passenger cars, Unit price, JPY th","Japan, Exports, Timor-Leste, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Turkmenistan, Passenger cars, Unit price, JPY th","Japan, Exports, Turkmenistan, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, US Virgin Islands, Passenger cars, Unit price, JPY th","Japan, Exports, US Virgin Islands, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, United Arab Emirates, Passenger cars, Unit price, JPY th","Japan, Exports, United Arab Emirates, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, Viet Nam, Passenger cars, Unit price, JPY th","Japan, Exports, Viet Nam, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, West Sahara, Passenger cars, Unit price, JPY th","Japan, Exports, West Sahara, Passenger cars, Unit price, JPY th",None,line
-"Japan, Exports, ASEAN, Passenger cars, Unit price, JPY th","Japan, Exports, ASEAN, Passenger cars, Unit price, JPY th",None,line
 "Japan, Exports, All, SA, JPY bn","Japan, Exports, All, SA, JPY bn",None,line
 "Japan, Imports, All, SA, JPY bn","Japan, Imports, All, SA, JPY bn",None,line
 "Japan, Exports, ASEAN, SA, JPY bn","Japan, Exports, ASEAN, SA, JPY bn",None,line
@@ -1476,7 +1085,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, Group, Transport equipment, USD bn","Japan, Imports, Group, Transport equipment, USD bn",None,line
 "Japan, Imports, IC, USD bn","Japan, Imports, IC, USD bn",None,line
 "Japan, Imports, Semiconductors, USD bn","Japan, Imports, Semiconductors, USD bn",None,line
-"Japan, Exports, Passenger cars, USD bn","Japan, Exports, Passenger cars, USD bn",None,line
 "Japan, Exports, Group, Chemicals, USD bn","Japan, Exports, Group, Chemicals, USD bn",None,line
 "Japan, Exports, Group, Electrical machinery, USD bn","Japan, Exports, Group, Electrical machinery, USD bn",None,line
 "Japan, Exports, Group, Foodstuffs, USD bn","Japan, Exports, Group, Foodstuffs, USD bn",None,line
@@ -1524,7 +1132,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, Vietnam, USD bn","Japan, Imports, Vietnam, USD bn",None,line
 "Japan, Imports, World, USD bn","Japan, Imports, World, USD bn",None,line
 "Japan, Imports, nan, USD bn","Japan, Imports, nan, USD bn",None,line
-"Japan, Exports, China, Passenger cars, USD bn","Japan, Exports, China, Passenger cars, USD bn",None,line
 "Japan, Exports, China, Group, Chemicals, USD bn","Japan, Exports, China, Group, Chemicals, USD bn",None,line
 "Japan, Exports, China, Group, Electrical machinery, USD bn","Japan, Exports, China, Group, Electrical machinery, USD bn",None,line
 "Japan, Exports, China, Group, Foodstuffs, USD bn","Japan, Exports, China, Group, Foodstuffs, USD bn",None,line
@@ -1551,7 +1158,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, China, IC, USD bn","Japan, Imports, China, IC, USD bn",None,line
 "Japan, Imports, China, Semiconductors, USD bn","Japan, Imports, China, Semiconductors, USD bn",None,line
 "Japan, Imports, China, Total, USD bn","Japan, Imports, China, Total, USD bn",None,line
-"Japan, Exports, US, Passenger cars, USD bn","Japan, Exports, US, Passenger cars, USD bn",None,line
 "Japan, Exports, US, Group, Chemicals, USD bn","Japan, Exports, US, Group, Chemicals, USD bn",None,line
 "Japan, Exports, US, Group, Electrical machinery, USD bn","Japan, Exports, US, Group, Electrical machinery, USD bn",None,line
 "Japan, Exports, US, Group, Foodstuffs, USD bn","Japan, Exports, US, Group, Foodstuffs, USD bn",None,line
@@ -1602,159 +1208,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Semiconductors and semicon machinery, USD bn","Japan, Exports, Semiconductors and semicon machinery, USD bn",None,line
 "Japan, Exports, China excluding semicon machinery, USD bn","Japan, Exports, China excluding semicon machinery, USD bn",None,line
 "Japan, Exports, China and Hong Kong excluding semicon machinery, USD bn","Japan, Exports, China and Hong Kong excluding semicon machinery, USD bn",None,line
-"Japan, Exports, Afghanistan, Passenger cars, USD bn","Japan, Exports, Afghanistan, Passenger cars, USD bn",None,line
-"Japan, Exports, Bhutan, Passenger cars, USD bn","Japan, Exports, Bhutan, Passenger cars, USD bn",None,line
-"Japan, Exports, Bosnia and Herzegovina, Passenger cars, USD bn","Japan, Exports, Bosnia and Herzegovina, Passenger cars, USD bn",None,line
-"Japan, Exports, British Anguilla, Passenger cars, USD bn","Japan, Exports, British Anguilla, Passenger cars, USD bn",None,line
-"Japan, Exports, British Antarctic Territory, Passenger cars, USD bn","Japan, Exports, British Antarctic Territory, Passenger cars, USD bn",None,line
-"Japan, Exports, British indian Ocean Territories, Passenger cars, USD bn","Japan, Exports, British indian Ocean Territories, Passenger cars, USD bn",None,line
-"Japan, Exports, Central Africa, Passenger cars, USD bn","Japan, Exports, Central Africa, Passenger cars, USD bn",None,line
-"Japan, Exports, Colombia, Passenger cars, USD bn","Japan, Exports, Colombia, Passenger cars, USD bn",None,line
-"Japan, Exports, Cook, Passenger cars, USD bn","Japan, Exports, Cook, Passenger cars, USD bn",None,line
-"Japan, Exports, Democratic Republic of Congo, Passenger cars, USD bn","Japan, Exports, Democratic Republic of Congo, Passenger cars, USD bn",None,line
-"Japan, Exports, Dominica, Passenger cars, USD bn","Japan, Exports, Dominica, Passenger cars, USD bn",None,line
-"Japan, Exports, Dominican Republic, Passenger cars, USD bn","Japan, Exports, Dominican Republic, Passenger cars, USD bn",None,line
-"Japan, Exports, For Order, Passenger cars, USD bn","Japan, Exports, For Order, Passenger cars, USD bn",None,line
-"Japan, Exports, French West Indies, Passenger cars, USD bn","Japan, Exports, French West Indies, Passenger cars, USD bn",None,line
-"Japan, Exports, Guatemala, Passenger cars, USD bn","Japan, Exports, Guatemala, Passenger cars, USD bn",None,line
-"Japan, Exports, Hong Kong, Passenger cars, USD bn","Japan, Exports, Hong Kong, Passenger cars, USD bn",None,line
-"Japan, Exports, Kyrgyz, Passenger cars, USD bn","Japan, Exports, Kyrgyz, Passenger cars, USD bn",None,line
-"Japan, Exports, Luxembourg, Passenger cars, USD bn","Japan, Exports, Luxembourg, Passenger cars, USD bn",None,line
-"Japan, Exports, Marshall, Passenger cars, USD bn","Japan, Exports, Marshall, Passenger cars, USD bn",None,line
-"Japan, Exports, Mauritania, Passenger cars, USD bn","Japan, Exports, Mauritania, Passenger cars, USD bn",None,line
-"Japan, Exports, Nauru, Passenger cars, USD bn","Japan, Exports, Nauru, Passenger cars, USD bn",None,line
-"Japan, Exports, Netherlands Antilles, Passenger cars, USD bn","Japan, Exports, Netherlands Antilles, Passenger cars, USD bn",None,line
-"Japan, Exports, Netherlands, Passenger cars, USD bn","Japan, Exports, Netherlands, Passenger cars, USD bn",None,line
-"Japan, Exports, North Macedonia, Passenger cars, USD bn","Japan, Exports, North Macedonia, Passenger cars, USD bn",None,line
-"Japan, Exports, Pakistan, Passenger cars, USD bn","Japan, Exports, Pakistan, Passenger cars, USD bn",None,line
-"Japan, Exports, Portugal, Passenger cars, USD bn","Japan, Exports, Portugal, Passenger cars, USD bn",None,line
-"Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, USD bn","Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, USD bn",None,line
-"Japan, Exports, Republic of Congo, Passenger cars, USD bn","Japan, Exports, Republic of Congo, Passenger cars, USD bn",None,line
-"Japan, Exports, Sao Tome and Principe, Passenger cars, USD bn","Japan, Exports, Sao Tome and Principe, Passenger cars, USD bn",None,line
-"Japan, Exports, Sri Lanka, Passenger cars, USD bn","Japan, Exports, Sri Lanka, Passenger cars, USD bn",None,line
-"Japan, Exports, St.Christopher and Nevis, Passenger cars, USD bn","Japan, Exports, St.Christopher and Nevis, Passenger cars, USD bn",None,line
-"Japan, Exports, St.Lucia, Passenger cars, USD bn","Japan, Exports, St.Lucia, Passenger cars, USD bn",None,line
-"Japan, Exports, St.Vincent, Passenger cars, USD bn","Japan, Exports, St.Vincent, Passenger cars, USD bn",None,line
-"Japan, Exports, Switzerland, Passenger cars, USD bn","Japan, Exports, Switzerland, Passenger cars, USD bn",None,line
-"Japan, Exports, Taiwan, Passenger cars, USD bn","Japan, Exports, Taiwan, Passenger cars, USD bn",None,line
-"Japan, Exports, The West Bank and Gaza Strip, Passenger cars, USD bn","Japan, Exports, The West Bank and Gaza Strip, Passenger cars, USD bn",None,line
-"Japan, Exports, Timor-Leste, Passenger cars, USD bn","Japan, Exports, Timor-Leste, Passenger cars, USD bn",None,line
-"Japan, Exports, Turkmenistan, Passenger cars, USD bn","Japan, Exports, Turkmenistan, Passenger cars, USD bn",None,line
-"Japan, Exports, US Virgin Islands, Passenger cars, USD bn","Japan, Exports, US Virgin Islands, Passenger cars, USD bn",None,line
-"Japan, Exports, United Arab Emirates, Passenger cars, USD bn","Japan, Exports, United Arab Emirates, Passenger cars, USD bn",None,line
-"Japan, Exports, Viet Nam, Passenger cars, USD bn","Japan, Exports, Viet Nam, Passenger cars, USD bn",None,line
-"Japan, Exports, West Sahara, Passenger cars, USD bn","Japan, Exports, West Sahara, Passenger cars, USD bn",None,line
-"Japan, Imports, China, Passenger cars, USD bn","Japan, Imports, China, Passenger cars, USD bn",None,line
-"Japan, Imports, Colombia, Passenger cars, USD bn","Japan, Imports, Colombia, Passenger cars, USD bn",None,line
-"Japan, Imports, Dominican Republic, Passenger cars, USD bn","Japan, Imports, Dominican Republic, Passenger cars, USD bn",None,line
-"Japan, Imports, French West Indies, Passenger cars, USD bn","Japan, Imports, French West Indies, Passenger cars, USD bn",None,line
-"Japan, Imports, Hong Kong, Passenger cars, USD bn","Japan, Imports, Hong Kong, Passenger cars, USD bn",None,line
-"Japan, Imports, Kyrgyz, Passenger cars, USD bn","Japan, Imports, Kyrgyz, Passenger cars, USD bn",None,line
-"Japan, Imports, Luxembourg, Passenger cars, USD bn","Japan, Imports, Luxembourg, Passenger cars, USD bn",None,line
-"Japan, Imports, Netherlands, Passenger cars, USD bn","Japan, Imports, Netherlands, Passenger cars, USD bn",None,line
-"Japan, Imports, Pakistan, Passenger cars, USD bn","Japan, Imports, Pakistan, Passenger cars, USD bn",None,line
-"Japan, Imports, Portugal, Passenger cars, USD bn","Japan, Imports, Portugal, Passenger cars, USD bn",None,line
-"Japan, Imports, Sri Lanka, Passenger cars, USD bn","Japan, Imports, Sri Lanka, Passenger cars, USD bn",None,line
-"Japan, Imports, Switzerland, Passenger cars, USD bn","Japan, Imports, Switzerland, Passenger cars, USD bn",None,line
-"Japan, Imports, Taiwan, Passenger cars, USD bn","Japan, Imports, Taiwan, Passenger cars, USD bn",None,line
-"Japan, Imports, US, Passenger cars, USD bn","Japan, Imports, US, Passenger cars, USD bn",None,line
-"Japan, Imports, United Arab Emirates, Passenger cars, USD bn","Japan, Imports, United Arab Emirates, Passenger cars, USD bn",None,line
-"Japan, Imports, Unknown, Passenger cars, USD bn","Japan, Imports, Unknown, Passenger cars, USD bn",None,line
-"Japan, Imports, Viet Nam, Passenger cars, USD bn","Japan, Imports, Viet Nam, Passenger cars, USD bn",None,line
-"Japan, Exports, ASEAN, Passenger cars, USD bn","Japan, Exports, ASEAN, Passenger cars, USD bn",None,line
-"Japan, Imports, ASEAN, Passenger cars, USD bn","Japan, Imports, ASEAN, Passenger cars, USD bn",None,line
-"Japan, Trade balance, ASEAN, Passenger cars, USD bn","Japan, Trade balance, ASEAN, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Afghanistan, Passenger cars, USD bn","Japan, Trade balance, Afghanistan, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Bhutan, Passenger cars, USD bn","Japan, Trade balance, Bhutan, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Bosnia and Herzegovina, Passenger cars, USD bn","Japan, Trade balance, Bosnia and Herzegovina, Passenger cars, USD bn",None,line
-"Japan, Trade balance, British Anguilla, Passenger cars, USD bn","Japan, Trade balance, British Anguilla, Passenger cars, USD bn",None,line
-"Japan, Trade balance, British Antarctic Territory, Passenger cars, USD bn","Japan, Trade balance, British Antarctic Territory, Passenger cars, USD bn",None,line
-"Japan, Trade balance, British indian Ocean Territories, Passenger cars, USD bn","Japan, Trade balance, British indian Ocean Territories, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Passenger cars, USD bn","Japan, Trade balance, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Central Africa, Passenger cars, USD bn","Japan, Trade balance, Central Africa, Passenger cars, USD bn",None,line
-"Japan, Trade balance, China, Passenger cars, USD bn","Japan, Trade balance, China, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Colombia, Passenger cars, USD bn","Japan, Trade balance, Colombia, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Cook, Passenger cars, USD bn","Japan, Trade balance, Cook, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Democratic Republic of Congo, Passenger cars, USD bn","Japan, Trade balance, Democratic Republic of Congo, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Dominica, Passenger cars, USD bn","Japan, Trade balance, Dominica, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Dominican Republic, Passenger cars, USD bn","Japan, Trade balance, Dominican Republic, Passenger cars, USD bn",None,line
-"Japan, Trade balance, For Order, Passenger cars, USD bn","Japan, Trade balance, For Order, Passenger cars, USD bn",None,line
-"Japan, Trade balance, French West Indies, Passenger cars, USD bn","Japan, Trade balance, French West Indies, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Guatemala, Passenger cars, USD bn","Japan, Trade balance, Guatemala, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Hong Kong, Passenger cars, USD bn","Japan, Trade balance, Hong Kong, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Kyrgyz, Passenger cars, USD bn","Japan, Trade balance, Kyrgyz, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Luxembourg, Passenger cars, USD bn","Japan, Trade balance, Luxembourg, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Marshall, Passenger cars, USD bn","Japan, Trade balance, Marshall, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Mauritania, Passenger cars, USD bn","Japan, Trade balance, Mauritania, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Nauru, Passenger cars, USD bn","Japan, Trade balance, Nauru, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Netherlands Antilles, Passenger cars, USD bn","Japan, Trade balance, Netherlands Antilles, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Netherlands, Passenger cars, USD bn","Japan, Trade balance, Netherlands, Passenger cars, USD bn",None,line
-"Japan, Trade balance, North Macedonia, Passenger cars, USD bn","Japan, Trade balance, North Macedonia, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Pakistan, Passenger cars, USD bn","Japan, Trade balance, Pakistan, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Portugal, Passenger cars, USD bn","Japan, Trade balance, Portugal, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Rep. of Cote d'Ivoire, Passenger cars, USD bn","Japan, Trade balance, Rep. of Cote d'Ivoire, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Republic of Congo, Passenger cars, USD bn","Japan, Trade balance, Republic of Congo, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Sao Tome and Principe, Passenger cars, USD bn","Japan, Trade balance, Sao Tome and Principe, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Sri Lanka, Passenger cars, USD bn","Japan, Trade balance, Sri Lanka, Passenger cars, USD bn",None,line
-"Japan, Trade balance, St.Christopher and Nevis, Passenger cars, USD bn","Japan, Trade balance, St.Christopher and Nevis, Passenger cars, USD bn",None,line
-"Japan, Trade balance, St.Lucia, Passenger cars, USD bn","Japan, Trade balance, St.Lucia, Passenger cars, USD bn",None,line
-"Japan, Trade balance, St.Vincent, Passenger cars, USD bn","Japan, Trade balance, St.Vincent, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Switzerland, Passenger cars, USD bn","Japan, Trade balance, Switzerland, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Taiwan, Passenger cars, USD bn","Japan, Trade balance, Taiwan, Passenger cars, USD bn",None,line
-"Japan, Trade balance, The West Bank and Gaza Strip, Passenger cars, USD bn","Japan, Trade balance, The West Bank and Gaza Strip, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Timor-Leste, Passenger cars, USD bn","Japan, Trade balance, Timor-Leste, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Turkmenistan, Passenger cars, USD bn","Japan, Trade balance, Turkmenistan, Passenger cars, USD bn",None,line
-"Japan, Trade balance, US Virgin Islands, Passenger cars, USD bn","Japan, Trade balance, US Virgin Islands, Passenger cars, USD bn",None,line
-"Japan, Trade balance, US, Passenger cars, USD bn","Japan, Trade balance, US, Passenger cars, USD bn",None,line
-"Japan, Trade balance, United Arab Emirates, Passenger cars, USD bn","Japan, Trade balance, United Arab Emirates, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Unknown, Passenger cars, USD bn","Japan, Trade balance, Unknown, Passenger cars, USD bn",None,line
-"Japan, Trade balance, Viet Nam, Passenger cars, USD bn","Japan, Trade balance, Viet Nam, Passenger cars, USD bn",None,line
-"Japan, Trade balance, West Sahara, Passenger cars, USD bn","Japan, Trade balance, West Sahara, Passenger cars, USD bn",None,line
-"Japan, Exports, China, Passenger cars, Unit price, USD th","Japan, Exports, China, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, US, Passenger cars, Unit price, USD th","Japan, Exports, US, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Afghanistan, Passenger cars, Unit price, USD th","Japan, Exports, Afghanistan, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Bhutan, Passenger cars, Unit price, USD th","Japan, Exports, Bhutan, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Bosnia and Herzegovina, Passenger cars, Unit price, USD th","Japan, Exports, Bosnia and Herzegovina, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, British Anguilla, Passenger cars, Unit price, USD th","Japan, Exports, British Anguilla, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, British Antarctic Territory, Passenger cars, Unit price, USD th","Japan, Exports, British Antarctic Territory, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, British indian Ocean Territories, Passenger cars, Unit price, USD th","Japan, Exports, British indian Ocean Territories, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Central Africa, Passenger cars, Unit price, USD th","Japan, Exports, Central Africa, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Colombia, Passenger cars, Unit price, USD th","Japan, Exports, Colombia, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Cook, Passenger cars, Unit price, USD th","Japan, Exports, Cook, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Democratic Republic of Congo, Passenger cars, Unit price, USD th","Japan, Exports, Democratic Republic of Congo, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Dominica, Passenger cars, Unit price, USD th","Japan, Exports, Dominica, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Dominican Republic, Passenger cars, Unit price, USD th","Japan, Exports, Dominican Republic, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, For Order, Passenger cars, Unit price, USD th","Japan, Exports, For Order, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, French West Indies, Passenger cars, Unit price, USD th","Japan, Exports, French West Indies, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Guatemala, Passenger cars, Unit price, USD th","Japan, Exports, Guatemala, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Hong Kong, Passenger cars, Unit price, USD th","Japan, Exports, Hong Kong, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Kyrgyz, Passenger cars, Unit price, USD th","Japan, Exports, Kyrgyz, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Luxembourg, Passenger cars, Unit price, USD th","Japan, Exports, Luxembourg, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Marshall, Passenger cars, Unit price, USD th","Japan, Exports, Marshall, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Mauritania, Passenger cars, Unit price, USD th","Japan, Exports, Mauritania, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Nauru, Passenger cars, Unit price, USD th","Japan, Exports, Nauru, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Netherlands Antilles, Passenger cars, Unit price, USD th","Japan, Exports, Netherlands Antilles, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Netherlands, Passenger cars, Unit price, USD th","Japan, Exports, Netherlands, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, North Macedonia, Passenger cars, Unit price, USD th","Japan, Exports, North Macedonia, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Pakistan, Passenger cars, Unit price, USD th","Japan, Exports, Pakistan, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Portugal, Passenger cars, Unit price, USD th","Japan, Exports, Portugal, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Unit price, USD th","Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Republic of Congo, Passenger cars, Unit price, USD th","Japan, Exports, Republic of Congo, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Sao Tome and Principe, Passenger cars, Unit price, USD th","Japan, Exports, Sao Tome and Principe, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Sri Lanka, Passenger cars, Unit price, USD th","Japan, Exports, Sri Lanka, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, St.Christopher and Nevis, Passenger cars, Unit price, USD th","Japan, Exports, St.Christopher and Nevis, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, St.Lucia, Passenger cars, Unit price, USD th","Japan, Exports, St.Lucia, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, St.Vincent, Passenger cars, Unit price, USD th","Japan, Exports, St.Vincent, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Switzerland, Passenger cars, Unit price, USD th","Japan, Exports, Switzerland, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Taiwan, Passenger cars, Unit price, USD th","Japan, Exports, Taiwan, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Unit price, USD th","Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Timor-Leste, Passenger cars, Unit price, USD th","Japan, Exports, Timor-Leste, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Turkmenistan, Passenger cars, Unit price, USD th","Japan, Exports, Turkmenistan, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, US Virgin Islands, Passenger cars, Unit price, USD th","Japan, Exports, US Virgin Islands, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, United Arab Emirates, Passenger cars, Unit price, USD th","Japan, Exports, United Arab Emirates, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, Viet Nam, Passenger cars, Unit price, USD th","Japan, Exports, Viet Nam, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, West Sahara, Passenger cars, Unit price, USD th","Japan, Exports, West Sahara, Passenger cars, Unit price, USD th",None,line
-"Japan, Exports, ASEAN, Passenger cars, Unit price, USD th","Japan, Exports, ASEAN, Passenger cars, Unit price, USD th",None,line
 "Japan, Exports, All, SA, USD bn","Japan, Exports, All, SA, USD bn",None,line
 "Japan, Imports, All, SA, USD bn","Japan, Imports, All, SA, USD bn",None,line
 "Japan, Exports, ASEAN, SA, USD bn","Japan, Exports, ASEAN, SA, USD bn",None,line
@@ -1902,10 +1355,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, World, Blank/Recorded Media, Value, Index, USD","Japan, Exports, World, Blank/Recorded Media, Value, Index, USD",None,line
 "Japan, Exports, World, Buses, Tracks, Unit value, Index, USD","Japan, Exports, World, Buses, Tracks, Unit value, Index, USD",None,line
 "Japan, Exports, World, Buses, Tracks, Value, Index, USD","Japan, Exports, World, Buses, Tracks, Value, Index, USD",None,line
-"Japan, Exports, World, Passenger carsgo Motor Passenger carss, Unit value, Index, USD","Japan, Exports, World, Passenger carsgo Motor Passenger carss, Unit value, Index, USD",None,line
-"Japan, Exports, World, Passenger carsgo Motor Passenger carss, Value, Index, USD","Japan, Exports, World, Passenger carsgo Motor Passenger carss, Value, Index, USD",None,line
-"Japan, Exports, World, Passenger carsgo Ships, Unit value, Index, USD","Japan, Exports, World, Passenger carsgo Ships, Unit value, Index, USD",None,line
-"Japan, Exports, World, Passenger carsgo Ships, Value, Index, USD","Japan, Exports, World, Passenger carsgo Ships, Value, Index, USD",None,line
 "Japan, Exports, World, Chemicals, Unit value, Index, USD","Japan, Exports, World, Chemicals, Unit value, Index, USD",None,line
 "Japan, Exports, World, Chemicals, Value, Index, USD","Japan, Exports, World, Chemicals, Value, Index, USD",None,line
 "Japan, Exports, World, Clad,Plated or Coated, Unit value, Index, USD","Japan, Exports, World, Clad,Plated or Coated, Unit value, Index, USD",None,line
@@ -2010,8 +1459,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, World, Parts of Computer, Value, Index, USD","Japan, Exports, World, Parts of Computer, Value, Index, USD",None,line
 "Japan, Exports, World, Parts of Motor Vehicles, Unit value, Index, USD","Japan, Exports, World, Parts of Motor Vehicles, Unit value, Index, USD",None,line
 "Japan, Exports, World, Parts of Motor Vehicles, Value, Index, USD","Japan, Exports, World, Parts of Motor Vehicles, Value, Index, USD",None,line
-"Japan, Exports, World, Passenger Motor Passenger cars, Unit value, Index, USD","Japan, Exports, World, Passenger Motor Passenger cars, Unit value, Index, USD",None,line
-"Japan, Exports, World, Passenger Motor Passenger cars, Value, Index, USD","Japan, Exports, World, Passenger Motor Passenger cars, Value, Index, USD",None,line
 "Japan, Exports, World, Photographic Supplies, Unit value, Index, USD","Japan, Exports, World, Photographic Supplies, Unit value, Index, USD",None,line
 "Japan, Exports, World, Photographic Supplies, Value, Index, USD","Japan, Exports, World, Photographic Supplies, Value, Index, USD",None,line
 "Japan, Exports, World, Plastic Materials, Unit value, Index, USD","Japan, Exports, World, Plastic Materials, Unit value, Index, USD",None,line
@@ -2070,8 +1517,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, World, Transistors and diodes, Value, Index, USD","Japan, Exports, World, Transistors and diodes, Value, Index, USD",None,line
 "Japan, Exports, World, Transport Equipments, Unit value, Index, USD","Japan, Exports, World, Transport Equipments, Unit value, Index, USD",None,line
 "Japan, Exports, World, Transport Equipments, Value, Index, USD","Japan, Exports, World, Transport Equipments, Value, Index, USD",None,line
-"Japan, Exports, World, Used Passenger Motor Passenger cars, Unit value, Index, USD","Japan, Exports, World, Used Passenger Motor Passenger cars, Unit value, Index, USD",None,line
-"Japan, Exports, World, Used Passenger Motor Passenger cars, Value, Index, USD","Japan, Exports, World, Used Passenger Motor Passenger cars, Value, Index, USD",None,line
 "Japan, Exports, World, Vehicles Engines, Unit value, Index, USD","Japan, Exports, World, Vehicles Engines, Unit value, Index, USD",None,line
 "Japan, Exports, World, Vehicles Engines, Value, Index, USD","Japan, Exports, World, Vehicles Engines, Value, Index, USD",None,line
 "Japan, Exports, World, Video rec or Prepro app, Unit value, Index, USD","Japan, Exports, World, Video rec or Prepro app, Unit value, Index, USD",None,line
@@ -2322,8 +1767,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, World, Parts for Motor Vehicles, Value, Index, USD","Japan, Imports, World, Parts for Motor Vehicles, Value, Index, USD",None,line
 "Japan, Imports, World, Parts of Computer, Unit value, Index, USD","Japan, Imports, World, Parts of Computer, Unit value, Index, USD",None,line
 "Japan, Imports, World, Parts of Computer, Value, Index, USD","Japan, Imports, World, Parts of Computer, Value, Index, USD",None,line
-"Japan, Imports, World, Passenger Motor Passenger carss, Unit value, Index, USD","Japan, Imports, World, Passenger Motor Passenger carss, Unit value, Index, USD",None,line
-"Japan, Imports, World, Passenger Motor Passenger carss, Value, Index, USD","Japan, Imports, World, Passenger Motor Passenger carss, Value, Index, USD",None,line
 "Japan, Imports, World, Plastic Materials, Unit value, Index, USD","Japan, Imports, World, Plastic Materials, Unit value, Index, USD",None,line
 "Japan, Imports, World, Plastic Materials, Value, Index, USD","Japan, Imports, World, Plastic Materials, Value, Index, USD",None,line
 "Japan, Imports, World, Plastic, Unit value, Index, USD","Japan, Imports, World, Plastic, Unit value, Index, USD",None,line
@@ -2437,7 +1880,6 @@ name,display_name,data_type,chart_type
 "Japan, Trade balance, China, SA, % of total","Japan, Trade balance, China, SA, % of total",None,line
 "Japan, Trade balance, ROW, SA, % of total","Japan, Trade balance, ROW, SA, % of total",None,line
 "Japan, Exports, All, % of total","Japan, Exports, All, % of total",None,line
-"Japan, Exports, Passenger cars, % of total","Japan, Exports, Passenger cars, % of total",None,line
 "Japan, Exports, Group, Chemicals, % of total","Japan, Exports, Group, Chemicals, % of total",None,line
 "Japan, Exports, Group, Electrical machinery, % of total","Japan, Exports, Group, Electrical machinery, % of total",None,line
 "Japan, Exports, Group, Foodstuffs, % of total","Japan, Exports, Group, Foodstuffs, % of total",None,line
@@ -2468,7 +1910,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Vietnam, % of total","Japan, Exports, Vietnam, % of total",None,line
 "Japan, Exports, World, % of total","Japan, Exports, World, % of total",None,line
 "Japan, Exports, nan, % of total","Japan, Exports, nan, % of total",None,line
-"Japan, Exports, China, Passenger cars, % of total","Japan, Exports, China, Passenger cars, % of total",None,line
 "Japan, Exports, China, Group, Chemicals, % of total","Japan, Exports, China, Group, Chemicals, % of total",None,line
 "Japan, Exports, China, Group, Electrical machinery, % of total","Japan, Exports, China, Group, Electrical machinery, % of total",None,line
 "Japan, Exports, China, Group, Foodstuffs, % of total","Japan, Exports, China, Group, Foodstuffs, % of total",None,line
@@ -2483,7 +1924,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, China, Semiconductors, % of total","Japan, Exports, China, Semiconductors, % of total",None,line
 "Japan, Exports, China, Ships, % of total","Japan, Exports, China, Ships, % of total",None,line
 "Japan, Exports, China, Total, % of total","Japan, Exports, China, Total, % of total",None,line
-"Japan, Exports, US, Passenger cars, % of total","Japan, Exports, US, Passenger cars, % of total",None,line
 "Japan, Exports, US, Group, Chemicals, % of total","Japan, Exports, US, Group, Chemicals, % of total",None,line
 "Japan, Exports, US, Group, Electrical machinery, % of total","Japan, Exports, US, Group, Electrical machinery, % of total",None,line
 "Japan, Exports, US, Group, Foodstuffs, % of total","Japan, Exports, US, Group, Foodstuffs, % of total",None,line
@@ -2506,49 +1946,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Semiconductors and semicon machinery, % of total","Japan, Exports, Semiconductors and semicon machinery, % of total",None,line
 "Japan, Exports, China excluding semicon machinery, % of total","Japan, Exports, China excluding semicon machinery, % of total",None,line
 "Japan, Exports, China and Hong Kong excluding semicon machinery, % of total","Japan, Exports, China and Hong Kong excluding semicon machinery, % of total",None,line
-"Japan, Exports, Afghanistan, Passenger cars, % of total","Japan, Exports, Afghanistan, Passenger cars, % of total",None,line
-"Japan, Exports, Bhutan, Passenger cars, % of total","Japan, Exports, Bhutan, Passenger cars, % of total",None,line
-"Japan, Exports, Bosnia and Herzegovina, Passenger cars, % of total","Japan, Exports, Bosnia and Herzegovina, Passenger cars, % of total",None,line
-"Japan, Exports, British Anguilla, Passenger cars, % of total","Japan, Exports, British Anguilla, Passenger cars, % of total",None,line
-"Japan, Exports, British Antarctic Territory, Passenger cars, % of total","Japan, Exports, British Antarctic Territory, Passenger cars, % of total",None,line
-"Japan, Exports, British indian Ocean Territories, Passenger cars, % of total","Japan, Exports, British indian Ocean Territories, Passenger cars, % of total",None,line
-"Japan, Exports, Central Africa, Passenger cars, % of total","Japan, Exports, Central Africa, Passenger cars, % of total",None,line
-"Japan, Exports, Colombia, Passenger cars, % of total","Japan, Exports, Colombia, Passenger cars, % of total",None,line
-"Japan, Exports, Cook, Passenger cars, % of total","Japan, Exports, Cook, Passenger cars, % of total",None,line
-"Japan, Exports, Democratic Republic of Congo, Passenger cars, % of total","Japan, Exports, Democratic Republic of Congo, Passenger cars, % of total",None,line
-"Japan, Exports, Dominica, Passenger cars, % of total","Japan, Exports, Dominica, Passenger cars, % of total",None,line
-"Japan, Exports, Dominican Republic, Passenger cars, % of total","Japan, Exports, Dominican Republic, Passenger cars, % of total",None,line
-"Japan, Exports, For Order, Passenger cars, % of total","Japan, Exports, For Order, Passenger cars, % of total",None,line
-"Japan, Exports, French West Indies, Passenger cars, % of total","Japan, Exports, French West Indies, Passenger cars, % of total",None,line
-"Japan, Exports, Guatemala, Passenger cars, % of total","Japan, Exports, Guatemala, Passenger cars, % of total",None,line
-"Japan, Exports, Hong Kong, Passenger cars, % of total","Japan, Exports, Hong Kong, Passenger cars, % of total",None,line
-"Japan, Exports, Kyrgyz, Passenger cars, % of total","Japan, Exports, Kyrgyz, Passenger cars, % of total",None,line
-"Japan, Exports, Luxembourg, Passenger cars, % of total","Japan, Exports, Luxembourg, Passenger cars, % of total",None,line
-"Japan, Exports, Marshall, Passenger cars, % of total","Japan, Exports, Marshall, Passenger cars, % of total",None,line
-"Japan, Exports, Mauritania, Passenger cars, % of total","Japan, Exports, Mauritania, Passenger cars, % of total",None,line
-"Japan, Exports, Nauru, Passenger cars, % of total","Japan, Exports, Nauru, Passenger cars, % of total",None,line
-"Japan, Exports, Netherlands Antilles, Passenger cars, % of total","Japan, Exports, Netherlands Antilles, Passenger cars, % of total",None,line
-"Japan, Exports, Netherlands, Passenger cars, % of total","Japan, Exports, Netherlands, Passenger cars, % of total",None,line
-"Japan, Exports, North Macedonia, Passenger cars, % of total","Japan, Exports, North Macedonia, Passenger cars, % of total",None,line
-"Japan, Exports, Pakistan, Passenger cars, % of total","Japan, Exports, Pakistan, Passenger cars, % of total",None,line
-"Japan, Exports, Portugal, Passenger cars, % of total","Japan, Exports, Portugal, Passenger cars, % of total",None,line
-"Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, % of total","Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, % of total",None,line
-"Japan, Exports, Republic of Congo, Passenger cars, % of total","Japan, Exports, Republic of Congo, Passenger cars, % of total",None,line
-"Japan, Exports, Sao Tome and Principe, Passenger cars, % of total","Japan, Exports, Sao Tome and Principe, Passenger cars, % of total",None,line
-"Japan, Exports, Sri Lanka, Passenger cars, % of total","Japan, Exports, Sri Lanka, Passenger cars, % of total",None,line
-"Japan, Exports, St.Christopher and Nevis, Passenger cars, % of total","Japan, Exports, St.Christopher and Nevis, Passenger cars, % of total",None,line
-"Japan, Exports, St.Lucia, Passenger cars, % of total","Japan, Exports, St.Lucia, Passenger cars, % of total",None,line
-"Japan, Exports, St.Vincent, Passenger cars, % of total","Japan, Exports, St.Vincent, Passenger cars, % of total",None,line
-"Japan, Exports, Switzerland, Passenger cars, % of total","Japan, Exports, Switzerland, Passenger cars, % of total",None,line
-"Japan, Exports, Taiwan, Passenger cars, % of total","Japan, Exports, Taiwan, Passenger cars, % of total",None,line
-"Japan, Exports, The West Bank and Gaza Strip, Passenger cars, % of total","Japan, Exports, The West Bank and Gaza Strip, Passenger cars, % of total",None,line
-"Japan, Exports, Timor-Leste, Passenger cars, % of total","Japan, Exports, Timor-Leste, Passenger cars, % of total",None,line
-"Japan, Exports, Turkmenistan, Passenger cars, % of total","Japan, Exports, Turkmenistan, Passenger cars, % of total",None,line
-"Japan, Exports, US Virgin Islands, Passenger cars, % of total","Japan, Exports, US Virgin Islands, Passenger cars, % of total",None,line
-"Japan, Exports, United Arab Emirates, Passenger cars, % of total","Japan, Exports, United Arab Emirates, Passenger cars, % of total",None,line
-"Japan, Exports, Viet Nam, Passenger cars, % of total","Japan, Exports, Viet Nam, Passenger cars, % of total",None,line
-"Japan, Exports, West Sahara, Passenger cars, % of total","Japan, Exports, West Sahara, Passenger cars, % of total",None,line
-"Japan, Exports, ASEAN, Passenger cars, % of total","Japan, Exports, ASEAN, Passenger cars, % of total",None,line
 "Japan, BOJ, Exports, All, Volume, Index, SA","Japan, BOJ, Exports, All, Volume, Index, SA",None,line
 "Japan, BOJ, Imports, All, Volume, Index, SA","Japan, BOJ, Imports, All, Volume, Index, SA",None,line
 "Japan, BOJ, Exports, Volume, United States, Index, SA","Japan, BOJ, Exports, Volume, United States, Index, SA",None,line
@@ -2577,7 +1974,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, Group, Transport equipment, % of GDP","Japan, Imports, Group, Transport equipment, % of GDP",None,line
 "Japan, Imports, IC, % of GDP","Japan, Imports, IC, % of GDP",None,line
 "Japan, Imports, Semiconductors, % of GDP","Japan, Imports, Semiconductors, % of GDP",None,line
-"Japan, Exports, Passenger cars, % of GDP","Japan, Exports, Passenger cars, % of GDP",None,line
 "Japan, Exports, Group, Chemicals, % of GDP","Japan, Exports, Group, Chemicals, % of GDP",None,line
 "Japan, Exports, Group, Electrical machinery, % of GDP","Japan, Exports, Group, Electrical machinery, % of GDP",None,line
 "Japan, Exports, Group, Foodstuffs, % of GDP","Japan, Exports, Group, Foodstuffs, % of GDP",None,line
@@ -2625,7 +2021,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, Vietnam, % of GDP","Japan, Imports, Vietnam, % of GDP",None,line
 "Japan, Imports, World, % of GDP","Japan, Imports, World, % of GDP",None,line
 "Japan, Imports, nan, % of GDP","Japan, Imports, nan, % of GDP",None,line
-"Japan, Exports, China, Passenger cars, % of GDP","Japan, Exports, China, Passenger cars, % of GDP",None,line
 "Japan, Exports, China, Group, Chemicals, % of GDP","Japan, Exports, China, Group, Chemicals, % of GDP",None,line
 "Japan, Exports, China, Group, Electrical machinery, % of GDP","Japan, Exports, China, Group, Electrical machinery, % of GDP",None,line
 "Japan, Exports, China, Group, Foodstuffs, % of GDP","Japan, Exports, China, Group, Foodstuffs, % of GDP",None,line
@@ -2652,7 +2047,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, China, IC, % of GDP","Japan, Imports, China, IC, % of GDP",None,line
 "Japan, Imports, China, Semiconductors, % of GDP","Japan, Imports, China, Semiconductors, % of GDP",None,line
 "Japan, Imports, China, Total, % of GDP","Japan, Imports, China, Total, % of GDP",None,line
-"Japan, Exports, US, Passenger cars, % of GDP","Japan, Exports, US, Passenger cars, % of GDP",None,line
 "Japan, Exports, US, Group, Chemicals, % of GDP","Japan, Exports, US, Group, Chemicals, % of GDP",None,line
 "Japan, Exports, US, Group, Electrical machinery, % of GDP","Japan, Exports, US, Group, Electrical machinery, % of GDP",None,line
 "Japan, Exports, US, Group, Foodstuffs, % of GDP","Japan, Exports, US, Group, Foodstuffs, % of GDP",None,line
@@ -2703,114 +2097,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Semiconductors and semicon machinery, % of GDP","Japan, Exports, Semiconductors and semicon machinery, % of GDP",None,line
 "Japan, Exports, China excluding semicon machinery, % of GDP","Japan, Exports, China excluding semicon machinery, % of GDP",None,line
 "Japan, Exports, China and Hong Kong excluding semicon machinery, % of GDP","Japan, Exports, China and Hong Kong excluding semicon machinery, % of GDP",None,line
-"Japan, Exports, Afghanistan, Passenger cars, % of GDP","Japan, Exports, Afghanistan, Passenger cars, % of GDP",None,line
-"Japan, Exports, Bhutan, Passenger cars, % of GDP","Japan, Exports, Bhutan, Passenger cars, % of GDP",None,line
-"Japan, Exports, Bosnia and Herzegovina, Passenger cars, % of GDP","Japan, Exports, Bosnia and Herzegovina, Passenger cars, % of GDP",None,line
-"Japan, Exports, British Anguilla, Passenger cars, % of GDP","Japan, Exports, British Anguilla, Passenger cars, % of GDP",None,line
-"Japan, Exports, British Antarctic Territory, Passenger cars, % of GDP","Japan, Exports, British Antarctic Territory, Passenger cars, % of GDP",None,line
-"Japan, Exports, British indian Ocean Territories, Passenger cars, % of GDP","Japan, Exports, British indian Ocean Territories, Passenger cars, % of GDP",None,line
-"Japan, Exports, Central Africa, Passenger cars, % of GDP","Japan, Exports, Central Africa, Passenger cars, % of GDP",None,line
-"Japan, Exports, Colombia, Passenger cars, % of GDP","Japan, Exports, Colombia, Passenger cars, % of GDP",None,line
-"Japan, Exports, Cook, Passenger cars, % of GDP","Japan, Exports, Cook, Passenger cars, % of GDP",None,line
-"Japan, Exports, Democratic Republic of Congo, Passenger cars, % of GDP","Japan, Exports, Democratic Republic of Congo, Passenger cars, % of GDP",None,line
-"Japan, Exports, Dominica, Passenger cars, % of GDP","Japan, Exports, Dominica, Passenger cars, % of GDP",None,line
-"Japan, Exports, Dominican Republic, Passenger cars, % of GDP","Japan, Exports, Dominican Republic, Passenger cars, % of GDP",None,line
-"Japan, Exports, For Order, Passenger cars, % of GDP","Japan, Exports, For Order, Passenger cars, % of GDP",None,line
-"Japan, Exports, French West Indies, Passenger cars, % of GDP","Japan, Exports, French West Indies, Passenger cars, % of GDP",None,line
-"Japan, Exports, Guatemala, Passenger cars, % of GDP","Japan, Exports, Guatemala, Passenger cars, % of GDP",None,line
-"Japan, Exports, Hong Kong, Passenger cars, % of GDP","Japan, Exports, Hong Kong, Passenger cars, % of GDP",None,line
-"Japan, Exports, Kyrgyz, Passenger cars, % of GDP","Japan, Exports, Kyrgyz, Passenger cars, % of GDP",None,line
-"Japan, Exports, Luxembourg, Passenger cars, % of GDP","Japan, Exports, Luxembourg, Passenger cars, % of GDP",None,line
-"Japan, Exports, Marshall, Passenger cars, % of GDP","Japan, Exports, Marshall, Passenger cars, % of GDP",None,line
-"Japan, Exports, Mauritania, Passenger cars, % of GDP","Japan, Exports, Mauritania, Passenger cars, % of GDP",None,line
-"Japan, Exports, Nauru, Passenger cars, % of GDP","Japan, Exports, Nauru, Passenger cars, % of GDP",None,line
-"Japan, Exports, Netherlands Antilles, Passenger cars, % of GDP","Japan, Exports, Netherlands Antilles, Passenger cars, % of GDP",None,line
-"Japan, Exports, Netherlands, Passenger cars, % of GDP","Japan, Exports, Netherlands, Passenger cars, % of GDP",None,line
-"Japan, Exports, North Macedonia, Passenger cars, % of GDP","Japan, Exports, North Macedonia, Passenger cars, % of GDP",None,line
-"Japan, Exports, Pakistan, Passenger cars, % of GDP","Japan, Exports, Pakistan, Passenger cars, % of GDP",None,line
-"Japan, Exports, Portugal, Passenger cars, % of GDP","Japan, Exports, Portugal, Passenger cars, % of GDP",None,line
-"Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, % of GDP","Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, % of GDP",None,line
-"Japan, Exports, Republic of Congo, Passenger cars, % of GDP","Japan, Exports, Republic of Congo, Passenger cars, % of GDP",None,line
-"Japan, Exports, Sao Tome and Principe, Passenger cars, % of GDP","Japan, Exports, Sao Tome and Principe, Passenger cars, % of GDP",None,line
-"Japan, Exports, Sri Lanka, Passenger cars, % of GDP","Japan, Exports, Sri Lanka, Passenger cars, % of GDP",None,line
-"Japan, Exports, St.Christopher and Nevis, Passenger cars, % of GDP","Japan, Exports, St.Christopher and Nevis, Passenger cars, % of GDP",None,line
-"Japan, Exports, St.Lucia, Passenger cars, % of GDP","Japan, Exports, St.Lucia, Passenger cars, % of GDP",None,line
-"Japan, Exports, St.Vincent, Passenger cars, % of GDP","Japan, Exports, St.Vincent, Passenger cars, % of GDP",None,line
-"Japan, Exports, Switzerland, Passenger cars, % of GDP","Japan, Exports, Switzerland, Passenger cars, % of GDP",None,line
-"Japan, Exports, Taiwan, Passenger cars, % of GDP","Japan, Exports, Taiwan, Passenger cars, % of GDP",None,line
-"Japan, Exports, The West Bank and Gaza Strip, Passenger cars, % of GDP","Japan, Exports, The West Bank and Gaza Strip, Passenger cars, % of GDP",None,line
-"Japan, Exports, Timor-Leste, Passenger cars, % of GDP","Japan, Exports, Timor-Leste, Passenger cars, % of GDP",None,line
-"Japan, Exports, Turkmenistan, Passenger cars, % of GDP","Japan, Exports, Turkmenistan, Passenger cars, % of GDP",None,line
-"Japan, Exports, US Virgin Islands, Passenger cars, % of GDP","Japan, Exports, US Virgin Islands, Passenger cars, % of GDP",None,line
-"Japan, Exports, United Arab Emirates, Passenger cars, % of GDP","Japan, Exports, United Arab Emirates, Passenger cars, % of GDP",None,line
-"Japan, Exports, Viet Nam, Passenger cars, % of GDP","Japan, Exports, Viet Nam, Passenger cars, % of GDP",None,line
-"Japan, Exports, West Sahara, Passenger cars, % of GDP","Japan, Exports, West Sahara, Passenger cars, % of GDP",None,line
-"Japan, Imports, China, Passenger cars, % of GDP","Japan, Imports, China, Passenger cars, % of GDP",None,line
-"Japan, Imports, Colombia, Passenger cars, % of GDP","Japan, Imports, Colombia, Passenger cars, % of GDP",None,line
-"Japan, Imports, Dominican Republic, Passenger cars, % of GDP","Japan, Imports, Dominican Republic, Passenger cars, % of GDP",None,line
-"Japan, Imports, French West Indies, Passenger cars, % of GDP","Japan, Imports, French West Indies, Passenger cars, % of GDP",None,line
-"Japan, Imports, Hong Kong, Passenger cars, % of GDP","Japan, Imports, Hong Kong, Passenger cars, % of GDP",None,line
-"Japan, Imports, Kyrgyz, Passenger cars, % of GDP","Japan, Imports, Kyrgyz, Passenger cars, % of GDP",None,line
-"Japan, Imports, Luxembourg, Passenger cars, % of GDP","Japan, Imports, Luxembourg, Passenger cars, % of GDP",None,line
-"Japan, Imports, Netherlands, Passenger cars, % of GDP","Japan, Imports, Netherlands, Passenger cars, % of GDP",None,line
-"Japan, Imports, Pakistan, Passenger cars, % of GDP","Japan, Imports, Pakistan, Passenger cars, % of GDP",None,line
-"Japan, Imports, Portugal, Passenger cars, % of GDP","Japan, Imports, Portugal, Passenger cars, % of GDP",None,line
-"Japan, Imports, Sri Lanka, Passenger cars, % of GDP","Japan, Imports, Sri Lanka, Passenger cars, % of GDP",None,line
-"Japan, Imports, Switzerland, Passenger cars, % of GDP","Japan, Imports, Switzerland, Passenger cars, % of GDP",None,line
-"Japan, Imports, Taiwan, Passenger cars, % of GDP","Japan, Imports, Taiwan, Passenger cars, % of GDP",None,line
-"Japan, Imports, US, Passenger cars, % of GDP","Japan, Imports, US, Passenger cars, % of GDP",None,line
-"Japan, Imports, United Arab Emirates, Passenger cars, % of GDP","Japan, Imports, United Arab Emirates, Passenger cars, % of GDP",None,line
-"Japan, Imports, Unknown, Passenger cars, % of GDP","Japan, Imports, Unknown, Passenger cars, % of GDP",None,line
-"Japan, Imports, Viet Nam, Passenger cars, % of GDP","Japan, Imports, Viet Nam, Passenger cars, % of GDP",None,line
-"Japan, Exports, ASEAN, Passenger cars, % of GDP","Japan, Exports, ASEAN, Passenger cars, % of GDP",None,line
-"Japan, Imports, ASEAN, Passenger cars, % of GDP","Japan, Imports, ASEAN, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, ASEAN, Passenger cars, % of GDP","Japan, Trade balance, ASEAN, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Afghanistan, Passenger cars, % of GDP","Japan, Trade balance, Afghanistan, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Bhutan, Passenger cars, % of GDP","Japan, Trade balance, Bhutan, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Bosnia and Herzegovina, Passenger cars, % of GDP","Japan, Trade balance, Bosnia and Herzegovina, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, British Anguilla, Passenger cars, % of GDP","Japan, Trade balance, British Anguilla, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, British Antarctic Territory, Passenger cars, % of GDP","Japan, Trade balance, British Antarctic Territory, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, British indian Ocean Territories, Passenger cars, % of GDP","Japan, Trade balance, British indian Ocean Territories, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Passenger cars, % of GDP","Japan, Trade balance, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Central Africa, Passenger cars, % of GDP","Japan, Trade balance, Central Africa, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, China, Passenger cars, % of GDP","Japan, Trade balance, China, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Colombia, Passenger cars, % of GDP","Japan, Trade balance, Colombia, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Cook, Passenger cars, % of GDP","Japan, Trade balance, Cook, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Democratic Republic of Congo, Passenger cars, % of GDP","Japan, Trade balance, Democratic Republic of Congo, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Dominica, Passenger cars, % of GDP","Japan, Trade balance, Dominica, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Dominican Republic, Passenger cars, % of GDP","Japan, Trade balance, Dominican Republic, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, For Order, Passenger cars, % of GDP","Japan, Trade balance, For Order, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, French West Indies, Passenger cars, % of GDP","Japan, Trade balance, French West Indies, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Guatemala, Passenger cars, % of GDP","Japan, Trade balance, Guatemala, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Hong Kong, Passenger cars, % of GDP","Japan, Trade balance, Hong Kong, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Kyrgyz, Passenger cars, % of GDP","Japan, Trade balance, Kyrgyz, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Luxembourg, Passenger cars, % of GDP","Japan, Trade balance, Luxembourg, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Marshall, Passenger cars, % of GDP","Japan, Trade balance, Marshall, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Mauritania, Passenger cars, % of GDP","Japan, Trade balance, Mauritania, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Nauru, Passenger cars, % of GDP","Japan, Trade balance, Nauru, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Netherlands Antilles, Passenger cars, % of GDP","Japan, Trade balance, Netherlands Antilles, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Netherlands, Passenger cars, % of GDP","Japan, Trade balance, Netherlands, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, North Macedonia, Passenger cars, % of GDP","Japan, Trade balance, North Macedonia, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Pakistan, Passenger cars, % of GDP","Japan, Trade balance, Pakistan, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Portugal, Passenger cars, % of GDP","Japan, Trade balance, Portugal, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Rep. of Cote d'Ivoire, Passenger cars, % of GDP","Japan, Trade balance, Rep. of Cote d'Ivoire, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Republic of Congo, Passenger cars, % of GDP","Japan, Trade balance, Republic of Congo, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Sao Tome and Principe, Passenger cars, % of GDP","Japan, Trade balance, Sao Tome and Principe, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Sri Lanka, Passenger cars, % of GDP","Japan, Trade balance, Sri Lanka, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, St.Christopher and Nevis, Passenger cars, % of GDP","Japan, Trade balance, St.Christopher and Nevis, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, St.Lucia, Passenger cars, % of GDP","Japan, Trade balance, St.Lucia, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, St.Vincent, Passenger cars, % of GDP","Japan, Trade balance, St.Vincent, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Switzerland, Passenger cars, % of GDP","Japan, Trade balance, Switzerland, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Taiwan, Passenger cars, % of GDP","Japan, Trade balance, Taiwan, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, The West Bank and Gaza Strip, Passenger cars, % of GDP","Japan, Trade balance, The West Bank and Gaza Strip, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Timor-Leste, Passenger cars, % of GDP","Japan, Trade balance, Timor-Leste, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Turkmenistan, Passenger cars, % of GDP","Japan, Trade balance, Turkmenistan, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, US Virgin Islands, Passenger cars, % of GDP","Japan, Trade balance, US Virgin Islands, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, US, Passenger cars, % of GDP","Japan, Trade balance, US, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, United Arab Emirates, Passenger cars, % of GDP","Japan, Trade balance, United Arab Emirates, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Unknown, Passenger cars, % of GDP","Japan, Trade balance, Unknown, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, Viet Nam, Passenger cars, % of GDP","Japan, Trade balance, Viet Nam, Passenger cars, % of GDP",None,line
-"Japan, Trade balance, West Sahara, Passenger cars, % of GDP","Japan, Trade balance, West Sahara, Passenger cars, % of GDP",None,line
 "Japan, Exports, All, SA, % of GDP","Japan, Exports, All, SA, % of GDP",None,line
 "Japan, Imports, All, SA, % of GDP","Japan, Imports, All, SA, % of GDP",None,line
 "Japan, Exports, ASEAN, SA, % of GDP","Japan, Exports, ASEAN, SA, % of GDP",None,line
@@ -2862,7 +2148,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, Group, Transport equipment, JPY bn, % YoY","Japan, Imports, Group, Transport equipment, JPY bn, % YoY",None,line
 "Japan, Imports, IC, JPY bn, % YoY","Japan, Imports, IC, JPY bn, % YoY",None,line
 "Japan, Imports, Semiconductors, JPY bn, % YoY","Japan, Imports, Semiconductors, JPY bn, % YoY",None,line
-"Japan, Exports, Passenger cars, JPY bn, % YoY","Japan, Exports, Passenger cars, JPY bn, % YoY",None,line
 "Japan, Exports, Group, Chemicals, JPY bn, % YoY","Japan, Exports, Group, Chemicals, JPY bn, % YoY",None,line
 "Japan, Exports, Group, Electrical machinery, JPY bn, % YoY","Japan, Exports, Group, Electrical machinery, JPY bn, % YoY",None,line
 "Japan, Exports, Group, Foodstuffs, JPY bn, % YoY","Japan, Exports, Group, Foodstuffs, JPY bn, % YoY",None,line
@@ -2908,7 +2193,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, Vietnam, JPY bn, % YoY","Japan, Imports, Vietnam, JPY bn, % YoY",None,line
 "Japan, Imports, World, JPY bn, % YoY","Japan, Imports, World, JPY bn, % YoY",None,line
 "Japan, Imports, nan, JPY bn, % YoY","Japan, Imports, nan, JPY bn, % YoY",None,line
-"Japan, Exports, China, Passenger cars, JPY bn, % YoY","Japan, Exports, China, Passenger cars, JPY bn, % YoY",None,line
 "Japan, Exports, China, Group, Chemicals, JPY bn, % YoY","Japan, Exports, China, Group, Chemicals, JPY bn, % YoY",None,line
 "Japan, Exports, China, Group, Electrical machinery, JPY bn, % YoY","Japan, Exports, China, Group, Electrical machinery, JPY bn, % YoY",None,line
 "Japan, Exports, China, Group, Foodstuffs, JPY bn, % YoY","Japan, Exports, China, Group, Foodstuffs, JPY bn, % YoY",None,line
@@ -2934,8 +2218,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, China, IC, JPY bn, % YoY","Japan, Imports, China, IC, JPY bn, % YoY",None,line
 "Japan, Imports, China, Semiconductors, JPY bn, % YoY","Japan, Imports, China, Semiconductors, JPY bn, % YoY",None,line
 "Japan, Imports, China, Total, JPY bn, % YoY","Japan, Imports, China, Total, JPY bn, % YoY",None,line
-"Japan, Exports, US, Passenger cars, JPY bn, % YoY","Japan, Exports, US, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, US, Passenger cars, Volume, mn, % YoY","Japan, Exports, US, Passenger cars, Volume, mn, % YoY",None,line
 "Japan, Exports, US, Group, Chemicals, JPY bn, % YoY","Japan, Exports, US, Group, Chemicals, JPY bn, % YoY",None,line
 "Japan, Exports, US, Group, Electrical machinery, JPY bn, % YoY","Japan, Exports, US, Group, Electrical machinery, JPY bn, % YoY",None,line
 "Japan, Exports, US, Group, Foodstuffs, JPY bn, % YoY","Japan, Exports, US, Group, Foodstuffs, JPY bn, % YoY",None,line
@@ -3146,12 +2428,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, World, Buses, Tracks, Quantum, Index, % YoY","Japan, Exports, World, Buses, Tracks, Quantum, Index, % YoY",None,line
 "Japan, Exports, World, Buses, Tracks, Unit value, Index, % YoY","Japan, Exports, World, Buses, Tracks, Unit value, Index, % YoY",None,line
 "Japan, Exports, World, Buses, Tracks, Value, Index, % YoY","Japan, Exports, World, Buses, Tracks, Value, Index, % YoY",None,line
-"Japan, Exports, World, Passenger carsgo Motor Passenger carss, Quantum, Index, % YoY","Japan, Exports, World, Passenger carsgo Motor Passenger carss, Quantum, Index, % YoY",None,line
-"Japan, Exports, World, Passenger carsgo Motor Passenger carss, Unit value, Index, % YoY","Japan, Exports, World, Passenger carsgo Motor Passenger carss, Unit value, Index, % YoY",None,line
-"Japan, Exports, World, Passenger carsgo Motor Passenger carss, Value, Index, % YoY","Japan, Exports, World, Passenger carsgo Motor Passenger carss, Value, Index, % YoY",None,line
-"Japan, Exports, World, Passenger carsgo Ships, Quantum, Index, % YoY","Japan, Exports, World, Passenger carsgo Ships, Quantum, Index, % YoY",None,line
-"Japan, Exports, World, Passenger carsgo Ships, Unit value, Index, % YoY","Japan, Exports, World, Passenger carsgo Ships, Unit value, Index, % YoY",None,line
-"Japan, Exports, World, Passenger carsgo Ships, Value, Index, % YoY","Japan, Exports, World, Passenger carsgo Ships, Value, Index, % YoY",None,line
 "Japan, Exports, World, Chemicals, Quantum, Index, % YoY","Japan, Exports, World, Chemicals, Quantum, Index, % YoY",None,line
 "Japan, Exports, World, Chemicals, Unit value, Index, % YoY","Japan, Exports, World, Chemicals, Unit value, Index, % YoY",None,line
 "Japan, Exports, World, Chemicals, Value, Index, % YoY","Japan, Exports, World, Chemicals, Value, Index, % YoY",None,line
@@ -3308,9 +2584,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, World, Parts of Motor Vehicles, Quantum, Index, % YoY","Japan, Exports, World, Parts of Motor Vehicles, Quantum, Index, % YoY",None,line
 "Japan, Exports, World, Parts of Motor Vehicles, Unit value, Index, % YoY","Japan, Exports, World, Parts of Motor Vehicles, Unit value, Index, % YoY",None,line
 "Japan, Exports, World, Parts of Motor Vehicles, Value, Index, % YoY","Japan, Exports, World, Parts of Motor Vehicles, Value, Index, % YoY",None,line
-"Japan, Exports, World, Passenger Motor Passenger cars, Quantum, Index, % YoY","Japan, Exports, World, Passenger Motor Passenger cars, Quantum, Index, % YoY",None,line
-"Japan, Exports, World, Passenger Motor Passenger cars, Unit value, Index, % YoY","Japan, Exports, World, Passenger Motor Passenger cars, Unit value, Index, % YoY",None,line
-"Japan, Exports, World, Passenger Motor Passenger cars, Value, Index, % YoY","Japan, Exports, World, Passenger Motor Passenger cars, Value, Index, % YoY",None,line
 "Japan, Exports, World, Photographic Supplies, Quantum, Index, % YoY","Japan, Exports, World, Photographic Supplies, Quantum, Index, % YoY",None,line
 "Japan, Exports, World, Photographic Supplies, Unit value, Index, % YoY","Japan, Exports, World, Photographic Supplies, Unit value, Index, % YoY",None,line
 "Japan, Exports, World, Photographic Supplies, Value, Index, % YoY","Japan, Exports, World, Photographic Supplies, Value, Index, % YoY",None,line
@@ -3398,9 +2671,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, World, Transport Equipments, Quantum, Index, % YoY","Japan, Exports, World, Transport Equipments, Quantum, Index, % YoY",None,line
 "Japan, Exports, World, Transport Equipments, Unit value, Index, % YoY","Japan, Exports, World, Transport Equipments, Unit value, Index, % YoY",None,line
 "Japan, Exports, World, Transport Equipments, Value, Index, % YoY","Japan, Exports, World, Transport Equipments, Value, Index, % YoY",None,line
-"Japan, Exports, World, Used Passenger Motor Passenger cars, Quantum, Index, % YoY","Japan, Exports, World, Used Passenger Motor Passenger cars, Quantum, Index, % YoY",None,line
-"Japan, Exports, World, Used Passenger Motor Passenger cars, Unit value, Index, % YoY","Japan, Exports, World, Used Passenger Motor Passenger cars, Unit value, Index, % YoY",None,line
-"Japan, Exports, World, Used Passenger Motor Passenger cars, Value, Index, % YoY","Japan, Exports, World, Used Passenger Motor Passenger cars, Value, Index, % YoY",None,line
 "Japan, Exports, World, Vehicles Engines, Quantum, Index, % YoY","Japan, Exports, World, Vehicles Engines, Quantum, Index, % YoY",None,line
 "Japan, Exports, World, Vehicles Engines, Unit value, Index, % YoY","Japan, Exports, World, Vehicles Engines, Unit value, Index, % YoY",None,line
 "Japan, Exports, World, Vehicles Engines, Value, Index, % YoY","Japan, Exports, World, Vehicles Engines, Value, Index, % YoY",None,line
@@ -3776,9 +3046,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, World, Parts of Computer, Quantum, Index, % YoY","Japan, Imports, World, Parts of Computer, Quantum, Index, % YoY",None,line
 "Japan, Imports, World, Parts of Computer, Unit value, Index, % YoY","Japan, Imports, World, Parts of Computer, Unit value, Index, % YoY",None,line
 "Japan, Imports, World, Parts of Computer, Value, Index, % YoY","Japan, Imports, World, Parts of Computer, Value, Index, % YoY",None,line
-"Japan, Imports, World, Passenger Motor Passenger carss, Quantum, Index, % YoY","Japan, Imports, World, Passenger Motor Passenger carss, Quantum, Index, % YoY",None,line
-"Japan, Imports, World, Passenger Motor Passenger carss, Unit value, Index, % YoY","Japan, Imports, World, Passenger Motor Passenger carss, Unit value, Index, % YoY",None,line
-"Japan, Imports, World, Passenger Motor Passenger carss, Value, Index, % YoY","Japan, Imports, World, Passenger Motor Passenger carss, Value, Index, % YoY",None,line
 "Japan, Imports, World, Plastic Materials, Quantum, Index, % YoY","Japan, Imports, World, Plastic Materials, Quantum, Index, % YoY",None,line
 "Japan, Imports, World, Plastic Materials, Unit value, Index, % YoY","Japan, Imports, World, Plastic Materials, Unit value, Index, % YoY",None,line
 "Japan, Imports, World, Plastic Materials, Value, Index, % YoY","Japan, Imports, World, Plastic Materials, Value, Index, % YoY",None,line
@@ -3878,217 +3145,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, World, Woman's & Girl's Dress, Quantum, Index, % YoY","Japan, Imports, World, Woman's & Girl's Dress, Quantum, Index, % YoY",None,line
 "Japan, Imports, World, Woman's & Girl's Dress, Unit value, Index, % YoY","Japan, Imports, World, Woman's & Girl's Dress, Unit value, Index, % YoY",None,line
 "Japan, Imports, World, Woman's & Girl's Dress, Value, Index, % YoY","Japan, Imports, World, Woman's & Girl's Dress, Value, Index, % YoY",None,line
-"Japan, Exports, Afghanistan, Passenger cars, JPY bn, % YoY","Japan, Exports, Afghanistan, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Afghanistan, Passenger cars, Units mn, % YoY","Japan, Exports, Afghanistan, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Afghanistan, Passenger cars, Units th, % YoY","Japan, Exports, Afghanistan, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Bhutan, Passenger cars, JPY bn, % YoY","Japan, Exports, Bhutan, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Bhutan, Passenger cars, Units mn, % YoY","Japan, Exports, Bhutan, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Bhutan, Passenger cars, Units th, % YoY","Japan, Exports, Bhutan, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Bosnia and Herzegovina, Passenger cars, JPY bn, % YoY","Japan, Exports, Bosnia and Herzegovina, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Bosnia and Herzegovina, Passenger cars, Units mn, % YoY","Japan, Exports, Bosnia and Herzegovina, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Bosnia and Herzegovina, Passenger cars, Units th, % YoY","Japan, Exports, Bosnia and Herzegovina, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, British Anguilla, Passenger cars, JPY bn, % YoY","Japan, Exports, British Anguilla, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, British Anguilla, Passenger cars, Units mn, % YoY","Japan, Exports, British Anguilla, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, British Anguilla, Passenger cars, Units th, % YoY","Japan, Exports, British Anguilla, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, British Antarctic Territory, Passenger cars, JPY bn, % YoY","Japan, Exports, British Antarctic Territory, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, British Antarctic Territory, Passenger cars, Units mn, % YoY","Japan, Exports, British Antarctic Territory, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, British Antarctic Territory, Passenger cars, Units th, % YoY","Japan, Exports, British Antarctic Territory, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Central Africa, Passenger cars, JPY bn, % YoY","Japan, Exports, Central Africa, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Central Africa, Passenger cars, Units mn, % YoY","Japan, Exports, Central Africa, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Central Africa, Passenger cars, Units th, % YoY","Japan, Exports, Central Africa, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, China, Passenger cars, Units mn, % YoY","Japan, Exports, China, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, China, Passenger cars, Units th, % YoY","Japan, Exports, China, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Colombia, Passenger cars, JPY bn, % YoY","Japan, Exports, Colombia, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Colombia, Passenger cars, Units mn, % YoY","Japan, Exports, Colombia, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Colombia, Passenger cars, Units th, % YoY","Japan, Exports, Colombia, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Cook, Passenger cars, JPY bn, % YoY","Japan, Exports, Cook, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Cook, Passenger cars, Units mn, % YoY","Japan, Exports, Cook, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Cook, Passenger cars, Units th, % YoY","Japan, Exports, Cook, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Democratic Republic of Congo, Passenger cars, JPY bn, % YoY","Japan, Exports, Democratic Republic of Congo, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Democratic Republic of Congo, Passenger cars, Units mn, % YoY","Japan, Exports, Democratic Republic of Congo, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Democratic Republic of Congo, Passenger cars, Units th, % YoY","Japan, Exports, Democratic Republic of Congo, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Dominica, Passenger cars, JPY bn, % YoY","Japan, Exports, Dominica, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Dominica, Passenger cars, Units mn, % YoY","Japan, Exports, Dominica, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Dominica, Passenger cars, Units th, % YoY","Japan, Exports, Dominica, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Dominican Republic, Passenger cars, JPY bn, % YoY","Japan, Exports, Dominican Republic, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Dominican Republic, Passenger cars, Units mn, % YoY","Japan, Exports, Dominican Republic, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Dominican Republic, Passenger cars, Units th, % YoY","Japan, Exports, Dominican Republic, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, For Order, Passenger cars, JPY bn, % YoY","Japan, Exports, For Order, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, For Order, Passenger cars, Units mn, % YoY","Japan, Exports, For Order, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, For Order, Passenger cars, Units th, % YoY","Japan, Exports, For Order, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, French West Indies, Passenger cars, JPY bn, % YoY","Japan, Exports, French West Indies, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, French West Indies, Passenger cars, Units mn, % YoY","Japan, Exports, French West Indies, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, French West Indies, Passenger cars, Units th, % YoY","Japan, Exports, French West Indies, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Guatemala, Passenger cars, JPY bn, % YoY","Japan, Exports, Guatemala, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Guatemala, Passenger cars, Units mn, % YoY","Japan, Exports, Guatemala, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Guatemala, Passenger cars, Units th, % YoY","Japan, Exports, Guatemala, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Hong Kong, Passenger cars, JPY bn, % YoY","Japan, Exports, Hong Kong, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Hong Kong, Passenger cars, Units mn, % YoY","Japan, Exports, Hong Kong, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Hong Kong, Passenger cars, Units th, % YoY","Japan, Exports, Hong Kong, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Kyrgyz, Passenger cars, JPY bn, % YoY","Japan, Exports, Kyrgyz, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Kyrgyz, Passenger cars, Units mn, % YoY","Japan, Exports, Kyrgyz, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Kyrgyz, Passenger cars, Units th, % YoY","Japan, Exports, Kyrgyz, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Luxembourg, Passenger cars, JPY bn, % YoY","Japan, Exports, Luxembourg, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Luxembourg, Passenger cars, Units mn, % YoY","Japan, Exports, Luxembourg, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Luxembourg, Passenger cars, Units th, % YoY","Japan, Exports, Luxembourg, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Marshall, Passenger cars, JPY bn, % YoY","Japan, Exports, Marshall, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Marshall, Passenger cars, Units mn, % YoY","Japan, Exports, Marshall, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Marshall, Passenger cars, Units th, % YoY","Japan, Exports, Marshall, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Mauritania, Passenger cars, JPY bn, % YoY","Japan, Exports, Mauritania, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Mauritania, Passenger cars, Units mn, % YoY","Japan, Exports, Mauritania, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Mauritania, Passenger cars, Units th, % YoY","Japan, Exports, Mauritania, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Nauru, Passenger cars, JPY bn, % YoY","Japan, Exports, Nauru, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Nauru, Passenger cars, Units mn, % YoY","Japan, Exports, Nauru, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Nauru, Passenger cars, Units th, % YoY","Japan, Exports, Nauru, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Netherlands Antilles, Passenger cars, JPY bn, % YoY","Japan, Exports, Netherlands Antilles, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Netherlands Antilles, Passenger cars, Units mn, % YoY","Japan, Exports, Netherlands Antilles, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Netherlands Antilles, Passenger cars, Units th, % YoY","Japan, Exports, Netherlands Antilles, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Netherlands, Passenger cars, JPY bn, % YoY","Japan, Exports, Netherlands, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Netherlands, Passenger cars, Units mn, % YoY","Japan, Exports, Netherlands, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Netherlands, Passenger cars, Units th, % YoY","Japan, Exports, Netherlands, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, North Macedonia, Passenger cars, JPY bn, % YoY","Japan, Exports, North Macedonia, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, North Macedonia, Passenger cars, Units mn, % YoY","Japan, Exports, North Macedonia, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, North Macedonia, Passenger cars, Units th, % YoY","Japan, Exports, North Macedonia, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Pakistan, Passenger cars, JPY bn, % YoY","Japan, Exports, Pakistan, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Pakistan, Passenger cars, Units mn, % YoY","Japan, Exports, Pakistan, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Pakistan, Passenger cars, Units th, % YoY","Japan, Exports, Pakistan, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Portugal, Passenger cars, JPY bn, % YoY","Japan, Exports, Portugal, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Portugal, Passenger cars, Units mn, % YoY","Japan, Exports, Portugal, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Portugal, Passenger cars, Units th, % YoY","Japan, Exports, Portugal, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, JPY bn, % YoY","Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Units mn, % YoY","Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Units th, % YoY","Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Republic of Congo, Passenger cars, JPY bn, % YoY","Japan, Exports, Republic of Congo, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Republic of Congo, Passenger cars, Units mn, % YoY","Japan, Exports, Republic of Congo, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Republic of Congo, Passenger cars, Units th, % YoY","Japan, Exports, Republic of Congo, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Sao Tome and Principe, Passenger cars, JPY bn, % YoY","Japan, Exports, Sao Tome and Principe, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Sao Tome and Principe, Passenger cars, Units mn, % YoY","Japan, Exports, Sao Tome and Principe, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Sao Tome and Principe, Passenger cars, Units th, % YoY","Japan, Exports, Sao Tome and Principe, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Sri Lanka, Passenger cars, JPY bn, % YoY","Japan, Exports, Sri Lanka, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Sri Lanka, Passenger cars, Units mn, % YoY","Japan, Exports, Sri Lanka, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Sri Lanka, Passenger cars, Units th, % YoY","Japan, Exports, Sri Lanka, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, St.Christopher and Nevis, Passenger cars, JPY bn, % YoY","Japan, Exports, St.Christopher and Nevis, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, St.Christopher and Nevis, Passenger cars, Units mn, % YoY","Japan, Exports, St.Christopher and Nevis, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, St.Christopher and Nevis, Passenger cars, Units th, % YoY","Japan, Exports, St.Christopher and Nevis, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, St.Lucia, Passenger cars, JPY bn, % YoY","Japan, Exports, St.Lucia, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, St.Lucia, Passenger cars, Units mn, % YoY","Japan, Exports, St.Lucia, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, St.Lucia, Passenger cars, Units th, % YoY","Japan, Exports, St.Lucia, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, St.Vincent, Passenger cars, JPY bn, % YoY","Japan, Exports, St.Vincent, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, St.Vincent, Passenger cars, Units mn, % YoY","Japan, Exports, St.Vincent, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, St.Vincent, Passenger cars, Units th, % YoY","Japan, Exports, St.Vincent, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Switzerland, Passenger cars, JPY bn, % YoY","Japan, Exports, Switzerland, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Switzerland, Passenger cars, Units mn, % YoY","Japan, Exports, Switzerland, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Switzerland, Passenger cars, Units th, % YoY","Japan, Exports, Switzerland, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Taiwan, Passenger cars, JPY bn, % YoY","Japan, Exports, Taiwan, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Taiwan, Passenger cars, Units mn, % YoY","Japan, Exports, Taiwan, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Taiwan, Passenger cars, Units th, % YoY","Japan, Exports, Taiwan, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, The West Bank and Gaza Strip, Passenger cars, JPY bn, % YoY","Japan, Exports, The West Bank and Gaza Strip, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Units mn, % YoY","Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Units th, % YoY","Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Timor-Leste, Passenger cars, JPY bn, % YoY","Japan, Exports, Timor-Leste, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Timor-Leste, Passenger cars, Units mn, % YoY","Japan, Exports, Timor-Leste, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Timor-Leste, Passenger cars, Units th, % YoY","Japan, Exports, Timor-Leste, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Turkmenistan, Passenger cars, JPY bn, % YoY","Japan, Exports, Turkmenistan, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Turkmenistan, Passenger cars, Units mn, % YoY","Japan, Exports, Turkmenistan, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Turkmenistan, Passenger cars, Units th, % YoY","Japan, Exports, Turkmenistan, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, US Virgin Islands, Passenger cars, JPY bn, % YoY","Japan, Exports, US Virgin Islands, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, US Virgin Islands, Passenger cars, Units mn, % YoY","Japan, Exports, US Virgin Islands, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, US Virgin Islands, Passenger cars, Units th, % YoY","Japan, Exports, US Virgin Islands, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, US, Passenger cars, Units mn, % YoY","Japan, Exports, US, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, US, Passenger cars, Units th, % YoY","Japan, Exports, US, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, United Arab Emirates, Passenger cars, JPY bn, % YoY","Japan, Exports, United Arab Emirates, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, United Arab Emirates, Passenger cars, Units mn, % YoY","Japan, Exports, United Arab Emirates, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, United Arab Emirates, Passenger cars, Units th, % YoY","Japan, Exports, United Arab Emirates, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, Viet Nam, Passenger cars, JPY bn, % YoY","Japan, Exports, Viet Nam, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, Viet Nam, Passenger cars, Units mn, % YoY","Japan, Exports, Viet Nam, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, Viet Nam, Passenger cars, Units th, % YoY","Japan, Exports, Viet Nam, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, West Sahara, Passenger cars, JPY bn, % YoY","Japan, Exports, West Sahara, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, West Sahara, Passenger cars, Units mn, % YoY","Japan, Exports, West Sahara, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, West Sahara, Passenger cars, Units th, % YoY","Japan, Exports, West Sahara, Passenger cars, Units th, % YoY",None,line
-"Japan, Imports, China, Passenger cars, JPY bn, % YoY","Japan, Imports, China, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Imports, China, Passenger cars, Units mn, % YoY","Japan, Imports, China, Passenger cars, Units mn, % YoY",None,line
-"Japan, Imports, China, Passenger cars, Units th, % YoY","Japan, Imports, China, Passenger cars, Units th, % YoY",None,line
-"Japan, Imports, Colombia, Passenger cars, JPY bn, % YoY","Japan, Imports, Colombia, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Imports, Colombia, Passenger cars, Units mn, % YoY","Japan, Imports, Colombia, Passenger cars, Units mn, % YoY",None,line
-"Japan, Imports, Colombia, Passenger cars, Units th, % YoY","Japan, Imports, Colombia, Passenger cars, Units th, % YoY",None,line
-"Japan, Imports, Hong Kong, Passenger cars, JPY bn, % YoY","Japan, Imports, Hong Kong, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Imports, Hong Kong, Passenger cars, Units mn, % YoY","Japan, Imports, Hong Kong, Passenger cars, Units mn, % YoY",None,line
-"Japan, Imports, Hong Kong, Passenger cars, Units th, % YoY","Japan, Imports, Hong Kong, Passenger cars, Units th, % YoY",None,line
-"Japan, Imports, Netherlands, Passenger cars, JPY bn, % YoY","Japan, Imports, Netherlands, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Imports, Netherlands, Passenger cars, Units mn, % YoY","Japan, Imports, Netherlands, Passenger cars, Units mn, % YoY",None,line
-"Japan, Imports, Netherlands, Passenger cars, Units th, % YoY","Japan, Imports, Netherlands, Passenger cars, Units th, % YoY",None,line
-"Japan, Imports, Pakistan, Passenger cars, JPY bn, % YoY","Japan, Imports, Pakistan, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Imports, Pakistan, Passenger cars, Units mn, % YoY","Japan, Imports, Pakistan, Passenger cars, Units mn, % YoY",None,line
-"Japan, Imports, Pakistan, Passenger cars, Units th, % YoY","Japan, Imports, Pakistan, Passenger cars, Units th, % YoY",None,line
-"Japan, Imports, Portugal, Passenger cars, JPY bn, % YoY","Japan, Imports, Portugal, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Imports, Portugal, Passenger cars, Units mn, % YoY","Japan, Imports, Portugal, Passenger cars, Units mn, % YoY",None,line
-"Japan, Imports, Portugal, Passenger cars, Units th, % YoY","Japan, Imports, Portugal, Passenger cars, Units th, % YoY",None,line
-"Japan, Imports, Sri Lanka, Passenger cars, JPY bn, % YoY","Japan, Imports, Sri Lanka, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Imports, Sri Lanka, Passenger cars, Units mn, % YoY","Japan, Imports, Sri Lanka, Passenger cars, Units mn, % YoY",None,line
-"Japan, Imports, Sri Lanka, Passenger cars, Units th, % YoY","Japan, Imports, Sri Lanka, Passenger cars, Units th, % YoY",None,line
-"Japan, Imports, Switzerland, Passenger cars, JPY bn, % YoY","Japan, Imports, Switzerland, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Imports, Switzerland, Passenger cars, Units mn, % YoY","Japan, Imports, Switzerland, Passenger cars, Units mn, % YoY",None,line
-"Japan, Imports, Switzerland, Passenger cars, Units th, % YoY","Japan, Imports, Switzerland, Passenger cars, Units th, % YoY",None,line
-"Japan, Imports, Taiwan, Passenger cars, JPY bn, % YoY","Japan, Imports, Taiwan, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Imports, Taiwan, Passenger cars, Units mn, % YoY","Japan, Imports, Taiwan, Passenger cars, Units mn, % YoY",None,line
-"Japan, Imports, Taiwan, Passenger cars, Units th, % YoY","Japan, Imports, Taiwan, Passenger cars, Units th, % YoY",None,line
-"Japan, Imports, US, Passenger cars, JPY bn, % YoY","Japan, Imports, US, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Imports, US, Passenger cars, Units mn, % YoY","Japan, Imports, US, Passenger cars, Units mn, % YoY",None,line
-"Japan, Imports, US, Passenger cars, Units th, % YoY","Japan, Imports, US, Passenger cars, Units th, % YoY",None,line
-"Japan, Imports, United Arab Emirates, Passenger cars, JPY bn, % YoY","Japan, Imports, United Arab Emirates, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Imports, United Arab Emirates, Passenger cars, Units mn, % YoY","Japan, Imports, United Arab Emirates, Passenger cars, Units mn, % YoY",None,line
-"Japan, Imports, United Arab Emirates, Passenger cars, Units th, % YoY","Japan, Imports, United Arab Emirates, Passenger cars, Units th, % YoY",None,line
-"Japan, Imports, Viet Nam, Passenger cars, JPY bn, % YoY","Japan, Imports, Viet Nam, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Imports, Viet Nam, Passenger cars, Units mn, % YoY","Japan, Imports, Viet Nam, Passenger cars, Units mn, % YoY",None,line
-"Japan, Imports, Viet Nam, Passenger cars, Units th, % YoY","Japan, Imports, Viet Nam, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, ASEAN, Passenger cars, JPY bn, % YoY","Japan, Exports, ASEAN, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Exports, ASEAN, Passenger cars, Units mn, % YoY","Japan, Exports, ASEAN, Passenger cars, Units mn, % YoY",None,line
-"Japan, Exports, ASEAN, Passenger cars, Units th, % YoY","Japan, Exports, ASEAN, Passenger cars, Units th, % YoY",None,line
-"Japan, Imports, ASEAN, Passenger cars, JPY bn, % YoY","Japan, Imports, ASEAN, Passenger cars, JPY bn, % YoY",None,line
-"Japan, Imports, ASEAN, Passenger cars, Units mn, % YoY","Japan, Imports, ASEAN, Passenger cars, Units mn, % YoY",None,line
-"Japan, Imports, ASEAN, Passenger cars, Units th, % YoY","Japan, Imports, ASEAN, Passenger cars, Units th, % YoY",None,line
-"Japan, Exports, China, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, China, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, US, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, US, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Afghanistan, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Afghanistan, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Bhutan, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Bhutan, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Bosnia and Herzegovina, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Bosnia and Herzegovina, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, British Anguilla, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, British Anguilla, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Central Africa, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Central Africa, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Colombia, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Colombia, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Cook, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Cook, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Democratic Republic of Congo, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Democratic Republic of Congo, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Dominica, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Dominica, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Dominican Republic, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Dominican Republic, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, French West Indies, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, French West Indies, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Guatemala, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Guatemala, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Hong Kong, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Hong Kong, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Kyrgyz, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Kyrgyz, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Luxembourg, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Luxembourg, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Marshall, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Marshall, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Mauritania, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Mauritania, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Nauru, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Nauru, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Netherlands Antilles, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Netherlands Antilles, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Netherlands, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Netherlands, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, North Macedonia, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, North Macedonia, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Pakistan, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Pakistan, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Portugal, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Portugal, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Republic of Congo, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Republic of Congo, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Sao Tome and Principe, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Sao Tome and Principe, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Sri Lanka, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Sri Lanka, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, St.Christopher and Nevis, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, St.Christopher and Nevis, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, St.Lucia, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, St.Lucia, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, St.Vincent, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, St.Vincent, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Switzerland, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Switzerland, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Taiwan, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Taiwan, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Timor-Leste, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Timor-Leste, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Turkmenistan, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Turkmenistan, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, US Virgin Islands, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, US Virgin Islands, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, United Arab Emirates, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, United Arab Emirates, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, Viet Nam, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, Viet Nam, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, West Sahara, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, West Sahara, Passenger cars, Unit price, JPY th, % YoY",None,line
-"Japan, Exports, ASEAN, Passenger cars, Unit price, JPY th, % YoY","Japan, Exports, ASEAN, Passenger cars, Unit price, JPY th, % YoY",None,line
 "Japan, Exports, All, SA, JPY bn, % YoY","Japan, Exports, All, SA, JPY bn, % YoY",None,line
 "Japan, Imports, All, SA, JPY bn, % YoY","Japan, Imports, All, SA, JPY bn, % YoY",None,line
 "Japan, Exports, ASEAN, SA, JPY bn, % YoY","Japan, Exports, ASEAN, SA, JPY bn, % YoY",None,line
@@ -4139,7 +3195,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, Group, Transport equipment, USD bn, % YoY","Japan, Imports, Group, Transport equipment, USD bn, % YoY",None,line
 "Japan, Imports, IC, USD bn, % YoY","Japan, Imports, IC, USD bn, % YoY",None,line
 "Japan, Imports, Semiconductors, USD bn, % YoY","Japan, Imports, Semiconductors, USD bn, % YoY",None,line
-"Japan, Exports, Passenger cars, USD bn, % YoY","Japan, Exports, Passenger cars, USD bn, % YoY",None,line
 "Japan, Exports, Group, Chemicals, USD bn, % YoY","Japan, Exports, Group, Chemicals, USD bn, % YoY",None,line
 "Japan, Exports, Group, Electrical machinery, USD bn, % YoY","Japan, Exports, Group, Electrical machinery, USD bn, % YoY",None,line
 "Japan, Exports, Group, Foodstuffs, USD bn, % YoY","Japan, Exports, Group, Foodstuffs, USD bn, % YoY",None,line
@@ -4185,7 +3240,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, Vietnam, USD bn, % YoY","Japan, Imports, Vietnam, USD bn, % YoY",None,line
 "Japan, Imports, World, USD bn, % YoY","Japan, Imports, World, USD bn, % YoY",None,line
 "Japan, Imports, nan, USD bn, % YoY","Japan, Imports, nan, USD bn, % YoY",None,line
-"Japan, Exports, China, Passenger cars, USD bn, % YoY","Japan, Exports, China, Passenger cars, USD bn, % YoY",None,line
 "Japan, Exports, China, Group, Chemicals, USD bn, % YoY","Japan, Exports, China, Group, Chemicals, USD bn, % YoY",None,line
 "Japan, Exports, China, Group, Electrical machinery, USD bn, % YoY","Japan, Exports, China, Group, Electrical machinery, USD bn, % YoY",None,line
 "Japan, Exports, China, Group, Foodstuffs, USD bn, % YoY","Japan, Exports, China, Group, Foodstuffs, USD bn, % YoY",None,line
@@ -4211,7 +3265,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, China, IC, USD bn, % YoY","Japan, Imports, China, IC, USD bn, % YoY",None,line
 "Japan, Imports, China, Semiconductors, USD bn, % YoY","Japan, Imports, China, Semiconductors, USD bn, % YoY",None,line
 "Japan, Imports, China, Total, USD bn, % YoY","Japan, Imports, China, Total, USD bn, % YoY",None,line
-"Japan, Exports, US, Passenger cars, USD bn, % YoY","Japan, Exports, US, Passenger cars, USD bn, % YoY",None,line
 "Japan, Exports, US, Group, Chemicals, USD bn, % YoY","Japan, Exports, US, Group, Chemicals, USD bn, % YoY",None,line
 "Japan, Exports, US, Group, Electrical machinery, USD bn, % YoY","Japan, Exports, US, Group, Electrical machinery, USD bn, % YoY",None,line
 "Japan, Exports, US, Group, Foodstuffs, USD bn, % YoY","Japan, Exports, US, Group, Foodstuffs, USD bn, % YoY",None,line
@@ -4239,103 +3292,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Semiconductors and semicon machinery, USD bn, % YoY","Japan, Exports, Semiconductors and semicon machinery, USD bn, % YoY",None,line
 "Japan, Exports, China excluding semicon machinery, USD bn, % YoY","Japan, Exports, China excluding semicon machinery, USD bn, % YoY",None,line
 "Japan, Exports, China and Hong Kong excluding semicon machinery, USD bn, % YoY","Japan, Exports, China and Hong Kong excluding semicon machinery, USD bn, % YoY",None,line
-"Japan, Exports, Afghanistan, Passenger cars, USD bn, % YoY","Japan, Exports, Afghanistan, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Bhutan, Passenger cars, USD bn, % YoY","Japan, Exports, Bhutan, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Bosnia and Herzegovina, Passenger cars, USD bn, % YoY","Japan, Exports, Bosnia and Herzegovina, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, British Anguilla, Passenger cars, USD bn, % YoY","Japan, Exports, British Anguilla, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, British Antarctic Territory, Passenger cars, USD bn, % YoY","Japan, Exports, British Antarctic Territory, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Central Africa, Passenger cars, USD bn, % YoY","Japan, Exports, Central Africa, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Colombia, Passenger cars, USD bn, % YoY","Japan, Exports, Colombia, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Cook, Passenger cars, USD bn, % YoY","Japan, Exports, Cook, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Democratic Republic of Congo, Passenger cars, USD bn, % YoY","Japan, Exports, Democratic Republic of Congo, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Dominica, Passenger cars, USD bn, % YoY","Japan, Exports, Dominica, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Dominican Republic, Passenger cars, USD bn, % YoY","Japan, Exports, Dominican Republic, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, For Order, Passenger cars, USD bn, % YoY","Japan, Exports, For Order, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, French West Indies, Passenger cars, USD bn, % YoY","Japan, Exports, French West Indies, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Guatemala, Passenger cars, USD bn, % YoY","Japan, Exports, Guatemala, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Hong Kong, Passenger cars, USD bn, % YoY","Japan, Exports, Hong Kong, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Kyrgyz, Passenger cars, USD bn, % YoY","Japan, Exports, Kyrgyz, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Luxembourg, Passenger cars, USD bn, % YoY","Japan, Exports, Luxembourg, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Marshall, Passenger cars, USD bn, % YoY","Japan, Exports, Marshall, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Mauritania, Passenger cars, USD bn, % YoY","Japan, Exports, Mauritania, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Nauru, Passenger cars, USD bn, % YoY","Japan, Exports, Nauru, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Netherlands Antilles, Passenger cars, USD bn, % YoY","Japan, Exports, Netherlands Antilles, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Netherlands, Passenger cars, USD bn, % YoY","Japan, Exports, Netherlands, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, North Macedonia, Passenger cars, USD bn, % YoY","Japan, Exports, North Macedonia, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Pakistan, Passenger cars, USD bn, % YoY","Japan, Exports, Pakistan, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Portugal, Passenger cars, USD bn, % YoY","Japan, Exports, Portugal, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, USD bn, % YoY","Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Republic of Congo, Passenger cars, USD bn, % YoY","Japan, Exports, Republic of Congo, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Sao Tome and Principe, Passenger cars, USD bn, % YoY","Japan, Exports, Sao Tome and Principe, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Sri Lanka, Passenger cars, USD bn, % YoY","Japan, Exports, Sri Lanka, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, St.Christopher and Nevis, Passenger cars, USD bn, % YoY","Japan, Exports, St.Christopher and Nevis, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, St.Lucia, Passenger cars, USD bn, % YoY","Japan, Exports, St.Lucia, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, St.Vincent, Passenger cars, USD bn, % YoY","Japan, Exports, St.Vincent, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Switzerland, Passenger cars, USD bn, % YoY","Japan, Exports, Switzerland, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Taiwan, Passenger cars, USD bn, % YoY","Japan, Exports, Taiwan, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, The West Bank and Gaza Strip, Passenger cars, USD bn, % YoY","Japan, Exports, The West Bank and Gaza Strip, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Timor-Leste, Passenger cars, USD bn, % YoY","Japan, Exports, Timor-Leste, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Turkmenistan, Passenger cars, USD bn, % YoY","Japan, Exports, Turkmenistan, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, US Virgin Islands, Passenger cars, USD bn, % YoY","Japan, Exports, US Virgin Islands, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, United Arab Emirates, Passenger cars, USD bn, % YoY","Japan, Exports, United Arab Emirates, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, Viet Nam, Passenger cars, USD bn, % YoY","Japan, Exports, Viet Nam, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, West Sahara, Passenger cars, USD bn, % YoY","Japan, Exports, West Sahara, Passenger cars, USD bn, % YoY",None,line
-"Japan, Imports, China, Passenger cars, USD bn, % YoY","Japan, Imports, China, Passenger cars, USD bn, % YoY",None,line
-"Japan, Imports, Colombia, Passenger cars, USD bn, % YoY","Japan, Imports, Colombia, Passenger cars, USD bn, % YoY",None,line
-"Japan, Imports, Hong Kong, Passenger cars, USD bn, % YoY","Japan, Imports, Hong Kong, Passenger cars, USD bn, % YoY",None,line
-"Japan, Imports, Netherlands, Passenger cars, USD bn, % YoY","Japan, Imports, Netherlands, Passenger cars, USD bn, % YoY",None,line
-"Japan, Imports, Pakistan, Passenger cars, USD bn, % YoY","Japan, Imports, Pakistan, Passenger cars, USD bn, % YoY",None,line
-"Japan, Imports, Portugal, Passenger cars, USD bn, % YoY","Japan, Imports, Portugal, Passenger cars, USD bn, % YoY",None,line
-"Japan, Imports, Sri Lanka, Passenger cars, USD bn, % YoY","Japan, Imports, Sri Lanka, Passenger cars, USD bn, % YoY",None,line
-"Japan, Imports, Switzerland, Passenger cars, USD bn, % YoY","Japan, Imports, Switzerland, Passenger cars, USD bn, % YoY",None,line
-"Japan, Imports, Taiwan, Passenger cars, USD bn, % YoY","Japan, Imports, Taiwan, Passenger cars, USD bn, % YoY",None,line
-"Japan, Imports, US, Passenger cars, USD bn, % YoY","Japan, Imports, US, Passenger cars, USD bn, % YoY",None,line
-"Japan, Imports, United Arab Emirates, Passenger cars, USD bn, % YoY","Japan, Imports, United Arab Emirates, Passenger cars, USD bn, % YoY",None,line
-"Japan, Imports, Viet Nam, Passenger cars, USD bn, % YoY","Japan, Imports, Viet Nam, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, ASEAN, Passenger cars, USD bn, % YoY","Japan, Exports, ASEAN, Passenger cars, USD bn, % YoY",None,line
-"Japan, Imports, ASEAN, Passenger cars, USD bn, % YoY","Japan, Imports, ASEAN, Passenger cars, USD bn, % YoY",None,line
-"Japan, Exports, China, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, China, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, US, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, US, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Afghanistan, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Afghanistan, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Bhutan, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Bhutan, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Bosnia and Herzegovina, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Bosnia and Herzegovina, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, British Anguilla, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, British Anguilla, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Central Africa, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Central Africa, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Colombia, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Colombia, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Cook, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Cook, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Democratic Republic of Congo, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Democratic Republic of Congo, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Dominica, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Dominica, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Dominican Republic, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Dominican Republic, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, French West Indies, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, French West Indies, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Guatemala, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Guatemala, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Hong Kong, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Hong Kong, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Kyrgyz, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Kyrgyz, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Luxembourg, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Luxembourg, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Marshall, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Marshall, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Mauritania, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Mauritania, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Nauru, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Nauru, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Netherlands Antilles, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Netherlands Antilles, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Netherlands, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Netherlands, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, North Macedonia, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, North Macedonia, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Pakistan, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Pakistan, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Portugal, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Portugal, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Rep. of Cote d'Ivoire, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Republic of Congo, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Republic of Congo, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Sao Tome and Principe, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Sao Tome and Principe, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Sri Lanka, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Sri Lanka, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, St.Christopher and Nevis, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, St.Christopher and Nevis, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, St.Lucia, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, St.Lucia, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, St.Vincent, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, St.Vincent, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Switzerland, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Switzerland, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Taiwan, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Taiwan, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, The West Bank and Gaza Strip, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Timor-Leste, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Timor-Leste, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Turkmenistan, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Turkmenistan, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, US Virgin Islands, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, US Virgin Islands, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, United Arab Emirates, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, United Arab Emirates, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, Viet Nam, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, Viet Nam, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, West Sahara, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, West Sahara, Passenger cars, Unit price, USD th, % YoY",None,line
-"Japan, Exports, ASEAN, Passenger cars, Unit price, USD th, % YoY","Japan, Exports, ASEAN, Passenger cars, Unit price, USD th, % YoY",None,line
 "Japan, Exports, All, SA, USD bn, % YoY","Japan, Exports, All, SA, USD bn, % YoY",None,line
 "Japan, Imports, All, SA, USD bn, % YoY","Japan, Imports, All, SA, USD bn, % YoY",None,line
 "Japan, Exports, ASEAN, SA, USD bn, % YoY","Japan, Exports, ASEAN, SA, USD bn, % YoY",None,line
@@ -4483,10 +3439,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, World, Blank/Recorded Media, Value, Index, USD, % YoY","Japan, Exports, World, Blank/Recorded Media, Value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Buses, Tracks, Unit value, Index, USD, % YoY","Japan, Exports, World, Buses, Tracks, Unit value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Buses, Tracks, Value, Index, USD, % YoY","Japan, Exports, World, Buses, Tracks, Value, Index, USD, % YoY",None,line
-"Japan, Exports, World, Passenger carsgo Motor Passenger carss, Unit value, Index, USD, % YoY","Japan, Exports, World, Passenger carsgo Motor Passenger carss, Unit value, Index, USD, % YoY",None,line
-"Japan, Exports, World, Passenger carsgo Motor Passenger carss, Value, Index, USD, % YoY","Japan, Exports, World, Passenger carsgo Motor Passenger carss, Value, Index, USD, % YoY",None,line
-"Japan, Exports, World, Passenger carsgo Ships, Unit value, Index, USD, % YoY","Japan, Exports, World, Passenger carsgo Ships, Unit value, Index, USD, % YoY",None,line
-"Japan, Exports, World, Passenger carsgo Ships, Value, Index, USD, % YoY","Japan, Exports, World, Passenger carsgo Ships, Value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Chemicals, Unit value, Index, USD, % YoY","Japan, Exports, World, Chemicals, Unit value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Chemicals, Value, Index, USD, % YoY","Japan, Exports, World, Chemicals, Value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Clad,Plated or Coated, Unit value, Index, USD, % YoY","Japan, Exports, World, Clad,Plated or Coated, Unit value, Index, USD, % YoY",None,line
@@ -4591,8 +3543,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, World, Parts of Computer, Value, Index, USD, % YoY","Japan, Exports, World, Parts of Computer, Value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Parts of Motor Vehicles, Unit value, Index, USD, % YoY","Japan, Exports, World, Parts of Motor Vehicles, Unit value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Parts of Motor Vehicles, Value, Index, USD, % YoY","Japan, Exports, World, Parts of Motor Vehicles, Value, Index, USD, % YoY",None,line
-"Japan, Exports, World, Passenger Motor Passenger cars, Unit value, Index, USD, % YoY","Japan, Exports, World, Passenger Motor Passenger cars, Unit value, Index, USD, % YoY",None,line
-"Japan, Exports, World, Passenger Motor Passenger cars, Value, Index, USD, % YoY","Japan, Exports, World, Passenger Motor Passenger cars, Value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Photographic Supplies, Unit value, Index, USD, % YoY","Japan, Exports, World, Photographic Supplies, Unit value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Photographic Supplies, Value, Index, USD, % YoY","Japan, Exports, World, Photographic Supplies, Value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Plastic Materials, Unit value, Index, USD, % YoY","Japan, Exports, World, Plastic Materials, Unit value, Index, USD, % YoY",None,line
@@ -4651,8 +3601,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, World, Transistors and diodes, Value, Index, USD, % YoY","Japan, Exports, World, Transistors and diodes, Value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Transport Equipments, Unit value, Index, USD, % YoY","Japan, Exports, World, Transport Equipments, Unit value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Transport Equipments, Value, Index, USD, % YoY","Japan, Exports, World, Transport Equipments, Value, Index, USD, % YoY",None,line
-"Japan, Exports, World, Used Passenger Motor Passenger cars, Unit value, Index, USD, % YoY","Japan, Exports, World, Used Passenger Motor Passenger cars, Unit value, Index, USD, % YoY",None,line
-"Japan, Exports, World, Used Passenger Motor Passenger cars, Value, Index, USD, % YoY","Japan, Exports, World, Used Passenger Motor Passenger cars, Value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Vehicles Engines, Unit value, Index, USD, % YoY","Japan, Exports, World, Vehicles Engines, Unit value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Vehicles Engines, Value, Index, USD, % YoY","Japan, Exports, World, Vehicles Engines, Value, Index, USD, % YoY",None,line
 "Japan, Exports, World, Video rec or Prepro app, Unit value, Index, USD, % YoY","Japan, Exports, World, Video rec or Prepro app, Unit value, Index, USD, % YoY",None,line
@@ -4903,8 +3851,6 @@ name,display_name,data_type,chart_type
 "Japan, Imports, World, Parts for Motor Vehicles, Value, Index, USD, % YoY","Japan, Imports, World, Parts for Motor Vehicles, Value, Index, USD, % YoY",None,line
 "Japan, Imports, World, Parts of Computer, Unit value, Index, USD, % YoY","Japan, Imports, World, Parts of Computer, Unit value, Index, USD, % YoY",None,line
 "Japan, Imports, World, Parts of Computer, Value, Index, USD, % YoY","Japan, Imports, World, Parts of Computer, Value, Index, USD, % YoY",None,line
-"Japan, Imports, World, Passenger Motor Passenger carss, Unit value, Index, USD, % YoY","Japan, Imports, World, Passenger Motor Passenger carss, Unit value, Index, USD, % YoY",None,line
-"Japan, Imports, World, Passenger Motor Passenger carss, Value, Index, USD, % YoY","Japan, Imports, World, Passenger Motor Passenger carss, Value, Index, USD, % YoY",None,line
 "Japan, Imports, World, Plastic Materials, Unit value, Index, USD, % YoY","Japan, Imports, World, Plastic Materials, Unit value, Index, USD, % YoY",None,line
 "Japan, Imports, World, Plastic Materials, Value, Index, USD, % YoY","Japan, Imports, World, Plastic Materials, Value, Index, USD, % YoY",None,line
 "Japan, Imports, World, Plastic, Unit value, Index, USD, % YoY","Japan, Imports, World, Plastic, Unit value, Index, USD, % YoY",None,line
