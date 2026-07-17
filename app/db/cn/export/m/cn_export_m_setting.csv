@@ -3297,7 +3297,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Printed circuits, 100MN","China, Major product, Imports, Printed circuits, 100MN",None,line
 "China, Major product, Imports, Compressors, 10000N","China, Major product, Imports, Compressors, 10000N",None,line
 "China, Major product, Imports, Wood in the rough, 10000CUM","China, Major product, Imports, Wood in the rough, 10000CUM",None,line
-"China, Major product, Imports, Crude petroleum oils, 10000T","China, Major product, Imports, Crude petroleum oils, 10000T",None,line
+"China, Major product, Imports, Crude petroleum oils, Ton mn","China, Major product, Imports, Crude petroleum oils, Ton mn",None,line
 "China, Major product, Imports, Transformers, 10000N","China, Major product, Imports, Transformers, 10000N",None,line
 "China, Major product, Imports, Yarn of synthetic fibres, T","China, Major product, Imports, Yarn of synthetic fibres, T",None,line
 "China, Major product, Imports, Commercial vehicles, N","China, Major product, Imports, Commercial vehicles, N",None,line
@@ -3314,7 +3314,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Fresh or dried fruit and nuts, 10000T","China, Major product, Imports, Fresh or dried fruit and nuts, 10000T",None,line
 "China, Major product, Imports, Flat panel display, 10000N","China, Major product, Imports, Flat panel display, 10000N",None,line
 "China, Major product, Imports, Flat panel display modules of liquid crystals, 10000N","China, Major product, Imports, Flat panel display modules of liquid crystals, 10000N",None,line
-"China, Major product, Imports, Refined petroleum products, 10000T","China, Major product, Imports, Refined petroleum products, 10000T",None,line
+"China, Major product, Imports, Refined petroleum products, Ton mn","China, Major product, Imports, Refined petroleum products, Ton mn",None,line
 "China, Major product, Imports, Wrist-watches, 10000N","China, Major product, Imports, Wrist-watches, 10000N",None,line
 "China, Major product, Imports, Printers and duplicators, including multifunctional printers, N","China, Major product, Imports, Printers and duplicators, including multifunctional printers, N",None,line
 "China, Major product, Imports, Tractors, N","China, Major product, Imports, Tractors, N",None,line
@@ -3414,6 +3414,8 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Grain sorghum, 10000T","China, Major product, Imports, Grain sorghum, 10000T",None,line
 "China, Major product, Exports, Traditional labour-intensive sectors, USD bn","China, Major product, Exports, Traditional labour-intensive sectors, USD bn",None,line
 "China, Major product, Imports, Energy, USD bn","China, Major product, Imports, Energy, USD bn",None,line
+"China, Major product, Imports, Crude and refined products, USD bn","China, Major product, Imports, Crude and refined products, USD bn",None,line
+"China, Major product, Imports, Crude and refined products, Ton mn","China, Major product, Imports, Crude and refined products, Ton mn",None,line
 "China, Major product, Exports, Commodities, USD bn","China, Major product, Exports, Commodities, USD bn",None,line
 "China, Major product, Exports, NEV, USD bn","China, Major product, Exports, NEV, USD bn",None,line
 "China, Major product, Exports, Passenger cars, ICE, USD bn","China, Major product, Exports, Passenger cars, ICE, USD bn",None,line
@@ -4531,6 +4533,9 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Passenger cars, PHEV, SA, USD bn","China, Major product, Exports, Passenger cars, PHEV, SA, USD bn",None,line
 "China, Major product, Exports, Lithium-ion batteries, SA, USD bn","China, Major product, Exports, Lithium-ion batteries, SA, USD bn",None,line
 "China, Major product, Exports, Solar cells, SA, USD bn","China, Major product, Exports, Solar cells, SA, USD bn",None,line
+"China, Major product, Imports, Crude and refined products, SA, USD bn","China, Major product, Imports, Crude and refined products, SA, USD bn",None,line
+"China, Major product, Imports, Crude petroleum oils, SA, Ton mn","China, Major product, Imports, Crude petroleum oils, SA, Ton mn",None,line
+"China, Major product, Imports, Crude petroleum oils, SA, USD bn","China, Major product, Imports, Crude petroleum oils, SA, USD bn",None,line
 "China, Method, Imports, Processing, SA, USD bn","China, Method, Imports, Processing, SA, USD bn",None,line
 "China, Method, Imports, Ordinary trade, SA, USD bn","China, Method, Imports, Ordinary trade, SA, USD bn",None,line
 "China, Ownership, Exports, State firms, SA, USD bn","China, Ownership, Exports, State firms, SA, USD bn",None,line
@@ -5021,6 +5026,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Grain sorghum, % of GDP","China, Major product, Imports, Grain sorghum, % of GDP",None,line
 "China, Major product, Exports, Traditional labour-intensive sectors, % of GDP","China, Major product, Exports, Traditional labour-intensive sectors, % of GDP",None,line
 "China, Major product, Imports, Energy, % of GDP","China, Major product, Imports, Energy, % of GDP",None,line
+"China, Major product, Imports, Crude and refined products, % of GDP","China, Major product, Imports, Crude and refined products, % of GDP",None,line
 "China, Major product, Exports, Commodities, % of GDP","China, Major product, Exports, Commodities, % of GDP",None,line
 "China, Major product, Exports, NEV, % of GDP","China, Major product, Exports, NEV, % of GDP",None,line
 "China, Major product, Exports, Passenger cars, ICE, % of GDP","China, Major product, Exports, Passenger cars, ICE, % of GDP",None,line
@@ -5888,6 +5894,8 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Passenger cars, PHEV, SA, % of GDP","China, Major product, Exports, Passenger cars, PHEV, SA, % of GDP",None,line
 "China, Major product, Exports, Lithium-ion batteries, SA, % of GDP","China, Major product, Exports, Lithium-ion batteries, SA, % of GDP",None,line
 "China, Major product, Exports, Solar cells, SA, % of GDP","China, Major product, Exports, Solar cells, SA, % of GDP",None,line
+"China, Major product, Imports, Crude and refined products, SA, % of GDP","China, Major product, Imports, Crude and refined products, SA, % of GDP",None,line
+"China, Major product, Imports, Crude petroleum oils, SA, % of GDP","China, Major product, Imports, Crude petroleum oils, SA, % of GDP",None,line
 "China, Method, Imports, Processing, SA, % of GDP","China, Method, Imports, Processing, SA, % of GDP",None,line
 "China, Method, Imports, Ordinary trade, SA, % of GDP","China, Method, Imports, Ordinary trade, SA, % of GDP",None,line
 "China, Ownership, Exports, State firms, SA, % of GDP","China, Ownership, Exports, State firms, SA, % of GDP",None,line
@@ -6523,7 +6531,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Printed circuits, 100MN, % YoY","China, Major product, Imports, Printed circuits, 100MN, % YoY",None,line
 "China, Major product, Imports, Compressors, 10000N, % YoY","China, Major product, Imports, Compressors, 10000N, % YoY",None,line
 "China, Major product, Imports, Wood in the rough, 10000CUM, % YoY","China, Major product, Imports, Wood in the rough, 10000CUM, % YoY",None,line
-"China, Major product, Imports, Crude petroleum oils, 10000T, % YoY","China, Major product, Imports, Crude petroleum oils, 10000T, % YoY",None,line
+"China, Major product, Imports, Crude petroleum oils, Ton mn, % YoY","China, Major product, Imports, Crude petroleum oils, Ton mn, % YoY",None,line
 "China, Major product, Imports, Transformers, 10000N, % YoY","China, Major product, Imports, Transformers, 10000N, % YoY",None,line
 "China, Major product, Imports, Yarn of synthetic fibres, T, % YoY","China, Major product, Imports, Yarn of synthetic fibres, T, % YoY",None,line
 "China, Major product, Imports, Commercial vehicles, N, % YoY","China, Major product, Imports, Commercial vehicles, N, % YoY",None,line
@@ -6540,7 +6548,7 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Fresh or dried fruit and nuts, 10000T, % YoY","China, Major product, Imports, Fresh or dried fruit and nuts, 10000T, % YoY",None,line
 "China, Major product, Imports, Flat panel display, 10000N, % YoY","China, Major product, Imports, Flat panel display, 10000N, % YoY",None,line
 "China, Major product, Imports, Flat panel display modules of liquid crystals, 10000N, % YoY","China, Major product, Imports, Flat panel display modules of liquid crystals, 10000N, % YoY",None,line
-"China, Major product, Imports, Refined petroleum products, 10000T, % YoY","China, Major product, Imports, Refined petroleum products, 10000T, % YoY",None,line
+"China, Major product, Imports, Refined petroleum products, Ton mn, % YoY","China, Major product, Imports, Refined petroleum products, Ton mn, % YoY",None,line
 "China, Major product, Imports, Wrist-watches, 10000N, % YoY","China, Major product, Imports, Wrist-watches, 10000N, % YoY",None,line
 "China, Major product, Imports, Tractors, N, % YoY","China, Major product, Imports, Tractors, N, % YoY",None,line
 "China, Major product, Imports, Passenger cars, PHEV, N, % YoY","China, Major product, Imports, Passenger cars, PHEV, N, % YoY",None,line
@@ -6635,6 +6643,8 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Grain sorghum, 10000T, % YoY","China, Major product, Imports, Grain sorghum, 10000T, % YoY",None,line
 "China, Major product, Exports, Traditional labour-intensive sectors, USD bn, % YoY","China, Major product, Exports, Traditional labour-intensive sectors, USD bn, % YoY",None,line
 "China, Major product, Imports, Energy, USD bn, % YoY","China, Major product, Imports, Energy, USD bn, % YoY",None,line
+"China, Major product, Imports, Crude and refined products, USD bn, % YoY","China, Major product, Imports, Crude and refined products, USD bn, % YoY",None,line
+"China, Major product, Imports, Crude and refined products, Ton mn, % YoY","China, Major product, Imports, Crude and refined products, Ton mn, % YoY",None,line
 "China, Major product, Exports, Commodities, USD bn, % YoY","China, Major product, Exports, Commodities, USD bn, % YoY",None,line
 "China, Major product, Exports, NEV, USD bn, % YoY","China, Major product, Exports, NEV, USD bn, % YoY",None,line
 "China, Major product, Exports, Passenger cars, ICE, USD bn, % YoY","China, Major product, Exports, Passenger cars, ICE, USD bn, % YoY",None,line
@@ -7705,6 +7715,9 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Passenger cars, PHEV, SA, USD bn, % MoM","China, Major product, Exports, Passenger cars, PHEV, SA, USD bn, % MoM",None,line
 "China, Major product, Exports, Lithium-ion batteries, SA, USD bn, % MoM","China, Major product, Exports, Lithium-ion batteries, SA, USD bn, % MoM",None,line
 "China, Major product, Exports, Solar cells, SA, USD bn, % MoM","China, Major product, Exports, Solar cells, SA, USD bn, % MoM",None,line
+"China, Major product, Imports, Crude and refined products, SA, USD bn, % MoM","China, Major product, Imports, Crude and refined products, SA, USD bn, % MoM",None,line
+"China, Major product, Imports, Crude petroleum oils, SA, Ton mn, % MoM","China, Major product, Imports, Crude petroleum oils, SA, Ton mn, % MoM",None,line
+"China, Major product, Imports, Crude petroleum oils, SA, USD bn, % MoM","China, Major product, Imports, Crude petroleum oils, SA, USD bn, % MoM",None,line
 "China, Method, Imports, Processing, SA, USD bn, % MoM","China, Method, Imports, Processing, SA, USD bn, % MoM",None,line
 "China, Method, Imports, Ordinary trade, SA, USD bn, % MoM","China, Method, Imports, Ordinary trade, SA, USD bn, % MoM",None,line
 "China, Ownership, Exports, State firms, SA, USD bn, % MoM","China, Ownership, Exports, State firms, SA, USD bn, % MoM",None,line
@@ -7762,6 +7775,9 @@ name,display_name,data_type,chart_type
 "China, Major product, Exports, Passenger cars, PHEV, SA, USD bn, MoM chg","China, Major product, Exports, Passenger cars, PHEV, SA, USD bn, MoM chg",None,line
 "China, Major product, Exports, Lithium-ion batteries, SA, USD bn, MoM chg","China, Major product, Exports, Lithium-ion batteries, SA, USD bn, MoM chg",None,line
 "China, Major product, Exports, Solar cells, SA, USD bn, MoM chg","China, Major product, Exports, Solar cells, SA, USD bn, MoM chg",None,line
+"China, Major product, Imports, Crude and refined products, SA, USD bn, MoM chg","China, Major product, Imports, Crude and refined products, SA, USD bn, MoM chg",None,line
+"China, Major product, Imports, Crude petroleum oils, SA, Ton mn, MoM chg","China, Major product, Imports, Crude petroleum oils, SA, Ton mn, MoM chg",None,line
+"China, Major product, Imports, Crude petroleum oils, SA, USD bn, MoM chg","China, Major product, Imports, Crude petroleum oils, SA, USD bn, MoM chg",None,line
 "China, Method, Imports, Processing, SA, USD bn, MoM chg","China, Method, Imports, Processing, SA, USD bn, MoM chg",None,line
 "China, Method, Imports, Ordinary trade, SA, USD bn, MoM chg","China, Method, Imports, Ordinary trade, SA, USD bn, MoM chg",None,line
 "China, Ownership, Exports, State firms, SA, USD bn, MoM chg","China, Ownership, Exports, State firms, SA, USD bn, MoM chg",None,line
@@ -7950,6 +7966,9 @@ name,display_name,data_type,chart_type
 "China, Major product, Imports, Medical or surgical instruments and apparatuses, Contribution to % YoY, ppts","China, Major product, Imports, Medical or surgical instruments and apparatuses, Contribution to % YoY, ppts",None,bar
 "China, Major product, Imports, Energy, Contribution to % YoY, ppts","China, Major product, Imports, Energy, Contribution to % YoY, ppts",None,bar
 "China, Major product, Imports, Ores, Contribution to % YoY, ppts","China, Major product, Imports, Ores, Contribution to % YoY, ppts",None,bar
+"China, HS2, Exports, Value, Share of categories growing YoY","China, HS2, Exports, Value, Share of categories growing YoY",None,line
+"China, HS2, Imports, Value, Share of categories growing YoY","China, HS2, Imports, Value, Share of categories growing YoY",None,line
+"China, HS2, Trade balance, Positive cats, Share of total, %","China, HS2, Trade balance, Positive cats, Share of total, %",None,line
 "China, Auto exports, Myanmar, USD m","China, Auto exports, Myanmar, USD m",None,line
 "China, Auto exports, Hong Kong, USD m","China, Auto exports, Hong Kong, USD m",None,line
 "China, Auto exports, India, USD m","China, Auto exports, India, USD m",None,line
