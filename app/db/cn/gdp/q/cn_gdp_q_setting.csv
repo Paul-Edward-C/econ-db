@@ -347,6 +347,8 @@ name,display_name,data_type,chart_type
 "China, Household survey, Urban, Per capita, Income, Transfer, YTD, CNY","China, Household survey, Urban, Per capita, Income, Transfer, YTD, CNY",None,line
 "China, Household survey, Urban, Per capita, Income, Wages, YTD, % YoY","China, Household survey, Urban, Per capita, Income, Wages, YTD, % YoY",None,line
 "China, Household survey, Urban, Per capita, Income, Wages, YTD, CNY","China, Household survey, Urban, Per capita, Income, Wages, YTD, CNY",None,line
+"China, Household survey, 全国居民人均可支配收入元","China, Household survey, 全国居民人均可支配收入元",None,line
+"China, Household survey, 全国居民人均可支配收入元, % YoY","China, Household survey, 全国居民人均可支配收入元, % YoY",None,line
 "China, Household survey, Rural, Per capita, Expenditure, Services, YTD, CNY","China, Household survey, Rural, Per capita, Expenditure, Services, YTD, CNY",None,line
 "China, Household survey, Rural, Per capita, Expenditure, Goods, YTD, CNY","China, Household survey, Rural, Per capita, Expenditure, Goods, YTD, CNY",None,line
 "China, Household survey, Urban, Per capita, Expenditure, Services, YTD, CNY","China, Household survey, Urban, Per capita, Expenditure, Services, YTD, CNY",None,line
@@ -1372,6 +1374,7 @@ name,display_name,data_type,chart_type
 "China, RGDP, Revisions, % QoQ, Sep-2025","China, RGDP, Revisions, % QoQ, Sep-2025",None,line
 "China, RGDP, Revisions, % QoQ, Dec-2025","China, RGDP, Revisions, % QoQ, Dec-2025",None,line
 "China, RGDP, Revisions, % QoQ, Mar-2026","China, RGDP, Revisions, % QoQ, Mar-2026",None,line
+"China, RGDP, Revisions, % QoQ, Jun-2026","China, RGDP, Revisions, % QoQ, Jun-2026",None,line
 "China, RGDP, Revisions, Index, Mar-2017","China, RGDP, Revisions, Index, Mar-2017",None,line
 "China, RGDP, Revisions, Index, Jun-2017","China, RGDP, Revisions, Index, Jun-2017",None,line
 "China, RGDP, Revisions, Index, Sep-2017","China, RGDP, Revisions, Index, Sep-2017",None,line
@@ -1409,6 +1412,7 @@ name,display_name,data_type,chart_type
 "China, RGDP, Revisions, Index, Sep-2025","China, RGDP, Revisions, Index, Sep-2025",None,line
 "China, RGDP, Revisions, Index, Dec-2025","China, RGDP, Revisions, Index, Dec-2025",None,line
 "China, RGDP, Revisions, Index, Mar-2026","China, RGDP, Revisions, Index, Mar-2026",None,line
+"China, RGDP, Revisions, Index, Jun-2026","China, RGDP, Revisions, Index, Jun-2026",None,line
 "China, NGDP, Activity, Primary, Agriculture, CNY tn","China, NGDP, Activity, Primary, Agriculture, CNY tn",None,line
 "China, NGDP, Activity, Primary, Agriculture, CNY tn, YTD","China, NGDP, Activity, Primary, Agriculture, CNY tn, YTD",None,line
 "China, NGDP, Activity, CNY tn","China, NGDP, Activity, CNY tn",None,line
@@ -1876,6 +1880,8 @@ name,display_name,data_type,chart_type
 "China, Household survey, Urban, Per capita, Income, Transfer, YTD, CNY, 12M average","China, Household survey, Urban, Per capita, Income, Transfer, YTD, CNY, 12M average",None,line
 "China, Household survey, Urban, Per capita, Income, Wages, YTD, % YoY, 12M average","China, Household survey, Urban, Per capita, Income, Wages, YTD, % YoY, 12M average",None,line
 "China, Household survey, Urban, Per capita, Income, Wages, YTD, CNY, 12M average","China, Household survey, Urban, Per capita, Income, Wages, YTD, CNY, 12M average",None,line
+"China, Household survey, 全国居民人均可支配收入元, 12M average","China, Household survey, 全国居民人均可支配收入元, 12M average",None,line
+"China, Household survey, 全国居民人均可支配收入元, % YoY, 12M average","China, Household survey, 全国居民人均可支配收入元, % YoY, 12M average",None,line
 "China, Household survey, Rural, Per capita, Expenditure, Services, YTD, CNY, 12M average","China, Household survey, Rural, Per capita, Expenditure, Services, YTD, CNY, 12M average",None,line
 "China, Household survey, Rural, Per capita, Expenditure, Goods, YTD, CNY, 12M average","China, Household survey, Rural, Per capita, Expenditure, Goods, YTD, CNY, 12M average",None,line
 "China, Household survey, Urban, Per capita, Expenditure, Services, YTD, CNY, 12M average","China, Household survey, Urban, Per capita, Expenditure, Services, YTD, CNY, 12M average",None,line
@@ -2901,6 +2907,7 @@ name,display_name,data_type,chart_type
 "China, RGDP, Revisions, % QoQ, Sep-2025, 12M average","China, RGDP, Revisions, % QoQ, Sep-2025, 12M average",None,line
 "China, RGDP, Revisions, % QoQ, Dec-2025, 12M average","China, RGDP, Revisions, % QoQ, Dec-2025, 12M average",None,line
 "China, RGDP, Revisions, % QoQ, Mar-2026, 12M average","China, RGDP, Revisions, % QoQ, Mar-2026, 12M average",None,line
+"China, RGDP, Revisions, % QoQ, Jun-2026, 12M average","China, RGDP, Revisions, % QoQ, Jun-2026, 12M average",None,line
 "China, RGDP, Revisions, Index, Mar-2017, 12M average","China, RGDP, Revisions, Index, Mar-2017, 12M average",None,line
 "China, RGDP, Revisions, Index, Jun-2017, 12M average","China, RGDP, Revisions, Index, Jun-2017, 12M average",None,line
 "China, RGDP, Revisions, Index, Sep-2017, 12M average","China, RGDP, Revisions, Index, Sep-2017, 12M average",None,line
@@ -2938,6 +2945,7 @@ name,display_name,data_type,chart_type
 "China, RGDP, Revisions, Index, Sep-2025, 12M average","China, RGDP, Revisions, Index, Sep-2025, 12M average",None,line
 "China, RGDP, Revisions, Index, Dec-2025, 12M average","China, RGDP, Revisions, Index, Dec-2025, 12M average",None,line
 "China, RGDP, Revisions, Index, Mar-2026, 12M average","China, RGDP, Revisions, Index, Mar-2026, 12M average",None,line
+"China, RGDP, Revisions, Index, Jun-2026, 12M average","China, RGDP, Revisions, Index, Jun-2026, 12M average",None,line
 "China, NGDP, Activity, Primary, Agriculture, CNY tn, 12M average","China, NGDP, Activity, Primary, Agriculture, CNY tn, 12M average",None,line
 "China, NGDP, Activity, Primary, Agriculture, CNY tn, YTD, 12M average","China, NGDP, Activity, Primary, Agriculture, CNY tn, YTD, 12M average",None,line
 "China, NGDP, Activity, CNY tn, 12M average","China, NGDP, Activity, CNY tn, 12M average",None,line

@@ -192,6 +192,15 @@ name,display_name,data_type,chart_type
 "Taiwan, CPI, Broad energy incl international travel, Contribution to % YoY, ppts","Taiwan, CPI, Broad energy incl international travel, Contribution to % YoY, ppts",None,bar
 "Taiwan, CPI, All items excluding broad energy, % YoY","Taiwan, CPI, All items excluding broad energy, % YoY",None,line
 "Taiwan, CPI, All items excluding broad energy, Contribution to % YoY, ppts","Taiwan, CPI, All items excluding broad energy, Contribution to % YoY, ppts",None,bar
+"Taiwan, CPI, Diffusion, Weighted share rising, %","Taiwan, CPI, Diffusion, Weighted share rising, %",None,line
+"Taiwan, CPI, Diffusion, Weighted share above 2pc, %","Taiwan, CPI, Diffusion, Weighted share above 2pc, %",None,line
+"Taiwan, CPI, Diffusion, Weighted share falling, %","Taiwan, CPI, Diffusion, Weighted share falling, %",None,line
+"Taiwan, CPI, Diffusion index, Rising minus falling, ppts","Taiwan, CPI, Diffusion index, Rising minus falling, ppts",None,line
+"Taiwan, CPI, Diffusion, Unweighted share of items rising, %","Taiwan, CPI, Diffusion, Unweighted share of items rising, %",None,line
+"Taiwan, CPI, Diffusion, Weighted share, YoY below 0, %","Taiwan, CPI, Diffusion, Weighted share, YoY below 0, %",None,line
+"Taiwan, CPI, Diffusion, Weighted share, YoY 0 to 2, %","Taiwan, CPI, Diffusion, Weighted share, YoY 0 to 2, %",None,line
+"Taiwan, CPI, Diffusion, Weighted share, YoY 2 to 4, %","Taiwan, CPI, Diffusion, Weighted share, YoY 2 to 4, %",None,line
+"Taiwan, CPI, Diffusion, Weighted share, YoY 4 plus, %","Taiwan, CPI, Diffusion, Weighted share, YoY 4 plus, %",None,line
 "Taiwan, CPI, All items, 3mma","Taiwan, CPI, All items, 3mma",None,line
 "Taiwan, CPI, Food, 3mma","Taiwan, CPI, Food, 3mma",None,line
 "Taiwan, CPI, Cereals & Cereal Products, 3mma","Taiwan, CPI, Cereals & Cereal Products, 3mma",None,line
@@ -385,3 +394,12 @@ name,display_name,data_type,chart_type
 "Taiwan, CPI, Broad energy incl international travel, Contribution to % YoY, ppts, 3mma","Taiwan, CPI, Broad energy incl international travel, Contribution to % YoY, ppts, 3mma",None,bar
 "Taiwan, CPI, All items excluding broad energy, % YoY, 3mma","Taiwan, CPI, All items excluding broad energy, % YoY, 3mma",None,line
 "Taiwan, CPI, All items excluding broad energy, Contribution to % YoY, ppts, 3mma","Taiwan, CPI, All items excluding broad energy, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, CPI, Diffusion, Weighted share rising, %, 3mma","Taiwan, CPI, Diffusion, Weighted share rising, %, 3mma",None,line
+"Taiwan, CPI, Diffusion, Weighted share above 2pc, %, 3mma","Taiwan, CPI, Diffusion, Weighted share above 2pc, %, 3mma",None,line
+"Taiwan, CPI, Diffusion, Weighted share falling, %, 3mma","Taiwan, CPI, Diffusion, Weighted share falling, %, 3mma",None,line
+"Taiwan, CPI, Diffusion index, Rising minus falling, ppts, 3mma","Taiwan, CPI, Diffusion index, Rising minus falling, ppts, 3mma",None,line
+"Taiwan, CPI, Diffusion, Unweighted share of items rising, %, 3mma","Taiwan, CPI, Diffusion, Unweighted share of items rising, %, 3mma",None,line
+"Taiwan, CPI, Diffusion, Weighted share, YoY below 0, %, 3mma","Taiwan, CPI, Diffusion, Weighted share, YoY below 0, %, 3mma",None,line
+"Taiwan, CPI, Diffusion, Weighted share, YoY 0 to 2, %, 3mma","Taiwan, CPI, Diffusion, Weighted share, YoY 0 to 2, %, 3mma",None,line
+"Taiwan, CPI, Diffusion, Weighted share, YoY 2 to 4, %, 3mma","Taiwan, CPI, Diffusion, Weighted share, YoY 2 to 4, %, 3mma",None,line
+"Taiwan, CPI, Diffusion, Weighted share, YoY 4 plus, %, 3mma","Taiwan, CPI, Diffusion, Weighted share, YoY 4 plus, %, 3mma",None,line

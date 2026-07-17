@@ -1,17 +1,6 @@
 name,display_name,data_type,chart_type
 "Japan, Exports, All, JPY bn","Japan, Exports, All, JPY bn",None,line
 "Japan, Imports, All, JPY bn","Japan, Imports, All, JPY bn",None,line
-"Japan, Imports, Group, Chemicals, JPY bn","Japan, Imports, Group, Chemicals, JPY bn",None,line
-"Japan, Imports, Group, Electrical machinery, JPY bn","Japan, Imports, Group, Electrical machinery, JPY bn",None,line
-"Japan, Imports, Group, Foodstuffs, JPY bn","Japan, Imports, Group, Foodstuffs, JPY bn",None,line
-"Japan, Imports, Group, Machinery, JPY bn","Japan, Imports, Group, Machinery, JPY bn",None,line
-"Japan, Imports, Group, Manufactured goods, JPY bn","Japan, Imports, Group, Manufactured goods, JPY bn",None,line
-"Japan, Imports, Group, Mineral fuels, JPY bn","Japan, Imports, Group, Mineral fuels, JPY bn",None,line
-"Japan, Imports, Group, Others, JPY bn","Japan, Imports, Group, Others, JPY bn",None,line
-"Japan, Imports, Group, Raw materials, JPY bn","Japan, Imports, Group, Raw materials, JPY bn",None,line
-"Japan, Imports, Group, Transport equipment, JPY bn","Japan, Imports, Group, Transport equipment, JPY bn",None,line
-"Japan, Imports, IC, JPY bn","Japan, Imports, IC, JPY bn",None,line
-"Japan, Imports, Semiconductors, JPY bn","Japan, Imports, Semiconductors, JPY bn",None,line
 "Japan, Exports, Group, Chemicals, JPY bn","Japan, Exports, Group, Chemicals, JPY bn",None,line
 "Japan, Exports, Group, Electrical machinery, JPY bn","Japan, Exports, Group, Electrical machinery, JPY bn",None,line
 "Japan, Exports, Group, Foodstuffs, JPY bn","Japan, Exports, Group, Foodstuffs, JPY bn",None,line
@@ -22,9 +11,24 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Group, Raw materials, JPY bn","Japan, Exports, Group, Raw materials, JPY bn",None,line
 "Japan, Exports, Group, Transport equipment, JPY bn","Japan, Exports, Group, Transport equipment, JPY bn",None,line
 "Japan, Exports, IC, JPY bn","Japan, Exports, IC, JPY bn",None,line
+"Japan, Exports, IC, MNO","Japan, Exports, IC, MNO",None,line
 "Japan, Exports, Semicon machinery, JPY bn","Japan, Exports, Semicon machinery, JPY bn",None,line
+"Japan, Exports, Semicon machinery, MT","Japan, Exports, Semicon machinery, MT",None,line
 "Japan, Exports, Semiconductors, JPY bn","Japan, Exports, Semiconductors, JPY bn",None,line
+"Japan, Exports, Ships, GT","Japan, Exports, Ships, GT",None,line
 "Japan, Exports, Ships, JPY bn","Japan, Exports, Ships, JPY bn",None,line
+"Japan, Imports, Group, Chemicals, JPY bn","Japan, Imports, Group, Chemicals, JPY bn",None,line
+"Japan, Imports, Group, Electrical machinery, JPY bn","Japan, Imports, Group, Electrical machinery, JPY bn",None,line
+"Japan, Imports, Group, Foodstuffs, JPY bn","Japan, Imports, Group, Foodstuffs, JPY bn",None,line
+"Japan, Imports, Group, Machinery, JPY bn","Japan, Imports, Group, Machinery, JPY bn",None,line
+"Japan, Imports, Group, Manufactured goods, JPY bn","Japan, Imports, Group, Manufactured goods, JPY bn",None,line
+"Japan, Imports, Group, Mineral fuels, JPY bn","Japan, Imports, Group, Mineral fuels, JPY bn",None,line
+"Japan, Imports, Group, Others, JPY bn","Japan, Imports, Group, Others, JPY bn",None,line
+"Japan, Imports, Group, Raw materials, JPY bn","Japan, Imports, Group, Raw materials, JPY bn",None,line
+"Japan, Imports, Group, Transport equipment, JPY bn","Japan, Imports, Group, Transport equipment, JPY bn",None,line
+"Japan, Imports, IC, JPY bn","Japan, Imports, IC, JPY bn",None,line
+"Japan, Imports, IC, MNO","Japan, Imports, IC, MNO",None,line
+"Japan, Imports, Semiconductors, JPY bn","Japan, Imports, Semiconductors, JPY bn",None,line
 "Japan, Exports, ASEAN, JPY bn","Japan, Exports, ASEAN, JPY bn",None,line
 "Japan, Exports, Africa, JPY bn","Japan, Exports, Africa, JPY bn",None,line
 "Japan, Exports, Asia, JPY bn","Japan, Exports, Asia, JPY bn",None,line
@@ -1035,6 +1039,11 @@ name,display_name,data_type,chart_type
 "Japan, Imports, World, Woman's & Girl's Dress, Quantum, Index","Japan, Imports, World, Woman's & Girl's Dress, Quantum, Index",None,line
 "Japan, Imports, World, Woman's & Girl's Dress, Unit value, Index","Japan, Imports, World, Woman's & Girl's Dress, Unit value, Index",None,line
 "Japan, Imports, World, Woman's & Girl's Dress, Value, Index","Japan, Imports, World, Woman's & Girl's Dress, Value, Index",None,line
+"Japan, Imports, Crude oil, KL","Japan, Imports, Crude oil, KL",None,line
+"Japan, Imports, Crude oil, KL mn","Japan, Imports, Crude oil, KL mn",None,line
+"Japan, Imports, Crude oil, Ton","Japan, Imports, Crude oil, Ton",None,line
+"Japan, Imports, Crude oil, Ton mn","Japan, Imports, Crude oil, Ton mn",None,line
+"Japan, Imports, Crude oil, JPY bn","Japan, Imports, Crude oil, JPY bn",None,line
 "Japan, Exports, All, SA, JPY bn","Japan, Exports, All, SA, JPY bn",None,line
 "Japan, Imports, All, SA, JPY bn","Japan, Imports, All, SA, JPY bn",None,line
 "Japan, Exports, ASEAN, SA, JPY bn","Japan, Exports, ASEAN, SA, JPY bn",None,line
@@ -1074,17 +1083,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, All, Quantum, Index, SA","Japan, Exports, All, Quantum, Index, SA",None,line
 "Japan, Exports, All, USD bn","Japan, Exports, All, USD bn",None,line
 "Japan, Imports, All, USD bn","Japan, Imports, All, USD bn",None,line
-"Japan, Imports, Group, Chemicals, USD bn","Japan, Imports, Group, Chemicals, USD bn",None,line
-"Japan, Imports, Group, Electrical machinery, USD bn","Japan, Imports, Group, Electrical machinery, USD bn",None,line
-"Japan, Imports, Group, Foodstuffs, USD bn","Japan, Imports, Group, Foodstuffs, USD bn",None,line
-"Japan, Imports, Group, Machinery, USD bn","Japan, Imports, Group, Machinery, USD bn",None,line
-"Japan, Imports, Group, Manufactured goods, USD bn","Japan, Imports, Group, Manufactured goods, USD bn",None,line
-"Japan, Imports, Group, Mineral fuels, USD bn","Japan, Imports, Group, Mineral fuels, USD bn",None,line
-"Japan, Imports, Group, Others, USD bn","Japan, Imports, Group, Others, USD bn",None,line
-"Japan, Imports, Group, Raw materials, USD bn","Japan, Imports, Group, Raw materials, USD bn",None,line
-"Japan, Imports, Group, Transport equipment, USD bn","Japan, Imports, Group, Transport equipment, USD bn",None,line
-"Japan, Imports, IC, USD bn","Japan, Imports, IC, USD bn",None,line
-"Japan, Imports, Semiconductors, USD bn","Japan, Imports, Semiconductors, USD bn",None,line
 "Japan, Exports, Group, Chemicals, USD bn","Japan, Exports, Group, Chemicals, USD bn",None,line
 "Japan, Exports, Group, Electrical machinery, USD bn","Japan, Exports, Group, Electrical machinery, USD bn",None,line
 "Japan, Exports, Group, Foodstuffs, USD bn","Japan, Exports, Group, Foodstuffs, USD bn",None,line
@@ -1098,6 +1096,17 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Semicon machinery, USD bn","Japan, Exports, Semicon machinery, USD bn",None,line
 "Japan, Exports, Semiconductors, USD bn","Japan, Exports, Semiconductors, USD bn",None,line
 "Japan, Exports, Ships, USD bn","Japan, Exports, Ships, USD bn",None,line
+"Japan, Imports, Group, Chemicals, USD bn","Japan, Imports, Group, Chemicals, USD bn",None,line
+"Japan, Imports, Group, Electrical machinery, USD bn","Japan, Imports, Group, Electrical machinery, USD bn",None,line
+"Japan, Imports, Group, Foodstuffs, USD bn","Japan, Imports, Group, Foodstuffs, USD bn",None,line
+"Japan, Imports, Group, Machinery, USD bn","Japan, Imports, Group, Machinery, USD bn",None,line
+"Japan, Imports, Group, Manufactured goods, USD bn","Japan, Imports, Group, Manufactured goods, USD bn",None,line
+"Japan, Imports, Group, Mineral fuels, USD bn","Japan, Imports, Group, Mineral fuels, USD bn",None,line
+"Japan, Imports, Group, Others, USD bn","Japan, Imports, Group, Others, USD bn",None,line
+"Japan, Imports, Group, Raw materials, USD bn","Japan, Imports, Group, Raw materials, USD bn",None,line
+"Japan, Imports, Group, Transport equipment, USD bn","Japan, Imports, Group, Transport equipment, USD bn",None,line
+"Japan, Imports, IC, USD bn","Japan, Imports, IC, USD bn",None,line
+"Japan, Imports, Semiconductors, USD bn","Japan, Imports, Semiconductors, USD bn",None,line
 "Japan, Exports, ASEAN, USD bn","Japan, Exports, ASEAN, USD bn",None,line
 "Japan, Exports, Africa, USD bn","Japan, Exports, Africa, USD bn",None,line
 "Japan, Exports, Asia, USD bn","Japan, Exports, Asia, USD bn",None,line
@@ -1208,6 +1217,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Semiconductors and semicon machinery, USD bn","Japan, Exports, Semiconductors and semicon machinery, USD bn",None,line
 "Japan, Exports, China excluding semicon machinery, USD bn","Japan, Exports, China excluding semicon machinery, USD bn",None,line
 "Japan, Exports, China and Hong Kong excluding semicon machinery, USD bn","Japan, Exports, China and Hong Kong excluding semicon machinery, USD bn",None,line
+"Japan, Imports, Crude oil, USD bn","Japan, Imports, Crude oil, USD bn",None,line
 "Japan, Exports, All, SA, USD bn","Japan, Exports, All, SA, USD bn",None,line
 "Japan, Imports, All, SA, USD bn","Japan, Imports, All, SA, USD bn",None,line
 "Japan, Exports, ASEAN, SA, USD bn","Japan, Exports, ASEAN, SA, USD bn",None,line
@@ -1963,17 +1973,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Semiconductors and semicon machinery, SA, % of total","Japan, Exports, Semiconductors and semicon machinery, SA, % of total",None,line
 "Japan, Exports, All, % of GDP","Japan, Exports, All, % of GDP",None,line
 "Japan, Imports, All, % of GDP","Japan, Imports, All, % of GDP",None,line
-"Japan, Imports, Group, Chemicals, % of GDP","Japan, Imports, Group, Chemicals, % of GDP",None,line
-"Japan, Imports, Group, Electrical machinery, % of GDP","Japan, Imports, Group, Electrical machinery, % of GDP",None,line
-"Japan, Imports, Group, Foodstuffs, % of GDP","Japan, Imports, Group, Foodstuffs, % of GDP",None,line
-"Japan, Imports, Group, Machinery, % of GDP","Japan, Imports, Group, Machinery, % of GDP",None,line
-"Japan, Imports, Group, Manufactured goods, % of GDP","Japan, Imports, Group, Manufactured goods, % of GDP",None,line
-"Japan, Imports, Group, Mineral fuels, % of GDP","Japan, Imports, Group, Mineral fuels, % of GDP",None,line
-"Japan, Imports, Group, Others, % of GDP","Japan, Imports, Group, Others, % of GDP",None,line
-"Japan, Imports, Group, Raw materials, % of GDP","Japan, Imports, Group, Raw materials, % of GDP",None,line
-"Japan, Imports, Group, Transport equipment, % of GDP","Japan, Imports, Group, Transport equipment, % of GDP",None,line
-"Japan, Imports, IC, % of GDP","Japan, Imports, IC, % of GDP",None,line
-"Japan, Imports, Semiconductors, % of GDP","Japan, Imports, Semiconductors, % of GDP",None,line
 "Japan, Exports, Group, Chemicals, % of GDP","Japan, Exports, Group, Chemicals, % of GDP",None,line
 "Japan, Exports, Group, Electrical machinery, % of GDP","Japan, Exports, Group, Electrical machinery, % of GDP",None,line
 "Japan, Exports, Group, Foodstuffs, % of GDP","Japan, Exports, Group, Foodstuffs, % of GDP",None,line
@@ -1987,6 +1986,17 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Semicon machinery, % of GDP","Japan, Exports, Semicon machinery, % of GDP",None,line
 "Japan, Exports, Semiconductors, % of GDP","Japan, Exports, Semiconductors, % of GDP",None,line
 "Japan, Exports, Ships, % of GDP","Japan, Exports, Ships, % of GDP",None,line
+"Japan, Imports, Group, Chemicals, % of GDP","Japan, Imports, Group, Chemicals, % of GDP",None,line
+"Japan, Imports, Group, Electrical machinery, % of GDP","Japan, Imports, Group, Electrical machinery, % of GDP",None,line
+"Japan, Imports, Group, Foodstuffs, % of GDP","Japan, Imports, Group, Foodstuffs, % of GDP",None,line
+"Japan, Imports, Group, Machinery, % of GDP","Japan, Imports, Group, Machinery, % of GDP",None,line
+"Japan, Imports, Group, Manufactured goods, % of GDP","Japan, Imports, Group, Manufactured goods, % of GDP",None,line
+"Japan, Imports, Group, Mineral fuels, % of GDP","Japan, Imports, Group, Mineral fuels, % of GDP",None,line
+"Japan, Imports, Group, Others, % of GDP","Japan, Imports, Group, Others, % of GDP",None,line
+"Japan, Imports, Group, Raw materials, % of GDP","Japan, Imports, Group, Raw materials, % of GDP",None,line
+"Japan, Imports, Group, Transport equipment, % of GDP","Japan, Imports, Group, Transport equipment, % of GDP",None,line
+"Japan, Imports, IC, % of GDP","Japan, Imports, IC, % of GDP",None,line
+"Japan, Imports, Semiconductors, % of GDP","Japan, Imports, Semiconductors, % of GDP",None,line
 "Japan, Exports, ASEAN, % of GDP","Japan, Exports, ASEAN, % of GDP",None,line
 "Japan, Exports, Africa, % of GDP","Japan, Exports, Africa, % of GDP",None,line
 "Japan, Exports, Asia, % of GDP","Japan, Exports, Asia, % of GDP",None,line
@@ -2097,6 +2107,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Semiconductors and semicon machinery, % of GDP","Japan, Exports, Semiconductors and semicon machinery, % of GDP",None,line
 "Japan, Exports, China excluding semicon machinery, % of GDP","Japan, Exports, China excluding semicon machinery, % of GDP",None,line
 "Japan, Exports, China and Hong Kong excluding semicon machinery, % of GDP","Japan, Exports, China and Hong Kong excluding semicon machinery, % of GDP",None,line
+"Japan, Imports, Crude oil, % of GDP","Japan, Imports, Crude oil, % of GDP",None,line
 "Japan, Exports, All, SA, % of GDP","Japan, Exports, All, SA, % of GDP",None,line
 "Japan, Imports, All, SA, % of GDP","Japan, Imports, All, SA, % of GDP",None,line
 "Japan, Exports, ASEAN, SA, % of GDP","Japan, Exports, ASEAN, SA, % of GDP",None,line
@@ -2137,17 +2148,6 @@ name,display_name,data_type,chart_type
 "Japan, Trade balance, Semiconductors, SA, % of GDP","Japan, Trade balance, Semiconductors, SA, % of GDP",None,line
 "Japan, Exports, All, JPY bn, % YoY","Japan, Exports, All, JPY bn, % YoY",None,line
 "Japan, Imports, All, JPY bn, % YoY","Japan, Imports, All, JPY bn, % YoY",None,line
-"Japan, Imports, Group, Chemicals, JPY bn, % YoY","Japan, Imports, Group, Chemicals, JPY bn, % YoY",None,line
-"Japan, Imports, Group, Electrical machinery, JPY bn, % YoY","Japan, Imports, Group, Electrical machinery, JPY bn, % YoY",None,line
-"Japan, Imports, Group, Foodstuffs, JPY bn, % YoY","Japan, Imports, Group, Foodstuffs, JPY bn, % YoY",None,line
-"Japan, Imports, Group, Machinery, JPY bn, % YoY","Japan, Imports, Group, Machinery, JPY bn, % YoY",None,line
-"Japan, Imports, Group, Manufactured goods, JPY bn, % YoY","Japan, Imports, Group, Manufactured goods, JPY bn, % YoY",None,line
-"Japan, Imports, Group, Mineral fuels, JPY bn, % YoY","Japan, Imports, Group, Mineral fuels, JPY bn, % YoY",None,line
-"Japan, Imports, Group, Others, JPY bn, % YoY","Japan, Imports, Group, Others, JPY bn, % YoY",None,line
-"Japan, Imports, Group, Raw materials, JPY bn, % YoY","Japan, Imports, Group, Raw materials, JPY bn, % YoY",None,line
-"Japan, Imports, Group, Transport equipment, JPY bn, % YoY","Japan, Imports, Group, Transport equipment, JPY bn, % YoY",None,line
-"Japan, Imports, IC, JPY bn, % YoY","Japan, Imports, IC, JPY bn, % YoY",None,line
-"Japan, Imports, Semiconductors, JPY bn, % YoY","Japan, Imports, Semiconductors, JPY bn, % YoY",None,line
 "Japan, Exports, Group, Chemicals, JPY bn, % YoY","Japan, Exports, Group, Chemicals, JPY bn, % YoY",None,line
 "Japan, Exports, Group, Electrical machinery, JPY bn, % YoY","Japan, Exports, Group, Electrical machinery, JPY bn, % YoY",None,line
 "Japan, Exports, Group, Foodstuffs, JPY bn, % YoY","Japan, Exports, Group, Foodstuffs, JPY bn, % YoY",None,line
@@ -2158,9 +2158,24 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Group, Raw materials, JPY bn, % YoY","Japan, Exports, Group, Raw materials, JPY bn, % YoY",None,line
 "Japan, Exports, Group, Transport equipment, JPY bn, % YoY","Japan, Exports, Group, Transport equipment, JPY bn, % YoY",None,line
 "Japan, Exports, IC, JPY bn, % YoY","Japan, Exports, IC, JPY bn, % YoY",None,line
+"Japan, Exports, IC, MNO, % YoY","Japan, Exports, IC, MNO, % YoY",None,line
 "Japan, Exports, Semicon machinery, JPY bn, % YoY","Japan, Exports, Semicon machinery, JPY bn, % YoY",None,line
+"Japan, Exports, Semicon machinery, MT, % YoY","Japan, Exports, Semicon machinery, MT, % YoY",None,line
 "Japan, Exports, Semiconductors, JPY bn, % YoY","Japan, Exports, Semiconductors, JPY bn, % YoY",None,line
+"Japan, Exports, Ships, GT, % YoY","Japan, Exports, Ships, GT, % YoY",None,line
 "Japan, Exports, Ships, JPY bn, % YoY","Japan, Exports, Ships, JPY bn, % YoY",None,line
+"Japan, Imports, Group, Chemicals, JPY bn, % YoY","Japan, Imports, Group, Chemicals, JPY bn, % YoY",None,line
+"Japan, Imports, Group, Electrical machinery, JPY bn, % YoY","Japan, Imports, Group, Electrical machinery, JPY bn, % YoY",None,line
+"Japan, Imports, Group, Foodstuffs, JPY bn, % YoY","Japan, Imports, Group, Foodstuffs, JPY bn, % YoY",None,line
+"Japan, Imports, Group, Machinery, JPY bn, % YoY","Japan, Imports, Group, Machinery, JPY bn, % YoY",None,line
+"Japan, Imports, Group, Manufactured goods, JPY bn, % YoY","Japan, Imports, Group, Manufactured goods, JPY bn, % YoY",None,line
+"Japan, Imports, Group, Mineral fuels, JPY bn, % YoY","Japan, Imports, Group, Mineral fuels, JPY bn, % YoY",None,line
+"Japan, Imports, Group, Others, JPY bn, % YoY","Japan, Imports, Group, Others, JPY bn, % YoY",None,line
+"Japan, Imports, Group, Raw materials, JPY bn, % YoY","Japan, Imports, Group, Raw materials, JPY bn, % YoY",None,line
+"Japan, Imports, Group, Transport equipment, JPY bn, % YoY","Japan, Imports, Group, Transport equipment, JPY bn, % YoY",None,line
+"Japan, Imports, IC, JPY bn, % YoY","Japan, Imports, IC, JPY bn, % YoY",None,line
+"Japan, Imports, IC, MNO, % YoY","Japan, Imports, IC, MNO, % YoY",None,line
+"Japan, Imports, Semiconductors, JPY bn, % YoY","Japan, Imports, Semiconductors, JPY bn, % YoY",None,line
 "Japan, Exports, ASEAN, JPY bn, % YoY","Japan, Exports, ASEAN, JPY bn, % YoY",None,line
 "Japan, Exports, Africa, JPY bn, % YoY","Japan, Exports, Africa, JPY bn, % YoY",None,line
 "Japan, Exports, Asia, JPY bn, % YoY","Japan, Exports, Asia, JPY bn, % YoY",None,line
@@ -3145,6 +3160,11 @@ name,display_name,data_type,chart_type
 "Japan, Imports, World, Woman's & Girl's Dress, Quantum, Index, % YoY","Japan, Imports, World, Woman's & Girl's Dress, Quantum, Index, % YoY",None,line
 "Japan, Imports, World, Woman's & Girl's Dress, Unit value, Index, % YoY","Japan, Imports, World, Woman's & Girl's Dress, Unit value, Index, % YoY",None,line
 "Japan, Imports, World, Woman's & Girl's Dress, Value, Index, % YoY","Japan, Imports, World, Woman's & Girl's Dress, Value, Index, % YoY",None,line
+"Japan, Imports, Crude oil, KL, % YoY","Japan, Imports, Crude oil, KL, % YoY",None,line
+"Japan, Imports, Crude oil, KL mn, % YoY","Japan, Imports, Crude oil, KL mn, % YoY",None,line
+"Japan, Imports, Crude oil, Ton, % YoY","Japan, Imports, Crude oil, Ton, % YoY",None,line
+"Japan, Imports, Crude oil, Ton mn, % YoY","Japan, Imports, Crude oil, Ton mn, % YoY",None,line
+"Japan, Imports, Crude oil, JPY bn, % YoY","Japan, Imports, Crude oil, JPY bn, % YoY",None,line
 "Japan, Exports, All, SA, JPY bn, % YoY","Japan, Exports, All, SA, JPY bn, % YoY",None,line
 "Japan, Imports, All, SA, JPY bn, % YoY","Japan, Imports, All, SA, JPY bn, % YoY",None,line
 "Japan, Exports, ASEAN, SA, JPY bn, % YoY","Japan, Exports, ASEAN, SA, JPY bn, % YoY",None,line
@@ -3184,17 +3204,6 @@ name,display_name,data_type,chart_type
 "Japan, Exports, All, Quantum, Index, SA, % YoY","Japan, Exports, All, Quantum, Index, SA, % YoY",None,line
 "Japan, Exports, All, USD bn, % YoY","Japan, Exports, All, USD bn, % YoY",None,line
 "Japan, Imports, All, USD bn, % YoY","Japan, Imports, All, USD bn, % YoY",None,line
-"Japan, Imports, Group, Chemicals, USD bn, % YoY","Japan, Imports, Group, Chemicals, USD bn, % YoY",None,line
-"Japan, Imports, Group, Electrical machinery, USD bn, % YoY","Japan, Imports, Group, Electrical machinery, USD bn, % YoY",None,line
-"Japan, Imports, Group, Foodstuffs, USD bn, % YoY","Japan, Imports, Group, Foodstuffs, USD bn, % YoY",None,line
-"Japan, Imports, Group, Machinery, USD bn, % YoY","Japan, Imports, Group, Machinery, USD bn, % YoY",None,line
-"Japan, Imports, Group, Manufactured goods, USD bn, % YoY","Japan, Imports, Group, Manufactured goods, USD bn, % YoY",None,line
-"Japan, Imports, Group, Mineral fuels, USD bn, % YoY","Japan, Imports, Group, Mineral fuels, USD bn, % YoY",None,line
-"Japan, Imports, Group, Others, USD bn, % YoY","Japan, Imports, Group, Others, USD bn, % YoY",None,line
-"Japan, Imports, Group, Raw materials, USD bn, % YoY","Japan, Imports, Group, Raw materials, USD bn, % YoY",None,line
-"Japan, Imports, Group, Transport equipment, USD bn, % YoY","Japan, Imports, Group, Transport equipment, USD bn, % YoY",None,line
-"Japan, Imports, IC, USD bn, % YoY","Japan, Imports, IC, USD bn, % YoY",None,line
-"Japan, Imports, Semiconductors, USD bn, % YoY","Japan, Imports, Semiconductors, USD bn, % YoY",None,line
 "Japan, Exports, Group, Chemicals, USD bn, % YoY","Japan, Exports, Group, Chemicals, USD bn, % YoY",None,line
 "Japan, Exports, Group, Electrical machinery, USD bn, % YoY","Japan, Exports, Group, Electrical machinery, USD bn, % YoY",None,line
 "Japan, Exports, Group, Foodstuffs, USD bn, % YoY","Japan, Exports, Group, Foodstuffs, USD bn, % YoY",None,line
@@ -3208,6 +3217,17 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Semicon machinery, USD bn, % YoY","Japan, Exports, Semicon machinery, USD bn, % YoY",None,line
 "Japan, Exports, Semiconductors, USD bn, % YoY","Japan, Exports, Semiconductors, USD bn, % YoY",None,line
 "Japan, Exports, Ships, USD bn, % YoY","Japan, Exports, Ships, USD bn, % YoY",None,line
+"Japan, Imports, Group, Chemicals, USD bn, % YoY","Japan, Imports, Group, Chemicals, USD bn, % YoY",None,line
+"Japan, Imports, Group, Electrical machinery, USD bn, % YoY","Japan, Imports, Group, Electrical machinery, USD bn, % YoY",None,line
+"Japan, Imports, Group, Foodstuffs, USD bn, % YoY","Japan, Imports, Group, Foodstuffs, USD bn, % YoY",None,line
+"Japan, Imports, Group, Machinery, USD bn, % YoY","Japan, Imports, Group, Machinery, USD bn, % YoY",None,line
+"Japan, Imports, Group, Manufactured goods, USD bn, % YoY","Japan, Imports, Group, Manufactured goods, USD bn, % YoY",None,line
+"Japan, Imports, Group, Mineral fuels, USD bn, % YoY","Japan, Imports, Group, Mineral fuels, USD bn, % YoY",None,line
+"Japan, Imports, Group, Others, USD bn, % YoY","Japan, Imports, Group, Others, USD bn, % YoY",None,line
+"Japan, Imports, Group, Raw materials, USD bn, % YoY","Japan, Imports, Group, Raw materials, USD bn, % YoY",None,line
+"Japan, Imports, Group, Transport equipment, USD bn, % YoY","Japan, Imports, Group, Transport equipment, USD bn, % YoY",None,line
+"Japan, Imports, IC, USD bn, % YoY","Japan, Imports, IC, USD bn, % YoY",None,line
+"Japan, Imports, Semiconductors, USD bn, % YoY","Japan, Imports, Semiconductors, USD bn, % YoY",None,line
 "Japan, Exports, ASEAN, USD bn, % YoY","Japan, Exports, ASEAN, USD bn, % YoY",None,line
 "Japan, Exports, Africa, USD bn, % YoY","Japan, Exports, Africa, USD bn, % YoY",None,line
 "Japan, Exports, Asia, USD bn, % YoY","Japan, Exports, Asia, USD bn, % YoY",None,line
@@ -3292,6 +3312,7 @@ name,display_name,data_type,chart_type
 "Japan, Exports, Semiconductors and semicon machinery, USD bn, % YoY","Japan, Exports, Semiconductors and semicon machinery, USD bn, % YoY",None,line
 "Japan, Exports, China excluding semicon machinery, USD bn, % YoY","Japan, Exports, China excluding semicon machinery, USD bn, % YoY",None,line
 "Japan, Exports, China and Hong Kong excluding semicon machinery, USD bn, % YoY","Japan, Exports, China and Hong Kong excluding semicon machinery, USD bn, % YoY",None,line
+"Japan, Imports, Crude oil, USD bn, % YoY","Japan, Imports, Crude oil, USD bn, % YoY",None,line
 "Japan, Exports, All, SA, USD bn, % YoY","Japan, Exports, All, SA, USD bn, % YoY",None,line
 "Japan, Imports, All, SA, USD bn, % YoY","Japan, Imports, All, SA, USD bn, % YoY",None,line
 "Japan, Exports, ASEAN, SA, USD bn, % YoY","Japan, Exports, ASEAN, SA, USD bn, % YoY",None,line
