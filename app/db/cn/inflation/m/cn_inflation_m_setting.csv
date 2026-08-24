@@ -1,24 +1,53 @@
 name,display_name,data_type,chart_type
+"China, CPI, Air fares, % MoM","China, CPI, Air fares, % MoM",None,line
+"China, CPI, Air fares, % YoY","China, CPI, Air fares, % YoY",None,line
 "China, CPI, Alcohol and tobacco, % MoM","China, CPI, Alcohol and tobacco, % MoM",None,line
 "China, CPI, Alcohol and tobacco, % YoY","China, CPI, Alcohol and tobacco, % YoY",None,line
 "China, CPI, All items excluding food and energy, % MoM","China, CPI, All items excluding food and energy, % MoM",None,line
 "China, CPI, All items excluding food and energy, % YoY","China, CPI, All items excluding food and energy, % YoY",None,line
 "China, CPI, All items excluding food, % MoM","China, CPI, All items excluding food, % MoM",None,line
 "China, CPI, All items excluding food, % YoY","China, CPI, All items excluding food, % YoY",None,line
+"China, CPI, All items excluding fresh food, % MoM","China, CPI, All items excluding fresh food, % MoM",None,line
+"China, CPI, All items excluding fresh food, % YoY","China, CPI, All items excluding fresh food, % YoY",None,line
 "China, CPI, All items, % MoM","China, CPI, All items, % MoM",None,line
 "China, CPI, All items, % YoY","China, CPI, All items, % YoY",None,line
+"China, CPI, Apparel, % MoM","China, CPI, Apparel, % MoM",None,line
+"China, CPI, Apparel, % YoY","China, CPI, Apparel, % YoY",None,line
+"China, CPI, Aquatic products, % MoM","China, CPI, Aquatic products, % MoM",None,line
+"China, CPI, Aquatic products, % YoY","China, CPI, Aquatic products, % YoY",None,line
+"China, CPI, Beef, % MoM","China, CPI, Beef, % MoM",None,line
+"China, CPI, Beef, % YoY","China, CPI, Beef, % YoY",None,line
+"China, CPI, Chicken, % MoM","China, CPI, Chicken, % MoM",None,line
+"China, CPI, Chicken, % YoY","China, CPI, Chicken, % YoY",None,line
 "China, CPI, Clothing and footwear, % MoM","China, CPI, Clothing and footwear, % MoM",None,line
 "China, CPI, Clothing and footwear, % YoY","China, CPI, Clothing and footwear, % YoY",None,line
 "China, CPI, Clothing and footwear, Apparel, % MoM","China, CPI, Clothing and footwear, Apparel, % MoM",None,line
 "China, CPI, Clothing and footwear, Apparel, % YoY","China, CPI, Clothing and footwear, Apparel, % YoY",None,line
+"China, CPI, Clothing and footwear, Services, % MoM","China, CPI, Clothing and footwear, Services, % MoM",None,line
+"China, CPI, Clothing and footwear, Services, % YoY","China, CPI, Clothing and footwear, Services, % YoY",None,line
 "China, CPI, Clothing and footwear, Shoes, % MoM","China, CPI, Clothing and footwear, Shoes, % MoM",None,line
 "China, CPI, Clothing and footwear, Shoes, % YoY","China, CPI, Clothing and footwear, Shoes, % YoY",None,line
+"China, CPI, Diesel, % MoM","China, CPI, Diesel, % MoM",None,line
+"China, CPI, Diesel, % YoY","China, CPI, Diesel, % YoY",None,line
+"China, CPI, Dining out, % MoM","China, CPI, Dining out, % MoM",None,line
+"China, CPI, Dining out, % YoY","China, CPI, Dining out, % YoY",None,line
+"China, CPI, Domestic services, % MoM","China, CPI, Domestic services, % MoM",None,line
+"China, CPI, Domestic services, % YoY","China, CPI, Domestic services, % YoY",None,line
+"China, CPI, Duck, % YoY","China, CPI, Duck, % YoY",None,line
+"China, CPI, Edible oils, % MoM","China, CPI, Edible oils, % MoM",None,line
+"China, CPI, Edible oils, % YoY","China, CPI, Edible oils, % YoY",None,line
 "China, CPI, Education and recreation, % MoM","China, CPI, Education and recreation, % MoM",None,line
 "China, CPI, Education and recreation, % YoY","China, CPI, Education and recreation, % YoY",None,line
 "China, CPI, Education and recreation, Education, % MoM","China, CPI, Education and recreation, Education, % MoM",None,line
 "China, CPI, Education and recreation, Education, % YoY","China, CPI, Education and recreation, Education, % YoY",None,line
 "China, CPI, Education and recreation, Travel, % MoM","China, CPI, Education and recreation, Travel, % MoM",None,line
 "China, CPI, Education and recreation, Travel, % YoY","China, CPI, Education and recreation, Travel, % YoY",None,line
+"China, CPI, Education services, % MoM","China, CPI, Education services, % MoM",None,line
+"China, CPI, Education services, % YoY","China, CPI, Education services, % YoY",None,line
+"China, CPI, Eggs, % MoM","China, CPI, Eggs, % MoM",None,line
+"China, CPI, Eggs, % YoY","China, CPI, Eggs, % YoY",None,line
+"China, CPI, Energy, % MoM","China, CPI, Energy, % MoM",None,line
+"China, CPI, Energy, % YoY","China, CPI, Energy, % YoY",None,line
 "China, CPI, Food including alcohol and tobacco, % MoM","China, CPI, Food including alcohol and tobacco, % MoM",None,line
 "China, CPI, Food including alcohol and tobacco, % YoY","China, CPI, Food including alcohol and tobacco, % YoY",None,line
 "China, CPI, Food including alcohol and tobacco, Alcohol, % MoM","China, CPI, Food including alcohol and tobacco, Alcohol, % MoM",None,line
@@ -49,8 +78,20 @@ name,display_name,data_type,chart_type
 "China, CPI, Food including alcohol and tobacco, Food, Vegetables, % YoY","China, CPI, Food including alcohol and tobacco, Food, Vegetables, % YoY",None,line
 "China, CPI, Food including alcohol and tobacco, Tobacco, % MoM","China, CPI, Food including alcohol and tobacco, Tobacco, % MoM",None,line
 "China, CPI, Food including alcohol and tobacco, Tobacco, % YoY","China, CPI, Food including alcohol and tobacco, Tobacco, % YoY",None,line
+"China, CPI, Food, % MoM","China, CPI, Food, % MoM",None,line
+"China, CPI, Food, % YoY","China, CPI, Food, % YoY",None,line
+"China, CPI, Fresh fruit, % MoM","China, CPI, Fresh fruit, % MoM",None,line
+"China, CPI, Fresh fruit, % YoY","China, CPI, Fresh fruit, % YoY",None,line
+"China, CPI, Fresh vegetables, % MoM","China, CPI, Fresh vegetables, % MoM",None,line
+"China, CPI, Fresh vegetables, % YoY","China, CPI, Fresh vegetables, % YoY",None,line
+"China, CPI, Gold jewellery, % MoM","China, CPI, Gold jewellery, % MoM",None,line
+"China, CPI, Gold jewellery, % YoY","China, CPI, Gold jewellery, % YoY",None,line
 "China, CPI, Goods, % MoM","China, CPI, Goods, % MoM",None,line
 "China, CPI, Goods, % YoY","China, CPI, Goods, % YoY",None,line
+"China, CPI, Grain, % MoM","China, CPI, Grain, % MoM",None,line
+"China, CPI, Grain, % YoY","China, CPI, Grain, % YoY",None,line
+"China, CPI, Hairdressing, % MoM","China, CPI, Hairdressing, % MoM",None,line
+"China, CPI, Hairdressing, % YoY","China, CPI, Hairdressing, % YoY",None,line
 "China, CPI, Healthcare, % MoM","China, CPI, Healthcare, % MoM",None,line
 "China, CPI, Healthcare, % YoY","China, CPI, Healthcare, % YoY",None,line
 "China, CPI, Healthcare, Chinese medicine, % MoM","China, CPI, Healthcare, Chinese medicine, % MoM",None,line
@@ -59,18 +100,62 @@ name,display_name,data_type,chart_type
 "China, CPI, Healthcare, Services, % YoY","China, CPI, Healthcare, Services, % YoY",None,line
 "China, CPI, Healthcare, Western medicine, % MoM","China, CPI, Healthcare, Western medicine, % MoM",None,line
 "China, CPI, Healthcare, Western medicine, % YoY","China, CPI, Healthcare, Western medicine, % YoY",None,line
+"China, CPI, Hotel accommodation, % MoM","China, CPI, Hotel accommodation, % MoM",None,line
+"China, CPI, Hotel accommodation, % YoY","China, CPI, Hotel accommodation, % YoY",None,line
+"China, CPI, Household appliances, % MoM","China, CPI, Household appliances, % MoM",None,line
+"China, CPI, Household appliances, % YoY","China, CPI, Household appliances, % YoY",None,line
 "China, CPI, Household goods and services, % MoM","China, CPI, Household goods and services, % MoM",None,line
 "China, CPI, Household goods and services, % YoY","China, CPI, Household goods and services, % YoY",None,line
 "China, CPI, Household goods and services, Goods, % MoM","China, CPI, Household goods and services, Goods, % MoM",None,line
 "China, CPI, Household goods and services, Goods, % YoY","China, CPI, Household goods and services, Goods, % YoY",None,line
 "China, CPI, Household goods and services, Services, % MoM","China, CPI, Household goods and services, Services, % MoM",None,line
 "China, CPI, Household goods and services, Services, % YoY","China, CPI, Household goods and services, Services, % YoY",None,line
+"China, CPI, ICE vehicles, % MoM","China, CPI, ICE vehicles, % MoM",None,line
+"China, CPI, ICE vehicles, % YoY","China, CPI, ICE vehicles, % YoY",None,line
+"China, CPI, Industrial consumer goods excluding energy, % MoM","China, CPI, Industrial consumer goods excluding energy, % MoM",None,line
+"China, CPI, Industrial consumer goods excluding energy, % YoY","China, CPI, Industrial consumer goods excluding energy, % YoY",None,line
+"China, CPI, Industrial consumer goods, % MoM","China, CPI, Industrial consumer goods, % MoM",None,line
+"China, CPI, Industrial consumer goods, % YoY","China, CPI, Industrial consumer goods, % YoY",None,line
+"China, CPI, LPG, % MoM","China, CPI, LPG, % MoM",None,line
+"China, CPI, LPG, % YoY","China, CPI, LPG, % YoY",None,line
+"China, CPI, Medical services, % MoM","China, CPI, Medical services, % MoM",None,line
+"China, CPI, Medical services, % YoY","China, CPI, Medical services, % YoY",None,line
 "China, CPI, Miscellanous goods and services, % MoM","China, CPI, Miscellanous goods and services, % MoM",None,line
 "China, CPI, Miscellanous goods and services, % YoY","China, CPI, Miscellanous goods and services, % YoY",None,line
+"China, CPI, Mutton, % MoM","China, CPI, Mutton, % MoM",None,line
+"China, CPI, Mutton, % YoY","China, CPI, Mutton, % YoY",None,line
+"China, CPI, New energy vehicles, % MoM","China, CPI, New energy vehicles, % MoM",None,line
+"China, CPI, New energy vehicles, % YoY","China, CPI, New energy vehicles, % YoY",None,line
+"China, CPI, Non-food, % MoM","China, CPI, Non-food, % MoM",None,line
+"China, CPI, Non-food, % YoY","China, CPI, Non-food, % YoY",None,line
+"China, CPI, Petrol, % MoM","China, CPI, Petrol, % MoM",None,line
+"China, CPI, Petrol, % YoY","China, CPI, Petrol, % YoY",None,line
+"China, CPI, Pork, % MoM","China, CPI, Pork, % MoM",None,line
+"China, CPI, Pork, % YoY","China, CPI, Pork, % YoY",None,line
+"China, CPI, Poultry, % MoM","China, CPI, Poultry, % MoM",None,line
+"China, CPI, Poultry, % YoY","China, CPI, Poultry, % YoY",None,line
+"China, CPI, Pre-2015 basket, Building and decoration materials, % MoM","China, CPI, Pre-2015 basket, Building and decoration materials, % MoM",None,line
+"China, CPI, Pre-2015 basket, Building and decoration materials, % YoY","China, CPI, Pre-2015 basket, Building and decoration materials, % YoY",None,line
+"China, CPI, Pre-2015 basket, Durable goods, % MoM","China, CPI, Pre-2015 basket, Durable goods, % MoM",None,line
+"China, CPI, Pre-2015 basket, Durable goods, % YoY","China, CPI, Pre-2015 basket, Durable goods, % YoY",None,line
 "China, CPI, Pre-2015 basket, Healthcare and personal goods, % MoM","China, CPI, Pre-2015 basket, Healthcare and personal goods, % MoM",None,line
 "China, CPI, Pre-2015 basket, Healthcare and personal goods, % YoY","China, CPI, Pre-2015 basket, Healthcare and personal goods, % YoY",None,line
+"China, CPI, Pre-2015 basket, House rent, % MoM","China, CPI, Pre-2015 basket, House rent, % MoM",None,line
+"China, CPI, Pre-2015 basket, House rent, % YoY","China, CPI, Pre-2015 basket, House rent, % YoY",None,line
+"China, CPI, Pre-2015 basket, Household and repair services, % MoM","China, CPI, Pre-2015 basket, Household and repair services, % MoM",None,line
+"China, CPI, Pre-2015 basket, Household and repair services, % YoY","China, CPI, Pre-2015 basket, Household and repair services, % YoY",None,line
+"China, CPI, Pre-2015 basket, Household facilities, articles and services, % MoM","China, CPI, Pre-2015 basket, Household facilities, articles and services, % MoM",None,line
+"China, CPI, Pre-2015 basket, Household facilities, articles and services, % YoY","China, CPI, Pre-2015 basket, Household facilities, articles and services, % YoY",None,line
+"China, CPI, Pre-2015 basket, Meat, poultry and products, % MoM","China, CPI, Pre-2015 basket, Meat, poultry and products, % MoM",None,line
+"China, CPI, Pre-2015 basket, Meat, poultry and products, % YoY","China, CPI, Pre-2015 basket, Meat, poultry and products, % YoY",None,line
 "China, CPI, Pre-2015 basket, Recreation and education and culture articles, % MoM","China, CPI, Pre-2015 basket, Recreation and education and culture articles, % MoM",None,line
 "China, CPI, Pre-2015 basket, Recreation and education and culture articles, % YoY","China, CPI, Pre-2015 basket, Recreation and education and culture articles, % YoY",None,line
+"China, CPI, Pre-2015 basket, Tobacco, liquor and articles, % MoM","China, CPI, Pre-2015 basket, Tobacco, liquor and articles, % MoM",None,line
+"China, CPI, Pre-2015 basket, Tobacco, liquor and articles, % YoY","China, CPI, Pre-2015 basket, Tobacco, liquor and articles, % YoY",None,line
+"China, CPI, Recreational durables, % MoM","China, CPI, Recreational durables, % MoM",None,line
+"China, CPI, Recreational durables, % YoY","China, CPI, Recreational durables, % YoY",None,line
+"China, CPI, Rent, % MoM","China, CPI, Rent, % MoM",None,line
+"China, CPI, Rent, % YoY","China, CPI, Rent, % YoY",None,line
 "China, CPI, Residence, % MoM","China, CPI, Residence, % MoM",None,line
 "China, CPI, Residence, % YoY","China, CPI, Residence, % YoY",None,line
 "China, CPI, Residence, Rental, % MoM","China, CPI, Residence, Rental, % MoM",None,line
@@ -81,6 +166,8 @@ name,display_name,data_type,chart_type
 "China, CPI, Rural, % YoY","China, CPI, Rural, % YoY",None,line
 "China, CPI, Services, % MoM","China, CPI, Services, % MoM",None,line
 "China, CPI, Services, % YoY","China, CPI, Services, % YoY",None,line
+"China, CPI, Tourism, % MoM","China, CPI, Tourism, % MoM",None,line
+"China, CPI, Tourism, % YoY","China, CPI, Tourism, % YoY",None,line
 "China, CPI, Transport and communication, % MoM","China, CPI, Transport and communication, % MoM",None,line
 "China, CPI, Transport and communication, % YoY","China, CPI, Transport and communication, % YoY",None,line
 "China, CPI, Transport and communication, Communication goods, % MoM","China, CPI, Transport and communication, Communication goods, % MoM",None,line
@@ -97,40 +184,64 @@ name,display_name,data_type,chart_type
 "China, CPI, Transport and communication, Small car, % YoY","China, CPI, Transport and communication, Small car, % YoY",None,line
 "China, CPI, Transport and communication, Transport facility, % MoM","China, CPI, Transport and communication, Transport facility, % MoM",None,line
 "China, CPI, Transport and communication, Transport facility, % YoY","China, CPI, Transport and communication, Transport facility, % YoY",None,line
+"China, CPI, Travel agency fees, % MoM","China, CPI, Travel agency fees, % MoM",None,line
+"China, CPI, Travel agency fees, % YoY","China, CPI, Travel agency fees, % YoY",None,line
 "China, CPI, Travel and tourism, % MoM","China, CPI, Travel and tourism, % MoM",None,line
 "China, CPI, Travel and tourism, % YoY","China, CPI, Travel and tourism, % YoY",None,line
 "China, CPI, Urban, % MoM","China, CPI, Urban, % MoM",None,line
 "China, CPI, Urban, % YoY","China, CPI, Urban, % YoY",None,line
+"China, CPI, Vegetable oil, % MoM","China, CPI, Vegetable oil, % MoM",None,line
+"China, CPI, Vegetable oil, % YoY","China, CPI, Vegetable oil, % YoY",None,line
+"China, CPI, Vehicle rental, % MoM","China, CPI, Vehicle rental, % MoM",None,line
+"China, CPI, Vehicle rental, % YoY","China, CPI, Vehicle rental, % YoY",None,line
 "China, CPI, All items, Index, SA","China, CPI, All items, Index, SA",None,line
 "China, CPI, Food including alcohol and tobacco, Food, Index, SA","China, CPI, Food including alcohol and tobacco, Food, Index, SA",None,line
 "China, CPI, All items excluding food, Index, SA","China, CPI, All items excluding food, Index, SA",None,line
 "China, CPI, All items excluding food and energy, Index, SA","China, CPI, All items excluding food and energy, Index, SA",None,line
 "China, CPI, Services, Index, SA","China, CPI, Services, Index, SA",None,line
+"China, CPI, Goods, Index, SA","China, CPI, Goods, Index, SA",None,line
 "China, CPI, All items, SA, % 3m/3m","China, CPI, All items, SA, % 3m/3m",None,line
 "China, CPI, Food including alcohol and tobacco, Food, SA, % 3m/3m","China, CPI, Food including alcohol and tobacco, Food, SA, % 3m/3m",None,line
 "China, CPI, All items excluding food, SA, % 3m/3m","China, CPI, All items excluding food, SA, % 3m/3m",None,line
 "China, CPI, All items excluding food and energy, SA, % 3m/3m","China, CPI, All items excluding food and energy, SA, % 3m/3m",None,line
 "China, CPI, Services, SA, % 3m/3m","China, CPI, Services, SA, % 3m/3m",None,line
+"China, CPI, Goods, SA, % 3m/3m","China, CPI, Goods, SA, % 3m/3m",None,line
 "China, CPI, All items, SA, % MoM","China, CPI, All items, SA, % MoM",None,line
 "China, CPI, Food including alcohol and tobacco, Food, SA, % MoM","China, CPI, Food including alcohol and tobacco, Food, SA, % MoM",None,line
 "China, CPI, All items excluding food, SA, % MoM","China, CPI, All items excluding food, SA, % MoM",None,line
 "China, CPI, All items excluding food and energy, SA, % MoM","China, CPI, All items excluding food and energy, SA, % MoM",None,line
 "China, CPI, Services, SA, % MoM","China, CPI, Services, SA, % MoM",None,line
+"China, CPI, Goods, SA, % MoM","China, CPI, Goods, SA, % MoM",None,line
 "China, CPI, All items, SA, % MoM annualised","China, CPI, All items, SA, % MoM annualised",None,line
 "China, CPI, Food including alcohol and tobacco, Food, SA, % MoM annualised","China, CPI, Food including alcohol and tobacco, Food, SA, % MoM annualised",None,line
 "China, CPI, All items excluding food, SA, % MoM annualised","China, CPI, All items excluding food, SA, % MoM annualised",None,line
 "China, CPI, All items excluding food and energy, SA, % MoM annualised","China, CPI, All items excluding food and energy, SA, % MoM annualised",None,line
 "China, CPI, Services, SA, % MoM annualised","China, CPI, Services, SA, % MoM annualised",None,line
+"China, CPI, Goods, SA, % MoM annualised","China, CPI, Goods, SA, % MoM annualised",None,line
+"China, CPI, Air fares, Index","China, CPI, Air fares, Index",None,line
 "China, CPI, Alcohol and tobacco, Index","China, CPI, Alcohol and tobacco, Index",None,line
 "China, CPI, All items excluding food and energy, Index","China, CPI, All items excluding food and energy, Index",None,line
 "China, CPI, All items excluding food, Index","China, CPI, All items excluding food, Index",None,line
+"China, CPI, All items excluding fresh food, Index","China, CPI, All items excluding fresh food, Index",None,line
 "China, CPI, All items, Index","China, CPI, All items, Index",None,line
+"China, CPI, Apparel, Index","China, CPI, Apparel, Index",None,line
+"China, CPI, Aquatic products, Index","China, CPI, Aquatic products, Index",None,line
+"China, CPI, Beef, Index","China, CPI, Beef, Index",None,line
+"China, CPI, Chicken, Index","China, CPI, Chicken, Index",None,line
 "China, CPI, Clothing and footwear, Index","China, CPI, Clothing and footwear, Index",None,line
 "China, CPI, Clothing and footwear, Apparel, Index","China, CPI, Clothing and footwear, Apparel, Index",None,line
+"China, CPI, Clothing and footwear, Services, Index","China, CPI, Clothing and footwear, Services, Index",None,line
 "China, CPI, Clothing and footwear, Shoes, Index","China, CPI, Clothing and footwear, Shoes, Index",None,line
+"China, CPI, Diesel, Index","China, CPI, Diesel, Index",None,line
+"China, CPI, Dining out, Index","China, CPI, Dining out, Index",None,line
+"China, CPI, Domestic services, Index","China, CPI, Domestic services, Index",None,line
+"China, CPI, Edible oils, Index","China, CPI, Edible oils, Index",None,line
 "China, CPI, Education and recreation, Index","China, CPI, Education and recreation, Index",None,line
 "China, CPI, Education and recreation, Education, Index","China, CPI, Education and recreation, Education, Index",None,line
 "China, CPI, Education and recreation, Travel, Index","China, CPI, Education and recreation, Travel, Index",None,line
+"China, CPI, Education services, Index","China, CPI, Education services, Index",None,line
+"China, CPI, Eggs, Index","China, CPI, Eggs, Index",None,line
+"China, CPI, Energy, Index","China, CPI, Energy, Index",None,line
 "China, CPI, Food including alcohol and tobacco, Index","China, CPI, Food including alcohol and tobacco, Index",None,line
 "China, CPI, Food including alcohol and tobacco, Alcohol, Index","China, CPI, Food including alcohol and tobacco, Alcohol, Index",None,line
 "China, CPI, Food including alcohol and tobacco, Food, Index","China, CPI, Food including alcohol and tobacco, Food, Index",None,line
@@ -146,22 +257,51 @@ name,display_name,data_type,chart_type
 "China, CPI, Food including alcohol and tobacco, Food, Meat, Pork, Index","China, CPI, Food including alcohol and tobacco, Food, Meat, Pork, Index",None,line
 "China, CPI, Food including alcohol and tobacco, Food, Vegetables, Index","China, CPI, Food including alcohol and tobacco, Food, Vegetables, Index",None,line
 "China, CPI, Food including alcohol and tobacco, Tobacco, Index","China, CPI, Food including alcohol and tobacco, Tobacco, Index",None,line
+"China, CPI, Food, Index","China, CPI, Food, Index",None,line
+"China, CPI, Fresh fruit, Index","China, CPI, Fresh fruit, Index",None,line
+"China, CPI, Fresh vegetables, Index","China, CPI, Fresh vegetables, Index",None,line
+"China, CPI, Gold jewellery, Index","China, CPI, Gold jewellery, Index",None,line
 "China, CPI, Goods, Index","China, CPI, Goods, Index",None,line
+"China, CPI, Grain, Index","China, CPI, Grain, Index",None,line
+"China, CPI, Hairdressing, Index","China, CPI, Hairdressing, Index",None,line
 "China, CPI, Healthcare, Index","China, CPI, Healthcare, Index",None,line
 "China, CPI, Healthcare, Chinese medicine, Index","China, CPI, Healthcare, Chinese medicine, Index",None,line
 "China, CPI, Healthcare, Services, Index","China, CPI, Healthcare, Services, Index",None,line
 "China, CPI, Healthcare, Western medicine, Index","China, CPI, Healthcare, Western medicine, Index",None,line
+"China, CPI, Hotel accommodation, Index","China, CPI, Hotel accommodation, Index",None,line
+"China, CPI, Household appliances, Index","China, CPI, Household appliances, Index",None,line
 "China, CPI, Household goods and services, Index","China, CPI, Household goods and services, Index",None,line
 "China, CPI, Household goods and services, Goods, Index","China, CPI, Household goods and services, Goods, Index",None,line
 "China, CPI, Household goods and services, Services, Index","China, CPI, Household goods and services, Services, Index",None,line
+"China, CPI, ICE vehicles, Index","China, CPI, ICE vehicles, Index",None,line
+"China, CPI, Industrial consumer goods excluding energy, Index","China, CPI, Industrial consumer goods excluding energy, Index",None,line
+"China, CPI, Industrial consumer goods, Index","China, CPI, Industrial consumer goods, Index",None,line
+"China, CPI, LPG, Index","China, CPI, LPG, Index",None,line
+"China, CPI, Medical services, Index","China, CPI, Medical services, Index",None,line
 "China, CPI, Miscellanous goods and services, Index","China, CPI, Miscellanous goods and services, Index",None,line
+"China, CPI, Mutton, Index","China, CPI, Mutton, Index",None,line
+"China, CPI, New energy vehicles, Index","China, CPI, New energy vehicles, Index",None,line
+"China, CPI, Non-food, Index","China, CPI, Non-food, Index",None,line
+"China, CPI, Petrol, Index","China, CPI, Petrol, Index",None,line
+"China, CPI, Pork, Index","China, CPI, Pork, Index",None,line
+"China, CPI, Poultry, Index","China, CPI, Poultry, Index",None,line
+"China, CPI, Pre-2015 basket, Building and decoration materials, Index","China, CPI, Pre-2015 basket, Building and decoration materials, Index",None,line
+"China, CPI, Pre-2015 basket, Durable goods, Index","China, CPI, Pre-2015 basket, Durable goods, Index",None,line
 "China, CPI, Pre-2015 basket, Healthcare and personal goods, Index","China, CPI, Pre-2015 basket, Healthcare and personal goods, Index",None,line
+"China, CPI, Pre-2015 basket, House rent, Index","China, CPI, Pre-2015 basket, House rent, Index",None,line
+"China, CPI, Pre-2015 basket, Household and repair services, Index","China, CPI, Pre-2015 basket, Household and repair services, Index",None,line
+"China, CPI, Pre-2015 basket, Household facilities, articles and services, Index","China, CPI, Pre-2015 basket, Household facilities, articles and services, Index",None,line
+"China, CPI, Pre-2015 basket, Meat, poultry and products, Index","China, CPI, Pre-2015 basket, Meat, poultry and products, Index",None,line
 "China, CPI, Pre-2015 basket, Recreation and education and culture articles, Index","China, CPI, Pre-2015 basket, Recreation and education and culture articles, Index",None,line
+"China, CPI, Pre-2015 basket, Tobacco, liquor and articles, Index","China, CPI, Pre-2015 basket, Tobacco, liquor and articles, Index",None,line
+"China, CPI, Recreational durables, Index","China, CPI, Recreational durables, Index",None,line
+"China, CPI, Rent, Index","China, CPI, Rent, Index",None,line
 "China, CPI, Residence, Index","China, CPI, Residence, Index",None,line
 "China, CPI, Residence, Rental, Index","China, CPI, Residence, Rental, Index",None,line
 "China, CPI, Residence, Utilities, Index","China, CPI, Residence, Utilities, Index",None,line
 "China, CPI, Rural, Index","China, CPI, Rural, Index",None,line
 "China, CPI, Services, Index","China, CPI, Services, Index",None,line
+"China, CPI, Tourism, Index","China, CPI, Tourism, Index",None,line
 "China, CPI, Transport and communication, Index","China, CPI, Transport and communication, Index",None,line
 "China, CPI, Transport and communication, Communication goods, Index","China, CPI, Transport and communication, Communication goods, Index",None,line
 "China, CPI, Transport and communication, Communication services, Index","China, CPI, Transport and communication, Communication services, Index",None,line
@@ -170,13 +310,22 @@ name,display_name,data_type,chart_type
 "China, CPI, Transport and communication, Postal services, Index","China, CPI, Transport and communication, Postal services, Index",None,line
 "China, CPI, Transport and communication, Small car, Index","China, CPI, Transport and communication, Small car, Index",None,line
 "China, CPI, Transport and communication, Transport facility, Index","China, CPI, Transport and communication, Transport facility, Index",None,line
+"China, CPI, Travel agency fees, Index","China, CPI, Travel agency fees, Index",None,line
 "China, CPI, Travel and tourism, Index","China, CPI, Travel and tourism, Index",None,line
 "China, CPI, Urban, Index","China, CPI, Urban, Index",None,line
+"China, CPI, Vegetable oil, Index","China, CPI, Vegetable oil, Index",None,line
+"China, CPI, Vehicle rental, Index","China, CPI, Vehicle rental, Index",None,line
 "China, CPI, All items weighted by group, % YoY, Calculated","China, CPI, All items weighted by group, % YoY, Calculated",None,line
 "China, CPI, Core weighted by group, % YoY, Calculated","China, CPI, Core weighted by group, % YoY, Calculated",None,line
 "China, CPI, All items weighted by goods and services, % YoY, Calculated","China, CPI, All items weighted by goods and services, % YoY, Calculated",None,line
 "China, CPI, Goods excluding food including alcohol and tobacco, % YoY","China, CPI, Goods excluding food including alcohol and tobacco, % YoY",None,line
 "China, CPI, Goods weighted by food and other, % YoY, Calculated","China, CPI, Goods weighted by food and other, % YoY, Calculated",None,line
+"China, CPI, Services excluding rent, % YoY","China, CPI, Services excluding rent, % YoY",None,line
+"China, CPI, Services excluding rent, % MoM","China, CPI, Services excluding rent, % MoM",None,line
+"China, CPI, 2021-25 basket, Energy, % YoY","China, CPI, 2021-25 basket, Energy, % YoY",None,line
+"China, CPI, All items excluding food and energy and gold, % YoY","China, CPI, All items excluding food and energy and gold, % YoY",None,line
+"China, CPI, Gold jewellery, % YoY, Imputed","China, CPI, Gold jewellery, % YoY, Imputed",None,line
+"China, CPI, 2021-25 basket, All items, Weighted average of food, energy and core, % YoY, Calculated","China, CPI, 2021-25 basket, All items, Weighted average of food, energy and core, % YoY, Calculated",None,line
 "China, CPI, 2021-25 basket, All items, Broad trimmed mean, % YoY","China, CPI, 2021-25 basket, All items, Broad trimmed mean, % YoY",None,line
 "China, CPI, 2021-25 basket, All items, Narrow trimmed mean, % YoY","China, CPI, 2021-25 basket, All items, Narrow trimmed mean, % YoY",None,line
 "China, CPI, Food including alcohol and tobacco, Contribution to % YoY change in all items, ppts","China, CPI, Food including alcohol and tobacco, Contribution to % YoY change in all items, ppts",None,bar
@@ -195,16 +344,26 @@ name,display_name,data_type,chart_type
 "China, CPI, Healthcare, Contribution to % YoY change in all items excluding food, ppts","China, CPI, Healthcare, Contribution to % YoY change in all items excluding food, ppts",None,bar
 "China, CPI, Miscellanous goods and services, Contribution to % YoY change in all items excluding food, ppts","China, CPI, Miscellanous goods and services, Contribution to % YoY change in all items excluding food, ppts",None,bar
 "China, CPI, Clothing and footwear, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Clothing and footwear, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
-"China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
-"China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
-"China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
 "China, CPI, Residence, Rental, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Residence, Rental, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
+"China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
 "China, CPI, Transport and communication, Communication goods, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Transport and communication, Communication goods, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
 "China, CPI, Transport and communication, Communication services, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Transport and communication, Communication services, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
 "China, CPI, Transport and communication, Maintenance, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Transport and communication, Maintenance, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
 "China, CPI, Transport and communication, Postal services, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Transport and communication, Postal services, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
 "China, CPI, Transport and communication, Transport facility, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Transport and communication, Transport facility, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
+"China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
+"China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous","China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous",None,bar
 "China, CPI, All items excluding food and energy and miscellaneous, % YoY","China, CPI, All items excluding food and energy and miscellaneous, % YoY",None,line
+"China, CPI, Clothing and footwear, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence","China, CPI, Clothing and footwear, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence",None,bar
+"China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence","China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence",None,bar
+"China, CPI, Transport and communication, Communication goods, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence","China, CPI, Transport and communication, Communication goods, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence",None,bar
+"China, CPI, Transport and communication, Communication services, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence","China, CPI, Transport and communication, Communication services, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence",None,bar
+"China, CPI, Transport and communication, Maintenance, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence","China, CPI, Transport and communication, Maintenance, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence",None,bar
+"China, CPI, Transport and communication, Postal services, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence","China, CPI, Transport and communication, Postal services, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence",None,bar
+"China, CPI, Transport and communication, Transport facility, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence","China, CPI, Transport and communication, Transport facility, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence",None,bar
+"China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence","China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence",None,bar
+"China, CPI, Healthcare, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence","China, CPI, Healthcare, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence",None,bar
+"China, CPI, All items excluding food, energy, miscellaneous and residence, % YoY","China, CPI, All items excluding food, energy, miscellaneous and residence, % YoY",None,line
 "China, CPI, 2016-20 basket, All items, Broad trimmed mean, % YoY","China, CPI, 2016-20 basket, All items, Broad trimmed mean, % YoY",None,line
 "China, CPI, 2016-20 basket, All items, Narrow trimmed mean, % YoY","China, CPI, 2016-20 basket, All items, Narrow trimmed mean, % YoY",None,line
 "China, CPI, 2016-20 basket, All items weighted by group, % YoY, Calculated","China, CPI, 2016-20 basket, All items weighted by group, % YoY, Calculated",None,line
@@ -221,26 +380,55 @@ name,display_name,data_type,chart_type
 "China, CPI, 2012-15 basket, Goods weighted by food and other, % YoY, Calculated","China, CPI, 2012-15 basket, Goods weighted by food and other, % YoY, Calculated",None,line
 "China, CPI, All items, % YoY, YoY chg, ppts","China, CPI, All items, % YoY, YoY chg, ppts",None,line
 "China, CPI, Food including alcohol and tobacco, Food, % YoY, YoY chg, ppts","China, CPI, Food including alcohol and tobacco, Food, % YoY, YoY chg, ppts",None,line
+"China, CPI, Air fares, % MoM, 3mma","China, CPI, Air fares, % MoM, 3mma",None,line
+"China, CPI, Air fares, % YoY, 3mma","China, CPI, Air fares, % YoY, 3mma",None,line
 "China, CPI, Alcohol and tobacco, % MoM, 3mma","China, CPI, Alcohol and tobacco, % MoM, 3mma",None,line
 "China, CPI, Alcohol and tobacco, % YoY, 3mma","China, CPI, Alcohol and tobacco, % YoY, 3mma",None,line
 "China, CPI, All items excluding food and energy, % MoM, 3mma","China, CPI, All items excluding food and energy, % MoM, 3mma",None,line
 "China, CPI, All items excluding food and energy, % YoY, 3mma","China, CPI, All items excluding food and energy, % YoY, 3mma",None,line
 "China, CPI, All items excluding food, % MoM, 3mma","China, CPI, All items excluding food, % MoM, 3mma",None,line
 "China, CPI, All items excluding food, % YoY, 3mma","China, CPI, All items excluding food, % YoY, 3mma",None,line
+"China, CPI, All items excluding fresh food, % MoM, 3mma","China, CPI, All items excluding fresh food, % MoM, 3mma",None,line
+"China, CPI, All items excluding fresh food, % YoY, 3mma","China, CPI, All items excluding fresh food, % YoY, 3mma",None,line
 "China, CPI, All items, % MoM, 3mma","China, CPI, All items, % MoM, 3mma",None,line
 "China, CPI, All items, % YoY, 3mma","China, CPI, All items, % YoY, 3mma",None,line
+"China, CPI, Apparel, % MoM, 3mma","China, CPI, Apparel, % MoM, 3mma",None,line
+"China, CPI, Apparel, % YoY, 3mma","China, CPI, Apparel, % YoY, 3mma",None,line
+"China, CPI, Aquatic products, % MoM, 3mma","China, CPI, Aquatic products, % MoM, 3mma",None,line
+"China, CPI, Aquatic products, % YoY, 3mma","China, CPI, Aquatic products, % YoY, 3mma",None,line
+"China, CPI, Beef, % MoM, 3mma","China, CPI, Beef, % MoM, 3mma",None,line
+"China, CPI, Beef, % YoY, 3mma","China, CPI, Beef, % YoY, 3mma",None,line
+"China, CPI, Chicken, % MoM, 3mma","China, CPI, Chicken, % MoM, 3mma",None,line
+"China, CPI, Chicken, % YoY, 3mma","China, CPI, Chicken, % YoY, 3mma",None,line
 "China, CPI, Clothing and footwear, % MoM, 3mma","China, CPI, Clothing and footwear, % MoM, 3mma",None,line
 "China, CPI, Clothing and footwear, % YoY, 3mma","China, CPI, Clothing and footwear, % YoY, 3mma",None,line
 "China, CPI, Clothing and footwear, Apparel, % MoM, 3mma","China, CPI, Clothing and footwear, Apparel, % MoM, 3mma",None,line
 "China, CPI, Clothing and footwear, Apparel, % YoY, 3mma","China, CPI, Clothing and footwear, Apparel, % YoY, 3mma",None,line
+"China, CPI, Clothing and footwear, Services, % MoM, 3mma","China, CPI, Clothing and footwear, Services, % MoM, 3mma",None,line
+"China, CPI, Clothing and footwear, Services, % YoY, 3mma","China, CPI, Clothing and footwear, Services, % YoY, 3mma",None,line
 "China, CPI, Clothing and footwear, Shoes, % MoM, 3mma","China, CPI, Clothing and footwear, Shoes, % MoM, 3mma",None,line
 "China, CPI, Clothing and footwear, Shoes, % YoY, 3mma","China, CPI, Clothing and footwear, Shoes, % YoY, 3mma",None,line
+"China, CPI, Diesel, % MoM, 3mma","China, CPI, Diesel, % MoM, 3mma",None,line
+"China, CPI, Diesel, % YoY, 3mma","China, CPI, Diesel, % YoY, 3mma",None,line
+"China, CPI, Dining out, % MoM, 3mma","China, CPI, Dining out, % MoM, 3mma",None,line
+"China, CPI, Dining out, % YoY, 3mma","China, CPI, Dining out, % YoY, 3mma",None,line
+"China, CPI, Domestic services, % MoM, 3mma","China, CPI, Domestic services, % MoM, 3mma",None,line
+"China, CPI, Domestic services, % YoY, 3mma","China, CPI, Domestic services, % YoY, 3mma",None,line
+"China, CPI, Duck, % YoY, 3mma","China, CPI, Duck, % YoY, 3mma",None,line
+"China, CPI, Edible oils, % MoM, 3mma","China, CPI, Edible oils, % MoM, 3mma",None,line
+"China, CPI, Edible oils, % YoY, 3mma","China, CPI, Edible oils, % YoY, 3mma",None,line
 "China, CPI, Education and recreation, % MoM, 3mma","China, CPI, Education and recreation, % MoM, 3mma",None,line
 "China, CPI, Education and recreation, % YoY, 3mma","China, CPI, Education and recreation, % YoY, 3mma",None,line
 "China, CPI, Education and recreation, Education, % MoM, 3mma","China, CPI, Education and recreation, Education, % MoM, 3mma",None,line
 "China, CPI, Education and recreation, Education, % YoY, 3mma","China, CPI, Education and recreation, Education, % YoY, 3mma",None,line
 "China, CPI, Education and recreation, Travel, % MoM, 3mma","China, CPI, Education and recreation, Travel, % MoM, 3mma",None,line
 "China, CPI, Education and recreation, Travel, % YoY, 3mma","China, CPI, Education and recreation, Travel, % YoY, 3mma",None,line
+"China, CPI, Education services, % MoM, 3mma","China, CPI, Education services, % MoM, 3mma",None,line
+"China, CPI, Education services, % YoY, 3mma","China, CPI, Education services, % YoY, 3mma",None,line
+"China, CPI, Eggs, % MoM, 3mma","China, CPI, Eggs, % MoM, 3mma",None,line
+"China, CPI, Eggs, % YoY, 3mma","China, CPI, Eggs, % YoY, 3mma",None,line
+"China, CPI, Energy, % MoM, 3mma","China, CPI, Energy, % MoM, 3mma",None,line
+"China, CPI, Energy, % YoY, 3mma","China, CPI, Energy, % YoY, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, % MoM, 3mma","China, CPI, Food including alcohol and tobacco, % MoM, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, % YoY, 3mma","China, CPI, Food including alcohol and tobacco, % YoY, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, Alcohol, % MoM, 3mma","China, CPI, Food including alcohol and tobacco, Alcohol, % MoM, 3mma",None,line
@@ -271,8 +459,20 @@ name,display_name,data_type,chart_type
 "China, CPI, Food including alcohol and tobacco, Food, Vegetables, % YoY, 3mma","China, CPI, Food including alcohol and tobacco, Food, Vegetables, % YoY, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, Tobacco, % MoM, 3mma","China, CPI, Food including alcohol and tobacco, Tobacco, % MoM, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, Tobacco, % YoY, 3mma","China, CPI, Food including alcohol and tobacco, Tobacco, % YoY, 3mma",None,line
+"China, CPI, Food, % MoM, 3mma","China, CPI, Food, % MoM, 3mma",None,line
+"China, CPI, Food, % YoY, 3mma","China, CPI, Food, % YoY, 3mma",None,line
+"China, CPI, Fresh fruit, % MoM, 3mma","China, CPI, Fresh fruit, % MoM, 3mma",None,line
+"China, CPI, Fresh fruit, % YoY, 3mma","China, CPI, Fresh fruit, % YoY, 3mma",None,line
+"China, CPI, Fresh vegetables, % MoM, 3mma","China, CPI, Fresh vegetables, % MoM, 3mma",None,line
+"China, CPI, Fresh vegetables, % YoY, 3mma","China, CPI, Fresh vegetables, % YoY, 3mma",None,line
+"China, CPI, Gold jewellery, % MoM, 3mma","China, CPI, Gold jewellery, % MoM, 3mma",None,line
+"China, CPI, Gold jewellery, % YoY, 3mma","China, CPI, Gold jewellery, % YoY, 3mma",None,line
 "China, CPI, Goods, % MoM, 3mma","China, CPI, Goods, % MoM, 3mma",None,line
 "China, CPI, Goods, % YoY, 3mma","China, CPI, Goods, % YoY, 3mma",None,line
+"China, CPI, Grain, % MoM, 3mma","China, CPI, Grain, % MoM, 3mma",None,line
+"China, CPI, Grain, % YoY, 3mma","China, CPI, Grain, % YoY, 3mma",None,line
+"China, CPI, Hairdressing, % MoM, 3mma","China, CPI, Hairdressing, % MoM, 3mma",None,line
+"China, CPI, Hairdressing, % YoY, 3mma","China, CPI, Hairdressing, % YoY, 3mma",None,line
 "China, CPI, Healthcare, % MoM, 3mma","China, CPI, Healthcare, % MoM, 3mma",None,line
 "China, CPI, Healthcare, % YoY, 3mma","China, CPI, Healthcare, % YoY, 3mma",None,line
 "China, CPI, Healthcare, Chinese medicine, % MoM, 3mma","China, CPI, Healthcare, Chinese medicine, % MoM, 3mma",None,line
@@ -281,18 +481,62 @@ name,display_name,data_type,chart_type
 "China, CPI, Healthcare, Services, % YoY, 3mma","China, CPI, Healthcare, Services, % YoY, 3mma",None,line
 "China, CPI, Healthcare, Western medicine, % MoM, 3mma","China, CPI, Healthcare, Western medicine, % MoM, 3mma",None,line
 "China, CPI, Healthcare, Western medicine, % YoY, 3mma","China, CPI, Healthcare, Western medicine, % YoY, 3mma",None,line
+"China, CPI, Hotel accommodation, % MoM, 3mma","China, CPI, Hotel accommodation, % MoM, 3mma",None,line
+"China, CPI, Hotel accommodation, % YoY, 3mma","China, CPI, Hotel accommodation, % YoY, 3mma",None,line
+"China, CPI, Household appliances, % MoM, 3mma","China, CPI, Household appliances, % MoM, 3mma",None,line
+"China, CPI, Household appliances, % YoY, 3mma","China, CPI, Household appliances, % YoY, 3mma",None,line
 "China, CPI, Household goods and services, % MoM, 3mma","China, CPI, Household goods and services, % MoM, 3mma",None,line
 "China, CPI, Household goods and services, % YoY, 3mma","China, CPI, Household goods and services, % YoY, 3mma",None,line
 "China, CPI, Household goods and services, Goods, % MoM, 3mma","China, CPI, Household goods and services, Goods, % MoM, 3mma",None,line
 "China, CPI, Household goods and services, Goods, % YoY, 3mma","China, CPI, Household goods and services, Goods, % YoY, 3mma",None,line
 "China, CPI, Household goods and services, Services, % MoM, 3mma","China, CPI, Household goods and services, Services, % MoM, 3mma",None,line
 "China, CPI, Household goods and services, Services, % YoY, 3mma","China, CPI, Household goods and services, Services, % YoY, 3mma",None,line
+"China, CPI, ICE vehicles, % MoM, 3mma","China, CPI, ICE vehicles, % MoM, 3mma",None,line
+"China, CPI, ICE vehicles, % YoY, 3mma","China, CPI, ICE vehicles, % YoY, 3mma",None,line
+"China, CPI, Industrial consumer goods excluding energy, % MoM, 3mma","China, CPI, Industrial consumer goods excluding energy, % MoM, 3mma",None,line
+"China, CPI, Industrial consumer goods excluding energy, % YoY, 3mma","China, CPI, Industrial consumer goods excluding energy, % YoY, 3mma",None,line
+"China, CPI, Industrial consumer goods, % MoM, 3mma","China, CPI, Industrial consumer goods, % MoM, 3mma",None,line
+"China, CPI, Industrial consumer goods, % YoY, 3mma","China, CPI, Industrial consumer goods, % YoY, 3mma",None,line
+"China, CPI, LPG, % MoM, 3mma","China, CPI, LPG, % MoM, 3mma",None,line
+"China, CPI, LPG, % YoY, 3mma","China, CPI, LPG, % YoY, 3mma",None,line
+"China, CPI, Medical services, % MoM, 3mma","China, CPI, Medical services, % MoM, 3mma",None,line
+"China, CPI, Medical services, % YoY, 3mma","China, CPI, Medical services, % YoY, 3mma",None,line
 "China, CPI, Miscellanous goods and services, % MoM, 3mma","China, CPI, Miscellanous goods and services, % MoM, 3mma",None,line
 "China, CPI, Miscellanous goods and services, % YoY, 3mma","China, CPI, Miscellanous goods and services, % YoY, 3mma",None,line
+"China, CPI, Mutton, % MoM, 3mma","China, CPI, Mutton, % MoM, 3mma",None,line
+"China, CPI, Mutton, % YoY, 3mma","China, CPI, Mutton, % YoY, 3mma",None,line
+"China, CPI, New energy vehicles, % MoM, 3mma","China, CPI, New energy vehicles, % MoM, 3mma",None,line
+"China, CPI, New energy vehicles, % YoY, 3mma","China, CPI, New energy vehicles, % YoY, 3mma",None,line
+"China, CPI, Non-food, % MoM, 3mma","China, CPI, Non-food, % MoM, 3mma",None,line
+"China, CPI, Non-food, % YoY, 3mma","China, CPI, Non-food, % YoY, 3mma",None,line
+"China, CPI, Petrol, % MoM, 3mma","China, CPI, Petrol, % MoM, 3mma",None,line
+"China, CPI, Petrol, % YoY, 3mma","China, CPI, Petrol, % YoY, 3mma",None,line
+"China, CPI, Pork, % MoM, 3mma","China, CPI, Pork, % MoM, 3mma",None,line
+"China, CPI, Pork, % YoY, 3mma","China, CPI, Pork, % YoY, 3mma",None,line
+"China, CPI, Poultry, % MoM, 3mma","China, CPI, Poultry, % MoM, 3mma",None,line
+"China, CPI, Poultry, % YoY, 3mma","China, CPI, Poultry, % YoY, 3mma",None,line
+"China, CPI, Pre-2015 basket, Building and decoration materials, % MoM, 3mma","China, CPI, Pre-2015 basket, Building and decoration materials, % MoM, 3mma",None,line
+"China, CPI, Pre-2015 basket, Building and decoration materials, % YoY, 3mma","China, CPI, Pre-2015 basket, Building and decoration materials, % YoY, 3mma",None,line
+"China, CPI, Pre-2015 basket, Durable goods, % MoM, 3mma","China, CPI, Pre-2015 basket, Durable goods, % MoM, 3mma",None,line
+"China, CPI, Pre-2015 basket, Durable goods, % YoY, 3mma","China, CPI, Pre-2015 basket, Durable goods, % YoY, 3mma",None,line
 "China, CPI, Pre-2015 basket, Healthcare and personal goods, % MoM, 3mma","China, CPI, Pre-2015 basket, Healthcare and personal goods, % MoM, 3mma",None,line
 "China, CPI, Pre-2015 basket, Healthcare and personal goods, % YoY, 3mma","China, CPI, Pre-2015 basket, Healthcare and personal goods, % YoY, 3mma",None,line
+"China, CPI, Pre-2015 basket, House rent, % MoM, 3mma","China, CPI, Pre-2015 basket, House rent, % MoM, 3mma",None,line
+"China, CPI, Pre-2015 basket, House rent, % YoY, 3mma","China, CPI, Pre-2015 basket, House rent, % YoY, 3mma",None,line
+"China, CPI, Pre-2015 basket, Household and repair services, % MoM, 3mma","China, CPI, Pre-2015 basket, Household and repair services, % MoM, 3mma",None,line
+"China, CPI, Pre-2015 basket, Household and repair services, % YoY, 3mma","China, CPI, Pre-2015 basket, Household and repair services, % YoY, 3mma",None,line
+"China, CPI, Pre-2015 basket, Household facilities, articles and services, % MoM, 3mma","China, CPI, Pre-2015 basket, Household facilities, articles and services, % MoM, 3mma",None,line
+"China, CPI, Pre-2015 basket, Household facilities, articles and services, % YoY, 3mma","China, CPI, Pre-2015 basket, Household facilities, articles and services, % YoY, 3mma",None,line
+"China, CPI, Pre-2015 basket, Meat, poultry and products, % MoM, 3mma","China, CPI, Pre-2015 basket, Meat, poultry and products, % MoM, 3mma",None,line
+"China, CPI, Pre-2015 basket, Meat, poultry and products, % YoY, 3mma","China, CPI, Pre-2015 basket, Meat, poultry and products, % YoY, 3mma",None,line
 "China, CPI, Pre-2015 basket, Recreation and education and culture articles, % MoM, 3mma","China, CPI, Pre-2015 basket, Recreation and education and culture articles, % MoM, 3mma",None,line
 "China, CPI, Pre-2015 basket, Recreation and education and culture articles, % YoY, 3mma","China, CPI, Pre-2015 basket, Recreation and education and culture articles, % YoY, 3mma",None,line
+"China, CPI, Pre-2015 basket, Tobacco, liquor and articles, % MoM, 3mma","China, CPI, Pre-2015 basket, Tobacco, liquor and articles, % MoM, 3mma",None,line
+"China, CPI, Pre-2015 basket, Tobacco, liquor and articles, % YoY, 3mma","China, CPI, Pre-2015 basket, Tobacco, liquor and articles, % YoY, 3mma",None,line
+"China, CPI, Recreational durables, % MoM, 3mma","China, CPI, Recreational durables, % MoM, 3mma",None,line
+"China, CPI, Recreational durables, % YoY, 3mma","China, CPI, Recreational durables, % YoY, 3mma",None,line
+"China, CPI, Rent, % MoM, 3mma","China, CPI, Rent, % MoM, 3mma",None,line
+"China, CPI, Rent, % YoY, 3mma","China, CPI, Rent, % YoY, 3mma",None,line
 "China, CPI, Residence, % MoM, 3mma","China, CPI, Residence, % MoM, 3mma",None,line
 "China, CPI, Residence, % YoY, 3mma","China, CPI, Residence, % YoY, 3mma",None,line
 "China, CPI, Residence, Rental, % MoM, 3mma","China, CPI, Residence, Rental, % MoM, 3mma",None,line
@@ -303,6 +547,8 @@ name,display_name,data_type,chart_type
 "China, CPI, Rural, % YoY, 3mma","China, CPI, Rural, % YoY, 3mma",None,line
 "China, CPI, Services, % MoM, 3mma","China, CPI, Services, % MoM, 3mma",None,line
 "China, CPI, Services, % YoY, 3mma","China, CPI, Services, % YoY, 3mma",None,line
+"China, CPI, Tourism, % MoM, 3mma","China, CPI, Tourism, % MoM, 3mma",None,line
+"China, CPI, Tourism, % YoY, 3mma","China, CPI, Tourism, % YoY, 3mma",None,line
 "China, CPI, Transport and communication, % MoM, 3mma","China, CPI, Transport and communication, % MoM, 3mma",None,line
 "China, CPI, Transport and communication, % YoY, 3mma","China, CPI, Transport and communication, % YoY, 3mma",None,line
 "China, CPI, Transport and communication, Communication goods, % MoM, 3mma","China, CPI, Transport and communication, Communication goods, % MoM, 3mma",None,line
@@ -319,40 +565,64 @@ name,display_name,data_type,chart_type
 "China, CPI, Transport and communication, Small car, % YoY, 3mma","China, CPI, Transport and communication, Small car, % YoY, 3mma",None,line
 "China, CPI, Transport and communication, Transport facility, % MoM, 3mma","China, CPI, Transport and communication, Transport facility, % MoM, 3mma",None,line
 "China, CPI, Transport and communication, Transport facility, % YoY, 3mma","China, CPI, Transport and communication, Transport facility, % YoY, 3mma",None,line
+"China, CPI, Travel agency fees, % MoM, 3mma","China, CPI, Travel agency fees, % MoM, 3mma",None,line
+"China, CPI, Travel agency fees, % YoY, 3mma","China, CPI, Travel agency fees, % YoY, 3mma",None,line
 "China, CPI, Travel and tourism, % MoM, 3mma","China, CPI, Travel and tourism, % MoM, 3mma",None,line
 "China, CPI, Travel and tourism, % YoY, 3mma","China, CPI, Travel and tourism, % YoY, 3mma",None,line
 "China, CPI, Urban, % MoM, 3mma","China, CPI, Urban, % MoM, 3mma",None,line
 "China, CPI, Urban, % YoY, 3mma","China, CPI, Urban, % YoY, 3mma",None,line
+"China, CPI, Vegetable oil, % MoM, 3mma","China, CPI, Vegetable oil, % MoM, 3mma",None,line
+"China, CPI, Vegetable oil, % YoY, 3mma","China, CPI, Vegetable oil, % YoY, 3mma",None,line
+"China, CPI, Vehicle rental, % MoM, 3mma","China, CPI, Vehicle rental, % MoM, 3mma",None,line
+"China, CPI, Vehicle rental, % YoY, 3mma","China, CPI, Vehicle rental, % YoY, 3mma",None,line
 "China, CPI, All items, Index, SA, 3mma","China, CPI, All items, Index, SA, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, Food, Index, SA, 3mma","China, CPI, Food including alcohol and tobacco, Food, Index, SA, 3mma",None,line
 "China, CPI, All items excluding food, Index, SA, 3mma","China, CPI, All items excluding food, Index, SA, 3mma",None,line
 "China, CPI, All items excluding food and energy, Index, SA, 3mma","China, CPI, All items excluding food and energy, Index, SA, 3mma",None,line
 "China, CPI, Services, Index, SA, 3mma","China, CPI, Services, Index, SA, 3mma",None,line
+"China, CPI, Goods, Index, SA, 3mma","China, CPI, Goods, Index, SA, 3mma",None,line
 "China, CPI, All items, SA, % 3m/3m, 3mma","China, CPI, All items, SA, % 3m/3m, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, Food, SA, % 3m/3m, 3mma","China, CPI, Food including alcohol and tobacco, Food, SA, % 3m/3m, 3mma",None,line
 "China, CPI, All items excluding food, SA, % 3m/3m, 3mma","China, CPI, All items excluding food, SA, % 3m/3m, 3mma",None,line
 "China, CPI, All items excluding food and energy, SA, % 3m/3m, 3mma","China, CPI, All items excluding food and energy, SA, % 3m/3m, 3mma",None,line
 "China, CPI, Services, SA, % 3m/3m, 3mma","China, CPI, Services, SA, % 3m/3m, 3mma",None,line
+"China, CPI, Goods, SA, % 3m/3m, 3mma","China, CPI, Goods, SA, % 3m/3m, 3mma",None,line
 "China, CPI, All items, SA, % MoM, 3mma","China, CPI, All items, SA, % MoM, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, Food, SA, % MoM, 3mma","China, CPI, Food including alcohol and tobacco, Food, SA, % MoM, 3mma",None,line
 "China, CPI, All items excluding food, SA, % MoM, 3mma","China, CPI, All items excluding food, SA, % MoM, 3mma",None,line
 "China, CPI, All items excluding food and energy, SA, % MoM, 3mma","China, CPI, All items excluding food and energy, SA, % MoM, 3mma",None,line
 "China, CPI, Services, SA, % MoM, 3mma","China, CPI, Services, SA, % MoM, 3mma",None,line
+"China, CPI, Goods, SA, % MoM, 3mma","China, CPI, Goods, SA, % MoM, 3mma",None,line
 "China, CPI, All items, SA, % MoM annualised, 3mma","China, CPI, All items, SA, % MoM annualised, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, Food, SA, % MoM annualised, 3mma","China, CPI, Food including alcohol and tobacco, Food, SA, % MoM annualised, 3mma",None,line
 "China, CPI, All items excluding food, SA, % MoM annualised, 3mma","China, CPI, All items excluding food, SA, % MoM annualised, 3mma",None,line
 "China, CPI, All items excluding food and energy, SA, % MoM annualised, 3mma","China, CPI, All items excluding food and energy, SA, % MoM annualised, 3mma",None,line
 "China, CPI, Services, SA, % MoM annualised, 3mma","China, CPI, Services, SA, % MoM annualised, 3mma",None,line
+"China, CPI, Goods, SA, % MoM annualised, 3mma","China, CPI, Goods, SA, % MoM annualised, 3mma",None,line
+"China, CPI, Air fares, Index, 3mma","China, CPI, Air fares, Index, 3mma",None,line
 "China, CPI, Alcohol and tobacco, Index, 3mma","China, CPI, Alcohol and tobacco, Index, 3mma",None,line
 "China, CPI, All items excluding food and energy, Index, 3mma","China, CPI, All items excluding food and energy, Index, 3mma",None,line
 "China, CPI, All items excluding food, Index, 3mma","China, CPI, All items excluding food, Index, 3mma",None,line
+"China, CPI, All items excluding fresh food, Index, 3mma","China, CPI, All items excluding fresh food, Index, 3mma",None,line
 "China, CPI, All items, Index, 3mma","China, CPI, All items, Index, 3mma",None,line
+"China, CPI, Apparel, Index, 3mma","China, CPI, Apparel, Index, 3mma",None,line
+"China, CPI, Aquatic products, Index, 3mma","China, CPI, Aquatic products, Index, 3mma",None,line
+"China, CPI, Beef, Index, 3mma","China, CPI, Beef, Index, 3mma",None,line
+"China, CPI, Chicken, Index, 3mma","China, CPI, Chicken, Index, 3mma",None,line
 "China, CPI, Clothing and footwear, Index, 3mma","China, CPI, Clothing and footwear, Index, 3mma",None,line
 "China, CPI, Clothing and footwear, Apparel, Index, 3mma","China, CPI, Clothing and footwear, Apparel, Index, 3mma",None,line
+"China, CPI, Clothing and footwear, Services, Index, 3mma","China, CPI, Clothing and footwear, Services, Index, 3mma",None,line
 "China, CPI, Clothing and footwear, Shoes, Index, 3mma","China, CPI, Clothing and footwear, Shoes, Index, 3mma",None,line
+"China, CPI, Diesel, Index, 3mma","China, CPI, Diesel, Index, 3mma",None,line
+"China, CPI, Dining out, Index, 3mma","China, CPI, Dining out, Index, 3mma",None,line
+"China, CPI, Domestic services, Index, 3mma","China, CPI, Domestic services, Index, 3mma",None,line
+"China, CPI, Edible oils, Index, 3mma","China, CPI, Edible oils, Index, 3mma",None,line
 "China, CPI, Education and recreation, Index, 3mma","China, CPI, Education and recreation, Index, 3mma",None,line
 "China, CPI, Education and recreation, Education, Index, 3mma","China, CPI, Education and recreation, Education, Index, 3mma",None,line
 "China, CPI, Education and recreation, Travel, Index, 3mma","China, CPI, Education and recreation, Travel, Index, 3mma",None,line
+"China, CPI, Education services, Index, 3mma","China, CPI, Education services, Index, 3mma",None,line
+"China, CPI, Eggs, Index, 3mma","China, CPI, Eggs, Index, 3mma",None,line
+"China, CPI, Energy, Index, 3mma","China, CPI, Energy, Index, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, Index, 3mma","China, CPI, Food including alcohol and tobacco, Index, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, Alcohol, Index, 3mma","China, CPI, Food including alcohol and tobacco, Alcohol, Index, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, Food, Index, 3mma","China, CPI, Food including alcohol and tobacco, Food, Index, 3mma",None,line
@@ -368,22 +638,51 @@ name,display_name,data_type,chart_type
 "China, CPI, Food including alcohol and tobacco, Food, Meat, Pork, Index, 3mma","China, CPI, Food including alcohol and tobacco, Food, Meat, Pork, Index, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, Food, Vegetables, Index, 3mma","China, CPI, Food including alcohol and tobacco, Food, Vegetables, Index, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, Tobacco, Index, 3mma","China, CPI, Food including alcohol and tobacco, Tobacco, Index, 3mma",None,line
+"China, CPI, Food, Index, 3mma","China, CPI, Food, Index, 3mma",None,line
+"China, CPI, Fresh fruit, Index, 3mma","China, CPI, Fresh fruit, Index, 3mma",None,line
+"China, CPI, Fresh vegetables, Index, 3mma","China, CPI, Fresh vegetables, Index, 3mma",None,line
+"China, CPI, Gold jewellery, Index, 3mma","China, CPI, Gold jewellery, Index, 3mma",None,line
 "China, CPI, Goods, Index, 3mma","China, CPI, Goods, Index, 3mma",None,line
+"China, CPI, Grain, Index, 3mma","China, CPI, Grain, Index, 3mma",None,line
+"China, CPI, Hairdressing, Index, 3mma","China, CPI, Hairdressing, Index, 3mma",None,line
 "China, CPI, Healthcare, Index, 3mma","China, CPI, Healthcare, Index, 3mma",None,line
 "China, CPI, Healthcare, Chinese medicine, Index, 3mma","China, CPI, Healthcare, Chinese medicine, Index, 3mma",None,line
 "China, CPI, Healthcare, Services, Index, 3mma","China, CPI, Healthcare, Services, Index, 3mma",None,line
 "China, CPI, Healthcare, Western medicine, Index, 3mma","China, CPI, Healthcare, Western medicine, Index, 3mma",None,line
+"China, CPI, Hotel accommodation, Index, 3mma","China, CPI, Hotel accommodation, Index, 3mma",None,line
+"China, CPI, Household appliances, Index, 3mma","China, CPI, Household appliances, Index, 3mma",None,line
 "China, CPI, Household goods and services, Index, 3mma","China, CPI, Household goods and services, Index, 3mma",None,line
 "China, CPI, Household goods and services, Goods, Index, 3mma","China, CPI, Household goods and services, Goods, Index, 3mma",None,line
 "China, CPI, Household goods and services, Services, Index, 3mma","China, CPI, Household goods and services, Services, Index, 3mma",None,line
+"China, CPI, ICE vehicles, Index, 3mma","China, CPI, ICE vehicles, Index, 3mma",None,line
+"China, CPI, Industrial consumer goods excluding energy, Index, 3mma","China, CPI, Industrial consumer goods excluding energy, Index, 3mma",None,line
+"China, CPI, Industrial consumer goods, Index, 3mma","China, CPI, Industrial consumer goods, Index, 3mma",None,line
+"China, CPI, LPG, Index, 3mma","China, CPI, LPG, Index, 3mma",None,line
+"China, CPI, Medical services, Index, 3mma","China, CPI, Medical services, Index, 3mma",None,line
 "China, CPI, Miscellanous goods and services, Index, 3mma","China, CPI, Miscellanous goods and services, Index, 3mma",None,line
+"China, CPI, Mutton, Index, 3mma","China, CPI, Mutton, Index, 3mma",None,line
+"China, CPI, New energy vehicles, Index, 3mma","China, CPI, New energy vehicles, Index, 3mma",None,line
+"China, CPI, Non-food, Index, 3mma","China, CPI, Non-food, Index, 3mma",None,line
+"China, CPI, Petrol, Index, 3mma","China, CPI, Petrol, Index, 3mma",None,line
+"China, CPI, Pork, Index, 3mma","China, CPI, Pork, Index, 3mma",None,line
+"China, CPI, Poultry, Index, 3mma","China, CPI, Poultry, Index, 3mma",None,line
+"China, CPI, Pre-2015 basket, Building and decoration materials, Index, 3mma","China, CPI, Pre-2015 basket, Building and decoration materials, Index, 3mma",None,line
+"China, CPI, Pre-2015 basket, Durable goods, Index, 3mma","China, CPI, Pre-2015 basket, Durable goods, Index, 3mma",None,line
 "China, CPI, Pre-2015 basket, Healthcare and personal goods, Index, 3mma","China, CPI, Pre-2015 basket, Healthcare and personal goods, Index, 3mma",None,line
+"China, CPI, Pre-2015 basket, House rent, Index, 3mma","China, CPI, Pre-2015 basket, House rent, Index, 3mma",None,line
+"China, CPI, Pre-2015 basket, Household and repair services, Index, 3mma","China, CPI, Pre-2015 basket, Household and repair services, Index, 3mma",None,line
+"China, CPI, Pre-2015 basket, Household facilities, articles and services, Index, 3mma","China, CPI, Pre-2015 basket, Household facilities, articles and services, Index, 3mma",None,line
+"China, CPI, Pre-2015 basket, Meat, poultry and products, Index, 3mma","China, CPI, Pre-2015 basket, Meat, poultry and products, Index, 3mma",None,line
 "China, CPI, Pre-2015 basket, Recreation and education and culture articles, Index, 3mma","China, CPI, Pre-2015 basket, Recreation and education and culture articles, Index, 3mma",None,line
+"China, CPI, Pre-2015 basket, Tobacco, liquor and articles, Index, 3mma","China, CPI, Pre-2015 basket, Tobacco, liquor and articles, Index, 3mma",None,line
+"China, CPI, Recreational durables, Index, 3mma","China, CPI, Recreational durables, Index, 3mma",None,line
+"China, CPI, Rent, Index, 3mma","China, CPI, Rent, Index, 3mma",None,line
 "China, CPI, Residence, Index, 3mma","China, CPI, Residence, Index, 3mma",None,line
 "China, CPI, Residence, Rental, Index, 3mma","China, CPI, Residence, Rental, Index, 3mma",None,line
 "China, CPI, Residence, Utilities, Index, 3mma","China, CPI, Residence, Utilities, Index, 3mma",None,line
 "China, CPI, Rural, Index, 3mma","China, CPI, Rural, Index, 3mma",None,line
 "China, CPI, Services, Index, 3mma","China, CPI, Services, Index, 3mma",None,line
+"China, CPI, Tourism, Index, 3mma","China, CPI, Tourism, Index, 3mma",None,line
 "China, CPI, Transport and communication, Index, 3mma","China, CPI, Transport and communication, Index, 3mma",None,line
 "China, CPI, Transport and communication, Communication goods, Index, 3mma","China, CPI, Transport and communication, Communication goods, Index, 3mma",None,line
 "China, CPI, Transport and communication, Communication services, Index, 3mma","China, CPI, Transport and communication, Communication services, Index, 3mma",None,line
@@ -392,13 +691,22 @@ name,display_name,data_type,chart_type
 "China, CPI, Transport and communication, Postal services, Index, 3mma","China, CPI, Transport and communication, Postal services, Index, 3mma",None,line
 "China, CPI, Transport and communication, Small car, Index, 3mma","China, CPI, Transport and communication, Small car, Index, 3mma",None,line
 "China, CPI, Transport and communication, Transport facility, Index, 3mma","China, CPI, Transport and communication, Transport facility, Index, 3mma",None,line
+"China, CPI, Travel agency fees, Index, 3mma","China, CPI, Travel agency fees, Index, 3mma",None,line
 "China, CPI, Travel and tourism, Index, 3mma","China, CPI, Travel and tourism, Index, 3mma",None,line
 "China, CPI, Urban, Index, 3mma","China, CPI, Urban, Index, 3mma",None,line
+"China, CPI, Vegetable oil, Index, 3mma","China, CPI, Vegetable oil, Index, 3mma",None,line
+"China, CPI, Vehicle rental, Index, 3mma","China, CPI, Vehicle rental, Index, 3mma",None,line
 "China, CPI, All items weighted by group, % YoY, Calculated, 3mma","China, CPI, All items weighted by group, % YoY, Calculated, 3mma",None,line
 "China, CPI, Core weighted by group, % YoY, Calculated, 3mma","China, CPI, Core weighted by group, % YoY, Calculated, 3mma",None,line
 "China, CPI, All items weighted by goods and services, % YoY, Calculated, 3mma","China, CPI, All items weighted by goods and services, % YoY, Calculated, 3mma",None,line
 "China, CPI, Goods excluding food including alcohol and tobacco, % YoY, 3mma","China, CPI, Goods excluding food including alcohol and tobacco, % YoY, 3mma",None,line
 "China, CPI, Goods weighted by food and other, % YoY, Calculated, 3mma","China, CPI, Goods weighted by food and other, % YoY, Calculated, 3mma",None,line
+"China, CPI, Services excluding rent, % YoY, 3mma","China, CPI, Services excluding rent, % YoY, 3mma",None,line
+"China, CPI, Services excluding rent, % MoM, 3mma","China, CPI, Services excluding rent, % MoM, 3mma",None,line
+"China, CPI, 2021-25 basket, Energy, % YoY, 3mma","China, CPI, 2021-25 basket, Energy, % YoY, 3mma",None,line
+"China, CPI, All items excluding food and energy and gold, % YoY, 3mma","China, CPI, All items excluding food and energy and gold, % YoY, 3mma",None,line
+"China, CPI, Gold jewellery, % YoY, Imputed, 3mma","China, CPI, Gold jewellery, % YoY, Imputed, 3mma",None,line
+"China, CPI, 2021-25 basket, All items, Weighted average of food, energy and core, % YoY, Calculated, 3mma","China, CPI, 2021-25 basket, All items, Weighted average of food, energy and core, % YoY, Calculated, 3mma",None,line
 "China, CPI, 2021-25 basket, All items, Broad trimmed mean, % YoY, 3mma","China, CPI, 2021-25 basket, All items, Broad trimmed mean, % YoY, 3mma",None,line
 "China, CPI, 2021-25 basket, All items, Narrow trimmed mean, % YoY, 3mma","China, CPI, 2021-25 basket, All items, Narrow trimmed mean, % YoY, 3mma",None,line
 "China, CPI, Food including alcohol and tobacco, Contribution to % YoY change in all items, ppts, 3mma","China, CPI, Food including alcohol and tobacco, Contribution to % YoY change in all items, ppts, 3mma",None,bar
@@ -417,16 +725,26 @@ name,display_name,data_type,chart_type
 "China, CPI, Healthcare, Contribution to % YoY change in all items excluding food, ppts, 3mma","China, CPI, Healthcare, Contribution to % YoY change in all items excluding food, ppts, 3mma",None,bar
 "China, CPI, Miscellanous goods and services, Contribution to % YoY change in all items excluding food, ppts, 3mma","China, CPI, Miscellanous goods and services, Contribution to % YoY change in all items excluding food, ppts, 3mma",None,bar
 "China, CPI, Clothing and footwear, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Clothing and footwear, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
-"China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
-"China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
-"China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
 "China, CPI, Residence, Rental, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Residence, Rental, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
+"China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
 "China, CPI, Transport and communication, Communication goods, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Transport and communication, Communication goods, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
 "China, CPI, Transport and communication, Communication services, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Transport and communication, Communication services, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
 "China, CPI, Transport and communication, Maintenance, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Transport and communication, Maintenance, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
 "China, CPI, Transport and communication, Postal services, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Transport and communication, Postal services, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
 "China, CPI, Transport and communication, Transport facility, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Transport and communication, Transport facility, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
+"China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
+"China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma","China, CPI, Healthcare, Contribution to % YoY change in all items excluding food and energy and miscellaneous, 3mma",None,bar
 "China, CPI, All items excluding food and energy and miscellaneous, % YoY, 3mma","China, CPI, All items excluding food and energy and miscellaneous, % YoY, 3mma",None,line
+"China, CPI, Clothing and footwear, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma","China, CPI, Clothing and footwear, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma",None,bar
+"China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma","China, CPI, Household goods and services, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma",None,bar
+"China, CPI, Transport and communication, Communication goods, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma","China, CPI, Transport and communication, Communication goods, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma",None,bar
+"China, CPI, Transport and communication, Communication services, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma","China, CPI, Transport and communication, Communication services, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma",None,bar
+"China, CPI, Transport and communication, Maintenance, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma","China, CPI, Transport and communication, Maintenance, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma",None,bar
+"China, CPI, Transport and communication, Postal services, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma","China, CPI, Transport and communication, Postal services, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma",None,bar
+"China, CPI, Transport and communication, Transport facility, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma","China, CPI, Transport and communication, Transport facility, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma",None,bar
+"China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma","China, CPI, Education and recreation, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma",None,bar
+"China, CPI, Healthcare, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma","China, CPI, Healthcare, Contribution to % YoY change in all items excluding food, energy, miscellaneous and residence, 3mma",None,bar
+"China, CPI, All items excluding food, energy, miscellaneous and residence, % YoY, 3mma","China, CPI, All items excluding food, energy, miscellaneous and residence, % YoY, 3mma",None,line
 "China, CPI, 2016-20 basket, All items, Broad trimmed mean, % YoY, 3mma","China, CPI, 2016-20 basket, All items, Broad trimmed mean, % YoY, 3mma",None,line
 "China, CPI, 2016-20 basket, All items, Narrow trimmed mean, % YoY, 3mma","China, CPI, 2016-20 basket, All items, Narrow trimmed mean, % YoY, 3mma",None,line
 "China, CPI, 2016-20 basket, All items weighted by group, % YoY, Calculated, 3mma","China, CPI, 2016-20 basket, All items weighted by group, % YoY, Calculated, 3mma",None,line

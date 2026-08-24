@@ -227,6 +227,8 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Gross value added at basic prices, KRW bn","Korea, NGDP, Activity, Gross value added at basic prices, KRW bn",None,line
 "Korea, NGDP, Activity, Gross value added at basic prices, SA, KRW bn","Korea, NGDP, Activity, Gross value added at basic prices, SA, KRW bn",None,line
 "Korea, NGDP, Activity, KRW bn","Korea, NGDP, Activity, KRW bn",None,line
+"Korea, NGDP, Activity, Mining and manufacturing, KRW bn","Korea, NGDP, Activity, Mining and manufacturing, KRW bn",None,line
+"Korea, NGDP, Activity, Mining and manufacturing, SA, KRW bn","Korea, NGDP, Activity, Mining and manufacturing, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Mining, quarrying and manufacturing, KRW bn","Korea, NGDP, Activity, Mining, quarrying and manufacturing, KRW bn",None,line
 "Korea, NGDP, Activity, Mining, quarrying and manufacturing, SA, KRW bn","Korea, NGDP, Activity, Mining, quarrying and manufacturing, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Net factor income from the rest of the world, KRW bn","Korea, NGDP, Activity, Net factor income from the rest of the world, KRW bn",None,line
@@ -237,6 +239,8 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Primary, Agriculture, Forestry and logging, KRW bn","Korea, NGDP, Activity, Primary, Agriculture, Forestry and logging, KRW bn",None,line
 "Korea, NGDP, Activity, Primary, Agriculture, KRW bn","Korea, NGDP, Activity, Primary, Agriculture, KRW bn",None,line
 "Korea, NGDP, Activity, Primary, Agriculture, SA, KRW bn","Korea, NGDP, Activity, Primary, Agriculture, SA, KRW bn",None,line
+"Korea, NGDP, Activity, Primary, Mining and quarrying, KRW bn","Korea, NGDP, Activity, Primary, Mining and quarrying, KRW bn",None,line
+"Korea, NGDP, Activity, Primary, Mining and quarrying, SA, KRW bn","Korea, NGDP, Activity, Primary, Mining and quarrying, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Primary, Mining, KRW bn","Korea, NGDP, Activity, Primary, Mining, KRW bn",None,line
 "Korea, NGDP, Activity, Primary, Mining, SA, KRW bn","Korea, NGDP, Activity, Primary, Mining, SA, KRW bn",None,line
 "Korea, NGDP, Activity, SA, KRW bn","Korea, NGDP, Activity, SA, KRW bn",None,line
@@ -258,6 +262,8 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, KRW bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, KRW bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Electrical equipment, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Electrical equipment, KRW bn",None,line
@@ -273,30 +279,44 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, KRW bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, KRW bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, KRW bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, KRW bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, SA, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, KRW bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, KRW bn","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Electricity, KRW bn","Korea, NGDP, Activity, Secondary, Utilities, Electricity, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Electricity, SA, KRW bn","Korea, NGDP, Activity, Secondary, Utilities, Electricity, SA, KRW bn",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, KRW bn","Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, KRW bn",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, KRW bn","Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, KRW bn","Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, KRW bn","Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, KRW bn","Korea, NGDP, Activity, Secondary, Utilities, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, SA, KRW bn","Korea, NGDP, Activity, Secondary, Utilities, SA, KRW bn",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, KRW bn","Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, KRW bn",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, SA, KRW bn","Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW bn","Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW bn","Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Taxes less subsidies on products, KRW bn","Korea, NGDP, Activity, Taxes less subsidies on products, KRW bn",None,line
 "Korea, NGDP, Activity, Taxes less subsidies on products, SA, KRW bn","Korea, NGDP, Activity, Taxes less subsidies on products, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Accommodation and food services, KRW bn","Korea, NGDP, Activity, Tertiary, Accommodation and food services, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Accommodation and food services, SA, KRW bn","Korea, NGDP, Activity, Tertiary, Accommodation and food services, SA, KRW bn",None,line
+"Korea, NGDP, Activity, Tertiary, Arts and sports, KRW bn","Korea, NGDP, Activity, Tertiary, Arts and sports, KRW bn",None,line
+"Korea, NGDP, Activity, Tertiary, Arts and sports, SA, KRW bn","Korea, NGDP, Activity, Tertiary, Arts and sports, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, KRW bn","Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, SA, KRW bn","Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Business support services, KRW bn","Korea, NGDP, Activity, Tertiary, Business activities, Business support services, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Business support services, SA, KRW bn","Korea, NGDP, Activity, Tertiary, Business activities, Business support services, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, KRW bn","Korea, NGDP, Activity, Tertiary, Business activities, KRW bn",None,line
+"Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, KRW bn","Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, KRW bn",None,line
+"Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, KRW bn","Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, KRW bn","Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, KRW bn","Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, SA, KRW bn","Korea, NGDP, Activity, Tertiary, Business activities, SA, KRW bn",None,line
@@ -311,12 +331,16 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Tertiary, Information and communication, Communication, KRW bn","Korea, NGDP, Activity, Tertiary, Information and communication, Communication, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Communication, SA, KRW bn","Korea, NGDP, Activity, Tertiary, Information and communication, Communication, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, KRW bn","Korea, NGDP, Activity, Tertiary, Information and communication, KRW bn",None,line
+"Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, KRW bn","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, KRW bn",None,line
+"Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, SA, KRW bn","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, KRW bn","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, KRW bn","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, SA, KRW bn","Korea, NGDP, Activity, Tertiary, Information and communication, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, KRW bn","Korea, NGDP, Activity, Tertiary, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Other services, KRW bn","Korea, NGDP, Activity, Tertiary, Other services, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Other services, SA, KRW bn","Korea, NGDP, Activity, Tertiary, Other services, SA, KRW bn",None,line
+"Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, KRW bn","Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, KRW bn",None,line
+"Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, SA, KRW bn","Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, KRW bn","Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, SA, KRW bn","Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, SA, KRW bn",None,line
 "Korea, NGDP, Activity, Tertiary, Real estate, KRW bn","Korea, NGDP, Activity, Tertiary, Real estate, KRW bn",None,line
@@ -439,6 +463,8 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Gross value added at basic prices, KRW bn","Korea, RGDP, Activity, Gross value added at basic prices, KRW bn",None,line
 "Korea, RGDP, Activity, Gross value added at basic prices, SA, KRW bn","Korea, RGDP, Activity, Gross value added at basic prices, SA, KRW bn",None,line
 "Korea, RGDP, Activity, KRW bn","Korea, RGDP, Activity, KRW bn",None,line
+"Korea, RGDP, Activity, Mining and manufacturing, KRW bn","Korea, RGDP, Activity, Mining and manufacturing, KRW bn",None,line
+"Korea, RGDP, Activity, Mining and manufacturing, SA, KRW bn","Korea, RGDP, Activity, Mining and manufacturing, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Mining, quarrying and manufacturing, KRW bn","Korea, RGDP, Activity, Mining, quarrying and manufacturing, KRW bn",None,line
 "Korea, RGDP, Activity, Mining, quarrying and manufacturing, SA, KRW bn","Korea, RGDP, Activity, Mining, quarrying and manufacturing, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Net factor income from the rest of the world, KRW bn","Korea, RGDP, Activity, Net factor income from the rest of the world, KRW bn",None,line
@@ -449,6 +475,8 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Primary, Agriculture, Forestry and logging, KRW bn","Korea, RGDP, Activity, Primary, Agriculture, Forestry and logging, KRW bn",None,line
 "Korea, RGDP, Activity, Primary, Agriculture, KRW bn","Korea, RGDP, Activity, Primary, Agriculture, KRW bn",None,line
 "Korea, RGDP, Activity, Primary, Agriculture, SA, KRW bn","Korea, RGDP, Activity, Primary, Agriculture, SA, KRW bn",None,line
+"Korea, RGDP, Activity, Primary, Mining and quarrying, KRW bn","Korea, RGDP, Activity, Primary, Mining and quarrying, KRW bn",None,line
+"Korea, RGDP, Activity, Primary, Mining and quarrying, SA, KRW bn","Korea, RGDP, Activity, Primary, Mining and quarrying, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Primary, Mining, KRW bn","Korea, RGDP, Activity, Primary, Mining, KRW bn",None,line
 "Korea, RGDP, Activity, Primary, Mining, SA, KRW bn","Korea, RGDP, Activity, Primary, Mining, SA, KRW bn",None,line
 "Korea, RGDP, Activity, SA, KRW bn","Korea, RGDP, Activity, SA, KRW bn",None,line
@@ -470,6 +498,8 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, KRW bn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Computer and electronics, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Computer and electronics, KRW bn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Electrical equipment, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Electrical equipment, KRW bn",None,line
@@ -485,30 +515,44 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, KRW bn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, KRW bn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, KRW bn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, KRW bn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW bn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, KRW bn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, KRW bn","Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Electricity, KRW bn","Korea, RGDP, Activity, Secondary, Utilities, Electricity, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Electricity, SA, KRW bn","Korea, RGDP, Activity, Secondary, Utilities, Electricity, SA, KRW bn",None,line
+"Korea, RGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, KRW bn","Korea, RGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, KRW bn",None,line
+"Korea, RGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, KRW bn","Korea, RGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, KRW bn","Korea, RGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, KRW bn","Korea, RGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, KRW bn","Korea, RGDP, Activity, Secondary, Utilities, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, SA, KRW bn","Korea, RGDP, Activity, Secondary, Utilities, SA, KRW bn",None,line
+"Korea, RGDP, Activity, Secondary, Utilities, Water supply and management, KRW bn","Korea, RGDP, Activity, Secondary, Utilities, Water supply and management, KRW bn",None,line
+"Korea, RGDP, Activity, Secondary, Utilities, Water supply and management, SA, KRW bn","Korea, RGDP, Activity, Secondary, Utilities, Water supply and management, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW bn","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW bn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW bn","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, KRW bn","Korea, RGDP, Activity, Taxes less subsidies on products, KRW bn",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW bn","Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Accommodation and food services, KRW bn","Korea, RGDP, Activity, Tertiary, Accommodation and food services, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Accommodation and food services, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Accommodation and food services, SA, KRW bn",None,line
+"Korea, RGDP, Activity, Tertiary, Arts and sports, KRW bn","Korea, RGDP, Activity, Tertiary, Arts and sports, KRW bn",None,line
+"Korea, RGDP, Activity, Tertiary, Arts and sports, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Arts and sports, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Arts, sports and recreation, KRW bn","Korea, RGDP, Activity, Tertiary, Arts, sports and recreation, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Arts, sports and recreation, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Arts, sports and recreation, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, Business support services, KRW bn","Korea, RGDP, Activity, Tertiary, Business activities, Business support services, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, Business support services, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Business activities, Business support services, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, KRW bn","Korea, RGDP, Activity, Tertiary, Business activities, KRW bn",None,line
+"Korea, RGDP, Activity, Tertiary, Business activities, Professional and technical services, KRW bn","Korea, RGDP, Activity, Tertiary, Business activities, Professional and technical services, KRW bn",None,line
+"Korea, RGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, KRW bn","Korea, RGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Business activities, SA, KRW bn",None,line
@@ -523,12 +567,16 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, Information and communication, Communication, KRW bn","Korea, RGDP, Activity, Tertiary, Information and communication, Communication, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, Communication, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Information and communication, Communication, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, KRW bn","Korea, RGDP, Activity, Tertiary, Information and communication, KRW bn",None,line
+"Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, KRW bn","Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, KRW bn",None,line
+"Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, KRW bn","Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Information and communication, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, KRW bn","Korea, RGDP, Activity, Tertiary, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Other services, KRW bn","Korea, RGDP, Activity, Tertiary, Other services, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Other services, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Other services, SA, KRW bn",None,line
+"Korea, RGDP, Activity, Tertiary, Public administration including defence and social security, KRW bn","Korea, RGDP, Activity, Tertiary, Public administration including defence and social security, KRW bn",None,line
+"Korea, RGDP, Activity, Tertiary, Public administration including defence and social security, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Public administration including defence and social security, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Public administration, defence and social security, KRW bn","Korea, RGDP, Activity, Tertiary, Public administration, defence and social security, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Public administration, defence and social security, SA, KRW bn","Korea, RGDP, Activity, Tertiary, Public administration, defence and social security, SA, KRW bn",None,line
 "Korea, RGDP, Activity, Tertiary, Real estate, KRW bn","Korea, RGDP, Activity, Tertiary, Real estate, KRW bn",None,line
@@ -752,6 +800,17 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, ICT sector, Private consumption expenditure, Per capita, SA, KRW mn","Korea, RGDP, ICT sector, Private consumption expenditure, Per capita, SA, KRW mn",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Goods, Per capita, SA, KRW mn","Korea, NGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Goods, Per capita, SA, KRW mn",None,line
 "Korea, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Goods, Per capita, SA, KRW mn","Korea, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Goods, Per capita, SA, KRW mn",None,line
+"Korea, Deflator, Expenditure, SA, Index","Korea, Deflator, Expenditure, SA, Index",None,line
+"Korea, RGDP, Expenditure, Contribution to % YoY chg in NGDP, ppts","Korea, RGDP, Expenditure, Contribution to % YoY chg in NGDP, ppts",None,bar
+"Korea, Deflator, Expenditure, Contribution to % YoY chg in NGDP, ppts","Korea, Deflator, Expenditure, Contribution to % YoY chg in NGDP, ppts",None,bar
+"Korea, RGDP, Expenditure, Contribution to % YoY chg in NGDP, SA, ppts","Korea, RGDP, Expenditure, Contribution to % YoY chg in NGDP, SA, ppts",None,bar
+"Korea, Deflator, Expenditure, Contribution to % YoY chg in NGDP, SA, ppts","Korea, Deflator, Expenditure, Contribution to % YoY chg in NGDP, SA, ppts",None,bar
+"Korea, RGDP, Trading gains, Nowcast, SA, % of GDP","Korea, RGDP, Trading gains, Nowcast, SA, % of GDP",None,line
+"Korea, RGDI, Trading gains, Nowcast, Contribution to % QoQ chg, ppts","Korea, RGDI, Trading gains, Nowcast, Contribution to % QoQ chg, ppts",None,bar
+"Korea, RGDP, Trading gains, Nowcast, SA, KRW bn","Korea, RGDP, Trading gains, Nowcast, SA, KRW bn",None,line
+"Korea, RGDI, Nowcast, SA, KRW bn","Korea, RGDI, Nowcast, SA, KRW bn",None,line
+"Korea, RGDP, Trading gains, Model, Out of sample, SA, % of GDP","Korea, RGDP, Trading gains, Model, Out of sample, SA, % of GDP",None,line
+"Korea, RGDP, Trading gains, Model, In sample, SA, % of GDP","Korea, RGDP, Trading gains, Model, In sample, SA, % of GDP",None,line
 "Korea, NGDP, Income, Compensation per worker, SA, KRW mn","Korea, NGDP, Income, Compensation per worker, SA, KRW mn",None,line
 "Korea, NGDP, Income, Compensation per worker, KRW mn","Korea, NGDP, Income, Compensation per worker, KRW mn",None,line
 "Korea, RGDP, Trading gains, % of GDP","Korea, RGDP, Trading gains, % of GDP",None,line
@@ -804,6 +863,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Expenditure, Statistical discrepancy, KRW, % YoY","Korea, RGDP, Expenditure, Statistical discrepancy, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Gross value added at basic prices, KRW, % YoY","Korea, NGDP, Activity, Gross value added at basic prices, KRW, % YoY",None,line
 "Korea, NGDP, Activity, KRW, % YoY","Korea, NGDP, Activity, KRW, % YoY",None,line
+"Korea, NGDP, Activity, Mining and manufacturing, KRW, % YoY","Korea, NGDP, Activity, Mining and manufacturing, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Mining, quarrying and manufacturing, KRW, % YoY","Korea, NGDP, Activity, Mining, quarrying and manufacturing, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Net factor income from the rest of the world, KRW, % YoY","Korea, NGDP, Activity, Net factor income from the rest of the world, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Primary, Agriculture, Animals, KRW, % YoY","Korea, NGDP, Activity, Primary, Agriculture, Animals, KRW, % YoY",None,line
@@ -811,6 +871,7 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Primary, Agriculture, Fishing and aquaculture, KRW, % YoY","Korea, NGDP, Activity, Primary, Agriculture, Fishing and aquaculture, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Primary, Agriculture, Forestry and logging, KRW, % YoY","Korea, NGDP, Activity, Primary, Agriculture, Forestry and logging, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Primary, Agriculture, KRW, % YoY","Korea, NGDP, Activity, Primary, Agriculture, KRW, % YoY",None,line
+"Korea, NGDP, Activity, Primary, Mining and quarrying, KRW, % YoY","Korea, NGDP, Activity, Primary, Mining and quarrying, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Primary, Mining, KRW, % YoY","Korea, NGDP, Activity, Primary, Mining, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Construction, Building construction and repair, Building repair, KRW, % YoY","Korea, NGDP, Activity, Secondary, Construction, Building construction and repair, Building repair, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Construction, Building construction and repair, KRW, % YoY","Korea, NGDP, Activity, Secondary, Construction, Building construction and repair, KRW, % YoY",None,line
@@ -821,6 +882,7 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Secondary, Manufacturing, Basic metals, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Basic metals, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, KRW, % YoY",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Electrical equipment, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Electrical equipment, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Fabricated metal products, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Fabricated metal products, KRW, % YoY",None,line
@@ -829,18 +891,25 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Secondary, Manufacturing, Machinery and equipment, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Machinery and equipment, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, KRW, % YoY",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, KRW, % YoY",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW, % YoY",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, KRW, % YoY","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Electricity, KRW, % YoY","Korea, NGDP, Activity, Secondary, Utilities, Electricity, KRW, % YoY",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, KRW, % YoY","Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, KRW, % YoY","Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, KRW, % YoY","Korea, NGDP, Activity, Secondary, Utilities, KRW, % YoY",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, KRW, % YoY","Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW, % YoY","Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Taxes less subsidies on products, KRW, % YoY","Korea, NGDP, Activity, Taxes less subsidies on products, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, Accommodation and food services, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Accommodation and food services, KRW, % YoY",None,line
+"Korea, NGDP, Activity, Tertiary, Arts and sports, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Arts and sports, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Business support services, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Business activities, Business support services, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Business activities, KRW, % YoY",None,line
+"Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, Cultural and other services, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Cultural and other services, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, Education, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Education, KRW, % YoY",None,line
@@ -848,9 +917,11 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Tertiary, Human health and social work, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Human health and social work, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Communication, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Information and communication, Communication, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Information and communication, KRW, % YoY",None,line
+"Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, KRW, % YoY","Korea, NGDP, Activity, Tertiary, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, Other services, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Other services, KRW, % YoY",None,line
+"Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, Real estate, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Real estate, KRW, % YoY",None,line
 "Korea, NGDP, Activity, Tertiary, Transportation and storage, KRW, % YoY","Korea, NGDP, Activity, Tertiary, Transportation and storage, KRW, % YoY",None,line
@@ -914,6 +985,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDI, KRW, % YoY","Korea, RGDI, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Gross value added at basic prices, KRW, % YoY","Korea, RGDP, Activity, Gross value added at basic prices, KRW, % YoY",None,line
 "Korea, RGDP, Activity, KRW, % YoY","Korea, RGDP, Activity, KRW, % YoY",None,line
+"Korea, RGDP, Activity, Mining and manufacturing, KRW, % YoY","Korea, RGDP, Activity, Mining and manufacturing, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Mining, quarrying and manufacturing, KRW, % YoY","Korea, RGDP, Activity, Mining, quarrying and manufacturing, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Net factor income from the rest of the world, KRW, % YoY","Korea, RGDP, Activity, Net factor income from the rest of the world, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Primary, Agriculture, Animals, KRW, % YoY","Korea, RGDP, Activity, Primary, Agriculture, Animals, KRW, % YoY",None,line
@@ -921,6 +993,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Primary, Agriculture, Fishing and aquaculture, KRW, % YoY","Korea, RGDP, Activity, Primary, Agriculture, Fishing and aquaculture, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Primary, Agriculture, Forestry and logging, KRW, % YoY","Korea, RGDP, Activity, Primary, Agriculture, Forestry and logging, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Primary, Agriculture, KRW, % YoY","Korea, RGDP, Activity, Primary, Agriculture, KRW, % YoY",None,line
+"Korea, RGDP, Activity, Primary, Mining and quarrying, KRW, % YoY","Korea, RGDP, Activity, Primary, Mining and quarrying, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Primary, Mining, KRW, % YoY","Korea, RGDP, Activity, Primary, Mining, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Construction, Building construction and repair, Building repair, KRW, % YoY","Korea, RGDP, Activity, Secondary, Construction, Building construction and repair, Building repair, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Construction, Building construction and repair, KRW, % YoY","Korea, RGDP, Activity, Secondary, Construction, Building construction and repair, KRW, % YoY",None,line
@@ -931,6 +1004,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Secondary, Manufacturing, Basic metals, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Basic metals, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, KRW, % YoY",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Computer and electronics, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Computer and electronics, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Electrical equipment, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Electrical equipment, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Fabricated metal products, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Fabricated metal products, KRW, % YoY",None,line
@@ -939,18 +1013,25 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Secondary, Manufacturing, Machinery and equipment, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Machinery and equipment, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, KRW, % YoY",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, KRW, % YoY",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW, % YoY",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, KRW, % YoY","Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Electricity, KRW, % YoY","Korea, RGDP, Activity, Secondary, Utilities, Electricity, KRW, % YoY",None,line
+"Korea, RGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, KRW, % YoY","Korea, RGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, KRW, % YoY","Korea, RGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, KRW, % YoY","Korea, RGDP, Activity, Secondary, Utilities, KRW, % YoY",None,line
+"Korea, RGDP, Activity, Secondary, Utilities, Water supply and management, KRW, % YoY","Korea, RGDP, Activity, Secondary, Utilities, Water supply and management, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW, % YoY","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, KRW, % YoY","Korea, RGDP, Activity, Taxes less subsidies on products, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Accommodation and food services, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Accommodation and food services, KRW, % YoY",None,line
+"Korea, RGDP, Activity, Tertiary, Arts and sports, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Arts and sports, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Arts, sports and recreation, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Arts, sports and recreation, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, Business support services, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Business activities, Business support services, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Business activities, KRW, % YoY",None,line
+"Korea, RGDP, Activity, Tertiary, Business activities, Professional and technical services, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Business activities, Professional and technical services, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Cultural and other services, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Cultural and other services, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Education, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Education, KRW, % YoY",None,line
@@ -958,9 +1039,11 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, Human health and social work, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Human health and social work, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, Communication, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Information and communication, Communication, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Information and communication, KRW, % YoY",None,line
+"Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, KRW, % YoY","Korea, RGDP, Activity, Tertiary, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Other services, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Other services, KRW, % YoY",None,line
+"Korea, RGDP, Activity, Tertiary, Public administration including defence and social security, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Public administration including defence and social security, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Public administration, defence and social security, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Public administration, defence and social security, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Real estate, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Real estate, KRW, % YoY",None,line
 "Korea, RGDP, Activity, Tertiary, Transportation and storage, KRW, % YoY","Korea, RGDP, Activity, Tertiary, Transportation and storage, KRW, % YoY",None,line
@@ -1152,9 +1235,11 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Semi-durable goods, SA, KRW, % QoQ","Korea, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Semi-durable goods, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Services, SA, KRW, % QoQ","Korea, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Services, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Gross value added at basic prices, SA, KRW, % QoQ","Korea, NGDP, Activity, Gross value added at basic prices, SA, KRW, % QoQ",None,line
+"Korea, NGDP, Activity, Mining and manufacturing, SA, KRW, % QoQ","Korea, NGDP, Activity, Mining and manufacturing, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Mining, quarrying and manufacturing, SA, KRW, % QoQ","Korea, NGDP, Activity, Mining, quarrying and manufacturing, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Net factor income from the rest of the world, SA, KRW, % QoQ","Korea, NGDP, Activity, Net factor income from the rest of the world, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Primary, Agriculture, SA, KRW, % QoQ","Korea, NGDP, Activity, Primary, Agriculture, SA, KRW, % QoQ",None,line
+"Korea, NGDP, Activity, Primary, Mining and quarrying, SA, KRW, % QoQ","Korea, NGDP, Activity, Primary, Mining and quarrying, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Primary, Mining, SA, KRW, % QoQ","Korea, NGDP, Activity, Primary, Mining, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, SA, KRW, % QoQ","Korea, NGDP, Activity, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Construction, Building construction and repair, Building repair, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Construction, Building construction and repair, Building repair, SA, KRW, % QoQ",None,line
@@ -1166,6 +1251,7 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Secondary, Manufacturing, Basic metals, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Basic metals, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, KRW, % QoQ",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Electrical equipment, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Electrical equipment, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Fabricated metal products, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Fabricated metal products, SA, KRW, % QoQ",None,line
@@ -1173,18 +1259,25 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Secondary, Manufacturing, Machinery and equipment, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Machinery and equipment, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, KRW, % QoQ",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, KRW, % QoQ",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW, % QoQ",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Electricity, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Utilities, Electricity, SA, KRW, % QoQ",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Utilities, SA, KRW, % QoQ",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW, % QoQ","Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Taxes less subsidies on products, SA, KRW, % QoQ","Korea, NGDP, Activity, Taxes less subsidies on products, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Tertiary, Accommodation and food services, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Accommodation and food services, SA, KRW, % QoQ",None,line
+"Korea, NGDP, Activity, Tertiary, Arts and sports, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Arts and sports, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Business support services, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Business activities, Business support services, SA, KRW, % QoQ",None,line
+"Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Business activities, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Tertiary, Cultural and other services, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Cultural and other services, SA, KRW, % QoQ",None,line
@@ -1192,9 +1285,11 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Tertiary, Finance and insurance, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Finance and insurance, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Tertiary, Human health and social work, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Human health and social work, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Communication, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Information and communication, Communication, SA, KRW, % QoQ",None,line
+"Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Information and communication, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Tertiary, Other services, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Other services, SA, KRW, % QoQ",None,line
+"Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Tertiary, Real estate, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, Real estate, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Activity, Tertiary, SA, KRW, % QoQ","Korea, NGDP, Activity, Tertiary, SA, KRW, % QoQ",None,line
@@ -1254,9 +1349,11 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, tertiary>wholesale_and_retail_trade>accommodation_and_food_services, SA, KRW, % QoQ","Korea, NGDP, Activity, tertiary>wholesale_and_retail_trade>accommodation_and_food_services, SA, KRW, % QoQ",None,line
 "Korea, RGDI, SA, KRW, % QoQ","Korea, RGDI, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Gross value added at basic prices, SA, KRW, % QoQ","Korea, RGDP, Activity, Gross value added at basic prices, SA, KRW, % QoQ",None,line
+"Korea, RGDP, Activity, Mining and manufacturing, SA, KRW, % QoQ","Korea, RGDP, Activity, Mining and manufacturing, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Mining, quarrying and manufacturing, SA, KRW, % QoQ","Korea, RGDP, Activity, Mining, quarrying and manufacturing, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Net factor income from the rest of the world, SA, KRW, % QoQ","Korea, RGDP, Activity, Net factor income from the rest of the world, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Primary, Agriculture, SA, KRW, % QoQ","Korea, RGDP, Activity, Primary, Agriculture, SA, KRW, % QoQ",None,line
+"Korea, RGDP, Activity, Primary, Mining and quarrying, SA, KRW, % QoQ","Korea, RGDP, Activity, Primary, Mining and quarrying, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Primary, Mining, SA, KRW, % QoQ","Korea, RGDP, Activity, Primary, Mining, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, SA, KRW, % QoQ","Korea, RGDP, Activity, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Construction, Building construction and repair, Building repair, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Construction, Building construction and repair, Building repair, SA, KRW, % QoQ",None,line
@@ -1268,6 +1365,7 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Secondary, Manufacturing, Basic metals, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Basic metals, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, KRW, % QoQ",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Electrical equipment, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Electrical equipment, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Fabricated metal products, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Fabricated metal products, SA, KRW, % QoQ",None,line
@@ -1275,18 +1373,25 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Secondary, Manufacturing, Machinery and equipment, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Machinery and equipment, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, KRW, % QoQ",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, KRW, % QoQ",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW, % QoQ",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Electricity, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Utilities, Electricity, SA, KRW, % QoQ",None,line
+"Korea, RGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Utilities, SA, KRW, % QoQ",None,line
+"Korea, RGDP, Activity, Secondary, Utilities, Water supply and management, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Utilities, Water supply and management, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW, % QoQ","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW, % QoQ","Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Accommodation and food services, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Accommodation and food services, SA, KRW, % QoQ",None,line
+"Korea, RGDP, Activity, Tertiary, Arts and sports, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Arts and sports, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Arts, sports and recreation, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Arts, sports and recreation, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, Business support services, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Business activities, Business support services, SA, KRW, % QoQ",None,line
+"Korea, RGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Business activities, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Cultural and other services, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Cultural and other services, SA, KRW, % QoQ",None,line
@@ -1294,9 +1399,11 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, Finance and insurance, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Finance and insurance, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Human health and social work, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Human health and social work, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, Communication, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Information and communication, Communication, SA, KRW, % QoQ",None,line
+"Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Information and communication, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Other services, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Other services, SA, KRW, % QoQ",None,line
+"Korea, RGDP, Activity, Tertiary, Public administration including defence and social security, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Public administration including defence and social security, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Public administration, defence and social security, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Public administration, defence and social security, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, Real estate, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, Real estate, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Activity, Tertiary, SA, KRW, % QoQ","Korea, RGDP, Activity, Tertiary, SA, KRW, % QoQ",None,line
@@ -1409,6 +1516,9 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, ICT sector, Private consumption expenditure, Per capita, SA, KRW, % QoQ","Korea, RGDP, ICT sector, Private consumption expenditure, Per capita, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Goods, Per capita, SA, KRW, % QoQ","Korea, NGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Goods, Per capita, SA, KRW, % QoQ",None,line
 "Korea, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Goods, Per capita, SA, KRW, % QoQ","Korea, RGDP, Expenditure, Domestic demand, Private consumption, Household consumption, Domestic final consumption, Goods, Per capita, SA, KRW, % QoQ",None,line
+"Korea, Deflator, Expenditure, SA, % QoQ","Korea, Deflator, Expenditure, SA, % QoQ",None,line
+"Korea, RGDP, Trading gains, Nowcast, SA, KRW, % QoQ","Korea, RGDP, Trading gains, Nowcast, SA, KRW, % QoQ",None,line
+"Korea, RGDI, Nowcast, SA, KRW, % QoQ","Korea, RGDI, Nowcast, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Income, Compensation per worker, SA, KRW, % QoQ","Korea, NGDP, Income, Compensation per worker, SA, KRW, % QoQ",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Final consumption expenditure, SA, KRW bn, 2013-19 trend","Korea, NGDP, Expenditure, Domestic demand, Final consumption expenditure, SA, KRW bn, 2013-19 trend",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Government consumption, SA, KRW bn, 2013-19 trend","Korea, NGDP, Expenditure, Domestic demand, Government consumption, SA, KRW bn, 2013-19 trend",None,line
@@ -2008,9 +2118,11 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Expenditure, Domestic demand, Private, Excluding inventories, SA, % of GDP","Korea, NGDP, Expenditure, Domestic demand, Private, Excluding inventories, SA, % of GDP",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Public, Excluding inventories, SA, % of GDP","Korea, NGDP, Expenditure, Domestic demand, Public, Excluding inventories, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Gross value added at basic prices, SA, % of GDP","Korea, NGDP, Activity, Gross value added at basic prices, SA, % of GDP",None,line
+"Korea, NGDP, Activity, Mining and manufacturing, SA, % of GDP","Korea, NGDP, Activity, Mining and manufacturing, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Mining, quarrying and manufacturing, SA, % of GDP","Korea, NGDP, Activity, Mining, quarrying and manufacturing, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Net factor income from the rest of the world, SA, % of GDP","Korea, NGDP, Activity, Net factor income from the rest of the world, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Primary, Agriculture, SA, % of GDP","Korea, NGDP, Activity, Primary, Agriculture, SA, % of GDP",None,line
+"Korea, NGDP, Activity, Primary, Mining and quarrying, SA, % of GDP","Korea, NGDP, Activity, Primary, Mining and quarrying, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Primary, Mining, SA, % of GDP","Korea, NGDP, Activity, Primary, Mining, SA, % of GDP",None,line
 "Korea, NGDP, Activity, SA, % of GDP","Korea, NGDP, Activity, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Construction, Building construction and repair, Building repair, SA, % of GDP","Korea, NGDP, Activity, Secondary, Construction, Building construction and repair, Building repair, SA, % of GDP",None,line
@@ -2022,6 +2134,7 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Secondary, Manufacturing, Basic metals, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Basic metals, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, % of GDP",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Electrical equipment, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Electrical equipment, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Fabricated metal products, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Fabricated metal products, SA, % of GDP",None,line
@@ -2029,18 +2142,25 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Secondary, Manufacturing, Machinery and equipment, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Machinery and equipment, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, % of GDP",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, % of GDP",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, % of GDP",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, % of GDP","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Electricity, SA, % of GDP","Korea, NGDP, Activity, Secondary, Utilities, Electricity, SA, % of GDP",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, % of GDP","Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, % of GDP","Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, SA, % of GDP","Korea, NGDP, Activity, Secondary, Utilities, SA, % of GDP",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, SA, % of GDP","Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, % of GDP","Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Taxes less subsidies on products, SA, % of GDP","Korea, NGDP, Activity, Taxes less subsidies on products, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Tertiary, Accommodation and food services, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Accommodation and food services, SA, % of GDP",None,line
+"Korea, NGDP, Activity, Tertiary, Arts and sports, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Arts and sports, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Business support services, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Business activities, Business support services, SA, % of GDP",None,line
+"Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Business activities, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Tertiary, Cultural and other services, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Cultural and other services, SA, % of GDP",None,line
@@ -2048,9 +2168,11 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Tertiary, Finance and insurance, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Finance and insurance, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Tertiary, Human health and social work, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Human health and social work, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Communication, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Information and communication, Communication, SA, % of GDP",None,line
+"Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Information and communication, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Tertiary, Other services, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Other services, SA, % of GDP",None,line
+"Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Tertiary, Real estate, SA, % of GDP","Korea, NGDP, Activity, Tertiary, Real estate, SA, % of GDP",None,line
 "Korea, NGDP, Activity, Tertiary, SA, % of GDP","Korea, NGDP, Activity, Tertiary, SA, % of GDP",None,line
@@ -2182,6 +2304,8 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Gross value added at basic prices, USD bn","Korea, NGDP, Activity, Gross value added at basic prices, USD bn",None,line
 "Korea, NGDP, Activity, Gross value added at basic prices, SA, USD bn","Korea, NGDP, Activity, Gross value added at basic prices, SA, USD bn",None,line
 "Korea, NGDP, Activity, USD bn","Korea, NGDP, Activity, USD bn",None,line
+"Korea, NGDP, Activity, Mining and manufacturing, USD bn","Korea, NGDP, Activity, Mining and manufacturing, USD bn",None,line
+"Korea, NGDP, Activity, Mining and manufacturing, SA, USD bn","Korea, NGDP, Activity, Mining and manufacturing, SA, USD bn",None,line
 "Korea, NGDP, Activity, Mining, quarrying and manufacturing, USD bn","Korea, NGDP, Activity, Mining, quarrying and manufacturing, USD bn",None,line
 "Korea, NGDP, Activity, Mining, quarrying and manufacturing, SA, USD bn","Korea, NGDP, Activity, Mining, quarrying and manufacturing, SA, USD bn",None,line
 "Korea, NGDP, Activity, Net factor income from the rest of the world, USD bn","Korea, NGDP, Activity, Net factor income from the rest of the world, USD bn",None,line
@@ -2192,6 +2316,8 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Primary, Agriculture, Forestry and logging, USD bn","Korea, NGDP, Activity, Primary, Agriculture, Forestry and logging, USD bn",None,line
 "Korea, NGDP, Activity, Primary, Agriculture, USD bn","Korea, NGDP, Activity, Primary, Agriculture, USD bn",None,line
 "Korea, NGDP, Activity, Primary, Agriculture, SA, USD bn","Korea, NGDP, Activity, Primary, Agriculture, SA, USD bn",None,line
+"Korea, NGDP, Activity, Primary, Mining and quarrying, USD bn","Korea, NGDP, Activity, Primary, Mining and quarrying, USD bn",None,line
+"Korea, NGDP, Activity, Primary, Mining and quarrying, SA, USD bn","Korea, NGDP, Activity, Primary, Mining and quarrying, SA, USD bn",None,line
 "Korea, NGDP, Activity, Primary, Mining, USD bn","Korea, NGDP, Activity, Primary, Mining, USD bn",None,line
 "Korea, NGDP, Activity, Primary, Mining, SA, USD bn","Korea, NGDP, Activity, Primary, Mining, SA, USD bn",None,line
 "Korea, NGDP, Activity, SA, USD bn","Korea, NGDP, Activity, SA, USD bn",None,line
@@ -2213,6 +2339,8 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, USD bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, USD bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Electrical equipment, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Electrical equipment, USD bn",None,line
@@ -2228,30 +2356,44 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, USD bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, USD bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, USD bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, USD bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, SA, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, SA, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, USD bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, USD bn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, USD bn","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Electricity, USD bn","Korea, NGDP, Activity, Secondary, Utilities, Electricity, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Electricity, SA, USD bn","Korea, NGDP, Activity, Secondary, Utilities, Electricity, SA, USD bn",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, USD bn","Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, USD bn",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, USD bn","Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, USD bn","Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, USD bn","Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, USD bn","Korea, NGDP, Activity, Secondary, Utilities, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, SA, USD bn","Korea, NGDP, Activity, Secondary, Utilities, SA, USD bn",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, USD bn","Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, USD bn",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, SA, USD bn","Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, SA, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, USD bn","Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, USD bn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, USD bn","Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, USD bn",None,line
 "Korea, NGDP, Activity, Taxes less subsidies on products, USD bn","Korea, NGDP, Activity, Taxes less subsidies on products, USD bn",None,line
 "Korea, NGDP, Activity, Taxes less subsidies on products, SA, USD bn","Korea, NGDP, Activity, Taxes less subsidies on products, SA, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Accommodation and food services, USD bn","Korea, NGDP, Activity, Tertiary, Accommodation and food services, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Accommodation and food services, SA, USD bn","Korea, NGDP, Activity, Tertiary, Accommodation and food services, SA, USD bn",None,line
+"Korea, NGDP, Activity, Tertiary, Arts and sports, USD bn","Korea, NGDP, Activity, Tertiary, Arts and sports, USD bn",None,line
+"Korea, NGDP, Activity, Tertiary, Arts and sports, SA, USD bn","Korea, NGDP, Activity, Tertiary, Arts and sports, SA, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, USD bn","Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, SA, USD bn","Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, SA, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Business support services, USD bn","Korea, NGDP, Activity, Tertiary, Business activities, Business support services, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Business support services, SA, USD bn","Korea, NGDP, Activity, Tertiary, Business activities, Business support services, SA, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, USD bn","Korea, NGDP, Activity, Tertiary, Business activities, USD bn",None,line
+"Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, USD bn","Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, USD bn",None,line
+"Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, USD bn","Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, USD bn","Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, USD bn","Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, SA, USD bn","Korea, NGDP, Activity, Tertiary, Business activities, SA, USD bn",None,line
@@ -2266,12 +2408,16 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Tertiary, Information and communication, Communication, USD bn","Korea, NGDP, Activity, Tertiary, Information and communication, Communication, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Communication, SA, USD bn","Korea, NGDP, Activity, Tertiary, Information and communication, Communication, SA, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, USD bn","Korea, NGDP, Activity, Tertiary, Information and communication, USD bn",None,line
+"Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, USD bn","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, USD bn",None,line
+"Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, SA, USD bn","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, SA, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, USD bn","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, USD bn","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, SA, USD bn","Korea, NGDP, Activity, Tertiary, Information and communication, SA, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, USD bn","Korea, NGDP, Activity, Tertiary, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Other services, USD bn","Korea, NGDP, Activity, Tertiary, Other services, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Other services, SA, USD bn","Korea, NGDP, Activity, Tertiary, Other services, SA, USD bn",None,line
+"Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, USD bn","Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, USD bn",None,line
+"Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, SA, USD bn","Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, SA, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, USD bn","Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, SA, USD bn","Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, SA, USD bn",None,line
 "Korea, NGDP, Activity, Tertiary, Real estate, USD bn","Korea, NGDP, Activity, Tertiary, Real estate, USD bn",None,line
@@ -2534,6 +2680,8 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Gross value added at basic prices, KRW tn","Korea, NGDP, Activity, Gross value added at basic prices, KRW tn",None,line
 "Korea, NGDP, Activity, Gross value added at basic prices, SA, KRW tn","Korea, NGDP, Activity, Gross value added at basic prices, SA, KRW tn",None,line
 "Korea, NGDP, Activity, KRW tn","Korea, NGDP, Activity, KRW tn",None,line
+"Korea, NGDP, Activity, Mining and manufacturing, KRW tn","Korea, NGDP, Activity, Mining and manufacturing, KRW tn",None,line
+"Korea, NGDP, Activity, Mining and manufacturing, SA, KRW tn","Korea, NGDP, Activity, Mining and manufacturing, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Mining, quarrying and manufacturing, KRW tn","Korea, NGDP, Activity, Mining, quarrying and manufacturing, KRW tn",None,line
 "Korea, NGDP, Activity, Mining, quarrying and manufacturing, SA, KRW tn","Korea, NGDP, Activity, Mining, quarrying and manufacturing, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Net factor income from the rest of the world, KRW tn","Korea, NGDP, Activity, Net factor income from the rest of the world, KRW tn",None,line
@@ -2544,6 +2692,8 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Primary, Agriculture, Forestry and logging, KRW tn","Korea, NGDP, Activity, Primary, Agriculture, Forestry and logging, KRW tn",None,line
 "Korea, NGDP, Activity, Primary, Agriculture, KRW tn","Korea, NGDP, Activity, Primary, Agriculture, KRW tn",None,line
 "Korea, NGDP, Activity, Primary, Agriculture, SA, KRW tn","Korea, NGDP, Activity, Primary, Agriculture, SA, KRW tn",None,line
+"Korea, NGDP, Activity, Primary, Mining and quarrying, KRW tn","Korea, NGDP, Activity, Primary, Mining and quarrying, KRW tn",None,line
+"Korea, NGDP, Activity, Primary, Mining and quarrying, SA, KRW tn","Korea, NGDP, Activity, Primary, Mining and quarrying, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Primary, Mining, KRW tn","Korea, NGDP, Activity, Primary, Mining, KRW tn",None,line
 "Korea, NGDP, Activity, Primary, Mining, SA, KRW tn","Korea, NGDP, Activity, Primary, Mining, SA, KRW tn",None,line
 "Korea, NGDP, Activity, SA, KRW tn","Korea, NGDP, Activity, SA, KRW tn",None,line
@@ -2565,6 +2715,8 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, KRW tn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, KRW tn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Electrical equipment, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Electrical equipment, KRW tn",None,line
@@ -2580,30 +2732,44 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, KRW tn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, KRW tn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, KRW tn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, KRW tn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, SA, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW tn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, KRW tn",None,line
+"Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, KRW tn","Korea, NGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Electricity, KRW tn","Korea, NGDP, Activity, Secondary, Utilities, Electricity, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Electricity, SA, KRW tn","Korea, NGDP, Activity, Secondary, Utilities, Electricity, SA, KRW tn",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, KRW tn","Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, KRW tn",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, KRW tn","Korea, NGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, KRW tn","Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, KRW tn","Korea, NGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, KRW tn","Korea, NGDP, Activity, Secondary, Utilities, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, SA, KRW tn","Korea, NGDP, Activity, Secondary, Utilities, SA, KRW tn",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, KRW tn","Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, KRW tn",None,line
+"Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, SA, KRW tn","Korea, NGDP, Activity, Secondary, Utilities, Water supply and management, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW tn","Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW tn",None,line
 "Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW tn","Korea, NGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Taxes less subsidies on products, KRW tn","Korea, NGDP, Activity, Taxes less subsidies on products, KRW tn",None,line
 "Korea, NGDP, Activity, Taxes less subsidies on products, SA, KRW tn","Korea, NGDP, Activity, Taxes less subsidies on products, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Accommodation and food services, KRW tn","Korea, NGDP, Activity, Tertiary, Accommodation and food services, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Accommodation and food services, SA, KRW tn","Korea, NGDP, Activity, Tertiary, Accommodation and food services, SA, KRW tn",None,line
+"Korea, NGDP, Activity, Tertiary, Arts and sports, KRW tn","Korea, NGDP, Activity, Tertiary, Arts and sports, KRW tn",None,line
+"Korea, NGDP, Activity, Tertiary, Arts and sports, SA, KRW tn","Korea, NGDP, Activity, Tertiary, Arts and sports, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, KRW tn","Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, SA, KRW tn","Korea, NGDP, Activity, Tertiary, Arts, sports and recreation, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Business support services, KRW tn","Korea, NGDP, Activity, Tertiary, Business activities, Business support services, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Business support services, SA, KRW tn","Korea, NGDP, Activity, Tertiary, Business activities, Business support services, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, KRW tn","Korea, NGDP, Activity, Tertiary, Business activities, KRW tn",None,line
+"Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, KRW tn","Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, KRW tn",None,line
+"Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, KRW tn","Korea, NGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, KRW tn","Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, KRW tn","Korea, NGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Business activities, SA, KRW tn","Korea, NGDP, Activity, Tertiary, Business activities, SA, KRW tn",None,line
@@ -2618,12 +2784,16 @@ name,display_name,data_type,chart_type
 "Korea, NGDP, Activity, Tertiary, Information and communication, Communication, KRW tn","Korea, NGDP, Activity, Tertiary, Information and communication, Communication, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Communication, SA, KRW tn","Korea, NGDP, Activity, Tertiary, Information and communication, Communication, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, KRW tn","Korea, NGDP, Activity, Tertiary, Information and communication, KRW tn",None,line
+"Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, KRW tn","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, KRW tn",None,line
+"Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, SA, KRW tn","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, KRW tn","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, KRW tn","Korea, NGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Information and communication, SA, KRW tn","Korea, NGDP, Activity, Tertiary, Information and communication, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, KRW tn","Korea, NGDP, Activity, Tertiary, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Other services, KRW tn","Korea, NGDP, Activity, Tertiary, Other services, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Other services, SA, KRW tn","Korea, NGDP, Activity, Tertiary, Other services, SA, KRW tn",None,line
+"Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, KRW tn","Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, KRW tn",None,line
+"Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, SA, KRW tn","Korea, NGDP, Activity, Tertiary, Public administration including defence and social security, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, KRW tn","Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, SA, KRW tn","Korea, NGDP, Activity, Tertiary, Public administration, defence and social security, SA, KRW tn",None,line
 "Korea, NGDP, Activity, Tertiary, Real estate, KRW tn","Korea, NGDP, Activity, Tertiary, Real estate, KRW tn",None,line
@@ -2746,6 +2916,8 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Gross value added at basic prices, KRW tn","Korea, RGDP, Activity, Gross value added at basic prices, KRW tn",None,line
 "Korea, RGDP, Activity, Gross value added at basic prices, SA, KRW tn","Korea, RGDP, Activity, Gross value added at basic prices, SA, KRW tn",None,line
 "Korea, RGDP, Activity, KRW tn","Korea, RGDP, Activity, KRW tn",None,line
+"Korea, RGDP, Activity, Mining and manufacturing, KRW tn","Korea, RGDP, Activity, Mining and manufacturing, KRW tn",None,line
+"Korea, RGDP, Activity, Mining and manufacturing, SA, KRW tn","Korea, RGDP, Activity, Mining and manufacturing, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Mining, quarrying and manufacturing, KRW tn","Korea, RGDP, Activity, Mining, quarrying and manufacturing, KRW tn",None,line
 "Korea, RGDP, Activity, Mining, quarrying and manufacturing, SA, KRW tn","Korea, RGDP, Activity, Mining, quarrying and manufacturing, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Net factor income from the rest of the world, KRW tn","Korea, RGDP, Activity, Net factor income from the rest of the world, KRW tn",None,line
@@ -2756,6 +2928,8 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Primary, Agriculture, Forestry and logging, KRW tn","Korea, RGDP, Activity, Primary, Agriculture, Forestry and logging, KRW tn",None,line
 "Korea, RGDP, Activity, Primary, Agriculture, KRW tn","Korea, RGDP, Activity, Primary, Agriculture, KRW tn",None,line
 "Korea, RGDP, Activity, Primary, Agriculture, SA, KRW tn","Korea, RGDP, Activity, Primary, Agriculture, SA, KRW tn",None,line
+"Korea, RGDP, Activity, Primary, Mining and quarrying, KRW tn","Korea, RGDP, Activity, Primary, Mining and quarrying, KRW tn",None,line
+"Korea, RGDP, Activity, Primary, Mining and quarrying, SA, KRW tn","Korea, RGDP, Activity, Primary, Mining and quarrying, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Primary, Mining, KRW tn","Korea, RGDP, Activity, Primary, Mining, KRW tn",None,line
 "Korea, RGDP, Activity, Primary, Mining, SA, KRW tn","Korea, RGDP, Activity, Primary, Mining, SA, KRW tn",None,line
 "Korea, RGDP, Activity, SA, KRW tn","Korea, RGDP, Activity, SA, KRW tn",None,line
@@ -2777,6 +2951,8 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Chemicals and chemical products, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Coke and refined petroleum products, SA, KRW tn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Computer and electronics, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Computer and electronics, KRW tn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Computer and electronics, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Computer, electronic and optical products, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Electrical equipment, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Electrical equipment, KRW tn",None,line
@@ -2792,30 +2968,44 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Non-metallic mineral products, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Other Manufacturing, repair and installation of machinery and equipment, SA, KRW tn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, KRW tn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Other manufacturing including repair, SA, KRW tn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, KRW tn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Other non-metallic mineral products, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Textile and leather products, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Transportation equipment, SA, KRW tn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, KRW tn",None,line
+"Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products including printing, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, KRW tn","Korea, RGDP, Activity, Secondary, Manufacturing, Wood and paper products, printing and reproduction of recorded media, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Electricity, KRW tn","Korea, RGDP, Activity, Secondary, Utilities, Electricity, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Electricity, SA, KRW tn","Korea, RGDP, Activity, Secondary, Utilities, Electricity, SA, KRW tn",None,line
+"Korea, RGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, KRW tn","Korea, RGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, KRW tn",None,line
+"Korea, RGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, KRW tn","Korea, RGDP, Activity, Secondary, Utilities, Gas and air conditioning supply, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, KRW tn","Korea, RGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, KRW tn","Korea, RGDP, Activity, Secondary, Utilities, Gas, steam and air conditioning supply, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, KRW tn","Korea, RGDP, Activity, Secondary, Utilities, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, SA, KRW tn","Korea, RGDP, Activity, Secondary, Utilities, SA, KRW tn",None,line
+"Korea, RGDP, Activity, Secondary, Utilities, Water supply and management, KRW tn","Korea, RGDP, Activity, Secondary, Utilities, Water supply and management, KRW tn",None,line
+"Korea, RGDP, Activity, Secondary, Utilities, Water supply and management, SA, KRW tn","Korea, RGDP, Activity, Secondary, Utilities, Water supply and management, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW tn","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, KRW tn",None,line
 "Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW tn","Korea, RGDP, Activity, Secondary, Utilities, Water supply, sewerage, waste management and remediation activities, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, KRW tn","Korea, RGDP, Activity, Taxes less subsidies on products, KRW tn",None,line
 "Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW tn","Korea, RGDP, Activity, Taxes less subsidies on products, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Accommodation and food services, KRW tn","Korea, RGDP, Activity, Tertiary, Accommodation and food services, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Accommodation and food services, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Accommodation and food services, SA, KRW tn",None,line
+"Korea, RGDP, Activity, Tertiary, Arts and sports, KRW tn","Korea, RGDP, Activity, Tertiary, Arts and sports, KRW tn",None,line
+"Korea, RGDP, Activity, Tertiary, Arts and sports, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Arts and sports, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Arts, sports and recreation, KRW tn","Korea, RGDP, Activity, Tertiary, Arts, sports and recreation, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Arts, sports and recreation, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Arts, sports and recreation, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, Business support services, KRW tn","Korea, RGDP, Activity, Tertiary, Business activities, Business support services, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, Business support services, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Business activities, Business support services, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, KRW tn","Korea, RGDP, Activity, Tertiary, Business activities, KRW tn",None,line
+"Korea, RGDP, Activity, Tertiary, Business activities, Professional and technical services, KRW tn","Korea, RGDP, Activity, Tertiary, Business activities, Professional and technical services, KRW tn",None,line
+"Korea, RGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Business activities, Professional and technical services, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, KRW tn","Korea, RGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Business activities, Professional, scientific and technical services, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Business activities, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Business activities, SA, KRW tn",None,line
@@ -2830,12 +3020,16 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Activity, Tertiary, Information and communication, Communication, KRW tn","Korea, RGDP, Activity, Tertiary, Information and communication, Communication, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, Communication, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Information and communication, Communication, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, KRW tn","Korea, RGDP, Activity, Tertiary, Information and communication, KRW tn",None,line
+"Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, KRW tn","Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, KRW tn",None,line
+"Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, KRW tn","Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Information and communication, Publishing, broadcasting, motion picture, video and television programme production, and information service, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Information and communication, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Information and communication, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, KRW tn","Korea, RGDP, Activity, Tertiary, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Other services, KRW tn","Korea, RGDP, Activity, Tertiary, Other services, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Other services, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Other services, SA, KRW tn",None,line
+"Korea, RGDP, Activity, Tertiary, Public administration including defence and social security, KRW tn","Korea, RGDP, Activity, Tertiary, Public administration including defence and social security, KRW tn",None,line
+"Korea, RGDP, Activity, Tertiary, Public administration including defence and social security, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Public administration including defence and social security, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Public administration, defence and social security, KRW tn","Korea, RGDP, Activity, Tertiary, Public administration, defence and social security, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Public administration, defence and social security, SA, KRW tn","Korea, RGDP, Activity, Tertiary, Public administration, defence and social security, SA, KRW tn",None,line
 "Korea, RGDP, Activity, Tertiary, Real estate, KRW tn","Korea, RGDP, Activity, Tertiary, Real estate, KRW tn",None,line
@@ -2992,6 +3186,8 @@ name,display_name,data_type,chart_type
 "Korea, RGDP, Expenditure, Domestic demand, Excluding inventories, SA, KRW tn","Korea, RGDP, Expenditure, Domestic demand, Excluding inventories, SA, KRW tn",None,line
 "Korea, RGDP, Expenditure, Domestic demand, Private, Excluding inventories, SA, KRW tn","Korea, RGDP, Expenditure, Domestic demand, Private, Excluding inventories, SA, KRW tn",None,line
 "Korea, RGDP, Expenditure, Domestic demand, Public, Excluding inventories, SA, KRW tn","Korea, RGDP, Expenditure, Domestic demand, Public, Excluding inventories, SA, KRW tn",None,line
+"Korea, RGDP, Trading gains, Nowcast, SA, KRW tn","Korea, RGDP, Trading gains, Nowcast, SA, KRW tn",None,line
+"Korea, RGDI, Nowcast, SA, KRW tn","Korea, RGDI, Nowcast, SA, KRW tn",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Final consumption expenditure, SA, KRW tn, 2013-19 trend","Korea, NGDP, Expenditure, Domestic demand, Final consumption expenditure, SA, KRW tn, 2013-19 trend",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Government consumption, SA, KRW tn, 2013-19 trend","Korea, NGDP, Expenditure, Domestic demand, Government consumption, SA, KRW tn, 2013-19 trend",None,line
 "Korea, NGDP, Expenditure, Domestic demand, Gross capital formation, Gross fixed capital formation, Buildings and structures, SA, KRW tn, 2013-19 trend","Korea, NGDP, Expenditure, Domestic demand, Gross capital formation, Gross fixed capital formation, Buildings and structures, SA, KRW tn, 2013-19 trend",None,line
