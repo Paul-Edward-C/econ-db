@@ -11,9 +11,9 @@ name,display_name,data_type,chart_type
 "Taiwan, PPI, Services, Postal and courier","Taiwan, PPI, Services, Postal and courier",None,line
 "Taiwan, PPI, Services, Accomodation","Taiwan, PPI, Services, Accomodation",None,line
 "Taiwan, PPI, Services, Food and beverage","Taiwan, PPI, Services, Food and beverage",None,line
+"Taiwan, PPI, Services, nan","Taiwan, PPI, Services, nan",None,line
 "Taiwan, PPI, Services, Banking","Taiwan, PPI, Services, Banking",None,line
 "Taiwan, PPI, Services, Insurance","Taiwan, PPI, Services, Insurance",None,line
-"Taiwan, PPI, Services, Securities","Taiwan, PPI, Services, Securities",None,line
 "Taiwan, PPI, Goods, All items, % YoY","Taiwan, PPI, Goods, All items, % YoY",None,line
 "Taiwan, PPI, Goods, Agriculture, Forestry, Fishing and animal husbandry products, % YoY","Taiwan, PPI, Goods, Agriculture, Forestry, Fishing and animal husbandry products, % YoY",None,line
 "Taiwan, PPI, Goods, Quarrying and mining products, % YoY","Taiwan, PPI, Goods, Quarrying and mining products, % YoY",None,line
@@ -26,9 +26,9 @@ name,display_name,data_type,chart_type
 "Taiwan, PPI, Services, Postal and courier, % YoY","Taiwan, PPI, Services, Postal and courier, % YoY",None,line
 "Taiwan, PPI, Services, Accomodation, % YoY","Taiwan, PPI, Services, Accomodation, % YoY",None,line
 "Taiwan, PPI, Services, Food and beverage, % YoY","Taiwan, PPI, Services, Food and beverage, % YoY",None,line
+"Taiwan, PPI, Services, nan, % YoY","Taiwan, PPI, Services, nan, % YoY",None,line
 "Taiwan, PPI, Services, Banking, % YoY","Taiwan, PPI, Services, Banking, % YoY",None,line
 "Taiwan, PPI, Services, Insurance, % YoY","Taiwan, PPI, Services, Insurance, % YoY",None,line
-"Taiwan, PPI, Services, Securities, % YoY","Taiwan, PPI, Services, Securities, % YoY",None,line
 "Taiwan, PPI, Goods, All items, 3mma","Taiwan, PPI, Goods, All items, 3mma",None,line
 "Taiwan, PPI, Goods, Agriculture, Forestry, Fishing and animal husbandry products, 3mma","Taiwan, PPI, Goods, Agriculture, Forestry, Fishing and animal husbandry products, 3mma",None,line
 "Taiwan, PPI, Goods, Quarrying and mining products, 3mma","Taiwan, PPI, Goods, Quarrying and mining products, 3mma",None,line
@@ -41,9 +41,9 @@ name,display_name,data_type,chart_type
 "Taiwan, PPI, Services, Postal and courier, 3mma","Taiwan, PPI, Services, Postal and courier, 3mma",None,line
 "Taiwan, PPI, Services, Accomodation, 3mma","Taiwan, PPI, Services, Accomodation, 3mma",None,line
 "Taiwan, PPI, Services, Food and beverage, 3mma","Taiwan, PPI, Services, Food and beverage, 3mma",None,line
+"Taiwan, PPI, Services, nan, 3mma","Taiwan, PPI, Services, nan, 3mma",None,line
 "Taiwan, PPI, Services, Banking, 3mma","Taiwan, PPI, Services, Banking, 3mma",None,line
 "Taiwan, PPI, Services, Insurance, 3mma","Taiwan, PPI, Services, Insurance, 3mma",None,line
-"Taiwan, PPI, Services, Securities, 3mma","Taiwan, PPI, Services, Securities, 3mma",None,line
 "Taiwan, PPI, Goods, All items, % YoY, 3mma","Taiwan, PPI, Goods, All items, % YoY, 3mma",None,line
 "Taiwan, PPI, Goods, Agriculture, Forestry, Fishing and animal husbandry products, % YoY, 3mma","Taiwan, PPI, Goods, Agriculture, Forestry, Fishing and animal husbandry products, % YoY, 3mma",None,line
 "Taiwan, PPI, Goods, Quarrying and mining products, % YoY, 3mma","Taiwan, PPI, Goods, Quarrying and mining products, % YoY, 3mma",None,line
@@ -56,6 +56,6 @@ name,display_name,data_type,chart_type
 "Taiwan, PPI, Services, Postal and courier, % YoY, 3mma","Taiwan, PPI, Services, Postal and courier, % YoY, 3mma",None,line
 "Taiwan, PPI, Services, Accomodation, % YoY, 3mma","Taiwan, PPI, Services, Accomodation, % YoY, 3mma",None,line
 "Taiwan, PPI, Services, Food and beverage, % YoY, 3mma","Taiwan, PPI, Services, Food and beverage, % YoY, 3mma",None,line
+"Taiwan, PPI, Services, nan, % YoY, 3mma","Taiwan, PPI, Services, nan, % YoY, 3mma",None,line
 "Taiwan, PPI, Services, Banking, % YoY, 3mma","Taiwan, PPI, Services, Banking, % YoY, 3mma",None,line
 "Taiwan, PPI, Services, Insurance, % YoY, 3mma","Taiwan, PPI, Services, Insurance, % YoY, 3mma",None,line
-"Taiwan, PPI, Services, Securities, % YoY, 3mma","Taiwan, PPI, Services, Securities, % YoY, 3mma",None,line
