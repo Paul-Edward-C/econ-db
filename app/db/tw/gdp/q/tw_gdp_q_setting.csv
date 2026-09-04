@@ -4890,5 +4890,7 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDI, RGDP, Contribution to YoY chg, ppts","Taiwan, RGDI, RGDP, Contribution to YoY chg, ppts",None,bar
 "Taiwan, RGDI, Trading gains, Contribution to YoY chg, ppts","Taiwan, RGDI, Trading gains, Contribution to YoY chg, ppts",None,bar
 "Taiwan, RGDI, TWD, % YoY","Taiwan, RGDI, TWD, % YoY",None,line
-"Taiwan, NGDP, RGDP, Contribution to YoY chg, ppts","Taiwan, NGDP, RGDP, Contribution to YoY chg, ppts",None,bar
-"Taiwan, NGDP, Deflator, Contribution to YoY chg, ppts","Taiwan, NGDP, Deflator, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Expenditure, Contribution to % YoY chg in NGDP, ppts","Taiwan, RGDP, Expenditure, Contribution to % YoY chg in NGDP, ppts",None,bar
+"Taiwan, Deflator, Expenditure, Contribution to % YoY chg in NGDP, ppts","Taiwan, Deflator, Expenditure, Contribution to % YoY chg in NGDP, ppts",None,bar
+"Taiwan, RGDP, Expenditure, Contribution to % YoY chg in NGDP, SA, ppts","Taiwan, RGDP, Expenditure, Contribution to % YoY chg in NGDP, SA, ppts",None,bar
+"Taiwan, Deflator, Expenditure, Contribution to % YoY chg in NGDP, SA, ppts","Taiwan, Deflator, Expenditure, Contribution to % YoY chg in NGDP, SA, ppts",None,bar

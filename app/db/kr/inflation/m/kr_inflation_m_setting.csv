@@ -1305,6 +1305,12 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Core excluding mobile phone charges, % YoY","Korea, CPI, Core excluding mobile phone charges, % YoY",None,line
 "Korea, CPI, Services, Public services, Mobile phone charges, % YoY","Korea, CPI, Services, Public services, Mobile phone charges, % YoY",None,line
 "Korea, CPI, Services, Public services, Mobile phone charges, Contribution to YoY chg in core CPI, ppts","Korea, CPI, Services, Public services, Mobile phone charges, Contribution to YoY chg in core CPI, ppts",None,bar
+"Korea, CPI, Public services, Calculated, Index","Korea, CPI, Public services, Calculated, Index",None,line
+"Korea, CPI, Public services excluding international air travel, Index","Korea, CPI, Public services excluding international air travel, Index",None,line
+"Korea, CPI, Public services, Calculated, % YoY","Korea, CPI, Public services, Calculated, % YoY",None,line
+"Korea, CPI, Public services excluding international air travel, % YoY","Korea, CPI, Public services excluding international air travel, % YoY",None,line
+"Korea, CPI, Services, Public services, International air travel, % YoY","Korea, CPI, Services, Public services, International air travel, % YoY",None,line
+"Korea, CPI, Services, Public services, International air travel, Contribution to YoY chg in public services, ppts","Korea, CPI, Services, Public services, International air travel, Contribution to YoY chg in public services, ppts",None,bar
 "Korea, CPI, All items, Index, SA","Korea, CPI, All items, Index, SA",None,line
 "Korea, CPI, All items excluding food and energy, Index, SA","Korea, CPI, All items excluding food and energy, Index, SA",None,line
 "Korea, CPI, Goods, Industrial products, Index, SA","Korea, CPI, Goods, Industrial products, Index, SA",None,line
@@ -2714,6 +2720,12 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Core excluding mobile phone charges, % YoY, 3mma","Korea, CPI, Core excluding mobile phone charges, % YoY, 3mma",None,line
 "Korea, CPI, Services, Public services, Mobile phone charges, % YoY, 3mma","Korea, CPI, Services, Public services, Mobile phone charges, % YoY, 3mma",None,line
 "Korea, CPI, Services, Public services, Mobile phone charges, Contribution to YoY chg in core CPI, ppts, 3mma","Korea, CPI, Services, Public services, Mobile phone charges, Contribution to YoY chg in core CPI, ppts, 3mma",None,bar
+"Korea, CPI, Public services, Calculated, Index, 3mma","Korea, CPI, Public services, Calculated, Index, 3mma",None,line
+"Korea, CPI, Public services excluding international air travel, Index, 3mma","Korea, CPI, Public services excluding international air travel, Index, 3mma",None,line
+"Korea, CPI, Public services, Calculated, % YoY, 3mma","Korea, CPI, Public services, Calculated, % YoY, 3mma",None,line
+"Korea, CPI, Public services excluding international air travel, % YoY, 3mma","Korea, CPI, Public services excluding international air travel, % YoY, 3mma",None,line
+"Korea, CPI, Services, Public services, International air travel, % YoY, 3mma","Korea, CPI, Services, Public services, International air travel, % YoY, 3mma",None,line
+"Korea, CPI, Services, Public services, International air travel, Contribution to YoY chg in public services, ppts, 3mma","Korea, CPI, Services, Public services, International air travel, Contribution to YoY chg in public services, ppts, 3mma",None,bar
 "Korea, CPI, All items, Index, SA, 3mma","Korea, CPI, All items, Index, SA, 3mma",None,line
 "Korea, CPI, All items excluding food and energy, Index, SA, 3mma","Korea, CPI, All items excluding food and energy, Index, SA, 3mma",None,line
 "Korea, CPI, Goods, Industrial products, Index, SA, 3mma","Korea, CPI, Goods, Industrial products, Index, SA, 3mma",None,line
