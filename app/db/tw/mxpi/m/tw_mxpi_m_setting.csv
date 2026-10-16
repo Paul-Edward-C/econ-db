@@ -3,11 +3,11 @@ name,display_name,data_type,chart_type
 "Taiwan, EPI, USD basis, Animal products, Index","Taiwan, EPI, USD basis, Animal products, Index",None,line
 "Taiwan, EPI, USD basis, Animal products, Fish and crustaceans, Index","Taiwan, EPI, USD basis, Animal products, Fish and crustaceans, Index",None,line
 "Taiwan, EPI, USD basis, Vegetable products, Index","Taiwan, EPI, USD basis, Vegetable products, Index",None,line
-"Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Index","Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Index",None,line
+"Taiwan, EPI, USD basis, Prepared foodstuffs including beverages and tobacco, Index","Taiwan, EPI, USD basis, Prepared foodstuffs including beverages and tobacco, Index",None,line
 "Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index","Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index",None,line
 "Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index","Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index",None,line
 "Taiwan, EPI, USD basis, Mineral products, Index","Taiwan, EPI, USD basis, Mineral products, Index",None,line
-"Taiwan, EPI, USD basis, Mineral products, Energy minerals, Index","Taiwan, EPI, USD basis, Mineral products, Energy minerals, Index",None,line
+"Taiwan, EPI, USD basis, Energy minerals, Index","Taiwan, EPI, USD basis, Energy minerals, Index",None,line
 "Taiwan, EPI, USD basis, Chemicals, Index","Taiwan, EPI, USD basis, Chemicals, Index",None,line
 "Taiwan, EPI, USD basis, Chemicals, Inorganic chemicals, Index","Taiwan, EPI, USD basis, Chemicals, Inorganic chemicals, Index",None,line
 "Taiwan, EPI, USD basis, Chemicals, Organic chemicals, Index","Taiwan, EPI, USD basis, Chemicals, Organic chemicals, Index",None,line
@@ -56,11 +56,11 @@ name,display_name,data_type,chart_type
 "Taiwan, EPI, TWD basis, Animal products, Index","Taiwan, EPI, TWD basis, Animal products, Index",None,line
 "Taiwan, EPI, TWD basis, Animal products, Fish and crustaceans, Index","Taiwan, EPI, TWD basis, Animal products, Fish and crustaceans, Index",None,line
 "Taiwan, EPI, TWD basis, Vegetable products, Index","Taiwan, EPI, TWD basis, Vegetable products, Index",None,line
-"Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Index","Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Index",None,line
+"Taiwan, EPI, TWD basis, Prepared foodstuffs including beverages and tobacco, Index","Taiwan, EPI, TWD basis, Prepared foodstuffs including beverages and tobacco, Index",None,line
 "Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index","Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index",None,line
 "Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index","Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index",None,line
 "Taiwan, EPI, TWD basis, Mineral products, Index","Taiwan, EPI, TWD basis, Mineral products, Index",None,line
-"Taiwan, EPI, TWD basis, Mineral products, Energy minerals, Index","Taiwan, EPI, TWD basis, Mineral products, Energy minerals, Index",None,line
+"Taiwan, EPI, TWD basis, Energy minerals, Index","Taiwan, EPI, TWD basis, Energy minerals, Index",None,line
 "Taiwan, EPI, TWD basis, Chemicals, Index","Taiwan, EPI, TWD basis, Chemicals, Index",None,line
 "Taiwan, EPI, TWD basis, Chemicals, Inorganic chemicals, Index","Taiwan, EPI, TWD basis, Chemicals, Inorganic chemicals, Index",None,line
 "Taiwan, EPI, TWD basis, Chemicals, Organic chemicals, Index","Taiwan, EPI, TWD basis, Chemicals, Organic chemicals, Index",None,line
@@ -123,17 +123,147 @@ name,display_name,data_type,chart_type
 "Taiwan, MPI, TWD basis, Consumer goods, Index","Taiwan, MPI, TWD basis, Consumer goods, Index",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Nondurable, Index","Taiwan, MPI, TWD basis, Consumer goods, Nondurable, Index",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Durable, Index","Taiwan, MPI, TWD basis, Consumer goods, Durable, Index",None,line
+"Taiwan, MPI, TWD basis, Animal products, Index","Taiwan, MPI, TWD basis, Animal products, Index",None,line
+"Taiwan, MPI, TWD basis, Animal products, Meat, Index","Taiwan, MPI, TWD basis, Animal products, Meat, Index",None,line
+"Taiwan, MPI, TWD basis, Animal products, Fish and crustaceans, Index","Taiwan, MPI, TWD basis, Animal products, Fish and crustaceans, Index",None,line
+"Taiwan, MPI, TWD basis, Dairy, Index","Taiwan, MPI, TWD basis, Dairy, Index",None,line
+"Taiwan, MPI, TWD basis, Vegetable products, Index","Taiwan, MPI, TWD basis, Vegetable products, Index",None,line
+"Taiwan, MPI, TWD basis, Edible fruit and nuts, Index","Taiwan, MPI, TWD basis, Edible fruit and nuts, Index",None,line
+"Taiwan, MPI, TWD basis, Cereals, Index","Taiwan, MPI, TWD basis, Cereals, Index",None,line
+"Taiwan, MPI, TWD basis, Cereals, Corn, Index","Taiwan, MPI, TWD basis, Cereals, Corn, Index",None,line
+"Taiwan, MPI, TWD basis, Oil seeds, Index","Taiwan, MPI, TWD basis, Oil seeds, Index",None,line
+"Taiwan, MPI, TWD basis, Oil seeds, Soybeans, Index","Taiwan, MPI, TWD basis, Oil seeds, Soybeans, Index",None,line
+"Taiwan, MPI, TWD basis, Prepared foodstuffs including beverages and tobacco, Index","Taiwan, MPI, TWD basis, Prepared foodstuffs including beverages and tobacco, Index",None,line
+"Taiwan, MPI, TWD basis, Preparations of meat and fish, Index","Taiwan, MPI, TWD basis, Preparations of meat and fish, Index",None,line
+"Taiwan, MPI, TWD basis, Sugars and confectionery, Index","Taiwan, MPI, TWD basis, Sugars and confectionery, Index",None,line
+"Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index","Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous edible preparations, Index","Taiwan, MPI, TWD basis, Miscellaneous edible preparations, Index",None,line
+"Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index","Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index",None,line
+"Taiwan, MPI, TWD basis, Residues from food industries, Index","Taiwan, MPI, TWD basis, Residues from food industries, Index",None,line
+"Taiwan, MPI, TWD basis, Mineral products, Index","Taiwan, MPI, TWD basis, Mineral products, Index",None,line
+"Taiwan, MPI, TWD basis, Salt and stone, Index","Taiwan, MPI, TWD basis, Salt and stone, Index",None,line
+"Taiwan, MPI, TWD basis, Energy minerals, Index","Taiwan, MPI, TWD basis, Energy minerals, Index",None,line
+"Taiwan, MPI, TWD basis, Energy minerals, Petroleum, Index","Taiwan, MPI, TWD basis, Energy minerals, Petroleum, Index",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Index","Taiwan, MPI, TWD basis, Chemicals, Index",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Inorganic chemicals, Index","Taiwan, MPI, TWD basis, Chemicals, Inorganic chemicals, Index",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Organic chemicals, Index","Taiwan, MPI, TWD basis, Chemicals, Organic chemicals, Index",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Ch.pharmaceutical products, Index","Taiwan, MPI, TWD basis, Chemicals, Ch.pharmaceutical products, Index",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Colouring matter and paints, Index","Taiwan, MPI, TWD basis, Chemicals, Colouring matter and paints, Index",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Perfume, Index","Taiwan, MPI, TWD basis, Chemicals, Perfume, Index",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Surface-active agents, Index","Taiwan, MPI, TWD basis, Chemicals, Surface-active agents, Index",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Albuminoidal, Index","Taiwan, MPI, TWD basis, Chemicals, Albuminoidal, Index",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Photographic or cinematographic, Index","Taiwan, MPI, TWD basis, Chemicals, Photographic or cinematographic, Index",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Miscellaneous chemicals, Index","Taiwan, MPI, TWD basis, Chemicals, Miscellaneous chemicals, Index",None,line
+"Taiwan, MPI, TWD basis, Plastics and rubber, Index","Taiwan, MPI, TWD basis, Plastics and rubber, Index",None,line
+"Taiwan, MPI, TWD basis, Plastics and rubber, Plastics, Index","Taiwan, MPI, TWD basis, Plastics and rubber, Plastics, Index",None,line
+"Taiwan, MPI, TWD basis, Plastics and rubber, Rubber, Index","Taiwan, MPI, TWD basis, Plastics and rubber, Rubber, Index",None,line
+"Taiwan, MPI, TWD basis, Wood, Index","Taiwan, MPI, TWD basis, Wood, Index",None,line
+"Taiwan, MPI, TWD basis, Wood, Wood, Index","Taiwan, MPI, TWD basis, Wood, Wood, Index",None,line
+"Taiwan, MPI, TWD basis, Wood pulp and paper, Index","Taiwan, MPI, TWD basis, Wood pulp and paper, Index",None,line
+"Taiwan, MPI, TWD basis, Wood pulp and paper, Wood pulp, Index","Taiwan, MPI, TWD basis, Wood pulp and paper, Wood pulp, Index",None,line
+"Taiwan, MPI, TWD basis, Wood pulp and paper, Paper, Index","Taiwan, MPI, TWD basis, Wood pulp and paper, Paper, Index",None,line
+"Taiwan, MPI, TWD basis, Textiles and textile articles, Index","Taiwan, MPI, TWD basis, Textiles and textile articles, Index",None,line
+"Taiwan, MPI, TWD basis, Textiles and textile articles, Knitted, Index","Taiwan, MPI, TWD basis, Textiles and textile articles, Knitted, Index",None,line
+"Taiwan, MPI, TWD basis, Textiles and textile articles, Not knitted, Index","Taiwan, MPI, TWD basis, Textiles and textile articles, Not knitted, Index",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, Index","Taiwan, MPI, TWD basis, Stone materials and glass, Index",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, Stone and cement, Index","Taiwan, MPI, TWD basis, Stone materials and glass, Stone and cement, Index",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, Ceramics, Index","Taiwan, MPI, TWD basis, Stone materials and glass, Ceramics, Index",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, Glass, Index","Taiwan, MPI, TWD basis, Stone materials and glass, Glass, Index",None,line
+"Taiwan, MPI, TWD basis, Base metals, Index","Taiwan, MPI, TWD basis, Base metals, Index",None,line
+"Taiwan, MPI, TWD basis, Base metals, Iron and steel, Index","Taiwan, MPI, TWD basis, Base metals, Iron and steel, Index",None,line
+"Taiwan, MPI, TWD basis, Base metals, Articles of iron or steel, Index","Taiwan, MPI, TWD basis, Base metals, Articles of iron or steel, Index",None,line
+"Taiwan, MPI, TWD basis, Base metals, Copper, Index","Taiwan, MPI, TWD basis, Base metals, Copper, Index",None,line
+"Taiwan, MPI, TWD basis, Base metals, Aluminium, Index","Taiwan, MPI, TWD basis, Base metals, Aluminium, Index",None,line
+"Taiwan, MPI, TWD basis, Base metals, Tools and parts of base metal, Index","Taiwan, MPI, TWD basis, Base metals, Tools and parts of base metal, Index",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, Index","Taiwan, MPI, TWD basis, Machinery and electrical equipment, Index",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, Boilers and machinery, Index","Taiwan, MPI, TWD basis, Machinery and electrical equipment, Boilers and machinery, Index",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, Electrical machinery, Index","Taiwan, MPI, TWD basis, Machinery and electrical equipment, Electrical machinery, Index",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, Integrated circuits, Index","Taiwan, MPI, TWD basis, Machinery and electrical equipment, Integrated circuits, Index",None,line
+"Taiwan, MPI, TWD basis, Transportation equipment, Index","Taiwan, MPI, TWD basis, Transportation equipment, Index",None,line
+"Taiwan, MPI, TWD basis, Transportation equipment, Transportation equipment, Index","Taiwan, MPI, TWD basis, Transportation equipment, Transportation equipment, Index",None,line
+"Taiwan, MPI, TWD basis, Optical and measuring instruments, Index","Taiwan, MPI, TWD basis, Optical and measuring instruments, Index",None,line
+"Taiwan, MPI, TWD basis, Optical and measuring instruments, Optica, Index","Taiwan, MPI, TWD basis, Optical and measuring instruments, Optica, Index",None,line
+"Taiwan, MPI, TWD basis, Optical and measuring instruments, Clocks and watches, Index","Taiwan, MPI, TWD basis, Optical and measuring instruments, Clocks and watches, Index",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Index","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Index",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Furniture, Index","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Furniture, Index",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Toys, Index","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Toys, Index",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Miscellaneous, Index","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Miscellaneous, Index",None,line
+"Taiwan, MPI, USD basis, Animal products, Index","Taiwan, MPI, USD basis, Animal products, Index",None,line
+"Taiwan, MPI, USD basis, Animal products, Meat, Index","Taiwan, MPI, USD basis, Animal products, Meat, Index",None,line
+"Taiwan, MPI, USD basis, Animal products, Fish and crustaceans, Index","Taiwan, MPI, USD basis, Animal products, Fish and crustaceans, Index",None,line
+"Taiwan, MPI, USD basis, Dairy, Index","Taiwan, MPI, USD basis, Dairy, Index",None,line
+"Taiwan, MPI, USD basis, Vegetable products, Index","Taiwan, MPI, USD basis, Vegetable products, Index",None,line
+"Taiwan, MPI, USD basis, Edible fruit and nuts, Index","Taiwan, MPI, USD basis, Edible fruit and nuts, Index",None,line
+"Taiwan, MPI, USD basis, Cereals, Index","Taiwan, MPI, USD basis, Cereals, Index",None,line
+"Taiwan, MPI, USD basis, Cereals, Corn, Index","Taiwan, MPI, USD basis, Cereals, Corn, Index",None,line
+"Taiwan, MPI, USD basis, Oil seeds, Index","Taiwan, MPI, USD basis, Oil seeds, Index",None,line
+"Taiwan, MPI, USD basis, Oil seeds, Soybeans, Index","Taiwan, MPI, USD basis, Oil seeds, Soybeans, Index",None,line
+"Taiwan, MPI, USD basis, Prepared foodstuffs including beverages and tobacco, Index","Taiwan, MPI, USD basis, Prepared foodstuffs including beverages and tobacco, Index",None,line
+"Taiwan, MPI, USD basis, Preparations of meat and fish, Index","Taiwan, MPI, USD basis, Preparations of meat and fish, Index",None,line
+"Taiwan, MPI, USD basis, Sugars and confectionery, Index","Taiwan, MPI, USD basis, Sugars and confectionery, Index",None,line
+"Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index","Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index",None,line
+"Taiwan, MPI, USD basis, Miscellaneous edible preparations, Index","Taiwan, MPI, USD basis, Miscellaneous edible preparations, Index",None,line
+"Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index","Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index",None,line
+"Taiwan, MPI, USD basis, Residues from food industries, Index","Taiwan, MPI, USD basis, Residues from food industries, Index",None,line
+"Taiwan, MPI, USD basis, Mineral products, Index","Taiwan, MPI, USD basis, Mineral products, Index",None,line
+"Taiwan, MPI, USD basis, Salt and stone, Index","Taiwan, MPI, USD basis, Salt and stone, Index",None,line
+"Taiwan, MPI, USD basis, Energy minerals, Index","Taiwan, MPI, USD basis, Energy minerals, Index",None,line
+"Taiwan, MPI, USD basis, Energy minerals, Petroleum, Index","Taiwan, MPI, USD basis, Energy minerals, Petroleum, Index",None,line
+"Taiwan, MPI, USD basis, Chemicals, Index","Taiwan, MPI, USD basis, Chemicals, Index",None,line
+"Taiwan, MPI, USD basis, Chemicals, Inorganic chemicals, Index","Taiwan, MPI, USD basis, Chemicals, Inorganic chemicals, Index",None,line
+"Taiwan, MPI, USD basis, Chemicals, Organic chemicals, Index","Taiwan, MPI, USD basis, Chemicals, Organic chemicals, Index",None,line
+"Taiwan, MPI, USD basis, Chemicals, Ch.pharmaceutical products, Index","Taiwan, MPI, USD basis, Chemicals, Ch.pharmaceutical products, Index",None,line
+"Taiwan, MPI, USD basis, Chemicals, Colouring matter and paints, Index","Taiwan, MPI, USD basis, Chemicals, Colouring matter and paints, Index",None,line
+"Taiwan, MPI, USD basis, Chemicals, Perfume, Index","Taiwan, MPI, USD basis, Chemicals, Perfume, Index",None,line
+"Taiwan, MPI, USD basis, Chemicals, Surface-active agents, Index","Taiwan, MPI, USD basis, Chemicals, Surface-active agents, Index",None,line
+"Taiwan, MPI, USD basis, Chemicals, Albuminoidal, Index","Taiwan, MPI, USD basis, Chemicals, Albuminoidal, Index",None,line
+"Taiwan, MPI, USD basis, Chemicals, Photographic or cinematographic, Index","Taiwan, MPI, USD basis, Chemicals, Photographic or cinematographic, Index",None,line
+"Taiwan, MPI, USD basis, Chemicals, Miscellaneous chemicals, Index","Taiwan, MPI, USD basis, Chemicals, Miscellaneous chemicals, Index",None,line
+"Taiwan, MPI, USD basis, Plastics and rubber, Index","Taiwan, MPI, USD basis, Plastics and rubber, Index",None,line
+"Taiwan, MPI, USD basis, Plastics and rubber, Plastics, Index","Taiwan, MPI, USD basis, Plastics and rubber, Plastics, Index",None,line
+"Taiwan, MPI, USD basis, Plastics and rubber, Rubber, Index","Taiwan, MPI, USD basis, Plastics and rubber, Rubber, Index",None,line
+"Taiwan, MPI, USD basis, Wood, Index","Taiwan, MPI, USD basis, Wood, Index",None,line
+"Taiwan, MPI, USD basis, Wood, Wood, Index","Taiwan, MPI, USD basis, Wood, Wood, Index",None,line
+"Taiwan, MPI, USD basis, Wood pulp and paper, Index","Taiwan, MPI, USD basis, Wood pulp and paper, Index",None,line
+"Taiwan, MPI, USD basis, Wood pulp and paper, Wood pulp, Index","Taiwan, MPI, USD basis, Wood pulp and paper, Wood pulp, Index",None,line
+"Taiwan, MPI, USD basis, Wood pulp and paper, Paper, Index","Taiwan, MPI, USD basis, Wood pulp and paper, Paper, Index",None,line
+"Taiwan, MPI, USD basis, Textiles and textile articles, Index","Taiwan, MPI, USD basis, Textiles and textile articles, Index",None,line
+"Taiwan, MPI, USD basis, Textiles and textile articles, Knitted, Index","Taiwan, MPI, USD basis, Textiles and textile articles, Knitted, Index",None,line
+"Taiwan, MPI, USD basis, Textiles and textile articles, Not knitted, Index","Taiwan, MPI, USD basis, Textiles and textile articles, Not knitted, Index",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, Index","Taiwan, MPI, USD basis, Stone materials and glass, Index",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, Stone and cement, Index","Taiwan, MPI, USD basis, Stone materials and glass, Stone and cement, Index",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, Ceramics, Index","Taiwan, MPI, USD basis, Stone materials and glass, Ceramics, Index",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, Glass, Index","Taiwan, MPI, USD basis, Stone materials and glass, Glass, Index",None,line
+"Taiwan, MPI, USD basis, Base metals, Index","Taiwan, MPI, USD basis, Base metals, Index",None,line
+"Taiwan, MPI, USD basis, Base metals, Iron and steel, Index","Taiwan, MPI, USD basis, Base metals, Iron and steel, Index",None,line
+"Taiwan, MPI, USD basis, Base metals, Articles of iron or steel, Index","Taiwan, MPI, USD basis, Base metals, Articles of iron or steel, Index",None,line
+"Taiwan, MPI, USD basis, Base metals, Copper, Index","Taiwan, MPI, USD basis, Base metals, Copper, Index",None,line
+"Taiwan, MPI, USD basis, Base metals, Aluminium, Index","Taiwan, MPI, USD basis, Base metals, Aluminium, Index",None,line
+"Taiwan, MPI, USD basis, Base metals, Tools and parts of base metal, Index","Taiwan, MPI, USD basis, Base metals, Tools and parts of base metal, Index",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, Index","Taiwan, MPI, USD basis, Machinery and electrical equipment, Index",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, Boilers and machinery, Index","Taiwan, MPI, USD basis, Machinery and electrical equipment, Boilers and machinery, Index",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, Electrical machinery, Index","Taiwan, MPI, USD basis, Machinery and electrical equipment, Electrical machinery, Index",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, Integrated circuits, Index","Taiwan, MPI, USD basis, Machinery and electrical equipment, Integrated circuits, Index",None,line
+"Taiwan, MPI, USD basis, Transportation equipment, Index","Taiwan, MPI, USD basis, Transportation equipment, Index",None,line
+"Taiwan, MPI, USD basis, Transportation equipment, Transportation equipment, Index","Taiwan, MPI, USD basis, Transportation equipment, Transportation equipment, Index",None,line
+"Taiwan, MPI, USD basis, Optical and measuring instruments, Index","Taiwan, MPI, USD basis, Optical and measuring instruments, Index",None,line
+"Taiwan, MPI, USD basis, Optical and measuring instruments, Optica, Index","Taiwan, MPI, USD basis, Optical and measuring instruments, Optica, Index",None,line
+"Taiwan, MPI, USD basis, Optical and measuring instruments, Clocks and watches, Index","Taiwan, MPI, USD basis, Optical and measuring instruments, Clocks and watches, Index",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Index","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Index",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Furniture, Index","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Furniture, Index",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Toys, Index","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Toys, Index",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Miscellaneous, Index","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Miscellaneous, Index",None,line
 "Taiwan, TOT, USD basis, Index","Taiwan, TOT, USD basis, Index",None,line
 "Taiwan, TOT, TWD basis, Index","Taiwan, TOT, TWD basis, Index",None,line
 "Taiwan, EPI, USD basis, % YoY","Taiwan, EPI, USD basis, % YoY",None,line
 "Taiwan, EPI, USD basis, Animal products, % YoY","Taiwan, EPI, USD basis, Animal products, % YoY",None,line
 "Taiwan, EPI, USD basis, Animal products, Fish and crustaceans, % YoY","Taiwan, EPI, USD basis, Animal products, Fish and crustaceans, % YoY",None,line
 "Taiwan, EPI, USD basis, Vegetable products, % YoY","Taiwan, EPI, USD basis, Vegetable products, % YoY",None,line
-"Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, % YoY","Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, % YoY",None,line
+"Taiwan, EPI, USD basis, Prepared foodstuffs including beverages and tobacco, % YoY","Taiwan, EPI, USD basis, Prepared foodstuffs including beverages and tobacco, % YoY",None,line
 "Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY","Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY",None,line
 "Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY","Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY",None,line
 "Taiwan, EPI, USD basis, Mineral products, % YoY","Taiwan, EPI, USD basis, Mineral products, % YoY",None,line
-"Taiwan, EPI, USD basis, Mineral products, Energy minerals, % YoY","Taiwan, EPI, USD basis, Mineral products, Energy minerals, % YoY",None,line
+"Taiwan, EPI, USD basis, Energy minerals, % YoY","Taiwan, EPI, USD basis, Energy minerals, % YoY",None,line
 "Taiwan, EPI, USD basis, Chemicals, % YoY","Taiwan, EPI, USD basis, Chemicals, % YoY",None,line
 "Taiwan, EPI, USD basis, Chemicals, Inorganic chemicals, % YoY","Taiwan, EPI, USD basis, Chemicals, Inorganic chemicals, % YoY",None,line
 "Taiwan, EPI, USD basis, Chemicals, Organic chemicals, % YoY","Taiwan, EPI, USD basis, Chemicals, Organic chemicals, % YoY",None,line
@@ -182,11 +312,11 @@ name,display_name,data_type,chart_type
 "Taiwan, EPI, TWD basis, Animal products, % YoY","Taiwan, EPI, TWD basis, Animal products, % YoY",None,line
 "Taiwan, EPI, TWD basis, Animal products, Fish and crustaceans, % YoY","Taiwan, EPI, TWD basis, Animal products, Fish and crustaceans, % YoY",None,line
 "Taiwan, EPI, TWD basis, Vegetable products, % YoY","Taiwan, EPI, TWD basis, Vegetable products, % YoY",None,line
-"Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, % YoY","Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, % YoY",None,line
+"Taiwan, EPI, TWD basis, Prepared foodstuffs including beverages and tobacco, % YoY","Taiwan, EPI, TWD basis, Prepared foodstuffs including beverages and tobacco, % YoY",None,line
 "Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY","Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY",None,line
 "Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY","Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY",None,line
 "Taiwan, EPI, TWD basis, Mineral products, % YoY","Taiwan, EPI, TWD basis, Mineral products, % YoY",None,line
-"Taiwan, EPI, TWD basis, Mineral products, Energy minerals, % YoY","Taiwan, EPI, TWD basis, Mineral products, Energy minerals, % YoY",None,line
+"Taiwan, EPI, TWD basis, Energy minerals, % YoY","Taiwan, EPI, TWD basis, Energy minerals, % YoY",None,line
 "Taiwan, EPI, TWD basis, Chemicals, % YoY","Taiwan, EPI, TWD basis, Chemicals, % YoY",None,line
 "Taiwan, EPI, TWD basis, Chemicals, Inorganic chemicals, % YoY","Taiwan, EPI, TWD basis, Chemicals, Inorganic chemicals, % YoY",None,line
 "Taiwan, EPI, TWD basis, Chemicals, Organic chemicals, % YoY","Taiwan, EPI, TWD basis, Chemicals, Organic chemicals, % YoY",None,line
@@ -249,6 +379,136 @@ name,display_name,data_type,chart_type
 "Taiwan, MPI, TWD basis, Consumer goods, % YoY","Taiwan, MPI, TWD basis, Consumer goods, % YoY",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Nondurable, % YoY","Taiwan, MPI, TWD basis, Consumer goods, Nondurable, % YoY",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Durable, % YoY","Taiwan, MPI, TWD basis, Consumer goods, Durable, % YoY",None,line
+"Taiwan, MPI, TWD basis, Animal products, % YoY","Taiwan, MPI, TWD basis, Animal products, % YoY",None,line
+"Taiwan, MPI, TWD basis, Animal products, Meat, % YoY","Taiwan, MPI, TWD basis, Animal products, Meat, % YoY",None,line
+"Taiwan, MPI, TWD basis, Animal products, Fish and crustaceans, % YoY","Taiwan, MPI, TWD basis, Animal products, Fish and crustaceans, % YoY",None,line
+"Taiwan, MPI, TWD basis, Dairy, % YoY","Taiwan, MPI, TWD basis, Dairy, % YoY",None,line
+"Taiwan, MPI, TWD basis, Vegetable products, % YoY","Taiwan, MPI, TWD basis, Vegetable products, % YoY",None,line
+"Taiwan, MPI, TWD basis, Edible fruit and nuts, % YoY","Taiwan, MPI, TWD basis, Edible fruit and nuts, % YoY",None,line
+"Taiwan, MPI, TWD basis, Cereals, % YoY","Taiwan, MPI, TWD basis, Cereals, % YoY",None,line
+"Taiwan, MPI, TWD basis, Cereals, Corn, % YoY","Taiwan, MPI, TWD basis, Cereals, Corn, % YoY",None,line
+"Taiwan, MPI, TWD basis, Oil seeds, % YoY","Taiwan, MPI, TWD basis, Oil seeds, % YoY",None,line
+"Taiwan, MPI, TWD basis, Oil seeds, Soybeans, % YoY","Taiwan, MPI, TWD basis, Oil seeds, Soybeans, % YoY",None,line
+"Taiwan, MPI, TWD basis, Prepared foodstuffs including beverages and tobacco, % YoY","Taiwan, MPI, TWD basis, Prepared foodstuffs including beverages and tobacco, % YoY",None,line
+"Taiwan, MPI, TWD basis, Preparations of meat and fish, % YoY","Taiwan, MPI, TWD basis, Preparations of meat and fish, % YoY",None,line
+"Taiwan, MPI, TWD basis, Sugars and confectionery, % YoY","Taiwan, MPI, TWD basis, Sugars and confectionery, % YoY",None,line
+"Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY","Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous edible preparations, % YoY","Taiwan, MPI, TWD basis, Miscellaneous edible preparations, % YoY",None,line
+"Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY","Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY",None,line
+"Taiwan, MPI, TWD basis, Residues from food industries, % YoY","Taiwan, MPI, TWD basis, Residues from food industries, % YoY",None,line
+"Taiwan, MPI, TWD basis, Mineral products, % YoY","Taiwan, MPI, TWD basis, Mineral products, % YoY",None,line
+"Taiwan, MPI, TWD basis, Salt and stone, % YoY","Taiwan, MPI, TWD basis, Salt and stone, % YoY",None,line
+"Taiwan, MPI, TWD basis, Energy minerals, % YoY","Taiwan, MPI, TWD basis, Energy minerals, % YoY",None,line
+"Taiwan, MPI, TWD basis, Energy minerals, Petroleum, % YoY","Taiwan, MPI, TWD basis, Energy minerals, Petroleum, % YoY",None,line
+"Taiwan, MPI, TWD basis, Chemicals, % YoY","Taiwan, MPI, TWD basis, Chemicals, % YoY",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Inorganic chemicals, % YoY","Taiwan, MPI, TWD basis, Chemicals, Inorganic chemicals, % YoY",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Organic chemicals, % YoY","Taiwan, MPI, TWD basis, Chemicals, Organic chemicals, % YoY",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Ch.pharmaceutical products, % YoY","Taiwan, MPI, TWD basis, Chemicals, Ch.pharmaceutical products, % YoY",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Colouring matter and paints, % YoY","Taiwan, MPI, TWD basis, Chemicals, Colouring matter and paints, % YoY",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Perfume, % YoY","Taiwan, MPI, TWD basis, Chemicals, Perfume, % YoY",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Surface-active agents, % YoY","Taiwan, MPI, TWD basis, Chemicals, Surface-active agents, % YoY",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Albuminoidal, % YoY","Taiwan, MPI, TWD basis, Chemicals, Albuminoidal, % YoY",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Photographic or cinematographic, % YoY","Taiwan, MPI, TWD basis, Chemicals, Photographic or cinematographic, % YoY",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Miscellaneous chemicals, % YoY","Taiwan, MPI, TWD basis, Chemicals, Miscellaneous chemicals, % YoY",None,line
+"Taiwan, MPI, TWD basis, Plastics and rubber, % YoY","Taiwan, MPI, TWD basis, Plastics and rubber, % YoY",None,line
+"Taiwan, MPI, TWD basis, Plastics and rubber, Plastics, % YoY","Taiwan, MPI, TWD basis, Plastics and rubber, Plastics, % YoY",None,line
+"Taiwan, MPI, TWD basis, Plastics and rubber, Rubber, % YoY","Taiwan, MPI, TWD basis, Plastics and rubber, Rubber, % YoY",None,line
+"Taiwan, MPI, TWD basis, Wood, % YoY","Taiwan, MPI, TWD basis, Wood, % YoY",None,line
+"Taiwan, MPI, TWD basis, Wood, Wood, % YoY","Taiwan, MPI, TWD basis, Wood, Wood, % YoY",None,line
+"Taiwan, MPI, TWD basis, Wood pulp and paper, % YoY","Taiwan, MPI, TWD basis, Wood pulp and paper, % YoY",None,line
+"Taiwan, MPI, TWD basis, Wood pulp and paper, Wood pulp, % YoY","Taiwan, MPI, TWD basis, Wood pulp and paper, Wood pulp, % YoY",None,line
+"Taiwan, MPI, TWD basis, Wood pulp and paper, Paper, % YoY","Taiwan, MPI, TWD basis, Wood pulp and paper, Paper, % YoY",None,line
+"Taiwan, MPI, TWD basis, Textiles and textile articles, % YoY","Taiwan, MPI, TWD basis, Textiles and textile articles, % YoY",None,line
+"Taiwan, MPI, TWD basis, Textiles and textile articles, Knitted, % YoY","Taiwan, MPI, TWD basis, Textiles and textile articles, Knitted, % YoY",None,line
+"Taiwan, MPI, TWD basis, Textiles and textile articles, Not knitted, % YoY","Taiwan, MPI, TWD basis, Textiles and textile articles, Not knitted, % YoY",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, % YoY","Taiwan, MPI, TWD basis, Stone materials and glass, % YoY",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, Stone and cement, % YoY","Taiwan, MPI, TWD basis, Stone materials and glass, Stone and cement, % YoY",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, Ceramics, % YoY","Taiwan, MPI, TWD basis, Stone materials and glass, Ceramics, % YoY",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, Glass, % YoY","Taiwan, MPI, TWD basis, Stone materials and glass, Glass, % YoY",None,line
+"Taiwan, MPI, TWD basis, Base metals, % YoY","Taiwan, MPI, TWD basis, Base metals, % YoY",None,line
+"Taiwan, MPI, TWD basis, Base metals, Iron and steel, % YoY","Taiwan, MPI, TWD basis, Base metals, Iron and steel, % YoY",None,line
+"Taiwan, MPI, TWD basis, Base metals, Articles of iron or steel, % YoY","Taiwan, MPI, TWD basis, Base metals, Articles of iron or steel, % YoY",None,line
+"Taiwan, MPI, TWD basis, Base metals, Copper, % YoY","Taiwan, MPI, TWD basis, Base metals, Copper, % YoY",None,line
+"Taiwan, MPI, TWD basis, Base metals, Aluminium, % YoY","Taiwan, MPI, TWD basis, Base metals, Aluminium, % YoY",None,line
+"Taiwan, MPI, TWD basis, Base metals, Tools and parts of base metal, % YoY","Taiwan, MPI, TWD basis, Base metals, Tools and parts of base metal, % YoY",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, % YoY","Taiwan, MPI, TWD basis, Machinery and electrical equipment, % YoY",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, Boilers and machinery, % YoY","Taiwan, MPI, TWD basis, Machinery and electrical equipment, Boilers and machinery, % YoY",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, Electrical machinery, % YoY","Taiwan, MPI, TWD basis, Machinery and electrical equipment, Electrical machinery, % YoY",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, Integrated circuits, % YoY","Taiwan, MPI, TWD basis, Machinery and electrical equipment, Integrated circuits, % YoY",None,line
+"Taiwan, MPI, TWD basis, Transportation equipment, % YoY","Taiwan, MPI, TWD basis, Transportation equipment, % YoY",None,line
+"Taiwan, MPI, TWD basis, Transportation equipment, Transportation equipment, % YoY","Taiwan, MPI, TWD basis, Transportation equipment, Transportation equipment, % YoY",None,line
+"Taiwan, MPI, TWD basis, Optical and measuring instruments, % YoY","Taiwan, MPI, TWD basis, Optical and measuring instruments, % YoY",None,line
+"Taiwan, MPI, TWD basis, Optical and measuring instruments, Optica, % YoY","Taiwan, MPI, TWD basis, Optical and measuring instruments, Optica, % YoY",None,line
+"Taiwan, MPI, TWD basis, Optical and measuring instruments, Clocks and watches, % YoY","Taiwan, MPI, TWD basis, Optical and measuring instruments, Clocks and watches, % YoY",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, % YoY","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, % YoY",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Furniture, % YoY","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Furniture, % YoY",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Toys, % YoY","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Toys, % YoY",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Miscellaneous, % YoY","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Miscellaneous, % YoY",None,line
+"Taiwan, MPI, USD basis, Animal products, % YoY","Taiwan, MPI, USD basis, Animal products, % YoY",None,line
+"Taiwan, MPI, USD basis, Animal products, Meat, % YoY","Taiwan, MPI, USD basis, Animal products, Meat, % YoY",None,line
+"Taiwan, MPI, USD basis, Animal products, Fish and crustaceans, % YoY","Taiwan, MPI, USD basis, Animal products, Fish and crustaceans, % YoY",None,line
+"Taiwan, MPI, USD basis, Dairy, % YoY","Taiwan, MPI, USD basis, Dairy, % YoY",None,line
+"Taiwan, MPI, USD basis, Vegetable products, % YoY","Taiwan, MPI, USD basis, Vegetable products, % YoY",None,line
+"Taiwan, MPI, USD basis, Edible fruit and nuts, % YoY","Taiwan, MPI, USD basis, Edible fruit and nuts, % YoY",None,line
+"Taiwan, MPI, USD basis, Cereals, % YoY","Taiwan, MPI, USD basis, Cereals, % YoY",None,line
+"Taiwan, MPI, USD basis, Cereals, Corn, % YoY","Taiwan, MPI, USD basis, Cereals, Corn, % YoY",None,line
+"Taiwan, MPI, USD basis, Oil seeds, % YoY","Taiwan, MPI, USD basis, Oil seeds, % YoY",None,line
+"Taiwan, MPI, USD basis, Oil seeds, Soybeans, % YoY","Taiwan, MPI, USD basis, Oil seeds, Soybeans, % YoY",None,line
+"Taiwan, MPI, USD basis, Prepared foodstuffs including beverages and tobacco, % YoY","Taiwan, MPI, USD basis, Prepared foodstuffs including beverages and tobacco, % YoY",None,line
+"Taiwan, MPI, USD basis, Preparations of meat and fish, % YoY","Taiwan, MPI, USD basis, Preparations of meat and fish, % YoY",None,line
+"Taiwan, MPI, USD basis, Sugars and confectionery, % YoY","Taiwan, MPI, USD basis, Sugars and confectionery, % YoY",None,line
+"Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY","Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY",None,line
+"Taiwan, MPI, USD basis, Miscellaneous edible preparations, % YoY","Taiwan, MPI, USD basis, Miscellaneous edible preparations, % YoY",None,line
+"Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY","Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY",None,line
+"Taiwan, MPI, USD basis, Residues from food industries, % YoY","Taiwan, MPI, USD basis, Residues from food industries, % YoY",None,line
+"Taiwan, MPI, USD basis, Mineral products, % YoY","Taiwan, MPI, USD basis, Mineral products, % YoY",None,line
+"Taiwan, MPI, USD basis, Salt and stone, % YoY","Taiwan, MPI, USD basis, Salt and stone, % YoY",None,line
+"Taiwan, MPI, USD basis, Energy minerals, % YoY","Taiwan, MPI, USD basis, Energy minerals, % YoY",None,line
+"Taiwan, MPI, USD basis, Energy minerals, Petroleum, % YoY","Taiwan, MPI, USD basis, Energy minerals, Petroleum, % YoY",None,line
+"Taiwan, MPI, USD basis, Chemicals, % YoY","Taiwan, MPI, USD basis, Chemicals, % YoY",None,line
+"Taiwan, MPI, USD basis, Chemicals, Inorganic chemicals, % YoY","Taiwan, MPI, USD basis, Chemicals, Inorganic chemicals, % YoY",None,line
+"Taiwan, MPI, USD basis, Chemicals, Organic chemicals, % YoY","Taiwan, MPI, USD basis, Chemicals, Organic chemicals, % YoY",None,line
+"Taiwan, MPI, USD basis, Chemicals, Ch.pharmaceutical products, % YoY","Taiwan, MPI, USD basis, Chemicals, Ch.pharmaceutical products, % YoY",None,line
+"Taiwan, MPI, USD basis, Chemicals, Colouring matter and paints, % YoY","Taiwan, MPI, USD basis, Chemicals, Colouring matter and paints, % YoY",None,line
+"Taiwan, MPI, USD basis, Chemicals, Perfume, % YoY","Taiwan, MPI, USD basis, Chemicals, Perfume, % YoY",None,line
+"Taiwan, MPI, USD basis, Chemicals, Surface-active agents, % YoY","Taiwan, MPI, USD basis, Chemicals, Surface-active agents, % YoY",None,line
+"Taiwan, MPI, USD basis, Chemicals, Albuminoidal, % YoY","Taiwan, MPI, USD basis, Chemicals, Albuminoidal, % YoY",None,line
+"Taiwan, MPI, USD basis, Chemicals, Photographic or cinematographic, % YoY","Taiwan, MPI, USD basis, Chemicals, Photographic or cinematographic, % YoY",None,line
+"Taiwan, MPI, USD basis, Chemicals, Miscellaneous chemicals, % YoY","Taiwan, MPI, USD basis, Chemicals, Miscellaneous chemicals, % YoY",None,line
+"Taiwan, MPI, USD basis, Plastics and rubber, % YoY","Taiwan, MPI, USD basis, Plastics and rubber, % YoY",None,line
+"Taiwan, MPI, USD basis, Plastics and rubber, Plastics, % YoY","Taiwan, MPI, USD basis, Plastics and rubber, Plastics, % YoY",None,line
+"Taiwan, MPI, USD basis, Plastics and rubber, Rubber, % YoY","Taiwan, MPI, USD basis, Plastics and rubber, Rubber, % YoY",None,line
+"Taiwan, MPI, USD basis, Wood, % YoY","Taiwan, MPI, USD basis, Wood, % YoY",None,line
+"Taiwan, MPI, USD basis, Wood, Wood, % YoY","Taiwan, MPI, USD basis, Wood, Wood, % YoY",None,line
+"Taiwan, MPI, USD basis, Wood pulp and paper, % YoY","Taiwan, MPI, USD basis, Wood pulp and paper, % YoY",None,line
+"Taiwan, MPI, USD basis, Wood pulp and paper, Wood pulp, % YoY","Taiwan, MPI, USD basis, Wood pulp and paper, Wood pulp, % YoY",None,line
+"Taiwan, MPI, USD basis, Wood pulp and paper, Paper, % YoY","Taiwan, MPI, USD basis, Wood pulp and paper, Paper, % YoY",None,line
+"Taiwan, MPI, USD basis, Textiles and textile articles, % YoY","Taiwan, MPI, USD basis, Textiles and textile articles, % YoY",None,line
+"Taiwan, MPI, USD basis, Textiles and textile articles, Knitted, % YoY","Taiwan, MPI, USD basis, Textiles and textile articles, Knitted, % YoY",None,line
+"Taiwan, MPI, USD basis, Textiles and textile articles, Not knitted, % YoY","Taiwan, MPI, USD basis, Textiles and textile articles, Not knitted, % YoY",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, % YoY","Taiwan, MPI, USD basis, Stone materials and glass, % YoY",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, Stone and cement, % YoY","Taiwan, MPI, USD basis, Stone materials and glass, Stone and cement, % YoY",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, Ceramics, % YoY","Taiwan, MPI, USD basis, Stone materials and glass, Ceramics, % YoY",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, Glass, % YoY","Taiwan, MPI, USD basis, Stone materials and glass, Glass, % YoY",None,line
+"Taiwan, MPI, USD basis, Base metals, % YoY","Taiwan, MPI, USD basis, Base metals, % YoY",None,line
+"Taiwan, MPI, USD basis, Base metals, Iron and steel, % YoY","Taiwan, MPI, USD basis, Base metals, Iron and steel, % YoY",None,line
+"Taiwan, MPI, USD basis, Base metals, Articles of iron or steel, % YoY","Taiwan, MPI, USD basis, Base metals, Articles of iron or steel, % YoY",None,line
+"Taiwan, MPI, USD basis, Base metals, Copper, % YoY","Taiwan, MPI, USD basis, Base metals, Copper, % YoY",None,line
+"Taiwan, MPI, USD basis, Base metals, Aluminium, % YoY","Taiwan, MPI, USD basis, Base metals, Aluminium, % YoY",None,line
+"Taiwan, MPI, USD basis, Base metals, Tools and parts of base metal, % YoY","Taiwan, MPI, USD basis, Base metals, Tools and parts of base metal, % YoY",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, % YoY","Taiwan, MPI, USD basis, Machinery and electrical equipment, % YoY",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, Boilers and machinery, % YoY","Taiwan, MPI, USD basis, Machinery and electrical equipment, Boilers and machinery, % YoY",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, Electrical machinery, % YoY","Taiwan, MPI, USD basis, Machinery and electrical equipment, Electrical machinery, % YoY",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, Integrated circuits, % YoY","Taiwan, MPI, USD basis, Machinery and electrical equipment, Integrated circuits, % YoY",None,line
+"Taiwan, MPI, USD basis, Transportation equipment, % YoY","Taiwan, MPI, USD basis, Transportation equipment, % YoY",None,line
+"Taiwan, MPI, USD basis, Transportation equipment, Transportation equipment, % YoY","Taiwan, MPI, USD basis, Transportation equipment, Transportation equipment, % YoY",None,line
+"Taiwan, MPI, USD basis, Optical and measuring instruments, % YoY","Taiwan, MPI, USD basis, Optical and measuring instruments, % YoY",None,line
+"Taiwan, MPI, USD basis, Optical and measuring instruments, Optica, % YoY","Taiwan, MPI, USD basis, Optical and measuring instruments, Optica, % YoY",None,line
+"Taiwan, MPI, USD basis, Optical and measuring instruments, Clocks and watches, % YoY","Taiwan, MPI, USD basis, Optical and measuring instruments, Clocks and watches, % YoY",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, % YoY","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, % YoY",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Furniture, % YoY","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Furniture, % YoY",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Toys, % YoY","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Toys, % YoY",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Miscellaneous, % YoY","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Miscellaneous, % YoY",None,line
 "Taiwan, TOT, USD basis, % YoY","Taiwan, TOT, USD basis, % YoY",None,line
 "Taiwan, TOT, TWD basis, % YoY","Taiwan, TOT, TWD basis, % YoY",None,line
 "Taiwan, MPI, TWD basis, SA, Index","Taiwan, MPI, TWD basis, SA, Index",None,line
@@ -266,15 +526,24 @@ name,display_name,data_type,chart_type
 "Taiwan, MPI, FX component, Contribution to % YoY chg in TOT, ppts","Taiwan, MPI, FX component, Contribution to % YoY chg in TOT, ppts",None,bar
 "Taiwan, TOT, TWD basis, % YoY, Sum of components","Taiwan, TOT, TWD basis, % YoY, Sum of components",None,line
 "Taiwan, TOT, TWD basis, % YoY, Published","Taiwan, TOT, TWD basis, % YoY, Published",None,line
+"Taiwan, MPI, TWD basis, Raw materials, Agricultural, Contribution to % YoY, ppts","Taiwan, MPI, TWD basis, Raw materials, Agricultural, Contribution to % YoY, ppts",None,bar
+"Taiwan, MPI, TWD basis, Raw materials, Industrial, Contribution to % YoY, ppts","Taiwan, MPI, TWD basis, Raw materials, Industrial, Contribution to % YoY, ppts",None,bar
+"Taiwan, MPI, TWD basis, Raw materials, Energy, Contribution to % YoY, ppts","Taiwan, MPI, TWD basis, Raw materials, Energy, Contribution to % YoY, ppts",None,bar
+"Taiwan, MPI, TWD basis, Capital goods, Contribution to % YoY, ppts","Taiwan, MPI, TWD basis, Capital goods, Contribution to % YoY, ppts",None,bar
+"Taiwan, MPI, TWD basis, Consumer goods, Contribution to % YoY, ppts","Taiwan, MPI, TWD basis, Consumer goods, Contribution to % YoY, ppts",None,bar
+"Taiwan, MPI, TWD basis, Re-weighting residual, Contribution to % YoY, ppts","Taiwan, MPI, TWD basis, Re-weighting residual, Contribution to % YoY, ppts",None,bar
+"Taiwan, MPI, TWD basis, Integrated circuits, Contribution to % YoY, ppts","Taiwan, MPI, TWD basis, Integrated circuits, Contribution to % YoY, ppts",None,bar
+"Taiwan, MPI, TWD basis, Excluding integrated circuits, Contribution to % YoY, ppts","Taiwan, MPI, TWD basis, Excluding integrated circuits, Contribution to % YoY, ppts",None,bar
+"Taiwan, MPI, All items excluding semiconductors, % YoY","Taiwan, MPI, All items excluding semiconductors, % YoY",None,line
 "Taiwan, EPI, USD basis, Index, 3mma","Taiwan, EPI, USD basis, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Animal products, Index, 3mma","Taiwan, EPI, USD basis, Animal products, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Animal products, Fish and crustaceans, Index, 3mma","Taiwan, EPI, USD basis, Animal products, Fish and crustaceans, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Vegetable products, Index, 3mma","Taiwan, EPI, USD basis, Vegetable products, Index, 3mma",None,line
-"Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Index, 3mma","Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Index, 3mma",None,line
+"Taiwan, EPI, USD basis, Prepared foodstuffs including beverages and tobacco, Index, 3mma","Taiwan, EPI, USD basis, Prepared foodstuffs including beverages and tobacco, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index, 3mma","Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index, 3mma","Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Mineral products, Index, 3mma","Taiwan, EPI, USD basis, Mineral products, Index, 3mma",None,line
-"Taiwan, EPI, USD basis, Mineral products, Energy minerals, Index, 3mma","Taiwan, EPI, USD basis, Mineral products, Energy minerals, Index, 3mma",None,line
+"Taiwan, EPI, USD basis, Energy minerals, Index, 3mma","Taiwan, EPI, USD basis, Energy minerals, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Chemicals, Index, 3mma","Taiwan, EPI, USD basis, Chemicals, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Chemicals, Inorganic chemicals, Index, 3mma","Taiwan, EPI, USD basis, Chemicals, Inorganic chemicals, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, Chemicals, Organic chemicals, Index, 3mma","Taiwan, EPI, USD basis, Chemicals, Organic chemicals, Index, 3mma",None,line
@@ -323,11 +592,11 @@ name,display_name,data_type,chart_type
 "Taiwan, EPI, TWD basis, Animal products, Index, 3mma","Taiwan, EPI, TWD basis, Animal products, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Animal products, Fish and crustaceans, Index, 3mma","Taiwan, EPI, TWD basis, Animal products, Fish and crustaceans, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Vegetable products, Index, 3mma","Taiwan, EPI, TWD basis, Vegetable products, Index, 3mma",None,line
-"Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Index, 3mma","Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Index, 3mma",None,line
+"Taiwan, EPI, TWD basis, Prepared foodstuffs including beverages and tobacco, Index, 3mma","Taiwan, EPI, TWD basis, Prepared foodstuffs including beverages and tobacco, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index, 3mma","Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index, 3mma","Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Mineral products, Index, 3mma","Taiwan, EPI, TWD basis, Mineral products, Index, 3mma",None,line
-"Taiwan, EPI, TWD basis, Mineral products, Energy minerals, Index, 3mma","Taiwan, EPI, TWD basis, Mineral products, Energy minerals, Index, 3mma",None,line
+"Taiwan, EPI, TWD basis, Energy minerals, Index, 3mma","Taiwan, EPI, TWD basis, Energy minerals, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Chemicals, Index, 3mma","Taiwan, EPI, TWD basis, Chemicals, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Chemicals, Inorganic chemicals, Index, 3mma","Taiwan, EPI, TWD basis, Chemicals, Inorganic chemicals, Index, 3mma",None,line
 "Taiwan, EPI, TWD basis, Chemicals, Organic chemicals, Index, 3mma","Taiwan, EPI, TWD basis, Chemicals, Organic chemicals, Index, 3mma",None,line
@@ -390,17 +659,147 @@ name,display_name,data_type,chart_type
 "Taiwan, MPI, TWD basis, Consumer goods, Index, 3mma","Taiwan, MPI, TWD basis, Consumer goods, Index, 3mma",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Nondurable, Index, 3mma","Taiwan, MPI, TWD basis, Consumer goods, Nondurable, Index, 3mma",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Durable, Index, 3mma","Taiwan, MPI, TWD basis, Consumer goods, Durable, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Animal products, Index, 3mma","Taiwan, MPI, TWD basis, Animal products, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Animal products, Meat, Index, 3mma","Taiwan, MPI, TWD basis, Animal products, Meat, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Animal products, Fish and crustaceans, Index, 3mma","Taiwan, MPI, TWD basis, Animal products, Fish and crustaceans, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Dairy, Index, 3mma","Taiwan, MPI, TWD basis, Dairy, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Vegetable products, Index, 3mma","Taiwan, MPI, TWD basis, Vegetable products, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Edible fruit and nuts, Index, 3mma","Taiwan, MPI, TWD basis, Edible fruit and nuts, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Cereals, Index, 3mma","Taiwan, MPI, TWD basis, Cereals, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Cereals, Corn, Index, 3mma","Taiwan, MPI, TWD basis, Cereals, Corn, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Oil seeds, Index, 3mma","Taiwan, MPI, TWD basis, Oil seeds, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Oil seeds, Soybeans, Index, 3mma","Taiwan, MPI, TWD basis, Oil seeds, Soybeans, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Prepared foodstuffs including beverages and tobacco, Index, 3mma","Taiwan, MPI, TWD basis, Prepared foodstuffs including beverages and tobacco, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Preparations of meat and fish, Index, 3mma","Taiwan, MPI, TWD basis, Preparations of meat and fish, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Sugars and confectionery, Index, 3mma","Taiwan, MPI, TWD basis, Sugars and confectionery, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index, 3mma","Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous edible preparations, Index, 3mma","Taiwan, MPI, TWD basis, Miscellaneous edible preparations, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index, 3mma","Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Residues from food industries, Index, 3mma","Taiwan, MPI, TWD basis, Residues from food industries, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Mineral products, Index, 3mma","Taiwan, MPI, TWD basis, Mineral products, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Salt and stone, Index, 3mma","Taiwan, MPI, TWD basis, Salt and stone, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Energy minerals, Index, 3mma","Taiwan, MPI, TWD basis, Energy minerals, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Energy minerals, Petroleum, Index, 3mma","Taiwan, MPI, TWD basis, Energy minerals, Petroleum, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Index, 3mma","Taiwan, MPI, TWD basis, Chemicals, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Inorganic chemicals, Index, 3mma","Taiwan, MPI, TWD basis, Chemicals, Inorganic chemicals, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Organic chemicals, Index, 3mma","Taiwan, MPI, TWD basis, Chemicals, Organic chemicals, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Ch.pharmaceutical products, Index, 3mma","Taiwan, MPI, TWD basis, Chemicals, Ch.pharmaceutical products, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Colouring matter and paints, Index, 3mma","Taiwan, MPI, TWD basis, Chemicals, Colouring matter and paints, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Perfume, Index, 3mma","Taiwan, MPI, TWD basis, Chemicals, Perfume, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Surface-active agents, Index, 3mma","Taiwan, MPI, TWD basis, Chemicals, Surface-active agents, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Albuminoidal, Index, 3mma","Taiwan, MPI, TWD basis, Chemicals, Albuminoidal, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Photographic or cinematographic, Index, 3mma","Taiwan, MPI, TWD basis, Chemicals, Photographic or cinematographic, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Miscellaneous chemicals, Index, 3mma","Taiwan, MPI, TWD basis, Chemicals, Miscellaneous chemicals, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Plastics and rubber, Index, 3mma","Taiwan, MPI, TWD basis, Plastics and rubber, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Plastics and rubber, Plastics, Index, 3mma","Taiwan, MPI, TWD basis, Plastics and rubber, Plastics, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Plastics and rubber, Rubber, Index, 3mma","Taiwan, MPI, TWD basis, Plastics and rubber, Rubber, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Wood, Index, 3mma","Taiwan, MPI, TWD basis, Wood, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Wood, Wood, Index, 3mma","Taiwan, MPI, TWD basis, Wood, Wood, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Wood pulp and paper, Index, 3mma","Taiwan, MPI, TWD basis, Wood pulp and paper, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Wood pulp and paper, Wood pulp, Index, 3mma","Taiwan, MPI, TWD basis, Wood pulp and paper, Wood pulp, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Wood pulp and paper, Paper, Index, 3mma","Taiwan, MPI, TWD basis, Wood pulp and paper, Paper, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Textiles and textile articles, Index, 3mma","Taiwan, MPI, TWD basis, Textiles and textile articles, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Textiles and textile articles, Knitted, Index, 3mma","Taiwan, MPI, TWD basis, Textiles and textile articles, Knitted, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Textiles and textile articles, Not knitted, Index, 3mma","Taiwan, MPI, TWD basis, Textiles and textile articles, Not knitted, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, Index, 3mma","Taiwan, MPI, TWD basis, Stone materials and glass, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, Stone and cement, Index, 3mma","Taiwan, MPI, TWD basis, Stone materials and glass, Stone and cement, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, Ceramics, Index, 3mma","Taiwan, MPI, TWD basis, Stone materials and glass, Ceramics, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, Glass, Index, 3mma","Taiwan, MPI, TWD basis, Stone materials and glass, Glass, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Base metals, Index, 3mma","Taiwan, MPI, TWD basis, Base metals, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Base metals, Iron and steel, Index, 3mma","Taiwan, MPI, TWD basis, Base metals, Iron and steel, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Base metals, Articles of iron or steel, Index, 3mma","Taiwan, MPI, TWD basis, Base metals, Articles of iron or steel, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Base metals, Copper, Index, 3mma","Taiwan, MPI, TWD basis, Base metals, Copper, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Base metals, Aluminium, Index, 3mma","Taiwan, MPI, TWD basis, Base metals, Aluminium, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Base metals, Tools and parts of base metal, Index, 3mma","Taiwan, MPI, TWD basis, Base metals, Tools and parts of base metal, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, Index, 3mma","Taiwan, MPI, TWD basis, Machinery and electrical equipment, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, Boilers and machinery, Index, 3mma","Taiwan, MPI, TWD basis, Machinery and electrical equipment, Boilers and machinery, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, Electrical machinery, Index, 3mma","Taiwan, MPI, TWD basis, Machinery and electrical equipment, Electrical machinery, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, Integrated circuits, Index, 3mma","Taiwan, MPI, TWD basis, Machinery and electrical equipment, Integrated circuits, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Transportation equipment, Index, 3mma","Taiwan, MPI, TWD basis, Transportation equipment, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Transportation equipment, Transportation equipment, Index, 3mma","Taiwan, MPI, TWD basis, Transportation equipment, Transportation equipment, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Optical and measuring instruments, Index, 3mma","Taiwan, MPI, TWD basis, Optical and measuring instruments, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Optical and measuring instruments, Optica, Index, 3mma","Taiwan, MPI, TWD basis, Optical and measuring instruments, Optica, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Optical and measuring instruments, Clocks and watches, Index, 3mma","Taiwan, MPI, TWD basis, Optical and measuring instruments, Clocks and watches, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Index, 3mma","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Furniture, Index, 3mma","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Furniture, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Toys, Index, 3mma","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Toys, Index, 3mma",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Miscellaneous, Index, 3mma","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Miscellaneous, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Animal products, Index, 3mma","Taiwan, MPI, USD basis, Animal products, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Animal products, Meat, Index, 3mma","Taiwan, MPI, USD basis, Animal products, Meat, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Animal products, Fish and crustaceans, Index, 3mma","Taiwan, MPI, USD basis, Animal products, Fish and crustaceans, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Dairy, Index, 3mma","Taiwan, MPI, USD basis, Dairy, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Vegetable products, Index, 3mma","Taiwan, MPI, USD basis, Vegetable products, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Edible fruit and nuts, Index, 3mma","Taiwan, MPI, USD basis, Edible fruit and nuts, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Cereals, Index, 3mma","Taiwan, MPI, USD basis, Cereals, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Cereals, Corn, Index, 3mma","Taiwan, MPI, USD basis, Cereals, Corn, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Oil seeds, Index, 3mma","Taiwan, MPI, USD basis, Oil seeds, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Oil seeds, Soybeans, Index, 3mma","Taiwan, MPI, USD basis, Oil seeds, Soybeans, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Prepared foodstuffs including beverages and tobacco, Index, 3mma","Taiwan, MPI, USD basis, Prepared foodstuffs including beverages and tobacco, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Preparations of meat and fish, Index, 3mma","Taiwan, MPI, USD basis, Preparations of meat and fish, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Sugars and confectionery, Index, 3mma","Taiwan, MPI, USD basis, Sugars and confectionery, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index, 3mma","Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Miscellaneous edible preparations, Index, 3mma","Taiwan, MPI, USD basis, Miscellaneous edible preparations, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index, 3mma","Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Residues from food industries, Index, 3mma","Taiwan, MPI, USD basis, Residues from food industries, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Mineral products, Index, 3mma","Taiwan, MPI, USD basis, Mineral products, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Salt and stone, Index, 3mma","Taiwan, MPI, USD basis, Salt and stone, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Energy minerals, Index, 3mma","Taiwan, MPI, USD basis, Energy minerals, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Energy minerals, Petroleum, Index, 3mma","Taiwan, MPI, USD basis, Energy minerals, Petroleum, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Index, 3mma","Taiwan, MPI, USD basis, Chemicals, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Inorganic chemicals, Index, 3mma","Taiwan, MPI, USD basis, Chemicals, Inorganic chemicals, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Organic chemicals, Index, 3mma","Taiwan, MPI, USD basis, Chemicals, Organic chemicals, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Ch.pharmaceutical products, Index, 3mma","Taiwan, MPI, USD basis, Chemicals, Ch.pharmaceutical products, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Colouring matter and paints, Index, 3mma","Taiwan, MPI, USD basis, Chemicals, Colouring matter and paints, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Perfume, Index, 3mma","Taiwan, MPI, USD basis, Chemicals, Perfume, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Surface-active agents, Index, 3mma","Taiwan, MPI, USD basis, Chemicals, Surface-active agents, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Albuminoidal, Index, 3mma","Taiwan, MPI, USD basis, Chemicals, Albuminoidal, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Photographic or cinematographic, Index, 3mma","Taiwan, MPI, USD basis, Chemicals, Photographic or cinematographic, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Miscellaneous chemicals, Index, 3mma","Taiwan, MPI, USD basis, Chemicals, Miscellaneous chemicals, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Plastics and rubber, Index, 3mma","Taiwan, MPI, USD basis, Plastics and rubber, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Plastics and rubber, Plastics, Index, 3mma","Taiwan, MPI, USD basis, Plastics and rubber, Plastics, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Plastics and rubber, Rubber, Index, 3mma","Taiwan, MPI, USD basis, Plastics and rubber, Rubber, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Wood, Index, 3mma","Taiwan, MPI, USD basis, Wood, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Wood, Wood, Index, 3mma","Taiwan, MPI, USD basis, Wood, Wood, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Wood pulp and paper, Index, 3mma","Taiwan, MPI, USD basis, Wood pulp and paper, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Wood pulp and paper, Wood pulp, Index, 3mma","Taiwan, MPI, USD basis, Wood pulp and paper, Wood pulp, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Wood pulp and paper, Paper, Index, 3mma","Taiwan, MPI, USD basis, Wood pulp and paper, Paper, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Textiles and textile articles, Index, 3mma","Taiwan, MPI, USD basis, Textiles and textile articles, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Textiles and textile articles, Knitted, Index, 3mma","Taiwan, MPI, USD basis, Textiles and textile articles, Knitted, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Textiles and textile articles, Not knitted, Index, 3mma","Taiwan, MPI, USD basis, Textiles and textile articles, Not knitted, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, Index, 3mma","Taiwan, MPI, USD basis, Stone materials and glass, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, Stone and cement, Index, 3mma","Taiwan, MPI, USD basis, Stone materials and glass, Stone and cement, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, Ceramics, Index, 3mma","Taiwan, MPI, USD basis, Stone materials and glass, Ceramics, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, Glass, Index, 3mma","Taiwan, MPI, USD basis, Stone materials and glass, Glass, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Base metals, Index, 3mma","Taiwan, MPI, USD basis, Base metals, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Base metals, Iron and steel, Index, 3mma","Taiwan, MPI, USD basis, Base metals, Iron and steel, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Base metals, Articles of iron or steel, Index, 3mma","Taiwan, MPI, USD basis, Base metals, Articles of iron or steel, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Base metals, Copper, Index, 3mma","Taiwan, MPI, USD basis, Base metals, Copper, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Base metals, Aluminium, Index, 3mma","Taiwan, MPI, USD basis, Base metals, Aluminium, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Base metals, Tools and parts of base metal, Index, 3mma","Taiwan, MPI, USD basis, Base metals, Tools and parts of base metal, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, Index, 3mma","Taiwan, MPI, USD basis, Machinery and electrical equipment, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, Boilers and machinery, Index, 3mma","Taiwan, MPI, USD basis, Machinery and electrical equipment, Boilers and machinery, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, Electrical machinery, Index, 3mma","Taiwan, MPI, USD basis, Machinery and electrical equipment, Electrical machinery, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, Integrated circuits, Index, 3mma","Taiwan, MPI, USD basis, Machinery and electrical equipment, Integrated circuits, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Transportation equipment, Index, 3mma","Taiwan, MPI, USD basis, Transportation equipment, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Transportation equipment, Transportation equipment, Index, 3mma","Taiwan, MPI, USD basis, Transportation equipment, Transportation equipment, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Optical and measuring instruments, Index, 3mma","Taiwan, MPI, USD basis, Optical and measuring instruments, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Optical and measuring instruments, Optica, Index, 3mma","Taiwan, MPI, USD basis, Optical and measuring instruments, Optica, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Optical and measuring instruments, Clocks and watches, Index, 3mma","Taiwan, MPI, USD basis, Optical and measuring instruments, Clocks and watches, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Index, 3mma","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Furniture, Index, 3mma","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Furniture, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Toys, Index, 3mma","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Toys, Index, 3mma",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Miscellaneous, Index, 3mma","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Miscellaneous, Index, 3mma",None,line
 "Taiwan, TOT, USD basis, Index, 3mma","Taiwan, TOT, USD basis, Index, 3mma",None,line
 "Taiwan, TOT, TWD basis, Index, 3mma","Taiwan, TOT, TWD basis, Index, 3mma",None,line
 "Taiwan, EPI, USD basis, % YoY, 3mma","Taiwan, EPI, USD basis, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Animal products, % YoY, 3mma","Taiwan, EPI, USD basis, Animal products, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Animal products, Fish and crustaceans, % YoY, 3mma","Taiwan, EPI, USD basis, Animal products, Fish and crustaceans, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Vegetable products, % YoY, 3mma","Taiwan, EPI, USD basis, Vegetable products, % YoY, 3mma",None,line
-"Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, % YoY, 3mma","Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, % YoY, 3mma",None,line
+"Taiwan, EPI, USD basis, Prepared foodstuffs including beverages and tobacco, % YoY, 3mma","Taiwan, EPI, USD basis, Prepared foodstuffs including beverages and tobacco, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY, 3mma","Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY, 3mma","Taiwan, EPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Mineral products, % YoY, 3mma","Taiwan, EPI, USD basis, Mineral products, % YoY, 3mma",None,line
-"Taiwan, EPI, USD basis, Mineral products, Energy minerals, % YoY, 3mma","Taiwan, EPI, USD basis, Mineral products, Energy minerals, % YoY, 3mma",None,line
+"Taiwan, EPI, USD basis, Energy minerals, % YoY, 3mma","Taiwan, EPI, USD basis, Energy minerals, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Chemicals, % YoY, 3mma","Taiwan, EPI, USD basis, Chemicals, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Chemicals, Inorganic chemicals, % YoY, 3mma","Taiwan, EPI, USD basis, Chemicals, Inorganic chemicals, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Chemicals, Organic chemicals, % YoY, 3mma","Taiwan, EPI, USD basis, Chemicals, Organic chemicals, % YoY, 3mma",None,line
@@ -449,11 +848,11 @@ name,display_name,data_type,chart_type
 "Taiwan, EPI, TWD basis, Animal products, % YoY, 3mma","Taiwan, EPI, TWD basis, Animal products, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Animal products, Fish and crustaceans, % YoY, 3mma","Taiwan, EPI, TWD basis, Animal products, Fish and crustaceans, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Vegetable products, % YoY, 3mma","Taiwan, EPI, TWD basis, Vegetable products, % YoY, 3mma",None,line
-"Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, % YoY, 3mma","Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, % YoY, 3mma",None,line
+"Taiwan, EPI, TWD basis, Prepared foodstuffs including beverages and tobacco, % YoY, 3mma","Taiwan, EPI, TWD basis, Prepared foodstuffs including beverages and tobacco, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY, 3mma","Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY, 3mma","Taiwan, EPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Mineral products, % YoY, 3mma","Taiwan, EPI, TWD basis, Mineral products, % YoY, 3mma",None,line
-"Taiwan, EPI, TWD basis, Mineral products, Energy minerals, % YoY, 3mma","Taiwan, EPI, TWD basis, Mineral products, Energy minerals, % YoY, 3mma",None,line
+"Taiwan, EPI, TWD basis, Energy minerals, % YoY, 3mma","Taiwan, EPI, TWD basis, Energy minerals, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Chemicals, % YoY, 3mma","Taiwan, EPI, TWD basis, Chemicals, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Chemicals, Inorganic chemicals, % YoY, 3mma","Taiwan, EPI, TWD basis, Chemicals, Inorganic chemicals, % YoY, 3mma",None,line
 "Taiwan, EPI, TWD basis, Chemicals, Organic chemicals, % YoY, 3mma","Taiwan, EPI, TWD basis, Chemicals, Organic chemicals, % YoY, 3mma",None,line
@@ -516,6 +915,136 @@ name,display_name,data_type,chart_type
 "Taiwan, MPI, TWD basis, Consumer goods, % YoY, 3mma","Taiwan, MPI, TWD basis, Consumer goods, % YoY, 3mma",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Nondurable, % YoY, 3mma","Taiwan, MPI, TWD basis, Consumer goods, Nondurable, % YoY, 3mma",None,line
 "Taiwan, MPI, TWD basis, Consumer goods, Durable, % YoY, 3mma","Taiwan, MPI, TWD basis, Consumer goods, Durable, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Animal products, % YoY, 3mma","Taiwan, MPI, TWD basis, Animal products, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Animal products, Meat, % YoY, 3mma","Taiwan, MPI, TWD basis, Animal products, Meat, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Animal products, Fish and crustaceans, % YoY, 3mma","Taiwan, MPI, TWD basis, Animal products, Fish and crustaceans, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Dairy, % YoY, 3mma","Taiwan, MPI, TWD basis, Dairy, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Vegetable products, % YoY, 3mma","Taiwan, MPI, TWD basis, Vegetable products, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Edible fruit and nuts, % YoY, 3mma","Taiwan, MPI, TWD basis, Edible fruit and nuts, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Cereals, % YoY, 3mma","Taiwan, MPI, TWD basis, Cereals, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Cereals, Corn, % YoY, 3mma","Taiwan, MPI, TWD basis, Cereals, Corn, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Oil seeds, % YoY, 3mma","Taiwan, MPI, TWD basis, Oil seeds, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Oil seeds, Soybeans, % YoY, 3mma","Taiwan, MPI, TWD basis, Oil seeds, Soybeans, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Prepared foodstuffs including beverages and tobacco, % YoY, 3mma","Taiwan, MPI, TWD basis, Prepared foodstuffs including beverages and tobacco, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Preparations of meat and fish, % YoY, 3mma","Taiwan, MPI, TWD basis, Preparations of meat and fish, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Sugars and confectionery, % YoY, 3mma","Taiwan, MPI, TWD basis, Sugars and confectionery, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY, 3mma","Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous edible preparations, % YoY, 3mma","Taiwan, MPI, TWD basis, Miscellaneous edible preparations, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY, 3mma","Taiwan, MPI, TWD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Residues from food industries, % YoY, 3mma","Taiwan, MPI, TWD basis, Residues from food industries, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Mineral products, % YoY, 3mma","Taiwan, MPI, TWD basis, Mineral products, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Salt and stone, % YoY, 3mma","Taiwan, MPI, TWD basis, Salt and stone, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Energy minerals, % YoY, 3mma","Taiwan, MPI, TWD basis, Energy minerals, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Energy minerals, Petroleum, % YoY, 3mma","Taiwan, MPI, TWD basis, Energy minerals, Petroleum, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, % YoY, 3mma","Taiwan, MPI, TWD basis, Chemicals, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Inorganic chemicals, % YoY, 3mma","Taiwan, MPI, TWD basis, Chemicals, Inorganic chemicals, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Organic chemicals, % YoY, 3mma","Taiwan, MPI, TWD basis, Chemicals, Organic chemicals, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Ch.pharmaceutical products, % YoY, 3mma","Taiwan, MPI, TWD basis, Chemicals, Ch.pharmaceutical products, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Colouring matter and paints, % YoY, 3mma","Taiwan, MPI, TWD basis, Chemicals, Colouring matter and paints, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Perfume, % YoY, 3mma","Taiwan, MPI, TWD basis, Chemicals, Perfume, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Surface-active agents, % YoY, 3mma","Taiwan, MPI, TWD basis, Chemicals, Surface-active agents, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Albuminoidal, % YoY, 3mma","Taiwan, MPI, TWD basis, Chemicals, Albuminoidal, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Photographic or cinematographic, % YoY, 3mma","Taiwan, MPI, TWD basis, Chemicals, Photographic or cinematographic, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Chemicals, Miscellaneous chemicals, % YoY, 3mma","Taiwan, MPI, TWD basis, Chemicals, Miscellaneous chemicals, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Plastics and rubber, % YoY, 3mma","Taiwan, MPI, TWD basis, Plastics and rubber, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Plastics and rubber, Plastics, % YoY, 3mma","Taiwan, MPI, TWD basis, Plastics and rubber, Plastics, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Plastics and rubber, Rubber, % YoY, 3mma","Taiwan, MPI, TWD basis, Plastics and rubber, Rubber, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Wood, % YoY, 3mma","Taiwan, MPI, TWD basis, Wood, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Wood, Wood, % YoY, 3mma","Taiwan, MPI, TWD basis, Wood, Wood, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Wood pulp and paper, % YoY, 3mma","Taiwan, MPI, TWD basis, Wood pulp and paper, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Wood pulp and paper, Wood pulp, % YoY, 3mma","Taiwan, MPI, TWD basis, Wood pulp and paper, Wood pulp, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Wood pulp and paper, Paper, % YoY, 3mma","Taiwan, MPI, TWD basis, Wood pulp and paper, Paper, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Textiles and textile articles, % YoY, 3mma","Taiwan, MPI, TWD basis, Textiles and textile articles, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Textiles and textile articles, Knitted, % YoY, 3mma","Taiwan, MPI, TWD basis, Textiles and textile articles, Knitted, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Textiles and textile articles, Not knitted, % YoY, 3mma","Taiwan, MPI, TWD basis, Textiles and textile articles, Not knitted, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, % YoY, 3mma","Taiwan, MPI, TWD basis, Stone materials and glass, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, Stone and cement, % YoY, 3mma","Taiwan, MPI, TWD basis, Stone materials and glass, Stone and cement, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, Ceramics, % YoY, 3mma","Taiwan, MPI, TWD basis, Stone materials and glass, Ceramics, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Stone materials and glass, Glass, % YoY, 3mma","Taiwan, MPI, TWD basis, Stone materials and glass, Glass, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Base metals, % YoY, 3mma","Taiwan, MPI, TWD basis, Base metals, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Base metals, Iron and steel, % YoY, 3mma","Taiwan, MPI, TWD basis, Base metals, Iron and steel, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Base metals, Articles of iron or steel, % YoY, 3mma","Taiwan, MPI, TWD basis, Base metals, Articles of iron or steel, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Base metals, Copper, % YoY, 3mma","Taiwan, MPI, TWD basis, Base metals, Copper, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Base metals, Aluminium, % YoY, 3mma","Taiwan, MPI, TWD basis, Base metals, Aluminium, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Base metals, Tools and parts of base metal, % YoY, 3mma","Taiwan, MPI, TWD basis, Base metals, Tools and parts of base metal, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, % YoY, 3mma","Taiwan, MPI, TWD basis, Machinery and electrical equipment, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, Boilers and machinery, % YoY, 3mma","Taiwan, MPI, TWD basis, Machinery and electrical equipment, Boilers and machinery, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, Electrical machinery, % YoY, 3mma","Taiwan, MPI, TWD basis, Machinery and electrical equipment, Electrical machinery, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Machinery and electrical equipment, Integrated circuits, % YoY, 3mma","Taiwan, MPI, TWD basis, Machinery and electrical equipment, Integrated circuits, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Transportation equipment, % YoY, 3mma","Taiwan, MPI, TWD basis, Transportation equipment, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Transportation equipment, Transportation equipment, % YoY, 3mma","Taiwan, MPI, TWD basis, Transportation equipment, Transportation equipment, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Optical and measuring instruments, % YoY, 3mma","Taiwan, MPI, TWD basis, Optical and measuring instruments, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Optical and measuring instruments, Optica, % YoY, 3mma","Taiwan, MPI, TWD basis, Optical and measuring instruments, Optica, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Optical and measuring instruments, Clocks and watches, % YoY, 3mma","Taiwan, MPI, TWD basis, Optical and measuring instruments, Clocks and watches, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, % YoY, 3mma","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Furniture, % YoY, 3mma","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Furniture, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Toys, % YoY, 3mma","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Toys, % YoY, 3mma",None,line
+"Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Miscellaneous, % YoY, 3mma","Taiwan, MPI, TWD basis, Miscellaneous manufactured articles, Miscellaneous, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Animal products, % YoY, 3mma","Taiwan, MPI, USD basis, Animal products, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Animal products, Meat, % YoY, 3mma","Taiwan, MPI, USD basis, Animal products, Meat, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Animal products, Fish and crustaceans, % YoY, 3mma","Taiwan, MPI, USD basis, Animal products, Fish and crustaceans, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Dairy, % YoY, 3mma","Taiwan, MPI, USD basis, Dairy, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Vegetable products, % YoY, 3mma","Taiwan, MPI, USD basis, Vegetable products, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Edible fruit and nuts, % YoY, 3mma","Taiwan, MPI, USD basis, Edible fruit and nuts, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Cereals, % YoY, 3mma","Taiwan, MPI, USD basis, Cereals, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Cereals, Corn, % YoY, 3mma","Taiwan, MPI, USD basis, Cereals, Corn, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Oil seeds, % YoY, 3mma","Taiwan, MPI, USD basis, Oil seeds, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Oil seeds, Soybeans, % YoY, 3mma","Taiwan, MPI, USD basis, Oil seeds, Soybeans, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Prepared foodstuffs including beverages and tobacco, % YoY, 3mma","Taiwan, MPI, USD basis, Prepared foodstuffs including beverages and tobacco, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Preparations of meat and fish, % YoY, 3mma","Taiwan, MPI, USD basis, Preparations of meat and fish, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Sugars and confectionery, % YoY, 3mma","Taiwan, MPI, USD basis, Sugars and confectionery, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY, 3mma","Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Preparations of cereals, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Miscellaneous edible preparations, % YoY, 3mma","Taiwan, MPI, USD basis, Miscellaneous edible preparations, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY, 3mma","Taiwan, MPI, USD basis, Prepared foodstuffs and beverages, Beverages and spirits, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Residues from food industries, % YoY, 3mma","Taiwan, MPI, USD basis, Residues from food industries, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Mineral products, % YoY, 3mma","Taiwan, MPI, USD basis, Mineral products, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Salt and stone, % YoY, 3mma","Taiwan, MPI, USD basis, Salt and stone, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Energy minerals, % YoY, 3mma","Taiwan, MPI, USD basis, Energy minerals, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Energy minerals, Petroleum, % YoY, 3mma","Taiwan, MPI, USD basis, Energy minerals, Petroleum, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, % YoY, 3mma","Taiwan, MPI, USD basis, Chemicals, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Inorganic chemicals, % YoY, 3mma","Taiwan, MPI, USD basis, Chemicals, Inorganic chemicals, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Organic chemicals, % YoY, 3mma","Taiwan, MPI, USD basis, Chemicals, Organic chemicals, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Ch.pharmaceutical products, % YoY, 3mma","Taiwan, MPI, USD basis, Chemicals, Ch.pharmaceutical products, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Colouring matter and paints, % YoY, 3mma","Taiwan, MPI, USD basis, Chemicals, Colouring matter and paints, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Perfume, % YoY, 3mma","Taiwan, MPI, USD basis, Chemicals, Perfume, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Surface-active agents, % YoY, 3mma","Taiwan, MPI, USD basis, Chemicals, Surface-active agents, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Albuminoidal, % YoY, 3mma","Taiwan, MPI, USD basis, Chemicals, Albuminoidal, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Photographic or cinematographic, % YoY, 3mma","Taiwan, MPI, USD basis, Chemicals, Photographic or cinematographic, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Chemicals, Miscellaneous chemicals, % YoY, 3mma","Taiwan, MPI, USD basis, Chemicals, Miscellaneous chemicals, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Plastics and rubber, % YoY, 3mma","Taiwan, MPI, USD basis, Plastics and rubber, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Plastics and rubber, Plastics, % YoY, 3mma","Taiwan, MPI, USD basis, Plastics and rubber, Plastics, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Plastics and rubber, Rubber, % YoY, 3mma","Taiwan, MPI, USD basis, Plastics and rubber, Rubber, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Wood, % YoY, 3mma","Taiwan, MPI, USD basis, Wood, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Wood, Wood, % YoY, 3mma","Taiwan, MPI, USD basis, Wood, Wood, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Wood pulp and paper, % YoY, 3mma","Taiwan, MPI, USD basis, Wood pulp and paper, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Wood pulp and paper, Wood pulp, % YoY, 3mma","Taiwan, MPI, USD basis, Wood pulp and paper, Wood pulp, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Wood pulp and paper, Paper, % YoY, 3mma","Taiwan, MPI, USD basis, Wood pulp and paper, Paper, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Textiles and textile articles, % YoY, 3mma","Taiwan, MPI, USD basis, Textiles and textile articles, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Textiles and textile articles, Knitted, % YoY, 3mma","Taiwan, MPI, USD basis, Textiles and textile articles, Knitted, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Textiles and textile articles, Not knitted, % YoY, 3mma","Taiwan, MPI, USD basis, Textiles and textile articles, Not knitted, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, % YoY, 3mma","Taiwan, MPI, USD basis, Stone materials and glass, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, Stone and cement, % YoY, 3mma","Taiwan, MPI, USD basis, Stone materials and glass, Stone and cement, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, Ceramics, % YoY, 3mma","Taiwan, MPI, USD basis, Stone materials and glass, Ceramics, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Stone materials and glass, Glass, % YoY, 3mma","Taiwan, MPI, USD basis, Stone materials and glass, Glass, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Base metals, % YoY, 3mma","Taiwan, MPI, USD basis, Base metals, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Base metals, Iron and steel, % YoY, 3mma","Taiwan, MPI, USD basis, Base metals, Iron and steel, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Base metals, Articles of iron or steel, % YoY, 3mma","Taiwan, MPI, USD basis, Base metals, Articles of iron or steel, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Base metals, Copper, % YoY, 3mma","Taiwan, MPI, USD basis, Base metals, Copper, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Base metals, Aluminium, % YoY, 3mma","Taiwan, MPI, USD basis, Base metals, Aluminium, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Base metals, Tools and parts of base metal, % YoY, 3mma","Taiwan, MPI, USD basis, Base metals, Tools and parts of base metal, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, % YoY, 3mma","Taiwan, MPI, USD basis, Machinery and electrical equipment, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, Boilers and machinery, % YoY, 3mma","Taiwan, MPI, USD basis, Machinery and electrical equipment, Boilers and machinery, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, Electrical machinery, % YoY, 3mma","Taiwan, MPI, USD basis, Machinery and electrical equipment, Electrical machinery, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Machinery and electrical equipment, Integrated circuits, % YoY, 3mma","Taiwan, MPI, USD basis, Machinery and electrical equipment, Integrated circuits, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Transportation equipment, % YoY, 3mma","Taiwan, MPI, USD basis, Transportation equipment, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Transportation equipment, Transportation equipment, % YoY, 3mma","Taiwan, MPI, USD basis, Transportation equipment, Transportation equipment, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Optical and measuring instruments, % YoY, 3mma","Taiwan, MPI, USD basis, Optical and measuring instruments, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Optical and measuring instruments, Optica, % YoY, 3mma","Taiwan, MPI, USD basis, Optical and measuring instruments, Optica, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Optical and measuring instruments, Clocks and watches, % YoY, 3mma","Taiwan, MPI, USD basis, Optical and measuring instruments, Clocks and watches, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, % YoY, 3mma","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Furniture, % YoY, 3mma","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Furniture, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Toys, % YoY, 3mma","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Toys, % YoY, 3mma",None,line
+"Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Miscellaneous, % YoY, 3mma","Taiwan, MPI, USD basis, Miscellaneous manufactured articles, Miscellaneous, % YoY, 3mma",None,line
 "Taiwan, TOT, USD basis, % YoY, 3mma","Taiwan, TOT, USD basis, % YoY, 3mma",None,line
 "Taiwan, TOT, TWD basis, % YoY, 3mma","Taiwan, TOT, TWD basis, % YoY, 3mma",None,line
 "Taiwan, MPI, TWD basis, SA, Index, 3mma","Taiwan, MPI, TWD basis, SA, Index, 3mma",None,line
@@ -533,5 +1062,14 @@ name,display_name,data_type,chart_type
 "Taiwan, MPI, FX component, Contribution to % YoY chg in TOT, ppts, 3mma","Taiwan, MPI, FX component, Contribution to % YoY chg in TOT, ppts, 3mma",None,bar
 "Taiwan, TOT, TWD basis, % YoY, Sum of components, 3mma","Taiwan, TOT, TWD basis, % YoY, Sum of components, 3mma",None,line
 "Taiwan, TOT, TWD basis, % YoY, Published, 3mma","Taiwan, TOT, TWD basis, % YoY, Published, 3mma",None,line
+"Taiwan, MPI, TWD basis, Raw materials, Agricultural, Contribution to % YoY, ppts, 3mma","Taiwan, MPI, TWD basis, Raw materials, Agricultural, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, MPI, TWD basis, Raw materials, Industrial, Contribution to % YoY, ppts, 3mma","Taiwan, MPI, TWD basis, Raw materials, Industrial, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, MPI, TWD basis, Raw materials, Energy, Contribution to % YoY, ppts, 3mma","Taiwan, MPI, TWD basis, Raw materials, Energy, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, MPI, TWD basis, Capital goods, Contribution to % YoY, ppts, 3mma","Taiwan, MPI, TWD basis, Capital goods, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, MPI, TWD basis, Consumer goods, Contribution to % YoY, ppts, 3mma","Taiwan, MPI, TWD basis, Consumer goods, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, MPI, TWD basis, Re-weighting residual, Contribution to % YoY, ppts, 3mma","Taiwan, MPI, TWD basis, Re-weighting residual, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, MPI, TWD basis, Integrated circuits, Contribution to % YoY, ppts, 3mma","Taiwan, MPI, TWD basis, Integrated circuits, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, MPI, TWD basis, Excluding integrated circuits, Contribution to % YoY, ppts, 3mma","Taiwan, MPI, TWD basis, Excluding integrated circuits, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, MPI, All items excluding semiconductors, % YoY, 3mma","Taiwan, MPI, All items excluding semiconductors, % YoY, 3mma",None,line
 "Taiwan, EPI, USD basis, Index, 60mma","Taiwan, EPI, USD basis, Index, 60mma",None,line
 "Taiwan, EPI, TWD basis, Index, 60mma","Taiwan, EPI, TWD basis, Index, 60mma",None,line

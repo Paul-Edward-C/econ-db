@@ -1311,6 +1311,33 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Public services excluding international air travel, % YoY","Korea, CPI, Public services excluding international air travel, % YoY",None,line
 "Korea, CPI, Services, Public services, International air travel, % YoY","Korea, CPI, Services, Public services, International air travel, % YoY",None,line
 "Korea, CPI, Services, Public services, International air travel, Contribution to YoY chg in public services, ppts","Korea, CPI, Services, Public services, International air travel, Contribution to YoY chg in public services, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Cars, % YoY","Korea, CPI, Goods, Industrial products, Durable goods, Cars, % YoY",None,line
+"Korea, CPI, Goods, Industrial products, Durable goods, Other transport, % YoY","Korea, CPI, Goods, Industrial products, Durable goods, Other transport, % YoY",None,line
+"Korea, CPI, Goods, Industrial products, Durable goods, Furniture, % YoY","Korea, CPI, Goods, Industrial products, Durable goods, Furniture, % YoY",None,line
+"Korea, CPI, Goods, Industrial products, Durable goods, Household appliances, % YoY","Korea, CPI, Goods, Industrial products, Durable goods, Household appliances, % YoY",None,line
+"Korea, CPI, Goods, Industrial products, Durable goods, Mobile phones, % YoY","Korea, CPI, Goods, Industrial products, Durable goods, Mobile phones, % YoY",None,line
+"Korea, CPI, Goods, Industrial products, Durable goods, IT and audio-visual, % YoY","Korea, CPI, Goods, Industrial products, Durable goods, IT and audio-visual, % YoY",None,line
+"Korea, CPI, Goods, Industrial products, Durable goods, Other durables, % YoY","Korea, CPI, Goods, Industrial products, Durable goods, Other durables, % YoY",None,line
+"Korea, CPI, Goods, Industrial products, Durable goods, Cars, Contribution to durable goods YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, Cars, Contribution to durable goods YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Other transport, Contribution to durable goods YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, Other transport, Contribution to durable goods YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Furniture, Contribution to durable goods YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, Furniture, Contribution to durable goods YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Household appliances, Contribution to durable goods YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, Household appliances, Contribution to durable goods YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Mobile phones, Contribution to durable goods YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, Mobile phones, Contribution to durable goods YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, IT and audio-visual, Contribution to durable goods YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, IT and audio-visual, Contribution to durable goods YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Other durables, Contribution to durable goods YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, Other durables, Contribution to durable goods YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Cars, Contribution to CPI YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, Cars, Contribution to CPI YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Other transport, Contribution to CPI YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, Other transport, Contribution to CPI YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Furniture, Contribution to CPI YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, Furniture, Contribution to CPI YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Household appliances, Contribution to CPI YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, Household appliances, Contribution to CPI YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Mobile phones, Contribution to CPI YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, Mobile phones, Contribution to CPI YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, IT and audio-visual, Contribution to CPI YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, IT and audio-visual, Contribution to CPI YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Other durables, Contribution to CPI YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, Other durables, Contribution to CPI YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Residual, Contribution to durable goods YoY, ppts","Korea, CPI, Goods, Industrial products, Durable goods, Residual, Contribution to durable goods YoY, ppts",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Calculated, % YoY","Korea, CPI, Goods, Industrial products, Durable goods, Calculated, % YoY",None,line
+"Korea, CPI, Goods, Food, Index","Korea, CPI, Goods, Food, Index",None,line
+"Korea, CPI, Goods, Food, % YoY","Korea, CPI, Goods, Food, % YoY",None,line
+"Korea, CPI, Goods, Core industrial, Index","Korea, CPI, Goods, Core industrial, Index",None,line
+"Korea, CPI, Goods, Core industrial, % YoY","Korea, CPI, Goods, Core industrial, % YoY",None,line
 "Korea, CPI, All items, Index, SA","Korea, CPI, All items, Index, SA",None,line
 "Korea, CPI, All items excluding food and energy, Index, SA","Korea, CPI, All items excluding food and energy, Index, SA",None,line
 "Korea, CPI, Goods, Industrial products, Index, SA","Korea, CPI, Goods, Industrial products, Index, SA",None,line
@@ -2726,6 +2753,33 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Public services excluding international air travel, % YoY, 3mma","Korea, CPI, Public services excluding international air travel, % YoY, 3mma",None,line
 "Korea, CPI, Services, Public services, International air travel, % YoY, 3mma","Korea, CPI, Services, Public services, International air travel, % YoY, 3mma",None,line
 "Korea, CPI, Services, Public services, International air travel, Contribution to YoY chg in public services, ppts, 3mma","Korea, CPI, Services, Public services, International air travel, Contribution to YoY chg in public services, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Cars, % YoY, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Cars, % YoY, 3mma",None,line
+"Korea, CPI, Goods, Industrial products, Durable goods, Other transport, % YoY, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Other transport, % YoY, 3mma",None,line
+"Korea, CPI, Goods, Industrial products, Durable goods, Furniture, % YoY, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Furniture, % YoY, 3mma",None,line
+"Korea, CPI, Goods, Industrial products, Durable goods, Household appliances, % YoY, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Household appliances, % YoY, 3mma",None,line
+"Korea, CPI, Goods, Industrial products, Durable goods, Mobile phones, % YoY, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Mobile phones, % YoY, 3mma",None,line
+"Korea, CPI, Goods, Industrial products, Durable goods, IT and audio-visual, % YoY, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, IT and audio-visual, % YoY, 3mma",None,line
+"Korea, CPI, Goods, Industrial products, Durable goods, Other durables, % YoY, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Other durables, % YoY, 3mma",None,line
+"Korea, CPI, Goods, Industrial products, Durable goods, Cars, Contribution to durable goods YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Cars, Contribution to durable goods YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Other transport, Contribution to durable goods YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Other transport, Contribution to durable goods YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Furniture, Contribution to durable goods YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Furniture, Contribution to durable goods YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Household appliances, Contribution to durable goods YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Household appliances, Contribution to durable goods YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Mobile phones, Contribution to durable goods YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Mobile phones, Contribution to durable goods YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, IT and audio-visual, Contribution to durable goods YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, IT and audio-visual, Contribution to durable goods YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Other durables, Contribution to durable goods YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Other durables, Contribution to durable goods YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Cars, Contribution to CPI YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Cars, Contribution to CPI YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Other transport, Contribution to CPI YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Other transport, Contribution to CPI YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Furniture, Contribution to CPI YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Furniture, Contribution to CPI YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Household appliances, Contribution to CPI YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Household appliances, Contribution to CPI YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Mobile phones, Contribution to CPI YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Mobile phones, Contribution to CPI YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, IT and audio-visual, Contribution to CPI YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, IT and audio-visual, Contribution to CPI YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Other durables, Contribution to CPI YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Other durables, Contribution to CPI YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Residual, Contribution to durable goods YoY, ppts, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Residual, Contribution to durable goods YoY, ppts, 3mma",None,bar
+"Korea, CPI, Goods, Industrial products, Durable goods, Calculated, % YoY, 3mma","Korea, CPI, Goods, Industrial products, Durable goods, Calculated, % YoY, 3mma",None,line
+"Korea, CPI, Goods, Food, Index, 3mma","Korea, CPI, Goods, Food, Index, 3mma",None,line
+"Korea, CPI, Goods, Food, % YoY, 3mma","Korea, CPI, Goods, Food, % YoY, 3mma",None,line
+"Korea, CPI, Goods, Core industrial, Index, 3mma","Korea, CPI, Goods, Core industrial, Index, 3mma",None,line
+"Korea, CPI, Goods, Core industrial, % YoY, 3mma","Korea, CPI, Goods, Core industrial, % YoY, 3mma",None,line
 "Korea, CPI, All items, Index, SA, 3mma","Korea, CPI, All items, Index, SA, 3mma",None,line
 "Korea, CPI, All items excluding food and energy, Index, SA, 3mma","Korea, CPI, All items excluding food and energy, Index, SA, 3mma",None,line
 "Korea, CPI, Goods, Industrial products, Index, SA, 3mma","Korea, CPI, Goods, Industrial products, Index, SA, 3mma",None,line
@@ -3341,3 +3395,4 @@ name,display_name,data_type,chart_type
 "Korea, CPI, Fiscal cost, KEPCO tariff freeze, % of GDP","Korea, CPI, Fiscal cost, KEPCO tariff freeze, % of GDP",None,line
 "Korea, CPI, Fiscal cost, KOGAS cross-subsidy, % of GDP","Korea, CPI, Fiscal cost, KOGAS cross-subsidy, % of GDP",None,line
 "Korea, CPI, Fiscal cost, Total energy, % of GDP","Korea, CPI, Fiscal cost, Total energy, % of GDP",None,line
+"Korea, CPI, P-star price gap, %","Korea, CPI, P-star price gap, %",None,line

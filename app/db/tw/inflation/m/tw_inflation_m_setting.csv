@@ -195,6 +195,12 @@ name,display_name,data_type,chart_type
 "Taiwan, CPI, Broad energy and food, % YoY","Taiwan, CPI, Broad energy and food, % YoY",None,line
 "Taiwan, CPI, All items excluding broad energy and food, % YoY","Taiwan, CPI, All items excluding broad energy and food, % YoY",None,line
 "Taiwan, CPI, All items excluding broad energy and food, Contribution to % YoY, ppts","Taiwan, CPI, All items excluding broad energy and food, Contribution to % YoY, ppts",None,bar
+"Taiwan, CPI, Travel, Air fares, % YoY","Taiwan, CPI, Travel, Air fares, % YoY",None,line
+"Taiwan, CPI, Travel, Hotel charges, % YoY","Taiwan, CPI, Travel, Hotel charges, % YoY",None,line
+"Taiwan, CPI, Travel, Package holidays, Overseas, % YoY","Taiwan, CPI, Travel, Package holidays, Overseas, % YoY",None,line
+"Taiwan, CPI, Travel, Package holidays, Domestic, % YoY","Taiwan, CPI, Travel, Package holidays, Domestic, % YoY",None,line
+"Taiwan, CPI, Travel, % YoY","Taiwan, CPI, Travel, % YoY",None,line
+"Taiwan, CPI, Travel, Contribution to % YoY, ppts","Taiwan, CPI, Travel, Contribution to % YoY, ppts",None,bar
 "Taiwan, CPI, Diffusion, Weighted share rising, %","Taiwan, CPI, Diffusion, Weighted share rising, %",None,line
 "Taiwan, CPI, Diffusion, Weighted share above 2pc, %","Taiwan, CPI, Diffusion, Weighted share above 2pc, %",None,line
 "Taiwan, CPI, Diffusion, Weighted share falling, %","Taiwan, CPI, Diffusion, Weighted share falling, %",None,line
@@ -400,6 +406,12 @@ name,display_name,data_type,chart_type
 "Taiwan, CPI, Broad energy and food, % YoY, 3mma","Taiwan, CPI, Broad energy and food, % YoY, 3mma",None,line
 "Taiwan, CPI, All items excluding broad energy and food, % YoY, 3mma","Taiwan, CPI, All items excluding broad energy and food, % YoY, 3mma",None,line
 "Taiwan, CPI, All items excluding broad energy and food, Contribution to % YoY, ppts, 3mma","Taiwan, CPI, All items excluding broad energy and food, Contribution to % YoY, ppts, 3mma",None,bar
+"Taiwan, CPI, Travel, Air fares, % YoY, 3mma","Taiwan, CPI, Travel, Air fares, % YoY, 3mma",None,line
+"Taiwan, CPI, Travel, Hotel charges, % YoY, 3mma","Taiwan, CPI, Travel, Hotel charges, % YoY, 3mma",None,line
+"Taiwan, CPI, Travel, Package holidays, Overseas, % YoY, 3mma","Taiwan, CPI, Travel, Package holidays, Overseas, % YoY, 3mma",None,line
+"Taiwan, CPI, Travel, Package holidays, Domestic, % YoY, 3mma","Taiwan, CPI, Travel, Package holidays, Domestic, % YoY, 3mma",None,line
+"Taiwan, CPI, Travel, % YoY, 3mma","Taiwan, CPI, Travel, % YoY, 3mma",None,line
+"Taiwan, CPI, Travel, Contribution to % YoY, ppts, 3mma","Taiwan, CPI, Travel, Contribution to % YoY, ppts, 3mma",None,bar
 "Taiwan, CPI, Diffusion, Weighted share rising, %, 3mma","Taiwan, CPI, Diffusion, Weighted share rising, %, 3mma",None,line
 "Taiwan, CPI, Diffusion, Weighted share above 2pc, %, 3mma","Taiwan, CPI, Diffusion, Weighted share above 2pc, %, 3mma",None,line
 "Taiwan, CPI, Diffusion, Weighted share falling, %, 3mma","Taiwan, CPI, Diffusion, Weighted share falling, %, 3mma",None,line
@@ -409,3 +421,4 @@ name,display_name,data_type,chart_type
 "Taiwan, CPI, Diffusion, Weighted share, YoY 0 to 2, %, 3mma","Taiwan, CPI, Diffusion, Weighted share, YoY 0 to 2, %, 3mma",None,line
 "Taiwan, CPI, Diffusion, Weighted share, YoY 2 to 4, %, 3mma","Taiwan, CPI, Diffusion, Weighted share, YoY 2 to 4, %, 3mma",None,line
 "Taiwan, CPI, Diffusion, Weighted share, YoY 4 plus, %, 3mma","Taiwan, CPI, Diffusion, Weighted share, YoY 4 plus, %, 3mma",None,line
+"Taiwan, CPI, P-star price gap, %","Taiwan, CPI, P-star price gap, %",None,line
