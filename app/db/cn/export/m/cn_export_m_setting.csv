@@ -792,6 +792,7 @@ name,display_name,data_type,chart_type
 "China, Area, Trade balance, Country, Cape Verde, USD bn","China, Area, Trade balance, Country, Cape Verde, USD bn",None,line
 "China, Area, Trade balance, Country, Cayman Islands, USD bn","China, Area, Trade balance, Country, Cayman Islands, USD bn",None,line
 "China, Area, Trade balance, Country, Central African Republic, USD bn","China, Area, Trade balance, Country, Central African Republic, USD bn",None,line
+"China, Area, Trade balance, Country, Ceuta, USD bn","China, Area, Trade balance, Country, Ceuta, USD bn",None,line
 "China, Area, Trade balance, Country, Chad, USD bn","China, Area, Trade balance, Country, Chad, USD bn",None,line
 "China, Area, Trade balance, Country, Chile, USD bn","China, Area, Trade balance, Country, Chile, USD bn",None,line
 "China, Area, Trade balance, Country, Christmas Island, USD bn","China, Area, Trade balance, Country, Christmas Island, USD bn",None,line
@@ -1761,6 +1762,7 @@ name,display_name,data_type,chart_type
 "China, Area, Trade balance, Country, Cape Verde, % of GDP","China, Area, Trade balance, Country, Cape Verde, % of GDP",None,line
 "China, Area, Trade balance, Country, Cayman Islands, % of GDP","China, Area, Trade balance, Country, Cayman Islands, % of GDP",None,line
 "China, Area, Trade balance, Country, Central African Republic, % of GDP","China, Area, Trade balance, Country, Central African Republic, % of GDP",None,line
+"China, Area, Trade balance, Country, Ceuta, % of GDP","China, Area, Trade balance, Country, Ceuta, % of GDP",None,line
 "China, Area, Trade balance, Country, Chad, % of GDP","China, Area, Trade balance, Country, Chad, % of GDP",None,line
 "China, Area, Trade balance, Country, Chile, % of GDP","China, Area, Trade balance, Country, Chile, % of GDP",None,line
 "China, Area, Trade balance, Country, Christmas Island, % of GDP","China, Area, Trade balance, Country, Christmas Island, % of GDP",None,line
@@ -2307,6 +2309,7 @@ name,display_name,data_type,chart_type
 "China, Area, Imports, Country, Bosnia and Herzegovina, USD bn, % YoY","China, Area, Imports, Country, Bosnia and Herzegovina, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Botswana, USD bn, % YoY","China, Area, Imports, Country, Botswana, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Brazil, USD bn, % YoY","China, Area, Imports, Country, Brazil, USD bn, % YoY",None,line
+"China, Area, Imports, Country, British Indian Ocean Territory, USD bn, % YoY","China, Area, Imports, Country, British Indian Ocean Territory, USD bn, % YoY",None,line
 "China, Area, Imports, Country, British Virgin Islands, USD bn, % YoY","China, Area, Imports, Country, British Virgin Islands, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Brunei Darussalam, USD bn, % YoY","China, Area, Imports, Country, Brunei Darussalam, USD bn, % YoY",None,line
 "China, Area, Imports, Country, Brunei, USD bn, % YoY","China, Area, Imports, Country, Brunei, USD bn, % YoY",None,line

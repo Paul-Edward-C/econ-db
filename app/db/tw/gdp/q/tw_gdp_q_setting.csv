@@ -420,8 +420,16 @@ name,display_name,data_type,chart_type
 "Taiwan, Deflator, Activity, Tertiary, Accommodation and food services, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Accommodation and food services, TWD, % YoY",None,line
 "Taiwan, Deflator, Activity, Tertiary, Arts, sports and recreation, Index","Taiwan, Deflator, Activity, Tertiary, Arts, sports and recreation, Index",None,line
 "Taiwan, Deflator, Activity, Tertiary, Arts, sports and recreation, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Arts, sports and recreation, TWD, % YoY",None,line
+"Taiwan, Deflator, Activity, Tertiary, Business and ICT services, Index","Taiwan, Deflator, Activity, Tertiary, Business and ICT services, Index",None,line
+"Taiwan, Deflator, Activity, Tertiary, Business and ICT services, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Business and ICT services, TWD, % YoY",None,line
+"Taiwan, Deflator, Activity, Tertiary, Consumer services, Index","Taiwan, Deflator, Activity, Tertiary, Consumer services, Index",None,line
+"Taiwan, Deflator, Activity, Tertiary, Consumer services, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Consumer services, TWD, % YoY",None,line
 "Taiwan, Deflator, Activity, Tertiary, Education, Index","Taiwan, Deflator, Activity, Tertiary, Education, Index",None,line
 "Taiwan, Deflator, Activity, Tertiary, Education, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Education, TWD, % YoY",None,line
+"Taiwan, Deflator, Activity, Tertiary, Excluding taxes, Index","Taiwan, Deflator, Activity, Tertiary, Excluding taxes, Index",None,line
+"Taiwan, Deflator, Activity, Tertiary, Excluding taxes, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Excluding taxes, TWD, % YoY",None,line
+"Taiwan, Deflator, Activity, Tertiary, Finance and real estate, Index","Taiwan, Deflator, Activity, Tertiary, Finance and real estate, Index",None,line
+"Taiwan, Deflator, Activity, Tertiary, Finance and real estate, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Finance and real estate, TWD, % YoY",None,line
 "Taiwan, Deflator, Activity, Tertiary, Financial and insurance, Index","Taiwan, Deflator, Activity, Tertiary, Financial and insurance, Index",None,line
 "Taiwan, Deflator, Activity, Tertiary, Financial and insurance, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Financial and insurance, TWD, % YoY",None,line
 "Taiwan, Deflator, Activity, Tertiary, Human health and social work, Index","Taiwan, Deflator, Activity, Tertiary, Human health and social work, Index",None,line
@@ -435,11 +443,15 @@ name,display_name,data_type,chart_type
 "Taiwan, Deflator, Activity, Tertiary, Professional, scientific and technical services, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Professional, scientific and technical services, TWD, % YoY",None,line
 "Taiwan, Deflator, Activity, Tertiary, Public administration, defence and social security, Index","Taiwan, Deflator, Activity, Tertiary, Public administration, defence and social security, Index",None,line
 "Taiwan, Deflator, Activity, Tertiary, Public administration, defence and social security, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Public administration, defence and social security, TWD, % YoY",None,line
+"Taiwan, Deflator, Activity, Tertiary, Public and social, Index","Taiwan, Deflator, Activity, Tertiary, Public and social, Index",None,line
+"Taiwan, Deflator, Activity, Tertiary, Public and social, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Public and social, TWD, % YoY",None,line
 "Taiwan, Deflator, Activity, Tertiary, Real estate, Index","Taiwan, Deflator, Activity, Tertiary, Real estate, Index",None,line
 "Taiwan, Deflator, Activity, Tertiary, Real estate, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Real estate, TWD, % YoY",None,line
 "Taiwan, Deflator, Activity, Tertiary, Support services, Index","Taiwan, Deflator, Activity, Tertiary, Support services, Index",None,line
 "Taiwan, Deflator, Activity, Tertiary, Support services, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Support services, TWD, % YoY",None,line
 "Taiwan, Deflator, Activity, Tertiary, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, TWD, % YoY",None,line
+"Taiwan, Deflator, Activity, Tertiary, Trade and logistics, Index","Taiwan, Deflator, Activity, Tertiary, Trade and logistics, Index",None,line
+"Taiwan, Deflator, Activity, Tertiary, Trade and logistics, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Trade and logistics, TWD, % YoY",None,line
 "Taiwan, Deflator, Activity, Tertiary, Transport and storage, Index","Taiwan, Deflator, Activity, Tertiary, Transport and storage, Index",None,line
 "Taiwan, Deflator, Activity, Tertiary, Transport and storage, TWD, % YoY","Taiwan, Deflator, Activity, Tertiary, Transport and storage, TWD, % YoY",None,line
 "Taiwan, Deflator, Activity, Tertiary, Wholesale and retail, Index","Taiwan, Deflator, Activity, Tertiary, Wholesale and retail, Index",None,line
@@ -476,12 +488,20 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Activity, Tertiary, Accommodation and food services, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Accommodation and food services, TWD, % YoY",None,line
 "Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, TWD bn","Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, TWD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, TWD, % YoY",None,line
+"Taiwan, NGDP, Activity, Tertiary, Business and ICT services, TWD bn","Taiwan, NGDP, Activity, Tertiary, Business and ICT services, TWD bn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Business and ICT services, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Business and ICT services, TWD, % YoY",None,line
 "Taiwan, NGDP, Activity, Tertiary, Business, TWD bn","Taiwan, NGDP, Activity, Tertiary, Business, TWD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Business, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Business, TWD, % YoY",None,line
+"Taiwan, NGDP, Activity, Tertiary, Consumer services, TWD bn","Taiwan, NGDP, Activity, Tertiary, Consumer services, TWD bn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Consumer services, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Consumer services, TWD, % YoY",None,line
 "Taiwan, NGDP, Activity, Tertiary, Consumer, TWD bn","Taiwan, NGDP, Activity, Tertiary, Consumer, TWD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Consumer, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Consumer, TWD, % YoY",None,line
 "Taiwan, NGDP, Activity, Tertiary, Education, TWD bn","Taiwan, NGDP, Activity, Tertiary, Education, TWD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Education, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Education, TWD, % YoY",None,line
+"Taiwan, NGDP, Activity, Tertiary, Excluding taxes, TWD bn","Taiwan, NGDP, Activity, Tertiary, Excluding taxes, TWD bn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Excluding taxes, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Excluding taxes, TWD, % YoY",None,line
+"Taiwan, NGDP, Activity, Tertiary, Finance and real estate, TWD bn","Taiwan, NGDP, Activity, Tertiary, Finance and real estate, TWD bn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Finance and real estate, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Finance and real estate, TWD, % YoY",None,line
 "Taiwan, NGDP, Activity, Tertiary, Financial and insurance, TWD bn","Taiwan, NGDP, Activity, Tertiary, Financial and insurance, TWD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Financial and insurance, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Financial and insurance, TWD, % YoY",None,line
 "Taiwan, NGDP, Activity, Tertiary, Human health and social work, TWD bn","Taiwan, NGDP, Activity, Tertiary, Human health and social work, TWD bn",None,line
@@ -494,12 +514,16 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Activity, Tertiary, Professional, scientific and technical services, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Professional, scientific and technical services, TWD, % YoY",None,line
 "Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, TWD bn","Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, TWD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, TWD, % YoY",None,line
+"Taiwan, NGDP, Activity, Tertiary, Public and social, TWD bn","Taiwan, NGDP, Activity, Tertiary, Public and social, TWD bn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Public and social, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Public and social, TWD, % YoY",None,line
 "Taiwan, NGDP, Activity, Tertiary, Real estate, TWD bn","Taiwan, NGDP, Activity, Tertiary, Real estate, TWD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Real estate, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Real estate, TWD, % YoY",None,line
 "Taiwan, NGDP, Activity, Tertiary, Support services, TWD bn","Taiwan, NGDP, Activity, Tertiary, Support services, TWD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Support services, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Support services, TWD, % YoY",None,line
 "Taiwan, NGDP, Activity, Tertiary, TWD bn","Taiwan, NGDP, Activity, Tertiary, TWD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, TWD, % YoY",None,line
+"Taiwan, NGDP, Activity, Tertiary, Trade and logistics, TWD bn","Taiwan, NGDP, Activity, Tertiary, Trade and logistics, TWD bn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Trade and logistics, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Trade and logistics, TWD, % YoY",None,line
 "Taiwan, NGDP, Activity, Tertiary, Transport and storage, TWD bn","Taiwan, NGDP, Activity, Tertiary, Transport and storage, TWD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Transport and storage, TWD, % YoY","Taiwan, NGDP, Activity, Tertiary, Transport and storage, TWD, % YoY",None,line
 "Taiwan, NGDP, Activity, Tertiary, Wholesale and retail, TWD bn","Taiwan, NGDP, Activity, Tertiary, Wholesale and retail, TWD bn",None,line
@@ -551,49 +575,86 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDP, Activity, TWD bn","Taiwan, RGDP, Activity, TWD bn",None,line
 "Taiwan, RGDP, Activity, TWD, % YoY","Taiwan, RGDP, Activity, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, Contribution to tertiary YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, TWD bn","Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, Contribution to tertiary YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, TWD bn","Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, TWD, % YoY",None,line
+"Taiwan, RGDP, Activity, Tertiary, Business and ICT services, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Business and ICT services, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Business and ICT services, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Business and ICT services, Contribution to tertiary YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Business and ICT services, TWD bn","Taiwan, RGDP, Activity, Tertiary, Business and ICT services, TWD bn",None,line
+"Taiwan, RGDP, Activity, Tertiary, Business and ICT services, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Business and ICT services, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Business, TWD bn","Taiwan, RGDP, Activity, Tertiary, Business, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Business, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Business, TWD, % YoY",None,line
+"Taiwan, RGDP, Activity, Tertiary, Consumer services, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Consumer services, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Consumer services, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Consumer services, Contribution to tertiary YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Consumer services, TWD bn","Taiwan, RGDP, Activity, Tertiary, Consumer services, TWD bn",None,line
+"Taiwan, RGDP, Activity, Tertiary, Consumer services, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Consumer services, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Consumer, TWD bn","Taiwan, RGDP, Activity, Tertiary, Consumer, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Consumer, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Consumer, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Contribution to YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Education, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Education, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Education, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Education, Contribution to tertiary YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Education, TWD bn","Taiwan, RGDP, Activity, Tertiary, Education, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Education, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Education, TWD, % YoY",None,line
+"Taiwan, RGDP, Activity, Tertiary, Excluding taxes, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Excluding taxes, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Excluding taxes, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Excluding taxes, Contribution to tertiary YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Excluding taxes, TWD bn","Taiwan, RGDP, Activity, Tertiary, Excluding taxes, TWD bn",None,line
+"Taiwan, RGDP, Activity, Tertiary, Excluding taxes, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Excluding taxes, TWD, % YoY",None,line
+"Taiwan, RGDP, Activity, Tertiary, Finance and real estate, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Finance and real estate, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Finance and real estate, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Finance and real estate, Contribution to tertiary YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Finance and real estate, TWD bn","Taiwan, RGDP, Activity, Tertiary, Finance and real estate, TWD bn",None,line
+"Taiwan, RGDP, Activity, Tertiary, Finance and real estate, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Finance and real estate, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Financial and insurance, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Financial and insurance, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Financial and insurance, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Financial and insurance, Contribution to tertiary YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Financial and insurance, TWD bn","Taiwan, RGDP, Activity, Tertiary, Financial and insurance, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Financial and insurance, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Financial and insurance, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Human health and social work, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Human health and social work, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Human health and social work, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Human health and social work, Contribution to tertiary YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Human health and social work, TWD bn","Taiwan, RGDP, Activity, Tertiary, Human health and social work, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Human health and social work, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Human health and social work, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Information and communication, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Information and communication, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Information and communication, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Information and communication, Contribution to tertiary YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Information and communication, TWD bn","Taiwan, RGDP, Activity, Tertiary, Information and communication, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Information and communication, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Information and communication, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Other services, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Other services, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Other services, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Other services, Contribution to tertiary YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Other services, TWD bn","Taiwan, RGDP, Activity, Tertiary, Other services, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Other services, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Other services, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, Contribution to tertiary YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, TWD bn","Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, Contribution to tertiary YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, TWD bn","Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, TWD, % YoY",None,line
+"Taiwan, RGDP, Activity, Tertiary, Public and social, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Public and social, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Public and social, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Public and social, Contribution to tertiary YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Public and social, TWD bn","Taiwan, RGDP, Activity, Tertiary, Public and social, TWD bn",None,line
+"Taiwan, RGDP, Activity, Tertiary, Public and social, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Public and social, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Real estate, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Real estate, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Real estate, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Real estate, Contribution to tertiary YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Real estate, TWD bn","Taiwan, RGDP, Activity, Tertiary, Real estate, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Real estate, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Real estate, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Support services, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Support services, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Support services, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Support services, Contribution to tertiary YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Support services, TWD bn","Taiwan, RGDP, Activity, Tertiary, Support services, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Support services, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Support services, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, TWD bn","Taiwan, RGDP, Activity, Tertiary, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, TWD, % YoY",None,line
+"Taiwan, RGDP, Activity, Tertiary, Trade and logistics, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Trade and logistics, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Trade and logistics, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Trade and logistics, Contribution to tertiary YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Trade and logistics, TWD bn","Taiwan, RGDP, Activity, Tertiary, Trade and logistics, TWD bn",None,line
+"Taiwan, RGDP, Activity, Tertiary, Trade and logistics, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Trade and logistics, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Transport and storage, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Transport and storage, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Transport and storage, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Transport and storage, Contribution to tertiary YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Transport and storage, TWD bn","Taiwan, RGDP, Activity, Tertiary, Transport and storage, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Transport and storage, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Transport and storage, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, Contribution to YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, Contribution to YoY chg, ppts",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, Contribution to tertiary YoY chg, ppts","Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, Contribution to tertiary YoY chg, ppts",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, TWD bn","Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, TWD bn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, TWD, % YoY","Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, TWD, % YoY",None,line
 "Taiwan, RGDP, Activity, Total excluding statistical disrepancy, TWD bn","Taiwan, RGDP, Activity, Total excluding statistical disrepancy, TWD bn",None,line
@@ -1054,18 +1115,24 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Activity, USD bn","Taiwan, NGDP, Activity, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Accommodation and food services, USD bn","Taiwan, NGDP, Activity, Tertiary, Accommodation and food services, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, USD bn","Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, USD bn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Business and ICT services, USD bn","Taiwan, NGDP, Activity, Tertiary, Business and ICT services, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Business, USD bn","Taiwan, NGDP, Activity, Tertiary, Business, USD bn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Consumer services, USD bn","Taiwan, NGDP, Activity, Tertiary, Consumer services, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Consumer, USD bn","Taiwan, NGDP, Activity, Tertiary, Consumer, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Education, USD bn","Taiwan, NGDP, Activity, Tertiary, Education, USD bn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Excluding taxes, USD bn","Taiwan, NGDP, Activity, Tertiary, Excluding taxes, USD bn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Finance and real estate, USD bn","Taiwan, NGDP, Activity, Tertiary, Finance and real estate, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Financial and insurance, USD bn","Taiwan, NGDP, Activity, Tertiary, Financial and insurance, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Human health and social work, USD bn","Taiwan, NGDP, Activity, Tertiary, Human health and social work, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Information and communication, USD bn","Taiwan, NGDP, Activity, Tertiary, Information and communication, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Other services, USD bn","Taiwan, NGDP, Activity, Tertiary, Other services, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Professional, scientific and technical services, USD bn","Taiwan, NGDP, Activity, Tertiary, Professional, scientific and technical services, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, USD bn","Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, USD bn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Public and social, USD bn","Taiwan, NGDP, Activity, Tertiary, Public and social, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Real estate, USD bn","Taiwan, NGDP, Activity, Tertiary, Real estate, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Support services, USD bn","Taiwan, NGDP, Activity, Tertiary, Support services, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, USD bn","Taiwan, NGDP, Activity, Tertiary, USD bn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Trade and logistics, USD bn","Taiwan, NGDP, Activity, Tertiary, Trade and logistics, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Transport and storage, USD bn","Taiwan, NGDP, Activity, Tertiary, Transport and storage, USD bn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Wholesale and retail, USD bn","Taiwan, NGDP, Activity, Tertiary, Wholesale and retail, USD bn",None,line
 "Taiwan, NGDP, Activity, Total excluding statistical disrepancy, USD bn","Taiwan, NGDP, Activity, Total excluding statistical disrepancy, USD bn",None,line
@@ -1078,8 +1145,8 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Expenditure, Net exports of goods and services, Exports of goods and services, Services, SA, USD bn","Taiwan, NGDP, Expenditure, Net exports of goods and services, Exports of goods and services, Services, SA, USD bn",None,line
 "Taiwan, NGDP, Expenditure, TWD bn, 12M sum","Taiwan, NGDP, Expenditure, TWD bn, 12M sum",None,line
 "Taiwan, NGDP, Expenditure, USD bn, 12M sum","Taiwan, NGDP, Expenditure, USD bn, 12M sum",None,line
-"Taiwan, RGDP, Expenditure, HP filter, cycle","Taiwan, RGDP, Expenditure, HP filter, cycle",None,line
 "Taiwan, RGDP, Expenditure, HP filter, trend","Taiwan, RGDP, Expenditure, HP filter, trend",None,line
+"Taiwan, RGDP, Expenditure, HP filter, cycle","Taiwan, RGDP, Expenditure, HP filter, cycle",None,line
 "Taiwan, RGDP, Expenditure, HP filter, output gap","Taiwan, RGDP, Expenditure, HP filter, output gap",None,line
 "Taiwan, RGDP, Expenditure, Hamilton filter, Trend","Taiwan, RGDP, Expenditure, Hamilton filter, Trend",None,line
 "Taiwan, RGDP, Expenditure, Hamilton filter, Cycle","Taiwan, RGDP, Expenditure, Hamilton filter, Cycle",None,line
@@ -1865,18 +1932,24 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Activity, TWD tn","Taiwan, NGDP, Activity, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Accommodation and food services, TWD tn","Taiwan, NGDP, Activity, Tertiary, Accommodation and food services, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, TWD tn","Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, TWD tn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Business and ICT services, TWD tn","Taiwan, NGDP, Activity, Tertiary, Business and ICT services, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Business, TWD tn","Taiwan, NGDP, Activity, Tertiary, Business, TWD tn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Consumer services, TWD tn","Taiwan, NGDP, Activity, Tertiary, Consumer services, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Consumer, TWD tn","Taiwan, NGDP, Activity, Tertiary, Consumer, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Education, TWD tn","Taiwan, NGDP, Activity, Tertiary, Education, TWD tn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Excluding taxes, TWD tn","Taiwan, NGDP, Activity, Tertiary, Excluding taxes, TWD tn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Finance and real estate, TWD tn","Taiwan, NGDP, Activity, Tertiary, Finance and real estate, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Financial and insurance, TWD tn","Taiwan, NGDP, Activity, Tertiary, Financial and insurance, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Human health and social work, TWD tn","Taiwan, NGDP, Activity, Tertiary, Human health and social work, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Information and communication, TWD tn","Taiwan, NGDP, Activity, Tertiary, Information and communication, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Other services, TWD tn","Taiwan, NGDP, Activity, Tertiary, Other services, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Professional, scientific and technical services, TWD tn","Taiwan, NGDP, Activity, Tertiary, Professional, scientific and technical services, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, TWD tn","Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, TWD tn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Public and social, TWD tn","Taiwan, NGDP, Activity, Tertiary, Public and social, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Real estate, TWD tn","Taiwan, NGDP, Activity, Tertiary, Real estate, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Support services, TWD tn","Taiwan, NGDP, Activity, Tertiary, Support services, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, TWD tn","Taiwan, NGDP, Activity, Tertiary, TWD tn",None,line
+"Taiwan, NGDP, Activity, Tertiary, Trade and logistics, TWD tn","Taiwan, NGDP, Activity, Tertiary, Trade and logistics, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Transport and storage, TWD tn","Taiwan, NGDP, Activity, Tertiary, Transport and storage, TWD tn",None,line
 "Taiwan, NGDP, Activity, Tertiary, Wholesale and retail, TWD tn","Taiwan, NGDP, Activity, Tertiary, Wholesale and retail, TWD tn",None,line
 "Taiwan, NGDP, Activity, Total excluding statistical disrepancy, TWD tn","Taiwan, NGDP, Activity, Total excluding statistical disrepancy, TWD tn",None,line
@@ -1895,18 +1968,24 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDP, Activity, TWD tn","Taiwan, RGDP, Activity, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, TWD tn","Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, TWD tn","Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, TWD tn",None,line
+"Taiwan, RGDP, Activity, Tertiary, Business and ICT services, TWD tn","Taiwan, RGDP, Activity, Tertiary, Business and ICT services, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Business, TWD tn","Taiwan, RGDP, Activity, Tertiary, Business, TWD tn",None,line
+"Taiwan, RGDP, Activity, Tertiary, Consumer services, TWD tn","Taiwan, RGDP, Activity, Tertiary, Consumer services, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Consumer, TWD tn","Taiwan, RGDP, Activity, Tertiary, Consumer, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Education, TWD tn","Taiwan, RGDP, Activity, Tertiary, Education, TWD tn",None,line
+"Taiwan, RGDP, Activity, Tertiary, Excluding taxes, TWD tn","Taiwan, RGDP, Activity, Tertiary, Excluding taxes, TWD tn",None,line
+"Taiwan, RGDP, Activity, Tertiary, Finance and real estate, TWD tn","Taiwan, RGDP, Activity, Tertiary, Finance and real estate, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Financial and insurance, TWD tn","Taiwan, RGDP, Activity, Tertiary, Financial and insurance, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Human health and social work, TWD tn","Taiwan, RGDP, Activity, Tertiary, Human health and social work, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Information and communication, TWD tn","Taiwan, RGDP, Activity, Tertiary, Information and communication, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Other services, TWD tn","Taiwan, RGDP, Activity, Tertiary, Other services, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, TWD tn","Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, TWD tn","Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, TWD tn",None,line
+"Taiwan, RGDP, Activity, Tertiary, Public and social, TWD tn","Taiwan, RGDP, Activity, Tertiary, Public and social, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Real estate, TWD tn","Taiwan, RGDP, Activity, Tertiary, Real estate, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Support services, TWD tn","Taiwan, RGDP, Activity, Tertiary, Support services, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, TWD tn","Taiwan, RGDP, Activity, Tertiary, TWD tn",None,line
+"Taiwan, RGDP, Activity, Tertiary, Trade and logistics, TWD tn","Taiwan, RGDP, Activity, Tertiary, Trade and logistics, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Transport and storage, TWD tn","Taiwan, RGDP, Activity, Tertiary, Transport and storage, TWD tn",None,line
 "Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, TWD tn","Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, TWD tn",None,line
 "Taiwan, RGDP, Activity, Total excluding statistical disrepancy, TWD tn","Taiwan, RGDP, Activity, Total excluding statistical disrepancy, TWD tn",None,line
@@ -2762,8 +2841,16 @@ name,display_name,data_type,chart_type
 "Taiwan, Deflator, Activity, Tertiary, Accommodation and food services, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Accommodation and food services, TWD, % YoY, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Arts, sports and recreation, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Arts, sports and recreation, Index, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Arts, sports and recreation, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Arts, sports and recreation, TWD, % YoY, 12mma",None,line
+"Taiwan, Deflator, Activity, Tertiary, Business and ICT services, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Business and ICT services, Index, 12mma",None,line
+"Taiwan, Deflator, Activity, Tertiary, Business and ICT services, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Business and ICT services, TWD, % YoY, 12mma",None,line
+"Taiwan, Deflator, Activity, Tertiary, Consumer services, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Consumer services, Index, 12mma",None,line
+"Taiwan, Deflator, Activity, Tertiary, Consumer services, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Consumer services, TWD, % YoY, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Education, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Education, Index, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Education, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Education, TWD, % YoY, 12mma",None,line
+"Taiwan, Deflator, Activity, Tertiary, Excluding taxes, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Excluding taxes, Index, 12mma",None,line
+"Taiwan, Deflator, Activity, Tertiary, Excluding taxes, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Excluding taxes, TWD, % YoY, 12mma",None,line
+"Taiwan, Deflator, Activity, Tertiary, Finance and real estate, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Finance and real estate, Index, 12mma",None,line
+"Taiwan, Deflator, Activity, Tertiary, Finance and real estate, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Finance and real estate, TWD, % YoY, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Financial and insurance, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Financial and insurance, Index, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Financial and insurance, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Financial and insurance, TWD, % YoY, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Human health and social work, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Human health and social work, Index, 12mma",None,line
@@ -2777,11 +2864,15 @@ name,display_name,data_type,chart_type
 "Taiwan, Deflator, Activity, Tertiary, Professional, scientific and technical services, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Professional, scientific and technical services, TWD, % YoY, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Public administration, defence and social security, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Public administration, defence and social security, Index, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Public administration, defence and social security, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Public administration, defence and social security, TWD, % YoY, 12mma",None,line
+"Taiwan, Deflator, Activity, Tertiary, Public and social, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Public and social, Index, 12mma",None,line
+"Taiwan, Deflator, Activity, Tertiary, Public and social, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Public and social, TWD, % YoY, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Real estate, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Real estate, Index, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Real estate, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Real estate, TWD, % YoY, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Support services, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Support services, Index, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Support services, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Support services, TWD, % YoY, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, TWD, % YoY, 12mma",None,line
+"Taiwan, Deflator, Activity, Tertiary, Trade and logistics, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Trade and logistics, Index, 12mma",None,line
+"Taiwan, Deflator, Activity, Tertiary, Trade and logistics, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Trade and logistics, TWD, % YoY, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Transport and storage, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Transport and storage, Index, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Transport and storage, TWD, % YoY, 12mma","Taiwan, Deflator, Activity, Tertiary, Transport and storage, TWD, % YoY, 12mma",None,line
 "Taiwan, Deflator, Activity, Tertiary, Wholesale and retail, Index, 12mma","Taiwan, Deflator, Activity, Tertiary, Wholesale and retail, Index, 12mma",None,line
@@ -2818,12 +2909,20 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Activity, Tertiary, Accommodation and food services, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Accommodation and food services, TWD, % YoY, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, TWD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, TWD, % YoY, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Business and ICT services, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Business and ICT services, TWD bn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Business and ICT services, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Business and ICT services, TWD, % YoY, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Business, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Business, TWD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Business, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Business, TWD, % YoY, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Consumer services, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Consumer services, TWD bn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Consumer services, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Consumer services, TWD, % YoY, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Consumer, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Consumer, TWD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Consumer, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Consumer, TWD, % YoY, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Education, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Education, TWD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Education, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Education, TWD, % YoY, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Excluding taxes, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Excluding taxes, TWD bn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Excluding taxes, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Excluding taxes, TWD, % YoY, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Finance and real estate, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Finance and real estate, TWD bn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Finance and real estate, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Finance and real estate, TWD, % YoY, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Financial and insurance, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Financial and insurance, TWD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Financial and insurance, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Financial and insurance, TWD, % YoY, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Human health and social work, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Human health and social work, TWD bn, 12mma",None,line
@@ -2836,12 +2935,16 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Activity, Tertiary, Professional, scientific and technical services, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Professional, scientific and technical services, TWD, % YoY, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, TWD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, TWD, % YoY, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Public and social, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Public and social, TWD bn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Public and social, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Public and social, TWD, % YoY, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Real estate, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Real estate, TWD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Real estate, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Real estate, TWD, % YoY, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Support services, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Support services, TWD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Support services, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Support services, TWD, % YoY, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, TWD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, TWD, % YoY, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Trade and logistics, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Trade and logistics, TWD bn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Trade and logistics, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Trade and logistics, TWD, % YoY, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Transport and storage, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Transport and storage, TWD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Transport and storage, TWD, % YoY, 12mma","Taiwan, NGDP, Activity, Tertiary, Transport and storage, TWD, % YoY, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Wholesale and retail, TWD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Wholesale and retail, TWD bn, 12mma",None,line
@@ -2893,49 +2996,86 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDP, Activity, TWD bn, 12mma","Taiwan, RGDP, Activity, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, TWD, % YoY, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Business and ICT services, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Business and ICT services, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Business and ICT services, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Business and ICT services, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Business and ICT services, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Business and ICT services, TWD bn, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Business and ICT services, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Business and ICT services, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Business, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Business, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Business, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Business, TWD, % YoY, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Consumer services, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Consumer services, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Consumer services, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Consumer services, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Consumer services, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Consumer services, TWD bn, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Consumer services, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Consumer services, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Consumer, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Consumer, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Consumer, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Consumer, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Contribution to YoY chg, ppts, 12mma",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Education, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Education, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Education, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Education, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Education, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Education, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Education, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Education, TWD, % YoY, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Excluding taxes, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Excluding taxes, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Excluding taxes, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Excluding taxes, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Excluding taxes, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Excluding taxes, TWD bn, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Excluding taxes, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Excluding taxes, TWD, % YoY, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Finance and real estate, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Finance and real estate, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Finance and real estate, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Finance and real estate, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Finance and real estate, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Finance and real estate, TWD bn, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Finance and real estate, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Finance and real estate, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Financial and insurance, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Financial and insurance, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Financial and insurance, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Financial and insurance, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Financial and insurance, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Financial and insurance, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Financial and insurance, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Financial and insurance, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Human health and social work, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Human health and social work, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Human health and social work, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Human health and social work, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Human health and social work, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Human health and social work, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Human health and social work, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Human health and social work, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Information and communication, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Information and communication, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Information and communication, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Information and communication, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Information and communication, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Information and communication, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Information and communication, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Information and communication, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Other services, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Other services, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Other services, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Other services, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Other services, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Other services, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Other services, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Other services, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, TWD, % YoY, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Public and social, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Public and social, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Public and social, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Public and social, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Public and social, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Public and social, TWD bn, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Public and social, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Public and social, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Real estate, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Real estate, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Real estate, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Real estate, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Real estate, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Real estate, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Real estate, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Real estate, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Support services, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Support services, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Support services, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Support services, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Support services, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Support services, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Support services, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Support services, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, TWD, % YoY, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Trade and logistics, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Trade and logistics, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Trade and logistics, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Trade and logistics, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Trade and logistics, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Trade and logistics, TWD bn, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Trade and logistics, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Trade and logistics, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Transport and storage, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Transport and storage, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Transport and storage, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Transport and storage, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Transport and storage, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Transport and storage, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Transport and storage, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Transport and storage, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, Contribution to YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, Contribution to YoY chg, ppts, 12mma",None,bar
+"Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, Contribution to tertiary YoY chg, ppts, 12mma","Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, Contribution to tertiary YoY chg, ppts, 12mma",None,bar
 "Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, TWD bn, 12mma","Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, TWD bn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, TWD, % YoY, 12mma","Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, TWD, % YoY, 12mma",None,line
 "Taiwan, RGDP, Activity, Total excluding statistical disrepancy, TWD bn, 12mma","Taiwan, RGDP, Activity, Total excluding statistical disrepancy, TWD bn, 12mma",None,line
@@ -3396,18 +3536,24 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Activity, USD bn, 12mma","Taiwan, NGDP, Activity, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Accommodation and food services, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Accommodation and food services, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, USD bn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Business and ICT services, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Business and ICT services, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Business, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Business, USD bn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Consumer services, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Consumer services, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Consumer, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Consumer, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Education, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Education, USD bn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Excluding taxes, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Excluding taxes, USD bn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Finance and real estate, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Finance and real estate, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Financial and insurance, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Financial and insurance, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Human health and social work, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Human health and social work, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Information and communication, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Information and communication, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Other services, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Other services, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Professional, scientific and technical services, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Professional, scientific and technical services, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, USD bn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Public and social, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Public and social, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Real estate, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Real estate, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Support services, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Support services, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, USD bn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Trade and logistics, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Trade and logistics, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Transport and storage, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Transport and storage, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Wholesale and retail, USD bn, 12mma","Taiwan, NGDP, Activity, Tertiary, Wholesale and retail, USD bn, 12mma",None,line
 "Taiwan, NGDP, Activity, Total excluding statistical disrepancy, USD bn, 12mma","Taiwan, NGDP, Activity, Total excluding statistical disrepancy, USD bn, 12mma",None,line
@@ -3420,8 +3566,8 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Expenditure, Net exports of goods and services, Exports of goods and services, Services, SA, USD bn, 12mma","Taiwan, NGDP, Expenditure, Net exports of goods and services, Exports of goods and services, Services, SA, USD bn, 12mma",None,line
 "Taiwan, NGDP, Expenditure, TWD bn, 12M sum, 12mma","Taiwan, NGDP, Expenditure, TWD bn, 12M sum, 12mma",None,line
 "Taiwan, NGDP, Expenditure, USD bn, 12M sum, 12mma","Taiwan, NGDP, Expenditure, USD bn, 12M sum, 12mma",None,line
-"Taiwan, RGDP, Expenditure, HP filter, cycle, 12mma","Taiwan, RGDP, Expenditure, HP filter, cycle, 12mma",None,line
 "Taiwan, RGDP, Expenditure, HP filter, trend, 12mma","Taiwan, RGDP, Expenditure, HP filter, trend, 12mma",None,line
+"Taiwan, RGDP, Expenditure, HP filter, cycle, 12mma","Taiwan, RGDP, Expenditure, HP filter, cycle, 12mma",None,line
 "Taiwan, RGDP, Expenditure, HP filter, output gap, 12mma","Taiwan, RGDP, Expenditure, HP filter, output gap, 12mma",None,line
 "Taiwan, RGDP, Expenditure, Hamilton filter, Trend, 12mma","Taiwan, RGDP, Expenditure, Hamilton filter, Trend, 12mma",None,line
 "Taiwan, RGDP, Expenditure, Hamilton filter, Cycle, 12mma","Taiwan, RGDP, Expenditure, Hamilton filter, Cycle, 12mma",None,line
@@ -4207,18 +4353,24 @@ name,display_name,data_type,chart_type
 "Taiwan, NGDP, Activity, TWD tn, 12mma","Taiwan, NGDP, Activity, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Accommodation and food services, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Accommodation and food services, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Arts, sports and recreation, TWD tn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Business and ICT services, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Business and ICT services, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Business, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Business, TWD tn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Consumer services, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Consumer services, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Consumer, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Consumer, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Education, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Education, TWD tn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Excluding taxes, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Excluding taxes, TWD tn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Finance and real estate, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Finance and real estate, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Financial and insurance, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Financial and insurance, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Human health and social work, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Human health and social work, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Information and communication, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Information and communication, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Other services, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Other services, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Professional, scientific and technical services, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Professional, scientific and technical services, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Public administration, defence and social security, TWD tn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Public and social, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Public and social, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Real estate, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Real estate, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Support services, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Support services, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, TWD tn, 12mma",None,line
+"Taiwan, NGDP, Activity, Tertiary, Trade and logistics, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Trade and logistics, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Transport and storage, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Transport and storage, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Tertiary, Wholesale and retail, TWD tn, 12mma","Taiwan, NGDP, Activity, Tertiary, Wholesale and retail, TWD tn, 12mma",None,line
 "Taiwan, NGDP, Activity, Total excluding statistical disrepancy, TWD tn, 12mma","Taiwan, NGDP, Activity, Total excluding statistical disrepancy, TWD tn, 12mma",None,line
@@ -4237,18 +4389,24 @@ name,display_name,data_type,chart_type
 "Taiwan, RGDP, Activity, TWD tn, 12mma","Taiwan, RGDP, Activity, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Accommodation and food services, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Arts, sports and recreation, TWD tn, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Business and ICT services, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Business and ICT services, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Business, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Business, TWD tn, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Consumer services, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Consumer services, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Consumer, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Consumer, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Education, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Education, TWD tn, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Excluding taxes, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Excluding taxes, TWD tn, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Finance and real estate, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Finance and real estate, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Financial and insurance, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Financial and insurance, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Human health and social work, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Human health and social work, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Information and communication, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Information and communication, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Other services, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Other services, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Professional, scientific and technical services, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Public administration, defence and social security, TWD tn, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Public and social, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Public and social, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Real estate, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Real estate, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Support services, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Support services, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, TWD tn, 12mma",None,line
+"Taiwan, RGDP, Activity, Tertiary, Trade and logistics, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Trade and logistics, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Transport and storage, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Transport and storage, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, TWD tn, 12mma","Taiwan, RGDP, Activity, Tertiary, Wholesale and retail, TWD tn, 12mma",None,line
 "Taiwan, RGDP, Activity, Total excluding statistical disrepancy, TWD tn, 12mma","Taiwan, RGDP, Activity, Total excluding statistical disrepancy, TWD tn, 12mma",None,line

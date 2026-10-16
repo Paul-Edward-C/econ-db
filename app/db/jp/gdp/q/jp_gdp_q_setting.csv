@@ -1582,6 +1582,9 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Employee compensation, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, Employee compensation, SAAR, JPY bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, GDI, Consumption of fixed capital, JPY bn","Japan, NGDP, Income, Households, GDI, Consumption of fixed capital, JPY bn",None,line
 "Japan, NGDP, Income, Households, GDI, JPY bn","Japan, NGDP, Income, Households, GDI, JPY bn",None,line
+"Japan, NGDP, Income, Households, Government special cash payments, SA, JPY bn","Japan, NGDP, Income, Households, Government special cash payments, SA, JPY bn",None,line
+"Japan, NGDP, Income, Households, Government special cash payments, SAAR, JPY bn","Japan, NGDP, Income, Households, Government special cash payments, SAAR, JPY bn",None,line
+"Japan, NGDP, Income, Households, Government special cash payments, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, Government special cash payments, SAAR, JPY bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Household consumption, JPY bn","Japan, NGDP, Income, Households, Household consumption, JPY bn",None,line
 "Japan, NGDP, Income, Households, Household consumption, SA, JPY bn","Japan, NGDP, Income, Households, Household consumption, SA, JPY bn",None,line
 "Japan, NGDP, Income, Households, Household consumption, SAAR, JPY bn","Japan, NGDP, Income, Households, Household consumption, SAAR, JPY bn",None,line
@@ -1604,10 +1607,10 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, Net, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, Other current transfers, Net, SAAR, JPY bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, JPY bn","Japan, NGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, JPY bn",None,line
 "Japan, NGDP, Income, Households, Primary income, Gross, JPY bn","Japan, NGDP, Income, Households, Primary income, Gross, JPY bn",None,line
-"Japan, NGDP, Income, Households, Primary income, Gross, SA, JPY bn","Japan, NGDP, Income, Households, Primary income, Gross, SA, JPY bn",None,line
-"Japan, NGDP, Income, Households, Primary income, Gross, SAAR, JPY bn","Japan, NGDP, Income, Households, Primary income, Gross, SAAR, JPY bn",None,line
-"Japan, NGDP, Income, Households, Primary income, Gross, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, Primary income, Gross, SAAR, JPY bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Primary income, Net, JPY bn","Japan, NGDP, Income, Households, Primary income, Net, JPY bn",None,line
+"Japan, NGDP, Income, Households, Primary income, Net, SA, JPY bn","Japan, NGDP, Income, Households, Primary income, Net, SA, JPY bn",None,line
+"Japan, NGDP, Income, Households, Primary income, Net, SAAR, JPY bn","Japan, NGDP, Income, Households, Primary income, Net, SAAR, JPY bn",None,line
+"Japan, NGDP, Income, Households, Primary income, Net, SAAR, JPY bn, 3M chg","Japan, NGDP, Income, Households, Primary income, Net, SAAR, JPY bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Primary income, Sources, JPY bn","Japan, NGDP, Income, Households, Primary income, Sources, JPY bn",None,line
 "Japan, NGDP, Income, Households, Primary income, Uses, JPY bn","Japan, NGDP, Income, Households, Primary income, Uses, JPY bn",None,line
 "Japan, NGDP, Income, Households, Property income, Net, JPY bn","Japan, NGDP, Income, Households, Property income, Net, JPY bn",None,line
@@ -1713,6 +1716,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Net, Property income, Interest, JPY bn","Japan, NGDP, Income, Households, Net, Property income, Interest, JPY bn",None,line
 "Japan, NGDP, Income, Households, Net, Interest, JPY bn","Japan, NGDP, Income, Households, Net, Interest, JPY bn",None,line
 "Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY bn","Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY bn",None,line
+"Japan, NGDP, Income, Households, Sources, Government special cash payments, JPY bn","Japan, NGDP, Income, Households, Sources, Government special cash payments, JPY bn",None,line
 "Japan, NGDP, Income, Households, Net, Social security, JPY bn","Japan, NGDP, Income, Households, Net, Social security, JPY bn",None,line
 "Japan, NGDP, Income, Households, Net, Taxes and social security, JPY bn","Japan, NGDP, Income, Households, Net, Taxes and social security, JPY bn",None,line
 "Japan, NGDP, Income, Households, Net, Taxes and social security, % of primary income","Japan, NGDP, Income, Households, Net, Taxes and social security, % of primary income",None,line
@@ -1748,6 +1752,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Employee compensation, SA, JPY bn","Japan, RGDP, Income, Households, Employee compensation, SA, JPY bn",None,line
 "Japan, RGDP, Income, Households, GDI, Consumption of fixed capital, JPY bn","Japan, RGDP, Income, Households, GDI, Consumption of fixed capital, JPY bn",None,line
 "Japan, RGDP, Income, Households, GDI, JPY bn","Japan, RGDP, Income, Households, GDI, JPY bn",None,line
+"Japan, RGDP, Income, Households, Government special cash payments, SA, JPY bn","Japan, RGDP, Income, Households, Government special cash payments, SA, JPY bn",None,line
 "Japan, RGDP, Income, Households, Household consumption, JPY bn","Japan, RGDP, Income, Households, Household consumption, JPY bn",None,line
 "Japan, RGDP, Income, Households, Household consumption, SA, JPY bn","Japan, RGDP, Income, Households, Household consumption, SA, JPY bn",None,line
 "Japan, RGDP, Income, Households, Net, Taxes and social security, SA, JPY bn","Japan, RGDP, Income, Households, Net, Taxes and social security, SA, JPY bn",None,line
@@ -1757,8 +1762,8 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Other current transfers, Net, SA, JPY bn","Japan, RGDP, Income, Households, Other current transfers, Net, SA, JPY bn",None,line
 "Japan, RGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, JPY bn","Japan, RGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, JPY bn",None,line
 "Japan, RGDP, Income, Households, Primary income, Gross, JPY bn","Japan, RGDP, Income, Households, Primary income, Gross, JPY bn",None,line
-"Japan, RGDP, Income, Households, Primary income, Gross, SA, JPY bn","Japan, RGDP, Income, Households, Primary income, Gross, SA, JPY bn",None,line
 "Japan, RGDP, Income, Households, Primary income, Net, JPY bn","Japan, RGDP, Income, Households, Primary income, Net, JPY bn",None,line
+"Japan, RGDP, Income, Households, Primary income, Net, SA, JPY bn","Japan, RGDP, Income, Households, Primary income, Net, SA, JPY bn",None,line
 "Japan, RGDP, Income, Households, Primary income, Sources, JPY bn","Japan, RGDP, Income, Households, Primary income, Sources, JPY bn",None,line
 "Japan, RGDP, Income, Households, Primary income, Uses, JPY bn","Japan, RGDP, Income, Households, Primary income, Uses, JPY bn",None,line
 "Japan, RGDP, Income, Households, Property income, Net, JPY bn","Japan, RGDP, Income, Households, Property income, Net, JPY bn",None,line
@@ -1844,6 +1849,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Net, Property income, Interest, JPY bn","Japan, RGDP, Income, Households, Net, Property income, Interest, JPY bn",None,line
 "Japan, RGDP, Income, Households, Net, Interest, JPY bn","Japan, RGDP, Income, Households, Net, Interest, JPY bn",None,line
 "Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY bn","Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY bn",None,line
+"Japan, RGDP, Income, Households, Sources, Government special cash payments, JPY bn","Japan, RGDP, Income, Households, Sources, Government special cash payments, JPY bn",None,line
 "Japan, RGDP, Income, Households, Net, Social security, JPY bn","Japan, RGDP, Income, Households, Net, Social security, JPY bn",None,line
 "Japan, RGDP, Income, Households, Net, Taxes and social security, JPY bn","Japan, RGDP, Income, Households, Net, Taxes and social security, JPY bn",None,line
 "Japan, RGDP, Income, Households, Net, Social security including STiK, JPY bn","Japan, RGDP, Income, Households, Net, Social security including STiK, JPY bn",None,line
@@ -1963,6 +1969,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Net, Property income, Interest, JPY bn, JPY, % YoY","Japan, NGDP, Income, Households, Net, Property income, Interest, JPY bn, JPY, % YoY",None,line
 "Japan, NGDP, Income, Households, Net, Interest, JPY bn, JPY, % YoY","Japan, NGDP, Income, Households, Net, Interest, JPY bn, JPY, % YoY",None,line
 "Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY bn, JPY, % YoY","Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY bn, JPY, % YoY",None,line
+"Japan, NGDP, Income, Households, Sources, Government special cash payments, JPY bn, JPY, % YoY","Japan, NGDP, Income, Households, Sources, Government special cash payments, JPY bn, JPY, % YoY",None,line
 "Japan, NGDP, Income, Households, Net, Social security, JPY bn, JPY, % YoY","Japan, NGDP, Income, Households, Net, Social security, JPY bn, JPY, % YoY",None,line
 "Japan, NGDP, Income, Households, Net, Taxes and social security, JPY bn, JPY, % YoY","Japan, NGDP, Income, Households, Net, Taxes and social security, JPY bn, JPY, % YoY",None,line
 "Japan, NGDP, Income, Households, Net, Social security including STiK, JPY bn, JPY, % YoY","Japan, NGDP, Income, Households, Net, Social security including STiK, JPY bn, JPY, % YoY",None,line
@@ -2071,6 +2078,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Net, Property income, Interest, JPY bn, JPY, % YoY","Japan, RGDP, Income, Households, Net, Property income, Interest, JPY bn, JPY, % YoY",None,line
 "Japan, RGDP, Income, Households, Net, Interest, JPY bn, JPY, % YoY","Japan, RGDP, Income, Households, Net, Interest, JPY bn, JPY, % YoY",None,line
 "Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY bn, JPY, % YoY","Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY bn, JPY, % YoY",None,line
+"Japan, RGDP, Income, Households, Sources, Government special cash payments, JPY bn, JPY, % YoY","Japan, RGDP, Income, Households, Sources, Government special cash payments, JPY bn, JPY, % YoY",None,line
 "Japan, RGDP, Income, Households, Net, Social security, JPY bn, JPY, % YoY","Japan, RGDP, Income, Households, Net, Social security, JPY bn, JPY, % YoY",None,line
 "Japan, RGDP, Income, Households, Net, Taxes and social security, JPY bn, JPY, % YoY","Japan, RGDP, Income, Households, Net, Taxes and social security, JPY bn, JPY, % YoY",None,line
 "Japan, RGDP, Income, Households, Net, Social security including STiK, JPY bn, JPY, % YoY","Japan, RGDP, Income, Households, Net, Social security including STiK, JPY bn, JPY, % YoY",None,line
@@ -2320,12 +2328,13 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Current taxes, SA, % of GDP","Japan, NGDP, Income, Households, Current taxes, SA, % of GDP",None,line
 "Japan, NGDP, Income, Households, Employee compensation and mixed income, SA, % of GDP","Japan, NGDP, Income, Households, Employee compensation and mixed income, SA, % of GDP",None,line
 "Japan, NGDP, Income, Households, Employee compensation, SA, % of GDP","Japan, NGDP, Income, Households, Employee compensation, SA, % of GDP",None,line
+"Japan, NGDP, Income, Households, Government special cash payments, SA, % of GDP","Japan, NGDP, Income, Households, Government special cash payments, SA, % of GDP",None,line
 "Japan, NGDP, Income, Households, Household consumption, SA, % of GDP","Japan, NGDP, Income, Households, Household consumption, SA, % of GDP",None,line
 "Japan, NGDP, Income, Households, NDI, SA, % of GDP","Japan, NGDP, Income, Households, NDI, SA, % of GDP",None,line
 "Japan, NGDP, Income, Households, Net, Taxes and social security, SA, % of GDP","Japan, NGDP, Income, Households, Net, Taxes and social security, SA, % of GDP",None,line
 "Japan, NGDP, Income, Households, Operating surplus and mixed income, SA, % of GDP","Japan, NGDP, Income, Households, Operating surplus and mixed income, SA, % of GDP",None,line
 "Japan, NGDP, Income, Households, Other current transfers, Net, SA, % of GDP","Japan, NGDP, Income, Households, Other current transfers, Net, SA, % of GDP",None,line
-"Japan, NGDP, Income, Households, Primary income, Gross, SA, % of GDP","Japan, NGDP, Income, Households, Primary income, Gross, SA, % of GDP",None,line
+"Japan, NGDP, Income, Households, Primary income, Net, SA, % of GDP","Japan, NGDP, Income, Households, Primary income, Net, SA, % of GDP",None,line
 "Japan, NGDP, Income, Households, Property income, Net, SA, % of GDP","Japan, NGDP, Income, Households, Property income, Net, SA, % of GDP",None,line
 "Japan, NGDP, Income, Households, Saving, SA, % of GDP","Japan, NGDP, Income, Households, Saving, SA, % of GDP",None,line
 "Japan, NGDP, Income, Households, Social benefits other than STiK, SA, % of GDP","Japan, NGDP, Income, Households, Social benefits other than STiK, SA, % of GDP",None,line
@@ -2917,6 +2926,9 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Employee compensation, SAAR, JPY tn, 3M chg","Japan, NGDP, Income, Households, Employee compensation, SAAR, JPY tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, GDI, Consumption of fixed capital, JPY tn","Japan, NGDP, Income, Households, GDI, Consumption of fixed capital, JPY tn",None,line
 "Japan, NGDP, Income, Households, GDI, JPY tn","Japan, NGDP, Income, Households, GDI, JPY tn",None,line
+"Japan, NGDP, Income, Households, Government special cash payments, SA, JPY tn","Japan, NGDP, Income, Households, Government special cash payments, SA, JPY tn",None,line
+"Japan, NGDP, Income, Households, Government special cash payments, SAAR, JPY tn","Japan, NGDP, Income, Households, Government special cash payments, SAAR, JPY tn",None,line
+"Japan, NGDP, Income, Households, Government special cash payments, SAAR, JPY tn, 3M chg","Japan, NGDP, Income, Households, Government special cash payments, SAAR, JPY tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Household consumption, JPY tn","Japan, NGDP, Income, Households, Household consumption, JPY tn",None,line
 "Japan, NGDP, Income, Households, Household consumption, SA, JPY tn","Japan, NGDP, Income, Households, Household consumption, SA, JPY tn",None,line
 "Japan, NGDP, Income, Households, Household consumption, SAAR, JPY tn","Japan, NGDP, Income, Households, Household consumption, SAAR, JPY tn",None,line
@@ -2938,10 +2950,10 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, Net, SAAR, JPY tn, 3M chg","Japan, NGDP, Income, Households, Other current transfers, Net, SAAR, JPY tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, JPY tn","Japan, NGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, JPY tn",None,line
 "Japan, NGDP, Income, Households, Primary income, Gross, JPY tn","Japan, NGDP, Income, Households, Primary income, Gross, JPY tn",None,line
-"Japan, NGDP, Income, Households, Primary income, Gross, SA, JPY tn","Japan, NGDP, Income, Households, Primary income, Gross, SA, JPY tn",None,line
-"Japan, NGDP, Income, Households, Primary income, Gross, SAAR, JPY tn","Japan, NGDP, Income, Households, Primary income, Gross, SAAR, JPY tn",None,line
-"Japan, NGDP, Income, Households, Primary income, Gross, SAAR, JPY tn, 3M chg","Japan, NGDP, Income, Households, Primary income, Gross, SAAR, JPY tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Primary income, Net, JPY tn","Japan, NGDP, Income, Households, Primary income, Net, JPY tn",None,line
+"Japan, NGDP, Income, Households, Primary income, Net, SA, JPY tn","Japan, NGDP, Income, Households, Primary income, Net, SA, JPY tn",None,line
+"Japan, NGDP, Income, Households, Primary income, Net, SAAR, JPY tn","Japan, NGDP, Income, Households, Primary income, Net, SAAR, JPY tn",None,line
+"Japan, NGDP, Income, Households, Primary income, Net, SAAR, JPY tn, 3M chg","Japan, NGDP, Income, Households, Primary income, Net, SAAR, JPY tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Primary income, Sources, JPY tn","Japan, NGDP, Income, Households, Primary income, Sources, JPY tn",None,line
 "Japan, NGDP, Income, Households, Primary income, Uses, JPY tn","Japan, NGDP, Income, Households, Primary income, Uses, JPY tn",None,line
 "Japan, NGDP, Income, Households, Property income, Net, JPY tn","Japan, NGDP, Income, Households, Property income, Net, JPY tn",None,line
@@ -3043,6 +3055,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Net, Property income, Interest, JPY tn","Japan, NGDP, Income, Households, Net, Property income, Interest, JPY tn",None,line
 "Japan, NGDP, Income, Households, Net, Interest, JPY tn","Japan, NGDP, Income, Households, Net, Interest, JPY tn",None,line
 "Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY tn","Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY tn",None,line
+"Japan, NGDP, Income, Households, Sources, Government special cash payments, JPY tn","Japan, NGDP, Income, Households, Sources, Government special cash payments, JPY tn",None,line
 "Japan, NGDP, Income, Households, Net, Social security, JPY tn","Japan, NGDP, Income, Households, Net, Social security, JPY tn",None,line
 "Japan, NGDP, Income, Households, Net, Taxes and social security, JPY tn","Japan, NGDP, Income, Households, Net, Taxes and social security, JPY tn",None,line
 "Japan, NGDP, Income, Households, Net, Social security including STiK, JPY tn","Japan, NGDP, Income, Households, Net, Social security including STiK, JPY tn",None,line
@@ -3070,6 +3083,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Employee compensation, SA, JPY tn","Japan, RGDP, Income, Households, Employee compensation, SA, JPY tn",None,line
 "Japan, RGDP, Income, Households, GDI, Consumption of fixed capital, JPY tn","Japan, RGDP, Income, Households, GDI, Consumption of fixed capital, JPY tn",None,line
 "Japan, RGDP, Income, Households, GDI, JPY tn","Japan, RGDP, Income, Households, GDI, JPY tn",None,line
+"Japan, RGDP, Income, Households, Government special cash payments, SA, JPY tn","Japan, RGDP, Income, Households, Government special cash payments, SA, JPY tn",None,line
 "Japan, RGDP, Income, Households, Household consumption, JPY tn","Japan, RGDP, Income, Households, Household consumption, JPY tn",None,line
 "Japan, RGDP, Income, Households, Household consumption, SA, JPY tn","Japan, RGDP, Income, Households, Household consumption, SA, JPY tn",None,line
 "Japan, RGDP, Income, Households, Net, Taxes and social security, SA, JPY tn","Japan, RGDP, Income, Households, Net, Taxes and social security, SA, JPY tn",None,line
@@ -3079,8 +3093,8 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Other current transfers, Net, SA, JPY tn","Japan, RGDP, Income, Households, Other current transfers, Net, SA, JPY tn",None,line
 "Japan, RGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, JPY tn","Japan, RGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, JPY tn",None,line
 "Japan, RGDP, Income, Households, Primary income, Gross, JPY tn","Japan, RGDP, Income, Households, Primary income, Gross, JPY tn",None,line
-"Japan, RGDP, Income, Households, Primary income, Gross, SA, JPY tn","Japan, RGDP, Income, Households, Primary income, Gross, SA, JPY tn",None,line
 "Japan, RGDP, Income, Households, Primary income, Net, JPY tn","Japan, RGDP, Income, Households, Primary income, Net, JPY tn",None,line
+"Japan, RGDP, Income, Households, Primary income, Net, SA, JPY tn","Japan, RGDP, Income, Households, Primary income, Net, SA, JPY tn",None,line
 "Japan, RGDP, Income, Households, Primary income, Sources, JPY tn","Japan, RGDP, Income, Households, Primary income, Sources, JPY tn",None,line
 "Japan, RGDP, Income, Households, Primary income, Uses, JPY tn","Japan, RGDP, Income, Households, Primary income, Uses, JPY tn",None,line
 "Japan, RGDP, Income, Households, Property income, Net, JPY tn","Japan, RGDP, Income, Households, Property income, Net, JPY tn",None,line
@@ -3166,6 +3180,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Net, Property income, Interest, JPY tn","Japan, RGDP, Income, Households, Net, Property income, Interest, JPY tn",None,line
 "Japan, RGDP, Income, Households, Net, Interest, JPY tn","Japan, RGDP, Income, Households, Net, Interest, JPY tn",None,line
 "Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY tn","Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY tn",None,line
+"Japan, RGDP, Income, Households, Sources, Government special cash payments, JPY tn","Japan, RGDP, Income, Households, Sources, Government special cash payments, JPY tn",None,line
 "Japan, RGDP, Income, Households, Net, Social security, JPY tn","Japan, RGDP, Income, Households, Net, Social security, JPY tn",None,line
 "Japan, RGDP, Income, Households, Net, Taxes and social security, JPY tn","Japan, RGDP, Income, Households, Net, Taxes and social security, JPY tn",None,line
 "Japan, RGDP, Income, Households, Net, Social security including STiK, JPY tn","Japan, RGDP, Income, Households, Net, Social security including STiK, JPY tn",None,line
@@ -3779,6 +3794,9 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Employee compensation, SAAR, USD bn, 3M chg","Japan, NGDP, Income, Households, Employee compensation, SAAR, USD bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, GDI, Consumption of fixed capital, USD bn","Japan, NGDP, Income, Households, GDI, Consumption of fixed capital, USD bn",None,line
 "Japan, NGDP, Income, Households, GDI, USD bn","Japan, NGDP, Income, Households, GDI, USD bn",None,line
+"Japan, NGDP, Income, Households, Government special cash payments, SA, USD bn","Japan, NGDP, Income, Households, Government special cash payments, SA, USD bn",None,line
+"Japan, NGDP, Income, Households, Government special cash payments, SAAR, USD bn","Japan, NGDP, Income, Households, Government special cash payments, SAAR, USD bn",None,line
+"Japan, NGDP, Income, Households, Government special cash payments, SAAR, USD bn, 3M chg","Japan, NGDP, Income, Households, Government special cash payments, SAAR, USD bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Household consumption, USD bn","Japan, NGDP, Income, Households, Household consumption, USD bn",None,line
 "Japan, NGDP, Income, Households, Household consumption, SA, USD bn","Japan, NGDP, Income, Households, Household consumption, SA, USD bn",None,line
 "Japan, NGDP, Income, Households, Household consumption, SAAR, USD bn","Japan, NGDP, Income, Households, Household consumption, SAAR, USD bn",None,line
@@ -3800,10 +3818,10 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, Net, SAAR, USD bn, 3M chg","Japan, NGDP, Income, Households, Other current transfers, Net, SAAR, USD bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, USD bn","Japan, NGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, USD bn",None,line
 "Japan, NGDP, Income, Households, Primary income, Gross, USD bn","Japan, NGDP, Income, Households, Primary income, Gross, USD bn",None,line
-"Japan, NGDP, Income, Households, Primary income, Gross, SA, USD bn","Japan, NGDP, Income, Households, Primary income, Gross, SA, USD bn",None,line
-"Japan, NGDP, Income, Households, Primary income, Gross, SAAR, USD bn","Japan, NGDP, Income, Households, Primary income, Gross, SAAR, USD bn",None,line
-"Japan, NGDP, Income, Households, Primary income, Gross, SAAR, USD bn, 3M chg","Japan, NGDP, Income, Households, Primary income, Gross, SAAR, USD bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Primary income, Net, USD bn","Japan, NGDP, Income, Households, Primary income, Net, USD bn",None,line
+"Japan, NGDP, Income, Households, Primary income, Net, SA, USD bn","Japan, NGDP, Income, Households, Primary income, Net, SA, USD bn",None,line
+"Japan, NGDP, Income, Households, Primary income, Net, SAAR, USD bn","Japan, NGDP, Income, Households, Primary income, Net, SAAR, USD bn",None,line
+"Japan, NGDP, Income, Households, Primary income, Net, SAAR, USD bn, 3M chg","Japan, NGDP, Income, Households, Primary income, Net, SAAR, USD bn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Primary income, Sources, USD bn","Japan, NGDP, Income, Households, Primary income, Sources, USD bn",None,line
 "Japan, NGDP, Income, Households, Primary income, Uses, USD bn","Japan, NGDP, Income, Households, Primary income, Uses, USD bn",None,line
 "Japan, NGDP, Income, Households, Property income, Net, USD bn","Japan, NGDP, Income, Households, Property income, Net, USD bn",None,line
@@ -3905,6 +3923,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Net, Property income, Interest, USD bn","Japan, NGDP, Income, Households, Net, Property income, Interest, USD bn",None,line
 "Japan, NGDP, Income, Households, Net, Interest, USD bn","Japan, NGDP, Income, Households, Net, Interest, USD bn",None,line
 "Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, USD bn","Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, USD bn",None,line
+"Japan, NGDP, Income, Households, Sources, Government special cash payments, USD bn","Japan, NGDP, Income, Households, Sources, Government special cash payments, USD bn",None,line
 "Japan, NGDP, Income, Households, Net, Social security, USD bn","Japan, NGDP, Income, Households, Net, Social security, USD bn",None,line
 "Japan, NGDP, Income, Households, Net, Taxes and social security, USD bn","Japan, NGDP, Income, Households, Net, Taxes and social security, USD bn",None,line
 "Japan, NGDP, Income, Households, Net, Social security including STiK, USD bn","Japan, NGDP, Income, Households, Net, Social security including STiK, USD bn",None,line
@@ -3932,6 +3951,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Employee compensation, SA, USD bn","Japan, RGDP, Income, Households, Employee compensation, SA, USD bn",None,line
 "Japan, RGDP, Income, Households, GDI, Consumption of fixed capital, USD bn","Japan, RGDP, Income, Households, GDI, Consumption of fixed capital, USD bn",None,line
 "Japan, RGDP, Income, Households, GDI, USD bn","Japan, RGDP, Income, Households, GDI, USD bn",None,line
+"Japan, RGDP, Income, Households, Government special cash payments, SA, USD bn","Japan, RGDP, Income, Households, Government special cash payments, SA, USD bn",None,line
 "Japan, RGDP, Income, Households, Household consumption, USD bn","Japan, RGDP, Income, Households, Household consumption, USD bn",None,line
 "Japan, RGDP, Income, Households, Household consumption, SA, USD bn","Japan, RGDP, Income, Households, Household consumption, SA, USD bn",None,line
 "Japan, RGDP, Income, Households, Net, Taxes and social security, SA, USD bn","Japan, RGDP, Income, Households, Net, Taxes and social security, SA, USD bn",None,line
@@ -3941,8 +3961,8 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Other current transfers, Net, SA, USD bn","Japan, RGDP, Income, Households, Other current transfers, Net, SA, USD bn",None,line
 "Japan, RGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, USD bn","Japan, RGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, USD bn",None,line
 "Japan, RGDP, Income, Households, Primary income, Gross, USD bn","Japan, RGDP, Income, Households, Primary income, Gross, USD bn",None,line
-"Japan, RGDP, Income, Households, Primary income, Gross, SA, USD bn","Japan, RGDP, Income, Households, Primary income, Gross, SA, USD bn",None,line
 "Japan, RGDP, Income, Households, Primary income, Net, USD bn","Japan, RGDP, Income, Households, Primary income, Net, USD bn",None,line
+"Japan, RGDP, Income, Households, Primary income, Net, SA, USD bn","Japan, RGDP, Income, Households, Primary income, Net, SA, USD bn",None,line
 "Japan, RGDP, Income, Households, Primary income, Sources, USD bn","Japan, RGDP, Income, Households, Primary income, Sources, USD bn",None,line
 "Japan, RGDP, Income, Households, Primary income, Uses, USD bn","Japan, RGDP, Income, Households, Primary income, Uses, USD bn",None,line
 "Japan, RGDP, Income, Households, Property income, Net, USD bn","Japan, RGDP, Income, Households, Property income, Net, USD bn",None,line
@@ -4028,6 +4048,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Net, Property income, Interest, USD bn","Japan, RGDP, Income, Households, Net, Property income, Interest, USD bn",None,line
 "Japan, RGDP, Income, Households, Net, Interest, USD bn","Japan, RGDP, Income, Households, Net, Interest, USD bn",None,line
 "Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, USD bn","Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, USD bn",None,line
+"Japan, RGDP, Income, Households, Sources, Government special cash payments, USD bn","Japan, RGDP, Income, Households, Sources, Government special cash payments, USD bn",None,line
 "Japan, RGDP, Income, Households, Net, Social security, USD bn","Japan, RGDP, Income, Households, Net, Social security, USD bn",None,line
 "Japan, RGDP, Income, Households, Net, Taxes and social security, USD bn","Japan, RGDP, Income, Households, Net, Taxes and social security, USD bn",None,line
 "Japan, RGDP, Income, Households, Net, Social security including STiK, USD bn","Japan, RGDP, Income, Households, Net, Social security including STiK, USD bn",None,line
@@ -4704,6 +4725,9 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Employee compensation, SAAR, USD tn, 3M chg","Japan, NGDP, Income, Households, Employee compensation, SAAR, USD tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, GDI, Consumption of fixed capital, USD tn","Japan, NGDP, Income, Households, GDI, Consumption of fixed capital, USD tn",None,line
 "Japan, NGDP, Income, Households, GDI, USD tn","Japan, NGDP, Income, Households, GDI, USD tn",None,line
+"Japan, NGDP, Income, Households, Government special cash payments, SA, USD tn","Japan, NGDP, Income, Households, Government special cash payments, SA, USD tn",None,line
+"Japan, NGDP, Income, Households, Government special cash payments, SAAR, USD tn","Japan, NGDP, Income, Households, Government special cash payments, SAAR, USD tn",None,line
+"Japan, NGDP, Income, Households, Government special cash payments, SAAR, USD tn, 3M chg","Japan, NGDP, Income, Households, Government special cash payments, SAAR, USD tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Household consumption, USD tn","Japan, NGDP, Income, Households, Household consumption, USD tn",None,line
 "Japan, NGDP, Income, Households, Household consumption, SA, USD tn","Japan, NGDP, Income, Households, Household consumption, SA, USD tn",None,line
 "Japan, NGDP, Income, Households, Household consumption, SAAR, USD tn","Japan, NGDP, Income, Households, Household consumption, SAAR, USD tn",None,line
@@ -4725,10 +4749,10 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Other current transfers, Net, SAAR, USD tn, 3M chg","Japan, NGDP, Income, Households, Other current transfers, Net, SAAR, USD tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, USD tn","Japan, NGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, USD tn",None,line
 "Japan, NGDP, Income, Households, Primary income, Gross, USD tn","Japan, NGDP, Income, Households, Primary income, Gross, USD tn",None,line
-"Japan, NGDP, Income, Households, Primary income, Gross, SA, USD tn","Japan, NGDP, Income, Households, Primary income, Gross, SA, USD tn",None,line
-"Japan, NGDP, Income, Households, Primary income, Gross, SAAR, USD tn","Japan, NGDP, Income, Households, Primary income, Gross, SAAR, USD tn",None,line
-"Japan, NGDP, Income, Households, Primary income, Gross, SAAR, USD tn, 3M chg","Japan, NGDP, Income, Households, Primary income, Gross, SAAR, USD tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Primary income, Net, USD tn","Japan, NGDP, Income, Households, Primary income, Net, USD tn",None,line
+"Japan, NGDP, Income, Households, Primary income, Net, SA, USD tn","Japan, NGDP, Income, Households, Primary income, Net, SA, USD tn",None,line
+"Japan, NGDP, Income, Households, Primary income, Net, SAAR, USD tn","Japan, NGDP, Income, Households, Primary income, Net, SAAR, USD tn",None,line
+"Japan, NGDP, Income, Households, Primary income, Net, SAAR, USD tn, 3M chg","Japan, NGDP, Income, Households, Primary income, Net, SAAR, USD tn, 3M chg",None,line
 "Japan, NGDP, Income, Households, Primary income, Sources, USD tn","Japan, NGDP, Income, Households, Primary income, Sources, USD tn",None,line
 "Japan, NGDP, Income, Households, Primary income, Uses, USD tn","Japan, NGDP, Income, Households, Primary income, Uses, USD tn",None,line
 "Japan, NGDP, Income, Households, Property income, Net, USD tn","Japan, NGDP, Income, Households, Property income, Net, USD tn",None,line
@@ -4830,6 +4854,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Net, Property income, Interest, USD tn","Japan, NGDP, Income, Households, Net, Property income, Interest, USD tn",None,line
 "Japan, NGDP, Income, Households, Net, Interest, USD tn","Japan, NGDP, Income, Households, Net, Interest, USD tn",None,line
 "Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, USD tn","Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, USD tn",None,line
+"Japan, NGDP, Income, Households, Sources, Government special cash payments, USD tn","Japan, NGDP, Income, Households, Sources, Government special cash payments, USD tn",None,line
 "Japan, NGDP, Income, Households, Net, Social security, USD tn","Japan, NGDP, Income, Households, Net, Social security, USD tn",None,line
 "Japan, NGDP, Income, Households, Net, Taxes and social security, USD tn","Japan, NGDP, Income, Households, Net, Taxes and social security, USD tn",None,line
 "Japan, NGDP, Income, Households, Net, Social security including STiK, USD tn","Japan, NGDP, Income, Households, Net, Social security including STiK, USD tn",None,line
@@ -4857,6 +4882,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Employee compensation, SA, USD tn","Japan, RGDP, Income, Households, Employee compensation, SA, USD tn",None,line
 "Japan, RGDP, Income, Households, GDI, Consumption of fixed capital, USD tn","Japan, RGDP, Income, Households, GDI, Consumption of fixed capital, USD tn",None,line
 "Japan, RGDP, Income, Households, GDI, USD tn","Japan, RGDP, Income, Households, GDI, USD tn",None,line
+"Japan, RGDP, Income, Households, Government special cash payments, SA, USD tn","Japan, RGDP, Income, Households, Government special cash payments, SA, USD tn",None,line
 "Japan, RGDP, Income, Households, Household consumption, USD tn","Japan, RGDP, Income, Households, Household consumption, USD tn",None,line
 "Japan, RGDP, Income, Households, Household consumption, SA, USD tn","Japan, RGDP, Income, Households, Household consumption, SA, USD tn",None,line
 "Japan, RGDP, Income, Households, Net, Taxes and social security, SA, USD tn","Japan, RGDP, Income, Households, Net, Taxes and social security, SA, USD tn",None,line
@@ -4866,8 +4892,8 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Other current transfers, Net, SA, USD tn","Japan, RGDP, Income, Households, Other current transfers, Net, SA, USD tn",None,line
 "Japan, RGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, USD tn","Japan, RGDP, Income, Households, Primary income, Gross, Consumption of fixed capital, USD tn",None,line
 "Japan, RGDP, Income, Households, Primary income, Gross, USD tn","Japan, RGDP, Income, Households, Primary income, Gross, USD tn",None,line
-"Japan, RGDP, Income, Households, Primary income, Gross, SA, USD tn","Japan, RGDP, Income, Households, Primary income, Gross, SA, USD tn",None,line
 "Japan, RGDP, Income, Households, Primary income, Net, USD tn","Japan, RGDP, Income, Households, Primary income, Net, USD tn",None,line
+"Japan, RGDP, Income, Households, Primary income, Net, SA, USD tn","Japan, RGDP, Income, Households, Primary income, Net, SA, USD tn",None,line
 "Japan, RGDP, Income, Households, Primary income, Sources, USD tn","Japan, RGDP, Income, Households, Primary income, Sources, USD tn",None,line
 "Japan, RGDP, Income, Households, Primary income, Uses, USD tn","Japan, RGDP, Income, Households, Primary income, Uses, USD tn",None,line
 "Japan, RGDP, Income, Households, Property income, Net, USD tn","Japan, RGDP, Income, Households, Property income, Net, USD tn",None,line
@@ -4953,6 +4979,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Net, Property income, Interest, USD tn","Japan, RGDP, Income, Households, Net, Property income, Interest, USD tn",None,line
 "Japan, RGDP, Income, Households, Net, Interest, USD tn","Japan, RGDP, Income, Households, Net, Interest, USD tn",None,line
 "Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, USD tn","Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, USD tn",None,line
+"Japan, RGDP, Income, Households, Sources, Government special cash payments, USD tn","Japan, RGDP, Income, Households, Sources, Government special cash payments, USD tn",None,line
 "Japan, RGDP, Income, Households, Net, Social security, USD tn","Japan, RGDP, Income, Households, Net, Social security, USD tn",None,line
 "Japan, RGDP, Income, Households, Net, Taxes and social security, USD tn","Japan, RGDP, Income, Households, Net, Taxes and social security, USD tn",None,line
 "Japan, RGDP, Income, Households, Net, Social security including STiK, USD tn","Japan, RGDP, Income, Households, Net, Social security including STiK, USD tn",None,line
@@ -5391,6 +5418,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Net, Property income, Interest, JPY bn, 12M sum","Japan, NGDP, Income, Households, Net, Property income, Interest, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Interest, JPY bn, 12M sum","Japan, NGDP, Income, Households, Net, Interest, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY bn, 12M sum","Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY bn, 12M sum",None,line
+"Japan, NGDP, Income, Households, Sources, Government special cash payments, JPY bn, 12M sum","Japan, NGDP, Income, Households, Sources, Government special cash payments, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Social security, JPY bn, 12M sum","Japan, NGDP, Income, Households, Net, Social security, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Taxes and social security, JPY bn, 12M sum","Japan, NGDP, Income, Households, Net, Taxes and social security, JPY bn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Social security including STiK, JPY bn, 12M sum","Japan, NGDP, Income, Households, Net, Social security including STiK, JPY bn, 12M sum",None,line
@@ -5499,6 +5527,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Net, Property income, Interest, JPY bn, 12M sum","Japan, RGDP, Income, Households, Net, Property income, Interest, JPY bn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Interest, JPY bn, 12M sum","Japan, RGDP, Income, Households, Net, Interest, JPY bn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY bn, 12M sum","Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY bn, 12M sum",None,line
+"Japan, RGDP, Income, Households, Sources, Government special cash payments, JPY bn, 12M sum","Japan, RGDP, Income, Households, Sources, Government special cash payments, JPY bn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Social security, JPY bn, 12M sum","Japan, RGDP, Income, Households, Net, Social security, JPY bn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Taxes and social security, JPY bn, 12M sum","Japan, RGDP, Income, Households, Net, Taxes and social security, JPY bn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Social security including STiK, JPY bn, 12M sum","Japan, RGDP, Income, Households, Net, Social security including STiK, JPY bn, 12M sum",None,line
@@ -5896,6 +5925,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Net, Property income, Interest, JPY tn, 12M sum","Japan, NGDP, Income, Households, Net, Property income, Interest, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Interest, JPY tn, 12M sum","Japan, NGDP, Income, Households, Net, Interest, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY tn, 12M sum","Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY tn, 12M sum",None,line
+"Japan, NGDP, Income, Households, Sources, Government special cash payments, JPY tn, 12M sum","Japan, NGDP, Income, Households, Sources, Government special cash payments, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Social security, JPY tn, 12M sum","Japan, NGDP, Income, Households, Net, Social security, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Taxes and social security, JPY tn, 12M sum","Japan, NGDP, Income, Households, Net, Taxes and social security, JPY tn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Social security including STiK, JPY tn, 12M sum","Japan, NGDP, Income, Households, Net, Social security including STiK, JPY tn, 12M sum",None,line
@@ -6004,6 +6034,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Net, Property income, Interest, JPY tn, 12M sum","Japan, RGDP, Income, Households, Net, Property income, Interest, JPY tn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Interest, JPY tn, 12M sum","Japan, RGDP, Income, Households, Net, Interest, JPY tn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY tn, 12M sum","Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, JPY tn, 12M sum",None,line
+"Japan, RGDP, Income, Households, Sources, Government special cash payments, JPY tn, 12M sum","Japan, RGDP, Income, Households, Sources, Government special cash payments, JPY tn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Social security, JPY tn, 12M sum","Japan, RGDP, Income, Households, Net, Social security, JPY tn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Taxes and social security, JPY tn, 12M sum","Japan, RGDP, Income, Households, Net, Taxes and social security, JPY tn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Social security including STiK, JPY tn, 12M sum","Japan, RGDP, Income, Households, Net, Social security including STiK, JPY tn, 12M sum",None,line
@@ -6401,6 +6432,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Net, Property income, Interest, USD bn, 12M sum","Japan, NGDP, Income, Households, Net, Property income, Interest, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Interest, USD bn, 12M sum","Japan, NGDP, Income, Households, Net, Interest, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, USD bn, 12M sum","Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, USD bn, 12M sum",None,line
+"Japan, NGDP, Income, Households, Sources, Government special cash payments, USD bn, 12M sum","Japan, NGDP, Income, Households, Sources, Government special cash payments, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Social security, USD bn, 12M sum","Japan, NGDP, Income, Households, Net, Social security, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Taxes and social security, USD bn, 12M sum","Japan, NGDP, Income, Households, Net, Taxes and social security, USD bn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Social security including STiK, USD bn, 12M sum","Japan, NGDP, Income, Households, Net, Social security including STiK, USD bn, 12M sum",None,line
@@ -6509,6 +6541,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Net, Property income, Interest, USD bn, 12M sum","Japan, RGDP, Income, Households, Net, Property income, Interest, USD bn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Interest, USD bn, 12M sum","Japan, RGDP, Income, Households, Net, Interest, USD bn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, USD bn, 12M sum","Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, USD bn, 12M sum",None,line
+"Japan, RGDP, Income, Households, Sources, Government special cash payments, USD bn, 12M sum","Japan, RGDP, Income, Households, Sources, Government special cash payments, USD bn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Social security, USD bn, 12M sum","Japan, RGDP, Income, Households, Net, Social security, USD bn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Taxes and social security, USD bn, 12M sum","Japan, RGDP, Income, Households, Net, Taxes and social security, USD bn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Social security including STiK, USD bn, 12M sum","Japan, RGDP, Income, Households, Net, Social security including STiK, USD bn, 12M sum",None,line
@@ -6906,6 +6939,7 @@ name,display_name,data_type,chart_type
 "Japan, NGDP, Income, Households, Net, Property income, Interest, USD tn, 12M sum","Japan, NGDP, Income, Households, Net, Property income, Interest, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Interest, USD tn, 12M sum","Japan, NGDP, Income, Households, Net, Interest, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, USD tn, 12M sum","Japan, NGDP, Income, Households, Sources, Operating surplus and employee compensation, USD tn, 12M sum",None,line
+"Japan, NGDP, Income, Households, Sources, Government special cash payments, USD tn, 12M sum","Japan, NGDP, Income, Households, Sources, Government special cash payments, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Social security, USD tn, 12M sum","Japan, NGDP, Income, Households, Net, Social security, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Taxes and social security, USD tn, 12M sum","Japan, NGDP, Income, Households, Net, Taxes and social security, USD tn, 12M sum",None,line
 "Japan, NGDP, Income, Households, Net, Social security including STiK, USD tn, 12M sum","Japan, NGDP, Income, Households, Net, Social security including STiK, USD tn, 12M sum",None,line
@@ -7014,6 +7048,7 @@ name,display_name,data_type,chart_type
 "Japan, RGDP, Income, Households, Net, Property income, Interest, USD tn, 12M sum","Japan, RGDP, Income, Households, Net, Property income, Interest, USD tn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Interest, USD tn, 12M sum","Japan, RGDP, Income, Households, Net, Interest, USD tn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, USD tn, 12M sum","Japan, RGDP, Income, Households, Sources, Operating surplus and employee compensation, USD tn, 12M sum",None,line
+"Japan, RGDP, Income, Households, Sources, Government special cash payments, USD tn, 12M sum","Japan, RGDP, Income, Households, Sources, Government special cash payments, USD tn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Social security, USD tn, 12M sum","Japan, RGDP, Income, Households, Net, Social security, USD tn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Taxes and social security, USD tn, 12M sum","Japan, RGDP, Income, Households, Net, Taxes and social security, USD tn, 12M sum",None,line
 "Japan, RGDP, Income, Households, Net, Social security including STiK, USD tn, 12M sum","Japan, RGDP, Income, Households, Net, Social security including STiK, USD tn, 12M sum",None,line
